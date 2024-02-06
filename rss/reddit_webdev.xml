@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 20:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 20:31:30 GMT</lastBuildDate>
     <item>
       <title>Hostgator 将每个帐户的最大域名减少到只有 2 个网站（之前是 100 个网站）这是一个骗局吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1akjivd/hostgator_reduced_max_domain_per_account_to_only/</link>
@@ -41,7 +41,7 @@
       <pubDate>Tue, 06 Feb 2024 19:59:43 GMT</pubDate>
     </item>
     <item>
-      <title>网站枪支</title>
+      <title>网站枪械</title>
       <link>https://www.reddit.com/r/webdev/comments/1akhqmc/website_firearms/</link>
       <description><![CDATA[您好 - 正如标题所示，我正在尝试构建一个网站，但问题是 godaddy 和 Shopify 不允许这样做，我试图找出推荐的行动方案。我有人建造它，但问题是我不想有一天醒来它就消失了。有人对此有见解吗？  我希望 Shopify 有一个目录可供查看，但这变得很令人头痛   由   提交 /u/HomeschoolProm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1akhqmc/website_firearms/</guid>
@@ -57,14 +57,14 @@
     <item>
       <title>还有其他人觉得非开发人员角色毫无用处吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1akfq13/does_anyone_else_feel_like_nondeveloper_roles_are/</link>
-      <description><![CDATA[HR、QA、项目经理、UI/UX...我的公司有所有这些“支持”角色，他们什么也不做，只是做着糟糕的工作，没有任何帮助。问责制只会妨碍实际完成工作。我认为一半的问题在于我们的招聘标准，因为所有这些人的工作都很糟糕。 我经常不得不向同事指出遗漏的要求、规格、缺乏细节等问题。  感觉这些角色可以压缩为另一个开发人员角色，他实际上可以像样地完成这些工作。 只是咆哮，我曾在只有开发人员的地方工作过这还不错。我还曾与一位产品经理合作过，他的工作非常出色，但这个人也做了 QA 工作。只是好奇每个人的想法。 编辑：我以前曾与出色的质量检查人员合作过。当他们表现好的时候，他们会很有帮助。我们的员工是由一位不喜欢面试的新经理雇用的，而且他们完全一无所知。我对所有不称职的员工束手无策，我认为人力资源部门应该负主要责任。他们甚至很难提供准确的职位列表和职位要求，而我们的面试没有公司标准。   由   提交/​​u/MMizzle9  [链接] [评论]]]></description>
+      <description><![CDATA[HR、QA、项目经理、UI/UX...我的公司有所有这些“支持”角色，他们什么都不做，只是做一些糟糕的工作，没有任何帮助。问责制只会妨碍实际完成工作。我认为一半的问题在于我们的招聘标准，因为所有这些人的工作都很糟糕。 我经常不得不向同事指出遗漏的要求、规格、缺乏细节等问题。  感觉这些角色可以压缩为另一个开发人员角色，他实际上可以像样地完成这些工作。 只是咆哮，我曾在只有开发人员的地方工作过这还不错。我还曾与一位产品经理合作过，他的工作非常出色，但这个人也做了 QA 工作。只是好奇每个人的想法。 编辑：我以前曾与出色的 QA 合作过。当他们表现好的时候，他们会很有帮助。我们的员工是由一位不喜欢面试的新经理雇用的，而且他们完全一无所知。我对所有不称职的员工束手无策，我认为人力资源部门应该负主要责任。他们甚至很难提供准确的职位列表和职位要求，而我们的面试没有公司标准。   由   提交/​​u/MMizzle9  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1akfq13/does_anyone_else_feel_like_nondeveloper_roles_are/</guid>
       <pubDate>Tue, 06 Feb 2024 17:48:49 GMT</pubDate>
     </item>
     <item>
       <title>我认为我的上级不知道他们在做什么</title>
       <link>https://www.reddit.com/r/webdev/comments/1akf50x/i_think_my_superiors_have_little_idea_what_theyre/</link>
-      <description><![CDATA[大家好。所以我是一名初级网络开发人员，我们教过。我自学了一年，然后找到了一份工作，在那里工作了六个月。现在我找到了一家新公司，并被分配任务基本上完成它，因为它已经完成了 95%  但是，问题是，即使我没有经验，我想我确信它的编码很糟糕例如，他们不使用作用域样式（vue），而是乱扔大量 css，这些 css 既不遵循 BEM 也不遵循任何其他命名约定，到处乱扔 !important  复制粘贴标记而不是只是将变化的部分放入数组中并循环遍历它，以及类似的事情 如何应对？我是否要继续解决这个混乱并尝试“学习调试”并在团队中获得经验，还是？ 我只是担心我无法向这里的同事学习......即使到目前为止，解开这个烂摊子并深入兔子洞确实给我带来了很多知识和见解   由   提交 /u/lponkl   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。所以我是一名初级网络开发人员，我们教过。我自学了一年，然后找到了一份工作，在那里工作了六个月。现在我找到了一家新公司，并被分配了基本上完成它的任务，因为它已经完成了 95%  但是，问题是，即使我没有经验，我想我确信它的编码很糟糕例如，他们不使用作用域样式（vue），而是散布大量 css，这些 css 既不遵循 BEM 也不遵循任何其他命名约定，到处散布 !important  复制粘贴标记而不是只是将变化的部分放入数组中并循环遍历它，以及类似的事情 如何应对？我是否要继续解决这个混乱并尝试“学习调试”并在团队中获得经验，还是？ 我只是担心我无法向这里的同事学习......即使到目前为止，解开这个烂摊子并深入兔子洞确实给我带来了很多知识和见解   由   提交 /u/lponkl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1akf50x/i_think_my_superiors_have_little_idea_what_theyre/</guid>
       <pubDate>Tue, 06 Feb 2024 17:24:49 GMT</pubDate>
     </item>
