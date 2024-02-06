@@ -1,5 +1,5 @@
 #  Rss-Translation
-## 拷贝Rss-Translation至此处，感谢原作者
+
 ## 这是一个外文RSS翻译转换订阅页面 
 
 [![circle_translate](https://github.com/zhong5391/x/actions/workflows/circle_translate.yml/badge.svg)](https://github.com/zhong5391/x/actions/workflows/circle_translate.yml) [![Deploy](https://github.com/zhong5391/x/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/zhong5391/x/actions/workflows/jekyll-gh-pages.yml)
