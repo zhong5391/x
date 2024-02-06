@@ -4,7 +4,7 @@ name: circle_translate
 on:
 
   schedule:
-   - cron: '*/30 * * * *'
+   - cron: '*/10 * * * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -34,11 +34,11 @@ jobs:
           pip install lxml
           pip install html5lib
           pip install jinja2
-          pip install googletrans
-          pip install googletrans==4.0.0-rc1  bs4
+          #pip install googletrans
+          #pip install googletrans==4.0.0-rc1  bs4
           pip install beautifulsoup4 pygtrans feedparser rfeed
           pip install --upgrade feedparser
-          pip install requests
+          #pip install requests
       - name: ls_show
         run: |
           python Bingtrans.py
