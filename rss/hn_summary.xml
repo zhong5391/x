@@ -4,86 +4,86 @@
     <title>HN总结</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的顶级黑客新闻故事的自动摘要。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 15:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 19:45:36 GMT</lastBuildDate>
     <item>
-      <title>[媒体]令人惊讶的是，据称计算机科学家哈尔·芬尼 [...]</title>
-      <link>https://t.me/hn_summary/72988</link>
-      <description><![CDATA[哈尔芬尼是比特币的设计者
-令人惊讶的是，有人声称计算机科学家和密码学家哈尔芬尼是比特币创造背后的真正策划者。虽然比特币的创造者中本聪的身份多年来一直是个谜，但新的证据表明芬尼是加密货币的设计者。这一消息在加密货币社区内引发了争议和争论，因为许多人认为中本聪是比特币的唯一创造者。芬尼参与比特币的早期开发，为其创造故事增添了独特且意想不到的转折。]]></description>
-      <guid>https://t.me/hn_summary/72988</guid>
-      <pubDate>Tue, 06 Feb 2024 15:12:09 GMT</pubDate>
+      <title>[媒体] 在 2015 年的这篇博文中，作者解释了为什么他们一直使用 IRC 作为他们的 [...]</title>
+      <link>https://t.me/hn_summary/73025</link>
+      <description><![CDATA[我为什么住在 IRC (2015)
+在 2015 年的这篇博文中，作者解释了为什么他们在过去七年里一直使用 IRC 作为沟通和信息的主要平台。他们描述了使用开源 WeeChat IRC 客户端的设置，以及如何创建过滤器来接收有关他们感兴趣的主题的通知。作者还讨论了他们使用的键盘快捷键以及他们接收通知的各种数据源，包括 IRC、 Twitter 搜索、网站通知和 GitHub 通知。他们解释了如何使用 Prowl iOS 应用程序在手机上接收推送通知。作者承认他们的设置存在缺陷，例如缺乏移动界面以及添加新频道的困难。他们提到他们计划在未来寻找或建立一个系统来取代 IRC。 （根据 97% 的故事文本进行总结。）]]></description>
+      <guid>https://t.me/hn_summary/73025</guid>
+      <pubDate>Tue, 06 Feb 2024 19:45:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]Bluesky，一个开放的社交网络，已正式向公众推出，消除了 [...]</title>
-      <link>https://t.me/hn_summary/72987</link>
-      <description><![CDATA[Bluesky 已公开启动（无需邀请）&lt; br/&gt;
-Bluesky 是一个开放的社交网络，已正式向公众推出，不再需要邀请码。该平台旨在提供易于使用的体验，同时允许任何人做出贡献。 Bluesky 已经拥有超过 300 万用户讨论新闻、分享艺术和发帖，势头强劲。该网络提供可堆叠的审核服务，允许用户自定义其审核偏好并订阅特定标签，例如事实检查组织。 Bluesky 还强调用户控制，允许自定义时间线和内容过滤器。在接下来的几周内，将推出“联邦”的实验版本，让用户可以自由选择，并能够将他们的朋友和关系带入其中。开发人员很快就能够自行托管连接到主生产网络的服务器。]]></description>
-      <guid>https://t.me/hn_summary/72987</guid>
-      <pubDate>Tue, 06 Feb 2024 15:10:59 GMT</pubDate>
+      <title>[媒体]Mozilla 推出了一项名为 Monitor Plus 的新订阅服务，该服务可以帮助用户 [...]</title>
+      <link>https://t.me/hn_summary/73024</link>
+      <description><![CDATA[Mozilla 的新服务将从数据代理中删除您的个人信息 
+Mozilla 推出了一项名为 Monitor Plus 的新订阅服务，可帮助用户从数据代理网站中查找和删除其个人信息。该服务允许用户删除他们的电话号码、电子邮件、家庭地址和其他出售以获取利润的敏感信息。 Mozilla Monitor 以前称为 Firefox Monitor，是一项免费服务，可在用户的电子邮件发生数据泄露时通知用户。 Monitor Plus 是一项基于订阅的新服务，允许用户运行扫描以检查其个人信息是否已泄露，并提供工具使该信息再次变为私有。该服务旨在简化从数据代理网站中删除信息的过程，该过程可能会令人困惑和费解。]]></description>
+      <guid>https://t.me/hn_summary/73024</guid>
+      <pubDate>Tue, 06 Feb 2024 19:44:28 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]这篇文章讨论了一系列实验，以确定是否存在不[...]</title>
-      <link>https://t.me/hn_summary/72986</link>
-      <description><![CDATA[女士品尝盐水
-本文讨论了一系列实验，以确定氯化钠 (NaCl) 和氯化钾 (KCl) 之间的味道是否存在显着差异。实验涉及不同参与者的盲味测试。在第一项研究中，亚当·马斯楚安尼和其中一位作者都正确识别了杯子中的盐，除了各有一个错误。在第二项研究中，亚当和另一位参与者在识别盐时犯了类似的错误。文章的结论是，氯化钠和氯化钾在味道上可能存在细微差别，但不易辨别。]]></description>
-      <guid>https://t.me/hn_summary/72986</guid>
-      <pubDate>Tue, 06 Feb 2024 15:09:52 GMT</pubDate>
+      <title>[媒体]IBM 宣布发布 IBM LinuxONE 4 Express，这是一款预配置的机架式 [...]</title>
+      <link>https://t.me/hn_summary/73023</link>
+      <description><![CDATA[全新 IBM LinuxONE 4 Express – 机架式预配置 Linux 大型机
+IBM 宣布发布 IBM LinuxONE 4 Express，这是一款专为中小型企业设计的预配置机架式 Linux 大型机。该系统可以节省成本，并消除客户在快速设置工作负载时的猜测。它为混合云环境提供网络安全、弹性、可扩展性和人工智能推理功能。将 Linux 工作负载从 x86 系统迁移到 IBM LinuxONE 4 Express 可以在五年内节省超过 52% 的总拥有成本。该系统还能够支持各种用例，包括数字资产、人工智能医学成像以及工作负载整合。]]></description>
+      <guid>https://t.me/hn_summary/73023</guid>
+      <pubDate>Tue, 06 Feb 2024 19:44:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Web Monetization API 发生了什么？</title>
-      <link>https://t.me/hn_summary/72985</link>
-      <description><![CDATA[Web Monetization API 发生了什么？
-作者表达了对 Web Monetization API 的最初兴奋和支持，相信它有可能彻底改变在线支付。然而，他们提到 API 背后的主要初创公司 Coil 最终失败了。作者承认对 API 背后的技术 Interledger 知之甚少，但承认其最近的峰会。他们强调了 Sara 的一条线索，她也渴望以一种无缝、快速的方式向网站汇款。作者很喜欢为开发者提供的使用 API 的示例代码。他们质疑该 API 是否仍有潜力，并表达了他们最喜欢的删除广告用例。作者还提到了 PPK 现在加入 Interledger 基金会的更新，表明人们对 API 重新产生了兴趣。他们指出，该 API 将连接到由 fynbos 提供支持的在线钱包，该钱包连接到银行和信用卡而不是加密货币。]]></description>
-      <guid>https://t.me/hn_summary/72985</guid>
-      <pubDate>Tue, 06 Feb 2024 15:08:44 GMT</pubDate>
+      <title>[媒体] Logdy.dev 是一个基于 Web 的日志查看器 UI，专为本地开发环境设计。</title>
+      <link>https://t.me/hn_summary/73022</link>
+      <description><![CDATA[显示 HN：Logdy.dev – 基于 Web 的本地日志查看器 UI开发环境
+Logdy.dev 是一个基于 Web 的日志查看器 UI，专为本地开发环境。这篇博文解释了如何设置 UI、格式化杂乱的日志以及浏览它们。用户可以从 GitHub 上的发布页面下载预编译的 Logdy 二进制文件。这篇文章还提供了有关如何将 Logdy 添加到 PATH 以便于使用的说明。 UI 允许用户显示列并应用过滤器来解析和选择特定的日志数据。它还提供基于 JSON 对象自动生成列和自动生成构面等功能。 Logdy.dev 令人惊讶的方面是它处理并发连接的能力高效，适合实时应用。]]></description>
+      <guid>https://t.me/hn_summary/73022</guid>
+      <pubDate>Tue, 06 Feb 2024 19:41:13 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Framework Laptop 16 是一款独特且值得称赞的设备，旨在彻底改变 [...]</title>
-      <link>https://t.me/hn_summary/72984</link>
-      <description><![CDATA[评测：Framework 的 Laptop 16 是独特的、值得称赞的，但也有缺陷
-Framework Laptop 16 是一款独特且值得称赞的设备，旨在彻底改变工作站/游戏笔记本电脑市场。以 Framework Laptop 13 的成功为基础，这款新型号提供了可定制的功能，例如模块化键盘、添加和升级专用 GPU 的能力以及可扩展模块。虽然笔记本电脑比不可升级的替代品更大更重，但通过升级延长其使用寿命的潜力是一个主要卖点。然而，当前升级和扩展笔记本电脑的选项有限，因此用户必须相信框架在未来能够兑现其承诺。总体而言，Framework Laptop 16 是一款很有前途的设备，在未来几年有可能进行有吸引力的升级。]]></description>
-      <guid>https://t.me/hn_summary/72984</guid>
-      <pubDate>Tue, 06 Feb 2024 15:07:35 GMT</pubDate>
+      <title>[媒体]文章探讨了土拨鼠日的古代日耳曼历史，重点关注 Pe [...]</title>
+      <link>https://t.me/hn_summary/73021</link>
+      <description><![CDATA[土拨鼠日的古日耳曼历史
+本文探讨了土拨鼠日的古代日耳曼历史，重点关注宾夕法尼亚荷兰人社区及其语言。宾夕法尼亚荷兰语是一种混合语言，融合了各种日耳曼语言和英语的影响。本文强调了宾夕法尼亚荷兰语对阿米什社区的重要性，并讨论了该语言如何帮助他们区别于主流社会。它还解释了土拨鼠日的起源，土拨鼠日是前基督教传统和基督教圣烛节节日的混合体。文章最后讨论了宾夕法尼亚荷兰语的脆弱性及其对当地英语方言的影响。]]></description>
+      <guid>https://t.me/hn_summary/73021</guid>
+      <pubDate>Tue, 06 Feb 2024 19:18:00 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 佳能将推出其新型纳米压印光刻 (NIL) 机器，据说 [...]</title>
-      <link>https://t.me/hn_summary/72983</link>
-      <description><![CDATA[佳能今年推出新芯片制造技术，效率比 EUV 高 90% 
-佳能即将推出其新型纳米压印光刻 (NIL) 机器，据称该机器的效率比 ASML 的 EUV 机器高 90%。 NIL 机器的工作原理是在晶圆上压印印记，而不是使用传统光刻技术蚀刻特征。佳能声称其 NIL 工具的能耗显着降低，并为当前的芯片制造方法提供了更便宜、更节能的替代方案。然而，围绕 NIL 与现有技术的兼容性存在争议，行业分析师对其成功仍持怀疑态度。尽管如此，佳能的进入可能会打破目前由ASML主导的现状。]]></description>
-      <guid>https://t.me/hn_summary/72983</guid>
-      <pubDate>Tue, 06 Feb 2024 15:02:26 GMT</pubDate>
+      <title>[媒体]这个世界很糟糕。</title>
+      <link>https://t.me/hn_summary/73020</link>
+      <description><![CDATA[世界很糟糕。世界变得更加美好。世界可以变得更美好
+本文讨论了通过审视随着时间的推移所取得的进展，使世界变得更美好的可能性。它认为过去已经取得了进展，并且有可能在未来继续取得这种进展。欧盟被强调为儿童死亡率极低的地区的一个例子，这表明改善生活条件已经是可能的。文章指出，如果世界各地的儿童享有与欧盟儿童相同的生活条件，每年死亡人数将减少 500 万。它还强调了预防儿童白血病和脑肿瘤等疾病的重要性。文章建议向 GiveWell 等具有成本效益的慈善机构捐款，为降低儿童死亡率做出贡献。]]></description>
+      <guid>https://t.me/hn_summary/73020</guid>
+      <pubDate>Tue, 06 Feb 2024 18:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Pika 是一款简单而美观的博客软件，旨在提供用户友好的 [...]</title>
-      <link>https://t.me/hn_summary/72982</link>
-      <description><![CDATA[展示 HN：Pika – 简单、美观的博客软件 
-Pika是一款简单而美观的博客软件，旨在为博主提供一个用户友好的平台。 Pika 的独特之处在于其定价模式，注重用户隐私和数据保护。与其他依赖广告和跟踪的博客平台不同，Pika 提供最多 50 篇完整博客文章的免费选项。然而，无限制的博客需要付费订阅。 Pika 强调，通过使用他们的软件，博主将可以控制自己的写作和数据，而不必担心自己的信息被出售或博客上出现侵入性广告。]]></description>
-      <guid>https://t.me/hn_summary/72982</guid>
-      <pubDate>Tue, 06 Feb 2024 14:51:14 GMT</pubDate>
+      <title>[媒体]《中国季刊》发表的一项新研究显示，中国公民表达了强烈的 [...]</title>
+      <link>https://t.me/hn_summary/73019</link>
+      <description><![CDATA[当中国公民接受匿名调查时，支持党派 
+《中国季刊》发表的一项新研究显示，当中国公民能够匿名回答调查问题时，他们对中国共产党和政府政策表达出更强烈的负面看法。这项研究由南加州大学多恩西夫文学、艺术与科学学院的研究人员进行，强调了准确记录公民真实意见对于了解支持中共的深度和性质的重要性。在中国进行的传统调查对中共的支持率高估了高达28.5个百分点，而使用称为“名单实验”的方法显示支持率徘徊在50％至70％之间。研究还表明，汉族受访者、受过教育的受访者和中共党员更支持政权。]]></description>
+      <guid>https://t.me/hn_summary/73019</guid>
+      <pubDate>Tue, 06 Feb 2024 18:50:36 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体]在《生命如何运作：新生物学用户指南》中，科普作家 Philip Ball cha [...]</title>
-      <link>https://t.me/hn_summary/72981</link>
-      <description><![CDATA[是时候承认基因不是生命的蓝图了
-在《生命如何运作：新生物学用户指南》一书中，科普作家菲利普·鲍尔挑战了基因是生命蓝图的传统观点。他认为这个比喻过于简单化了生物学的复杂性，并且没有承认外部因素对基因活动的影响。鲍尔还批评了蛋白质具有固定形状的观点，强调了无序结构域在蛋白质相互作用中的重要性。他呼吁重新思考科学家讨论生物学的方式，强调需要了解整体过程才能找到疾病的治疗方法。鲍尔的结论是，我们正处于对生命如何运作进行深刻反思的开始，不确定性是二十一世纪生物学的伟大任务。]]></description>
-      <guid>https://t.me/hn_summary/72981</guid>
-      <pubDate>Tue, 06 Feb 2024 14:51:04 GMT</pubDate>
+      <title>[媒体]据报道，约300万支智能牙刷已感染H [...]</title>
+      <link>https://t.me/hn_summary/73018</link>
+      <description><![CDATA[瑞士 DDoS 攻击中使用了三百万支感染恶意软件的智能牙刷
+据报道，大约 300 万支智能牙刷已被黑客感染，并被用于对一家瑞士公司的网站进行 DDoS 攻击。这些牙刷由于其基于 Java 的操作系统而容易受到攻击，因此被变成了僵尸网络，并被用来使该公司的网站超载，导致数百万欧元的损失。网络安全公司 Fortinet 的 Stefan Züger 提供了有关如何保护联网设备的提示，强调每台连接到互联网的设备都是潜在目标。此事件提醒设备所有者保持设备更新、监控网络并遵循网络安全最佳实践。]]></description>
+      <guid>https://t.me/hn_summary/73018</guid>
+      <pubDate>Tue, 06 Feb 2024 18:28:21 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Mozilla Monitor（以前称为 Firefox Monitor）宣布推出新的付费订阅 [...]</title>
-      <link>https://t.me/hn_summary/72980</link>
-      <description><![CDATA[Mozilla Monitor Plus：自动从数据代理中删除您的个人信息
-Mozilla Monitor（以前称为 Firefox Monitor）宣布推出一项名为 Mozilla Monitor Plus 的新付费订阅服务。该服务提供自动数据删除和对数据泄露中暴露的个人信息的持续监控。 Mozilla Monitor 的目标是帮助人们发现他们的个人信息可能在哪里被泄露，并采取措施保护他们的隐私。该服务包括免费的一次性扫描，以查明个人信息在哪里被泄露，对于那些想要持续保护的人来说，有一项付费订阅，可以自动请求数据删除并扫描新的泄露信息。该服务目前可供美国用户使用。要访问该服务，用户需要创建 Mozilla 帐户。]]></description>
-      <guid>https://t.me/hn_summary/72980</guid>
-      <pubDate>Tue, 06 Feb 2024 14:50:54 GMT</pubDate>
+      <title>StabilityAI新一代音频——比AudioBox更好？</title>
+      <link>https://t.me/hn_summary/73017</link>
+      <description><![CDATA[StabilityAI 新音频生成 – 比 AudioBox 更好？&lt; br/&gt;
+StabilityAI开发了一种新的音频生成技术，在质量和控制方面超越了AudioBox。传统的文本转语音模型需要参考语音录音来控制说话者的身份和风格，限制了其创造性应用。然而，StabilityAI的方法允许自然语言提示说话者的身份和风格，提供更直观的控制方法。他们还开发了一种可扩展的方法，用于标记说话者身份、风格和录音条件的各个方面，从而允许对大型数据集进行训练。此外，StabilityAI 还找到了提高音频保真度的简单方法，其性能优于最近的工作。他们的结果展示了各种口音、韵律风格、通道条件和声学条件下的高保真语音生成，所有这些都是通过单一模型和自然语言条件实现的。]]></description>
+      <guid>https://t.me/hn_summary/73017</guid>
+      <pubDate>Tue, 06 Feb 2024 18:21:11 GMT</pubDate>
     </item>
     <item>
-      <title>内华达大学里诺分校工程学院院长，Dr.</title>
-      <link>https://t.me/hn_summary/72979</link>
-      <description><![CDATA[内华达大学工程学院院长写的论文太糟糕了，你可以不信
-内华达大学里诺分校工程学院院长埃里克·琼斯 (Erick C. Jones) 博士因在他拥有的开放获取期刊上发表大量论文而受到审查。相关论文发表在《国际供应链技术期刊》上，篇幅较短，同行评审过程仅需三天或更短时间。许多论文也没有讨论其标题中指出的主题。该期刊由 PWD Group 出版，该集团由 Erick Jones 本人经营。此外，该杂志上的大量论文是由琼斯和他的妻子费利西亚·杰斐逊（Felicia Jefferson）撰写的，费利西亚·杰斐逊也是内布拉斯加州大学的教员。这些出版物的质量和合法性引起了人们对工程学院院长的科学过程和道德标准的担忧。如果评估中考虑了这些论文，争议还会延伸到 UNR 的招聘和终身职位流程。文章作者质疑琼斯在拥有自己的出版社时如何鼓励其他教师发表高质量的手稿。作者还批评了琼斯最近的论文，称其“糟糕得可笑”。发表这样一篇论文的动机尚不清楚，特别是考虑到琼斯作为工程学院院长的声望。文章最后表达了对将资源分配给那些做出有问题的工作的人的不满，而可能还有许多其他工程师可以为该领域做出积极贡献。]]></description>
-      <guid>https://t.me/hn_summary/72979</guid>
-      <pubDate>Tue, 06 Feb 2024 14:48:45 GMT</pubDate>
+      <title>[媒体]DeepSeekMath 项目是一个专注于数学推理和 [...]</title>
+      <link>https://t.me/hn_summary/73016</link>
+      <description><![CDATA[DeepSeekMath 7B 在 MATH 基准测试中取得了 51.7% 的成绩
+DeepSeekMath 项目是一个专注于数学推理和问题解决的语言模型。它使用 DeepSeek-Coder-v1.5 7B 模型进行初始化，并继续对来自 Common Crawl 的数学相关标记以及自然语言和代码数据进行预训练。该项目的目标是在不依赖外部工具包和投票技术的情况下实现数学基准的高性能。 DeepSeekMath 7B模型在MATH基准上取得了51.7%的成绩，接近其他高级模型的性能水平。该项目提供用于研究目的的基础模型、指导模型和强化学习模型的检查点。作者强调，DeepSeekMath-Base 7B 在数学推理和工具使用方面优于现有开源基础模型，而 DeepSeekMath-Instruct 7B 和 -RL 7B 在分步推理方面表现出强大的性能，并在定量推理基准测试中超越现有模型。该项目还包括有关数据收集、模型下载以及使用模型的快速入门指南的信息。该项目已获得 MIT License 许可，支持商业用途。]]></description>
+      <guid>https://t.me/hn_summary/73016</guid>
+      <pubDate>Tue, 06 Feb 2024 18:17:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
