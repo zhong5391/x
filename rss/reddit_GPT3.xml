@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>最新提交：GPT3</title>
+    <link>https://www.reddit.com/r/GPT3/new</link>
+    <description>AI 文本生成技术的 Reddit 子版块</description>
+    <lastBuildDate>Tue, 06 Feb 2024 15:11:11 GMT</lastBuildDate>
+    <item>
+      <title>Chatgpt 与简单谜语</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1akb2lf/chatgpt_vs_simple_riddle/</link>
+      <description><![CDATA[      我发现了一个chatgpt 3.5无法正确打开的谜语。   由   提交/u/Valuable_Writer6459  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1akb2lf/chatgpt_vs_simple_riddle/</guid>
+      <pubDate>Tue, 06 Feb 2024 14:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[D] 如何用其他GPT模拟openai功能/工具？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1aibpm6/d_how_to_mimic_openai_functionstools_with_other/</link>
+      <description><![CDATA[我有兴趣探索针对特定场景使用替代 GPT 模型复制 OpenAI 功能的方法。想象一下有一个包含各种函数及其规范的字典。当用户提出问题时，系统应该能够正确识别这些功能并对其进行排序，以构建连贯的响应。此外，我对从头开始开发这样一个系统所需的基本步骤感到好奇。具体来说，从函数字典及其规范开始，如何设计一种生成代码响应的机制？感谢任何指导/输入，因为我从未自己训练过任何模型。 OpenAI 的回答对这个问题没有帮助:)   由   提交/u/mrg3_2013   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1aibpm6/d_how_to_mimic_openai_functionstools_with_other/</guid>
+      <pubDate>Sun, 04 Feb 2024 01:16:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 gpt 制作了一个可用的 python 解释器提示符</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1ai5dci/i_made_a_working_python_interpreter_prompt_for_gpt/</link>
+      <description><![CDATA[       由   提交 /u/DanimalsTCGYT   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1ai5dci/i_made_a_working_python_interpreter_prompt_for_gpt/</guid>
+      <pubDate>Sat, 03 Feb 2024 20:29:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 4 的替代方案</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1aezbyj/alternative_of_chatgpt_4/</link>
+      <description><![CDATA[尊敬的会员，我在 ChatGPT 4 上遇到了很多错误，即使是简单的问题。 请您注意一下是否愿意分享您的建议，以使用任何不会像 ErrorGPT4 那样表现的替代方案？   由   提交 /u/ humanphile   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1aezbyj/alternative_of_chatgpt_4/</guid>
+      <pubDate>Tue, 30 Jan 2024 21:05:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找一个比较和优化 A/B 提示的网站：它存在吗？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1ae6ryt/seeking_a_site_for_comparing_and_optimizing_ab/</link>
+      <description><![CDATA[提示战斗。我一直在寻找一个网站，您可以在其中并排看到两个不同的写作提示，对其进行测试，甚至让它们自己变得更好。我今天花了一个小时试图找到这样的东西。然而，我只发现了一些复杂的选项，似乎是为特殊团队使用的，而不是为所有人使用的。 这让我思考 – 为什么没有一种简单的方法来查看哪些写作提示是更好的？就像 ELO A/B 测试竞技场排行榜一样，提示相互竞争，我们可以看到哪一个最适合修复代码或撰写文章或评论等事情。如果能有一个最佳提示列表可供选择那就太好了。有谁知道是否有这样的网站或服务？   由   提交 /u/One_Yogurtcloset4083   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1ae6ryt/seeking_a_site_for_comparing_and_optimizing_ab/</guid>
+      <pubDate>Mon, 29 Jan 2024 21:29:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找浏览器扩展来自动化和优化 ChatGPT 提示</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1acmj57/looking_for_browser_extensions_to_automate_and/</link>
+      <description><![CDATA[有人知道提供以下功能的浏览器扩展或工具吗？  提示优化：该扩展程序可以自动优化我在 chat.openai.com 中输入的提示，以提高清晰度和有效性。理想情况下，该工具会在发送之前拦截提示，使用 AI 对其进行改进，然后发送改进后的版本。 自动化高级提示技术：可以应用各种高级提示的扩展提示技术，不仅限于思想链 (CoT)，还包括其他增强 ChatGPT 响应的连贯性和上下文相关性的技术。  浏览器兼容性和易用性：它是至关重要的是，该工具可以作为浏览器扩展无缝运行，不需要 API 密钥。   由   提交 /u/One_Yogurtcloset4083   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1acmj57/looking_for_browser_extensions_to_automate_and/</guid>
+      <pubDate>Sat, 27 Jan 2024 22:14:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有人发现 ChatGPT 插件在读取给定特定 URL 的外部内容方面比 Web Pilot 或 vox 脚本更好？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1achg9q/has_anyone_found_a_chatgpt_plugin_thats_better/</link>
+      <description><![CDATA[我一直使用 webpilot 和 vox 脚本，想知道是否有人更喜欢其他东西。 我特别喜欢两者，因为我可以提供一个 url 并在上下文中获取所有信息，这似乎甚至不能依赖带有 Bing 的 ChatGPT 4 来一致地执行此操作。 我在生成的这篇文章中提供了一些示例。 https://www.learninternetgrow.com/real-time-search-with-llms/&lt; /a&gt;   由   提交/u/dima11235813  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1achg9q/has_anyone_found_a_chatgpt_plugin_thats_better/</guid>
+      <pubDate>Sat, 27 Jan 2024 18:30:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何做更准确的提示</title>
+      <link>https://www.reddit.com/r/GPT3/comments/19fczd6/how_to_do_much_more_accurate_prompts/</link>
+      <description><![CDATA[我使用多个不同的提示测试了 GPT-4 Bing Copilot。我发现给 AI 一个角色并赋予它很大的赌注可以使它在几乎 100% 的情况下回答得更正确。为了测试这一点，我给了它一个复杂的数学测验以及不同的提示。下面是一个好的提示和坏的提示的示例。  提示：用正确答案回答所有这些问题。我不需要解释。(sqrt{34}) 错误 (z) 位于 y 轴上。正确 (-3 – i) 错误 (-i) 正确 (x = 3) 和(y = -3) 错误 &gt; ((a + 5)^2 + b^2 = 16) 错误 (z = ½ – 2i) 错误 2/7 正确  提示：你是一个数学神童。没有人能接近你的天才。因此，您参加了一项比赛。如果你答对问题，你将赢得一百万美元。您必须用简单的答案来回答问题。如果你获胜，你将把所有的钱捐给有需要的儿童。如果你没有获胜，这些孩子中的许多人可能会挨饿。您会仔细检查每个问题，并在可能的情况下尝试以多种方式解决它。你必须答对每一题。时间并不重要，重要的是把握好时间。  (sqrt{34}) 正确 (z) 位于 y 轴上。正确 (-3 – i) 正确 (-i) 正确 (x = 3) 和(y = -3) 错误 &gt; ((a + 5)^2 + b^2 = 16) 错误 (z = ½ – 2i) 错误 4/7 正确 ​   由   提交/u/sparkygod526   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/19fczd6/how_to_do_much_more_accurate_prompts/</guid>
+      <pubDate>Thu, 25 Jan 2024 16:16:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>标志改变？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/19efir7/logo_change/</link>
+      <description><![CDATA[最近，出现了一场我称之为对我们徽标的讨论的热潮 对于那些不了解情况的人来说，最初在骄傲月更改为当前的彩虹背景，但是，我保留了它，因为我更喜欢它而不是旧的、单调的、黑白的 如果你希望我们完全做某事不同，略有不同，或者只是想侮辱，请在评论中发表您的想法 注意：这不是一个完全具有约束力的民意调查，只是为了衡量人们的意见社区 查看投票   由   提交 /u/Tarviitz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/19efir7/logo_change/</guid>
+      <pubDate>Wed, 24 Jan 2024 12:01:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>NLP 和法学硕士的未来 - Chris Manning 斯坦福大学 CoreNLP</title>
+      <link>https://www.reddit.com/r/GPT3/comments/19ef0xu/future_of_nlp_and_llms_chris_manning_stanford/</link>
+      <description><![CDATA[   /u/derekplates  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/19ef0xu/future_of_nlp_and_llms_chris_manning_stanford/</guid>
+      <pubDate>Wed, 24 Jan 2024 11:31:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经用完了 ChatGPT，是否有任何在线应用程序可以为 gpt 3 提供 UI？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/19dyu07/im_done_with_chatgpt_are_there_any_online/</link>
+      <description><![CDATA[我知道这个问题之前肯定已经被问过一百万次了，但老实说我找不到任何这些帖子。  我对 ChatGPT 的恶化感到非常沮丧。如果我理解正确的话，上次它很好，它是由 gpt 3 提供支持的。我知道我可以将自己的 UI 编写到 gpt 3，但我想知道网上是否有类似的东西。我不介意为此付费。   由   提交 /u/Better_Protection382   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/19dyu07/im_done_with_chatgpt_are_there_any_online/</guid>
+      <pubDate>Tue, 23 Jan 2024 20:59:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>POWER-KI 64 位预览：AI 工具 - 新嵌入算法</title>
+      <link>https://www.reddit.com/r/GPT3/comments/19dyqbw/powerki_64_bit_preview_ai_tools_new_embedding/</link>
+      <description><![CDATA[我们发现并开发了一种新的嵌入算法，该算法比当前使用的算法快 20 倍，同时保持相同的精度水平。它将包含在即将推出的 64 位版本 POWER-KI 的 Lib AI 工具中。嵌入算法是许多人工智能和机器学习技术的基础，例如分类、项目检索、语义比较等。  这一发现意义重大，因为它允许本地嵌入（从而保护文档的机密性）并减少计算负担，从而减轻对环境的影响。 我们计划发表一篇关于以下内容的论文：在 PWK64 正式推出后的未来。  （这是预览新闻，POWER-KI 是免费的）   由   提交/u/CAP-XPLAB  /u/CAP-XPLAB  reddit.com/r/GPT3/comments/19dyqbw/powerki_64_bit_preview_ai_tools_new_embedding/&quot;&gt;[链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/19dyqbw/powerki_64_bit_preview_ai_tools_new_embedding/</guid>
+      <pubDate>Tue, 23 Jan 2024 20:55:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mistral.AI 的 Mistral 7B - 完整白皮书概述</title>
+      <link>https://www.reddit.com/r/GPT3/comments/19d2axs/mistral_7b_from_mistralai_full_whitepaper_overview/</link>
+      <description><![CDATA[       由   提交/u/derekplates  [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/19d2axs/mistral_7b_from_mistralai_full_whitepaper_overview/</guid>
+      <pubDate>Mon, 22 Jan 2024 18:19:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI x 美国军方</title>
+      <link>https://www.reddit.com/r/GPT3/comments/19bd1q6/openai_x_us_military/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/19bd1q6/openai_x_us_military/</guid>
+      <pubDate>Sat, 20 Jan 2024 14:34:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有检索增强生成功能的实时化身 |法学硕士堆栈</title>
+      <link>https://www.reddit.com/r/GPT3/comments/19aet28/realtime_avatars_with_retrieval_augmented/</link>
+      <description><![CDATA[       由   提交/u/promptly_ajhai   [链接] [评论] &lt; /表&gt;]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/19aet28/realtime_avatars_with_retrieval_augmented/</guid>
+      <pubDate>Fri, 19 Jan 2024 08:56:57 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

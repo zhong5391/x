@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>拥抱脸 - 博客</title>
+    <link>https://huggingface.co/blog</link>
+    <description>拥抱脸博客</description>
+    <lastBuildDate>Sat, 03 Feb 2024 06:12:39 GMT</lastBuildDate>
+    <item>
+      <title>SegMoE：扩散专家的 Segmind 混合物</title>
+      <link>https://huggingface.co/blog/segmoe</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/segmoe</guid>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>NPHardEval 排行榜：通过复杂性类和动态更新揭示大型语言模型的推理能力</title>
+      <link>https://huggingface.co/blog/leaderboards-on-the-hub-nphardeval</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboards-on-the-hub-nphardeval</guid>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有开放法学硕士的宪法人工智能</title>
+      <link>https://huggingface.co/blog/constitutional_ai</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/constitutional_ai</guid>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 AWS Inferentia2 的拥抱面部文本生成推理</title>
+      <link>https://huggingface.co/blog/text-generation-inference-on-inferentia2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/text-generation-inference-on-inferentia2</guid>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>贴片时间序列变压器拥抱面</title>
+      <link>https://huggingface.co/blog/patchtst</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/patchtst</guid>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>企业场景排行榜简介：真实世界用例排行榜</title>
+      <link>https://huggingface.co/blog/leaderboards-on-the-hub-patronus</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboards-on-the-hub-patronus</guid>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Xeon 上的最佳 Intel 加速 StarCoder：Q8/Q4 和推测解码</title>
+      <link>https://huggingface.co/blog/intel-starcoder-quantization</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/intel-starcoder-quantization</guid>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>幻觉排行榜，在大型语言模型中测量幻觉的公开努力</title>
+      <link>https://huggingface.co/blog/leaderboards-on-the-hub-hallucinations</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboards-on-the-hub-hallucinations</guid>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Secure LLM 安全排行榜简介</title>
+      <link>https://huggingface.co/blog/leaderboards-on-the-hub-decodingtrust</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboards-on-the-hub-decodingtrust</guid>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hugging Face 与 Google 合作开展开放式 AI 合作</title>
+      <link>https://huggingface.co/blog/gcp-partnership</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gcp-partnership</guid>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源法学硕士作为 LangChain 代理</title>
+      <link>https://huggingface.co/blog/open-source-llms-as-agents</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/open-source-llms-as-agents</guid>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 🤗 Transformer 微调 W2V2-Bert 以实现低资源 ASR</title>
+      <link>https://huggingface.co/blog/fine-tune-w2v2-bert</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/fine-tune-w2v2-bert</guid>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>HuggingFace 中的 PatchTSMixer</title>
+      <link>https://huggingface.co/blog/patchtsmixer</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/patchtsmixer</guid>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用直接偏好优化方法调整 LLM 偏好</title>
+      <link>https://huggingface.co/blog/pref-tuning</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/pref-tuning</guid>
+      <pubDate>Thu, 18 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 ONNX 运行时和 Olive 加速 SD Turbo 和 SDXL Turbo 推理</title>
+      <link>https://huggingface.co/blog/sdxl_ort_inference</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/sdxl_ort_inference</guid>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
