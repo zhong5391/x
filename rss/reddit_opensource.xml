@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 06 Feb 2024 20:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 20:19:30 GMT</lastBuildDate>
     <item>
       <title>Stract：面向修补者和开发人员的开源网络搜索引擎</title>
       <link>https://www.reddit.com/r/opensource/comments/1akdo5a/stract_open_source_web_search_engine_targeted/</link>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 06 Feb 2024 13:03:19 GMT</pubDate>
     </item>
     <item>
-      <title>从短期/长期来看，是什么导致开源项目成功/失败？</title>
+      <title>是什么让开源项目在短期/长期内成功/失败？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ak5227/what_makes_an_open_source_project_succeedfail_in/</link>
       <description><![CDATA[我正在考虑启动自己的开源项目，该项目与 Suricata 具有类似但不同的功能，因此旨在执行网络入侵检测各种方式。 我开始想知道，我该如何建立一个项目，使其实际上对人们有用并且会被使用。我想我必须应对的两个主要挑战是首先使项目启动，并在暴露于更广泛的不断变化的用户需求时多年来维护项目。 什么代码实践您认为，项目属性或其他技术对确定开源项目成功有很大影响吗？ 我渴望从您的经验中学习。 到目前为止，这是我找到的最佳资源： https://open .nytimes.com/how-to-take-your-open-source-project-from-good-to-great-49c392175e5c  &amp;# 32；由   提交/u/Koen1999   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ak5227/what_makes_an_open_source_project_succeedfail_in/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>派对迟到了，为什么 MuseScore 卖给 Ulitmate Guitar，这意味着什么？讨论</title>
       <link>https://www.reddit.com/r/opensource/comments/1aipfpi/late_to_the_party_why_did_musescore_sell_to/</link>
-      <description><![CDATA[大家好，出售背后的原因是什么？是否需要资金？此外，作为 MuseScore 开源而“出售”意味着什么？这是否意味着内部制作的代码库的所有权现在归 UG 所有，或者开发人员现在只为 UG 工作还是什么？这就是 MuseHub 应用程序闭源的原因吗？这样他们最终可以创建一个可盈利的市场，还是最终会开源？我有很多问题，不知道从哪里开始。 tl;dr：为什么要出售它，出售它意味着什么。   由   提交 /u/FluffyBrudda   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，出售背后的原因是什么？是否需要资金？此外，作为 MuseScore 开源而被“出售”意味着什么。这是否意味着内部制作的代码库的所有权现在归 UG 所有，或者开发人员现在只为 UG 工作还是什么？这就是 MuseHub 应用程序闭源的原因吗？这样他们最终可以创建一个可盈利的市场，还是最终会开源？我有很多问题，不知道从哪里开始。 tl;dr：为什么要出售它，出售它意味着什么。   由   提交 /u/FluffyBrudda   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1aipfpi/late_to_the_party_why_did_musescore_sell_to/</guid>
       <pubDate>Sun, 04 Feb 2024 14:45:36 GMT</pubDate>
     </item>

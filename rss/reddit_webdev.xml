@@ -4,13 +4,27 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 06 Feb 2024 19:47:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2024 20:19:26 GMT</lastBuildDate>
     <item>
-      <title>在哪里可以找到学习 django 的材料？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akhqsl/where_can_i_find_material_to_learn_django/</link>
-      <description><![CDATA[正如标题所说，任何课程都适合我。视频课程对我来说会更容易一些。 &lt; /div&gt;  由   提交 /u/peacenahihai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akhqsl/where_can_i_find_material_to_learn_django/</guid>
-      <pubDate>Tue, 06 Feb 2024 19:09:56 GMT</pubDate>
+      <title>自由职业问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akjb8v/freelance_question/</link>
+      <description><![CDATA[大家好！ 很抱歉，如果在这里问这个问题是错误的。请告诉我是否有另一个 Reddit 子版块更适合此操作。 由于预算削减，我最近被解雇了我的网页设计工作。我的一位老客户在 LinkedIn 上联系我，询问我是否有兴趣兼职为他们做一些小修改，因为我熟悉他们的网站结构。这些网站是使用面向客户端的网站构建器创建的，对网站的 HTML/CSS/JS 的访问权限有限。  这些都是小修改（替换照片、调整间距、编辑表格内容等），没什么大不了的。我绝对愿意做这些编辑来赚点小钱，但我不认为自己是一个自由设计师。  我不打算以此为生，只是在我寻找新工作时做一些小事来帮助我。想想 50 美元/小时，按 10 小时包购买的工作。 同意按小时费率进行这些编辑是否有任何潜在风险？我需要先注册为自由职业者吗？我应该担心任何税务票据吗？ **我位于俄亥俄州哥伦布，客户位于马萨诸塞州波士顿 谢谢！ &lt; /div&gt;  由   提交 /u/Sisyphus_SSC   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akjb8v/freelance_question/</guid>
+      <pubDate>Tue, 06 Feb 2024 20:13:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>xxx.com 的 DNS 条目已存在。您必须从此服务器或 DNS 集群中的服务器中删除此 DNS 条目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akj2qy/a_dns_entry_for_xxxcom_already_exists_you_must/</link>
+      <description><![CDATA[有人帮忙吗？我在自己的托管帐户上删除了一个 WordPress 网站，并且我正在尝试将其转移到同一提供商的托管帐户中。  我已从我自己的网站托管帐户中删除了所有 DNS 引用。 我无法将域添加到新的托管帐户。我在标题中收到上述错误   由   提交 /u/BackgroundDuder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akj2qy/a_dns_entry_for_xxxcom_already_exists_you_must/</guid>
+      <pubDate>Tue, 06 Feb 2024 20:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 预订插件生成的短信链接缩短</title>
+      <link>https://www.reddit.com/r/webdev/comments/1akiyp8/link_shortening_for_sms_generated_by_wordpress/</link>
+      <description><![CDATA[嗨。我在 WordPress 上为我妻子的生意创建了一个网站。 Porkbun 是注册商，Nixihost 是托管服务，Nixihost 是名称服务器。我添加了一个用于预约和管理的 Booknetic 插件，该插件会向预约的客户发送一条带有确认链接的短信。不幸的是，生成的链接非常长，如下所示：＆quot;https:// mywebsite.com/appointment/?bkntc_token=eyJpZCI6IjI0In0.eyJjdXJyZW50U3RhdHVzIhljlhjlZyIsImNoYW5nZVRvIjoiY2FuY2VsZWQiLCJ0aXRsZSI6IkNhbmNlbGVkIiwiZXhlhjlhJlIjoxNzA 3MDkzNDQ0LCJsaW1pdCI6IjAifQ.hqu24ssN1NY-yEdEjSxi-FAxYBsGwuLLhc9GY9jhl7fft8ftTLocg”我正在研究缩短它的选项，因为它不仅看起来非常不专业，而且还为短信添加了额外的片段。 我使用 Twilio 进行消息传递服务，他们有可用的链接缩短功能，但我没有了解如何启动并运行它。我已经向他们验证了我的域名，在我的网站 DNS 中添加了他们的 IP A 记录，并提交了我的网站 SSL (TLS) 证书。 Twilio 验证了这一点，他们现在确实缩短了链接，但它被定向到“https://mywebsite.com/RT3535Vfd”并显示页面不存在的消息，而不是将短网址重定向到长网址。此外，我不确定这是否正确完成，DNS A 记录指向 Twilio 的 IP 并且他们使用我的网站 SSL 证书。托管提供商表示这不是正确的方式，因为现在 Twilio 显示为我的托管提供商，而不是 Nixihost。 接下来，我还创建了一个子域“https://appt.mywebsite.com&quot;并做了同样的事情，验证域名，共享 SSL 并为其 IP 添加 CNAME。不幸的是，通过此设置，网址根本没有被缩短。 您能帮我找到一种方法来缩短由插件生成并由 Twilio 管理的预约确认链接吗？ 您能帮我找到一种方法来缩短由插件生成并由 Twilio 管理的预约确认链接吗？ p&gt;   由   提交 /u/magnumpl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1akiyp8/link_shortening_for_sms_generated_by_wordpress/</guid>
+      <pubDate>Tue, 06 Feb 2024 19:59:43 GMT</pubDate>
     </item>
     <item>
       <title>网站枪械</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/izalutski  [链接] [评论] &lt; /表&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1akd5or/a_cli_as_a_backend_with_an_api_as_a_frontend/</guid>
       <pubDate>Tue, 06 Feb 2024 16:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的网站重定向到诈骗网站 帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akcl1a/my_website_redirects_to_a_scam_website_help/</link>
-      <description><![CDATA[        由   提交 /u/Aardvark-Fearless   /u/Aardvark-Fearless reddit.com/r/webdev/comments/1akcl1a/my_website_redirects_to_a_scam_website_help/&quot;&gt;[链接] [评论] &lt; /表&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akcl1a/my_website_redirects_to_a_scam_website_help/</guid>
-      <pubDate>Tue, 06 Feb 2024 15:36:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>MJML 列不会在移动设备上堆叠</title>
-      <link>https://www.reddit.com/r/webdev/comments/1akc6ib/mjml_columns_do_not_stack_on_mobile/</link>
-      <description><![CDATA[我使用 mjml.io 的在线编辑器创建了一个非常基本的 2 列设计，但我无法设法使其在移动设备上堆叠。  https://mjml.io/try-it-live/zQNs_0A07P 收到的电子邮件在桌面和移动设备上看起来完全相同：并排 2 列。该设计只是在移动设备上按比例缩小。我正在使用适用于 PC 的 Outlook 365 和 iPhone 13 上的 Outlook 进行测试。 我尝试使用 mj-group，但没有改变任何内容。 任何人都可以指出什么吗？我忘了？   由   提交/u/Asker82237  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1akc6ib/mjml_columns_do_not_stack_on_mobile/</guid>
-      <pubDate>Tue, 06 Feb 2024 15:18:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

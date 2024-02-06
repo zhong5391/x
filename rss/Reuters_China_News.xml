@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 06 Feb 2024 20:08:37 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 06 Feb 2024 20:18:28 GMT</lastBuildDate>
     <item>
       <title>美国贸易委员会取消对进口食品罐头钢征收倾销税</title>
       <link>https://www.reuters.com/markets/commodities/us-trade-panel-strikes-down-dumping-duties-food-can-steel-imports-2024-02-06/</link>
@@ -139,7 +139,7 @@
       <pubDate>Mon, 05 Feb 2024 12:20:06 GMT</pubDate>
     </item>
     <item>
-      <title>中国价格暴跌将一些出口商推向崩溃的边缘</title>
+      <title>中国价格暴跌将一些出口商推向崩溃边缘</title>
       <link>https://www.reuters.com/world/china/chinas-tumbling-prices-push-some-exporters-brink-2024-02-04/</link>
       <description><![CDATA[长期的工厂通缩正在威胁中国小型出口商的生存。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-tumbling-prices-push-some-exporters-brink-2024-02-04/</guid>
