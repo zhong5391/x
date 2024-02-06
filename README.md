@@ -12,9 +12,9 @@
 
 ## 已转换翻译源
  - source001 [https://feeds.bloomberg.com/markets/news.rss](https://feeds.bloomberg.com/markets/news.rss) -> [Bloomberg_Markets](rss/Bloomberg_Markets.xml)
- - source002 [https://www.reddit.com/r/automation.rss](https://www.reddit.com/r/automation.rss) -> [reddit_automation](rss/reddit_automation.xml)
- - source003 [https://huggingface.co/blog/feed.xml](https://huggingface.co/blog/feed.xml) -> [huggingface_blog](rss/huggingface_blog.xml)
- - source004 [https://www.reddit.com/r/ArtificialInteligence.rss](https://www.reddit.com/r/ArtificialInteligence.rss) -> [reddit_ArtificialInteligence](rss/reddit_ArtificialInteligence.xml)
+ - source002 [https://cn.wsj.com/zh-hans/rss](https://cn.wsj.com/zh-hans/rss) -> [WSJ](rss/WSJ.xml)
+ - source003 [https://rsshub.app/reuters/business](https://rsshub.app/reuters/business) -> [Reuters_Business_News](rss/Reuters_Business_News.xml)
+ - source004 [https://rsshub.app/reuters/world/china](https://rsshub.app/reuters/world/china) -> [Reuters_China_News](rss/Reuters_China_News.xml)
  - source005 [https://rsshub.app/telegram/channel/AiIndiaJobs](https://rsshub.app/telegram/channel/AiIndiaJobs) -> [AiIndiaJobs](rss/AiIndiaJobs.xml)
  - source006 [https://www.reddit.com/r/ChatGPT/new.rss](https://www.reddit.com/r/ChatGPT/new.rss) -> [reddit_ChatGPT](rss/reddit_ChatGPT.xml)
  - source007 [https://www.reddit.com/r/GPT3/new.rss](https://www.reddit.com/r/GPT3/new.rss) -> [reddit_GPT3](rss/reddit_GPT3.xml)
