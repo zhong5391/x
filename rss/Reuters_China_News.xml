@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 07 Feb 2024 22:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 23:07:15 GMT</lastBuildDate>
+    <item>
+      <title>亚洲 描绘中国与通货紧缩的斗争</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-2024-02-07/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-2024-02-07/</guid>
+      <pubDate>Wed, 07 Feb 2024 21:47:48 GMT</pubDate>
+    </item>
     <item>
       <title>随着中国努力支撑遭受重创的市场，投资者仍期待更多</title>
       <link>https://www.reuters.com/markets/asia/china-battles-shore-up-battered-markets-investors-hold-out-more-2024-02-07/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>美国、英国船舶投资者受到红海保险飙升的打击 - 消息人士</title>
       <link>https://www.reuters.com/business/us-uk-ship-investors-hit-by-soaring-red-sea-insurance-sources-2024-02-07/</link>
-      <description><![CDATA[消息人士称，战争承保商已将向美国、英国和以色列公司收取的穿越红海船只的保费提高了高达 50%，而由于也门胡塞武装针对这些船只，一些供应商正在避免开展此类业务。]]></description>
+      <description><![CDATA[消息人士称，战争承保商已将向美国、英国和以色列公司收取的穿越红海船舶的保费提高了高达 50%，而由于也门胡塞武装针对这些船只，一些提供商正在避免开展此类业务。]]></description>
       <guid>https://www.reuters.com/business/us-uk-ship-investors-hit-by-soaring-red-sea-insurance-sources-2024-02-07/</guid>
       <pubDate>Wed, 07 Feb 2024 13:22:47 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Wed, 07 Feb 2024 12:06:55 GMT</pubDate>
     </item>
     <item>
-      <title>阿里巴巴因收入未达预期而加大股票回购力度</title>
+      <title>营收未达预期，阿里巴巴加大股票回购力度</title>
       <link>https://www.reuters.com/technology/alibaba-misses-quarterly-revenue-estimates-2024-02-07/</link>
       <description><![CDATA[受全球第二大经济体零售环境疲弱和经济复苏步履蹒跚的影响，中国阿里巴巴集团周三第三季度营收未达到分析师预期。]]></description>
       <guid>https://www.reuters.com/technology/alibaba-misses-quarterly-revenue-estimates-2024-02-07/</guid>
@@ -76,7 +83,7 @@
       <pubDate>Wed, 07 Feb 2024 11:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：全球平静回归，地区银行隆隆作响</title>
+      <title>早盘竞价：全球平静回归，区域银行隆隆作响</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-07/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-07/</guid>
@@ -95,13 +102,6 @@
       <description><![CDATA[台湾周三告诉其旅行社停止组织新的前往中国的团体旅游，因为北京尚未允许中国游客前往台湾进行此类旅行，并且已经改变了敏感的台湾海峡的飞行路线。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-stops-new-group-trips-china-amid-tourism-air-route-spat-2024-02-07/</guid>
       <pubDate>Wed, 07 Feb 2024 09:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国总理肖尔茨将于四月访华</title>
-      <link>https://www.reuters.com/world/german-chancellor-scholz-travel-china-april-faz-2024-02-07/</link>
-      <description><![CDATA[一位参与该计划的人士周三告诉路透社，德国总理奥拉夫·肖尔茨将于 4 月 15 日至 16 日率领一个商业代表团访问中国。]]></description>
-      <guid>https://www.reuters.com/world/german-chancellor-scholz-travel-china-april-faz-2024-02-07/</guid>
-      <pubDate>Wed, 07 Feb 2024 09:10:47 GMT</pubDate>
     </item>
     <item>
       <title>北京呼吁韩国奉行“积极、客观、友好”的对华政策</title>
