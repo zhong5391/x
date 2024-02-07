@@ -4,59 +4,111 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 07 Feb 2024 00:32:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 02:13:13 GMT</lastBuildDate>
     <item>
-      <title>迪士尼、福克斯和华纳兄弟探索频道将创建联合体育流媒体平台 - 华尔街日报</title>
+      <title>美元从近三个月高点回调后处于守势</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-defensive-after-pullback-nearly-3-month-peak-2024-02-07/</link>
+      <description><![CDATA[美元兑欧元在前一交易日从近三个月高位回落后，周三仍面临压力，而美国债券收益率下降也加剧了美元的拖累。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-defensive-after-pullback-nearly-3-month-peak-2024-02-07/</guid>
+      <pubDate>Wed, 07 Feb 2024 01:30:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果公司击败 AliveCor 就 Apple Watch 心率应用提起的诉讼</title>
+      <link>https://www.reuters.com/legal/apple-beats-alivecor-lawsuit-over-heart-rate-apps-apple-watch-2024-02-07/</link>
+      <description><![CDATA[苹果说服联邦法官驳回一家硅谷初创公司提起的诉讼，指控该公司非法垄断美国 Apple Watch 心率监测应用市场。]]></description>
+      <guid>https://www.reuters.com/legal/apple-beats-alivecor-lawsuit-over-heart-rate-apps-apple-watch-2024-02-07/</guid>
+      <pubDate>Wed, 07 Feb 2024 00:16:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>官员表示，波音公司将评估 NTSB 调查结果后是否需要采取更多行动</title>
+      <link>https://www.reuters.com/business/aerospace-defense/boeing-assess-whether-more-action-needed-after-ntsb-findings-official-says-2024-02-07/</link>
+      <description><![CDATA[波音公司质量官员周二表示，波音公司将查看美国国家运输安全委员会 (NTSB) 对 737 MAX 9 井喷事件调查的初步结果，并决定是否针对门塞采取更多行动。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/boeing-assess-whether-more-action-needed-after-ntsb-findings-official-says-2024-02-07/</guid>
+      <pubDate>Wed, 07 Feb 2024 00:15:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>美元仍然是一股不可忽视的力量；分析师对美元走强持谨慎态度 - 路透调查</title>
+      <link>https://www.reuters.com/markets/currencies/poll-dollar-remains-force-reckon-with-analysts-wary-us-currencys-strength-2024-02-07/</link>
+      <description><![CDATA[路透社调查的外汇策略师表示，随着市场重新评估美联储可能多久降息，复苏的美元在未来几个月更有可能保持强势。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/poll-dollar-remains-force-reckon-with-analysts-wary-us-currencys-strength-2024-02-07/</guid>
+      <pubDate>Wed, 07 Feb 2024 00:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由港麦克莫兰矿业公司任命内部人士凯瑟琳·奎克为首席执行官</title>
+      <link>https://www.reuters.com/business/freeport-mcmoran-names-kathleen-quirk-ceo-2024-02-06/</link>
+      <description><![CDATA[铜矿商 Freeport-McMoRan 周二任命凯瑟琳·奎克 (Kathleen Quirk) 为其新任首席执行官，并表示她的任命将于 6 月 11 日举行的年度股东大会上生效。]]></description>
+      <guid>https://www.reuters.com/business/freeport-mcmoran-names-kathleen-quirk-ceo-2024-02-06/</guid>
+      <pubDate>Tue, 06 Feb 2024 23:33:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enphase 预计近期需求改善，股价上涨</title>
+      <link>https://www.reuters.com/business/energy/enphase-sees-demand-improving-near-term-shares-jump-2024-02-06/</link>
+      <description><![CDATA[太阳能逆变器制造商Enphase Energy周二表示，预计库存水平将恢复正常，其产品需求将在第二季度末回升，导致其股价在盘后交易中上涨近13%。]]></description>
+      <guid>https://www.reuters.com/business/energy/enphase-sees-demand-improving-near-term-shares-jump-2024-02-06/</guid>
+      <pubDate>Tue, 06 Feb 2024 23:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国安全委员会关于波音 MAX 9 门板报告的五个事实</title>
+      <link>https://www.reuters.com/business/aerospace-defense/five-facts-us-safety-board-report-boeing-max-9-door-panel-2024-02-06/</link>
+      <description><![CDATA[美国国家运输安全委员会周二发布的初步报告显示，1 月 5 日，一架波音 737 MAX 9 喷气式飞机在飞行途中坠毁，门板似乎缺少四个关键螺栓。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/five-facts-us-safety-board-report-boeing-max-9-door-panel-2024-02-06/</guid>
+      <pubDate>Tue, 06 Feb 2024 22:50:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>ESG 争吵后贝莱德首席执行官芬克向德克萨斯州示好</title>
+      <link>https://www.reuters.com/sustainability/climate-energy/blackrock-ceo-fink-woos-texas-after-esg-spat-2024-02-06/</link>
+      <description><![CDATA[贝莱德首席执行官拉里·芬克周二在休斯敦举行的能源投资峰会上寻求与共和党官员建立融洽关系，此前德克萨斯州因放弃化石燃料的举措将贝莱德资产管理公司列入黑名单。]]></description>
+      <guid>https://www.reuters.com/sustainability/climate-energy/blackrock-ceo-fink-woos-texas-after-esg-spat-2024-02-06/</guid>
+      <pubDate>Tue, 06 Feb 2024 22:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国 FDA 发现出售给 Novo 的 Catalent 工厂存在控制失误</title>
+      <link>https://www.reuters.com/markets/deals/us-fda-finds-control-lapses-catalent-plant-being-sold-novo-2024-02-06/</link>
+      <description><![CDATA[一份检查报告显示，美国药品监管机构去年 11 月发现合同药品制造商 Catalent 位于印第安纳州布卢明顿的工厂存在质量控制失误，其中包括在生产线上发现了“害虫”。]]></description>
+      <guid>https://www.reuters.com/markets/deals/us-fda-finds-control-lapses-catalent-plant-being-sold-novo-2024-02-06/</guid>
+      <pubDate>Tue, 06 Feb 2024 22:23:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vans 运动鞋制造商季度业绩未达预期；首席财务官辞职</title>
+      <link>https://www.reuters.com/business/vf-corp-misses-quarterly-profit-expectations-cfo-step-down-2024-02-06/</link>
+      <description><![CDATA[VF Corp 周二公布的第三季度业绩未达预期，并表示其首席财务官 Matt Puckett 将在今年晚些时候辞职，导致这家 Vans 运动鞋制造商的股价在盘中交易中下跌约 7%。]]></description>
+      <guid>https://www.reuters.com/business/vf-corp-misses-quarterly-profit-expectations-cfo-step-down-2024-02-06/</guid>
+      <pubDate>Tue, 06 Feb 2024 21:54:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚洲 中国的反弹有腿吗？</title>
+      <link>https://www.reuters.com/markets/global-markets-view-asia-graphic-2024-02-06/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-view-asia-graphic-2024-02-06/</guid>
+      <pubDate>Tue, 06 Feb 2024 21:47:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于 IT 服务持续疲软，Cognizant 给出的 2024 年预测疲软；股价下跌</title>
+      <link>https://www.reuters.com/technology/cognizant-gives-weak-2024-forecast-it-services-weakness-persists-shares-fall-2024-02-06/</link>
+      <description><![CDATA[Cognizant Technology Solutions 周二预测全年收入低于预期，突显 IT 服务需求持续疲软，导致其股价在盘后交易中下跌 4%。]]></description>
+      <guid>https://www.reuters.com/technology/cognizant-gives-weak-2024-forecast-it-services-weakness-persists-shares-fall-2024-02-06/</guid>
+      <pubDate>Tue, 06 Feb 2024 21:46:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>迪士尼、福克斯和华纳兄弟探索频道将创建联合体育流媒体平台</title>
       <link>https://www.reuters.com/business/media-telecom/disney-fox-warner-bros-discovery-create-joint-sports-streaming-platform-wsj-2024-02-06/</link>
-      <description><![CDATA[据《华尔街日报》周二报道，福克斯公司、华特迪士尼旗下的 ESPN 和华纳兄弟探索频道将建立一个流媒体平台来共享体育资产。]]></description>
+      <description><![CDATA[福克斯公司、华特迪士尼旗下的 ESPN 和华纳兄弟探索频道周二表示，他们将在今年秋天晚些时候推出一项体育流媒体服务，以吸引那些不常看电视的年轻观众。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/disney-fox-warner-bros-discovery-create-joint-sports-streaming-platform-wsj-2024-02-06/</guid>
       <pubDate>Tue, 06 Feb 2024 21:30:17 GMT</pubDate>
     </item>
     <item>
-      <title>福特宣布定期补充股息</title>
+      <title>福特放慢电动汽车速度，向投资者发送一卡车现金</title>
       <link>https://www.reuters.com/business/autos-transportation/ford-offer-regular-supplemental-dividend-2024-02-06/</link>
-      <description><![CDATA[福特汽车公司周二宣布第一季度定期股息和补充股息分别为每股 15 美分和 18 美分，使其成为底特律第二家专注于向股东返还现金的汽车制造商。
- 同行通用汽车公司上周发布了对 2024 年的乐观展望，首席执行官玛丽·博拉 (Mary Barra) 表示，股东将通过股票回购从通用汽车的燃油卡车和 SUV 销售中获得更多现金。
- 成本削减以及对跨界 SUV 和皮卡车的需求帮助汽车制造商抵消了通货膨胀的阻力和电动汽车需求降温的早期迹象。
- 消费者选择混合动力汽车和家庭 SUV，而不是电动汽车，是因为方便且维护相对容易。
- 作为回应，正在制定雄心勃勃的电动汽车计划的福特和通用汽车已开始倾向于利润更高的混合动力和汽油动力车型。]]></description>
+      <description><![CDATA[福特汽车公司表示将向股东返还更多现金，从第一季度每股额外派发 18 美分股息开始，福特汽车公司股价周二上涨，与通用汽车公司一起为投资者提供更多来自北美燃烧卡车的现金。 。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ford-offer-regular-supplemental-dividend-2024-02-06/</guid>
       <pubDate>Tue, 06 Feb 2024 21:14:21 GMT</pubDate>
     </item>
     <item>
-      <title>Chipotle 因需求强劲而超出季度销售预期</title>
-      <link>https://www.reuters.com/business/retail-consumer/chipotle-beats-quarterly-sales-estimates-2024-02-06/</link>
-      <description><![CDATA[周二，Chipotle Mexican Grill 的季度销售额超出了市场预期，尽管菜单上的菜品价格越来越贵，但美国人仍订购了更多的墨西哥卷饼和饭碗，这突显了该公司在动荡的宏观环境中的韧性。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/chipotle-beats-quarterly-sales-estimates-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snap 未达到收入预期，表示随着股价暴跌，将更加关注用户增长</title>
-      <link>https://www.reuters.com/technology/snap-misses-revenue-estimate-says-it-will-focus-more-user-growth-2024-02-06/</link>
-      <description><![CDATA[周二，Snap 的季度收入略低于华尔街预期，因为 Snapchat 所有者仍在努力与规模更大的竞争对手争夺数字广告收入。]]></description>
-      <guid>https://www.reuters.com/technology/snap-misses-revenue-estimate-says-it-will-focus-more-user-growth-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:12:19 GMT</pubDate>
-    </item>
-    <item>
       <title>吉利德季度收入下降4%，口服新冠药物试验失败</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/gilead-quarterly-revenue-drops-4-oral-covid-drug-fails-trial-2024-02-06/</link>
-      <description><![CDATA[吉利德科学公司周二表示，由于 HIV 药物和用于住院 COVID-19 患者的输注药物 Veklury 销量下降，其第四季度收入下降了 4%，而由于费用减少，其调整后利润增长了 3%。]]></description>
+      <description><![CDATA[吉利德科学公司 (Gilead Sciences) 周二表示，由于 HIV 药物及其注入的 COVID-19 治疗药物 Veklury 的销量下降，第四季度收入下降了 4%，并且该公司预计 2024 年的销售额将弱于预期。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/gilead-quarterly-revenue-drops-4-oral-covid-drug-fails-trial-2024-02-06/</guid>
       <pubDate>Tue, 06 Feb 2024 21:06:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>美泰费雪公司负责人即将离职 - 华尔街日报</title>
-      <link>https://www.reuters.com/business/mattels-head-fisher-price-depart-wsj-2024-02-06/</link>
-      <description><![CDATA[《华尔街日报》周二援引公司发言人的话报道称，玩具制造商美泰 (Mattel) 的费雪 (Fisher-Price) 品牌负责人查克·斯考顿 (Chuck Scothon) 在领导该部门约六年后将离开公司。]]></description>
-      <guid>https://www.reuters.com/business/mattels-head-fisher-price-depart-wsj-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Horizo​​n 交易提振业绩，安进季度利润增长 15%</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/amgen-quarterly-profit-rises-15-horizon-deal-boosts-results-2024-02-06/</link>
-      <description><![CDATA[安进公司周二表示，其调整后的第四季度利润增长了 15%，这得益于该生物技术公司 10 月份收购罕见病制药商 Horizo​​n Therapeutics 后收入增长了 20%。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/amgen-quarterly-profit-rises-15-horizon-deal-boosts-results-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 21:05:15 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊将在医疗保健部门裁员数百人</title>
@@ -66,16 +118,9 @@
       <pubDate>Tue, 06 Feb 2024 20:44:39 GMT</pubDate>
     </item>
     <item>
-      <title>独家：加拿大前总理的对冲基金推动科尔士百货出售自己——消息人士</title>
-      <link>https://www.reuters.com/markets/deals/former-canada-prime-ministers-hedge-fund-pushes-kohls-sell-itself-sources-2024-02-06/</link>
-      <description><![CDATA[据知情人士透露，加拿大前总理斯蒂芬·哈珀 (Stephen Harper) 领导的一家激进对冲基金正在推动美国百货公司运营商科尔百货 (Kohl&#39;s) 出售自己。]]></description>
-      <guid>https://www.reuters.com/markets/deals/former-canada-prime-ministers-hedge-fund-pushes-kohls-sell-itself-sources-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 19:41:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约社区银行因股价暴跌而被股东起诉</title>
+      <title>纽约社区银行因股价跌至 1997 年水平而被股东起诉</title>
       <link>https://www.reuters.com/legal/new-york-community-bancorp-is-sued-over-disclosures-stock-price-2024-02-06/</link>
-      <description><![CDATA[周二，纽约社区银行 (New York Community Bancorp) 被股东提起集体诉讼，此前该银行公布了意外的商业房地产贷款损失并大幅削减股息，导致其股价下跌一半以上。]]></description>
+      <description><![CDATA[周二，纽约社区银行 (New York Community Bancorp) 遭到股东起诉，此前这家陷入困境的银行公布了意外的商业房地产贷款损失，并大幅削减了股息，导致其股价跌至近 27 年来的低点。]]></description>
       <guid>https://www.reuters.com/legal/new-york-community-bancorp-is-sued-over-disclosures-stock-price-2024-02-06/</guid>
       <pubDate>Tue, 06 Feb 2024 19:18:02 GMT</pubDate>
     </item>
@@ -87,13 +132,6 @@
       <pubDate>Tue, 06 Feb 2024 18:13:33 GMT</pubDate>
     </item>
     <item>
-      <title>Zara 所有者 Inditex 同意为西班牙商店工人续订奖金</title>
-      <link>https://www.reuters.com/business/retail-consumer/zara-owner-inditex-agrees-renew-bonus-shop-workers-spain-2024-02-06/</link>
-      <description><![CDATA[一位工会领导人周二表示，Zara 所有者 Inditex 已同意本月连续第二年向其祖国西班牙约 28,000 名商店工人支付 1,000 欧元（1,075 美元）的年度奖金。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/zara-owner-inditex-agrees-renew-bonus-shop-workers-spain-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 17:54:48 GMT</pubDate>
-    </item>
-    <item>
       <title>谷歌支付 3.5 亿美元和解股东数据隐私诉讼</title>
       <link>https://www.reuters.com/legal/google-pay-350-million-revolve-shareholders-data-privacy-lawsuit-2024-02-06/</link>
       <description><![CDATA[谷歌同意支付 3.5 亿美元来和解股东就其现已不复存在的 Google+ 社交媒体网站的安全漏洞提起的诉讼。]]></description>
@@ -101,53 +139,11 @@
       <pubDate>Tue, 06 Feb 2024 17:15:55 GMT</pubDate>
     </item>
     <item>
-      <title>随着整体债务水平上升，纽约联储认为汽车借贷遇到麻烦</title>
-      <link>https://www.reuters.com/markets/us/new-york-fed-sees-signs-trouble-auto-borrowing-overall-debt-level-rises-2024-02-06/</link>
-      <description><![CDATA[去年最后三个月，美国的总体借贷水平小幅上升，尽管总体困难仍低于 COVID-19 大流行爆发之前的水平，但更多类型的借贷遇到了麻烦，尤其是在汽车领域。]]></description>
-      <guid>https://www.reuters.com/markets/us/new-york-fed-sees-signs-trouble-auto-borrowing-overall-debt-level-rises-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 16:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>从波音 MAX 9 喷气式飞机上飞下来的门塞似乎缺少螺栓 - 机构</title>
+      <title>NTSB 表示，阿拉斯加喷气式飞机上的波音 737 MAX 9 门塞螺栓似乎缺失</title>
       <link>https://www.reuters.com/business/aerospace-defense/us-safety-regulator-release-initial-report-boeing-737-max-cabin-blowout-agency-2024-02-06/</link>
       <description><![CDATA[美国调查人员的初步报告显示，1 月 5 日，一架波音 737 MAX 9 喷气式飞机在飞行途中飞出的门板似乎缺少四个关键螺栓，该报告首次正式调查了这起可怕事故的发生过程。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/us-safety-regulator-release-initial-report-boeing-737-max-cabin-blowout-agency-2024-02-06/</guid>
       <pubDate>Tue, 06 Feb 2024 14:45:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>标准普尔 500 指数收盘；关注盈利和美国利率</title>
-      <link>https://www.reuters.com/markets/us/futures-subdued-with-focus-pharma-earnings-rate-expectations-2024-02-06/</link>
-      <description><![CDATA[标准普尔 500 指数周二收盘小幅走高，投资者仔细审视美国大型公司的各种收益，并消化美联储政策制定者的评论，以寻找有关其首次计划降息的线索。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-subdued-with-focus-pharma-earnings-rate-expectations-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 11:27:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩根大通未来三年将开设500多家新银行分行</title>
-      <link>https://www.reuters.com/markets/us/jpmorgan-open-more-than-500-new-bank-branches-over-next-three-years-2024-02-06/</link>
-      <description><![CDATA[摩根大通周二表示，该公司正在着手进行近年来最积极的银行分行扩张计划之一，计划到 2027 年在美国新增 500 多个分行，以扩大其在代表性不足的地区的业务范围。]]></description>
-      <guid>https://www.reuters.com/markets/us/jpmorgan-open-more-than-500-new-bank-branches-over-next-three-years-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 11:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国联邦航空局局长表示“当前系统无法保证波音 MAX 9 的安全”</title>
-      <link>https://www.reuters.com/business/aerospace-defense/us-faa-chief-face-questions-boeing-after-max-9-emergency-2024-02-06/</link>
-      <description><![CDATA[美国联邦航空管理局局长周二表示，在 737 MAX 9 空中紧急情况发生后，该机构将在波音公司派驻检查员，并称“当前系统无法正常工作”。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/us-faa-chief-face-questions-boeing-after-max-9-emergency-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 10:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌呼吁间谍软件公司加强监管</title>
-      <link>https://www.reuters.com/technology/cybersecurity/google-calls-out-spyware-firms-advocates-tighter-regulation-2024-02-06/</link>
-      <description><![CDATA[互联网巨头谷歌周二点名了一系列监控软件公司，称这些公司允许使用危险的黑客工具，并敦促美国及其盟国采取更多措施来控制间谍软件行业。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/google-calls-out-spyware-firms-advocates-tighter-regulation-2024-02-06/</guid>
-      <pubDate>Tue, 06 Feb 2024 10:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音持续的 737 MAX 危机</title>
-      <link>https://www.reuters.com/business/aerospace-defense/boeings-ongoing-737-max-crisis-2024-01-06/</link>
-      <description><![CDATA[波音最畅销的 737 MAX 飞机的最新一次黑眼事件发生在 1 月份，当时阿拉斯加航空公司的一架航班机舱面板爆炸，被迫紧急降落。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/boeings-ongoing-737-max-crisis-2024-01-06/</guid>
-      <pubDate>Sat, 06 Jan 2024 22:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
