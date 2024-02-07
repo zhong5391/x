@@ -2,7 +2,6 @@ name: circle_translate
 
 # Controls when the workflow will run
 on:
-
   schedule:
    - cron: '*/30 * * * *'
   # Allows you to run this workflow manually from the Actions tab
@@ -26,6 +25,16 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: 3.8
+
+      # Cache pip dependencies
+      - name: Cache pip dependencies
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
       - name: Install dependencies
         run: |
           sudo apt-get install libxml2-dev libxslt-dev
@@ -34,11 +43,11 @@ jobs:
           pip install lxml
           pip install html5lib
           pip install jinja2
-          #pip install googletrans
-          #pip install googletrans==4.0.0-rc1  bs4
+          pip install googletrans
+          pip install googletrans==4.0.0-rc1  bs4
           pip install beautifulsoup4 pygtrans feedparser rfeed
           pip install --upgrade feedparser
-          #pip install requests
+          pip install requests
       - name: ls_show
         run: |
           python Bingtrans.py
