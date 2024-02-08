@@ -1,35 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 08 Feb 2024 17:39:00 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 08 Feb 2024 18:22:04 GMT</lastBuildDate>
     <item>
-      <title>普京和习近平拒绝美国的“干涉”，赞扬两国关系和贸易 - 克里姆林宫</title>
+      <title>卡塔尔首轮比赛后吴和隆巴德并列领先</title>
+      <link>https://www.reuters.com/sports/golf/wu-lombard-share-lead-after-first-round-qatar-2024-02-08/</link>
+      <description><![CDATA[周四在多哈高尔夫俱乐部举行的卡塔尔大师赛第一轮比赛结束后，中国选手吴阿顺和南非选手赞德·隆巴德打出低于标准杆 5 杆的 67 杆，并以一杆领先。]]></description>
+      <guid>https://www.reuters.com/sports/golf/wu-lombard-share-lead-after-first-round-qatar-2024-02-08/</guid>
+      <pubDate>Thu, 08 Feb 2024 15:33:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>边境协议失败后美国参议院将就950亿美元乌克兰和以色列援助法案进行投票</title>
+      <link>https://www.reuters.com/world/us/us-senate-vote-95-bln-ukraine-israel-aid-bill-after-failed-border-deal-2024-02-08/</link>
+      <description><![CDATA[美国参议院定于周四就一项 953.4 亿美元的法案进行投票，其中包括对乌克兰、以色列和印度-太平洋地区的援助，此前共和党人阻止了妥协法案，其中还包括长期寻求的移民政策改革。]]></description>
+      <guid>https://www.reuters.com/world/us/us-senate-vote-95-bln-ukraine-israel-aid-bill-after-failed-border-deal-2024-02-08/</guid>
+      <pubDate>Thu, 08 Feb 2024 15:15:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>克里姆林宫：普京和习近平拒绝美国的“干涉”，赞扬两国关系和贸易</title>
       <link>https://www.reuters.com/world/putin-xi-reject-us-interference-praise-their-own-ties-trade-kremlin-2024-02-08/</link>
       <description><![CDATA[克里姆林宫表示，俄罗斯总统弗拉基米尔·普京和中国国家主席习近平周四通电话，均拒绝美国干涉其他国家事务。]]></description>
       <guid>https://www.reuters.com/world/putin-xi-reject-us-interference-praise-their-own-ties-trade-kremlin-2024-02-08/</guid>
       <pubDate>Thu, 08 Feb 2024 13:18:06 GMT</pubDate>
     </item>
     <item>
-      <title>拉尔夫·劳伦 (Ralph Lauren) 凭借强劲的假日需求和中国市场反弹，公布了乐观的业绩</title>
+      <title>拉尔夫·劳伦 (Ralph Lauren) 乘着强劲的假日需求和中国市场反弹，公布了乐观的业绩</title>
       <link>https://www.reuters.com/business/retail-consumer/ralph-lauren-tops-quarterly-sales-estimate-strong-demand-2024-02-08/</link>
-      <description><![CDATA[拉尔夫·劳伦 (Ralph Lauren) 周四的营收连续第 12 个季度超出华尔街预期，这得益于美国富裕消费者对其昂贵毛衣和衬衫的强劲需求，以及中国市场的强劲反弹。]]></description>
+      <description><![CDATA[受美国对其昂贵的羊绒毛衣、外套和鸡尾酒会礼服的强劲假期需求以及中国的强劲反弹推动，Ralph Lauren 连续第 14 个季度超出了利润预期，周四该公司股价上涨 14%。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/ralph-lauren-tops-quarterly-sales-estimate-strong-demand-2024-02-08/</guid>
       <pubDate>Thu, 08 Feb 2024 13:05:38 GMT</pubDate>
     </item>
     <item>
       <title>欧盟的维斯塔格怀疑大型科技公司是否会完全遵守具有里程碑意义的欧盟规则</title>
       <link>https://www.reuters.com/markets/europe/eus-vestager-doubts-if-big-tech-will-fully-comply-with-landmark-eu-rules-2024-02-08/</link>
-      <description><![CDATA[欧盟反垄断主管玛格丽特·维斯塔格周四对大型科技公司是否会完全遵守欧盟旨在限制其权力并确保为较小竞争对手提供公平竞争环境的标志性规则表示怀疑。]]></description>
+      <description><![CDATA[欧盟反垄断主管玛格丽特·维斯塔格周四对大型科技公司是否会完全遵守欧盟旨在限制其权力并确保为较小竞争对手提供公平竞争环境的里程碑式规则表示怀疑。]]></description>
       <guid>https://www.reuters.com/markets/europe/eus-vestager-doubts-if-big-tech-will-fully-comply-with-landmark-eu-rules-2024-02-08/</guid>
       <pubDate>Thu, 08 Feb 2024 12:58:00 GMT</pubDate>
     </item>
     <item>
-      <title>Coach母公司Tapestry上调2024年盈利预期，因中国需求复苏</title>
+      <title>Tapestry因中国需求反弹和强劲利润率上调2024年利润预测</title>
       <link>https://www.reuters.com/business/retail-consumer/coach-parent-tapestry-beats-quarterly-sales-estimates-2024-02-08/</link>
-      <description><![CDATA[Coach 母公司 Tapestry 周四上调了全年利润预期，寄望于其优质书包和手提包的全价销售以及其主要市场中国需求复苏的早期迹象。]]></description>
+      <description><![CDATA[Coach 母公司 Tapestry 周四上调了年度利润预期，押注其优质手袋的全价销售以及主要市场中国需求复苏的早期迹象。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/coach-parent-tapestry-beats-quarterly-sales-estimates-2024-02-08/</guid>
       <pubDate>Thu, 08 Feb 2024 11:53:50 GMT</pubDate>
     </item>
@@ -50,12 +64,12 @@
     <item>
       <title>“消防员”吴在溃败后成为中国市场监管者</title>
       <link>https://www.reuters.com/markets/asia/firefighter-wu-becomes-chinas-market-regulator-after-rout-2024-02-08/</link>
-      <description><![CDATA[中国市场监管机构的新任负责人对内幕交易采取强硬态度，快速救火，与共产党领导人密切合作，并管理过一家证券交易所——这对于掌管中国陷入困境的股市的人来说是完美的形象。]]></description>
+      <description><![CDATA[中国市场监管机构的新任负责人对内幕交易采取强硬态度，迅速扑救，与共产党领导人密切合作，并管理过一家证券交易所——这对于掌管中国陷入困境的股市的人来说是完美的形象。]]></description>
       <guid>https://www.reuters.com/markets/asia/firefighter-wu-becomes-chinas-market-regulator-after-rout-2024-02-08/</guid>
       <pubDate>Thu, 08 Feb 2024 11:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>早盘买盘：标准普尔 500 指数触及 5,000 点，创历史新高，中国萎缩</title>
+      <title>早盘买盘：标准普尔 500 指数创历史新高 5,000 点，中国泄气</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-08/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-08/</guid>
@@ -104,7 +118,7 @@
       <pubDate>Thu, 08 Feb 2024 07:50:35 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲外汇空头坚守阵地，美元坚挺，中国问题削弱信心</title>
+      <title>美元坚挺、中国经济困境削弱信心，亚洲外汇空头坚守阵地</title>
       <link>https://www.reuters.com/markets/currencies/asian-fx-bears-hold-ground-robust-dollar-china-woes-dent-confidence-2024-02-08/</link>
       <description><![CDATA[路透周四的一项调查显示，对大多数亚洲货币的空头押注略有缓解，但仍坚定地处于看跌区域，原因是美国提前降息的希望减弱，导致美元走强，而区域强国中国的市场波动削弱了投资者信心。]]></description>
       <guid>https://www.reuters.com/markets/currencies/asian-fx-bears-hold-ground-robust-dollar-china-woes-dent-confidence-2024-02-08/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[汤姆·威斯布鲁克 (Tom Westbrook) 对欧洲和全球市场未来一天的展望。]]></description>
       <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-02-08/</guid>
       <pubDate>Thu, 08 Feb 2024 05:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>受北京救援行动影响，中国股市创一年多以来最佳单周表现</title>
-      <link>https://www.reuters.com/world/china/china-stocks-extend-bounce-regulatory-change-of-guard-2024-02-08/</link>
-      <description><![CDATA[周四，在市场监管机构领导层发生变化以及北京方面在延长休市前采取一系列支持措施遏制了严重抛售之后，遭受重创的中国股市周四迎来了一年多以来最好的一周。]]></description>
-      <guid>https://www.reuters.com/world/china/china-stocks-extend-bounce-regulatory-change-of-guard-2024-02-08/</guid>
-      <pubDate>Thu, 08 Feb 2024 03:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>高瓴投资收购新加坡InCorp Global</title>
-      <link>https://www.reuters.com/markets/deals/hillhouse-investment-acquires-singapores-incorp-global-2024-02-08/</link>
-      <description><![CDATA[总部位于新加坡的企业解决方案和商业咨询公司 InCorp Global 周四表示，该公司已被全球另类投资公司 Hillhouse Investment 收购。]]></description>
-      <guid>https://www.reuters.com/markets/deals/hillhouse-investment-acquires-singapores-incorp-global-2024-02-08/</guid>
-      <pubDate>Thu, 08 Feb 2024 02:58:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
