@@ -271,6 +271,7 @@ links = []
 for x in secs[1:]:
     max_item = int(get_cfg(x, "max"))
     tran(x, max_item)
+    time.sleep(0.5)
 update_readme(links)
 
 with open("test.ini", "w") as configfile:
