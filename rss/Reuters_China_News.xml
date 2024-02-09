@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 09 Feb 2024 09:31:10 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 09 Feb 2024 11:43:30 GMT</lastBuildDate>
     <item>
       <title>政策支持下1月新增银行贷款创历史新高</title>
       <link>https://www.reuters.com/world/china/china-january-new-bank-loans-hit-record-high-policy-support-2024-02-09/</link>
@@ -13,7 +13,7 @@
       <pubDate>Fri, 09 Feb 2024 08:05:36 GMT</pubDate>
     </item>
     <item>
-      <title>在梅西强烈反对后，香港组织者将部分退还迈阿密国际队门票</title>
+      <title>梅西强烈反对后，香港主办方将部分退还迈阿密国际门票</title>
       <link>https://www.reuters.com/sports/soccer/hong-kong-organiser-partly-refund-inter-miami-tickets-after-messi-backlash-2024-02-09/</link>
       <description><![CDATA[上周在香港举行的一场备受期待的国际迈阿密比赛的组织者将给予 50% 的门票退款，此前阿根廷球员因伤没有上场，但几天后在日本踢球，引发了广泛的愤怒。 。]]></description>
       <guid>https://www.reuters.com/sports/soccer/hong-kong-organiser-partly-refund-inter-miami-tickets-after-messi-backlash-2024-02-09/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>百度与联想达成第三笔中国人工智能智能手机交易</title>
       <link>https://www.reuters.com/technology/baidu-partners-with-lenovo-third-china-ai-smartphone-deal-2024-02-09/</link>
-      <description><![CDATA[中国的百度与联想合作，在联想的智能手机上展示其生成式人工智能（AI）技术，这是与一家手机制造商的最新合作，旨在为其人工智能模型寻求实际应用。]]></description>
+      <description><![CDATA[中国的百度与联想合作，将其生成式人工智能（AI）技术应用到联想的智能手机上，这是与手机制造商的最新合作，旨在为其人工智能模型寻求实际应用。]]></description>
       <guid>https://www.reuters.com/technology/baidu-partners-with-lenovo-third-china-ai-smartphone-deal-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 05:48:29 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Fri, 09 Feb 2024 05:05:07 GMT</pubDate>
     </item>
     <item>
-      <title>美元走强抑制避险需求，金价持平</title>
+      <title>美元走强对抗避险需求，金价持平</title>
       <link>https://www.reuters.com/markets/commodities/gold-flat-safe-haven-demand-offsets-us-dollar-strength-2024-02-09/</link>
       <description><![CDATA[周五金价持平，中国市场因农历新年假期休市，而美元走强则抵消了中东紧张局势引发的避险需求。]]></description>
       <guid>https://www.reuters.com/markets/commodities/gold-flat-safe-haven-demand-offsets-us-dollar-strength-2024-02-09/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>日元触及10周低点，美元走强，交易员调整利率押注</title>
       <link>https://www.reuters.com/markets/currencies/yen-near-10-week-low-dollar-buoyant-traders-adjust-rate-bets-2024-02-09/</link>
-      <description><![CDATA[日元周五跌至10周低点，而美元则第四周上涨，因为交易员减少了对日本央行将多快加息以及美联储将多快降息的押注。]]></description>
+      <description><![CDATA[周五日元跌至10周低点，而美元则连续第四周上涨，因为交易员减少了对日本央行将多快加息以及美联储将多快降息的押注。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-near-10-week-low-dollar-buoyant-traders-adjust-rate-bets-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 01:42:49 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>“消防员”吴在溃败后成为中国市场监管者</title>
       <link>https://www.reuters.com/markets/asia/firefighter-wu-becomes-chinas-market-regulator-after-rout-2024-02-08/</link>
-      <description><![CDATA[中国市场监管机构的新任负责人对内幕交易采取强硬态度，快速救火，与共产党领导人密切合作，并管理过一家证券交易所——这对于掌管中国陷入困境的股市的人来说是完美的形象。]]></description>
+      <description><![CDATA[中国市场监管机构的新任负责人对内幕交易采取强硬态度，迅速扑救，与共产党领导人密切合作，并管理过一家证券交易所——这对于掌管中国陷入困境的股市的人来说是完美的形象。]]></description>
       <guid>https://www.reuters.com/markets/asia/firefighter-wu-becomes-chinas-market-regulator-after-rout-2024-02-08/</guid>
       <pubDate>Thu, 08 Feb 2024 11:11:29 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Thu, 08 Feb 2024 02:18:10 GMT</pubDate>
     </item>
     <item>
-      <title>中国称梅西缺席香港比赛超出“体育领域”</title>
+      <title>中国称梅西缺席香港比赛超出“体育范畴”</title>
       <link>https://www.reuters.com/sports/soccer/china-says-messis-absence-hong-kong-match-beyond-realm-sports-fury-builds-2024-02-08/</link>
       <description><![CDATA[中国官方媒体、香港政界人士和一些球迷迅速谴责阿根廷球员莱昂内尔·梅西(Lionel Messi)周三参加日本的一场比赛，几天前他在香港一场备受期待的比赛中坐在替补席上。]]></description>
       <guid>https://www.reuters.com/sports/soccer/china-says-messis-absence-hong-kong-match-beyond-realm-sports-fury-builds-2024-02-08/</guid>
