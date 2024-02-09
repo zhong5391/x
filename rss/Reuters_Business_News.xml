@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 09 Feb 2024 21:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Feb 2024 21:38:54 GMT</lastBuildDate>
+    <item>
+      <title>美国联邦航空局局长下周在西雅图会见波音公司</title>
+      <link>https://www.reuters.com/business/aerospace-defense/faa-chief-meet-with-boeing-seattle-next-week-2024-02-09/</link>
+      <description><![CDATA[美国联邦航空管理局局长迈克尔·惠特克将于下周前往西雅图与波音公司会面，该机构将在空中紧急情况后对该飞机制造商的 737 MAX 生产流程进行审计。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/faa-chief-meet-with-boeing-seattle-next-week-2024-02-09/</guid>
+      <pubDate>Fri, 09 Feb 2024 20:51:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储洛根：风险更加平衡，降息并不紧迫</title>
+      <link>https://www.reuters.com/markets/feds-logan-risks-more-balanced-no-urgency-rate-cuts-2024-02-09/</link>
+      <description><![CDATA[达拉斯联邦储备银行行长洛里·洛根周五表示，她并不急于降息，尽管在降低通胀方面取得了“巨大进展”，但她希望有更多数据来证实这一进展是持久的。
+她在德克萨斯州赫斯特举行的塔兰特交通峰会上表示：“我看到的经济风险正变得更加平衡，但我确实认为我们需要花时间继续研究数据。”]]></description>
+      <guid>https://www.reuters.com/markets/feds-logan-risks-more-balanced-no-urgency-rate-cuts-2024-02-09/</guid>
+      <pubDate>Fri, 09 Feb 2024 20:27:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>标准普尔 500 指数 2023 年第四季度盈利预计同比增长 9% - LSEG</title>
+      <link>https://www.reuters.com/markets/sp-500-q4-2023-earnings-growth-now-seen-9-year-over-year-lseg-2024-02-09/</link>
+      <description><![CDATA[根据伦敦证券交易所周五的数据，根据大约三分之二的公司公布的业绩，标准普尔 500 指数 2023 年第四季度的盈利增长预计为 9.0%，几乎是 1 月 1 日预测的 4.7% 增长的两倍。]]></description>
+      <guid>https://www.reuters.com/markets/sp-500-q4-2023-earnings-growth-now-seen-9-year-over-year-lseg-2024-02-09/</guid>
+      <pubDate>Fri, 09 Feb 2024 19:50:45 GMT</pubDate>
+    </item>
     <item>
       <title>独家：思科将裁员数千人，专注于高增长领域——消息人士</title>
       <link>https://www.reuters.com/business/cisco-cut-thousands-jobs-it-seeks-focus-high-growth-areas-sources-2024-02-09/</link>
@@ -15,7 +37,7 @@
     <item>
       <title>ASML 的下一个芯片挑战：推出价值 3.5 亿美元的新型“高 NA EUV”机器</title>
       <link>https://www.reuters.com/technology/asmls-next-chip-challenge-rollout-its-new-350-mln-high-na-euv-machine-2024-02-09/</link>
-      <description><![CDATA[芯片工具制造巨头ASML周五表示，它正在加紧生产其价值3.5亿美元的新型“高数值孔径EUV”机器，该设备的大小相当于双层巴士，对于其在1250亿美元的市场中保持领先地位至关重要。]]></description>
+      <description><![CDATA[芯片工具制造巨头ASML周五表示，它正在加紧生产其价值3.5亿美元的新型“高NA EUV”机器，该设备的大小相当于双层巴士，对于其在1250亿美元的市场中保持领先地位至关重要。]]></description>
       <guid>https://www.reuters.com/technology/asmls-next-chip-challenge-rollout-its-new-350-mln-high-na-euv-machine-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 17:05:47 GMT</pubDate>
     </item>
@@ -36,40 +58,26 @@
     <item>
       <title>由于担心 RSV 疫苗功效下降，Moderna 股价下跌</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/moderna-shares-slide-longer-term-data-shows-quick-fall-rsv-vaccine-efficacy-2024-02-09/</link>
-      <description><![CDATA[Moderna 周五股价下跌 7%，此前华尔街分析师对其实验性呼吸道合胞病毒 (RSV) 疫苗与葛兰素史克 (GSK) 和辉瑞 (Pfizer) 的竞争对手疫苗相比，其实验性呼吸道合胞病毒 (RSV) 疫苗功效下降更快表示担忧。]]></description>
+      <description><![CDATA[周五，华尔街分析师对其实验性呼吸道合胞病毒 (RSV) 疫苗与葛兰素史克 (GSK) 和辉瑞 (Pfizer) 的竞争对手疫苗相比，其实验性呼吸道合胞病毒 (RSV) 疫苗功效下降更快表示担忧，该公司股价周五下跌 7%。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/moderna-shares-slide-longer-term-data-shows-quick-fall-rsv-vaccine-efficacy-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 15:28:51 GMT</pubDate>
     </item>
     <item>
-      <title>诉讼称亚马逊引导消费者购买价格更高的商品</title>
-      <link>https://www.reuters.com/technology/amazon-steers-consumers-higher-priced-items-lawsuit-claims-2024-02-09/</link>
-      <description><![CDATA[亚马逊在一项拟议的美国集体诉讼中被起诉，指控这家在线零售商违反消费者保护法，引导数亿购物者购买价格更高的商品以赚取额外费用。]]></description>
-      <guid>https://www.reuters.com/technology/amazon-steers-consumers-higher-priced-items-lawsuit-claims-2024-02-09/</guid>
-      <pubDate>Fri, 09 Feb 2024 15:09:39 GMT</pubDate>
-    </item>
-    <item>
       <title>高层管理人员披露股份购买计划后 NYCB 股价飙升</title>
       <link>https://www.reuters.com/markets/us/nycb-shares-struggle-gain-after-selloff-over-cre-exposure-worries-2024-02-09/</link>
-      <description><![CDATA[周五，纽约社区银行 (New York Community Bancorp) 的高管透露，他们购买了这家陷入困境的美国银行的股票，该银行的股价飙升 15%。]]></description>
+      <description><![CDATA[纽约社区银行 (New York Community Bancorp) 的高管透露，他们已购买了这家美国银行的股票，周五该公司股价上涨 13%。]]></description>
       <guid>https://www.reuters.com/markets/us/nycb-shares-struggle-gain-after-selloff-over-cre-exposure-worries-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 15:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>美国 SEC 对未能保存记录的公司处以超过 8100 万美元的罚款</title>
+      <title>美国证券交易委员会对更多华尔街公司因记录保存问题处以罚款</title>
       <link>https://www.reuters.com/business/finance/us-sec-says-16-firms-fined-more-than-81-mln-recordkeeping-failures-2024-02-09/</link>
-      <description><![CDATA[美国证券交易委员会周五表示，16 家公司将支付超过 8100 万美元，以和解针对广泛的记录保存失败的指控。]]></description>
+      <description><![CDATA[监管机构周五表示，一批新的华尔街公司已同意支付超过 8100 万美元的民事罚款，以和解美国证券交易委员会对记录保存失败的指控。]]></description>
       <guid>https://www.reuters.com/business/finance/us-sec-says-16-firms-fined-more-than-81-mln-recordkeeping-failures-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 14:53:08 GMT</pubDate>
     </item>
     <item>
-      <title>独家：康菲石油公司在历史性的 Citgo 股票拍卖中出人意料地成为竞标者</title>
-      <link>https://www.reuters.com/markets/commodities/conoco-emerges-surprise-bidder-historic-citgo-share-auction-2024-02-09/</link>
-      <description><![CDATA[据知情人士透露，美国法院拍卖了委内瑞拉国有炼油商 Citgo Petroleum 的命运，该拍卖已收到以索赔代替现金的出价，这是解决委内瑞拉债务的历史性案件的一部分。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/conoco-emerges-surprise-bidder-historic-citgo-share-auction-2024-02-09/</guid>
-      <pubDate>Fri, 09 Feb 2024 14:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>即时观点：修正后的美国12月CPI给美联储更多喘息空间</title>
+      <title>即时观点：美国12月CPI修正后给美联储更多喘息空间</title>
       <link>https://www.reuters.com/markets/us/view-revised-us-december-cpi-gives-fed-bit-more-breathing-room-2024-02-09/</link>
       <description><![CDATA[周五修订后的政府数据显示，美国 12 月份消费者价格涨幅低于最初估计。]]></description>
       <guid>https://www.reuters.com/markets/us/view-revised-us-december-cpi-gives-fed-bit-more-breathing-room-2024-02-09/</guid>
@@ -78,7 +86,7 @@
     <item>
       <title>美国消费者价格修正结果好坏参半，通胀放缓趋势未受影响</title>
       <link>https://www.reuters.com/markets/us/us-december-consumer-prices-revised-lower-2024-02-09/</link>
-      <description><![CDATA[美国12月消费者价格涨幅低于最初预期，但总体通胀修正结果好坏参半，并没有改变人们对美联储今年预期降息时间的预期。]]></description>
+      <description><![CDATA[美国12月消费者价格涨幅低于最初预期，但整体通胀修正结果好坏参半，并没有改变人们对美联储今年预期降息时间的预期。]]></description>
       <guid>https://www.reuters.com/markets/us/us-december-consumer-prices-revised-lower-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 13:50:36 GMT</pubDate>
     </item>
@@ -92,19 +100,19 @@
     <item>
       <title>本周至周三投资者抛售美国股票，买入中国股票 - 美银美林</title>
       <link>https://www.reuters.com/markets/global-markets-flows-bofa-update-1-2024-02-09/</link>
-      <description><![CDATA[美国银行周五援引 EPFR 数据称，截至周三的一周内，投资者抛售美国股票和房地产股票，买入中国股票，称资金流向中国可能是由中国公共基金推动的。]]></description>
+      <description><![CDATA[美国银行周五援引 EPFR 数据称，截至周三的一周内，投资者抛售美国股票和房地产股票，买入中国股票，称资金流入中国可能是由中国公共基金推动的。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-flows-bofa-update-1-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 12:25:06 GMT</pubDate>
     </item>
     <item>
-      <title>大型股反弹推动标普 500 指数进一步突破 5,000 点大关</title>
+      <title>大型股反弹推动纳斯达克指数和标准普尔 500 指数达到整数里程碑</title>
       <link>https://www.reuters.com/markets/us/futures-edge-higher-ahead-revised-2023-inflation-data-2024-02-09/</link>
-      <description><![CDATA[在对 2023 年通胀数据的小幅修正支持了美联储今年将降息的假设之后，英伟达等大型股的大幅上涨推动标准普尔 500 指数连续第二天突破 5,000 点大关。]]></description>
+      <description><![CDATA[由于投资者押注人工智能技术并关注强劲的盈利数据，标准普尔 500 指数连续第二天突破 5,000 点大关，纳斯达克指数突破 16,000 点，受益于大型股票和芯片公司（包括英伟达）的提振。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-edge-higher-ahead-revised-2023-inflation-data-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 11:31:21 GMT</pubDate>
     </item>
     <item>
-      <title>美国将投资超过50亿美元用于半导体研发</title>
+      <title>白宫推出 110 亿美元的美国半导体研发计划</title>
       <link>https://www.reuters.com/technology/us-announces-over-5-bln-investments-semiconductor-related-research-development-2024-02-09/</link>
       <description><![CDATA[白宫周五宣扬美国政府计划斥资 110 亿美元用于半导体相关研发，并表示将启动耗资 50 亿美元的国家半导体技术中心。]]></description>
       <guid>https://www.reuters.com/technology/us-announces-over-5-bln-investments-semiconductor-related-research-development-2024-02-09/</guid>
@@ -118,18 +126,11 @@
       <pubDate>Fri, 09 Feb 2024 11:04:18 GMT</pubDate>
     </item>
     <item>
-      <title>生产压力如何使波音陷入另一场危机</title>
+      <title>生产压力如何让波音陷入另一场危机</title>
       <link>https://www.reuters.com/business/aerospace-defense/how-production-pressures-plunged-boeing-into-yet-another-crisis-2024-02-09/</link>
-      <description><![CDATA[10 月份，波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 被问到，在出现一系列质量问题后，波音公司能够以多快的速度提高其最畅销的 737 MAX 的产量。他很乐观：波音公司将恢复到每月 38 架喷气式飞机，并且“渴望尽快从那里开始生产”。]]></description>
+      <description><![CDATA[10 月，波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 被问到，在出现一系列质量问题后，波音公司能够以多快的速度提高其最畅销的 737 MAX 的产量。他很乐观：波音公司将恢复到每月 38 架喷气式飞机，并且“渴望尽快从那里开始生产”。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/how-production-pressures-plunged-boeing-into-yet-another-crisis-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 11:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>焦点：经过数月的谈判，Yandex 易手，俄罗斯罕见妥协</title>
-      <link>https://www.reuters.com/markets/deals/after-months-negotiation-rare-russian-compromise-yandex-changes-hands-2024-02-09/</link>
-      <description><![CDATA[该交易将消除西方国家对通常被称为“俄罗斯谷歌”的 Yandex 的监管，并加强克里姆林宫对俄罗斯互联网空间的控制。]]></description>
-      <guid>https://www.reuters.com/markets/deals/after-months-negotiation-rare-russian-compromise-yandex-changes-hands-2024-02-09/</guid>
-      <pubDate>Fri, 09 Feb 2024 09:08:00 GMT</pubDate>
     </item>
     <item>
       <title>随着中国经济困境加剧，投资银行准备迎接更多亚洲裁员</title>
@@ -139,9 +140,9 @@
       <pubDate>Fri, 09 Feb 2024 07:01:45 GMT</pubDate>
     </item>
     <item>
-      <title>比特币创下四个月来最大单周涨幅</title>
+      <title>市场摆脱通胀修正数据影响，美元走软</title>
       <link>https://www.reuters.com/markets/currencies/yen-near-10-week-low-dollar-buoyant-traders-adjust-rate-bets-2024-02-09/</link>
-      <description><![CDATA[比特币周五上涨 5% 至一个月高位，分析师称这是 4 月减半事件之前的一波买盘推动，而且近期交易所交易基金的资金流出放缓。]]></description>
+      <description><![CDATA[美元周五走软，连续第四周上涨，而交易员则减少了对日本央行加息速度以及美联储降息速度的押注。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-near-10-week-low-dollar-buoyant-traders-adjust-rate-bets-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 01:42:49 GMT</pubDate>
     </item>
