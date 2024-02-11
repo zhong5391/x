@@ -4,7 +4,7 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 11 Feb 2024 21:33:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 22:24:26 GMT</lastBuildDate>
     <item>
       <title>SAP 董事会主席指定辞职，Ala-Pietila 被提名为继任者</title>
       <link>https://www.reuters.com/technology/sap-board-chair-designate-resign-ala-pietila-nominated-successor-2024-02-11/</link>
@@ -13,9 +13,16 @@
       <pubDate>Sun, 11 Feb 2024 19:47:46 GMT</pubDate>
     </item>
     <item>
+      <title>消息人士称，Diamondback Energy 与 Endeavour Energy 的合并金额接近 250 亿美元</title>
+      <link>https://www.reuters.com/markets/deals/diamondback-energy-endeavor-energy-finalizing-merger-create-50-bln-company-wall-2024-02-11/</link>
+      <description><![CDATA[消息人士周日称，美国页岩油竞争对手 Diamondback Energy 和 Endeavor Energy Resources 即将敲定一项价值约 250 亿美元的现金加股票交易，该交易将创建一家估值超过 500 亿美元的石油和天然气公司。]]></description>
+      <guid>https://www.reuters.com/markets/deals/diamondback-energy-endeavor-energy-finalizing-merger-create-50-bln-company-wall-2024-02-11/</guid>
+      <pubDate>Sun, 11 Feb 2024 19:35:04 GMT</pubDate>
+    </item>
+    <item>
       <title>旧金山人群点燃 Waymo 自动驾驶汽车</title>
       <link>https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/</link>
-      <description><![CDATA[Alphabet 旗下的 Waymo 表示，周六，一群人在旧金山破坏了一辆 Waymo 自动驾驶汽车，并向车内投掷烟花，将其点燃。]]></description>
+      <description><![CDATA[Alphabet 旗下公司和当局表示，周六，一群人群在旧金山破坏并点燃了一辆 Waymo 自动驾驶汽车，并用烟花焚烧了一辆 Waymo 自动驾驶汽车，这是美国针对此类车辆的最新一次公开攻击。]]></description>
       <guid>https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/</guid>
       <pubDate>Sun, 11 Feb 2024 19:30:24 GMT</pubDate>
     </item>
@@ -90,13 +97,6 @@
       <pubDate>Sat, 10 Feb 2024 07:21:03 GMT</pubDate>
     </item>
     <item>
-      <title>穆迪将负债累累的石油公司墨西哥国家石油公司的评级下调两级至 B3</title>
-      <link>https://www.reuters.com/business/energy/moodys-cuts-indebted-oil-firm-pemexs-rating-by-two-notches-b3-2024-02-10/</link>
-      <description><![CDATA[评级机构穆迪周五将墨西哥国有石油公司 Pemex (PEMX.UL) 的评级从之前的 B1 下调两级至 B3，理由是信用质量较差。]]></description>
-      <guid>https://www.reuters.com/business/energy/moodys-cuts-indebted-oil-firm-pemexs-rating-by-two-notches-b3-2024-02-10/</guid>
-      <pubDate>Sat, 10 Feb 2024 03:32:13 GMT</pubDate>
-    </item>
-    <item>
       <title>华尔街未来一周：随着标准普尔 500 指数创出历史新高，市场广度表明涨势将收窄</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-market-breadth-suggests-narrowing-rally-sp-500-hits-records-2024-02-09/</link>
       <description><![CDATA[随着标准普尔 500 指数飙升至新高，参与涨势的股票越来越少，这引发了人们的担忧，即如果市场领头羊跌倒，近期涨势可能会逆转。]]></description>
@@ -127,7 +127,7 @@
     <item>
       <title>美国证券交易委员会对更多华尔街公司因记录保存问题处以罚款</title>
       <link>https://www.reuters.com/business/finance/us-sec-says-16-firms-fined-more-than-81-mln-recordkeeping-failures-2024-02-09/</link>
-      <description><![CDATA[监管机构周五表示，一批新的华尔街公司已同意支付超过 8100 万美元的民事罚款，以和解美国证券交易委员会对记录保存失败的指控。]]></description>
+      <description><![CDATA[美国证券交易委员会周五表示，一批新的华尔街公司已同意支付超过 8100 万美元的民事罚款，以和解美国证券交易委员会对记录保存失败的指控。]]></description>
       <guid>https://www.reuters.com/business/finance/us-sec-says-16-firms-fined-more-than-81-mln-recordkeeping-failures-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 14:53:08 GMT</pubDate>
     </item>
