@@ -4,9 +4,23 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 11 Feb 2024 19:58:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 20:19:29 GMT</lastBuildDate>
     <item>
-      <title>拜登呼吁零食公司停止收缩通货膨胀</title>
+      <title>SAP 董事会主席指定辞职，Ala-Pietila 被提名为继任者</title>
+      <link>https://www.reuters.com/technology/sap-board-chair-designate-resign-ala-pietila-nominated-successor-2024-02-11/</link>
+      <description><![CDATA[SAP 周日表示，在现任主席候选人 Punit Renjen 决定辞职后，德国软件公司 SAP 已提名芬兰商人 Pekka Ala-Pietila 竞选监事会主席。]]></description>
+      <guid>https://www.reuters.com/technology/sap-board-chair-designate-resign-ala-pietila-nominated-successor-2024-02-11/</guid>
+      <pubDate>Sun, 11 Feb 2024 19:47:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧金山人群点燃 Waymo 自动驾驶汽车</title>
+      <link>https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/</link>
+      <description><![CDATA[Alphabet 旗下的 Waymo 表示，周六，旧金山一群人破坏了一辆 Waymo 自动驾驶汽车，并向车内投掷烟花，将其点燃。]]></description>
+      <guid>https://www.reuters.com/world/us/crowd-sets-waymo-self-driving-car-ablaze-san-francisco-2024-02-11/</guid>
+      <pubDate>Sun, 11 Feb 2024 19:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登在超级碗比赛之前告诉零食公司停止收缩通货膨胀</title>
       <link>https://www.reuters.com/world/us/biden-calls-snack-companies-stop-shrinkflation-2024-02-11/</link>
       <description><![CDATA[美国总统乔·拜登周日呼吁零食公司停止收缩通货膨胀，即企业缩小产品尺寸但保持价格不变，称这种做法是“敲诈勒索”。]]></description>
       <guid>https://www.reuters.com/world/us/biden-calls-snack-companies-stop-shrinkflation-2024-02-11/</guid>
@@ -67,13 +81,6 @@
       <description><![CDATA[亚马逊创始人杰夫·贝佐斯 (Jeff Bezos) 在制定明年出售股票计划后不久，就以约 20 亿美元的价格出售了这家在线零售和云服务公司约 1200 万股股票。]]></description>
       <guid>https://www.reuters.com/technology/jeff-bezos-sells-roughly-2-bln-amazon-shares-2024-02-10/</guid>
       <pubDate>Sat, 10 Feb 2024 15:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟同意放松财政规则以削减债务、促进投资</title>
-      <link>https://www.reuters.com/markets/europe/eu-agrees-looser-fiscal-rules-cut-debt-boost-investments-2024-02-10/</link>
-      <description><![CDATA[欧盟成员国和欧洲议会议员周六达成初步协议，以放宽欧盟严格的财政规则，让各国政府有更多时间减少债务，并鼓励增加气候、产业政策和安全方面的公共投资。]]></description>
-      <guid>https://www.reuters.com/markets/europe/eu-agrees-looser-fiscal-rules-cut-debt-boost-investments-2024-02-10/</guid>
-      <pubDate>Sat, 10 Feb 2024 13:08:13 GMT</pubDate>
     </item>
     <item>
       <title>JSW 集团将在印度东部设立近 50 亿美元的电动汽车项目</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[九位熟悉英伟达计划的消息人士告诉路透社，英伟达正在建立一个新的业务部门，专注于为云计算公司和其他公司设计定制芯片，包括先进的人工智能（AI）处理器。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-chases-30-billion-custom-chip-market-with-new-unit-sources-2024-02-09/</guid>
       <pubDate>Fri, 09 Feb 2024 12:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宫推出 110 亿美元的美国半导体研发计划</title>
-      <link>https://www.reuters.com/technology/us-announces-over-5-bln-investments-semiconductor-related-research-development-2024-02-09/</link>
-      <description><![CDATA[白宫周五宣扬美国政府计划斥资 110 亿美元用于半导体相关研发，并表示将启动耗资 50 亿美元的国家半导体技术中心。]]></description>
-      <guid>https://www.reuters.com/technology/us-announces-over-5-bln-investments-semiconductor-related-research-development-2024-02-09/</guid>
-      <pubDate>Fri, 09 Feb 2024 11:27:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
