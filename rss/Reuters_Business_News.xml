@@ -1,93 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 13 Feb 2024 21:42:23 GMT</lastBuildDate>
-    <item>
-      <title>澳大利亚银行 CBA 警告 2024 年高利率将带来“财务压力”</title>
-      <link>https://www.reuters.com/business/finance/aussie-lender-cba-warns-financial-strain-high-rates-2024-2024-02-13/</link>
-      <description><![CDATA[澳大利亚联邦银行周三警告称，高利率的滞后效应将在 2024 财年继续给家庭和企业客户带来财务压力，并报告称，由于利润率收紧，上半年现金收益下降。]]></description>
-      <guid>https://www.reuters.com/business/finance/aussie-lender-cba-warns-financial-strain-high-rates-2024-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 21:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>杂货配送公司 Instacart 预测第一季度业绩强劲，计划裁员 250 人</title>
-      <link>https://www.reuters.com/business/retail-consumer/grocery-delivery-firm-instacart-forecasts-strong-q1-plans-250-job-cuts-2024-02-13/</link>
-      <description><![CDATA[Instacart周二预测其第一季度总交易价值和核心利润高于分析师的预期，并表示计划裁员250人，约占员工总数的7%，以专注于“有前途”的举措。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/grocery-delivery-firm-instacart-forecasts-strong-q1-plans-250-job-cuts-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 21:12:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Robinhood第四季度收入因利息收入增加而增长</title>
-      <link>https://www.reuters.com/business/finance/robinhoods-q4-revenue-rises-interest-income-boost-2024-02-13/</link>
-      <description><![CDATA[Robinhood Markets 周二公布第四季度收入增长，这家在线经纪公司从客户偿还贷款中获得了更高的利息。]]></description>
-      <guid>https://www.reuters.com/business/finance/robinhoods-q4-revenue-rises-interest-income-boost-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 21:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于成本削减带来的好处开始显现，Lyft 利润超出预期</title>
-      <link>https://www.reuters.com/business/autos-transportation/lyft-profit-beats-estimates-benefits-cost-cuts-kick-2024-02-13/</link>
-      <description><![CDATA[Lyft 周二第四季度利润超出预期，并表示，随着乘车共享平台从成本削减中获益，该公司将在 2024 年首次产生正的自由现金流。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/lyft-profit-beats-estimates-benefits-cost-cuts-kick-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 21:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于国际旅行强劲，Airbnb 第一季度收入高于华尔街预期</title>
-      <link>https://www.reuters.com/business/airbnb-sees-q1-revenue-above-street-estimates-strong-international-travel-2024-02-13/</link>
-      <description><![CDATA[短期租赁公司 Airbnb 周二预测第一季度收入高于华尔街预期，因为该公司预计强劲的跨境旅行和长期预订将带来提振。]]></description>
-      <guid>https://www.reuters.com/business/airbnb-sees-q1-revenue-above-street-estimates-strong-international-travel-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 21:09:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃克森美孚、安桥因原油运输被竞争对手起诉</title>
-      <link>https://www.reuters.com/business/energy/exxon-enbridge-sued-by-competitor-over-crude-oil-transportation-2024-02-13/</link>
-      <description><![CDATA[埃克森美孚和加拿大原油管道运营商安桥公司周二在伊利诺伊州联邦法院被起诉，理由是它们禁止竞争对手建造码头，通过驳船将石油从芝加哥地区运送到中西部和墨西哥湾的炼油厂。]]></description>
-      <guid>https://www.reuters.com/business/energy/exxon-enbridge-sued-by-competitor-over-crude-oil-transportation-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 21:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>IRS 就硅谷银行 14 亿美元的税收债务起诉 FDIC</title>
-      <link>https://www.reuters.com/legal/irs-sues-fdic-over-silicon-valley-banks-14-billion-tax-debt-2024-02-13/</link>
-      <description><![CDATA[美国国税局周二起诉联邦存款保险公司，要求法官确定 FDIC 必须支付多少费用，以弥补倒闭的硅谷银行所欠的估计 14.5 亿美元的税债。]]></description>
-      <guid>https://www.reuters.com/legal/irs-sues-fdic-over-silicon-valley-banks-14-billion-tax-debt-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 20:42:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>据《华尔街日报》报道，沃尔玛正在洽谈以超过 20 亿美元收购 Vizio</title>
-      <link>https://www.reuters.com/markets/deals/walmart-talks-buy-vizio-more-than-2-bln-wsj-reports-2024-02-13/</link>
-      <description><![CDATA[据《华尔街日报》周二援引知情人士消息称，沃尔玛正在洽谈以超过 20 亿美元收购智能电视制造商 Vizio。]]></description>
-      <guid>https://www.reuters.com/markets/deals/walmart-talks-buy-vizio-more-than-2-bln-wsj-reports-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 20:16:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝莱德重组金融与战略投资者集团</title>
-      <link>https://www.reuters.com/business/finance/blackrock-reorganizes-financial-strategic-investors-group-2024-02-13/</link>
-      <description><![CDATA[贝莱德正在改变其金融和金融部门的组织结构。路透社看到的一份内部备忘录显示，战略投资者集团（FSIG）与主权财富基金等高净值机构客户合作。]]></description>
-      <guid>https://www.reuters.com/business/finance/blackrock-reorganizes-financial-strategic-investors-group-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 20:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>新常态：旅游公司下调 2024 年预期</title>
-      <link>https://www.reuters.com/business/new-normal-travel-companies-temper-expectations-2024-2024-02-13/</link>
-      <description><![CDATA[旅游公司对 2024 年的流行语是“正常”。]]></description>
-      <guid>https://www.reuters.com/business/new-normal-travel-companies-temper-expectations-2024-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 19:45:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>人口普查显示，美国农场数量下降，规模扩大</title>
-      <link>https://www.reuters.com/world/us/number-us-farms-falls-size-increases-census-shows-2024-02-13/</link>
-      <description><![CDATA[美国农业部周二发布的新数据显示，2017 年至 2022 年间，美国农场规模持续扩大，农场数量下降。]]></description>
-      <guid>https://www.reuters.com/world/us/number-us-farms-falls-size-increases-census-shows-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 19:19:47 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 13 Feb 2024 22:38:28 GMT</lastBuildDate>
     <item>
       <title>内在偏见：研究发现美国工厂繁荣不成比例地有利于较贫困的县</title>
       <link>https://www.reuters.com/markets/us/us-factory-boom-disproportionately-favors-poorer-counties-study-shows-2024-02-13/</link>
       <description><![CDATA[拜登政府对清洁能源和半导体等“战略部门”的投资推动了工厂建设的激增，迄今为止，这些工厂建设大量流向了经济相对陷入困境的美国县，尤其是没有追踪“民主地理”。]]></description>
       <guid>https://www.reuters.com/markets/us/us-factory-boom-disproportionately-favors-poorer-counties-study-shows-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 19:05:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴克莱副总裁起诉歧视，索赔 29 万美元</title>
+      <link>https://www.reuters.com/business/finance/barclays-vp-sues-290000-alleging-discrimination-2024-02-13/</link>
+      <description><![CDATA[巴克莱银行的一名副总裁正在起诉这家英国银行，要求赔偿约 230,000 英镑（289,616.00 美元），指控她因种族、宗教和性别歧视而未能晋升。]]></description>
+      <guid>https://www.reuters.com/business/finance/barclays-vp-sues-290000-alleging-discrimination-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 18:52:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国称乌克兰有望出口2023年全部粮食</title>
+      <link>https://www.reuters.com/markets/commodities/ukraine-track-export-all-2023-grain-says-britain-2024-02-13/</link>
+      <description><![CDATA[英国外交部表示，尽管俄罗斯袭击了乌克兰港口和基础设施，乌克兰仍有望出口 2023 年收获的所有粮食，但联合国警告称，黑海出口形势仍然脆弱。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/ukraine-track-export-all-2023-grain-says-britain-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 18:09:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>日经新闻称，中国比亚迪计划在墨西哥新建电动汽车工厂</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinas-byd-plans-new-electric-vehicle-plant-mexico-says-nikkei-2024-02-13/</link>
+      <description><![CDATA[《日经新闻》周三援引该公司墨西哥负责人的话说，中国比亚迪有限公司计划在墨西哥设立一家新的制造工厂，因为这家电动汽车制造商的目标是建立一个对美国的出口中心。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-plans-new-electric-vehicle-plant-mexico-says-nikkei-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 18:06:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>墨西哥监管机构称亚马逊、Mercado Libre 可能威胁电子商务竞争</title>
+      <link>https://www.reuters.com/business/retail-consumer/amazon-mercado-libre-may-threaten-e-commerce-competition-mexican-regulator-says-2024-02-13/</link>
+      <description><![CDATA[墨西哥反垄断监管机构 Cofece 周二表示，它已经发现了电子商务市场竞争的“可能障碍”，亚马逊和 Mercado Libre 合计控制着超过 85% 的交易和销售。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/amazon-mercado-libre-may-threaten-e-commerce-competition-mexican-regulator-says-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 17:57:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析师表示，花旗在重组过程中可能需要重新关注监管修复</title>
+      <link>https://www.reuters.com/business/finance/citi-may-need-refocus-regulatory-fixes-amid-restructuring-analysts-say-2024-02-13/</link>
+      <description><![CDATA[摩根大通分析师在一份报告中写道，花旗集团在其全球重组努力中可能需要优先解决监管问题。]]></description>
+      <guid>https://www.reuters.com/business/finance/citi-may-need-refocus-regulatory-fixes-amid-restructuring-analysts-say-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 17:54:29 GMT</pubDate>
     </item>
     <item>
       <title>独家：记录显示，马斯克旗下的 SpaceX 公司因一名工人“差点截肢”而被罚款</title>
@@ -97,11 +55,32 @@
       <pubDate>Tue, 13 Feb 2024 17:49:23 GMT</pubDate>
     </item>
     <item>
+      <title>德国劳工法庭裁定特斯拉违反工会选举规则</title>
+      <link>https://www.reuters.com/business/autos-transportation/german-labour-court-finds-tesla-broke-union-election-rules-2024-02-13/</link>
+      <description><![CDATA[一家劳工法庭周二裁定，特斯拉的劳资委员会违反了德国工会选举规则，这是这家美国电动汽车制造商与德国监管发生冲突的最新例子。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/german-labour-court-finds-tesla-broke-union-election-rules-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 16:59:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音首席财务官表示，今年晚些时候将稳定 737 产量</title>
+      <link>https://www.reuters.com/business/aerospace-defense/boeing-stabilize-737-production-later-this-year-cfo-says-2024-02-13/</link>
+      <description><![CDATA[波音首席财务官布莱恩·韦斯特周二表示，在上个月 737 MAX 9 发生空中机舱爆裂事件后，该公司放慢了生产线速度，并将在 2024 年下半年稳定地将 737 产量稳定在每月 38 架。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/boeing-stabilize-737-production-later-this-year-cfo-says-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 16:37:03 GMT</pubDate>
+    </item>
+    <item>
       <title>波音公司因 737 MAX 9 井喷而承压，称 1 月份交付量下降 29%</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeing-pressured-over-737-max-9-blowout-says-january-deliveries-shrank-29-2024-02-13/</link>
       <description><![CDATA[波音公司周二表示，1 月份交付了 27 架飞机，较去年同月下降了 29%，原因是上个月 MAX 9 机舱面板发生爆炸后，监管机构、立法者和客户向该飞机制造商施加压力。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeing-pressured-over-737-max-9-blowout-says-january-deliveries-shrank-29-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 15:32:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>派拉蒙全球将裁员约 800 名员工 - 消息人士</title>
+      <link>https://www.reuters.com/business/media-telecom/paramount-global-cut-800-jobs-cnbc-2024-02-13/</link>
+      <description><![CDATA[一位知情人士周二表示，派拉蒙全球将裁员约 800 名员工，约占员工总数的 3%，该媒体公司希望在今年削减成本并恢复盈利增长。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/paramount-global-cut-800-jobs-cnbc-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 14:12:55 GMT</pubDate>
     </item>
     <item>
       <title>由于通胀居高不下，美联储预计需要更长时间才能降息</title>
@@ -118,16 +97,37 @@
       <pubDate>Tue, 13 Feb 2024 13:44:24 GMT</pubDate>
     </item>
     <item>
-      <title>由于通货膨胀引发抛售，华尔街大幅收低</title>
+      <title>曾经开创性的 Body Shop UK 陷入破产管理</title>
+      <link>https://www.reuters.com/markets/europe/body-shop-puts-uk-business-into-administration-2024-02-13/</link>
+      <description><![CDATA[Body Shop 的英国业务已陷入破产管理，这家曾经是道德化妆品零售商先驱的 2,000 个工作岗位面临风险。]]></description>
+      <guid>https://www.reuters.com/markets/europe/body-shop-puts-uk-business-into-administration-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 13:39:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>NYCB 股价下跌，因利率担忧增加 CRE 风险</title>
+      <link>https://www.reuters.com/markets/us/hammered-nycb-shares-rise-confidence-boosting-steps-by-top-executives-2024-02-13/</link>
+      <description><![CDATA[周二公布通胀数据后，纽约社区银行 (New York Community Bancorp) 股价下跌近 4%，原因是投资者担心推迟降息可能会加剧该银行因美国商业房地产 (CRE) 行业承压而面临的困境。]]></description>
+      <guid>https://www.reuters.com/markets/us/hammered-nycb-shares-rise-confidence-boosting-steps-by-top-executives-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 12:57:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于需求强劲和价格上涨，可口可乐收入超出预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/coca-cola-revenue-tops-estimates-resilient-demand-higher-prices-2024-02-13/</link>
+      <description><![CDATA[可口可乐周二第四季度营收超出了华尔街预期，受益于产品价格上涨以及果汁、能量饮料和苏打水需求旺盛。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/coca-cola-revenue-tops-estimates-resilient-demand-higher-prices-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 12:01:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于通胀数据过热削弱了早期降息的希望，华尔街下跌</title>
       <link>https://www.reuters.com/markets/us/futures-ease-caution-ahead-inflation-data-2024-02-13/</link>
-      <description><![CDATA[周二，华尔街主要股指大幅收低，此前高于预期的消费者通胀数据打压了市场对即将降息的预期，推动美国国债收益率走高。]]></description>
+      <description><![CDATA[周二，华尔街主要股指下跌，触及一周低点，此前消费者通胀数据高于预期，推动美国国债收益率走高，打消了市场对即将降息的猜测。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-caution-ahead-inflation-data-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 11:21:08 GMT</pubDate>
     </item>
     <item>
       <title>旧金山 Waymo 纵火案引发有关自动驾驶汽车的新争论</title>
       <link>https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/</link>
-      <description><![CDATA[经验丰富的旧金山出租车司机可能会在农历新年的第一天避开位于该市唐人街中心的杰克逊街和格兰特大道的交叉口。]]></description>
+      <description><![CDATA[经验丰富的旧金山出租车司机可能会在农历新年的第一天避开位于城市唐人街中心的杰克逊街和格兰特大道的交叉口。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 11:08:01 GMT</pubDate>
     </item>
@@ -137,6 +137,13 @@
       <description><![CDATA[多年来，Endeavour Energy 创始人 Autry Stephens 拒绝接受美国石油领域最赚钱的生产商之一的收购要约，这让他的一些同行感到恼火。]]></description>
       <guid>https://www.reuters.com/business/energy/why-endeavor-energys-founder-sold-his-company-after-years-rebuffing-offers-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 10:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>通胀数据公布后美元触及三个月高点，兑日元突破150</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-nears-150-yen-ahead-us-inflation-test-bitcoin-buoyant-2024-02-13/</link>
+      <description><![CDATA[周二，数据显示美国1月份通胀升幅超出预期，强化了美联储将在3月份维持利率不变的预期，美元周二升至三个月高点。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-nears-150-yen-ahead-us-inflation-test-bitcoin-buoyant-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 01:26:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
