@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 13 Feb 2024 18:30:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 19:28:30 GMT</lastBuildDate>
+    <item>
+      <title>内在偏见：研究发现美国工厂繁荣不成比例地有利于较贫困的县</title>
+      <link>https://www.reuters.com/markets/us/us-factory-boom-disproportionately-favors-poorer-counties-study-shows-2024-02-13/</link>
+      <description><![CDATA[拜登政府对清洁能源和半导体等“战略部门”的投资推动了工厂建设的激增，迄今为止，这些工厂建设大量流向了经济相对陷入困境的美国县，尤其是没有追踪“民主地理”。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-factory-boom-disproportionately-favors-poorer-counties-study-shows-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 19:05:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴克莱副总裁起诉歧视，索赔 29 万美元</title>
+      <link>https://www.reuters.com/business/finance/barclays-vp-sues-290000-alleging-discrimination-2024-02-13/</link>
+      <description><![CDATA[巴克莱银行的一名副总裁正在起诉这家英国银行，要求赔偿约 230,000 英镑（289,616.00 美元），指控她因种族、宗教和性别歧视而未能晋升。]]></description>
+      <guid>https://www.reuters.com/business/finance/barclays-vp-sues-290000-alleging-discrimination-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 18:52:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国称乌克兰有望出口2023年全部粮食</title>
+      <link>https://www.reuters.com/markets/commodities/ukraine-track-export-all-2023-grain-says-britain-2024-02-13/</link>
+      <description><![CDATA[英国外交部表示，尽管俄罗斯袭击了乌克兰港口和基础设施，乌克兰仍有望出口 2023 年收获的所有粮食，但联合国警告称，黑海出口形势仍然脆弱。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/ukraine-track-export-all-2023-grain-says-britain-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 18:09:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>日经新闻称，中国比亚迪计划在墨西哥新建电动汽车工厂</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinas-byd-plans-new-electric-vehicle-plant-mexico-says-nikkei-2024-02-13/</link>
+      <description><![CDATA[《日经新闻》周三援引该公司墨西哥负责人的话说，中国比亚迪有限公司计划在墨西哥设立一家新的制造工厂，因为这家电动汽车制造商的目标是建立一个对美国的出口中心。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-plans-new-electric-vehicle-plant-mexico-says-nikkei-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 18:06:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>墨西哥监管机构称亚马逊、Mercado Libre 可能威胁电子商务竞争</title>
+      <link>https://www.reuters.com/business/retail-consumer/amazon-mercado-libre-may-threaten-e-commerce-competition-mexican-regulator-says-2024-02-13/</link>
+      <description><![CDATA[墨西哥反垄断监管机构 Cofece 周二表示，它已经发现了电子商务市场竞争的“可能障碍”，亚马逊和 Mercado Libre 合计控制着超过 85% 的交易和销售。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/amazon-mercado-libre-may-threaten-e-commerce-competition-mexican-regulator-says-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 17:57:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析师表示，花旗在重组过程中可能需要重新关注监管修复</title>
+      <link>https://www.reuters.com/business/finance/citi-may-need-refocus-regulatory-fixes-amid-restructuring-analysts-say-2024-02-13/</link>
+      <description><![CDATA[摩根大通分析师在一份报告中写道，花旗集团在其全球重组努力中可能需要优先解决监管问题。]]></description>
+      <guid>https://www.reuters.com/business/finance/citi-may-need-refocus-regulatory-fixes-amid-restructuring-analysts-say-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 17:54:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：记录显示，马斯克旗下的 SpaceX 公司因一名工人“差点截肢”而被罚款</title>
+      <link>https://www.reuters.com/technology/space/musks-spacex-fined-near-amputation-suffered-by-worker-records-show-2024-02-13/</link>
+      <description><![CDATA[根据路透社查阅的检查记录，美国工人安全官员本月对埃隆·马斯克 (Elon Musk) 的 SpaceX 罚款 3,600 美元，此前该公司位于华盛顿州的工厂发生事故，导致“险些截肢”。]]></description>
+      <guid>https://www.reuters.com/technology/space/musks-spacex-fined-near-amputation-suffered-by-worker-records-show-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 17:49:23 GMT</pubDate>
+    </item>
     <item>
       <title>德国劳工法庭裁定特斯拉违反工会选举规则</title>
       <link>https://www.reuters.com/business/autos-transportation/german-labour-court-finds-tesla-broke-union-election-rules-2024-02-13/</link>
@@ -27,58 +76,23 @@
       <pubDate>Tue, 13 Feb 2024 15:32:34 GMT</pubDate>
     </item>
     <item>
-      <title>部长表示，欧盟关于俄罗斯资产的法律很重要，加拿大正在努力走得更远</title>
-      <link>https://www.reuters.com/world/europe/eu-law-russian-assets-is-important-canada-working-go-further-minister-says-2024-02-13/</link>
-      <description><![CDATA[财政部长克里斯蒂亚·弗里兰周二表示，欧盟通过一项法律，将冻结的俄罗斯央行资产所获得的暴利拨出，这是一项重要措施，加拿大正在与盟国合作，进一步让莫斯科支付乌克兰造成的损失。]]></description>
-      <guid>https://www.reuters.com/world/europe/eu-law-russian-assets-is-important-canada-working-go-further-minister-says-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 15:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度正式请求加入世界能源机构——IEA负责人</title>
-      <link>https://www.reuters.com/business/energy/india-formally-asked-join-world-energy-agency-iea-head-2024-02-13/</link>
-      <description><![CDATA[国际能源署（IEA）负责人法提赫·比罗尔周二表示，印度政府签署了加入国际能源署（IEA）的正式请求，入会程序现已启动。]]></description>
-      <guid>https://www.reuters.com/business/energy/india-formally-asked-join-world-energy-agency-iea-head-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 14:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国财政部提出针对基金顾问的反洗钱规则</title>
-      <link>https://www.reuters.com/business/finance/us-treasury-unit-proposes-anti-money-laundering-rules-fund-advisers-2024-02-13/</link>
-      <description><![CDATA[美国财政部下属的金融犯罪执法网络 (FinCEN) 周二提出了新规定，要求投资顾问帮助防止洗钱和恐怖主义融资。]]></description>
-      <guid>https://www.reuters.com/business/finance/us-treasury-unit-proposes-anti-money-laundering-rules-fund-advisers-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 14:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国议员敦促达美航空在工会组织中保持中立</title>
-      <link>https://www.reuters.com/business/aerospace-defense/us-lawmakers-urge-delta-air-remain-neutral-union-organizing-2024-02-13/</link>
-      <description><![CDATA[周二，超过 140 名美国众议院民主党议员敦促达美航空在员工持续努力组织空乘人员和地勤人员工会方面保持中立。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/us-lawmakers-urge-delta-air-remain-neutral-union-organizing-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 14:19:00 GMT</pubDate>
-    </item>
-    <item>
       <title>派拉蒙全球将裁员约 800 名员工 - 消息人士</title>
       <link>https://www.reuters.com/business/media-telecom/paramount-global-cut-800-jobs-cnbc-2024-02-13/</link>
-      <description><![CDATA[一位知情人士周二表示，派拉蒙全球将裁员约 800 名员工，约占员工总数的 3%，该媒体公司希望在今年削减成本并恢复盈利增长。]]></description>
+      <description><![CDATA[一位知情人士周二表示，派拉蒙全球将裁员约 800 名员工，约占员工总数的 3%，该媒体公司希望今年削减成本并恢复盈利增长。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/paramount-global-cut-800-jobs-cnbc-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 14:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>1月美国消费者物价指数(CPI)通胀粘性支撑美联储对宽松政策保持沉默</title>
-      <link>https://www.reuters.com/markets/us/view-warm-jan-us-cpi-reinforces-that-inflation-still-outside-fed-comfort-zone-2024-02-13/</link>
-      <description><![CDATA[由于住房和医疗费用上涨，美国一月份消费者价格涨幅超出预期，但通胀回升可能不会改变美联储将在今年上半年开始降息的预期。]]></description>
-      <guid>https://www.reuters.com/markets/us/view-warm-jan-us-cpi-reinforces-that-inflation-still-outside-fed-comfort-zone-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 13:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于通胀居高不下，美联储预计将推迟降息</title>
+      <title>由于通胀居高不下，美联储预计需要更长时间才能降息</title>
       <link>https://www.reuters.com/markets/us/traders-bet-fed-wont-cut-rates-until-june-inflation-fails-cool-2024-02-13/</link>
       <description><![CDATA[在周二的政府报告显示上个月消费者通胀保持在高位之后，美联储政策制定者在降息之前等待更多物价压力缓解的证据，可能会发现自己等待的时间更长。]]></description>
       <guid>https://www.reuters.com/markets/us/traders-bet-fed-wont-cut-rates-until-june-inflation-fails-cool-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 13:45:31 GMT</pubDate>
     </item>
     <item>
-      <title>租金推高美国一月份消费者价格</title>
+      <title>租金上涨推高美国通胀； 2024 年仍预计降息</title>
       <link>https://www.reuters.com/markets/us/us-consumer-prices-rise-more-than-expected-january-2024-02-13/</link>
-      <description><![CDATA[由于住房成本飙升，美国1月份消费者价格涨幅超出预期，但通胀回升并没有改变美联储将在今年上半年开始降息的预期。]]></description>
+      <description><![CDATA[由于房屋租赁成本飙升，美国1月份消费者价格涨幅超出预期，但通胀回升并没有改变美联储将在今年上半年开始降息的预期。]]></description>
       <guid>https://www.reuters.com/markets/us/us-consumer-prices-rise-more-than-expected-january-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 13:44:24 GMT</pubDate>
     </item>
@@ -88,13 +102,6 @@
       <description><![CDATA[Body Shop 的英国业务已陷入破产管理，这家曾经是道德化妆品零售商先驱的 2,000 个工作岗位面临风险。]]></description>
       <guid>https://www.reuters.com/markets/europe/body-shop-puts-uk-business-into-administration-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 13:39:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于信用评级部门令人失望，穆迪第四季度利润低于预期；任命新首席财务官</title>
-      <link>https://www.reuters.com/business/finance/moodys-posts-q4-profit-below-ests-credit-ratings-unit-disappoints-names-new-cfo-2024-02-13/</link>
-      <description><![CDATA[穆迪公司周二未能达到第四季度利润预期，因为其信用评级和评估部门的表现未达到预期。]]></description>
-      <guid>https://www.reuters.com/business/finance/moodys-posts-q4-profit-below-ests-credit-ratings-unit-disappoints-names-new-cfo-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 13:29:01 GMT</pubDate>
     </item>
     <item>
       <title>NYCB 股价下跌，因利率担忧增加 CRE 风险</title>
@@ -111,13 +118,6 @@
       <pubDate>Tue, 13 Feb 2024 12:01:12 GMT</pubDate>
     </item>
     <item>
-      <title>孩之宝预计上半年玩具需求在低迷的假期季度后将疲软</title>
-      <link>https://www.reuters.com/business/retail-consumer/monopoly-maker-hasbro-misses-quarterly-estimates-slumping-toy-demand-2024-02-13/</link>
-      <description><![CDATA[孩之宝表示，由于玩具需求持续疲软，孩之宝周二公布假日季度业绩下滑幅度超出预期，预计 2024 年上半年收入将受到更大打击。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/monopoly-maker-hasbro-misses-quarterly-estimates-slumping-toy-demand-2024-02-13/</guid>
-      <pubDate>Tue, 13 Feb 2024 11:35:57 GMT</pubDate>
-    </item>
-    <item>
       <title>由于通胀数据过热削弱了早期降息的希望，华尔街下跌</title>
       <link>https://www.reuters.com/markets/us/futures-ease-caution-ahead-inflation-data-2024-02-13/</link>
       <description><![CDATA[周二，华尔街主要股指下跌，触及一周低点，此前消费者通胀数据高于预期，推动美国国债收益率走高，打消了市场对即将降息的猜测。]]></description>
@@ -127,14 +127,14 @@
     <item>
       <title>旧金山 Waymo 纵火案引发有关自动驾驶汽车的新争论</title>
       <link>https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/</link>
-      <description><![CDATA[经验丰富的旧金山出租车司机可能会在农历新年的第一天避开位于该市唐人街中心的杰克逊街和格兰特大道的交叉口。]]></description>
+      <description><![CDATA[经验丰富的旧金山出租车司机可能会在农历新年的第一天避开位于城市唐人街中心的杰克逊街和格兰特大道的交叉口。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 11:08:01 GMT</pubDate>
     </item>
     <item>
       <title>为什么奋进能源公司的创始人在多年拒绝收购要约后出售了他的公司</title>
       <link>https://www.reuters.com/business/energy/why-endeavor-energys-founder-sold-his-company-after-years-rebuffing-offers-2024-02-13/</link>
-      <description><![CDATA[多年来，Endeavour Energy 创始人 Autry Stephens 拒绝接受美国石油领域最赚钱的生产商之一的收购要约，这让他的一些同行感到恼火。]]></description>
+      <description><![CDATA[多年来，Endeavour Energy 创始人奥特里·斯蒂芬斯 (Autry Stephens) 拒绝接受美国石油领域最赚钱的生产商之一的收购要约，这让他的一些同行感到恼火。]]></description>
       <guid>https://www.reuters.com/business/energy/why-endeavor-energys-founder-sold-his-company-after-years-rebuffing-offers-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 10:03:09 GMT</pubDate>
     </item>
