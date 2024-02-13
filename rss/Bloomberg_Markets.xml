@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 13 Feb 2024 08:23:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 08:38:35 GMT</lastBuildDate>
     <item>
       <title>OpenAI 的 Altman 表示阿联酋可以成为世界的人工智能“沙盒”</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/openai-s-altman-says-uae-could-be-an-ai-sandbox-for-the-world</link>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 13 Feb 2024 08:04:13 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士通胀放缓至 1.3%，为瑞士央行提前降息打开大门</title>
+      <title>瑞士通胀放缓，为瑞士央行提前降息打开大门</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/swiss-inflation-slows-to-1-3-opening-door-for-earlier-snb-cuts</link>
       <description><![CDATA[瑞士通胀在一月份意外放缓，这一进展可能为瑞士央行提前降息打开大门。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/swiss-inflation-slows-to-1-3-opening-door-for-earlier-snb-cuts</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>TUI敦促投资者放弃伦敦上市，选择法兰克福上市</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/tui-urges-investors-to-abandon-london-listing-move-to-frankfurt</link>
-      <description><![CDATA[TUI AG 管理层敦促股东支持放弃在英国上市并主要在德国进行交易的计划，投资者将在周二晚些时候的会议上对该决定进行投票。]]></description>
+      <description><![CDATA[TUI AG 管理层敦促股东支持放弃在英国股票上市并主要在德国进行交易的计划，投资者将在周二晚些时候的会议上对该决定进行投票。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/tui-urges-investors-to-abandon-london-listing-move-to-frankfurt</guid>
       <pubDate>Tue, 13 Feb 2024 06:50:34 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>为什么欧洲农民如此愤怒？</title>
       <link>https://www.bloomberg.com/news/videos/2024-02-13/why-are-europe-s-farmers-so-angry</link>
-      <description><![CDATA[欧洲各地的农民走上街头抗议环境法规、进口竞争和税收减免的削减。农业已成为一场围绕金钱、粮食和气候变化的更广泛文化战争的关键战场。农民的愤怒由来已久，但现在不同的是，今年由于欧盟、印度、美国和其他几十个地方的选举，政治风险加剧，其范围和潜在影响也有所不同。 （来源：彭博社）]]></description>
+      <description><![CDATA[欧洲各地的农民走上街头抗议环境法规、进口竞争和税收减免的削减。农业已成为一场围绕金钱、粮食和气候变化的更广泛文化战争的关键战场。农民的愤慨由来已久，但现在不同的是，今年由于欧盟、印度、美国和其他几十个地方的选举，政治风险加剧，其影响的广度和潜在影响。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-02-13/why-are-europe-s-farmers-so-angry</guid>
       <pubDate>Tue, 13 Feb 2024 06:19:13 GMT</pubDate>
     </item>
@@ -111,7 +111,7 @@
       <pubDate>Tue, 13 Feb 2024 05:19:29 GMT</pubDate>
     </item>
     <item>
-      <title>Wigwe 去世后，尼日利亚 Access 任命 Agbede 为代理首席执行官</title>
+      <title>尼日利亚 Access 首席执行官在直升机失事中去世后任命新负责人</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/access-of-nigeria-appoints-agbede-acting-ceo-after-wigwe-s-death</link>
       <description><![CDATA[尼日利亚资产最大银行的所有者 Access Holdings Plc 在赫伯特·维格韦 (Herbert Wigwe) 上周在直升机失事中丧生后，任命博拉吉·阿格贝德 (Bolaji Agbede) 为代理集团首席执行官。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/access-of-nigeria-appoints-agbede-acting-ceo-after-wigwe-s-death</guid>
@@ -148,7 +148,7 @@
     <item>
       <title>美国消费者物价指数数据显示通胀从商品转向服务</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/us-cpi-data-to-show-disinflation-handoff-from-goods-to-services</link>
-      <description><![CDATA[彭博经济研究称，周二公布的美国消费者价格月度数据将显示，近期商品价格下跌后，服务业将进一步出现通货紧缩，这将支持美联储降息。]]></description>
+      <description><![CDATA[彭博经济研究称，周二公布的美国消费者价格月度数据将显示，继近期商品价格下跌之后，服务业将进一步出现通货紧缩，这将支持美联储降息。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/us-cpi-data-to-show-disinflation-handoff-from-goods-to-services</guid>
       <pubDate>Tue, 13 Feb 2024 05:00:01 GMT</pubDate>
     </item>
@@ -204,7 +204,7 @@
     <item>
       <title>英国脱欧导致全球银行德国资产突破 2 万亿欧元</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-12/germany-surpasses-2-trillion-in-foreign-bank-assets-on-brexit</link>
-      <description><![CDATA[随着英国脱欧后银行将更多业务转移到欧盟，全球银行已将其德国部门的资产负债表增加至新纪录。]]></description>
+      <description><![CDATA[随着英国脱欧后银行将更多业务转移到欧盟，全球银行已将其德国子公司的资产负债表增加至新纪录。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-12/germany-surpasses-2-trillion-in-foreign-bank-assets-on-brexit</guid>
       <pubDate>Mon, 12 Feb 2024 16:28:51 GMT</pubDate>
     </item>
