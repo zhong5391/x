@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 13 Feb 2024 13:48:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 14:06:47 GMT</lastBuildDate>
     <item>
       <title>阿波罗的泽尔特表示，美联储做出了正确的选择</title>
       <link>https://www.bloomberg.com/news/videos/2024-02-13/fed-has-made-the-right-choice-says-apollo-s-zelter-video</link>
@@ -41,7 +41,7 @@
       <pubDate>Tue, 13 Feb 2024 12:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>Apollo 的 Zelter 在美国经济弹性的背景下面临着一些压力</title>
+      <title>Apollo 的 Zelter 看到美国经济面临一些压力</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/apollo-s-zelter-sees-pockets-of-stress-amid-resilient-us-economy</link>
       <description><![CDATA[阿波罗全球管理公司联席总裁吉姆·泽尔特表示，虽然美国整体经济和消费者仍然相对强劲，但他认为企业借款人面临一些压力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/apollo-s-zelter-sees-pockets-of-stress-amid-resilient-us-economy</guid>
@@ -132,9 +132,9 @@
       <pubDate>Tue, 13 Feb 2024 11:20:34 GMT</pubDate>
     </item>
     <item>
-      <title>1 月份 CPI 超出预期后，国债回吐涨幅并下跌</title>
+      <title>由于消费者物价指数(CPI)后交易商削减降息押注，国债收益率大幅上涨</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/wagers-on-treasuries-rally-revive-before-key-us-inflation-report</link>
-      <description><![CDATA[一月份通胀数据强化了美联储将降息至少推迟到第二季度的理由，美国国债收益率扭转了早些时候的跌势，飙升。]]></description>
+      <description><![CDATA[由于通胀数据粘性，交易员将美联储首次降息的预期下调至 6 月份，美国国债收益率大幅上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/wagers-on-treasuries-rally-revive-before-key-us-inflation-report</guid>
       <pubDate>Tue, 13 Feb 2024 11:16:23 GMT</pubDate>
     </item>
@@ -158,13 +158,6 @@
       <description><![CDATA[近年来不断飙升的物价已将德国经通胀调整后的工资推回到2016年的水平——一项研究表明，大幅加薪的论调增强了，该研究的结果可能会让欧洲央行感到担忧。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/inflation-has-sent-german-pay-back-to-2016-levels-study-shows</guid>
       <pubDate>Tue, 13 Feb 2024 11:06:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Black Opal 首席执行官畅谈化妆品市场的两极分化</title>
-      <link>https://www.bloomberg.com/news/videos/2024-02-13/black-opal-ceo-on-the-bifurcated-cosmetics-market-video</link>
-      <description><![CDATA[Black Opal LLC 首席执行官 Desiree Rogers 谈论了在通货膨胀时期管理声誉和大众市场化妆品品牌的情况。她与彭博社的丹尼·伯格进行了交谈。 （来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-02-13/black-opal-ceo-on-the-bifurcated-cosmetics-market-video</guid>
-      <pubDate>Tue, 13 Feb 2024 11:02:18 GMT</pubDate>
     </item>
     <item>
       <title>办公大楼重塑了美国的天际线。现在建筑起重机正在消失。</title>
@@ -214,6 +207,13 @@
       <description><![CDATA[据知情人士透露，Spirit Airlines Inc. 的一群债券持有人已聘请 Evercore Inc. 作为顾问，预计即将进行债务谈判。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-12/spirit-air-bondholders-tap-adviser-ahead-of-debt-talks</guid>
       <pubDate>Mon, 12 Feb 2024 22:36:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>顾问对比特币 ETF 采取观望态度：道富银行的 Thompson</title>
+      <link>https://www.bloomberg.com/news/videos/2024-02-12/advisors-taking-wait-and-see-approach-on-bitcoin-etf-state-street-s-thompson</link>
+      <description><![CDATA[道富环球顾问公司 SPDR 美洲分销主管 Sue Thompson 讨论了比特币 ETF，据她采访过的顾问称，在他们愿意将其纳入模型之前，需要对资产类别进行更多教育。她还在“彭博 ETF IQ”节目中接受 Sonali Basak 和 Scarlet Fu 的采访，讨论了退休后的计划。 （来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-02-12/advisors-taking-wait-and-see-approach-on-bitcoin-etf-state-street-s-thompson</guid>
+      <pubDate>Mon, 12 Feb 2024 19:16:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
