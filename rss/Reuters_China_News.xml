@@ -4,11 +4,18 @@
     <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 13 Feb 2024 09:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 10:21:59 GMT</lastBuildDate>
     <item>
-      <title>投资者自 2022 年 4 月以来首次放弃衰退押注</title>
+      <title>去年法国葡萄酒和烈酒出口因美国宿醉而下降</title>
+      <link>https://www.reuters.com/business/retail-consumer/french-wine-spirit-exports-fell-last-year-us-hangover-2024-02-13/</link>
+      <description><![CDATA[行业组织 FEVS 表示，去年法国葡萄酒和烈酒出口量从新冠疫情后的峰值下降，原因是通货膨胀削弱了消费者需求，而且利润丰厚的美国市场的经销商清理了现有库存。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/french-wine-spirit-exports-fell-last-year-us-hangover-2024-02-13/</guid>
+      <pubDate>Tue, 13 Feb 2024 09:32:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>看涨投资者自 2022 年 4 月以来首次放弃衰退预测</title>
       <link>https://www.reuters.com/markets/investors-drop-recession-bets-first-time-since-april-2022-2024-02-13/</link>
-      <description><![CDATA[美国银行周二的一项调查显示，投资者自 2022 年 4 月以来首次不再预期经济衰退，因此削减了现金水平并增加了股票配置。]]></description>
+      <description><![CDATA[美国银行周二的一项调查显示，随着对基础经济弹性的信心增强，全球投资者本月处于两年来最乐观的状态，不再预期经济会出现衰退。]]></description>
       <guid>https://www.reuters.com/markets/investors-drop-recession-bets-first-time-since-april-2022-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 07:17:13 GMT</pubDate>
     </item>
@@ -27,16 +34,16 @@
       <pubDate>Tue, 13 Feb 2024 02:40:15 GMT</pubDate>
     </item>
     <item>
-      <title>日经指数飙升，美元在美国通胀报告公布前保持稳定</title>
+      <title>在关键通胀数据公布之前，日本股市表现优于欧洲和美国</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-13/</link>
-      <description><![CDATA[日本股市周二触及 34 年来的最高点，而美元保持稳定，在美国重要通胀报告可能有助于塑造美联储利率前景之前，日元兑美元汇率保持在 150 美元附近的危险水平。]]></description>
+      <description><![CDATA[日本股市周二触及 34 年来的最高点，而欧洲股市和标准普尔 500 指数期货则下跌，因投资者等待可能影响美联储政策的美国通胀报告。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 02:03:47 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士消费者物价指数 (CPI) 影响瑞士法郎兑美元跌至 9 周低点</title>
+      <title>美国通胀数据公布前，美元逼近150日元；英镑上涨</title>
       <link>https://www.reuters.com/markets/currencies/dollar-nears-150-yen-ahead-us-inflation-test-bitcoin-buoyant-2024-02-13/</link>
-      <description><![CDATA[瑞士一月份消费者物价通胀放缓幅度超过预期后，周二瑞郎兑美元跌至九周低点。]]></description>
+      <description><![CDATA[周二，在美国通胀关键数据公布之前，日元跌至接近 150 美元兑 150 美元的心理水平，而在强于预期的工资数据后，英镑兑欧元升至近六个月高点。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-nears-150-yen-ahead-us-inflation-test-bitcoin-buoyant-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 01:26:15 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>美国议员呼吁对中国药明康德生物技术公司实施制裁</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/us-lawmakers-call-sanctions-chinas-wuxi-apptec-biotech-firm-2024-02-12/</link>
-      <description><![CDATA[一个由两党议员组成的小组周一告诉拜登政府高级官员，美国应该对中国生物技术公司药明康德及其子公司药明生物进行制裁审查。]]></description>
+      <description><![CDATA[两党议员周一告诉拜登政府高级官员，美国应该对中国生物技术公司药明康德及其子公司药明生物进行制裁审查。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/us-lawmakers-call-sanctions-chinas-wuxi-apptec-biotech-firm-2024-02-12/</guid>
       <pubDate>Mon, 12 Feb 2024 19:53:59 GMT</pubDate>
     </item>
@@ -113,30 +120,23 @@
     <item>
       <title>饱经战火的台湾岛屿主演奥斯卡提名电影</title>
       <link>https://www.reuters.com/world/asia-pacific/battle-scarred-taiwanese-islands-star-oscar-nominated-film-2024-02-12/</link>
-      <description><![CDATA[一部关于冷战最激烈时期台湾岛屿与中国大陆多次争夺前线的电影正在争夺今年的奥斯卡奖。]]></description>
+      <description><![CDATA[一部关于冷战最激烈时期台湾岛屿与中国大陆反复争夺前线的电影正在争夺今年的奥斯卡奖。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/battle-scarred-taiwanese-islands-star-oscar-nominated-film-2024-02-12/</guid>
       <pubDate>Mon, 12 Feb 2024 01:06:06 GMT</pubDate>
     </item>
     <item>
       <title>中国选手潘勇创100米自由泳世界纪录</title>
       <link>https://www.reuters.com/sports/chinas-pan-sets-100-metres-freestyle-world-record-world-championships-2024-02-11/</link>
-      <description><![CDATA[周日，在多哈举行的游泳世锦赛上，中国少年选手潘战乐在 4x100 米接力比赛中表现出色，创造了男子 100 米自由泳世界纪录，为中国队夺得冠军提供了动力。]]></description>
+      <description><![CDATA[周日在多哈举行的游泳世锦赛上，中国少年选手潘战乐在 4x100 米接力比赛中表现出色，创造了男子 100 米自由泳世界纪录，为中国队夺得冠军提供了动力。]]></description>
       <guid>https://www.reuters.com/sports/chinas-pan-sets-100-metres-freestyle-world-record-world-championships-2024-02-11/</guid>
       <pubDate>Sun, 11 Feb 2024 18:30:50 GMT</pubDate>
     </item>
     <item>
       <title>独家：小米称印度对中国企业的审查令供应商感到不安</title>
       <link>https://www.reuters.com/technology/xiaomi-says-indias-scrutiny-chinese-firms-unnerves-suppliers-2024-02-11/</link>
-      <description><![CDATA[据一封信函和一位直接了解情况的消息人士透露，中国小米已向印度政府表示，其对中国公司的严格审查使得智能手机零部件供应商对在印度设立业务持谨慎态度。]]></description>
+      <description><![CDATA[据一封信函和一位直接了解情况的消息人士称，中国小米已向印度政府表示，其对中国公司的严格审查使得智能手机零部件供应商对在印度设立业务持谨慎态度。]]></description>
       <guid>https://www.reuters.com/technology/xiaomi-says-indias-scrutiny-chinese-firms-unnerves-suppliers-2024-02-11/</guid>
       <pubDate>Sun, 11 Feb 2024 10:53:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲律宾指责中国在黄岩岛附近进行危险演习</title>
-      <link>https://www.reuters.com/world/asia-pacific/philippines-accuses-china-dangerous-maneuvers-near-scarborough-shoal-2024-02-11/</link>
-      <description><![CDATA[菲律宾海岸警卫队（PCG）周日指责中国船只本月在南海黄岩岛附近巡逻时进行了“危险和封锁”的演习。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/philippines-accuses-china-dangerous-maneuvers-near-scarborough-shoal-2024-02-11/</guid>
-      <pubDate>Sun, 11 Feb 2024 07:33:56 GMT</pubDate>
     </item>
     <item>
       <title>政策支持下1月份银行新增贷款创历史新高</title>
