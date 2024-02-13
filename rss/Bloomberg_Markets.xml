@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 13 Feb 2024 15:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2024 16:08:23 GMT</lastBuildDate>
     <item>
       <title>渣打银行考虑分拆公司和投资银行</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/standard-chartered-weighs-breaking-up-corporate-investment-bank</link>
@@ -20,9 +20,16 @@
       <pubDate>Tue, 13 Feb 2024 15:38:58 GMT</pubDate>
     </item>
     <item>
+      <title>肥胖药物开发商 Altimmune 因卖空报告而陷入困境</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-13/obesity-drug-developer-altimmune-sinks-on-kerrisdale-short-call</link>
+      <description><![CDATA[Kerrisdale Capital 发表报告称其正在做空这家减肥药物开发商后，Altimmune Inc. 周二暴跌。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-13/obesity-drug-developer-altimmune-sinks-on-kerrisdale-short-call</guid>
+      <pubDate>Tue, 13 Feb 2024 15:32:58 GMT</pubDate>
+    </item>
+    <item>
       <title>股市的“希望和梦想”因 CPI 现实而破灭</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/stock-bulls-hopes-and-dreams-are-shattered-by-cpi-reality</link>
-      <description><![CDATA[周二，美国股市因高于预期的通胀数据而受到震动，因为金融市场为美联储可能将利率维持在高于预期的时间更长的时间做好了准备。]]></description>
+      <description><![CDATA[周二，美国股市受到高于预期的通胀数据的冲击，因为金融市场为美联储可能将利率维持在高于预期的时间更长的时间做好准备。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/stock-bulls-hopes-and-dreams-are-shattered-by-cpi-reality</guid>
       <pubDate>Tue, 13 Feb 2024 15:26:23 GMT</pubDate>
     </item>
@@ -36,12 +43,12 @@
     <item>
       <title>贝莱德博伊文表示，CPI 过后市场反应过度</title>
       <link>https://www.bloomberg.com/news/videos/2024-02-13/market-is-overreacting-after-cpi-blackrock-s-boivin-video</link>
-      <description><![CDATA[贝莱德投资研究所(BlackRock Investment Institute)负责人让·博伊文(Jean Boivin)表示，市场正在对1月份美国CPI数据的“威胁做出反应”。 （来源：彭博社）]]></description>
+      <description><![CDATA[贝莱德投资研究所(BlackRock Investment Institute)负责人让·博伊文(Jean Boivin)表示，市场正在对1月份美国消费者物价指数(CPI)数据的“威胁做出反应”。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-02-13/market-is-overreacting-after-cpi-blackrock-s-boivin-video</guid>
       <pubDate>Tue, 13 Feb 2024 15:19:28 GMT</pubDate>
     </item>
     <item>
-      <title>宾夕法尼亚大学获得永利纽约体育博彩许可证 ESPN Bet</title>
+      <title>宾夕法尼亚大学获得永利牌照后 ESPN 赌注将来到纽约</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/penn-acquires-wynn-new-york-sports-betting-license-for-espn-bet</link>
       <description><![CDATA[Penn Entertainment Inc.获得了Wynn Resorts Ltd.互动部门持有的纽约体育博彩牌照，并计划今年在市场上推出其ESPN Bet品牌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/penn-acquires-wynn-new-york-sports-betting-license-for-espn-bet</guid>
@@ -60,13 +67,6 @@
       <description><![CDATA[孩之宝公司 (Hasbro Inc.) 公布的第四季度销售额和盈利未达到华尔街预期，该公司股价下跌，原因是玩具行业在疫情初期的繁荣之后继续受到消费者需求疲软的影响。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/hasbro-falls-on-quarterly-sales-miss-toy-industry-headwinds</guid>
       <pubDate>Tue, 13 Feb 2024 15:05:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>乳房植入物制造商 Sientra 在消费者撤退后申请破产</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-13/implant-maker-sientra-files-bankruptcy-after-consumer-pullback</link>
-      <description><![CDATA[乳房植入物制造商 Sientra Inc. 因消费者消费习惯改变和利率上升而受到损害，在特拉华州申请破产保护。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-13/implant-maker-sientra-files-bankruptcy-after-consumer-pullback</guid>
-      <pubDate>Tue, 13 Feb 2024 14:59:26 GMT</pubDate>
     </item>
     <item>
       <title>摩根大通凯利：美联储2024年将降息三次</title>
@@ -141,7 +141,7 @@
     <item>
       <title>交易员削减对美联储六月降息的押注，推动美国收益率飙升</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-13/wagers-on-treasuries-rally-revive-before-key-us-inflation-report</link>
-      <description><![CDATA[报告显示美国通胀依然高企，交易员对美联储6月至7月首次降息的预期不高，国债收益率飙升。]]></description>
+      <description><![CDATA[在一份报告显示美国通胀依然高企后，交易员们纷纷推迟了对美联储6月至7月首次降息的预期，国债收益率飙升。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-13/wagers-on-treasuries-rally-revive-before-key-us-inflation-report</guid>
       <pubDate>Tue, 13 Feb 2024 11:16:23 GMT</pubDate>
     </item>
