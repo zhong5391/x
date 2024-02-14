@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 14 Feb 2024 21:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 21:48:37 GMT</lastBuildDate>
     <item>
       <title>耶伦称美国通胀趋势下降，关注小幅波动是“错误”</title>
       <link>https://www.reuters.com/markets/us/yellen-says-us-inflation-trend-is-down-mistake-focus-minor-fluctuations-2024-02-14/</link>
@@ -85,7 +85,7 @@
     <item>
       <title>美国 SEC 主席表示，公司需要护栏，尤其是使用人工智能时</title>
       <link>https://www.reuters.com/technology/companies-need-guardrails-especially-if-using-ai-us-sec-chair-says-2024-02-14/</link>
-      <description><![CDATA[在 Lyft 被迫纠正重大预测错误后，美国证券交易委员会主席周三表示，公司需要确保披露准确的信息，特别是在使用人工智能的情况下。]]></description>
+      <description><![CDATA[在 Lyft 被迫纠正重大预测错误后，美国证券交易委员会主席周三表示，公司需要确保披露准确的信息，尤其是在使用人工智能的情况下。]]></description>
       <guid>https://www.reuters.com/technology/companies-need-guardrails-especially-if-using-ai-us-sec-chair-says-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 14:00:59 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>投资者希望强劲的美国经济能够使股市免受收益率飙升的影响</title>
       <link>https://www.reuters.com/markets/us/investors-hope-strong-us-economy-can-insulate-stocks-yield-surge-2024-02-14/</link>
-      <description><![CDATA[随着美国国债收益率走高，一些投资者押注美国经济具有弹性，而通胀放缓可以保护股市免受这次的有害影响。]]></description>
+      <description><![CDATA[随着美国国债收益率走高，一些投资者押注美国经济具有韧性，而通胀放缓可以保护股市免受这次的有害影响。]]></description>
       <guid>https://www.reuters.com/markets/us/investors-hope-strong-us-economy-can-insulate-stocks-yield-surge-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 06:04:08 GMT</pubDate>
     </item>
