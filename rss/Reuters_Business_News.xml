@@ -1,51 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 14 Feb 2024 12:43:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 14:58:27 GMT</lastBuildDate>
     <item>
-      <title>美国上市的加密货币公司搭上了比特币上涨的顺风车</title>
-      <link>https://www.reuters.com/technology/us-listed-crypto-firms-hitch-ride-with-rising-bitcoin-2024-02-14/</link>
-      <description><![CDATA[由于投资者情绪改善，比特币市值两年多来首次突破 1 万亿美元，周三收盘前，美国上市的加密货币公司股价上涨 7% 至 13%。]]></description>
-      <guid>https://www.reuters.com/technology/us-listed-crypto-firms-hitch-ride-with-rising-bitcoin-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:43:31 GMT</pubDate>
+      <title>独家：空客首席执行官告诉员工空间损失“不可接受”</title>
+      <link>https://www.reuters.com/business/aerospace-defense/airbus-ceo-tells-staff-space-losses-not-acceptable-2024-02-14/</link>
+      <description><![CDATA[知情人士称，欧洲空中客车公司的负责人告诉员工，最近其航天业务的意外收费是“不可接受的”，这是对面临他所说的内部危机的业务的坦率评估。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/airbus-ceo-tells-staff-space-losses-not-acceptable-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 13:45:16 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街抛售后期货上涨；降息恐慌迫在眉睫</title>
-      <link>https://www.reuters.com/markets/us/futures-climb-after-wall-st-sell-off-rate-cut-jitters-loom-2024-02-14/</link>
-      <description><![CDATA[美国股指期货周三从前一交易日的大幅抛售中收复部分失地，因数据显示通胀并未如预期降温，加剧了美联储 2024 年首次降息时间的不确定性。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-climb-after-wall-st-sell-off-rate-cut-jitters-loom-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:22:59 GMT</pubDate>
+      <title>多伦多证券交易所期货重挫后反弹；原油上涨提供支撑</title>
+      <link>https://www.reuters.com/business/tsx-futures-rebound-after-heavy-losses-rising-crude-lends-support-2024-02-14/</link>
+      <description><![CDATA[加拿大资源型股指期货周三反弹，追随华尔街涨幅，前一交易日因美国通胀数据强劲而大幅下跌，并受到原油价格上涨的进一步支撑。]]></description>
+      <guid>https://www.reuters.com/business/tsx-futures-rebound-after-heavy-losses-rising-crude-lends-support-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 13:20:30 GMT</pubDate>
     </item>
     <item>
-      <title>巴里克黄金季度利润超出预期，宣布回购 10 亿美元股票</title>
-      <link>https://www.reuters.com/markets/commodities/barrick-gold-beats-profit-estimates-fourth-quarter-2024-02-14/</link>
-      <description><![CDATA[得益于黄金产量强劲和价格上涨，加拿大矿业公司巴里克黄金公司周三第四季度利润超出了分析师的预期。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/barrick-gold-beats-profit-estimates-fourth-quarter-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:15:01 GMT</pubDate>
+      <title>马丁·玛丽埃塔预计，由于房地产市场放缓，财政年度收入疲软</title>
+      <link>https://www.reuters.com/markets/commodities/martin-marietta-expects-weak-fy-revenue-amid-housing-slowdown-2024-02-14/</link>
+      <description><![CDATA[建筑材料公司 Martin Marietta Materials 周三预计 2024 年全年收入将低于预期，原因是负担能力驱动的住房放缓以及仓库和数据中心建设的疲软。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/martin-marietta-expects-weak-fy-revenue-amid-housing-slowdown-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 13:13:39 GMT</pubDate>
     </item>
     <item>
-      <title>新冠疫情期间残疾人就业激增； 2024 年不太确定</title>
-      <link>https://www.reuters.com/markets/us/disabled-employment-surged-covid-2024-less-certain-2024-02-14/</link>
-      <description><![CDATA[COVID-19 改变了 Lucy Trieshmann 刚刚起步的法律职业生涯的轨迹。]]></description>
-      <guid>https://www.reuters.com/markets/us/disabled-employment-surged-covid-2024-less-certain-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:11:33 GMT</pubDate>
+      <title>财政部称，美国自 1 月 1 日起提前发放 1.35 亿美元电动汽车退税</title>
+      <link>https://www.reuters.com/business/autos-transportation/us-issues-135-million-advance-ev-tax-rebates-since-jan-1-treasury-says-2024-02-14/</link>
+      <description><![CDATA[美国财政部周三表示，自今年年初至 2 月 6 日，美国政府已向汽车经销商偿还了约 1.35 亿美元的预售消费电动汽车税收抵免款项。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/us-issues-135-million-advance-ev-tax-rebates-since-jan-1-treasury-says-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 13:11:13 GMT</pubDate>
     </item>
     <item>
-      <title>超市集团 Ahold Delhaize 通过削减成本让投资者放心</title>
-      <link>https://www.reuters.com/business/retail-consumer/supermarket-group-ahold-delhaize-reassures-investors-with-cost-cuts-2024-02-14/</link>
-      <description><![CDATA[超市集团 Ahold Delhaize 周三公布的第四季度营业利润率强于预期，并表示，随着食品通胀放缓给杂货商带来压力，该集团将继续“持续关注成本”，以保护盈利能力。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/supermarket-group-ahold-delhaize-reassures-investors-with-cost-cuts-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:10:27 GMT</pubDate>
+      <title>丰业银行全球银行和市场主管离职</title>
+      <link>https://www.reuters.com/business/finance/scotiabanks-global-banking-markets-chief-depart-2024-02-14/</link>
+      <description><![CDATA[加拿大丰业银行周三表示，其全球银行和市场主管杰克·劳伦斯 (Jake Lawrence) 将离职，前往加拿大金融服务公司 Power Corporation 任职。]]></description>
+      <guid>https://www.reuters.com/business/finance/scotiabanks-global-banking-markets-chief-depart-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:42:11 GMT</pubDate>
     </item>
     <item>
-      <title>好时和吉百利巧克力制造商希望通过提价来应对可可紧缩问题</title>
-      <link>https://www.reuters.com/markets/commodities/hershey-cadbury-chocolate-makers-eye-price-hikes-cover-cocoa-crunch-2024-02-14/</link>
-      <description><![CDATA[好时和吉百利巧克力制造商正计划进一步提价，以应对可可价格创下新纪录的飙升，尽管受通胀打击的消费者减少了购买，公司利润也面临打击。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/hershey-cadbury-chocolate-makers-eye-price-hikes-cover-cocoa-crunch-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:06:36 GMT</pubDate>
+      <title>尽管需求放缓，但 CNH 工业利润因价格上涨而上升</title>
+      <link>https://www.reuters.com/markets/commodities/cnh-industrial-profit-rises-higher-prices-2024-02-14/</link>
+      <description><![CDATA[凯斯纽荷兰工业集团 (CNH Industrial) 周三报告称，由于拖拉机和精密农业机械价格强劲，第四季度利润有所增长。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/cnh-industrial-profit-rises-higher-prices-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:39:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>路透调查显示今年全球原糖价格预计上涨20%</title>
+      <link>https://www.reuters.com/markets/commodities/global-raw-sugar-prices-expected-rise-20-this-year-2024-02-14/</link>
+      <description><![CDATA[路透社对 12 名贸易商和分析师进行的调查显示，随着全球市场在即将到来的季节转为赤字，预计 2024 年原糖价格将实现近 20% 的年涨幅。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/global-raw-sugar-prices-expected-rise-20-this-year-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:35:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币投资总额重回1万亿美元以上</title>
+      <link>https://www.reuters.com/technology/total-amount-invested-bitcoin-back-over-1-trillion-2024-02-14/</link>
+      <description><![CDATA[周三，比特币投资总额自 2021 年 11 月以来首次突破 1 万亿美元，美国现货比特币交易所交易基金的资金流入继续支撑价格。]]></description>
+      <guid>https://www.reuters.com/technology/total-amount-invested-bitcoin-back-over-1-trillion-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:30:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>监管令后 Visa 停止在印度进行商业卡支付</title>
+      <link>https://www.reuters.com/business/finance/visa-halts-intermediated-commercial-card-payments-india-following-rbi-order-2024-02-14/</link>
+      <description><![CDATA[Visa周三表示，印度储备银行（同时也是该国的金融市场监管机构）已于上周指示其停止商业支付解决方案提供商（BPSP）的所有国内交易。]]></description>
+      <guid>https://www.reuters.com/business/finance/visa-halts-intermediated-commercial-card-payments-india-following-rbi-order-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:19:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>利率产品交易量增加，芝商所第四季度利润超预期</title>
+      <link>https://www.reuters.com/business/cme-group-fourth-quarter-profit-jumps-higher-trading-volumes-2024-02-14/</link>
+      <description><![CDATA[芝商所周三公布的第四季度利润好于预期，因其利率产品的强劲需求提振了衍生品交易所的交易量。]]></description>
+      <guid>https://www.reuters.com/business/cme-group-fourth-quarter-profit-jumps-higher-trading-volumes-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球写字楼市场低迷导致银行面临进一步贷款损失 - 晨星 DBRS</title>
+      <link>https://www.reuters.com/business/finance/banks-face-further-loan-losses-global-office-market-slump-morningstar-dbrs-2024-02-14/</link>
+      <description><![CDATA[信用评级机构晨星 DBRS 周三表示，由于估值大幅下跌导致更多违约，全球银行可能会在写字楼房地产贷款方面遭受进一步损失。]]></description>
+      <guid>https://www.reuters.com/business/finance/banks-face-further-loan-losses-global-office-market-slump-morningstar-dbrs-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡夫亨氏预计由于需求不温不火，年销售额增长将放缓</title>
+      <link>https://www.reuters.com/business/retail-consumer/kraft-heinz-misses-fourth-quarter-sales-estimates-2024-02-14/</link>
+      <description><![CDATA[卡夫亨氏在周三未达到季度销售预期后，预测年度核心销售增长将放缓，这表明随着客户消化过去的价格上涨，对其汤、酱汁和肉类冷盘的需求可能会保持低迷。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/kraft-heinz-misses-fourth-quarter-sales-estimates-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:08:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lyft 预测失误令交易员震惊，可能引发审查</title>
+      <link>https://www.reuters.com/technology/lyft-rises-cost-cuts-drive-positive-free-cash-flow-2024-2024-02-14/</link>
+      <description><![CDATA[分析师和专家周三表示，Lyft 的预测错误导致股价隔夜暴跌，可能会引发监管或法律审查，从而给其稳健的季度和预测蒙上阴影。]]></description>
+      <guid>https://www.reuters.com/technology/lyft-rises-cost-cuts-drive-positive-free-cash-flow-2024-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>优步在第一个盈利年之后首次进行 70 亿美元的股票回购</title>
+      <link>https://www.reuters.com/technology/uber-announces-7-billion-buyback-after-first-profitable-year-2024-02-14/</link>
+      <description><![CDATA[Uber Technologies 周三表示，在拼车业务强劲复苏以及食品配送业务的健康需求之后，它将首次回购价值 70 亿美元的公司股票。]]></description>
+      <guid>https://www.reuters.com/technology/uber-announces-7-billion-buyback-after-first-profitable-year-2024-02-14/</guid>
+      <pubDate>Wed, 14 Feb 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>美国银行、私募股权公司竞相为债务支持交易融资</title>
@@ -55,13 +111,6 @@
       <pubDate>Wed, 14 Feb 2024 11:06:11 GMT</pubDate>
     </item>
     <item>
-      <title>在 NYCB 之后，市场评级公司对银行进行了质询，引发了担忧</title>
-      <link>https://www.reuters.com/markets/us/market-ratings-firms-quizzed-banks-after-nycb-fueling-worries-2024-02-14/</link>
-      <description><![CDATA[2 月 1 日，纽约社区银行 (New York Community Bancorp) 的股票因对其房地产风险的担忧而下跌，数百英里外的一家地区银行接到了穆迪 (Moody&#39;s) 的电话。评级机构想知道该银行是否受到任何影响。]]></description>
-      <guid>https://www.reuters.com/markets/us/market-ratings-firms-quizzed-banks-after-nycb-fueling-worries-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:03:28 GMT</pubDate>
-    </item>
-    <item>
       <title>解释者：特拉华州是否像马斯克声称的那样“锁上大门”以阻止公司离开？</title>
       <link>https://www.reuters.com/business/autos-transportation/did-delaware-lock-doors-stop-companies-leaving-musk-claims-2024-02-14/</link>
       <description><![CDATA[埃隆·马斯克 (Elon Musk) 声称，特拉华州是美国大部分企业的所在地，该州正试图阻止企业响应他离开该州的号召，该州法院宣布他 560 亿美元的特斯拉薪酬方案无效。]]></description>
@@ -69,39 +118,11 @@
       <pubDate>Wed, 14 Feb 2024 11:02:54 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：随着市场的反弹，“无法着陆”的情况不断发生</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-14/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 11:02:43 GMT</pubDate>
-    </item>
-    <item>
       <title>Robinhood 因第四季度意外利润和 2024 年收入增长预测强劲而飙升</title>
       <link>https://www.reuters.com/business/finance/robinhood-surges-surprise-q4-profit-strong-2024-revenue-growth-forecast-2024-02-14/</link>
-      <description><![CDATA[周三，零售投资者经纪公司 Robinhood 公布第四季度意外盈利，并表示预计 2024 年收入将强劲增长，该公司股价在周三盘前交易中飙升 12%。]]></description>
+      <description><![CDATA[Robinhood 的股价周三在盘前交易中飙升 12%，此前这家零售投资者经纪公司公布了第四季度的意外利润，并表示预计 2024 年收入将强劲增长。]]></description>
       <guid>https://www.reuters.com/business/finance/robinhood-surges-surprise-q4-profit-strong-2024-revenue-growth-forecast-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 10:50:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩托罗拉解决方案收购英国热像仪公司 Silent Sentinel</title>
-      <link>https://www.reuters.com/markets/deals/motorola-solutions-buys-uk-thermal-camera-company-silent-sentinel-2024-02-14/</link>
-      <description><![CDATA[摩托罗拉解决方案周三表示，它已收购英国远程热像仪专家 Silent Sentinel，以增强其在机场、石油和天然气设施等场所的视频安全能力。]]></description>
-      <guid>https://www.reuters.com/markets/deals/motorola-solutions-buys-uk-thermal-camera-company-silent-sentinel-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 10:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼和本田电动汽车合资公司将在 2030 年之前推出三款车型 - 日经新闻</title>
-      <link>https://www.reuters.com/business/autos-transportation/sony-honda-ev-venture-roll-out-three-models-before-2030-nikkei-2024-02-14/</link>
-      <description><![CDATA[据《日经商业日报》周三报道，日本索尼集团和本田汽车成立的一家合资企业将在本世纪下半叶推出三款电动汽车 (EV) 车型。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/sony-honda-ev-venture-roll-out-three-models-before-2030-nikkei-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 09:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>诺基亚推出面向产业工人的人工智能助手</title>
-      <link>https://www.reuters.com/technology/nokia-unveils-ai-assistant-industrial-workers-2024-02-14/</link>
-      <description><![CDATA[科技公司诺基亚周三推出了一款人工智能驱动的工具，可以为产业工人生成信息，包括根据实时数据发出有关机器故障的警告以及提高工厂产量的建议方法。]]></description>
-      <guid>https://www.reuters.com/technology/nokia-unveils-ai-assistant-industrial-workers-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 09:01:58 GMT</pubDate>
     </item>
     <item>
       <title>中国、美国主导的全球补充枯竭石油库存有望提振需求</title>
@@ -113,30 +134,9 @@
     <item>
       <title>投资者希望强劲的美国经济能够使股市免受收益率飙升的影响</title>
       <link>https://www.reuters.com/markets/us/investors-hope-strong-us-economy-can-insulate-stocks-yield-surge-2024-02-14/</link>
-      <description><![CDATA[随着美国国债收益率走高，一些投资者押注美国经济具有弹性，而通胀放缓可以保护股市免受这次的有害影响。]]></description>
+      <description><![CDATA[随着美国国债收益率走高，一些投资者押注美国经济具有韧性，而通胀放缓可以保护股市免受这次的有害影响。]]></description>
       <guid>https://www.reuters.com/markets/us/investors-hope-strong-us-economy-can-insulate-stocks-yield-surge-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 06:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：降息重新思考在整个市场产生涟漪</title>
-      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-02-14/</link>
-      <description><![CDATA[Rae Wee 对欧洲和全球市场未来一天的展望]]></description>
-      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 05:31:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：消息人士称，NEC 在出售 iPhone 供应商折价股份之前拒绝了私募股权收购要约</title>
-      <link>https://www.reuters.com/markets/deals/nec-spurned-private-equity-offers-before-selling-discounted-stake-iphone-2024-02-14/</link>
-      <description><![CDATA[五位知情人士称，日本 NEC 收到了全球私募股权基金对 iPhone 供应商日本航空电子工业公司 (Japan Aviation Electronics Industry) 的多项收购要约，然后同意以折扣价将其 51% 的大部分股权​​出售给这家日本公司。]]></description>
-      <guid>https://www.reuters.com/markets/deals/nec-spurned-private-equity-offers-before-selling-discounted-stake-iphone-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 05:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 研究员 Andrej Karpathy 离开公司</title>
-      <link>https://www.reuters.com/technology/openai-researcher-andrej-karpathy-departs-firm-2024-02-14/</link>
-      <description><![CDATA[人工智能研究员、OpenAI 创始成员之一安德烈·卡帕蒂 (Andrej Karpathy) 在社交媒体平台 X 上发帖称，他于周一离开了这家微软支持的公司。]]></description>
-      <guid>https://www.reuters.com/technology/openai-researcher-andrej-karpathy-departs-firm-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 03:59:54 GMT</pubDate>
     </item>
     <item>
       <title>独家：记录显示，马斯克旗下的 SpaceX 公司因一名工人“差点截肢”而被罚款</title>
