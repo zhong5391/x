@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 14 Feb 2024 15:19:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 16:07:58 GMT</lastBuildDate>
     <item>
       <title>独家：空客首席执行官告诉员工空间损失“不可接受”</title>
       <link>https://www.reuters.com/business/aerospace-defense/airbus-ceo-tells-staff-space-losses-not-acceptable-2024-02-14/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>马丁·玛丽埃塔预计，由于房地产市场放缓，财政年度收入疲软</title>
       <link>https://www.reuters.com/markets/commodities/martin-marietta-expects-weak-fy-revenue-amid-housing-slowdown-2024-02-14/</link>
-      <description><![CDATA[建筑材料公司 Martin Marietta Materials 周三预计 2024 年全年收入将弱于预期，原因是负担能力驱动的住房放缓以及仓库和数据中心建设的疲软。]]></description>
+      <description><![CDATA[建筑材料公司 Martin Marietta Materials 周三预计 2024 年全年收入将低于预期，原因是负担能力驱动的住房放缓以及仓库和数据中心建设的疲软。]]></description>
       <guid>https://www.reuters.com/markets/commodities/martin-marietta-expects-weak-fy-revenue-amid-housing-slowdown-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 13:13:39 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>尽管需求放缓，但 CNH 工业利润因价格上涨而上升</title>
       <link>https://www.reuters.com/markets/commodities/cnh-industrial-profit-rises-higher-prices-2024-02-14/</link>
-      <description><![CDATA[周三，凯斯纽荷兰工业集团 (CNH Industrial) 报告称，由于拖拉机和精密农业机械价格强劲，第四季度利润有所增长。]]></description>
+      <description><![CDATA[凯斯纽荷兰工业集团 (CNH Industrial) 周三报告称，由于拖拉机和精密农业机械价格强劲，第四季度利润有所增长。]]></description>
       <guid>https://www.reuters.com/markets/commodities/cnh-industrial-profit-rises-higher-prices-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 12:39:23 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>监管令后 Visa 停止在印度进行商业卡支付</title>
       <link>https://www.reuters.com/business/finance/visa-halts-intermediated-commercial-card-payments-india-following-rbi-order-2024-02-14/</link>
-      <description><![CDATA[Visa周三表示，印度储备银行（也是印度的金融市场监管机构）上周指示其停止商业支付解决方案提供商（BPSP）的所有国内交易。]]></description>
+      <description><![CDATA[Visa周三表示，印度储备银行（同时也是该国的金融市场监管机构）已于上周指示其停止商业支付解决方案提供商（BPSP）的所有国内交易。]]></description>
       <guid>https://www.reuters.com/business/finance/visa-halts-intermediated-commercial-card-payments-india-following-rbi-order-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 12:19:21 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>优步在第一个盈利年之后首次进行 70 亿美元的股票回购</title>
       <link>https://www.reuters.com/technology/uber-announces-7-billion-buyback-after-first-profitable-year-2024-02-14/</link>
-      <description><![CDATA[Uber Technologies 周三表示，在拼车业务强劲复苏以及食品配送业务的健康需求之后，该公司将首次回购价值 70 亿美元的公司股票。]]></description>
+      <description><![CDATA[Uber Technologies 周三表示，在拼车业务强劲复苏以及食品配送业务的健康需求之后，它将首次回购价值 70 亿美元的公司股票。]]></description>
       <guid>https://www.reuters.com/technology/uber-announces-7-billion-buyback-after-first-profitable-year-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 12:00:00 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>Robinhood 因第四季度意外利润和 2024 年收入增长预测强劲而飙升</title>
       <link>https://www.reuters.com/business/finance/robinhood-surges-surprise-q4-profit-strong-2024-revenue-growth-forecast-2024-02-14/</link>
-      <description><![CDATA[周三，零售投资者经纪公司 Robinhood 公布第四季度意外盈利，并表示预计 2024 年收入将强劲增长，该公司股价在周三盘前交易中飙升 12%。]]></description>
+      <description><![CDATA[Robinhood 的股价周三在盘前交易中飙升 12%，此前这家零售投资者经纪公司公布了第四季度的意外利润，并表示预计 2024 年收入将强劲增长。]]></description>
       <guid>https://www.reuters.com/business/finance/robinhood-surges-surprise-q4-profit-strong-2024-revenue-growth-forecast-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 10:50:49 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>投资者希望强劲的美国经济能够使股市免受收益率飙升的影响</title>
       <link>https://www.reuters.com/markets/us/investors-hope-strong-us-economy-can-insulate-stocks-yield-surge-2024-02-14/</link>
-      <description><![CDATA[随着美国国债收益率走高，一些投资者押注美国经济具有弹性，而通胀放缓可以保护股市免受这次的有害影响。]]></description>
+      <description><![CDATA[随着美国国债收益率走高，一些投资者押注美国经济具有韧性，而通胀放缓可以保护股市免受这次的有害影响。]]></description>
       <guid>https://www.reuters.com/markets/us/investors-hope-strong-us-economy-can-insulate-stocks-yield-surge-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 06:04:08 GMT</pubDate>
     </item>
