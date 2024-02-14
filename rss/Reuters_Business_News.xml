@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 14 Feb 2024 16:41:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 16:58:35 GMT</lastBuildDate>
     <item>
       <title>即使通胀下行之路崎岖不平，美联储仍走在正轨上——Goolsbee</title>
       <link>https://www.reuters.com/markets/us/fed-still-track-even-if-inflations-path-down-is-bumpy-goolsbee-2024-02-14/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>美国 SEC 主席表示，公司需要护栏，尤其是使用人工智能时</title>
       <link>https://www.reuters.com/technology/companies-need-guardrails-especially-if-using-ai-us-sec-chair-says-2024-02-14/</link>
-      <description><![CDATA[在 Lyft 被迫纠正重大预测错误后，美国证券交易委员会主席周三表示，公司需要确保披露准确的信息，特别是在使用人工智能的情况下。]]></description>
+      <description><![CDATA[在 Lyft 被迫纠正重大预测错误后，美国证券交易委员会主席周三表示，公司需要确保披露准确的信息，尤其是在使用人工智能的情况下。]]></description>
       <guid>https://www.reuters.com/technology/companies-need-guardrails-especially-if-using-ai-us-sec-chair-says-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 14:00:59 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Wed, 14 Feb 2024 13:13:39 GMT</pubDate>
     </item>
     <item>
-      <title>财政部表示，自 1 月 1 日起，美国提前发放 1.35 亿美元的电动汽车退税</title>
+      <title>财政部称，美国自 1 月 1 日起提前发放 1.35 亿美元电动汽车退税</title>
       <link>https://www.reuters.com/business/autos-transportation/us-issues-135-million-advance-ev-tax-rebates-since-jan-1-treasury-says-2024-02-14/</link>
       <description><![CDATA[美国财政部周三表示，自今年年初至 2 月 6 日，美国政府已向汽车经销商偿还了约 1.35 亿美元的预售消费电动汽车税收抵免款项。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-issues-135-million-advance-ev-tax-rebates-since-jan-1-treasury-says-2024-02-14/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>投资者希望强劲的美国经济能够使股市免受收益率飙升的影响</title>
       <link>https://www.reuters.com/markets/us/investors-hope-strong-us-economy-can-insulate-stocks-yield-surge-2024-02-14/</link>
-      <description><![CDATA[随着美国国债收益率走高，一些投资者押注美国经济具有弹性，而通胀放缓可以保护股市免受这次的有害影响。]]></description>
+      <description><![CDATA[随着美国国债收益率走高，一些投资者押注美国经济具有韧性，而通胀放缓可以保护股市免受这次的有害影响。]]></description>
       <guid>https://www.reuters.com/markets/us/investors-hope-strong-us-economy-can-insulate-stocks-yield-surge-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 06:04:08 GMT</pubDate>
     </item>
