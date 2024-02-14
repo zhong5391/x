@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 14 Feb 2024 13:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2024 13:38:30 GMT</lastBuildDate>
     <item>
       <title>文件显示，世贸组织上诉法院危机无法得到解决</title>
       <link>https://www.reuters.com/business/no-solution-wto-appeals-court-crisis-foreseen-documents-show-2024-02-14/</link>
@@ -48,7 +48,7 @@
       <pubDate>Wed, 14 Feb 2024 09:16:47 GMT</pubDate>
     </item>
     <item>
-      <title>ASML表示地缘政治和新的出口限制仍然是风险</title>
+      <title>ASML表示地缘政治、新的出口限制仍然是风险</title>
       <link>https://www.reuters.com/technology/asml-says-geopolitics-new-export-restrictions-remain-risks-2024-02-14/</link>
       <description><![CDATA[计算机芯片制造商最大的设备供应商阿斯麦周三表示，地缘政治紧张局势以及美国主导的限制其对华出口行动的任何扩大仍然是商业风险。]]></description>
       <guid>https://www.reuters.com/technology/asml-says-geopolitics-new-export-restrictions-remain-risks-2024-02-14/</guid>
@@ -113,7 +113,7 @@
     <item>
       <title>美国通胀数据公布后，股市下跌，美元和收益率上涨</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-13/</link>
-      <description><![CDATA[数据显示美国1月份通胀放缓幅度低于预期，周二全球股市指数下跌，10年期美国国债收益率触及2-1/2个月高点，美元兑日元触及三个月高点。]]></description>
+      <description><![CDATA[数据显示美国1月份通胀放缓幅度低于预期，周二全球股市指数下跌，10年期美国国债收益率触及2-1/2个月高点，美元兑日元触及三个月高位。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-13/</guid>
       <pubDate>Tue, 13 Feb 2024 02:03:47 GMT</pubDate>
     </item>
@@ -134,14 +134,14 @@
     <item>
       <title>美国议员呼吁对中国药明康德生物技术公司实施制裁</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/us-lawmakers-call-sanctions-chinas-wuxi-apptec-biotech-firm-2024-02-12/</link>
-      <description><![CDATA[两党议员周一告诉拜登政府高级官员，美国应该对中国生物技术公司药明康德及其子公司药明生物进行制裁审查。]]></description>
+      <description><![CDATA[一个由两党议员组成的小组周一告诉拜登政府高级官员，美国应该对中国生物技术公司药明康德及其子公司药明生物进行制裁审查。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/us-lawmakers-call-sanctions-chinas-wuxi-apptec-biotech-firm-2024-02-12/</guid>
       <pubDate>Mon, 12 Feb 2024 19:53:59 GMT</pubDate>
     </item>
     <item>
       <title>独家：小米称印度对中国企业的审查令供应商感到不安</title>
       <link>https://www.reuters.com/technology/xiaomi-says-indias-scrutiny-chinese-firms-unnerves-suppliers-2024-02-11/</link>
-      <description><![CDATA[据一封信函和一位直接了解情况的消息人士透露，中国小米已向印度政府表示，其对中国公司的严格审查使得智能手机零部件供应商对在印度设立业务持谨慎态度。]]></description>
+      <description><![CDATA[据一封信函和一位直接了解情况的消息人士称，中国小米已向印度政府表示，其对中国公司的严格审查使得智能手机零部件供应商对在印度设立业务持谨慎态度。]]></description>
       <guid>https://www.reuters.com/technology/xiaomi-says-indias-scrutiny-chinese-firms-unnerves-suppliers-2024-02-11/</guid>
       <pubDate>Sun, 11 Feb 2024 10:53:59 GMT</pubDate>
     </item>
