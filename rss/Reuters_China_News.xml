@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 15 Feb 2024 22:24:58 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 15 Feb 2024 22:38:42 GMT</lastBuildDate>
+    <item>
+      <title>太平洋岛国对美国拖延资助感到担忧，对中国发出警告</title>
+      <link>https://www.reuters.com/world/anxious-about-us-funding-delay-pacific-island-nations-warn-about-china-2024-02-15/</link>
+      <description><![CDATA[美国的战略盟友太平洋岛国领导人对美国国会预算僵局越来越感到焦虑，这一僵局导致重要的新融资方案的批准被推迟，并警告说，中国正在积极寻求改变他们的忠诚度，包括对台湾的忠诚度。]]></description>
+      <guid>https://www.reuters.com/world/anxious-about-us-funding-delay-pacific-island-nations-warn-about-china-2024-02-15/</guid>
+      <pubDate>Thu, 15 Feb 2024 20:14:04 GMT</pubDate>
+    </item>
     <item>
       <title>大众汽车表示，巴西可持续发展规则不应让汽车变得更加昂贵</title>
       <link>https://www.reuters.com/business/autos-transportation/brazil-sustainability-rules-should-not-make-cars-more-expensive-volkswagen-says-2024-02-15/</link>
@@ -29,9 +36,16 @@
     <item>
       <title>在罗马争执中，Stellantis 首席执行官表示意大利工厂有未来</title>
       <link>https://www.reuters.com/business/autos-transportation/amid-rome-spat-stellantis-ceo-says-italy-plants-have-future-2024-02-15/</link>
-      <description><![CDATA[Stellantis首席执行官卡洛斯·塔瓦雷斯(Carlos Tavares)周四表示，该汽车制造商将需要其所有意大利工厂实现其在那里的长期生产目标，这一和解言论可能会缓解菲亚特汽车制造商与罗马之间的紧张关系。]]></description>
+      <description><![CDATA[Stellantis首席执行官卡洛斯·塔瓦雷斯(Carlos Tavares)周四表示，该汽车制造商将需要其所有意大利工厂来实现其在那里的长期生产目标，这一和解言论可能会缓解菲亚特汽车制造商与罗马之间的紧张关系。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/amid-rome-spat-stellantis-ceo-says-italy-plants-have-future-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 13:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着中国竞争的加剧，欧洲和美国汽车制造商竞相降低电动汽车成本</title>
+      <link>https://www.reuters.com/business/autos-transportation/stellantis-renault-race-cut-costs-make-evs-more-affordable-2024-02-15/</link>
+      <description><![CDATA[行业高管周四表示，在中国竞争对手的压力下，美国和欧洲主要汽车制造商正在大力削减电动汽车成本，以便获得与化石燃料车型相似的价格标签和利润率。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/stellantis-renault-race-cut-costs-make-evs-more-affordable-2024-02-15/</guid>
+      <pubDate>Thu, 15 Feb 2024 13:03:54 GMT</pubDate>
     </item>
     <item>
       <title>晚场秀将阿尔希拉尔推向亚洲CL四分之一</title>
@@ -43,7 +57,7 @@
     <item>
       <title>数百万人从农历新年旅行归来，预计中国将迎来寒流</title>
       <link>https://www.reuters.com/world/china/cold-snap-expected-china-millions-return-lunar-new-year-trips-2024-02-15/</link>
-      <description><![CDATA[国家气象台周四表示，预计从本周末开始，一股寒流将席卷中国大部分地区，随着数百万人春节旅行归来，气温将下降高达20摄氏度。]]></description>
+      <description><![CDATA[国家气象台周四表示，预计从本周末开始，一股寒流将席卷中国大部分地区，随着数百万人春节旅行返回，气温将下降高达20摄氏度。]]></description>
       <guid>https://www.reuters.com/world/china/cold-snap-expected-china-millions-return-lunar-new-year-trips-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 11:56:23 GMT</pubDate>
     </item>
@@ -55,7 +69,7 @@
       <pubDate>Thu, 15 Feb 2024 11:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>马克龙和泽伦斯基将于周五签署双边安全协议 - 爱丽舍宫</title>
+      <title>马克龙和泽连斯基将于周五签署双边安全协议 - 爱丽舍宫</title>
       <link>https://www.reuters.com/world/europe/macron-zelenskiy-sign-bilateral-security-agreement-friday-elysee-2024-02-15/</link>
       <description><![CDATA[法国总统周四表示，法国和乌克兰将于本周五签署一项关于安全承诺的双边协议。]]></description>
       <guid>https://www.reuters.com/world/europe/macron-zelenskiy-sign-bilateral-security-agreement-friday-elysee-2024-02-15/</guid>
@@ -92,7 +106,7 @@
     <item>
       <title>菲律宾承诺遵守南海行为准则</title>
       <link>https://www.reuters.com/world/asia-pacific/philippines-committed-south-china-sea-code-conduct-2024-02-15/</link>
-      <description><![CDATA[菲律宾外长周四表示，菲律宾坚定致力于中国与东南亚国家之间就行为准则进行谈判，以避免南海对抗。]]></description>
+      <description><![CDATA[菲律宾外交部长周四表示，菲律宾坚定致力于中国与东南亚国家之间就行为准则进行谈判，以避免南海对抗。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/philippines-committed-south-china-sea-code-conduct-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 05:47:08 GMT</pubDate>
     </item>
@@ -106,14 +120,14 @@
     <item>
       <title>随着经济放缓，一些中国年轻人放弃了企业工作，转而追求“自我时间”</title>
       <link>https://www.reuters.com/world/china/some-chinese-youth-spurn-corporate-jobs-me-time-economy-slows-2024-02-15/</link>
-      <description><![CDATA[面对经济放缓带来的就业前景黯淡，褚毅选择“平躺”，这是一个中文术语，用来描述那些工作只够花时间做自己喜欢的事情的人。]]></description>
+      <description><![CDATA[面对经济放缓带来的就业前景黯淡，褚毅选择“平躺”，这是一个中文术语，用来形容那些工作只够花时间做自己喜欢的事情的人。]]></description>
       <guid>https://www.reuters.com/world/china/some-chinese-youth-spurn-corporate-jobs-me-time-economy-slows-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 01:09:34 GMT</pubDate>
     </item>
     <item>
-      <title>部分大众汽车因中国零件在美国港口延误</title>
+      <title>部分大众汽车因中国零件滞留在美国港口</title>
       <link>https://www.reuters.com/business/autos-transportation/some-volkswagen-cars-delayed-us-ports-over-chinese-part-2024-02-14/</link>
-      <description><![CDATA[大众汽车周三表示，预计将在 3 月底之前解决因海关问题而滞留在美国港口的数千辆汽车的交付延误问题。]]></description>
+      <description><![CDATA[大众汽车周三表示，预计将在 3 月底前解决因海关问题而滞留在美国港口的数千辆汽车的交付延误问题。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/some-volkswagen-cars-delayed-us-ports-over-chinese-part-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 20:54:21 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[分析师和交易商表示，随着中东紧张局势威胁到主要航道，推动补充耗尽的石油库存（尤其是在中国、美国和欧洲）可能会在未来几个月提振需求和价格。]]></description>
       <guid>https://www.reuters.com/markets/commodities/china-us-led-global-refill-depleted-oil-stocks-seen-buoying-demand-2024-02-14/</guid>
       <pubDate>Wed, 14 Feb 2024 07:09:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>台湾报告中国在附近进行另一次“战备巡逻”</title>
-      <link>https://www.reuters.com/world/asia-pacific/taiwan-reports-another-chinese-combat-readiness-patrol-nearby-2024-02-14/</link>
-      <description><![CDATA[台湾国防部表示，周三发现有 14 架中国空军飞机在台湾周围活动，并与中国军舰进行“联合战备巡逻”。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/taiwan-reports-another-chinese-combat-readiness-patrol-nearby-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 06:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国太平洋盟友所罗门群岛预计将于四月举行选举</title>
-      <link>https://www.reuters.com/world/asia-pacific/chinas-pacific-ally-solomon-islands-expected-call-election-april-2024-02-14/</link>
-      <description><![CDATA[所罗门群岛预计将于下周举行四月份全国大选，随着各政党在这个太平洋岛国发起竞选活动，与中国的安全关系将成为一个关键问题。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/chinas-pacific-ally-solomon-islands-expected-call-election-april-2024-02-14/</guid>
-      <pubDate>Wed, 14 Feb 2024 06:40:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
