@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 15 Feb 2024 17:48:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 18:08:49 GMT</lastBuildDate>
     <item>
       <title>人工智能计算领域的 Lambda 估值达到 15 亿美元</title>
       <link>https://www.bloomberg.com/news/videos/2024-02-15/lambda-hits-1-5-billion-valuation-for-ai-computing-video</link>
@@ -34,6 +34,13 @@
       <pubDate>Thu, 15 Feb 2024 17:40:30 GMT</pubDate>
     </item>
     <item>
+      <title>肯尼亚将回购 14.4 亿美元的 2024 年美元债券</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-15/kenya-to-repurchase-1-44-billion-of-2024-dollar-bonds</link>
+      <description><![CDATA[肯尼亚政府表示，将回购大部分未偿还的 2024 年 6 月美元债券，此举是为了提振市场信心，因为人们担心偿还 20 亿美元本金。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-15/kenya-to-repurchase-1-44-billion-of-2024-dollar-bonds</guid>
+      <pubDate>Thu, 15 Feb 2024 17:35:40 GMT</pubDate>
+    </item>
+    <item>
       <title>随着比特币上涨，银行正在敦促美国监管机构改变加密货币指导</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-15/as-bitcoin-rallies-banks-push-sec-to-change-an-accounting-guideline-sab-121</link>
       <description><![CDATA[强大的利益集团正在推动美国证券交易委员会调整会计指导，这使得美国银行为客户持有数字资产的成本更高。]]></description>
@@ -59,6 +66,13 @@ Spotify：http://bit.ly/42xmHPz
 任何地方：http://bit.ly/3oOD8ZH（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-02-15/hot-inflation-numbers-prove-fed-was-right-sofi-s-young-video</guid>
       <pubDate>Thu, 15 Feb 2024 16:59:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>哥伦比亚经济落后于预测，增速为大流行以来最弱</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-15/colombian-economy-lags-forecasts-with-weakest-growth-since-pandemic</link>
+      <description><![CDATA[哥伦比亚经济增长速度甚至比央行去年的悲观预测还要慢，这可能为更快降息打开大门。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-15/colombian-economy-lags-forecasts-with-weakest-growth-since-pandemic</guid>
+      <pubDate>Thu, 15 Feb 2024 16:52:49 GMT</pubDate>
     </item>
     <item>
       <title>BNP 支持的量化投资在经过时间考验的多元化押注上获得了 25% 的收益</title>
@@ -108,20 +122,6 @@ Spotify：http://bit.ly/42xmHPz
       <description><![CDATA[据知情人士透露，维京游轮正在考虑在美国进行首次公开​​募股，可能筹集 5 亿美元或更多资金。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-15/viking-cruises-weighs-us-ipo-of-500-million-or-more</guid>
       <pubDate>Thu, 15 Feb 2024 15:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Signa Tower 项目的主要银行租户寻求总部替代方案</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-15/german-bank-doesn-t-believe-signa-tower-project-will-be-completed</link>
-      <description><![CDATA[2023 年 11 月 6 日星期一，德国汉堡，Signa Prime Selection AG 项目的 Elbtower 施工现场暂停，该项目旨在建造德国法兰克福以外最高的建筑。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-15/german-bank-doesn-t-believe-signa-tower-project-will-be-completed</guid>
-      <pubDate>Thu, 15 Feb 2024 15:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>监视：如果你不困惑，你就没有注意</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-02-15/us-stock-market-gets-a-dose-of-confusion-instead-of-clear-data-it-craves</link>
-      <description><![CDATA[Invesco 的 Rob Waldner 表示，“我们得到的数据并不清晰，而是大量嘈杂的数据”]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-02-15/us-stock-market-gets-a-dose-of-confusion-instead-of-clear-data-it-craves</guid>
-      <pubDate>Thu, 15 Feb 2024 14:59:23 GMT</pubDate>
     </item>
     <item>
       <title>什么是经济衰退？英国的情况将会有多糟糕？</title>
@@ -196,7 +196,7 @@ Spotify：http://bit.ly/42xmHPz
     <item>
       <title>华尔街在 PPI 之前努力站稳脚跟：市场结束</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-14/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[在好坏参半的经济报告之后，华尔街很难找到坚实的基础，交易员们正在为周五的通胀数据做准备，以寻找有关美联储利率路径的线索。]]></description>
+      <description><![CDATA[在经济报告好坏参半之后，华尔街很难找到坚实的基础，交易员正在等待周五的通胀数据，以寻找有关美联储利率路径的线索。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-14/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 14 Feb 2024 22:56:02 GMT</pubDate>
     </item>
