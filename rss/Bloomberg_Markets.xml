@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 16 Feb 2024 14:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 14:38:33 GMT</lastBuildDate>
     <item>
       <title>施耐德电气首席执行官：人工智能是需求的催化剂</title>
       <link>https://www.bloomberg.com/news/videos/2024-02-16/schneider-electric-ceo-ai-is-catalyst-for-demand-video</link>
@@ -20,11 +20,25 @@
       <pubDate>Fri, 16 Feb 2024 14:10:57 GMT</pubDate>
     </item>
     <item>
+      <title>美联储巴尔表示监管机构正在关注商业房地产风险</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-16/fed-s-barr-says-regulators-eyeing-cre-risk-downgrade-more-banks</link>
+      <description><![CDATA[美联储首席银行监管机构表示，美国监管机构“密切关注”商业房地产贷款的风险，并在金融面临新压力的情况下加大了银行监管评级的下调力度。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-16/fed-s-barr-says-regulators-eyeing-cre-risk-downgrade-more-banks</guid>
+      <pubDate>Fri, 16 Feb 2024 14:10:00 GMT</pubDate>
+    </item>
+    <item>
       <title>史蒂文·凯利 (Steven Kelly) 谈 SVB 倒闭后重新思考银行规则</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-16/steven-kelly-on-rethinking-bank-rules-after-the-collapse-of-svb</link>
       <description><![CDATA[正在讨论银行业监管的一些重大变化。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-16/steven-kelly-on-rethinking-bank-rules-after-the-collapse-of-svb</guid>
       <pubDate>Fri, 16 Feb 2024 14:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大对外国证券的投资创历史新高</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-16/canadian-investment-in-foreign-securities-hits-all-time-high</link>
+      <description><![CDATA[去年年底，随着投资者纷纷买入美国股票，加拿大人购买了创纪录数量的外国证券。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-16/canadian-investment-in-foreign-securities-hits-all-time-high</guid>
+      <pubDate>Fri, 16 Feb 2024 13:59:50 GMT</pubDate>
     </item>
     <item>
       <title>法国电力公司正在与英国就核项目融资进行谈判</title>
@@ -157,13 +171,6 @@
       <pubDate>Fri, 16 Feb 2024 11:00:13 GMT</pubDate>
     </item>
     <item>
-      <title>香港恒生指数审核后维持不变</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-16/hong-kong-s-hang-seng-index-to-stay-unchanged-after-review</link>
-      <description><![CDATA[一份声明称，香港恒生指数在最近一次季度审查后将不会进行任何增减。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-16/hong-kong-s-hang-seng-index-to-stay-unchanged-after-review</guid>
-      <pubDate>Fri, 16 Feb 2024 10:56:22 GMT</pubDate>
-    </item>
-    <item>
       <title>俄罗斯维持利率不变，大选前通胀成为焦点</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-16/russia-holds-rates-with-inflation-in-focus-ahead-of-elections</link>
       <description><![CDATA[]]></description>
@@ -183,13 +190,6 @@
       <description><![CDATA[IWG Plc 首席执行官马克·迪克森 (Mark Dixon) 认购了 2.7 亿股——约占其持股量的 93%——根据一份监管文件，该公司是全球最大的服务式办公室运营商的一部分，作为德意志银行一笔金额未披露的贷款的抵押品。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-16/iwg-ceo-dixon-pledges-667-million-stake-for-deutsche-bank-loan</guid>
       <pubDate>Fri, 16 Feb 2024 08:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>兴登堡报告让瑞士金融科技公司陷入混乱</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-16/temenos-temn-hindenburg-short-throws-swiss-firm-into-turmoil</link>
-      <description><![CDATA[甚至在 Hindenburg Research 的一份报告导致这家瑞士银行软件公司的股价出现 15 年来最大跌幅之前，Temenos AG 就已经成为激进投资者的目标。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-16/temenos-temn-hindenburg-short-throws-swiss-firm-into-turmoil</guid>
-      <pubDate>Fri, 16 Feb 2024 08:22:16 GMT</pubDate>
     </item>
     <item>
       <title>富时 100 实时指数：英国零售销售激增超过所有经济学家预测</title>
@@ -215,7 +215,7 @@
     <item>
       <title>随着交易员减少美联储押注，债券收益率随 PPI 上涨：市场总结</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-15/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[高于预期的通胀数据刺激人们押注美联储将不急于降息，债券收益率大幅上涨，股票期货下跌。]]></description>
+      <description><![CDATA[高于预期的通胀数据刺激人们押注美联储将不急于降息，债券收益率飙升，股市下跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-15/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Thu, 15 Feb 2024 22:56:13 GMT</pubDate>
     </item>
