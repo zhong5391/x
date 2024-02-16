@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 16 Feb 2024 08:51:48 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 16 Feb 2024 09:58:41 GMT</lastBuildDate>
     <item>
       <title>红海危机帮助竞争对手夺取业务，印度小型出口商陷入困境</title>
       <link>https://www.reuters.com/world/india/indias-small-exporters-reel-red-sea-crisis-helps-rivals-nab-business-2024-02-16/</link>
@@ -85,7 +85,7 @@
     <item>
       <title>在罗马争执中，Stellantis 首席执行官表示意大利工厂有未来</title>
       <link>https://www.reuters.com/business/autos-transportation/amid-rome-spat-stellantis-ceo-says-italy-plants-have-future-2024-02-15/</link>
-      <description><![CDATA[Stellantis首席执行官卡洛斯·塔瓦雷斯(Carlos Tavares)周四表示，该汽车制造商将需要其所有意大利工厂来实现其在那里的长期生产目标，这一和解言论可能会缓解菲亚特汽车制造商与罗马之间的紧张关系。]]></description>
+      <description><![CDATA[Stellantis首席执行官卡洛斯·塔瓦雷斯(Carlos Tavares)周四表示，该汽车制造商将需要其所有意大利工厂实现其在那里的长期生产目标，这一和解言论可能会缓解菲亚特汽车制造商与罗马之间的紧张关系。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/amid-rome-spat-stellantis-ceo-says-italy-plants-have-future-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 13:28:00 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>数百万人从农历新年旅行归来，预计中国将迎来寒流</title>
       <link>https://www.reuters.com/world/china/cold-snap-expected-china-millions-return-lunar-new-year-trips-2024-02-15/</link>
-      <description><![CDATA[国家气象台周四表示，预计从本周末开始，一股寒流将席卷中国大部分地区，随着数百万人春节旅行返回，气温将下降高达20摄氏度。]]></description>
+      <description><![CDATA[国家气象台周四表示，预计从本周末开始，一股寒流将席卷中国大部分地区，随着数百万人春节旅行归来，气温将下降高达20摄氏度。]]></description>
       <guid>https://www.reuters.com/world/china/cold-snap-expected-china-millions-return-lunar-new-year-trips-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 11:56:23 GMT</pubDate>
     </item>
