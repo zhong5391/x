@@ -4,11 +4,53 @@
     <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 16 Feb 2024 21:48:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 23:16:57 GMT</lastBuildDate>
     <item>
-      <title>卡尔·伊坎接近收购捷蓝航空董事会席位 - 华尔街日报</title>
+      <title>据《纽约时报》报道，交易后 OpenAI 估值达 800 亿美元</title>
+      <link>https://www.reuters.com/technology/openai-valued-80-billion-after-deal-nyt-reports-2024-02-16/</link>
+      <description><![CDATA[据《纽约时报》周五援引三名知情人士的消息报道，微软支持的 OpenAI 已完成一项交易，这家人工智能公司的估值达到 800 亿美元或以上。]]></description>
+      <guid>https://www.reuters.com/technology/openai-valued-80-billion-after-deal-nyt-reports-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 22:43:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>大众汽车宣布在墨西哥第二期投资约10亿美元</title>
+      <link>https://www.reuters.com/business/autos-transportation/volkswagen-announces-second-phase-mexico-investment-around-1-bln-2024-02-16/</link>
+      <description><![CDATA[大众汽车墨西哥子公司周五宣布投资约 10 亿美元，这是这家德国汽车制造商的第二笔支出，旨在促进其在墨西哥中部现有业务的电动汽车 (EV) 业务。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-announces-second-phase-mexico-investment-around-1-bln-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 22:38:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街未来一周英伟达的强劲盈利可能会考验美国股市的人工智能梦想</title>
+      <link>https://www.reuters.com/markets/us/wall-st-week-ahead-high-flying-nvidias-earnings-could-test-us-stock-markets-ai-2024-02-16/</link>
+      <description><![CDATA[芯片制造商英伟达下周的财报可能会对市场上最热门的公司之一以及近几个月来推动美国股市上涨的人工智能热潮进行一次彻底的检验。]]></description>
+      <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-high-flying-nvidias-earnings-could-test-us-stock-markets-ai-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 22:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国法官称马斯克可以寻求对美国证券交易委员会传票问题的命令进行审查</title>
+      <link>https://www.reuters.com/legal/musk-can-seek-district-judge-review-sec-subpoena-case-court-order-2024-02-16/</link>
+      <description><![CDATA[根据周五提交的法庭通知，埃隆·马斯克可以要求美国地方法院审查治安法官的命令，即他必须在美国证券交易委员会对其 440 亿美元收购 Twitter 的调查中作证。]]></description>
+      <guid>https://www.reuters.com/legal/musk-can-seek-district-judge-review-sec-subpoena-case-court-order-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 22:07:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通将因交易报告失误支付约 3.5 亿美元罚款</title>
+      <link>https://www.reuters.com/markets/us/jpmorgan-pay-about-350-mln-fine-trade-reporting-failures-2024-02-16/</link>
+      <description><![CDATA[周五的一份监管文件显示，摩根大通将因其未能报告其平台交易而支付总计约 3.5 亿美元的民事罚款。]]></description>
+      <guid>https://www.reuters.com/markets/us/jpmorgan-pay-about-350-mln-fine-trade-reporting-failures-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 22:01:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>电动汽车初创公司 Fisker 收到纽约证券交易所的违规通知</title>
+      <link>https://www.reuters.com/business/autos-transportation/ev-startup-fisker-receives-non-compliance-notice-nyse-2024-02-16/</link>
+      <description><![CDATA[电动汽车初创公司 Fisker 周五表示，由于其股价连续 30 个交易日平均收盘价低于 1 美元，该公司已收到纽约证券交易所的违规通知。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ev-startup-fisker-receives-non-compliance-notice-nyse-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 21:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡尔·伊坎将在捷蓝航空董事会中获得两个董事会席位</title>
       <link>https://www.reuters.com/business/aerospace-defense/carl-icahn-nears-deal-jetblue-board-seats-wsj-2024-02-16/</link>
-      <description><![CDATA[据《华尔街日报》周五报道，激进投资者卡尔·伊坎 (Carl Icahn) 即将达成获得捷蓝航空 (JetBlue Airways) 两个董事会席位的交易，几天前他公布了该航空公司约 10% 的股份。]]></description>
+      <description><![CDATA[捷蓝航空周五表示，已与维权投资者卡尔·伊坎（Carl Icahn）达成协议，任命其公司的两名人员进入该航空公司的董事会，几天前，卡尔·伊坎持有该航空公司约 10% 的股份。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/carl-icahn-nears-deal-jetblue-board-seats-wsj-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 21:05:31 GMT</pubDate>
     </item>
@@ -41,13 +83,6 @@
       <pubDate>Fri, 16 Feb 2024 18:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>戴利：美联储需要时间、数据和耐心来应对通胀</title>
-      <link>https://www.reuters.com/markets/us/fed-needs-time-data-patience-inflation-fight-daly-2024-02-16/</link>
-      <description><![CDATA[尽管美国通胀取得“显着”进展，但旧金山联邦储备银行行长玛丽·戴利周五表示，“还有更多工作要做”，以确保物价稳定——这句话表明她认为现在还不是降息的时候。]]></description>
-      <guid>https://www.reuters.com/markets/us/fed-needs-time-data-patience-inflation-fight-daly-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 17:48:02 GMT</pubDate>
-    </item>
-    <item>
       <title>福特肯塔基州卡车工厂的 UAW 工人威胁下周五罢工</title>
       <link>https://www.reuters.com/business/autos-transportation/uaw-workers-fords-kentucky-truck-plant-serve-strike-notice-2024-02-16/</link>
       <description><![CDATA[福特肯塔基州最大、最赚钱的卡车工厂的近 9,000 名美国汽车工人联合会表示，如果当地合同问题得不到解决，该工会将于下周五举行罢工，导致该公司股价下跌 1.2%。]]></description>
@@ -62,32 +97,11 @@
       <pubDate>Fri, 16 Feb 2024 17:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>英国法院要求越捷航空不要干预被收回飞机的出口</title>
-      <link>https://www.reuters.com/business/aerospace-defense/uk-court-tells-vietjet-not-interfere-with-export-repossessed-jets-2024-02-16/</link>
-      <description><![CDATA[一名英国法官命令越南越捷航空不要干预一家租赁公司收回的飞机的出口，这是一场争端的最新转折，这场争端使增长最快的航空市场之一成为人们关注的焦点。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/uk-court-tells-vietjet-not-interfere-with-export-repossessed-jets-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 17:19:36 GMT</pubDate>
-    </item>
-    <item>
       <title>OpenAI、Meta 和其他科技巨头签署协议，打击人工智能干扰选举</title>
       <link>https://www.reuters.com/technology/openai-meta-other-tech-giants-sign-effort-fight-ai-election-interference-2024-02-16/</link>
       <description><![CDATA[由 20 家科技公司组成的组织周五宣布，他们同意共同努力，防止欺骗性人工智能内容干扰今年全球的选举。]]></description>
       <guid>https://www.reuters.com/technology/openai-meta-other-tech-giants-sign-effort-fight-ai-election-interference-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 17:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>《使命召唤》玩家起诉动视暴雪垄断联赛、锦标赛</title>
-      <link>https://www.reuters.com/legal/call-duty-gamers-sue-activision-monopolizing-leagues-tournaments-2024-02-16/</link>
-      <description><![CDATA[视频游戏制造商动视暴雪在美国提起诉讼，称其限制涉及其旗舰系列《使命召唤》的有组织游戏的竞争。]]></description>
-      <guid>https://www.reuters.com/legal/call-duty-gamers-sue-activision-monopolizing-leagues-tournaments-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 15:52:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国二月份消费者信心稳定</title>
-      <link>https://www.reuters.com/world/us/us-consumer-sentiment-steady-february-2024-02-16/</link>
-      <description><![CDATA[周五的一项调查显示，美国 2 月份消费者信心几乎没有变化，而一年期通胀预期有所上升。]]></description>
-      <guid>https://www.reuters.com/world/us/us-consumer-sentiment-steady-february-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 15:22:48 GMT</pubDate>
     </item>
     <item>
       <title>数据令人失望，美联储表示对降息保持“耐心”</title>
@@ -120,7 +134,7 @@
     <item>
       <title>热门生产者价格数据抑制降息押注，华尔街股市下滑</title>
       <link>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</link>
-      <description><![CDATA[由于生产者价格报告超出预期，削弱了美联储即将降息的希望，美国股市周五下跌。]]></description>
+      <description><![CDATA[美国股市周五下跌，纳斯达克指数跌幅最大，此前高于预期的生产者价格报告削弱了美联储即将降息的希望。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 11:18:17 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[去年，美国石油行业的上游交易额接近 2000 亿美元，但随着能源向化石燃料转型的加速，以及人们对老化的美国炼油厂的长期价值产生怀疑，尽管有大量愿意出售的炼油行业，但炼油行业却错失良机。]]></description>
       <guid>https://www.reuters.com/business/energy/us-refinery-ma-stalls-buyers-shun-aging-assets-uncertain-future-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 11:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行并未受到经济衰退的影响，保留 4 月份的政策转变</title>
-      <link>https://www.reuters.com/markets/asia/unfazed-by-recession-boj-keeps-april-policy-shift-table-2024-02-16/</link>
-      <description><![CDATA[熟悉日本央行想法的消息人士称，尽管经济陷入衰退，日本央行仍有望在未来几个月内结束负利率，不过国内需求疲软意味着他们可能会在采取行动之前寻求更多有关工资增长的线索。]]></description>
-      <guid>https://www.reuters.com/markets/asia/unfazed-by-recession-boj-keeps-april-policy-shift-table-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 05:35:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>需求疲软耐克将裁员约2%以降低成本</title>
-      <link>https://www.reuters.com/business/retail-consumer/nike-plans-cut-over-1600-jobs-wsj-2024-02-16/</link>
-      <description><![CDATA[运动服装巨头耐克周四晚间表示，由于鞋类和运动鞋的需求面临压力，该公司将裁员约 2% 的员工总数，即 1,600 多个工作岗位，以降低开支。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/nike-plans-cut-over-1600-jobs-wsj-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 04:05:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
