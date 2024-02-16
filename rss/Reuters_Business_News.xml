@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 16 Feb 2024 14:25:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 15:18:45 GMT</lastBuildDate>
+    <item>
+      <title>据彭博社报道，OpenAI 的 Altman 寻求美国政府批准人工智能芯片合资企业</title>
+      <link>https://www.reuters.com/technology/openais-altman-seeks-us-government-nod-ai-chips-venture-bloomberg-reports-2024-02-16/</link>
+      <description><![CDATA[据彭博社周五报道，OpenAI 首席执行官萨姆·奥尔特曼 (Sam Altman) 正在努力为他的新人工智能芯片企业争取美国政府的批准，这可能会引发国家安全和反垄断担忧。]]></description>
+      <guid>https://www.reuters.com/technology/openais-altman-seeks-us-government-nod-ai-chips-venture-bloomberg-reports-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:36:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Van Eck 因社会情绪 ETF 支付 175 万美元罚款 - SEC</title>
+      <link>https://www.reuters.com/business/van-eck-pay-175-mln-civil-penalty-settle-us-charges-sec-2024-02-16/</link>
+      <description><![CDATA[监管机构周五表示，Van Eck Associates Corporation 已同意支付 175 万美元罚款，以了结美国证券交易委员会对其 2021 年推出专注于社交媒体的交易所交易基金的指控。]]></description>
+      <guid>https://www.reuters.com/business/van-eck-pay-175-mln-civil-penalty-settle-us-charges-sec-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:32:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>劳工组织告诉 SEC，反工会行动使星巴克损失至少 2.4 亿美元</title>
+      <link>https://www.reuters.com/world/us/anti-union-efforts-cost-starbucks-least-240-mln-labor-group-tells-sec-2024-02-16/</link>
+      <description><![CDATA[星巴克的一个劳工组织周五致函美国证券交易委员会 (SEC)，呼吁该公司披露反工会活动产生的成本，该联盟估计该成本至少为 2.4 亿美元。]]></description>
+      <guid>https://www.reuters.com/world/us/anti-union-efforts-cost-starbucks-least-240-mln-labor-group-tells-sec-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:20:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储巴尔表示监管机构更加积极，专注于利率风险</title>
+      <link>https://www.reuters.com/markets/us/feds-barr-says-supervisors-more-aggressive-past-year-focused-commercial-real-2024-02-16/</link>
+      <description><![CDATA[美联储最高监管官员周五表示，银行监管机构在过去一年中以更高的速度指出银行存在问题，并对面临巨额未实现损失的公司进行额外检查。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-barr-says-supervisors-more-aggressive-past-year-focused-commercial-real-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:17:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国一月份单户住宅开工量下降；许可证增加</title>
+      <link>https://www.reuters.com/markets/us/us-single-family-housing-starts-fall-january-permits-rise-2024-02-16/</link>
+      <description><![CDATA[美国一月份单户住宅建筑数量下降，可能是由于恶劣的天气条件，但未来建筑许可的增加表明未来几个月将出现反弹。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-single-family-housing-starts-fall-january-permits-rise-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 14:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>央行表示没收俄罗斯资产将发出负面信号</title>
+      <link>https://www.reuters.com/world/europe/confiscating-russias-assets-would-send-negative-signal-says-central-bank-2024-02-16/</link>
+      <description><![CDATA[俄罗斯央行行长埃尔维拉·纳比乌林娜表示，西方政府可能没收俄罗斯资产，这将向其他央行发出强烈的负面信号，并逐渐损害国际金融。]]></description>
+      <guid>https://www.reuters.com/world/europe/confiscating-russias-assets-would-send-negative-signal-says-central-bank-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 13:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>交易员认为美联储将首次降息推迟到六月之后的可能性增加</title>
+      <link>https://www.reuters.com/markets/rates-bonds/traders-see-rising-chance-fed-defers-first-rate-cut-beyond-june-2024-02-16/</link>
+      <description><![CDATA[在政府报告显示 1 月份批发价格涨幅超过预期后，与美联储政策利率挂钩的期货合约交易商周五减少了对美联储将于 6 月份开始降息的押注。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/traders-see-rising-chance-fed-defers-first-rate-cut-beyond-june-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 13:49:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国1月份生产者价格涨幅超出预期</title>
+      <link>https://www.reuters.com/markets/us/us-producer-prices-rise-more-than-expected-january-2024-02-16/</link>
+      <description><![CDATA[由于服务成本大幅上涨，美国 1 月份生产者价格涨幅超出预期，这可能会加剧人们对通胀加剧的担忧。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-producer-prices-rise-more-than-expected-january-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 13:46:49 GMT</pubDate>
+    </item>
     <item>
       <title>比特币 ETF 的兴奋有助于恢复盈利，Coinbase 股价飙升</title>
       <link>https://www.reuters.com/markets/coinbase-shares-surge-after-bitcoin-etf-euphoria-helps-return-profitability-2024-02-16/</link>
@@ -22,7 +78,7 @@
     <item>
       <title>重量级公司的激烈竞争削弱了 Roku 的前景</title>
       <link>https://www.reuters.com/business/media-telecom/roku-tumbles-stiff-competition-heavyweights-dents-outlook-2024-02-16/</link>
-      <description><![CDATA[Roku 周五下跌近 17%，此前这家流媒体服务提供商预计第一季度亏损将超出预期，因为该公司难以与 Netflix 和亚马逊等重量级公司争夺广告收入。]]></description>
+      <description><![CDATA[Roku 周五下跌近 20%，此前这家流媒体服务提供商预计第一季度亏损将超出预期，因为该公司难以与 Netflix 和亚马逊等重量级公司争夺广告收入。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/roku-tumbles-stiff-competition-heavyweights-dents-outlook-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 12:25:15 GMT</pubDate>
     </item>
@@ -34,67 +90,25 @@
       <pubDate>Fri, 16 Feb 2024 12:17:48 GMT</pubDate>
     </item>
     <item>
-      <title>全球股票基金在股市上涨之际迎来大量资金流入</title>
-      <link>https://www.reuters.com/business/finance/global-markets-flows-graphic-2024-02-16/</link>
-      <description><![CDATA[截至 2 月 14 日当周，尽管美联储降息计划仍存在不确定性，但在股市强劲反弹的情况下，投资者的乐观情绪推动全球股票基金大量流入。]]></description>
-      <guid>https://www.reuters.com/business/finance/global-markets-flows-graphic-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 11:54:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>标准普尔、纳斯达克期货在通胀数据公布前上涨；应用材料公司股价飙升</title>
+      <title>快照 生产者价格数据公布后，华尔街开盘低迷</title>
       <link>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</link>
-      <description><![CDATA[追踪标准普尔 500 指数和纳斯达克指数的期货周五上涨，因投资者期待生产者通胀报告，以获取有关降息时机的更多线索，而应用材料公司的股价在乐观的收入预测后飙升。]]></description>
+      <description><![CDATA[周五，华尔街主要股指开盘低迷，此前生产者价格报告高于预期，削弱了美联储即将降息的预期。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 11:18:17 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普连任总统对美国能源政策意味着什么</title>
-      <link>https://www.reuters.com/world/us/what-second-trump-presidency-could-mean-us-energy-policy-2024-02-16/</link>
-      <description><![CDATA[共和党政策专家和特朗普竞选网站称，如果美国前总统唐纳德·特朗普在 11 月大选后重返办公室，他将寻求取消拜登政府应对气候变化的大部分工作，并采取新措施扩大化石燃料生产。]]></description>
-      <guid>https://www.reuters.com/world/us/what-second-trump-presidency-could-mean-us-energy-policy-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 11:13:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于国际需求强劲，加拿大航空上调 2024 年核心利润预测</title>
-      <link>https://www.reuters.com/business/aerospace-defense/air-canada-reports-smaller-adjusted-loss-resilient-international-demand-2024-02-16/</link>
-      <description><![CDATA[加拿大航空周五上调了 2024 年核心利润的预期，这家加拿大最大的航空公司受益于国际旅行的强劲需求。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/air-canada-reports-smaller-adjusted-loss-resilient-international-demand-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 11:06:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：全球股市创两年高点，日经指数突破历史纪录</title>
+      <title>早盘竞价：全球股市创两年高位，日经指数突破历史纪录</title>
       <link>https://www.reuters.com/markets/global-markets-view-usa-2024-02-16/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/global-markets-view-usa-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 11:03:42 GMT</pubDate>
     </item>
     <item>
-      <title>渣打银行任命迪士尼前高管黛安·尤尔根斯为新董事会董事</title>
-      <link>https://www.reuters.com/business/finance/stanchart-names-former-disney-executive-diane-jurgens-new-board-director-2024-02-16/</link>
-      <description><![CDATA[渣打银行周五表示，已任命华特迪士尼公司前高管黛安·尤尔根斯 (Diane Jurgens) 为董事会独立非执行董事。]]></description>
-      <guid>https://www.reuters.com/business/finance/stanchart-names-former-disney-executive-diane-jurgens-new-board-director-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 10:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>东京超市为厌倦通胀的购物者储备更多鸡肉</title>
-      <link>https://www.reuters.com/world/asia-pacific/tokyo-supermarket-stocks-more-chicken-inflation-weary-shoppers-2024-02-16/</link>
-      <description><![CDATA[秋叶弘道（Hiromichi Akiba）正在他的东京超市储备更多鸡肉，因为过去购买牛肉的顾客正在转向更便宜的肉类，因为价格上涨对他们的支出、他的生意和日本经济造成了挤压。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/tokyo-supermarket-stocks-more-chicken-inflation-weary-shoppers-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 09:45:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼将与希捷合作开发用于人工智能的硬盘驱动器 - 日经新闻</title>
-      <link>https://www.reuters.com/technology/sony-partner-with-seagate-hard-disk-drives-used-ai-nikkei-2024-02-16/</link>
-      <description><![CDATA[据《日经新闻》周五报道，索尼将与美国希捷科技公司合作大规模生产硬盘驱动器 (HDD)，以满足不断增长的人工智能需求。]]></description>
-      <guid>https://www.reuters.com/technology/sony-partner-with-seagate-hard-disk-drives-used-ai-nikkei-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 09:33:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>加蓬将收购凯雷石油业务，抢占 13 亿美元出售权</title>
-      <link>https://www.reuters.com/markets/deals/gabon-buy-carlyles-oil-business-preempting-13-bln-sale-2024-02-16/</link>
-      <description><![CDATA[加蓬国家石油公司已同意收购凯雷旗下的阿萨拉能源公司 (Assala Energy)，此前该公司利用其权利以 13 亿美元抢先将该业务出售给法国 Maurel &amp; 公司。舞会，这些公司周五表示。]]></description>
-      <guid>https://www.reuters.com/markets/deals/gabon-buy-carlyles-oil-business-preempting-13-bln-sale-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 09:30:35 GMT</pubDate>
+      <title>由于买家避开老化资产且未来不确定，美国炼油厂并购陷入停滞</title>
+      <link>https://www.reuters.com/business/energy/us-refinery-ma-stalls-buyers-shun-aging-assets-uncertain-future-2024-02-16/</link>
+      <description><![CDATA[去年，美国石油行业的上游交易额接近 2000 亿美元，但随着能源向化石燃料转型的加速，以及人们对老化的美国炼油厂的长期价值产生怀疑，尽管有大量愿意出售的炼油行业，但炼油行业却错失良机。]]></description>
+      <guid>https://www.reuters.com/business/energy/us-refinery-ma-stalls-buyers-shun-aging-assets-uncertain-future-2024-02-16/</guid>
+      <pubDate>Fri, 16 Feb 2024 11:02:02 GMT</pubDate>
     </item>
     <item>
       <title>独家：汇丰银行将改善与香港恒生银行的关系以降低风险</title>
@@ -111,13 +125,6 @@
       <pubDate>Fri, 16 Feb 2024 05:35:37 GMT</pubDate>
     </item>
     <item>
-      <title>晨竞：两个日本的故事</title>
-      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-02-16/</link>
-      <description><![CDATA[Rae Wee 对欧洲和全球市场未来一天的展望]]></description>
-      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 05:30:41 GMT</pubDate>
-    </item>
-    <item>
       <title>需求疲软耐克将裁员约2%以降低成本</title>
       <link>https://www.reuters.com/business/retail-consumer/nike-plans-cut-over-1600-jobs-wsj-2024-02-16/</link>
       <description><![CDATA[运动服装巨头耐克周四晚间表示，由于鞋类和运动鞋的需求面临压力，该公司将裁员约 2% 的员工总数，即 1,600 多个工作岗位，以降低开支。]]></description>
@@ -125,16 +132,9 @@
       <pubDate>Fri, 16 Feb 2024 04:05:39 GMT</pubDate>
     </item>
     <item>
-      <title>独家：卢比奥敦促 SEC 阻止 Shein IPO，除非披露中国运营风险</title>
-      <link>https://www.reuters.com/markets/us/rubio-urges-sec-block-shein-ipo-unless-china-operating-risk-disclosed-2024-02-15/</link>
-      <description><![CDATA[共和党参议员马可·卢比奥 (Marco Rubio) 要求美国证券交易委员会阻止 Shein 在纽约公开上市的申请，除非这家电子零售商进一步披露其业务运营以及在中国“开展业务的严重风险”。]]></description>
-      <guid>https://www.reuters.com/markets/us/rubio-urges-sec-block-shein-ipo-unless-china-operating-risk-disclosed-2024-02-15/</guid>
-      <pubDate>Thu, 15 Feb 2024 17:03:22 GMT</pubDate>
-    </item>
-    <item>
       <title>美国一月份进口价格创近两年来最大涨幅</title>
       <link>https://www.reuters.com/markets/us/us-import-prices-post-largest-gain-nearly-two-years-january-2024-02-15/</link>
-      <description><![CDATA[由于石油和其他商品成本上涨，1月份美国进口价格出现近两年来的最大涨幅，这种趋势如果持续下去，对于对抗通胀将是一个坏消息。]]></description>
+      <description><![CDATA[由于石油和其他商品成本上涨，美国1月份进口价格出现近两年来的最大涨幅，这种趋势如果持续下去，对于对抗通胀将是一个坏消息。]]></description>
       <guid>https://www.reuters.com/markets/us/us-import-prices-post-largest-gain-nearly-two-years-january-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 14:16:58 GMT</pubDate>
     </item>
