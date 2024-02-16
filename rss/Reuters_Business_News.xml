@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 16 Feb 2024 15:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2024 17:30:54 GMT</lastBuildDate>
     <item>
       <title>据彭博社报道，OpenAI 的 Altman 寻求美国政府批准人工智能芯片合资企业</title>
       <link>https://www.reuters.com/technology/openais-altman-seeks-us-government-nod-ai-chips-venture-bloomberg-reports-2024-02-16/</link>
@@ -34,7 +34,7 @@
       <pubDate>Fri, 16 Feb 2024 14:17:30 GMT</pubDate>
     </item>
     <item>
-      <title>美国一月份单户住宅开工量下降；许可证增加</title>
+      <title>美国一月份单户住宅开工量下降；许可证上涨</title>
       <link>https://www.reuters.com/markets/us/us-single-family-housing-starts-fall-january-permits-rise-2024-02-16/</link>
       <description><![CDATA[美国一月份单户住宅建筑数量下降，可能是由于恶劣的天气条件，但未来建筑许可的增加表明未来几个月将出现反弹。]]></description>
       <guid>https://www.reuters.com/markets/us/us-single-family-housing-starts-fall-january-permits-rise-2024-02-16/</guid>
@@ -50,21 +50,21 @@
     <item>
       <title>交易员认为美联储将首次降息推迟到六月之后的可能性增加</title>
       <link>https://www.reuters.com/markets/rates-bonds/traders-see-rising-chance-fed-defers-first-rate-cut-beyond-june-2024-02-16/</link>
-      <description><![CDATA[在政府报告显示 1 月份批发价格涨幅超过预期后，与美联储政策利率挂钩的期货合约交易商周五减少了对美联储将于 6 月份开始降息的押注。]]></description>
+      <description><![CDATA[周五，在政府报告显示 1 月份批发价格涨幅超过预期后，与美联储政策利率挂钩的期货合约交易商减少了对美联储将于 6 月份开始降息的押注。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/traders-see-rising-chance-fed-defers-first-rate-cut-beyond-june-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 13:49:39 GMT</pubDate>
     </item>
     <item>
       <title>美国1月份生产者价格涨幅超出预期</title>
       <link>https://www.reuters.com/markets/us/us-producer-prices-rise-more-than-expected-january-2024-02-16/</link>
-      <description><![CDATA[由于服务成本大幅上涨，美国 1 月份生产者价格涨幅超出预期，这可能会加剧人们对通胀加剧的担忧。]]></description>
+      <description><![CDATA[由于服务成本大幅上涨，美国一月份生产者价格涨幅超出预期，这可能会加剧人们对通胀加剧的担忧。]]></description>
       <guid>https://www.reuters.com/markets/us/us-producer-prices-rise-more-than-expected-january-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 13:46:49 GMT</pubDate>
     </item>
     <item>
       <title>比特币 ETF 的兴奋有助于恢复盈利，Coinbase 股价飙升</title>
       <link>https://www.reuters.com/markets/coinbase-shares-surge-after-bitcoin-etf-euphoria-helps-return-profitability-2024-02-16/</link>
-      <description><![CDATA[Coinbase Global 股价周五盘前上涨 12%，由于对现货比特币交易所交易基金 (ETF) 的乐观情绪导致交易量强劲，帮助该加密货币交易所实现了自 2021 年以来的首次盈利。]]></description>
+      <description><![CDATA[Coinbase Global 股价周五收盘前上涨 12%，由于对现货比特币交易所交易基金 (ETF) 的乐观情绪导致交易量强劲，帮助该加密货币交易所实现了自 2021 年以来的首次盈利。]]></description>
       <guid>https://www.reuters.com/markets/coinbase-shares-surge-after-bitcoin-etf-euphoria-helps-return-profitability-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 12:41:57 GMT</pubDate>
     </item>
@@ -92,12 +92,12 @@
     <item>
       <title>快照 生产者价格数据公布后，华尔街开盘低迷</title>
       <link>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</link>
-      <description><![CDATA[周五，华尔街主要股指开盘低迷，此前生产者价格报告高于预期，削弱了美联储即将降息的预期。]]></description>
+      <description><![CDATA[周五，华尔街主要股指开盘低迷，此前高于预期的生产者价格报告打压了美联储即将降息的预期。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 11:18:17 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：全球股市创两年高位，日经指数突破历史纪录</title>
+      <title>早盘竞价：全球股市创两年高点，日经指数突破历史纪录</title>
       <link>https://www.reuters.com/markets/global-markets-view-usa-2024-02-16/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/global-markets-view-usa-2024-02-16/</guid>
@@ -118,7 +118,7 @@
       <pubDate>Fri, 16 Feb 2024 07:42:21 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行并未受到经济衰退的影响，保留 4 月份的政策转变</title>
+      <title>日本央行不为经济衰退所困扰，保留四月政策转变</title>
       <link>https://www.reuters.com/markets/asia/unfazed-by-recession-boj-keeps-april-policy-shift-table-2024-02-16/</link>
       <description><![CDATA[熟悉日本央行想法的消息人士称，尽管经济陷入衰退，日本央行仍有望在未来几个月内结束负利率，不过国内需求疲软意味着他们可能会在采取行动之前寻求更多有关工资增长的线索。]]></description>
       <guid>https://www.reuters.com/markets/asia/unfazed-by-recession-boj-keeps-april-policy-shift-table-2024-02-16/</guid>
@@ -134,14 +134,14 @@
     <item>
       <title>美国一月份进口价格创近两年来最大涨幅</title>
       <link>https://www.reuters.com/markets/us/us-import-prices-post-largest-gain-nearly-two-years-january-2024-02-15/</link>
-      <description><![CDATA[由于石油和其他商品成本上涨，美国1月份进口价格出现近两年来的最大涨幅，这种趋势如果持续下去，对于对抗通胀将是一个坏消息。]]></description>
+      <description><![CDATA[由于石油和其他商品成本上涨，1月份美国进口价格出现近两年来的最大涨幅，这种趋势如果持续下去，对于对抗通胀将是一个坏消息。]]></description>
       <guid>https://www.reuters.com/markets/us/us-import-prices-post-largest-gain-nearly-two-years-january-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 14:16:58 GMT</pubDate>
     </item>
     <item>
       <title>寒冷的气温导致美国零售销售和工厂生产下降</title>
       <link>https://www.reuters.com/markets/us/us-retail-sales-fall-sharply-january-weekly-jobless-claims-decline-2024-02-15/</link>
-      <description><![CDATA[美国1月份零售额出现10个月来最大跌幅，但经济学家警告称，由于气温寒冷，且年初难以根据季节性波动调整数据，因此经济学家警告不要过度解读零售额的大幅下滑。]]></description>
+      <description><![CDATA[1月份美国零售销售出现10个月来最大跌幅，但经济学家警告称，由于气温寒冷，且年初难以根据季节性波动调整数据，因此经济学家警告不要对零售额大幅下滑过度解读。]]></description>
       <guid>https://www.reuters.com/markets/us/us-retail-sales-fall-sharply-january-weekly-jobless-claims-decline-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 13:46:51 GMT</pubDate>
     </item>
