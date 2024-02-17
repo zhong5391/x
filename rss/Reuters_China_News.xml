@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 17 Feb 2024 05:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Feb 2024 07:41:50 GMT</lastBuildDate>
+    <item>
+      <title>中国外交部长王毅在慕尼黑与布林肯举行“建设性”会谈</title>
+      <link>https://www.reuters.com/world/chinas-wang-yi-held-constructive-talks-with-blinken-munich-chinese-foreign-2024-02-17/</link>
+      <description><![CDATA[中国外交部周六表示，中国外交部长王毅在慕尼黑安全会议上与美国国务卿安东尼·布林肯会晤时讨论了取消对中国企业和个人的制裁。]]></description>
+      <guid>https://www.reuters.com/world/chinas-wang-yi-held-constructive-talks-with-blinken-munich-chinese-foreign-2024-02-17/</guid>
+      <pubDate>Sat, 17 Feb 2024 03:54:47 GMT</pubDate>
+    </item>
     <item>
       <title>英国卡梅伦向中国外长提出红海和人权问题</title>
       <link>https://www.reuters.com/world/uks-cameron-raises-red-sea-human-rights-issues-with-chinese-counterpart-2024-02-17/</link>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 16 Feb 2024 12:32:19 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：全球股市创两年高点，日经指数突破历史纪录</title>
+      <title>早盘竞价：全球股市创两年高位，日经指数突破历史纪录</title>
       <link>https://www.reuters.com/markets/global-markets-view-usa-2024-02-16/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/global-markets-view-usa-2024-02-16/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>美国生产者物价指数 (PPI) 数据强于预期，收益率和美元上涨</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-16/</link>
-      <description><![CDATA[周五数据显示美国1月份生产者价格涨幅超过预期，美国国债收益率上涨，美元兑日元小幅上涨，增加了美联储不会立即降息的观点。]]></description>
+      <description><![CDATA[周五数据显示美国生产者价格涨幅超过预期，美国国债收益率上涨，美元兑日元小幅上涨，这进一步表明美联储不会立即降息。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 02:12:51 GMT</pubDate>
     </item>
@@ -130,13 +137,6 @@
       <description><![CDATA[美国的战略盟友太平洋岛国领导人对美国国会预算僵局越来越感到焦虑，这一僵局导致重要的新融资方案的批准被推迟，并警告说，中国正在积极寻求改变他们的忠诚度，包括对台湾的忠诚度。]]></description>
       <guid>https://www.reuters.com/world/anxious-about-us-funding-delay-pacific-island-nations-warn-about-china-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 20:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>大众汽车表示，巴西可持续发展规则不应让汽车变得更加昂贵</title>
-      <link>https://www.reuters.com/business/autos-transportation/brazil-sustainability-rules-should-not-make-cars-more-expensive-volkswagen-says-2024-02-15/</link>
-      <description><![CDATA[大众汽车巴西业务负责人西罗·波索博姆 (Ciro Possobom) 表示，巴西旨在促进该国汽车行业可持续发展投资的新激励计划需要避免使车辆变得更加昂贵。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/brazil-sustainability-rules-should-not-make-cars-more-expensive-volkswagen-says-2024-02-15/</guid>
-      <pubDate>Thu, 15 Feb 2024 18:14:32 GMT</pubDate>
     </item>
     <item>
       <title>随着中国竞争的加剧，欧洲和美国汽车制造商竞相降低电动汽车成本</title>
