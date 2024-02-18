@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 18 Feb 2024 01:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 02:58:34 GMT</lastBuildDate>
+    <item>
+      <title>两人遇害后，中国表示台湾岛屿周围没有禁区</title>
+      <link>https://www.reuters.com/world/asia-pacific/china-says-no-banned-areas-around-taiwanese-islands-after-two-killed-2024-02-18/</link>
+      <description><![CDATA[政府表示，靠近中国海岸的台湾岛屿周围没有禁渔区，北京保留在两名中国公民在这些岛屿附近死亡后采取进一步措施的权利。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/china-says-no-banned-areas-around-taiwanese-islands-after-two-killed-2024-02-18/</guid>
+      <pubDate>Sun, 18 Feb 2024 01:15:23 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰外长与中国外长讨论和平前景</title>
       <link>https://www.reuters.com/world/ukrainian-foreign-minister-discusses-peace-prospects-with-chinese-counterpart-2024-02-17/</link>
@@ -127,7 +134,7 @@
     <item>
       <title>数百万人从农历新年旅行归来，预计中国将迎来寒流</title>
       <link>https://www.reuters.com/world/china/cold-snap-expected-china-millions-return-lunar-new-year-trips-2024-02-15/</link>
-      <description><![CDATA[国家气象台周四表示，预计从本周末开始，一股寒流将席卷中国大部分地区，随着数百万人春节旅行返回，气温将下降高达20摄氏度。]]></description>
+      <description><![CDATA[国家气象台周四表示，预计从本周末开始，一股寒流将席卷中国大部分地区，随着数百万人春节旅行归来，气温将下降高达20摄氏度。]]></description>
       <guid>https://www.reuters.com/world/china/cold-snap-expected-china-millions-return-lunar-new-year-trips-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 11:56:23 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[汽车制造商 Stellantis 于 2022 年 4 月停止在俄罗斯的生产。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/russians-use-chinese-partner-produce-citroen-cars-idled-stellantis-plant-2024-02-15/</guid>
       <pubDate>Thu, 15 Feb 2024 06:33:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲律宾承诺遵守南海行为准则</title>
-      <link>https://www.reuters.com/world/asia-pacific/philippines-committed-south-china-sea-code-conduct-2024-02-15/</link>
-      <description><![CDATA[菲律宾外交部长周四表示，菲律宾坚定致力于中国与东南亚国家之间就行为准则进行谈判，以避免南海对抗。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/philippines-committed-south-china-sea-code-conduct-2024-02-15/</guid>
-      <pubDate>Thu, 15 Feb 2024 05:47:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
