@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 18 Feb 2024 05:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 06:23:33 GMT</lastBuildDate>
+    <item>
+      <title>中国首架国产客机在新加坡国际首秀</title>
+      <link>https://www.reuters.com/business/aerospace-defense/chinas-first-homegrown-airliner-makes-international-debut-singapore-2024-02-18/</link>
+      <description><![CDATA[中国对空客和波音客机的挑战者、由中国商用飞机有限责任公司（COMAC）制造的窄体C919飞机周日在新加坡航展上进行了首次飞越中国领土的飞行。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/chinas-first-homegrown-airliner-makes-international-debut-singapore-2024-02-18/</guid>
+      <pubDate>Sun, 18 Feb 2024 04:49:03 GMT</pubDate>
+    </item>
     <item>
       <title>美联储阴影下中国银行维持关键政策利率不变</title>
       <link>https://www.reuters.com/world/china/china-cbank-leaves-key-policy-rate-unchanged-under-shadow-federal-reserve-2024-02-18/</link>
@@ -60,20 +67,6 @@
       <description><![CDATA[根据周五提交的法庭通知，埃隆·马斯克可以要求美国地方法院审查治安法官的命令，即他必须在美国证券交易委员会对其 440 亿美元收购 Twitter 的调查中作证。]]></description>
       <guid>https://www.reuters.com/legal/musk-can-seek-district-judge-review-sec-subpoena-case-court-order-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 22:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩根大通将因贸易报告缺陷支付约 3.5 亿美元罚款</title>
-      <link>https://www.reuters.com/markets/us/jpmorgan-pay-about-350-mln-fine-trade-reporting-failures-2024-02-16/</link>
-      <description><![CDATA[摩根大通公司在周五提交给监管机构的文件中表示，该公司将因向监管平台报告不完整的交易数据而向监管机构支付约 3.5 亿美元的民事罚款。]]></description>
-      <guid>https://www.reuters.com/markets/us/jpmorgan-pay-about-350-mln-fine-trade-reporting-failures-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 22:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>电动汽车初创公司 Fisker 收到纽约证券交易所的违规通知</title>
-      <link>https://www.reuters.com/business/autos-transportation/ev-startup-fisker-receives-non-compliance-notice-nyse-2024-02-16/</link>
-      <description><![CDATA[电动汽车初创公司 Fisker 周五表示，由于其股价连续 30 个交易日平均收盘价低于 1 美元，该公司已收到纽约证券交易所的违规通知。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/ev-startup-fisker-receives-non-compliance-notice-nyse-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 21:55:57 GMT</pubDate>
     </item>
     <item>
       <title>独家：内部备忘录显示，亿滋国际在抵制俄罗斯业务后调整了欧洲业务</title>
@@ -134,7 +127,7 @@
     <item>
       <title>热门生产者价格数据抑制降息押注，华尔街股市下滑</title>
       <link>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</link>
-      <description><![CDATA[美国股市周五下跌，纳斯达克指数跌幅最大，此前生产者价格报告超出预期，削弱了美联储即将降息的希望。]]></description>
+      <description><![CDATA[美国股市周五下跌，纳斯达克指数跌幅最大，此前高于预期的生产者价格报告削弱了美联储即将降息的希望。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 11:18:17 GMT</pubDate>
     </item>
