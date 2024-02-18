@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 18 Feb 2024 13:19:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 15:18:27 GMT</lastBuildDate>
     <item>
-      <title>据英国《金融时报》报道，欧盟将因音乐流媒体对苹果公司处以约 5 亿欧元的罚款</title>
+      <title>工会称汉莎航空地勤人员将于周二罢工</title>
+      <link>https://www.reuters.com/business/lufthansa-ground-staff-strike-tuesday-says-union-2024-02-18/</link>
+      <description><![CDATA[威尔第工会周日表示，德国汉莎航空公司的地勤人员将于周二举行罢工，宣布针对德国交通运输业的最新罢工行动，因为工人们要求加薪。]]></description>
+      <guid>https://www.reuters.com/business/lufthansa-ground-staff-strike-tuesday-says-union-2024-02-18/</guid>
+      <pubDate>Sun, 18 Feb 2024 13:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>据英国《金融时报》报道，欧盟准备对苹果公司处以约 5 亿欧元的罚款</title>
       <link>https://www.reuters.com/technology/eu-fine-apple-around-500-mln-euros-over-music-streaming-ft-reports-2024-02-18/</link>
-      <description><![CDATA[据英国《金融时报》周日报道，欧盟将对苹果公司处以 5 亿欧元（5.39 亿美元）的罚款，原因是苹果公司涉嫌违反欧盟关于访问其音乐流媒体服务的法律。]]></description>
+      <description><![CDATA[据英国《金融时报》周日援引未具名消息人士的话报道，欧盟将因涉嫌违反欧盟竞争法而对苹果公司处以约 5 亿欧元（5.39 亿美元）的罚款。]]></description>
       <guid>https://www.reuters.com/technology/eu-fine-apple-around-500-mln-euros-over-music-streaming-ft-reports-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 11:38:34 GMT</pubDate>
     </item>
     <item>
       <title>中国农历新年假期期间的旅游支出超过了疫情前的水平</title>
       <link>https://www.reuters.com/markets/asia/chinas-travel-spending-during-lunar-new-year-holidays-beats-pre-covid-levels-2024-02-18/</link>
-      <description><![CDATA[官方数据周日显​​示，由于国内旅游热潮导致周六结束的农历新年假期期间，中国的旅游收入同比猛增47.3%。]]></description>
+      <description><![CDATA[周日的官方数据显示，由于国内旅游热潮导致周六结束的农历新年假期期间，中国的旅游收入同比猛增47.3%。]]></description>
       <guid>https://www.reuters.com/markets/asia/chinas-travel-spending-during-lunar-new-year-holidays-beats-pre-covid-levels-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 07:55:28 GMT</pubDate>
     </item>
@@ -69,13 +76,6 @@
       <pubDate>Fri, 16 Feb 2024 22:38:07 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街未来一周英伟达的强劲盈利可能会考验美国股市的人工智能梦想</title>
-      <link>https://www.reuters.com/markets/us/wall-st-week-ahead-high-flying-nvidias-earnings-could-test-us-stock-markets-ai-2024-02-16/</link>
-      <description><![CDATA[芯片制造商英伟达下周的财报可能会对市场上最热门的公司之一以及近几个月来推动美国股市上涨的人工智能热潮进行一次彻底的检验。]]></description>
-      <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-high-flying-nvidias-earnings-could-test-us-stock-markets-ai-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 22:32:24 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：内部备忘录显示，亿滋国际在抵制俄罗斯业务后调整了欧洲业务</title>
       <link>https://www.reuters.com/business/retail-consumer/mondelez-revamps-european-operations-after-boycotts-over-russian-business-2024-02-16/</link>
       <description><![CDATA[路透社看到的两份内部公司备忘录显示，奥利奥饼干制造商亿滋本周为其盈利的俄罗斯业务任命了新的管理层，其中披露了欧洲公司改革的新细节。]]></description>
@@ -83,7 +83,7 @@
       <pubDate>Fri, 16 Feb 2024 19:02:36 GMT</pubDate>
     </item>
     <item>
-      <title>礼来 (Eli Lilly) 和诺和诺德 (Novo Nordisk) 因减肥药提振而获得成长股地位</title>
+      <title>礼来（Eli Lilly）和诺和诺德（Novo Nordisk）因减肥药提振而获得成长股地位</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-novo-nordisk-get-growth-stock-status-weight-loss-drug-boost-2024-02-16/</link>
       <description><![CDATA[美国礼来公司（Eli Lilly）和丹麦诺和诺德公司（Novo Nordisk）凭借其减肥药取得了成功，将其股价推至极高水平，与一些高增长科技股持平。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-novo-nordisk-get-growth-stock-status-weight-loss-drug-boost-2024-02-16/</guid>
@@ -111,7 +111,7 @@
       <pubDate>Fri, 16 Feb 2024 17:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI、Meta 和其他科技巨头签署协议，打击人工智能干扰选举</title>
+      <title>OpenAI、Meta 和其他科技巨头签署协议打击人工智能干扰选举</title>
       <link>https://www.reuters.com/technology/openai-meta-other-tech-giants-sign-effort-fight-ai-election-interference-2024-02-16/</link>
       <description><![CDATA[由 20 家科技公司组成的组织周五宣布，他们同意共同努力，防止欺骗性人工智能内容干扰今年全球的选举。]]></description>
       <guid>https://www.reuters.com/technology/openai-meta-other-tech-giants-sign-effort-fight-ai-election-interference-2024-02-16/</guid>
@@ -120,7 +120,7 @@
     <item>
       <title>数据令人失望，美联储表示对降息保持“耐心”</title>
       <link>https://www.reuters.com/markets/rates-bonds/traders-see-rising-chance-fed-defers-first-rate-cut-beyond-june-2024-02-16/</link>
-      <description><![CDATA[一周令人失望的美国经济数据，包括强于预期的通胀和疲软的支出，使得美联储政策制定者加倍对今年的降息采取观望态度，但并未气馁。]]></description>
+      <description><![CDATA[一周令人失望的美国经济数据，包括强于预期的通胀和疲软的支出，使得美联储政策制定者加倍加大了今年降息的观望态度，但并未气馁。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/traders-see-rising-chance-fed-defers-first-rate-cut-beyond-june-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 13:49:39 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>热门生产者价格数据抑制降息押注，华尔街股市下滑</title>
       <link>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</link>
-      <description><![CDATA[美国股市周五下跌，纳斯达克指数跌幅最大，此前生产者价格报告超出预期，削弱了美联储即将降息的希望。]]></description>
+      <description><![CDATA[美国股市周五下跌，纳斯达克指数跌幅最大，此前高于预期的生产者价格报告削弱了美联储即将降息的希望。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 11:18:17 GMT</pubDate>
     </item>
