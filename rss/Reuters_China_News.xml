@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 18 Feb 2024 18:52:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2024 19:13:26 GMT</lastBuildDate>
+    <item>
+      <title>加拿大称中国在维护红海安全方面可以发挥作用</title>
+      <link>https://www.reuters.com/world/canada-says-china-has-role-play-keeping-red-sea-safe-2024-02-18/</link>
+      <description><![CDATA[加拿大外交部长梅兰妮·乔利周日表示，中国应该在维护红海商业安全方面发挥作用，因为中国船只在那里也面临风险，并敦促北京停止帮助俄罗斯规避国际制裁。]]></description>
+      <guid>https://www.reuters.com/world/canada-says-china-has-role-play-keeping-red-sea-safe-2024-02-18/</guid>
+      <pubDate>Sun, 18 Feb 2024 16:47:22 GMT</pubDate>
+    </item>
     <item>
       <title>中国药明康德表示对美国不构成国家安全风险</title>
       <link>https://www.reuters.com/technology/chinas-wuxi-apptec-says-it-poses-no-national-security-risks-us-2024-02-18/</link>
@@ -130,13 +137,6 @@
       <description><![CDATA[根据行业数据和贸易数据，澳大利亚葡萄酒制造商已将数百万瓶葡萄酒运往香港，押注中国将很快取消对澳大利亚葡萄酒的关税并重振价值数亿美元的贸易。]]></description>
       <guid>https://www.reuters.com/markets/asia/australian-wine-makers-bet-expected-china-reopening-with-big-shipments-hong-kong-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 05:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>太平洋岛国对美国拖延资助感到担忧，对中国发出警告</title>
-      <link>https://www.reuters.com/world/anxious-about-us-funding-delay-pacific-island-nations-warn-about-china-2024-02-15/</link>
-      <description><![CDATA[美国的战略盟友太平洋岛国领导人对美国国会预算僵局越来越感到焦虑，这一僵局导致重要的新融资方案的批准被推迟，并警告说，中国正在积极寻求改变他们的忠诚度，包括对台湾的忠诚度。]]></description>
-      <guid>https://www.reuters.com/world/anxious-about-us-funding-delay-pacific-island-nations-warn-about-china-2024-02-15/</guid>
-      <pubDate>Thu, 15 Feb 2024 20:14:04 GMT</pubDate>
     </item>
     <item>
       <title>随着中国竞争的加剧，欧洲和美国汽车制造商竞相降低电动汽车成本</title>
