@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 19 Feb 2024 06:58:36 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 19 Feb 2024 07:32:09 GMT</lastBuildDate>
     <item>
       <title>早盘竞价：中国市场看起来需要另一个假期</title>
       <link>https://www.reuters.com/markets/global-markets-view-europe-2024-02-19/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>中国提出在安全问题上支持匈牙利，这是不同寻常的举动</title>
       <link>https://www.reuters.com/world/unusual-move-china-offers-back-hungary-security-matters-2024-02-19/</link>
-      <description><![CDATA[在与匈牙利总理维克托·欧尔班举行的罕见会晤中，中国提出在公共安全问题上支持长期战略伙伴匈牙利，而不仅仅是贸易和投资关系，而此时北约正在努力扩大其在欧洲的网络。]]></description>
+      <description><![CDATA[在与匈牙利总理维克托·欧尔班的一次罕见会晤中，中国提出在公共安全问题上支持长期战略伙伴匈牙利，而不仅仅是贸易和投资关系，而此时北约正在努力扩大其在欧洲的网络。]]></description>
       <guid>https://www.reuters.com/world/unusual-move-china-offers-back-hungary-security-matters-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 04:53:33 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>由于美国通胀粘性削弱降息预期，美元坚挺</title>
       <link>https://www.reuters.com/markets/currencies/dollar-steady-sticky-inflation-dents-rate-cut-expectations-2024-02-19/</link>
-      <description><![CDATA[上周数据显示美国通胀依然高企，引发人们对美联储何时开始宽松周期的疑虑，而日元仍徘徊在 150 美元兑 150 的关键心理水平附近，周一美元保持稳定。]]></description>
+      <description><![CDATA[上周数据显示美国通胀依然高企，引发人们对美联储何时开始宽松周期的疑虑，美元周一保持稳定，而日元仍徘徊在 150 美元兑 150 美元的心理关键水平附近。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-steady-sticky-inflation-dents-rate-cut-expectations-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 01:59:55 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>乌克兰外长与中国王毅讨论和平前景</title>
       <link>https://www.reuters.com/world/ukrainian-foreign-minister-discusses-peace-prospects-with-chinese-counterpart-2024-02-17/</link>
-      <description><![CDATA[乌克兰外交部长德米特罗·库莱巴周六表示，他已与中国外长讨论了基辅与俄罗斯近两年战争的和平前景，这是加强与北京关系的长期努力的一部分。]]></description>
+      <description><![CDATA[乌克兰外长德米特罗·库莱巴周六表示，他已与中国外长讨论了基辅与俄罗斯近两年战争的和平前景，这是加强与北京关系的长期努力的一部分。]]></description>
       <guid>https://www.reuters.com/world/ukrainian-foreign-minister-discusses-peace-prospects-with-chinese-counterpart-2024-02-17/</guid>
       <pubDate>Sat, 17 Feb 2024 23:51:56 GMT</pubDate>
     </item>
