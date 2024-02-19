@@ -3,8 +3,22 @@
   <channel>
     <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 19 Feb 2024 14:04:01 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 19 Feb 2024 15:18:46 GMT</lastBuildDate>
+    <item>
+      <title>台湾称中国海警在前线岛屿附近登上台湾船只</title>
+      <link>https://www.reuters.com/world/asia-pacific/china-coast-guard-boarded-taiwanese-boat-near-frontline-islands-taiwan-says-2024-02-19/</link>
+      <description><![CDATA[台北政府表示，中国海岸警卫队人员周一在中国沿海的台湾控制岛屿附近短暂登上了一艘台湾旅游船，中国表示将进行定期巡逻，导致紧张局势升级。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/china-coast-guard-boarded-taiwanese-boat-near-frontline-islands-taiwan-says-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 13:16:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国证券监管机构听取重振市场的建议</title>
+      <link>https://www.reuters.com/markets/asia/chinas-securities-watchdog-opens-ears-proposals-revive-market-2024-02-19/</link>
+      <description><![CDATA[中国证监会表示，周日和周一与市场参与者举行了一系列研讨会，建议对公司上市和交易行为进行更严格的审查，以重振市场信心。]]></description>
+      <guid>https://www.reuters.com/markets/asia/chinas-securities-watchdog-opens-ears-proposals-revive-market-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 13:04:05 GMT</pubDate>
+    </item>
     <item>
       <title>独家：土耳其与俄罗斯的贸易受到美国新制裁威胁的打击</title>
       <link>https://www.reuters.com/markets/turkish-russian-trade-hit-by-fresh-us-sanctions-threat-2024-02-19/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>中国提出在安全问题上支持匈牙利，这是不同寻常的举动</title>
       <link>https://www.reuters.com/world/unusual-move-china-offers-back-hungary-security-matters-2024-02-19/</link>
-      <description><![CDATA[在与匈牙利总理维克托·欧尔班的一次罕见会晤中，中国提出在公共安全问题上支持长期战略伙伴匈牙利，而不仅仅是贸易和投资关系，而此时北约正在努力扩大其在欧洲的网络。]]></description>
+      <description><![CDATA[在与匈牙利总理维克托·欧尔班举行的罕见会晤中，中国提出在公共安全问题上支持长期战略伙伴匈牙利，而不仅仅是贸易和投资关系，而此时北约正在努力扩大其在欧洲的网络。]]></description>
       <guid>https://www.reuters.com/world/unusual-move-china-offers-back-hungary-security-matters-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 04:53:33 GMT</pubDate>
     </item>
@@ -90,9 +104,9 @@
       <pubDate>Mon, 19 Feb 2024 01:59:55 GMT</pubDate>
     </item>
     <item>
-      <title>顽固的通货膨胀和缓慢的中国经济增长拖累了世界股市</title>
+      <title>顽固的通货膨胀和中国缓慢的经济增长导致世界股市下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-19/</link>
-      <description><![CDATA[全球股市周一艰难上涨，因全球提前降息的可能性逐渐减弱，令市场情绪恶化，而中国市场假期结束后仅小幅上涨。]]></description>
+      <description><![CDATA[在全球提前降息的可能性减弱以及中国股市在农历新年假期回归后录得小幅上涨之后，周一世界股市艰难攀升。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 00:24:58 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[在美国国会议员呼吁对这家在上海上市的公司实施制裁后，中国生物技术公司药明康德周日表示，该公司不会对美国构成国家安全风险。]]></description>
       <guid>https://www.reuters.com/technology/chinas-wuxi-apptec-says-it-poses-no-national-security-risks-us-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 12:57:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国农历新年假期期间的旅游支出超过了疫情前的水平</title>
-      <link>https://www.reuters.com/markets/asia/chinas-travel-spending-during-lunar-new-year-holidays-beats-pre-covid-levels-2024-02-18/</link>
-      <description><![CDATA[官方数据周日显​​示，由于春节假期较长，国内旅游蓬勃发展，截至周六结束的农历新年假期期间，中国旅游收入同比飙升 47.3%，超过 2019 年的水平。]]></description>
-      <guid>https://www.reuters.com/markets/asia/chinas-travel-spending-during-lunar-new-year-holidays-beats-pre-covid-levels-2024-02-18/</guid>
-      <pubDate>Sun, 18 Feb 2024 07:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储阴影下中国央行维持关键政策利率不变</title>
-      <link>https://www.reuters.com/world/china/china-cbank-leaves-key-policy-rate-unchanged-under-shadow-federal-reserve-2024-02-18/</link>
-      <description><![CDATA[中国央行周日在到期中期贷款展期时如预期维持关键政策利率不变，美联储宽松时机的不确定性限制了北京方面的货币政策操作空间。]]></description>
-      <guid>https://www.reuters.com/world/china/china-cbank-leaves-key-policy-rate-unchanged-under-shadow-federal-reserve-2024-02-18/</guid>
-      <pubDate>Sun, 18 Feb 2024 02:22:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
