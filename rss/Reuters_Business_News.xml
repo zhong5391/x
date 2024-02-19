@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 19 Feb 2024 01:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 02:58:33 GMT</lastBuildDate>
+    <item>
+      <title>中国电动汽车巨头比亚迪推出起价较低的新型插电式混合动力轿车</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinese-ev-giant-byd-launches-new-plug-in-hybrid-sedan-with-lower-starting-price-2024-02-19/</link>
+      <description><![CDATA[中国电动汽车巨头比亚迪周一推出了新版插电式混合动力轿车秦Plus DM-i，起价较低，加倍降价以保持在全球最大汽车市场的竞争力。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinese-ev-giant-byd-launches-new-plug-in-hybrid-sedan-with-lower-starting-price-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 02:29:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>粘性通胀削弱降息预期，美元保持稳定</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-steady-sticky-inflation-dents-rate-cut-expectations-2024-02-19/</link>
+      <description><![CDATA[上周数据显示美国通胀依然高企，引发人们对美联储何时开始宽松周期的疑虑，而日元仍扎根于 150 美元兑 150 的关键心理水平附近，周一美元保持稳定。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-steady-sticky-inflation-dents-rate-cut-expectations-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 01:59:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着美国为总统日做准备，石油在交易清淡中下跌</title>
+      <link>https://www.reuters.com/business/energy/oil-down-thin-trade-us-gears-up-presidents-day-2024-02-19/</link>
+      <description><![CDATA[周一早间，由于市场消化了美联储官员的评论，这些评论指出，在美国公众假期期间，早盘交易清淡，他们对潜在降息采取了更加耐心的立场，油价小幅下跌。]]></description>
+      <guid>https://www.reuters.com/business/energy/oil-down-thin-trade-us-gears-up-presidents-day-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 01:47:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>任天堂股价因 Switch 继任者推迟发布的报道而下跌</title>
+      <link>https://www.reuters.com/technology/nintendo-shares-slide-reports-delayed-switch-successor-release-2024-02-19/</link>
+      <description><![CDATA[游戏媒体和彭博社报道称其下一代游戏机将从今年晚些时候推迟到 2025 年初，任天堂股价周一下跌 6%。]]></description>
+      <guid>https://www.reuters.com/technology/nintendo-shares-slide-reports-delayed-switch-successor-release-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 00:40:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着中国股市强势回归，亚洲股市暴跌</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-19/</link>
+      <description><![CDATA[亚洲股市周一开局低迷，全球提前降息的可能性逐渐减弱，令市场情绪恶化，而中国市场假期结束后仅小幅上涨。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 00:24:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国比亚迪计划今年起推出高端豪华车型</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinas-byd-plans-launch-high-end-luxury-models-this-year-2024-02-18/</link>
+      <description><![CDATA[中国比亚迪表示，计划从今年起推出多款高端豪华车型。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-plans-launch-high-end-luxury-models-this-year-2024-02-18/</guid>
+      <pubDate>Sun, 18 Feb 2024 23:52:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚七大集团出资12亿美元收购Boral的完全控制权</title>
+      <link>https://www.reuters.com/markets/deals/australias-seven-group-offers-12-bln-full-control-boral-2024-02-18/</link>
+      <description><![CDATA[澳大利亚多元化投资者七集团控股公司（Seven Group Holdings）已出价 19 亿澳元（12.4 亿美元），以完全控制建筑产品集团制造商 Boral，押注澳大利亚基础设施支出热潮将在未来几年得以维持。]]></description>
+      <guid>https://www.reuters.com/markets/deals/australias-seven-group-offers-12-bln-full-control-boral-2024-02-18/</guid>
+      <pubDate>Sun, 18 Feb 2024 22:31:01 GMT</pubDate>
+    </item>
     <item>
       <title>早盘竞价：投资者希望农历新年后中国经济增长势头持续</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-18/</link>
@@ -13,16 +62,16 @@
       <pubDate>Sun, 18 Feb 2024 21:47:26 GMT</pubDate>
     </item>
     <item>
-      <title>西太平洋银行认为明年货币政策“限制性较小”</title>
+      <title>西太平洋银行认为明年货币政策“限制性较小”，第一季度利润下降</title>
       <link>https://www.reuters.com/business/finance/australias-westpac-first-quarter-profit-falls-its-prior-hy-quarterly-average-2024-02-18/</link>
-      <description><![CDATA[澳大利亚西太平洋银行周一表示，预计明年该国货币政策的限制性将有所放松，同时报告称，其第一季度未经审计的净利润与前六个月的季度平均水平相比有所下降。]]></description>
+      <description><![CDATA[西太平洋银行表示，预计明年澳大利亚货币政策的限制性将有所放松，同时报告称，其第一季度未经审计的净利润较前六个月的季度平均水平有所下降。]]></description>
       <guid>https://www.reuters.com/business/finance/australias-westpac-first-quarter-profit-falls-its-prior-hy-quarterly-average-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 20:46:58 GMT</pubDate>
     </item>
     <item>
-      <title>据《纽约时报》报道，拜登政府将放宽电动汽车尾气排放规定</title>
+      <title>美国将放宽尾气排放规定，减缓电动汽车转型至 2030 年</title>
       <link>https://www.reuters.com/business/autos-transportation/biden-administration-relax-ev-rule-tailpipe-emissions-ny-times-2024-02-18/</link>
-      <description><![CDATA[据《纽约时报》援引知情人士的消息报道，美国总统乔·拜登政府打算放宽尾气排放限制，旨在让美国人从汽油动力汽车转向电动汽车。]]></description>
+      <description><![CDATA[两位消息人士周日告诉路透社，美国总统乔·拜登政府将放宽其全面计划中提出的到 2030 年的年度要求，以积极减少尾气排放并提高电动汽车销量。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/biden-administration-relax-ev-rule-tailpipe-emissions-ny-times-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 15:46:07 GMT</pubDate>
     </item>
@@ -43,7 +92,7 @@
     <item>
       <title>由于前景黯淡，法国下调 2024 年增长预期</title>
       <link>https://www.reuters.com/markets/europe/french-finance-minister-cut-2024-growth-forecast-media-2024-02-18/</link>
-      <description><![CDATA[法国财政部长布鲁诺·勒梅尔表示，由于乌克兰和加沙战争以及主要贸易伙伴德国和中国的经济放缓使前景黯淡，政府已将 2024 年 GDP 增长预测从 1.4% 下调至 1%。]]></description>
+      <description><![CDATA[法国财政部长布鲁诺·勒梅尔表示，由于乌克兰和加沙战争以及主要贸易伙伴德国和中国经济放缓使前景黯淡，政府已将 2024 年 GDP 增长预测从 1.4% 下调至 1%。]]></description>
       <guid>https://www.reuters.com/markets/europe/french-finance-minister-cut-2024-growth-forecast-media-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 10:06:21 GMT</pubDate>
     </item>
@@ -55,32 +104,11 @@
       <pubDate>Sun, 18 Feb 2024 07:55:28 GMT</pubDate>
     </item>
     <item>
-      <title>中国首架国产客机在新加坡国际首秀</title>
-      <link>https://www.reuters.com/business/aerospace-defense/chinas-first-homegrown-airliner-makes-international-debut-singapore-2024-02-18/</link>
-      <description><![CDATA[中国对空客和波音客机的挑战者、由中国商用飞机有限责任公司（COMAC）制造的窄体C919飞机周日在新加坡航展上进行了首次飞越中国领土的飞行。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/chinas-first-homegrown-airliner-makes-international-debut-singapore-2024-02-18/</guid>
-      <pubDate>Sun, 18 Feb 2024 04:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储阴影下中国银行维持关键政策利率不变</title>
-      <link>https://www.reuters.com/world/china/china-cbank-leaves-key-policy-rate-unchanged-under-shadow-federal-reserve-2024-02-18/</link>
-      <description><![CDATA[中国央行周日在到期中期贷款展期时如预期维持关键政策利率不变，美联储宽松时机的不确定性限制了北京方面的货币政策操作空间。]]></description>
-      <guid>https://www.reuters.com/world/china/china-cbank-leaves-key-policy-rate-unchanged-under-shadow-federal-reserve-2024-02-18/</guid>
-      <pubDate>Sun, 18 Feb 2024 02:22:35 GMT</pubDate>
-    </item>
-    <item>
       <title>激进投资者卡尔·伊坎获得捷蓝航空董事会席位</title>
       <link>https://www.reuters.com/business/aerospace-defense/activist-investor-carl-icahn-secures-jetblue-board-seats-2024-02-17/</link>
       <description><![CDATA[捷蓝航空已同意任命激进投资者卡尔·伊坎公司的两名成员加入董事会，避免了代理权之争。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/activist-investor-carl-icahn-secures-jetblue-board-seats-2024-02-17/</guid>
       <pubDate>Sat, 17 Feb 2024 00:37:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>据彭博社报道，美国考虑向英特尔提供超过 100 亿美元的补贴</title>
-      <link>https://www.reuters.com/technology/us-considering-more-than-10-bln-subsidies-intel-bloomberg-news-2024-02-16/</link>
-      <description><![CDATA[据彭博社周五援引知情人士的话报道，拜登政府正在就向英特尔公司提供超过 100 亿美元的补贴进行谈判。]]></description>
-      <guid>https://www.reuters.com/technology/us-considering-more-than-10-bln-subsidies-intel-bloomberg-news-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 23:20:07 GMT</pubDate>
     </item>
     <item>
       <title>据《纽约时报》报道，交易后 OpenAI 估值达 800 亿美元</title>
@@ -111,32 +139,11 @@
       <pubDate>Fri, 16 Feb 2024 17:43:30 GMT</pubDate>
     </item>
     <item>
-      <title>投资者寄希望于销售复苏，家得宝 2024 年预测成为焦点</title>
-      <link>https://www.reuters.com/business/retail-consumer/home-depot-2024-forecast-focus-investors-pin-hopes-sales-recovery-2024-02-16/</link>
-      <description><![CDATA[美国家居装修领头羊家得宝周二公布第四季度业绩时，其年度预测将成为投资者关注的焦点，因为他们在经历动荡的一年后寻找需求反弹的迹象。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/home-depot-2024-forecast-focus-investors-pin-hopes-sales-recovery-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 17:22:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据令人失望，美联储表示对降息保持“耐心”</title>
-      <link>https://www.reuters.com/markets/rates-bonds/traders-see-rising-chance-fed-defers-first-rate-cut-beyond-june-2024-02-16/</link>
-      <description><![CDATA[一周令人失望的美国经济数据，包括强于预期的通胀和疲软的支出，使得美联储政策制定者加倍加大了今年降息的观望态度，但并未气馁。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/traders-see-rising-chance-fed-defers-first-rate-cut-beyond-june-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 13:49:39 GMT</pubDate>
-    </item>
-    <item>
       <title>强劲的服务价格上涨推升美国一月份生产者通胀</title>
       <link>https://www.reuters.com/markets/us/us-producer-prices-rise-more-than-expected-january-2024-02-16/</link>
       <description><![CDATA[由于医院门诊护理和投资组合管理等服务成本大幅上涨，美国 1 月份生产者价格涨幅超出预期，引发金融市场担忧通胀在经历数月降温后正在加速。]]></description>
       <guid>https://www.reuters.com/markets/us/us-producer-prices-rise-more-than-expected-january-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 13:46:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>热门生产者价格数据抑制降息押注，华尔街股市下滑</title>
-      <link>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</link>
-      <description><![CDATA[美国股市周五下跌，纳斯达克指数跌幅最大，此前高于预期的生产者价格报告削弱了美联储即将降息的希望。]]></description>
-      <guid>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 11:18:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
