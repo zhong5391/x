@@ -4,25 +4,11 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 19 Feb 2024 11:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 11:29:25 GMT</lastBuildDate>
     <item>
-      <title>报道称，Stellantis考虑在意大利生产零跑电动汽车</title>
-      <link>https://www.reuters.com/business/autos-transportation/stellantis-considering-building-leapmotor-evs-italy-report-says-2024-02-19/</link>
-      <description><![CDATA[据《欧洲汽车新闻》周一报道，作为与中国汽车制造商零跑汽车达成的协议的一部分，Stellantis 正在考虑在意大利都灵的 Mirafiori 工厂生产多达 15 万辆低成本电动汽车 (EV)。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/stellantis-considering-building-leapmotor-evs-italy-report-says-2024-02-19/</guid>
-      <pubDate>Mon, 19 Feb 2024 10:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国向 GlobalFoundries 拨款 15 亿美元用于国内半导体生产</title>
-      <link>https://www.reuters.com/technology/us-awards-15-bln-globalfoundries-domestic-semiconductor-production-2024-02-19/</link>
-      <description><![CDATA[拜登政府周一表示，美国政府将向 GlobalFoundries 拨款 15 亿美元，用于扩大半导体生产，以加强国内供应链。]]></description>
-      <guid>https://www.reuters.com/technology/us-awards-15-bln-globalfoundries-domestic-semiconductor-production-2024-02-19/</guid>
-      <pubDate>Mon, 19 Feb 2024 10:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>桑坦德银行回购15.7亿美元股票并提高股息</title>
+      <title>西班牙桑坦德银行宣布14.6亿欧元新回购计划</title>
       <link>https://www.reuters.com/business/finance/spains-santander-announces-new-buyback-plan-146-bln-euros-2024-02-19/</link>
-      <description><![CDATA[西班牙桑坦德银行周一宣布了一项14.6亿欧元（15.7亿美元）的新股票回购计划，并表示将把2023年的每股股息提高约50%。]]></description>
+      <description><![CDATA[西班牙桑坦德银行周一宣布了一项14.6亿欧元（15.7亿美元）的新股票回购计划并增加股息。]]></description>
       <guid>https://www.reuters.com/business/finance/spains-santander-announces-new-buyback-plan-146-bln-euros-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 07:55:49 GMT</pubDate>
     </item>
@@ -69,11 +55,18 @@
       <pubDate>Mon, 19 Feb 2024 02:29:24 GMT</pubDate>
     </item>
     <item>
-      <title>强劲的美国数据削弱了降息希望，美元保持稳定</title>
+      <title>由于美国通胀粘性削弱降息预期，美元坚挺</title>
       <link>https://www.reuters.com/markets/currencies/dollar-steady-sticky-inflation-dents-rate-cut-expectations-2024-02-19/</link>
-      <description><![CDATA[由于强劲的通胀数据，美元在连续第五周走高后，周一保持稳定，而日元交投于重要的心理关口 150 附近。]]></description>
+      <description><![CDATA[上周数据显示美国通胀依然高企，引发人们对美联储何时开始宽松周期的疑虑，美元周一保持稳定，而日元仍徘徊在 150 美元兑 150 美元的心理关键水平附近。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-steady-sticky-inflation-dents-rate-cut-expectations-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 01:59:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于美国通胀加剧需求担忧，油价下跌</title>
+      <link>https://www.reuters.com/business/energy/oil-down-thin-trade-us-gears-up-presidents-day-2024-02-19/</link>
+      <description><![CDATA[有报道称，全球最大石油消费国美国生产者价格上涨，引发了人们对粘性通胀和利率上升将限制燃料消费增长的担忧，投资者注意力重新转向需求前景，油价下跌。]]></description>
+      <guid>https://www.reuters.com/business/energy/oil-down-thin-trade-us-gears-up-presidents-day-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 01:47:17 GMT</pubDate>
     </item>
     <item>
       <title>任天堂股价因 Switch 继任者推迟发布的报道而下跌</title>
@@ -127,7 +120,7 @@
     <item>
       <title>美国将放宽尾气排放规定，减缓电动汽车转型至 2030 年</title>
       <link>https://www.reuters.com/business/autos-transportation/biden-administration-relax-ev-rule-tailpipe-emissions-ny-times-2024-02-18/</link>
-      <description><![CDATA[两名消息人士周日告诉路透社，美国总统乔·拜登政府将放宽其全面计划中提出的到 2030 年的年度要求，以积极减少尾气排放并提高电动汽车销量。]]></description>
+      <description><![CDATA[两位消息人士周日告诉路透社，美国总统乔·拜登政府将放宽其全面计划中提出的到 2030 年的年度要求，以积极减少尾气排放并提高电动汽车销量。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/biden-administration-relax-ev-rule-tailpipe-emissions-ny-times-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 15:46:07 GMT</pubDate>
     </item>
@@ -137,6 +130,13 @@
       <description><![CDATA[威尔第工会周日表示，德国汉莎航空公司的地勤人员将于周二举行罢工，宣布针对德国交通运输业的最新罢工行动，因为工人们要求加薪。]]></description>
       <guid>https://www.reuters.com/business/lufthansa-ground-staff-strike-tuesday-says-union-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 13:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>据英国《金融时报》报道，欧盟准备对苹果公司处以约 5 亿欧元的罚款</title>
+      <link>https://www.reuters.com/technology/eu-fine-apple-around-500-mln-euros-over-music-streaming-ft-reports-2024-02-18/</link>
+      <description><![CDATA[据英国《金融时报》周日援引未具名消息人士的话报道，欧盟将因涉嫌违反欧盟竞争法而对苹果公司处以约 5 亿欧元（5.39 亿美元）的罚款。]]></description>
+      <guid>https://www.reuters.com/technology/eu-fine-apple-around-500-mln-euros-over-music-streaming-ft-reports-2024-02-18/</guid>
+      <pubDate>Sun, 18 Feb 2024 11:38:34 GMT</pubDate>
     </item>
     <item>
       <title>中国农历新年假期期间的旅游支出超过了疫情前的水平</title>
