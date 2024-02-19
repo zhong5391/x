@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 19 Feb 2024 18:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 19:41:42 GMT</lastBuildDate>
+    <item>
+      <title>一些滞留的俄罗斯索科尔石油货物开始运往中国、印度——数据</title>
+      <link>https://www.reuters.com/business/energy/some-stranded-russian-sokol-oil-cargoes-begin-move-china-india-data-2024-02-19/</link>
+      <description><![CDATA[Kpler 和 LSEG 周一的数据显示，因付款问题和西方制裁而搁浅在海上的三艘载有俄罗斯索科尔石油的油轮已开始驶向中国和印度。]]></description>
+      <guid>https://www.reuters.com/business/energy/some-stranded-russian-sokol-oil-cargoes-begin-move-china-india-data-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 16:55:52 GMT</pubDate>
+    </item>
     <item>
       <title>关于Currys，英国连锁店中国京东和美国基金Elliott争夺</title>
       <link>https://www.reuters.com/markets/deals/all-about-currys-uk-chain-chinas-jdcom-us-fund-elliott-vie-2024-02-19/</link>
-      <description><![CDATA[周一，中国在线零售商京东与美国维权投资者埃利奥特顾问公司 (Elliott Advisors) 一起竞购这家英国家用电器和电子产品零售商，该公司已经拒绝了埃利奥特 7 亿英镑（8.8179 亿美元）的开盘报价，随后库里股价飙升。]]></description>
+      <description><![CDATA[周一，中国在线零售商京东与美国维权投资者埃利奥特顾问公司 (Elliott Advisors) 一起竞购这家英国家用电器和电子产品零售商，该公司已经回绝了埃利奥特 7 亿英镑（8.8179 亿美元）的开盘报价，随后库里股价飙升。]]></description>
       <guid>https://www.reuters.com/markets/deals/all-about-currys-uk-chain-chinas-jdcom-us-fund-elliott-vie-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 15:40:15 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>航空集团首席执行官支持波音首席执行官解决安全危机</title>
       <link>https://www.reuters.com/business/aerospace-defense/airlines-group-chief-backs-boeing-ceo-fix-safety-crisis-2024-02-19/</link>
-      <description><![CDATA[全球最大的航空贸易机构负责人周一表示，上个月一架正在飞行的 737 MAX 9 飞机的面板发生爆炸，波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 是领导该公司走出最新安全危机的合适人选。]]></description>
+      <description><![CDATA[全球最大的航空贸易机构负责人周一表示，上个月飞行中的 737 MAX 9 飞机面板发生爆炸，波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 是领导该公司走出最新安全危机的合适人选。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/airlines-group-chief-backs-boeing-ceo-fix-safety-crisis-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 11:30:05 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>顽固的通货膨胀和中国缓慢的经济增长导致世界股市下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-19/</link>
-      <description><![CDATA[在全球提前降息的可能性减弱以及中国股市在农历新年假期回归后录得小幅上涨之后，周一世界股市艰难攀升。]]></description>
+      <description><![CDATA[在全球提前降息的可能性减弱以及中国市场在农历新年假期回归后录得小幅上涨之后，周一世界股市艰难攀升。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 00:24:58 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[周一，中国在线零售商京东与美国维权投资者 Elliott Advisors 一起竞购这家英国电气集团，该集团已拒绝了 Elliott 8.8 亿美元的开盘报价，随后库里股价飙升。]]></description>
       <guid>https://www.reuters.com/markets/deals/elliott-advisors-considers-new-cash-bid-currys-times-reports-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 23:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：投资者希望农历新年后中国经济增长势头持续</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-18/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-18/</guid>
-      <pubDate>Sun, 18 Feb 2024 21:47:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
