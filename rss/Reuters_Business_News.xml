@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 18 Feb 2024 22:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 01:19:49 GMT</lastBuildDate>
+    <item>
+      <title>早盘竞价：投资者希望农历新年后中国经济增长势头持续</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-18/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-18/</guid>
+      <pubDate>Sun, 18 Feb 2024 21:47:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>西太平洋银行认为明年货币政策“限制性较小”</title>
+      <link>https://www.reuters.com/business/finance/australias-westpac-first-quarter-profit-falls-its-prior-hy-quarterly-average-2024-02-18/</link>
+      <description><![CDATA[澳大利亚西太平洋银行周一表示，预计明年该国货币政策的限制性将有所放松，同时报告称，其第一季度未经审计的净利润与前六个月的季度平均水平相比有所下降。]]></description>
+      <guid>https://www.reuters.com/business/finance/australias-westpac-first-quarter-profit-falls-its-prior-hy-quarterly-average-2024-02-18/</guid>
+      <pubDate>Sun, 18 Feb 2024 20:46:58 GMT</pubDate>
+    </item>
     <item>
       <title>据《纽约时报》报道，拜登政府将放宽电动汽车尾气排放规定</title>
       <link>https://www.reuters.com/business/autos-transportation/biden-administration-relax-ev-rule-tailpipe-emissions-ny-times-2024-02-18/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>由于前景黯淡，法国下调 2024 年增长预期</title>
       <link>https://www.reuters.com/markets/europe/french-finance-minister-cut-2024-growth-forecast-media-2024-02-18/</link>
-      <description><![CDATA[法国财政部长布鲁诺·勒梅尔表示，由于乌克兰和中东的冲突以及主要贸易伙伴德国和中国经济放缓使前景黯淡，政府已将 2024 年 GDP 增长预测从 1.4% 下调至 1%。]]></description>
+      <description><![CDATA[法国财政部长布鲁诺·勒梅尔表示，由于乌克兰和加沙战争以及主要贸易伙伴德国和中国的经济放缓使前景黯淡，政府已将 2024 年 GDP 增长预测从 1.4% 下调至 1%。]]></description>
       <guid>https://www.reuters.com/markets/europe/french-finance-minister-cut-2024-growth-forecast-media-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 10:06:21 GMT</pubDate>
     </item>
@@ -53,13 +67,6 @@
       <description><![CDATA[中国央行周日在到期中期贷款展期时如预期维持关键政策利率不变，美联储宽松时机的不确定性限制了北京方面的货币政策操作空间。]]></description>
       <guid>https://www.reuters.com/world/china/china-cbank-leaves-key-policy-rate-unchanged-under-shadow-federal-reserve-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 02:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>西澳大利亚州为陷入困境的镍生产商提供特许权使用费减免</title>
-      <link>https://www.reuters.com/markets/commodities/western-australia-offers-royalty-relief-struggling-nickel-producers-2024-02-17/</link>
-      <description><![CDATA[西澳大利亚州周六表示，将向镍生产商提供特许权使用费减免，以提振陷入困境的行业，一天前该金属被列为“关键矿物”，为生产商获得数十亿美元的廉价政府贷款铺平了道路。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/western-australia-offers-royalty-relief-struggling-nickel-producers-2024-02-17/</guid>
-      <pubDate>Sat, 17 Feb 2024 05:04:42 GMT</pubDate>
     </item>
     <item>
       <title>激进投资者卡尔·伊坎获得捷蓝航空董事会席位</title>
@@ -111,16 +118,9 @@
       <pubDate>Fri, 16 Feb 2024 17:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI、Meta 和其他科技巨头签署协议，打击人工智能干扰选举</title>
-      <link>https://www.reuters.com/technology/openai-meta-other-tech-giants-sign-effort-fight-ai-election-interference-2024-02-16/</link>
-      <description><![CDATA[由 20 家科技公司组成的组织周五宣布，他们同意共同努力，防止欺骗性人工智能内容干扰今年全球的选举。]]></description>
-      <guid>https://www.reuters.com/technology/openai-meta-other-tech-giants-sign-effort-fight-ai-election-interference-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 17:19:00 GMT</pubDate>
-    </item>
-    <item>
       <title>数据令人失望，美联储表示对降息保持“耐心”</title>
       <link>https://www.reuters.com/markets/rates-bonds/traders-see-rising-chance-fed-defers-first-rate-cut-beyond-june-2024-02-16/</link>
-      <description><![CDATA[一周令人失望的美国经济数据，包括强于预期的通胀和疲软的支出，使得美联储政策制定者加倍对今年的降息采取观望态度，但并未气馁。]]></description>
+      <description><![CDATA[一周令人失望的美国经济数据，包括强于预期的通胀和疲软的支出，使得美联储政策制定者加倍加大了今年降息的观望态度，但并未气馁。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/traders-see-rising-chance-fed-defers-first-rate-cut-beyond-june-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 13:49:39 GMT</pubDate>
     </item>
@@ -137,13 +137,6 @@
       <description><![CDATA[美国股市周五下跌，纳斯达克指数跌幅最大，此前高于预期的生产者价格报告削弱了美联储即将降息的希望。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-nasdaq-futures-rise-ahead-inflation-data-applied-materials-surges-2024-02-16/</guid>
       <pubDate>Fri, 16 Feb 2024 11:18:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于买家避开老化资产且未来不确定，美国炼油厂并购陷入停滞</title>
-      <link>https://www.reuters.com/business/energy/us-refinery-ma-stalls-buyers-shun-aging-assets-uncertain-future-2024-02-16/</link>
-      <description><![CDATA[去年，美国石油行业的上游交易额接近 2000 亿美元，但随着能源向化石燃料转型的加速，以及人们对老化的美国炼油厂的长期价值产生怀疑，尽管有大量愿意出售的炼油行业，但炼油行业却错失良机。]]></description>
-      <guid>https://www.reuters.com/business/energy/us-refinery-ma-stalls-buyers-shun-aging-assets-uncertain-future-2024-02-16/</guid>
-      <pubDate>Fri, 16 Feb 2024 11:02:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
