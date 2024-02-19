@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 19 Feb 2024 21:39:05 GMT</lastBuildDate>
-    <item>
-      <title>澳新银行 (ANZ) 将于周二做出 32 亿美元 Suncorp 银行部门收购决定</title>
-      <link>https://www.reuters.com/markets/deals/anzs-32-bln-suncorp-bank-unit-buyout-decision-due-tuesday-2024-02-19/</link>
-      <description><![CDATA[澳新银行集团 (ANZ Group) 以 49 亿澳元（合 32 亿美元）收购 Suncorp 银行业务的未来将于周二明朗，澳大利亚竞争法庭将裁定该银行是否可以继续收购其重要竞争对手。]]></description>
-      <guid>https://www.reuters.com/markets/deals/anzs-32-bln-suncorp-bank-unit-buyout-decision-due-tuesday-2024-02-19/</guid>
-      <pubDate>Mon, 19 Feb 2024 20:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nutresa 股票在公开发售前暂停交易</title>
-      <link>https://www.reuters.com/business/retail-consumer/trading-nutresa-shares-suspended-ahead-public-offer-2024-02-19/</link>
-      <description><![CDATA[哥伦比亚金融监管机构周一暂停了食品生产商 Nutresa 的股票交易，随后 Nutresa 目前的大股东 Grupo Gilinski 计划公开发行股票。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/trading-nutresa-shares-suspended-ahead-public-offer-2024-02-19/</guid>
-      <pubDate>Mon, 19 Feb 2024 19:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>墨西哥总体通胀二月初放缓</title>
-      <link>https://www.reuters.com/markets/mexican-headline-inflation-seen-slowing-early-february-2024-02-19/</link>
-      <description><![CDATA[路透社周一的一项民意调查显示，墨西哥的总体通胀率可能在 2 月上半月有所放缓，这增强了对该国央行可能很快自 2021 年以来首次降低关键基准利率的押注。]]></description>
-      <guid>https://www.reuters.com/markets/mexican-headline-inflation-seen-slowing-early-february-2024-02-19/</guid>
-      <pubDate>Mon, 19 Feb 2024 19:16:44 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 19 Feb 2024 22:17:18 GMT</lastBuildDate>
     <item>
       <title>据天空新闻报道，美国投资者正在与 Superdry 联合创始人就收购该连锁店进行谈判</title>
       <link>https://www.reuters.com/markets/deals/us-investor-talks-with-superdry-co-founder-about-bid-chain-sky-news-reports-2024-02-19/</link>
@@ -36,14 +15,16 @@
     <item>
       <title>丰田工业公司因发动机排放作弊而面临严厉打击 - 日经新闻</title>
       <link>https://www.reuters.com/business/autos-transportation/toyota-industries-faces-crackdown-engine-emissions-cheating-nikkei-2024-02-19/</link>
-      <description><![CDATA[据日经新闻社周一报道，日本交通运输部正在准备对丰田汽车公司最大的一家发动机排放测试作弊行为采取行动，包括可能撤销某些发动机类型的认证。]]></description>
+      <description><![CDATA[据日经新闻社周一报道，日本交通运输部正在准备对丰田汽车公司最大的一家发动机排放测试作弊单位采取行动，包括可能撤销某些发动机类型的认证。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/toyota-industries-faces-crackdown-engine-emissions-cheating-nikkei-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 17:00:28 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，第一资本正在就收购 Discover Financial 进行高级谈判</title>
+      <title>消息人士称，第一资本考虑收购 Discover Financial</title>
       <link>https://www.reuters.com/markets/deals/capital-one-considers-acquisition-discover-financial-bloomberg-says-2024-02-19/</link>
-      <description><![CDATA[知情人士称，由沃伦·巴菲特支持的美国消费贷款机构第一资本正在就收购信用卡发行商 Discover Financial Services 进行高级谈判，最早可能于周二宣布这一消息。]]></description>
+      <description><![CDATA[第一资本
+ 由投资者沃伦·巴菲特支持的在线消费银行和信用卡发行商正在考虑收购信用卡贷方 Discover Financial Services
+ ”一位知情人士表示。]]></description>
       <guid>https://www.reuters.com/markets/deals/capital-one-considers-acquisition-discover-financial-bloomberg-says-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 16:58:43 GMT</pubDate>
     </item>
@@ -76,11 +57,25 @@
       <pubDate>Mon, 19 Feb 2024 15:11:18 GMT</pubDate>
     </item>
     <item>
+      <title>中国证券监管机构听取重振市场的建议</title>
+      <link>https://www.reuters.com/markets/asia/chinas-securities-watchdog-opens-ears-proposals-revive-market-2024-02-19/</link>
+      <description><![CDATA[中国证监会表示，周日和周一与市场参与者举行了一系列研讨会，建议对公司上市和交易行为进行更严格的审查，以重振市场信心。]]></description>
+      <guid>https://www.reuters.com/markets/asia/chinas-securities-watchdog-opens-ears-proposals-revive-market-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 13:04:05 GMT</pubDate>
+    </item>
+    <item>
       <title>独家：土耳其与俄罗斯的贸易受到美国新制裁威胁的打击</title>
       <link>https://www.reuters.com/markets/turkish-russian-trade-hit-by-fresh-us-sanctions-threat-2024-02-19/</link>
       <description><![CDATA[据七名知情人士透露，美国威胁要对与俄罗斯开展业务的金融公司实施制裁，这导致土耳其与俄罗斯之间的贸易遇冷，进口石油和土耳其出口的部分付款受到干扰或放缓。]]></description>
       <guid>https://www.reuters.com/markets/turkish-russian-trade-hit-by-fresh-us-sanctions-threat-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 12:32:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>乌克兰企业担心新的动员法可能导致经济瘫痪</title>
+      <link>https://www.reuters.com/markets/europe/ukrainian-businesses-fear-new-mobilisation-law-could-paralyse-economy-2024-02-19/</link>
+      <description><![CDATA[乌克兰主要商业协会呼吁修改立法草案，彻底改革军队动员程序，称改革可能会对本已陷入困境的经济造成打击。]]></description>
+      <guid>https://www.reuters.com/markets/europe/ukrainian-businesses-fear-new-mobilisation-law-could-paralyse-economy-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 12:28:48 GMT</pubDate>
     </item>
     <item>
       <title>高盛将全球股市上调至“增持”经济增长前景</title>
@@ -132,6 +127,13 @@
       <pubDate>Mon, 19 Feb 2024 05:02:07 GMT</pubDate>
     </item>
     <item>
+      <title>任天堂股价因 Switch 继任者推迟发布的报道而下跌</title>
+      <link>https://www.reuters.com/technology/nintendo-shares-slide-reports-delayed-switch-successor-release-2024-02-19/</link>
+      <description><![CDATA[游戏媒体和彭博社报道称其下一代游戏机将从今年晚些时候推迟到 2025 年初，任天堂股价周一下跌 6%。]]></description>
+      <guid>https://www.reuters.com/technology/nintendo-shares-slide-reports-delayed-switch-successor-release-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 00:40:18 GMT</pubDate>
+    </item>
+    <item>
       <title>顽固的通货膨胀和中国缓慢的经济增长导致世界股市下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-19/</link>
       <description><![CDATA[在全球提前降息的可能性减弱以及中国股市在农历新年假期回归后录得小幅上涨之后，周一世界股市艰难攀升。]]></description>
@@ -141,7 +143,7 @@
     <item>
       <title>美国将放宽尾气排放规定，减缓电动汽车转型至 2030 年</title>
       <link>https://www.reuters.com/business/autos-transportation/biden-administration-relax-ev-rule-tailpipe-emissions-ny-times-2024-02-18/</link>
-      <description><![CDATA[两名消息人士周日告诉路透社，美国总统乔·拜登政府将放宽其全面计划中提出的到 2030 年的年度要求，以积极减少尾气排放并提高电动汽车销量。]]></description>
+      <description><![CDATA[两位消息人士周日告诉路透社，美国总统乔·拜登政府将放宽其全面计划中提出的到 2030 年的年度要求，以积极减少尾气排放并提高电动汽车销量。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/biden-administration-relax-ev-rule-tailpipe-emissions-ny-times-2024-02-18/</guid>
       <pubDate>Sun, 18 Feb 2024 15:46:07 GMT</pubDate>
     </item>
