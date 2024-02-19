@@ -1,28 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 19 Feb 2024 19:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2024 20:19:14 GMT</lastBuildDate>
+    <item>
+      <title>据天空新闻报道，美国投资者正在与 Superdry 联合创始人就收购该连锁店进行谈判</title>
+      <link>https://www.reuters.com/markets/deals/us-investor-talks-with-superdry-co-founder-about-bid-chain-sky-news-reports-2024-02-19/</link>
+      <description><![CDATA[据天空新闻周一报道，英国 Oak Furnitureland 所有者、美国资产管理公司戴维森·肯普纳 (Davidson Kempner) 正在与英国时尚零售商 Superdry 联合创始人朱利安·邓克顿 (Julian Dunkerton) 讨论支持收购这家服装公司的收购要约，但未援引消息来源。]]></description>
+      <guid>https://www.reuters.com/markets/deals/us-investor-talks-with-superdry-co-founder-about-bid-chain-sky-news-reports-2024-02-19/</guid>
+      <pubDate>Mon, 19 Feb 2024 18:06:52 GMT</pubDate>
+    </item>
     <item>
       <title>丰田工业公司因发动机排放作弊而面临严厉打击 - 日经新闻</title>
       <link>https://www.reuters.com/business/autos-transportation/toyota-industries-faces-crackdown-engine-emissions-cheating-nikkei-2024-02-19/</link>
-      <description><![CDATA[据日经新闻社周一报道，日本交通运输部正在准备对丰田汽车公司最大的一家发动机排放测试作弊行为采取行动，包括可能撤销某些发动机类型的认证。]]></description>
+      <description><![CDATA[据日经新闻社周一报道，日本交通运输部正在准备对丰田汽车公司最大的一家发动机排放测试作弊单位采取行动，包括可能撤销某些发动机类型的认证。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/toyota-industries-faces-crackdown-engine-emissions-cheating-nikkei-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 17:00:28 GMT</pubDate>
     </item>
     <item>
-      <title>彭博社称第一资本考虑收购 Discover Financial</title>
+      <title>消息人士称，第一资本考虑收购 Discover Financial</title>
       <link>https://www.reuters.com/markets/deals/capital-one-considers-acquisition-discover-financial-bloomberg-says-2024-02-19/</link>
-      <description><![CDATA[据彭博社援引知情人士的消息报道，由投资者沃伦·巴菲特支持的在线消费银行和信用卡发行商第一资本正在考虑收购信用卡贷方 Discover Financial Services。]]></description>
+      <description><![CDATA[第一资本
+ 由投资者沃伦·巴菲特支持的在线消费银行和信用卡发行商正在考虑收购信用卡贷方 Discover Financial Services
+ ”一位知情人士表示。]]></description>
       <guid>https://www.reuters.com/markets/deals/capital-one-considers-acquisition-discover-financial-bloomberg-says-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 16:58:43 GMT</pubDate>
     </item>
     <item>
-      <title>拜耳修改股息政策以支付最低限度以减少债务</title>
+      <title>拜耳将股息削减至法定最低水平以减少债务</title>
       <link>https://www.reuters.com/markets/deals/bayer-amends-dividend-policy-pay-minimum-reduce-debt-2024-02-19/</link>
-      <description><![CDATA[德国拜耳周一表示，正在修改其股息政策，以支付三年内的法定最低股息，以减少债务，并称这一决定并非轻率做出。]]></description>
+      <description><![CDATA[德国制药商拜耳周一表示，正在修改其股息政策，以支付三年内的法定最低股息，以减少债务，该公司表示，这一决定并非轻率做出的。]]></description>
       <guid>https://www.reuters.com/markets/deals/bayer-amends-dividend-policy-pay-minimum-reduce-debt-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 16:48:05 GMT</pubDate>
     </item>
@@ -78,7 +87,7 @@
     <item>
       <title>航空集团首席执行官支持波音首席执行官解决安全危机</title>
       <link>https://www.reuters.com/business/aerospace-defense/airlines-group-chief-backs-boeing-ceo-fix-safety-crisis-2024-02-19/</link>
-      <description><![CDATA[全球最大的航空贸易机构负责人周一表示，上个月飞行中的 737 MAX 9 飞机面板发生爆炸，波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 是领导该公司走出最新安全危机的合适人选。]]></description>
+      <description><![CDATA[全球最大的航空贸易机构负责人周一表示，上个月一架正在飞行的 737 MAX 9 飞机的面板发生爆炸，波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 是领导该公司走出最新安全危机的合适人选。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/airlines-group-chief-backs-boeing-ceo-fix-safety-crisis-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 11:30:05 GMT</pubDate>
     </item>
@@ -127,16 +136,9 @@
     <item>
       <title>顽固的通货膨胀和中国缓慢的经济增长导致世界股市下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-19/</link>
-      <description><![CDATA[在全球提前降息的可能性减弱以及中国市场在农历新年假期回归后录得小幅上涨之后，周一世界股市艰难攀升。]]></description>
+      <description><![CDATA[在全球提前降息的可能性减弱以及中国股市在农历新年假期回归后录得小幅上涨之后，周一世界股市艰难攀升。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 00:24:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚七大集团出资12亿美元收购Boral的完全控制权</title>
-      <link>https://www.reuters.com/markets/deals/australias-seven-group-offers-12-bln-full-control-boral-2024-02-18/</link>
-      <description><![CDATA[澳大利亚多元化投资者七集团控股公司（Seven Group Holdings）已出价 19 亿澳元（12.4 亿美元），以完全控制建筑产品集团制造商 Boral，押注澳大利亚基础设施支出热潮将在未来几年得以维持。]]></description>
-      <guid>https://www.reuters.com/markets/deals/australias-seven-group-offers-12-bln-full-control-boral-2024-02-18/</guid>
-      <pubDate>Sun, 18 Feb 2024 22:31:01 GMT</pubDate>
     </item>
     <item>
       <title>美国将放宽尾气排放规定，减缓电动汽车转型至 2030 年</title>
