@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 22:33:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 23:03:58 GMT</lastBuildDate>
+    <item>
+      <title>澳大利亚杂货商 Woolworths 上半年利润增长 2.5%</title>
+      <link>https://www.reuters.com/business/retail-consumer/australian-grocer-woolworths-posts-25-rise-first-half-profit-2024-02-20/</link>
+      <description><![CDATA[周三，连锁超市 Woolworths Group 报告称，其上半年基本利润增长了 2.5%，这得益于其澳大利亚食品部门的强劲表现，但部分被其新西兰部门的严峻形势所抵消。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/australian-grocer-woolworths-posts-25-rise-first-half-profit-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 21:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>力拓与 Windlab 风电项目签署可再生能源采购协议</title>
+      <link>https://www.reuters.com/business/energy/rio-tinto-inks-renewable-power-purchase-deal-with-windlabs-wind-project-2024-02-20/</link>
+      <description><![CDATA[力拓公司周三表示，该公司已与专业可再生能源公司 Windlab 签署了可再生能源采购协议，购买其计划在昆士兰州建设的 1.4 吉瓦风能项目的大部分电力。]]></description>
+      <guid>https://www.reuters.com/business/energy/rio-tinto-inks-renewable-power-purchase-deal-with-windlabs-wind-project-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 21:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚国民银行季度利润因成本上升而下降</title>
+      <link>https://www.reuters.com/business/finance/national-australia-banks-quarterly-cash-profit-falls-3-compared-second-half-2024-02-20/</link>
+      <description><![CDATA[澳大利亚国民银行周三报告称，受成本压力上升和贷款竞争加剧的影响，与 2023 财年下半年的季度平均水平相比，其第一季度现金利润下降了 3%。]]></description>
+      <guid>https://www.reuters.com/business/finance/national-australia-banks-quarterly-cash-profit-falls-3-compared-second-half-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 21:09:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>切萨皮克能源报告季度利润下降</title>
+      <link>https://www.reuters.com/business/energy/chesapeake-energy-reports-fall-quarterly-profit-2024-02-20/</link>
+      <description><![CDATA[切萨皮克能源公司周二报告称，第四季度利润大幅下降，原因是该天然气生产商在此期间面临大宗商品价格下跌以及产量下降的困扰。]]></description>
+      <guid>https://www.reuters.com/business/energy/chesapeake-energy-reports-fall-quarterly-profit-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 21:04:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>康尼格拉看到了向服用减肥药的人出售冷冻食品的“机会”</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/conagra-sees-opportunity-sell-frozen-meals-those-weight-loss-drugs-2024-02-20/</link>
+      <description><![CDATA[美国包装食品公司 Conagra Brands 高管汤姆·麦高 (Tom McGough) 周二在一次行业会议上表示，看到了向使用 Ozempic 等减肥药的人们出售更多冷冻食品、肉类零食和爆米花的“机会”。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/conagra-sees-opportunity-sell-frozen-meals-those-weight-loss-drugs-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 20:57:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉扩大德国工厂计划遭到当地人拒绝</title>
+      <link>https://www.reuters.com/business/autos-transportation/tesla-faces-rejection-locals-plans-expand-german-site-2024-02-20/</link>
+      <description><![CDATA[格伦海德市市长周二对路透社表示，特斯拉扩大德国工厂的雄心遇到了障碍，因为公民投票反对砍伐树木并为更大工厂让路的动议。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/tesla-faces-rejection-locals-plans-expand-german-site-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 19:58:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stellantis可能在欧洲和北美生产零跑电动汽车</title>
+      <link>https://www.reuters.com/business/autos-transportation/stellantis-could-build-leapmotor-evs-europe-north-america-2024-02-20/</link>
+      <description><![CDATA[Stellantis首席执行官卡洛斯·塔瓦雷斯(Carlos Tavares)周二表示，Stellantis可以在欧洲、北美或其他市场生产基于中国子公司零跑汽车技术的电动汽车，这些市场需要具有价格竞争力的车型来与中国电动汽车制造商竞争。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/stellantis-could-build-leapmotor-evs-europe-north-america-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 19:49:23 GMT</pubDate>
+    </item>
     <item>
       <title>由于波音延误，联合航空将更多地依赖 MAX 9 和空客 A321</title>
       <link>https://www.reuters.com/business/aerospace-defense/united-airlines-lean-more-max-9-airbus-a321-amid-boeing-delays-2024-02-20/</link>
@@ -15,7 +64,7 @@
     <item>
       <title>音乐厂牌UMG将以2.4亿美元收购Chord Music Partners少数股权</title>
       <link>https://www.reuters.com/markets/deals/music-label-umg-buy-minority-stake-chord-music-partners-240-mln-2024-02-20/</link>
-      <description><![CDATA[环球音乐集团周二表示，将以 2.4 亿美元收购 Chord Music Partners 25.8% 的股份，这笔交易将使投资公司 KKR 从音乐目录所有者的资本中退出。]]></description>
+      <description><![CDATA[环球音乐集团周二表示，将以 2.4 亿美元收购 Chord Music Partners 25.8% 的股份，这笔交易将使投资公司 KKR 从这家音乐目录所有者的资本中退出。]]></description>
       <guid>https://www.reuters.com/markets/deals/music-label-umg-buy-minority-stake-chord-music-partners-240-mln-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 18:12:40 GMT</pubDate>
     </item>
@@ -27,25 +76,11 @@
       <pubDate>Tue, 20 Feb 2024 18:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>美联储加息后，利率期权市场对美国硬着陆的押注增加</title>
-      <link>https://www.reuters.com/markets/us/us-hard-landing-bets-rise-rate-options-market-after-fed-hikes-2024-02-20/</link>
-      <description><![CDATA[利率期权投资者正在为受益于美国经济急剧放缓的交易付出代价，这与许多债券市场参与者所持有的乐观前景相反。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-hard-landing-bets-rise-rate-options-market-after-fed-hikes-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 17:47:50 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：消息人士称，西方石油公司正在探索以 200 亿美元以上的价格出售 Western Midstream</title>
       <link>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</link>
       <description><![CDATA[据知情人士透露，西方石油公司正在考虑出售 Western Midstream Partners ，这是一家专注于美国天然气的管道运营商，其市值（包括债务）接近 200 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 17:07:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>玻利维亚公布措施应对日益加剧的美元危机</title>
-      <link>https://www.reuters.com/markets/currencies/bolivia-unveils-measures-tackle-sharpening-dollar-crisis-2024-02-20/</link>
-      <description><![CDATA[玻利维亚政府周二制定了一系列刺激投资和出口的措施，试图扭转因美元短缺而导致货架空空如也、工人拿不到工资的情况。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/bolivia-unveils-measures-tackle-sharpening-dollar-crisis-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 17:00:36 GMT</pubDate>
     </item>
     <item>
       <title>美国航空时隔五年提高行李费</title>
@@ -57,16 +92,9 @@
     <item>
       <title>英伟达的股价在季度报告发布前大幅上涨</title>
       <link>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</link>
-      <description><![CDATA[英伟达股价今年的强劲涨势在周二停止，因为投资者担心这家芯片设计公司的季度业绩能否证明其高估值是合理的。]]></description>
+      <description><![CDATA[英伟达股价今年的强劲涨势在周二停止，因为投资者担心这家雄心勃勃的芯片设计公司的季度业绩能否证明其高估值是合理的。]]></description>
       <guid>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 16:53:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>据 The Information 报道，微软开发人工智能服务器设备以减少对 Nvidia 的依赖</title>
-      <link>https://www.reuters.com/technology/microsoft-develops-ai-server-gear-lessen-reliance-nvidia-information-reports-2024-02-20/</link>
-      <description><![CDATA[据《The Information》周二报道，微软正在开发一款新的网卡，可以提高其 Maia AI 服务器芯片的性能，并有可能减少该公司对芯片设计商 Nvidia 的依赖。]]></description>
-      <guid>https://www.reuters.com/technology/microsoft-develops-ai-server-gear-lessen-reliance-nvidia-information-reports-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 16:30:42 GMT</pubDate>
     </item>
     <item>
       <title>通用汽车因软件问题暂停销售新款中型科罗拉多州和峡谷卡车</title>
@@ -90,13 +118,6 @@
       <pubDate>Tue, 20 Feb 2024 15:19:44 GMT</pubDate>
     </item>
     <item>
-      <title>威尔·史密斯 (Will Smith) 支持的 Arc 推出面向大众市场的电动运动船，售价 258,000 美元</title>
-      <link>https://www.reuters.com/business/will-smith-backed-arc-launches-mass-market-electric-sport-boat-258000-2024-02-20/</link>
-      <description><![CDATA[总部位于洛杉矶的初创公司 Arc 周二推出了一款新的大众市场电动运动船，几个月前，该公司得到了篮球运动员凯文·杜兰特和好莱坞明星威尔·史密斯的支持，筹集了 7000 万美元的早期资金。]]></description>
-      <guid>https://www.reuters.com/business/will-smith-backed-arc-launches-mass-market-electric-sport-boat-258000-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:17:58 GMT</pubDate>
-    </item>
-    <item>
       <title>路透调查显示美联储将于六月降息，风险偏向于稍后采取行动</title>
       <link>https://www.reuters.com/markets/rates-bonds/fed-cut-us-rates-june-risks-skewed-towards-later-move-2024-02-20/</link>
       <description><![CDATA[路透社调查的经济学家以微弱多数表示，美联储将在 6 月份下调联邦基金利率，他们还表示，更大的风险是首次降息的时间将晚于预期而不是更早。]]></description>
@@ -106,44 +127,23 @@
     <item>
       <title>沃尔玛准备进行 23 亿美元的 Vizio 交易，价格敏感的购物者提振了其盈利</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</link>
-      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通货膨胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
+      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:15:25 GMT</pubDate>
     </item>
     <item>
-      <title>S&P Global 将收购 Visible Alpha，最新推动数据主导地位</title>
-      <link>https://www.reuters.com/markets/deals/sp-global-buy-visible-alpha-undisclosed-sum-2024-02-20/</link>
-      <description><![CDATA[标准普尔全球公司周二表示，已同意以未公开的金额收购共识提供商 Visible Alpha，这是这家商业智能公司向数据巨头扩张的最新交易。]]></description>
-      <guid>https://www.reuters.com/markets/deals/sp-global-buy-visible-alpha-undisclosed-sum-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 12:13:26 GMT</pubDate>
-    </item>
-    <item>
       <title>英伟达取代特斯拉成为华尔街交易量最大的股票</title>
       <link>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</link>
-      <description><![CDATA[芯片制造商英伟达正在取代特斯拉成为华尔街交易量最大的股票，在成为美国第三大市值公司后，其地位进一步提升，并显示出更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
+      <description><![CDATA[芯片制造商英伟达(Nvidia)正在取代特斯拉(Tesla)，成为华尔街交易量最大的股票，成为美国第三大市值公司后，其地位进一步提升，并显示更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 11:02:58 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达股价下滑，纳斯达克指数领跌华尔街；沃尔玛创历史新高</title>
+      <title>英伟达在公布财报前表示担忧，股市收低</title>
       <link>https://www.reuters.com/markets/us/futures-slip-fading-rate-cut-hopes-retailers-earnings-focus-2024-02-20/</link>
-      <description><![CDATA[周二，以科技股为主的纳斯达克指数领跌华尔街，芯片制造商英伟达在其备受期待的盈利报告发布之前大幅下跌，而零售业领头羊沃尔玛的乐观预测限制了道琼斯指数的跌幅。]]></description>
+      <description><![CDATA[美国股市周二收低，纳斯达克指数跌幅最大，因芯片制造商英伟达在其备受期待的收益报告发布前股价下跌，而沃尔玛的上涨限制了道指的跌幅。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-slip-fading-rate-cut-hopes-retailers-earnings-focus-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 10:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克 (Elon Musk) 的 SpaceX 如何因中国火箭故障而在印度尼西亚大放异彩</title>
-      <link>https://www.reuters.com/technology/space/how-chinese-rocket-failure-boosted-elon-musks-spacex-indonesia-2024-02-20/</link>
-      <description><![CDATA[2020 年 4 月，一枚中国火箭发射后不久出现故障，摧毁了印度尼西亚耗资 2.2 亿美元的 Nusantara-2 卫星，这对该群岛加强通信网络的努力是一个打击。但这为一个人提供了一个机会。]]></description>
-      <guid>https://www.reuters.com/technology/space/how-chinese-rocket-failure-boosted-elon-musks-spacex-indonesia-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 02:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年的预期：美联储转向、通胀降温、增长放缓</title>
-      <link>https://www.reuters.com/markets/what-expect-2024-fed-pivot-cooling-inflation-easing-growth-2024-01-15/</link>
-      <description><![CDATA[大型银行表示，今年全球经济增长可能会放缓，但美联储立场的鸽派倾斜给美国经济带来了希望，并提亮了风险资产的前景。]]></description>
-      <guid>https://www.reuters.com/markets/what-expect-2024-fed-pivot-cooling-inflation-easing-growth-2024-01-15/</guid>
-      <pubDate>Mon, 15 Jan 2024 16:07:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
