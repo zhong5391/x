@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 20 Feb 2024 05:51:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 07:58:46 GMT</lastBuildDate>
+    <item>
+      <title>最高监管机构要求中国金融部门遵循共产党的价值观</title>
+      <link>https://www.reuters.com/world/china/top-watchdogs-tell-chinas-finance-sector-follow-communist-party-values-2024-02-20/</link>
+      <description><![CDATA[中共官方报纸周二称，中国最高金融监管机构誓言要继续开展行动，确保该行业遵守共产党的价值观并为经济服务，同时避免“过度”和“鲁莽”的风险。]]></description>
+      <guid>https://www.reuters.com/world/china/top-watchdogs-tell-chinas-finance-sector-follow-communist-party-values-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:36:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>北汽电动汽车品牌将于 2024 年推出首款华为支持的轿车</title>
+      <link>https://www.reuters.com/business/autos-transportation/baics-ev-brand-launch-first-huawei-backed-sedan-2024-2024-02-20/</link>
+      <description><![CDATA[随着华为进军电动汽车市场，北京汽车集团（北汽）的电动汽车子公司北汽蓝谷新能源科技计划今年与华为技术合作推出首款轿车。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/baics-ev-brand-launch-first-huawei-backed-sedan-2024-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:26:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>菲律宾与美国联合空中巡逻“保护领土”</title>
+      <link>https://www.reuters.com/world/asia-pacific/philippines-joint-air-patrol-with-us-protect-territory-2024-02-20/</link>
+      <description><![CDATA[在北京指责马尼拉挑起事端后，一名菲律宾军方官员周二表示，菲律宾与美国进行联合空中巡逻的目的是保护南海的领土和国家利益。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/philippines-joint-air-patrol-with-us-protect-territory-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国资产管理公司已准备好产品迎接中国复苏</title>
+      <link>https://www.reuters.com/markets/us-asset-managers-ready-turn-china-sentiment-with-products-stacked-up-2024-02-20/</link>
+      <description><![CDATA[中国市场连续三年下跌以及华盛顿的反北京言论并没有阻止一些美国资产管理公司推出他们希望在中国股市反弹时能够蓬勃发展的产品。]]></description>
+      <guid>https://www.reuters.com/markets/us-asset-managers-ready-turn-china-sentiment-with-products-stacked-up-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 06:08:30 GMT</pubDate>
+    </item>
     <item>
       <title>西藏航空完成中国商飞40架C919、10架ARJ21飞机订单</title>
       <link>https://www.reuters.com/business/aerospace-defense/tibet-airlines-finalises-orders-40-c919-10-arj21-jets-chinas-comac-2024-02-20/</link>
@@ -25,6 +53,13 @@
       <description><![CDATA[2020 年 4 月，一枚中国火箭发射后不久出现故障，摧毁了印度尼西亚耗资 2.2 亿美元的 Nusantara-2 卫星，这对该群岛加强通信网络的努力是一个打击。但这为一个人提供了一个机会。]]></description>
       <guid>https://www.reuters.com/technology/space/how-chinese-rocket-failure-boosted-elon-musks-spacex-indonesia-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 02:06:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚洲股市下跌，对中国降息无动于衷</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-20/</link>
+      <description><![CDATA[由于中国创纪录的降息未能激发投资者的兴趣，亚洲股市周二从 1-1/2 个月高位下跌，而美国和欧洲期货则因早期降息的可能性减弱而下跌。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 02:04:46 GMT</pubDate>
     </item>
     <item>
       <title>中国下调抵押贷款参考利率以重振房地产市场</title>
@@ -50,7 +85,7 @@
     <item>
       <title>关于Currys，英国连锁店中国京东和美国基金Elliott争夺</title>
       <link>https://www.reuters.com/markets/deals/all-about-currys-uk-chain-chinas-jdcom-us-fund-elliott-vie-2024-02-19/</link>
-      <description><![CDATA[周一，中国在线零售商京东与美国维权投资者埃利奥特顾问公司 (Elliott Advisors) 一起竞购这家英国家用电器和电子产品零售商，该公司已经拒绝了埃利奥特 7 亿英镑（8.8179 亿美元）的开盘报价，随后库里股价飙升。]]></description>
+      <description><![CDATA[周一，中国在线零售商京东与美国维权投资者埃利奥特顾问公司 (Elliott Advisors) 一起竞购这家英国家用电器和电子产品零售商，该公司已经回绝了埃利奥特 7 亿英镑（8.8179 亿美元）的开盘报价，随后库里股价飙升。]]></description>
       <guid>https://www.reuters.com/markets/deals/all-about-currys-uk-chain-chinas-jdcom-us-fund-elliott-vie-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 15:40:15 GMT</pubDate>
     </item>
@@ -76,7 +111,7 @@
       <pubDate>Mon, 19 Feb 2024 13:16:54 GMT</pubDate>
     </item>
     <item>
-      <title>中国证券监管机构听取重振市场的建议</title>
+      <title>中国证券监管机构征求恢复市场建议</title>
       <link>https://www.reuters.com/markets/asia/chinas-securities-watchdog-opens-ears-proposals-revive-market-2024-02-19/</link>
       <description><![CDATA[中国证监会表示，周日和周一与市场参与者举行了一系列研讨会，建议对公司上市和交易行为进行更严格的审查，以重振市场信心。]]></description>
       <guid>https://www.reuters.com/markets/asia/chinas-securities-watchdog-opens-ears-proposals-revive-market-2024-02-19/</guid>
@@ -92,37 +127,9 @@
     <item>
       <title>航空集团首席执行官支持波音首席执行官解决安全危机</title>
       <link>https://www.reuters.com/business/aerospace-defense/airlines-group-chief-backs-boeing-ceo-fix-safety-crisis-2024-02-19/</link>
-      <description><![CDATA[全球最大的航空贸易机构负责人周一表示，上个月一架正在飞行的 737 MAX 9 飞机的面板发生爆炸，波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 是领导该公司走出最新安全危机的合适人选。]]></description>
+      <description><![CDATA[全球最大的航空贸易机构负责人周一表示，上个月飞行中的 737 MAX 9 飞机面板发生爆炸，波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 是领导该公司走出最新安全危机的合适人选。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/airlines-group-chief-backs-boeing-ceo-fix-safety-crisis-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 11:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟对 TikTok 可能存在的网络内容违规展开正式调查</title>
-      <link>https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/</link>
-      <description><![CDATA[一名官员周一表示，欧盟将调查字节跳动旗下 TikTok 是否违反了旨在保护儿童和确保广告透明的在线内容规则，这使得该社交媒体平台面临巨额罚款的风险。]]></description>
-      <guid>https://www.reuters.com/technology/eu-opens-formal-proceedings-against-tiktok-under-digital-services-act-2024-02-19/</guid>
-      <pubDate>Mon, 19 Feb 2024 11:01:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>报道称，Stellantis考虑在意大利生产零跑电动汽车</title>
-      <link>https://www.reuters.com/business/autos-transportation/stellantis-considering-building-leapmotor-evs-italy-report-says-2024-02-19/</link>
-      <description><![CDATA[据《欧洲汽车新闻》周一报道，作为与中国汽车制造商零跑汽车达成的协议的一部分，Stellantis 正在考虑在意大利都灵的 Mirafiori 工厂生产多达 15 万辆低成本电动汽车 (EV)。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/stellantis-considering-building-leapmotor-evs-italy-report-says-2024-02-19/</guid>
-      <pubDate>Mon, 19 Feb 2024 10:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管安全关系紧张，印度在马尔代夫的项目仍在加快步伐</title>
-      <link>https://www.reuters.com/world/indias-projects-maldives-gain-pace-despite-strained-security-ties-2024-02-19/</link>
-      <description><![CDATA[印度加大了对马尔代夫的发展援助力度，去年项目步伐加快，尽管马尔代夫新总统穆罕默德·穆伊祖要求印度军队离开马尔代夫，两国关系恶化。]]></description>
-      <guid>https://www.reuters.com/world/indias-projects-maldives-gain-pace-despite-strained-security-ties-2024-02-19/</guid>
-      <pubDate>Mon, 19 Feb 2024 09:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国自六月以来首次下调抵押贷款参考利率</title>
-      <link>https://www.reuters.com/markets/rates-bonds/china-seen-cutting-mortgage-reference-rate-first-time-since-june-2024-02-19/</link>
-      <description><![CDATA[人们普遍预计，中国将于周二将基准抵押贷款参考利率下调至月度固定利率，因为银行净息差的改善使当局有一定的余地，可以利用货币刺激措施来支撑步履蹒跚的经济增长。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/china-seen-cutting-mortgage-reference-rate-first-time-since-june-2024-02-19/</guid>
-      <pubDate>Mon, 19 Feb 2024 07:15:26 GMT</pubDate>
     </item>
     <item>
       <title>中国电动汽车制造商小鹏汽车将雇佣 4,000 名员工，投资人工智能</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[中国电动汽车制造商小鹏汽车表示，今年将雇佣 4,000 名员工，并在人工智能领域投资数百万美元，以求在全球最大汽车市场的“血海”竞争中生存下来。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinese-ev-maker-xpeng-hire-4000-invest-ai-2024-02-19/</guid>
       <pubDate>Mon, 19 Feb 2024 06:49:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：中国市场看起来需要另一个假期</title>
-      <link>https://www.reuters.com/markets/global-markets-view-europe-2024-02-19/</link>
-      <description><![CDATA[韦恩·科尔 (Wayne Cole) 对欧洲和全球市场未来一天的展望。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-view-europe-2024-02-19/</guid>
-      <pubDate>Mon, 19 Feb 2024 05:33:39 GMT</pubDate>
     </item>
     <item>
       <title>中国京东与美国埃利奥特争夺英国咖喱</title>
