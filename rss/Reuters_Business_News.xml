@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 23:03:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 23:38:50 GMT</lastBuildDate>
     <item>
       <title>澳大利亚杂货商 Woolworths 上半年利润增长 2.5%</title>
       <link>https://www.reuters.com/business/retail-consumer/australian-grocer-woolworths-posts-25-rise-first-half-profit-2024-02-20/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>切萨皮克能源报告季度利润下降</title>
       <link>https://www.reuters.com/business/energy/chesapeake-energy-reports-fall-quarterly-profit-2024-02-20/</link>
-      <description><![CDATA[切萨皮克能源公司周二报告称，第四季度利润大幅下降，原因是该天然气生产商在此期间面临大宗商品价格下跌以及产量下降的困扰。]]></description>
+      <description><![CDATA[切萨皮克能源公司周二报告称，由于该天然气生产商在此期间大宗商品价格下跌以及产量下降，第四季度利润大幅下降。]]></description>
       <guid>https://www.reuters.com/business/energy/chesapeake-energy-reports-fall-quarterly-profit-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 21:04:33 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>音乐厂牌UMG将以2.4亿美元收购Chord Music Partners少数股权</title>
       <link>https://www.reuters.com/markets/deals/music-label-umg-buy-minority-stake-chord-music-partners-240-mln-2024-02-20/</link>
-      <description><![CDATA[环球音乐集团周二表示，将以 2.4 亿美元收购 Chord Music Partners 25.8% 的股份，这笔交易将使投资公司 KKR 从这家音乐目录所有者的资本中退出。]]></description>
+      <description><![CDATA[环球音乐集团周二表示，将以 2.4 亿美元收购 Chord Music Partners 25.8% 的股份，这笔交易将使投资公司 KKR 从音乐目录所有者的资本中退出。]]></description>
       <guid>https://www.reuters.com/markets/deals/music-label-umg-buy-minority-stake-chord-music-partners-240-mln-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 18:12:40 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>英伟达的股价在季度报告发布前大幅上涨</title>
       <link>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</link>
-      <description><![CDATA[英伟达股价今年的强劲涨势在周二停止，因为投资者担心这家雄心勃勃的芯片设计公司的季度业绩能否证明其高估值是合理的。]]></description>
+      <description><![CDATA[英伟达股价今年的强劲涨势在周二停止，因为投资者担心这家芯片设计公司的季度业绩能否证明其高估值是合理的。]]></description>
       <guid>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 16:53:19 GMT</pubDate>
     </item>
@@ -127,14 +127,14 @@
     <item>
       <title>沃尔玛准备进行 23 亿美元的 Vizio 交易，价格敏感的购物者提振了其盈利</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</link>
-      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
+      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通货膨胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:15:25 GMT</pubDate>
     </item>
     <item>
       <title>英伟达取代特斯拉成为华尔街交易量最大的股票</title>
       <link>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</link>
-      <description><![CDATA[芯片制造商英伟达(Nvidia)正在取代特斯拉(Tesla)，成为华尔街交易量最大的股票，成为美国第三大市值公司后，其地位进一步提升，并显示更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
+      <description><![CDATA[芯片制造商英伟达(Nvidia)正在取代特斯拉(Tesla)，成为华尔街交易量最大的股票，成为美国第三大市值公司后，其地位进一步提升，并显示出更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 11:02:58 GMT</pubDate>
     </item>
