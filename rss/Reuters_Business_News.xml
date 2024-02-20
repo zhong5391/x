@@ -1,12 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 15:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 15:48:55 GMT</lastBuildDate>
     <item>
-      <title>德国房地产贷款人 PBB 与遭受危机打击的美国市场</title>
+      <title>世贸组织专家组就美国遵守西班牙橄榄关税裁决作出裁决</title>
+      <link>https://www.reuters.com/markets/commodities/wto-panel-issues-ruling-us-compliance-with-spanish-olive-duties-ruling-2024-02-20/</link>
+      <description><![CDATA[世界贸易组织周二就美国遵守西班牙橄榄关税裁决作出裁决。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/wto-panel-issues-ruling-us-compliance-with-spanish-olive-duties-ruling-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:29:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>据《图片报》报道，奥迪董事长希望解雇首席技术官</title>
+      <link>https://www.reuters.com/business/autos-transportation/audi-head-wants-sack-chief-tech-officer-reports-bild-2024-02-20/</link>
+      <description><![CDATA[据《图片报》周二援引接近奥迪公司的消息人士的话报道，奥迪首席执行官格诺特·多尔纳 (Gernot Doellner) 希望解雇该公司的首席技术官奥利弗·霍夫曼 (Oliver Hoffmann)。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/audi-head-wants-sack-chief-tech-officer-reports-bild-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:27:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国最高法院不会复审苹果公司赢得 5.03 亿美元专利裁决</title>
+      <link>https://www.reuters.com/legal/us-supreme-court-wont-review-apples-win-against-503-million-patent-verdict-2024-02-20/</link>
+      <description><![CDATA[美国最高法院周二拒绝审理专利许可公司 VirnetX 提出的恢复陪审团裁决的请求，该裁决是该公司在互联网安全专利纠纷中针对苹果公司赢得的价值 5.028 亿美元的裁决。]]></description>
+      <guid>https://www.reuters.com/legal/us-supreme-court-wont-review-apples-win-against-503-million-patent-verdict-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>特拉华州法院允许 TripAdvisor 在内华达州重新注册</title>
+      <link>https://www.reuters.com/markets/deals/delaware-court-allows-tripadvisor-reincorporate-nevada-2024-02-20/</link>
+      <description><![CDATA[特拉华州的一名法官周二表示，TripAdvisor 可以继续其迁往内华达州的计划，不过股东也可以提起诉讼，指控此举不公平地使这家在线旅游咨询网站的控股股东受益。]]></description>
+      <guid>https://www.reuters.com/markets/deals/delaware-court-allows-tripadvisor-reincorporate-nevada-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>威尔·史密斯 (Will Smith) 支持的 Arc 推出面向大众市场的电动运动船，售价 258,000 美元</title>
+      <link>https://www.reuters.com/business/will-smith-backed-arc-launches-mass-market-electric-sport-boat-258000-2024-02-20/</link>
+      <description><![CDATA[总部位于洛杉矶的初创公司 Arc 周二推出了一款新的大众市场电动运动船，几个月前，该公司得到了篮球运动员凯文·杜兰特和好莱坞明星威尔·史密斯的支持，筹集了 7000 万美元的早期资金。]]></description>
+      <guid>https://www.reuters.com/business/will-smith-backed-arc-launches-mass-market-electric-sport-boat-258000-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 14:17:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ancora Holdings 领导的投资者团体推荐 UPS 前高管担任首席执行官</title>
+      <link>https://www.reuters.com/business/investor-group-led-by-ancora-holdings-recommends-former-ups-executive-ceo-2024-02-20/</link>
+      <description><![CDATA[以 Ancora Holdings 为首的一群投资者周二表示，他们已推荐吉姆·巴伯 (Jim Barber) 担任诺福克南方铁路公司的首席执行官，并提名了该铁路运营商董事会的八名候选人。]]></description>
+      <guid>https://www.reuters.com/business/investor-group-led-by-ancora-holdings-recommends-former-ups-executive-ceo-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 14:09:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>路透调查显示美联储将于六月降息，风险偏向于稍后采取行动</title>
+      <link>https://www.reuters.com/markets/rates-bonds/fed-cut-us-rates-june-risks-skewed-towards-later-move-2024-02-20/</link>
+      <description><![CDATA[路透社调查的经济学家以微弱多数表示，美联储将在 6 月份下调联邦基金利率，他们还表示，更大的风险是首次降息的时间将晚于预期而不是更早。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/fed-cut-us-rates-june-risks-skewed-towards-later-move-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 13:44:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>CenterPoint 以 12 亿美元出售路易斯安那州和密西西比州天然气资产</title>
+      <link>https://www.reuters.com/business/energy/centerpoint-sell-louisiana-mississippi-natgas-assets-12-bln-2024-02-20/</link>
+      <description><![CDATA[CenterPoint Energy周二表示，将以12亿美元的价格将其在路易斯安那州和密西西比州的天然气资产出售给Bernhard Capital Partners，因为这家电力和天然气公用事业公司计划专注于其受监管的业务。]]></description>
+      <guid>https://www.reuters.com/business/energy/centerpoint-sell-louisiana-mississippi-natgas-assets-12-bln-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 13:35:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大通胀率放缓增强了对提前降息的押注</title>
+      <link>https://www.reuters.com/world/americas/canadas-inflation-rate-drops-more-than-expected-29-january-2024-02-20/</link>
+      <description><![CDATA[周二数据显示，加拿大1月份年度通胀率显着放缓至2.9%，且核心价格指标也有所放松，提前降息的预期有所提前。]]></description>
+      <guid>https://www.reuters.com/world/americas/canadas-inflation-rate-drops-more-than-expected-29-january-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 13:34:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国房地产贷款机构 PBB 和遭受危机打击的美国市场</title>
       <link>https://www.reuters.com/markets/german-property-lender-pbb-crisis-hit-us-market-2024-02-20/</link>
       <description><![CDATA[Deutsche Pfandbriefbank (PBB) 是德国顶级房地产金融机构之一，其历史可追溯至 1860 年代，并于 2009 年获得政府救助，目前正在应对所谓的“金融危机以来最严重的房地产危机”。]]></description>
       <guid>https://www.reuters.com/markets/german-property-lender-pbb-crisis-hit-us-market-2024-02-20/</guid>
@@ -20,95 +83,32 @@
       <pubDate>Tue, 20 Feb 2024 13:00:20 GMT</pubDate>
     </item>
     <item>
-      <title>投资者等待国内通胀数据，多伦多证券交易所期货持平</title>
-      <link>https://www.reuters.com/business/tsx-futures-flat-investors-await-domestic-inflation-data-2024-02-20/</link>
-      <description><![CDATA[周二加拿大主要股指期货持平，尽管基本金属和贵金属价格上涨，但投资者在国内关键通胀数据公布前仍保持谨慎态度。]]></description>
-      <guid>https://www.reuters.com/business/tsx-futures-flat-investors-await-domestic-inflation-data-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 12:57:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅西百货获得 Arkhouse Management 董事提名</title>
+      <title>Arkhouse 力争董事会席位，梅西百货面临代理权之争</title>
       <link>https://www.reuters.com/business/retail-consumer/macys-gets-director-nominations-hedge-fund-arkhouse-management-2024-02-20/</link>
-      <description><![CDATA[梅西百货周二表示，在拒绝投资公司 58 亿美元的收购报价后，Arkhouse Management 已提名 9 名人士竞选百货公司董事会董事。]]></description>
+      <description><![CDATA[梅西百货 (Macy&#39;s) 周二表示，投资者 Arkhouse Management 已提名 9 人进入其董事会，就在该百货公司拒绝 58 亿美元的私有化收购报价一个月后，引发了一场代理权争夺战。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/macys-gets-director-nominations-hedge-fund-arkhouse-management-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:46:25 GMT</pubDate>
     </item>
     <item>
-      <title>意大利 KME 与美国 SEDA 签署协议，Cunova 子公司将在纽约证券交易所上市</title>
-      <link>https://www.reuters.com/markets/deals/italys-kme-signs-deal-with-us-seda-list-cunova-unit-nyse-2024-02-20/</link>
-      <description><![CDATA[意大利铜和铜合金生产商 KME 周二表示，已签署一项股权交易协议，旨在将其 Cunova 部门在纽约证券交易所 (NYSE) 上市。]]></description>
-      <guid>https://www.reuters.com/markets/deals/italys-kme-signs-deal-with-us-seda-list-cunova-unit-nyse-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 12:41:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔玛超出销售预期，宣布以 23 亿美元收购 Vizio</title>
+      <title>沃尔玛盈利亮眼，准备斥资 23 亿美元收购 Vizio</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</link>
-      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
+      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通货膨胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:15:25 GMT</pubDate>
     </item>
     <item>
-      <title>标准普尔全球将收购 Visible Alpha；探索 Fincentric 的选择</title>
+      <title>S&P Global 将收购 Visible Alpha，最新推动数据主导地位</title>
       <link>https://www.reuters.com/markets/deals/sp-global-buy-visible-alpha-undisclosed-sum-2024-02-20/</link>
-      <description><![CDATA[数据提供商 S&amp;P Global 周二表示，计划收购金融技术提供商 Visible Alpha，收购金额未公开。]]></description>
+      <description><![CDATA[标准普尔全球公司周二表示，已同意以未公开的金额收购共识提供商 Visible Alpha，这是这家商业智能公司向数据巨头扩张的最新交易。]]></description>
       <guid>https://www.reuters.com/markets/deals/sp-global-buy-visible-alpha-undisclosed-sum-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>巴西矿商淡水河谷希望在其运营中使用更多电池系统</title>
-      <link>https://www.reuters.com/markets/commodities/brazil-miner-vale-eyes-more-battery-systems-its-operations-2024-02-20/</link>
-      <description><![CDATA[矿业巨头淡水河谷公司能源和脱碳总监卢德米拉·纳西门托(Ludmila Nascimento)表示，该公司正在考虑扩大工业电池的使用，为港口和采矿场供电，此举将推动巴西仍处于早期阶段的行业发展。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/brazil-miner-vale-eyes-more-battery-systems-its-operations-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 12:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于心脏设备需求强劲，美敦力上调年度利润预测</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/medtronic-beats-profit-estimates-strong-demand-heart-devices-2024-02-20/</link>
-      <description><![CDATA[医疗设备制造商美敦力 (Medtronic) 周二第三次上调年度利润预期，这是其本财年第三次上调年度利润预期，寄望于其心脏和糖尿病设备的需求增加，导致该公司股价在盘前交易中上涨近 4%。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/medtronic-beats-profit-estimates-strong-demand-heart-devices-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 11:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>CenterPoint 以 12 亿美元出售路易斯安那州和密西西比州天然气资产</title>
-      <link>https://www.reuters.com/business/energy/centerpoint-sell-natgas-assets-louisiana-mississippi-12-bln-2024-02-20/</link>
-      <description><![CDATA[电力和天然气公用事业公司 CenterPoint Energy 周二表示，将以 12 亿美元的价格将其在路易斯安那州和密西西比州的天然气资产出售给 Bernhard Capital Partners。]]></description>
-      <guid>https://www.reuters.com/business/energy/centerpoint-sell-natgas-assets-louisiana-mississippi-12-bln-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 11:40:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>零售商 Loblaw 预计将在加拿大投资 15 亿加元，创造 7,500 个就业机会</title>
-      <link>https://www.reuters.com/business/retail-consumer/canadian-retailer-loblaw-expects-invest-15-bln-create-7500-jobs-2024-02-20/</link>
-      <description><![CDATA[加拿大食品和药品零售商 Loblaw Companies 周二表示，预计今年将投资超过 20 亿加元（14.8 亿美元），创造超过 7,500 个就业岗位。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/canadian-retailer-loblaw-expects-invest-15-bln-create-7500-jobs-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 11:28:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭发动机需求激增促使五角大楼从小型大熊座采购</title>
-      <link>https://www.reuters.com/business/aerospace-defense/surging-rocket-motor-demand-drives-pentagon-buy-tiny-ursa-major-2024-02-20/</link>
-      <description><![CDATA[据两位知情人士透露，为了满足固体燃料火箭发动机不断增长的需求，五角大楼即将向未经测试的私营初创公司 Ursa Major 提供新发动机合同。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/surging-rocket-motor-demand-drives-pentagon-buy-tiny-ursa-major-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 11:22:34 GMT</pubDate>
-    </item>
-    <item>
       <title>由于需求未能回升，家得宝 (Home Depot) 预测 2024 年业绩疲软</title>
       <link>https://www.reuters.com/business/retail-consumer/home-depot-forecasts-2024-sales-below-estimates-slowing-demand-2024-02-20/</link>
-      <description><![CDATA[家得宝周二预测全年业绩低于分析师预期，这表明随着人们在通胀高企的情况下收紧家居装修支出，今年需求低迷将继续影响该公司。]]></description>
+      <description><![CDATA[家得宝周二预测全年业绩低于分析师预期，这表明今年需求低迷将继续给该公司带来压力，因为人们在通胀高涨的情况下收紧房屋装修支出。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/home-depot-forecasts-2024-sales-below-estimates-slowing-demand-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 11:12:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>NYCB 股市暴跌促使美国银行监管机构进行健康检查</title>
-      <link>https://www.reuters.com/business/finance/nycb-stock-rout-prompts-us-bank-regulators-conduct-health-checks-2024-02-20/</link>
-      <description><![CDATA[几位消息人士称，美国银行业监管机构一直在询问地区银行是否面临纽约社区银行问题的任何影响，这表明对该行业健康状况的担忧依然存在。]]></description>
-      <guid>https://www.reuters.com/business/finance/nycb-stock-rout-prompts-us-bank-regulators-conduct-health-checks-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 11:08:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：利率焦虑、中国降息和信用卡交易</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-20/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 11:06:30 GMT</pubDate>
     </item>
     <item>
       <title>英伟达取代特斯拉成为华尔街交易量最大的股票</title>
@@ -120,14 +120,14 @@
     <item>
       <title>Capital One 350 亿美元交易推动金融股上涨，支付处理商下跌</title>
       <link>https://www.reuters.com/markets/deals/discover-financial-stock-surges-after-capital-one-strikes-353-bln-buyout-deal-2024-02-20/</link>
-      <description><![CDATA[在美国银行第一资本 (Capital One) 以 353 亿美元收购信用卡发行商后，发现金融 (Discover Financial) 股价周二盘前上涨 13%，而顶级支付处理商则因押注其占据巨大市场份额的行业将发生重组而下跌。]]></description>
+      <description><![CDATA[分析师周二表示，第一资本金融公司 (Capital One Financial) 以 353 亿美元收购信用卡发行商 Discover Financial 的交易可能会从 Visa 和 Mastercard 主导的支付处理市场中分得一大部分。]]></description>
       <guid>https://www.reuters.com/markets/deals/discover-financial-stock-surges-after-capital-one-strikes-353-bln-buyout-deal-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 10:24:13 GMT</pubDate>
     </item>
     <item>
       <title>美国资产管理公司已准备好产品迎接中国复苏</title>
       <link>https://www.reuters.com/markets/us-asset-managers-ready-turn-china-sentiment-with-products-stacked-up-2024-02-20/</link>
-      <description><![CDATA[中国市场连续三年下跌以及华盛顿的反北京言论并没有阻止一些美国资产管理公司推出他们希望在中国股市反弹时能够蓬勃发展的产品。]]></description>
+      <description><![CDATA[中国市场连续三年的下跌以及华盛顿的反北京言论并没有阻止一些美国资产管理公司推出他们希望在中国股市反弹时能够蓬勃发展的产品。]]></description>
       <guid>https://www.reuters.com/markets/us-asset-managers-ready-turn-china-sentiment-with-products-stacked-up-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 06:08:30 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>欧洲和日本股市徘徊在历史高位附近，中国降息引起人们的关注</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-20/</link>
-      <description><![CDATA[周二，欧洲股市徘徊在历史高点附近，而欧元区工资数据对陷入困境的政府债券几乎没有什么影响，而亚洲股市则因中国创纪录的降息未能激发投资者的兴趣而下跌。]]></description>
+      <description><![CDATA[欧洲股市周二徘徊在历史高点附近，而欧元区工资数据对陷入困境的政府债券几乎没有什么影响，亚洲股市下跌，因为中国创纪录的降息未能激发投资者的兴趣。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 02:04:46 GMT</pubDate>
     </item>
