@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 22:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 22:33:37 GMT</lastBuildDate>
     <item>
       <title>由于波音延误，联合航空将更多地依赖 MAX 9 和空客 A321</title>
       <link>https://www.reuters.com/business/aerospace-defense/united-airlines-lean-more-max-9-airbus-a321-amid-boeing-delays-2024-02-20/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>音乐厂牌UMG将以2.4亿美元收购Chord Music Partners少数股权</title>
       <link>https://www.reuters.com/markets/deals/music-label-umg-buy-minority-stake-chord-music-partners-240-mln-2024-02-20/</link>
-      <description><![CDATA[环球音乐集团周二表示，将以 2.4 亿美元收购 Chord Music Partners 25.8% 的股份，这笔交易将使投资公司 KKR 从这家音乐目录所有者的资本中退出。]]></description>
+      <description><![CDATA[环球音乐集团周二表示，将以 2.4 亿美元收购 Chord Music Partners 25.8% 的股份，这笔交易将使投资公司 KKR 从音乐目录所有者的资本中退出。]]></description>
       <guid>https://www.reuters.com/markets/deals/music-label-umg-buy-minority-stake-chord-music-partners-240-mln-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 18:12:40 GMT</pubDate>
     </item>
@@ -57,14 +57,14 @@
     <item>
       <title>英伟达的股价在季度报告发布前大幅上涨</title>
       <link>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</link>
-      <description><![CDATA[英伟达股价今年的强劲涨势在周二停止，因为投资者担心这家雄心勃勃的芯片设计公司的季度业绩能否证明其高估值是合理的。]]></description>
+      <description><![CDATA[英伟达股价今年的强劲涨势在周二停止，因为投资者担心这家芯片设计公司的季度业绩能否证明其高估值是合理的。]]></description>
       <guid>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 16:53:19 GMT</pubDate>
     </item>
     <item>
       <title>据 The Information 报道，微软开发人工智能服务器设备以减少对 Nvidia 的依赖</title>
       <link>https://www.reuters.com/technology/microsoft-develops-ai-server-gear-lessen-reliance-nvidia-information-reports-2024-02-20/</link>
-      <description><![CDATA[据 The Information 周二报道，微软正在开发一款新的网卡，可以提高其 Maia AI 服务器芯片的性能，并有可能减少该公司对芯片设计商 Nvidia 的依赖。]]></description>
+      <description><![CDATA[据《The Information》周二报道，微软正在开发一款新的网卡，可以提高其 Maia AI 服务器芯片的性能，并有可能减少该公司对芯片设计商 Nvidia 的依赖。]]></description>
       <guid>https://www.reuters.com/technology/microsoft-develops-ai-server-gear-lessen-reliance-nvidia-information-reports-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 16:30:42 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>沃尔玛准备进行 23 亿美元的 Vizio 交易，价格敏感的购物者提振了其盈利</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</link>
-      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
+      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通货膨胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:15:25 GMT</pubDate>
     </item>
