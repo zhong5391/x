@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 19:58:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 20:20:43 GMT</lastBuildDate>
     <item>
-      <title>独家：消息人士称，西方石油公司正在探索以超过 180 亿美元的价格出售 Western Midstream</title>
+      <title>由于波音延误，联合航空将更多地依赖 MAX 9 和空客 A321</title>
+      <link>https://www.reuters.com/business/aerospace-defense/united-airlines-lean-more-max-9-airbus-a321-amid-boeing-delays-2024-02-20/</link>
+      <description><![CDATA[联合航空首席财务官 Mike Leskinen 周二表示，在没有 MAX 10 的情况下，联合航空将更多地依赖波音 737 MAX 9 和空客 A321 飞机来实现其增长计划。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/united-airlines-lean-more-max-9-airbus-a321-amid-boeing-delays-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 19:14:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>音乐厂牌UMG将以2.4亿美元收购Chord Music Partners少数股权</title>
+      <link>https://www.reuters.com/markets/deals/music-label-umg-buy-minority-stake-chord-music-partners-240-mln-2024-02-20/</link>
+      <description><![CDATA[环球音乐集团周二表示，将以 2.4 亿美元收购 Chord Music Partners 25.8% 的股份，这笔交易将使投资公司 KKR 从音乐目录所有者的资本中退出。]]></description>
+      <guid>https://www.reuters.com/markets/deals/music-label-umg-buy-minority-stake-chord-music-partners-240-mln-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 18:12:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴克莱绘制了通往更简单、更强大未来的不确定路线</title>
+      <link>https://www.reuters.com/business/finance/barclays-maps-uncertain-route-simpler-stronger-future-2024-02-20/</link>
+      <description><![CDATA[巴克莱银行公布了自 2016 年以来最大规模的改革，试图安抚寻求更清晰途径获得波动性较小回报的投资者。]]></description>
+      <guid>https://www.reuters.com/business/finance/barclays-maps-uncertain-route-simpler-stronger-future-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 18:06:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储加息后，利率期权市场对美国硬着陆的押注增加</title>
+      <link>https://www.reuters.com/markets/us/us-hard-landing-bets-rise-rate-options-market-after-fed-hikes-2024-02-20/</link>
+      <description><![CDATA[利率期权投资者正在为受益于美国经济急剧放缓的交易付出代价，这与许多债券市场参与者所持有的乐观前景相反。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-hard-landing-bets-rise-rate-options-market-after-fed-hikes-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:47:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：消息人士称，西方石油公司正在探索以 200 亿美元以上的价格出售 Western Midstream</title>
       <link>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</link>
-      <description><![CDATA[据知情人士透露，西方石油公司正在考虑出售 Western Midstream Partners ，这是一家专注于美国天然气的管道运营商，其市值（包括债务）超过 180 亿美元。]]></description>
+      <description><![CDATA[据知情人士透露，西方石油公司正在考虑出售 Western Midstream Partners ，这是一家专注于美国天然气的管道运营商，其市值（包括债务）接近 200 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 17:07:38 GMT</pubDate>
     </item>
@@ -29,7 +57,7 @@
     <item>
       <title>英伟达的股价在季度报告发布前大幅上涨</title>
       <link>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</link>
-      <description><![CDATA[英伟达股价今年的强劲涨势在周二停止，因为投资者担心这家雄心勃勃的芯片设计公司的季度业绩能否证明其高估值是合理的。]]></description>
+      <description><![CDATA[英伟达股价今年的强劲涨势在周二停止，因为投资者担心这家芯片设计公司的季度业绩能否证明其高估值是合理的。]]></description>
       <guid>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 16:53:19 GMT</pubDate>
     </item>
@@ -48,32 +76,11 @@
       <pubDate>Tue, 20 Feb 2024 16:16:13 GMT</pubDate>
     </item>
     <item>
-      <title>领先经济指数不再预示美国经济衰退 - 会议委员会</title>
+      <title>世界大型企业联合会放弃美国经济衰退呼吁</title>
       <link>https://www.reuters.com/world/us/leading-economic-index-no-longer-signals-us-recession-conference-board-2024-02-20/</link>
-      <description><![CDATA[该商业研究组织周二表示，尽管该指数在 1 月份连续 23 个月下跌，但该指数自 2022 年夏季以来首次不再预示美国经济即将出现衰退。]]></description>
+      <description><![CDATA[世界大型企业联合会周二放弃了长期以来对美国经济陷入衰退的呼吁，尽管其领先经济指数仍认为未来几个月经济产出将持平。]]></description>
       <guid>https://www.reuters.com/world/us/leading-economic-index-no-longer-signals-us-recession-conference-board-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 15:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>福特将电动野马 Mach-E 降价高达 8,100 美元</title>
-      <link>https://www.reuters.com/business/autos-transportation/ford-cuts-prices-all-variants-mustang-mach-e-electric-suv-2024-02-20/</link>
-      <description><![CDATA[福特汽车公司周二表示，在 1 月份销量大幅下滑后，该公司已将 Mustang Mach-E 电动 SUV 的价格下调最多 8,100 美元。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/ford-cuts-prices-all-variants-mustang-mach-e-electric-suv-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 15:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>世贸组织专家组就美国遵守西班牙橄榄关税裁决作出裁决</title>
-      <link>https://www.reuters.com/markets/commodities/wto-panel-issues-ruling-us-compliance-with-spanish-olive-duties-ruling-2024-02-20/</link>
-      <description><![CDATA[世界贸易组织周二就美国遵守西班牙橄榄关税裁决作出裁决。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/wto-panel-issues-ruling-us-compliance-with-spanish-olive-duties-ruling-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 15:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>据《图片报》报道，奥迪董事长希望解雇首席技术官</title>
-      <link>https://www.reuters.com/business/autos-transportation/audi-head-wants-sack-chief-tech-officer-reports-bild-2024-02-20/</link>
-      <description><![CDATA[德国《图片报》周二援引接近奥迪公司的消息人士的话报道称，奥迪首席执行官格诺特·多尔纳 (Gernot Doellner) 希望解雇该公司的首席技术官奥利弗·霍夫曼 (Oliver Hoffmann)。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/audi-head-wants-sack-chief-tech-officer-reports-bild-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 15:27:09 GMT</pubDate>
     </item>
     <item>
       <title>美国最高法院不会复审苹果公司赢得 5.03 亿美元专利裁决</title>
@@ -99,7 +106,7 @@
     <item>
       <title>沃尔玛准备进行 23 亿美元的 Vizio 交易，价格敏感的购物者提振了其盈利</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</link>
-      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
+      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通货膨胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:15:25 GMT</pubDate>
     </item>
@@ -130,13 +137,6 @@
       <description><![CDATA[2020 年 4 月，一枚中国火箭发射后不久出现故障，摧毁了印度尼西亚耗资 2.2 亿美元的 Nusantara-2 卫星，这对该群岛加强通信网络的努力是一个打击。但这为一个人提供了一个机会。]]></description>
       <guid>https://www.reuters.com/technology/space/how-chinese-rocket-failure-boosted-elon-musks-spacex-indonesia-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 02:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>降息预期迅速消退，美元、股市下滑</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-20/</link>
-      <description><![CDATA[周二，美元走软，华尔街和欧洲股市下跌，因央行很快降息的乐观情绪消退打压市场情绪，泛欧和日本主要股指未能突破历史新高。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 02:04:46 GMT</pubDate>
     </item>
     <item>
       <title>2024 年的预期：美联储转向、通胀降温、增长放缓</title>
