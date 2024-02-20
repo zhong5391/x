@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 15:48:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2024 18:42:47 GMT</lastBuildDate>
+    <item>
+      <title>独家：消息人士称，西方石油公司正在探索以超过 180 亿美元的价格出售 Western Midstream</title>
+      <link>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</link>
+      <description><![CDATA[据知情人士透露，西方石油公司正在考虑出售 Western Midstream Partners ，这是一家专注于美国天然气的管道运营商，其市值（包括债务）超过 180 亿美元。]]></description>
+      <guid>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:07:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>玻利维亚公布措施应对日益加剧的美元危机</title>
+      <link>https://www.reuters.com/markets/currencies/bolivia-unveils-measures-tackle-sharpening-dollar-crisis-2024-02-20/</link>
+      <description><![CDATA[玻利维亚政府周二制定了一系列刺激投资和出口的措施，试图扭转因美元短缺而导致货架空空如也、工人拿不到工资的情况。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/bolivia-unveils-measures-tackle-sharpening-dollar-crisis-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 17:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国航空时隔五年提高行李费</title>
+      <link>https://www.reuters.com/business/aerospace-defense/american-airlines-raises-bag-fee-after-five-years-2024-02-20/</link>
+      <description><![CDATA[美国航空周二表示，该公司将提高 2 月 20 日或之后预订的旅行行李的托运行李价格。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/american-airlines-raises-bag-fee-after-five-years-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 16:58:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达的股价在季度报告发布前大幅上涨</title>
+      <link>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</link>
+      <description><![CDATA[英伟达股价今年的强劲涨势在周二停止，因为投资者担心这家雄心勃勃的芯片设计公司的季度业绩能否证明其高估值是合理的。]]></description>
+      <guid>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 16:53:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>据 The Information 报道，微软开发人工智能服务器设备以减少对 Nvidia 的依赖</title>
+      <link>https://www.reuters.com/technology/microsoft-develops-ai-server-gear-lessen-reliance-nvidia-information-reports-2024-02-20/</link>
+      <description><![CDATA[据《The Information》周二报道，微软正在开发一款新的网卡，可以提高其 Maia AI 服务器芯片的性能，并有可能减少该公司对芯片设计商 Nvidia 的依赖。]]></description>
+      <guid>https://www.reuters.com/technology/microsoft-develops-ai-server-gear-lessen-reliance-nvidia-information-reports-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 16:30:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>通用汽车因软件问题暂停销售新款中型科罗拉多州和峡谷卡车</title>
+      <link>https://www.reuters.com/business/autos-transportation/gm-pauses-sales-new-mid-size-colorado-canyon-trucks-over-software-issue-2024-02-20/</link>
+      <description><![CDATA[通用汽车周二表示，已暂时停止销售 2024 年款雪佛兰 Colorado 和 GMC Canyon 中型卡车，以解决间歇性的软件质量问题。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/gm-pauses-sales-new-mid-size-colorado-canyon-trucks-over-software-issue-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 16:16:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>领先经济指数不再预示美国经济衰退 - 会议委员会</title>
+      <link>https://www.reuters.com/world/us/leading-economic-index-no-longer-signals-us-recession-conference-board-2024-02-20/</link>
+      <description><![CDATA[该商业研究组织周二表示，尽管该指数在 1 月份连续 23 个月下跌，但该指数自 2022 年夏季以来首次不再预示美国经济即将出现衰退。]]></description>
+      <guid>https://www.reuters.com/world/us/leading-economic-index-no-longer-signals-us-recession-conference-board-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:47:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>福特将电动野马 Mach-E 降价高达 8,100 美元</title>
+      <link>https://www.reuters.com/business/autos-transportation/ford-cuts-prices-all-variants-mustang-mach-e-electric-suv-2024-02-20/</link>
+      <description><![CDATA[福特汽车公司周二表示，在 1 月份销量大幅下滑后，该公司已将 Mustang Mach-E 电动 SUV 的价格下调最多 8,100 美元。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ford-cuts-prices-all-variants-mustang-mach-e-electric-suv-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:41:09 GMT</pubDate>
+    </item>
     <item>
       <title>世贸组织专家组就美国遵守西班牙橄榄关税裁决作出裁决</title>
       <link>https://www.reuters.com/markets/commodities/wto-panel-issues-ruling-us-compliance-with-spanish-olive-duties-ruling-2024-02-20/</link>
@@ -15,7 +71,7 @@
     <item>
       <title>据《图片报》报道，奥迪董事长希望解雇首席技术官</title>
       <link>https://www.reuters.com/business/autos-transportation/audi-head-wants-sack-chief-tech-officer-reports-bild-2024-02-20/</link>
-      <description><![CDATA[据《图片报》周二援引接近奥迪公司的消息人士的话报道，奥迪首席执行官格诺特·多尔纳 (Gernot Doellner) 希望解雇该公司的首席技术官奥利弗·霍夫曼 (Oliver Hoffmann)。]]></description>
+      <description><![CDATA[德国《图片报》周二援引接近奥迪公司的消息人士的话报道称，奥迪首席执行官格诺特·多尔纳 (Gernot Doellner) 希望解雇该公司的首席技术官奥利弗·霍夫曼 (Oliver Hoffmann)。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/audi-head-wants-sack-chief-tech-officer-reports-bild-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 15:27:09 GMT</pubDate>
     </item>
@@ -27,25 +83,11 @@
       <pubDate>Tue, 20 Feb 2024 15:19:44 GMT</pubDate>
     </item>
     <item>
-      <title>特拉华州法院允许 TripAdvisor 在内华达州重新注册</title>
-      <link>https://www.reuters.com/markets/deals/delaware-court-allows-tripadvisor-reincorporate-nevada-2024-02-20/</link>
-      <description><![CDATA[特拉华州的一名法官周二表示，TripAdvisor 可以继续其迁往内华达州的计划，不过股东也可以提起诉讼，指控此举不公平地使这家在线旅游咨询网站的控股股东受益。]]></description>
-      <guid>https://www.reuters.com/markets/deals/delaware-court-allows-tripadvisor-reincorporate-nevada-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 15:00:17 GMT</pubDate>
-    </item>
-    <item>
       <title>威尔·史密斯 (Will Smith) 支持的 Arc 推出面向大众市场的电动运动船，售价 258,000 美元</title>
       <link>https://www.reuters.com/business/will-smith-backed-arc-launches-mass-market-electric-sport-boat-258000-2024-02-20/</link>
       <description><![CDATA[总部位于洛杉矶的初创公司 Arc 周二推出了一款新的大众市场电动运动船，几个月前，该公司得到了篮球运动员凯文·杜兰特和好莱坞明星威尔·史密斯的支持，筹集了 7000 万美元的早期资金。]]></description>
       <guid>https://www.reuters.com/business/will-smith-backed-arc-launches-mass-market-electric-sport-boat-258000-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 14:17:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ancora Holdings 领导的投资者团体推荐 UPS 前高管担任首席执行官</title>
-      <link>https://www.reuters.com/business/investor-group-led-by-ancora-holdings-recommends-former-ups-executive-ceo-2024-02-20/</link>
-      <description><![CDATA[以 Ancora Holdings 为首的一群投资者周二表示，他们已推荐吉姆·巴伯 (Jim Barber) 担任诺福克南方铁路公司的首席执行官，并提名了该铁路运营商董事会的八名候选人。]]></description>
-      <guid>https://www.reuters.com/business/investor-group-led-by-ancora-holdings-recommends-former-ups-executive-ceo-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 14:09:06 GMT</pubDate>
     </item>
     <item>
       <title>路透调查显示美联储将于六月降息，风险偏向于稍后采取行动</title>
@@ -55,44 +97,9 @@
       <pubDate>Tue, 20 Feb 2024 13:44:22 GMT</pubDate>
     </item>
     <item>
-      <title>CenterPoint 以 12 亿美元出售路易斯安那州和密西西比州天然气资产</title>
-      <link>https://www.reuters.com/business/energy/centerpoint-sell-louisiana-mississippi-natgas-assets-12-bln-2024-02-20/</link>
-      <description><![CDATA[CenterPoint Energy周二表示，将以12亿美元的价格将其在路易斯安那州和密西西比州的天然气资产出售给Bernhard Capital Partners，因为这家电力和天然气公用事业公司计划专注于其受监管的业务。]]></description>
-      <guid>https://www.reuters.com/business/energy/centerpoint-sell-louisiana-mississippi-natgas-assets-12-bln-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大通胀率放缓增强了对提前降息的押注</title>
-      <link>https://www.reuters.com/world/americas/canadas-inflation-rate-drops-more-than-expected-29-january-2024-02-20/</link>
-      <description><![CDATA[周二数据显示，加拿大1月份年度通胀率显着放缓至2.9%，且核心价格指标也有所放松，提前降息的预期有所提前。]]></description>
-      <guid>https://www.reuters.com/world/americas/canadas-inflation-rate-drops-more-than-expected-29-january-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国房地产贷款机构 PBB 和遭受危机打击的美国市场</title>
-      <link>https://www.reuters.com/markets/german-property-lender-pbb-crisis-hit-us-market-2024-02-20/</link>
-      <description><![CDATA[Deutsche Pfandbriefbank (PBB) 是德国顶级房地产金融机构之一，其历史可追溯至 1860 年代，并于 2009 年获得政府救助，目前正在应对所谓的“金融危机以来最严重的房地产危机”。]]></description>
-      <guid>https://www.reuters.com/markets/german-property-lender-pbb-crisis-hit-us-market-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚超市盈利凸显利润率和成本压力</title>
-      <link>https://www.reuters.com/business/retail-consumer/australia-supermarket-earnings-shine-light-margins-cost-pressures-2024-02-20/</link>
-      <description><![CDATA[投资者将解析本月澳大利亚两家最大超市运营商的盈利更新，以了解未来成本和利润压力迹象的方向。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/australia-supermarket-earnings-shine-light-margins-cost-pressures-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arkhouse 力争董事会席位，梅西百货面临代理权之争</title>
-      <link>https://www.reuters.com/business/retail-consumer/macys-gets-director-nominations-hedge-fund-arkhouse-management-2024-02-20/</link>
-      <description><![CDATA[梅西百货 (Macy&#39;s) 周二表示，投资者 Arkhouse Management 已提名 9 人进入其董事会，就在该百货公司拒绝 58 亿美元的私有化收购报价一个月后，引发了一场代理权争夺战。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/macys-gets-director-nominations-hedge-fund-arkhouse-management-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 12:46:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔玛盈利亮眼，准备斥资 23 亿美元收购 Vizio</title>
+      <title>沃尔玛准备进行 23 亿美元的 Vizio 交易，价格敏感的购物者提振了其盈利</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</link>
-      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通货膨胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
+      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:15:25 GMT</pubDate>
     </item>
@@ -104,13 +111,6 @@
       <pubDate>Tue, 20 Feb 2024 12:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>由于需求未能回升，家得宝 (Home Depot) 预测 2024 年业绩疲软</title>
-      <link>https://www.reuters.com/business/retail-consumer/home-depot-forecasts-2024-sales-below-estimates-slowing-demand-2024-02-20/</link>
-      <description><![CDATA[家得宝周二预测全年业绩低于分析师预期，这表明今年需求低迷将继续给该公司带来压力，因为人们在通胀高涨的情况下收紧房屋装修支出。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/home-depot-forecasts-2024-sales-below-estimates-slowing-demand-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 11:12:38 GMT</pubDate>
-    </item>
-    <item>
       <title>英伟达取代特斯拉成为华尔街交易量最大的股票</title>
       <link>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</link>
       <description><![CDATA[芯片制造商英伟达正在取代特斯拉成为华尔街交易量最大的股票，在成为美国第三大市值公司后，其地位进一步提升，并显示出更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
@@ -118,18 +118,11 @@
       <pubDate>Tue, 20 Feb 2024 11:02:58 GMT</pubDate>
     </item>
     <item>
-      <title>Capital One 350 亿美元交易推动金融股上涨，支付处理商下跌</title>
-      <link>https://www.reuters.com/markets/deals/discover-financial-stock-surges-after-capital-one-strikes-353-bln-buyout-deal-2024-02-20/</link>
-      <description><![CDATA[分析师周二表示，第一资本金融公司 (Capital One Financial) 以 353 亿美元收购信用卡发行商 Discover Financial 的交易可能会从 Visa 和 Mastercard 主导的支付处理市场中分得一大部分。]]></description>
-      <guid>https://www.reuters.com/markets/deals/discover-financial-stock-surges-after-capital-one-strikes-353-bln-buyout-deal-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 10:24:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国资产管理公司已准备好产品迎接中国复苏</title>
-      <link>https://www.reuters.com/markets/us-asset-managers-ready-turn-china-sentiment-with-products-stacked-up-2024-02-20/</link>
-      <description><![CDATA[中国市场连续三年的下跌以及华盛顿的反北京言论并没有阻止一些美国资产管理公司推出他们希望在中国股市反弹时能够蓬勃发展的产品。]]></description>
-      <guid>https://www.reuters.com/markets/us-asset-managers-ready-turn-china-sentiment-with-products-stacked-up-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 06:08:30 GMT</pubDate>
+      <title>英伟达股价下滑，纳斯达克指数领跌华尔街；沃尔玛创历史新高</title>
+      <link>https://www.reuters.com/markets/us/futures-slip-fading-rate-cut-hopes-retailers-earnings-focus-2024-02-20/</link>
+      <description><![CDATA[周二，以科技股为主的纳斯达克指数领跌华尔街，芯片制造商英伟达在其备受期待的盈利报告发布之前大幅下跌，而零售业领头羊沃尔玛的乐观预测限制了道琼斯指数的跌幅。]]></description>
+      <guid>https://www.reuters.com/markets/us/futures-slip-fading-rate-cut-hopes-retailers-earnings-focus-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 10:59:18 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克 (Elon Musk) 的 SpaceX 如何因中国火箭故障而在印度尼西亚大放异彩</title>
@@ -139,11 +132,18 @@
       <pubDate>Tue, 20 Feb 2024 02:06:34 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲和日本股市徘徊在历史高位附近，中国降息引起人们的关注</title>
+      <title>降息预期迅速消退，美元、股市下滑</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-20/</link>
-      <description><![CDATA[欧洲股市周二徘徊在历史高点附近，而欧元区工资数据对陷入困境的政府债券几乎没有什么影响，亚洲股市下跌，因为中国创纪录的降息未能激发投资者的兴趣。]]></description>
+      <description><![CDATA[周二，美元走软，华尔街和欧洲股市下跌，因央行很快降息的乐观情绪消退打压市场情绪，泛欧和日本主要股指未能突破历史新高。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 02:04:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年的预期：美联储转向、通胀降温、增长放缓</title>
+      <link>https://www.reuters.com/markets/what-expect-2024-fed-pivot-cooling-inflation-easing-growth-2024-01-15/</link>
+      <description><![CDATA[大型银行表示，今年全球经济增长可能会放缓，但美联储立场的鸽派倾斜给美国经济带来了希望，并提亮了风险资产的前景。]]></description>
+      <guid>https://www.reuters.com/markets/what-expect-2024-fed-pivot-cooling-inflation-easing-growth-2024-01-15/</guid>
+      <pubDate>Mon, 15 Jan 2024 16:07:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
