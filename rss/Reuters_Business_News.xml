@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 21 Feb 2024 18:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 18:58:34 GMT</lastBuildDate>
     <item>
       <title>切萨皮克称天然气市场供应过剩，计划削减产量和支出</title>
       <link>https://www.reuters.com/business/energy/chesapeake-says-natgas-market-oversupplied-plans-cut-output-spending-2024-02-21/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>新的 Arm 产品可加速定制数据中心芯片的创建</title>
       <link>https://www.reuters.com/technology/new-arm-offering-speed-creation-custom-data-center-chips-2024-02-21/</link>
-      <description><![CDATA[Arm Holdings 周三发布了一套新的芯片制造蓝图，据称可以将开发数据中心处理器所需的时间缩短到不到一年。]]></description>
+      <description><![CDATA[Arm Holdings 周三发布了一套新的芯片制造蓝图，据称可以将开发数据中心处理器所需的时间缩短至不到一年。]]></description>
       <guid>https://www.reuters.com/technology/new-arm-offering-speed-creation-custom-data-center-chips-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 16:07:02 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>纳斯达克指数在人工智能宠儿英伟达的业绩和美联储会议纪要之前暴跌</title>
       <link>https://www.reuters.com/markets/us/futures-dip-ahead-high-stakes-nvidia-results-fed-minutes-2024-02-21/</link>
-      <description><![CDATA[周三，以科技股为主的纳斯达克指数领跌华尔街，投资者等待英伟达的高风险盈利报告，如果业绩不理想，该报告可能会阻碍今年人工智能的繁荣，并等待美联储最新政策会议的纪要。]]></description>
+      <description><![CDATA[周三，以科技股为主的纳斯达克指数领跌华尔街，投资者等待英伟达的高风险收益报告，如果结果不理想，该报告可能会阻碍今年人工智能的繁荣，并等待美联储最新政策会议的纪要。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-dip-ahead-high-stakes-nvidia-results-fed-minutes-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 10:55:45 GMT</pubDate>
     </item>
