@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 21 Feb 2024 16:08:45 GMT</lastBuildDate>
-    <item>
-      <title>第一量子表示正在为巴拿马矿山关闭令寻求 200 亿美元的赔偿</title>
-      <link>https://www.reuters.com/markets/commodities/first-quantum-says-it-is-seeking-20-billion-over-panama-mine-closure-order-2024-02-21/</link>
-      <description><![CDATA[铜矿生产商第一量子矿业 (First Quantum Minerals) 周三表示，在巴拿马下令关闭该公司位于中美洲国家的矿山后，该公司正在通过国际仲裁寻求 200 亿美元的赔偿。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/first-quantum-says-it-is-seeking-20-billion-over-panama-mine-closure-order-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 14:50:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛佩斯迟到的点球让马里诺队进入亚洲冠军联赛八强</title>
-      <link>https://www.reuters.com/sports/soccer/late-lopes-penalty-moves-marinos-into-asian-champions-league-quarters-2024-02-21/</link>
-      <description><![CDATA[安德森·洛佩斯在第 122 分钟的点球让横滨水手队在周三最后时刻以 1-0 战胜曼谷联队，以总比分 3-2 获胜，将日本球队带入亚洲冠军联赛四分之一决赛。]]></description>
-      <guid>https://www.reuters.com/sports/soccer/late-lopes-penalty-moves-marinos-into-asian-champions-league-quarters-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 14:26:40 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 21 Feb 2024 17:20:57 GMT</lastBuildDate>
     <item>
       <title>世贸组织推动改革重重障碍</title>
       <link>https://www.reuters.com/business/world-trade-organizations-push-reform-plagued-by-obstacles-2024-02-21/</link>
@@ -27,9 +13,9 @@
       <pubDate>Wed, 21 Feb 2024 13:13:49 GMT</pubDate>
     </item>
     <item>
-      <title>独家：继华为Mate 60 Pro之后，美国瞄准中国顶级芯片制造厂</title>
+      <title>独家：消息人士称，继华为Mate 60 Pro之后，美国又瞄准了中国最大的芯片制造厂</title>
       <link>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</link>
-      <description><![CDATA[三名知情人士表示，拜登政府正在加大对中国最大受制裁芯片制造商的压力，在该公司为华为 Mate 60 Pro 手机生产先进芯片后，切断了该公司最先进的工厂从美国进口的产品。]]></description>
+      <description><![CDATA[三名知情人士表示，在这家为华为 Mate 60 Pro 手机生产先进芯片后，拜登政府正在加大对这家受制裁的中国顶级芯片制造商的压力，切断其最先进的工厂从美国进口更多产品的机会。]]></description>
       <guid>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 12:09:37 GMT</pubDate>
     </item>
@@ -41,7 +27,7 @@
       <pubDate>Wed, 21 Feb 2024 11:19:36 GMT</pubDate>
     </item>
     <item>
-      <title>早间竞价：英伟达在美联储会议纪要通过期间获利了结</title>
+      <title>早盘竞价：美联储会议纪要通过时，英伟达股价下跌</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-21/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-21/</guid>
@@ -50,7 +36,7 @@
     <item>
       <title>中印两军就边界问题举行“建设性”会晤</title>
       <link>https://www.reuters.com/world/asia-pacific/chinese-indian-militaries-hold-constructive-meeting-border-issues-ministry-2024-02-21/</link>
-      <description><![CDATA[中国国防部在一份声明中表示，中印两军周一就解决边界问题举行了建设性会议。]]></description>
+      <description><![CDATA[中国国防部在一份声明中表示，中印两军周一就解决边界问题举行了建设性会晤。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/chinese-indian-militaries-hold-constructive-meeting-border-issues-ministry-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 10:32:33 GMT</pubDate>
     </item>
@@ -64,7 +50,7 @@
     <item>
       <title>红海弹道导弹袭击引发亚洲对防御的兴趣</title>
       <link>https://www.reuters.com/world/asia-pacific/red-sea-ballistic-missile-attacks-trigger-asian-interest-defences-2024-02-21/</link>
-      <description><![CDATA[专家和行业官员表示，在红海使用反舰弹道导弹（ASBM）激发了亚洲对用于击落反舰弹道导弹的系统的兴趣，尽管中国拥有庞大的反舰弹道导弹武库，构成了更严峻的挑战。]]></description>
+      <description><![CDATA[专家和行业官员表示，在红海使用反舰弹道导弹（ASBM）激发了亚洲对击落反舰弹道导弹系统的兴趣，尽管中国拥有庞大的反舰弹道导弹武库，构成了更严峻的挑战。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/red-sea-ballistic-missile-attacks-trigger-asian-interest-defences-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 09:39:05 GMT</pubDate>
     </item>
@@ -85,7 +71,7 @@
     <item>
       <title>智库称中国儿童保育成本位居全球最高</title>
       <link>https://www.reuters.com/world/china/chinas-childcare-costs-among-highest-world-think-tank-2024-02-21/</link>
-      <description><![CDATA[中国一家著名智库周三表示，相对于人均国内生产总值而言，中国是世界上养育孩子成本最高的国家之一，同时详细介绍了选择在中国生孩子的女性的时间和机会成本。]]></description>
+      <description><![CDATA[中国一家著名智库周三表示，相对于人均国内生产总值而言，中国是世界上抚养孩子成本最高的国家之一，同时详细介绍了选择在中国生孩子的女性的时间和机会成本。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-childcare-costs-among-highest-world-think-tank-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 06:58:42 GMT</pubDate>
     </item>
@@ -118,9 +104,9 @@
       <pubDate>Wed, 21 Feb 2024 04:38:35 GMT</pubDate>
     </item>
     <item>
-      <title>汇丰银行股价下跌，创纪录利润因中国遭受30亿美元打击而受损</title>
+      <title>汇丰银行股价下跌，创纪录利润因中国遭受30亿美元打击</title>
       <link>https://www.reuters.com/business/finance/hsbc-full-year-profit-jumps-78-trailing-estimate-2024-02-21/</link>
-      <description><![CDATA[汇丰控股周三报告称，由于中国不良贷款不断增加，其在一家中国银行的股份被抵押了 30 亿美元，导致这家英国银行的股价暴跌，其创纪录的年度利润也黯然失色。]]></description>
+      <description><![CDATA[汇丰控股周三报告称，由于世界第二大经济体的不良贷款不断增加，其在一家中国银行的股份被抵押了30亿美元，使得创纪录的年度利润黯然失色。]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-full-year-profit-jumps-78-trailing-estimate-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 04:19:32 GMT</pubDate>
     </item>
@@ -144,6 +130,20 @@
       <description><![CDATA[周三，在英伟达发布财报之前，全球股市小幅走低，许多人预计该财报将证明围绕 2024 年人工智能驱动的涨势以及美联储 1 月份会议纪要的炒作是合理的。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 02:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>外交部长表示中方希望法国继续在稳定的中欧关系中发挥作用</title>
+      <link>https://www.reuters.com/world/china-hopes-france-continues-role-healthy-stable-sino-european-relations-foreign-2024-02-21/</link>
+      <description><![CDATA[中国外交部长王毅表示，中方希望法方继续为发展健康稳定的中欧关系发挥建设性作用，增进互信，促进利益融合。]]></description>
+      <guid>https://www.reuters.com/world/china-hopes-france-continues-role-healthy-stable-sino-european-relations-foreign-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 00:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国对美国否决以色列与哈马斯停火投票感到失望 - 官方媒体</title>
+      <link>https://www.reuters.com/world/china-disappointed-over-us-veto-israel-hamas-ceasefire-vote-xinhua-reports-2024-02-20/</link>
+      <description><![CDATA[新华社周三援引中国驻联合国代表张军的话说，中国对美国阻止联合国安理会关于以色列-哈马斯战争的决议草案表示“强烈失望”，该决议草案呼吁立即人道主义停火。]]></description>
+      <guid>https://www.reuters.com/world/china-disappointed-over-us-veto-israel-hamas-ceasefire-vote-xinhua-reports-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 23:44:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
