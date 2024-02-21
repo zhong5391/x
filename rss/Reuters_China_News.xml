@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 21 Feb 2024 07:43:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 08:39:28 GMT</lastBuildDate>
+    <item>
+      <title>智库称中国儿童保育成本位居全球最高</title>
+      <link>https://www.reuters.com/world/china/chinas-childcare-costs-among-highest-world-think-tank-2024-02-21/</link>
+      <description><![CDATA[中国一家著名智库周三表示，相对于人均国内生产总值而言，中国是世界上养育孩子成本最高的国家之一，同时详细介绍了选择在中国生孩子的女性的时间和机会成本。]]></description>
+      <guid>https://www.reuters.com/world/china/chinas-childcare-costs-among-highest-world-think-tank-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:58:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国游客涌向东南亚 澳大利亚惨遭淘汰</title>
+      <link>https://www.reuters.com/world/asia-pacific/australia-loses-out-chinese-tourists-flock-southeast-asia-2024-02-21/</link>
+      <description><![CDATA[旅行社和行业数据显示，随着中国游客涌入东南亚免签证国家，澳大利亚正在遭受损失，更多注重成本的大陆游客也选择离家更近、价格更便宜的目的地。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/australia-loses-out-chinese-tourists-flock-southeast-asia-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:13:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>快时尚Shein、Temu的崛起搅动全球航空货运业</title>
+      <link>https://www.reuters.com/business/retail-consumer/rise-fast-fashion-shein-temu-roils-global-air-cargo-industry-2024-02-21/</link>
+      <description><![CDATA[十多名行业消息人士称，Shein 和 Temu 等快时尚电子商务零售商的迅速崛起正在颠覆全球航空货运业，因为它们越来越多地争夺有限的航空货运空间，以快速的运输时间吸引消费者。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/rise-fast-fashion-shein-temu-roils-global-air-cargo-industry-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:05:17 GMT</pubDate>
+    </item>
     <item>
       <title>中国银行根据“白名单”项目批准170亿美元贷款 - 住房管理局</title>
       <link>https://www.reuters.com/world/china/chinese-banks-approve-17-bln-loans-under-whitelist-project-housing-authority-2024-02-21/</link>
@@ -13,14 +34,14 @@
       <pubDate>Wed, 21 Feb 2024 05:05:29 GMT</pubDate>
     </item>
     <item>
-      <title>北京因大雪封闭高速公路</title>
+      <title>大雪过后，中国首都关闭了高速公路</title>
       <link>https://www.reuters.com/world/china/beijing-shuts-highways-after-heavy-snowfall-2024-02-21/</link>
-      <description><![CDATA[由于夜间降雪量超出预期，北京于周三关闭了部分高速公路。]]></description>
+      <description><![CDATA[北京当局周三关闭了部分高速公路，此前中国首都遭遇了比预期更大的降雪，这是本周席卷中国许多地区的寒流的一部分。]]></description>
       <guid>https://www.reuters.com/world/china/beijing-shuts-highways-after-heavy-snowfall-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 04:38:35 GMT</pubDate>
     </item>
     <item>
-      <title>汇丰银行利润创历史新高，但因中国冲销而未达预期</title>
+      <title>汇丰银行30亿美元的中国减记额创下年度利润纪录</title>
       <link>https://www.reuters.com/business/finance/hsbc-full-year-profit-jumps-78-trailing-estimate-2024-02-21/</link>
       <description><![CDATA[汇丰控股公布了创纪录的年度利润，但仍低于分析师的预期，因为高利率带来的收入增长被其持有的一家中国银行股份的 30 亿美元巨额费用所抵消。]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-full-year-profit-jumps-78-trailing-estimate-2024-02-21/</guid>
@@ -41,9 +62,9 @@
       <pubDate>Wed, 21 Feb 2024 03:15:58 GMT</pubDate>
     </item>
     <item>
-      <title>由于早期降息押注失败，亚洲股市下跌，关注美联储会议纪要</title>
+      <title>投资者期待英伟达财报，中国提振亚洲股市</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-21/</link>
-      <description><![CDATA[亚洲股市周三走低，因美联储提前降息的预期减弱，削弱了风险偏好，投资者关注美联储上次会议纪要，寻找有关政策前景的线索。]]></description>
+      <description><![CDATA[由于政策制定者采取措施提振信心，中国市场周三提振亚洲股市，而在最近由人工智能驱动的全球疯狂上涨之后，英伟达即将公布的盈利让投资者感到紧张。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 02:28:43 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 11:06:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>共和党议员敦促拜登停用竞选 TikTok 账户</title>
-      <link>https://www.reuters.com/world/us/republican-lawmakers-urge-biden-deactivate-campaign-tiktok-account-2024-02-20/</link>
-      <description><![CDATA[由 18 名共和党议员组成的团体以国家安全为由，敦促总统乔·拜登停用其竞选团队的 TikTok 账户。]]></description>
-      <guid>https://www.reuters.com/world/us/republican-lawmakers-urge-biden-deactivate-campaign-tiktok-account-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 10:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>油价走低，需求担忧抵消了地缘政治价格支撑</title>
-      <link>https://www.reuters.com/markets/commodities/oil-prices-hold-near-3-week-highs-middle-east-tensions-china-demand-2024-02-20/</link>
-      <description><![CDATA[由于对全球需求的担忧抵消了以色列与哈马斯冲突对价格的支撑，油价周二走低。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/oil-prices-hold-near-3-week-highs-middle-east-tensions-china-demand-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 01:54:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>美元下跌，中国提振全球增长希望</title>
-      <link>https://www.reuters.com/markets/currencies/dollar-firms-past-150-yen-us-japan-rates-outlook-diverge-2024-02-20/</link>
-      <description><![CDATA[在中国降息以提振陷入困境的房地产市场后，美元周二走软，引发了人们对进一步刺激措施提振全球增长的希望。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/dollar-firms-past-150-yen-us-japan-rates-outlook-diverge-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 01:05:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
