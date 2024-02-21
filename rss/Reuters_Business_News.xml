@@ -1,58 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 20 Feb 2024 23:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 01:15:49 GMT</lastBuildDate>
     <item>
-      <title>澳大利亚杂货商 Woolworths 上半年利润增长 2.5%</title>
-      <link>https://www.reuters.com/business/retail-consumer/australian-grocer-woolworths-posts-25-rise-first-half-profit-2024-02-20/</link>
-      <description><![CDATA[周三，连锁超市 Woolworths Group 报告称，其上半年基本利润增长了 2.5%，这得益于其澳大利亚食品部门的强劲表现，但部分被其新西兰部门的严峻形势所抵消。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/australian-grocer-woolworths-posts-25-rise-first-half-profit-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 21:36:54 GMT</pubDate>
+      <title>澳洲航空任命约翰·马伦为新任董事长</title>
+      <link>https://www.reuters.com/business/aerospace-defense/qantas-appoints-john-mullen-chairman-elect-2024-02-20/</link>
+      <description><![CDATA[澳洲航空周三表示，约翰·马伦 (John Mullen) 将从 7 月 1 日起加入公司董事会，担任候任董事长，并在 10 月份的澳大利亚旗舰航空公司年度股东大会之前担任董事长。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/qantas-appoints-john-mullen-chairman-elect-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 23:43:14 GMT</pubDate>
     </item>
     <item>
-      <title>力拓与 Windlab 风电项目签署可再生能源采购协议</title>
-      <link>https://www.reuters.com/business/energy/rio-tinto-inks-renewable-power-purchase-deal-with-windlabs-wind-project-2024-02-20/</link>
-      <description><![CDATA[力拓公司周三表示，该公司已与专业可再生能源公司 Windlab 签署了可再生能源采购协议，购买其计划在昆士兰州建设的 1.4 吉瓦风能项目的大部分电力。]]></description>
-      <guid>https://www.reuters.com/business/energy/rio-tinto-inks-renewable-power-purchase-deal-with-windlabs-wind-project-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 21:33:49 GMT</pubDate>
+      <title>菲律宾宿务太平洋航空​​将决定第二季度 100 架窄体喷气式飞机订单是空客还是波音</title>
+      <link>https://www.reuters.com/business/aerospace-defense/philippines-cebu-pacific-decide-airbus-vs-boeing-100-narrowbody-jets-order-q2-2024-02-20/</link>
+      <description><![CDATA[菲律宾廉价航空公司宿雾太平洋航空​​公司首席执行官迈克尔·舒克斯 (Michael Szucs) 表示，该公司将在 5 月或 6 月决定是否选择空客公司或波音公司来订购去年签署的 100 多架窄体飞机订单。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/philippines-cebu-pacific-decide-airbus-vs-boeing-100-narrowbody-jets-order-q2-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 23:38:54 GMT</pubDate>
     </item>
     <item>
-      <title>澳大利亚国民银行季度利润因成本上升而下降</title>
-      <link>https://www.reuters.com/business/finance/national-australia-banks-quarterly-cash-profit-falls-3-compared-second-half-2024-02-20/</link>
-      <description><![CDATA[澳大利亚国民银行周三报告称，受成本压力上升和贷款竞争加剧的影响，与 2023 财年下半年的季度平均水平相比，其第一季度现金利润下降了 3%。]]></description>
-      <guid>https://www.reuters.com/business/finance/national-australia-banks-quarterly-cash-profit-falls-3-compared-second-half-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 21:09:07 GMT</pubDate>
+      <title>Public Storage 因租金收入增加而超过第四季度 FFO 预期</title>
+      <link>https://www.reuters.com/markets/us/public-storage-beats-fourth-quarter-ffo-estimates-higher-rent-income-2024-02-20/</link>
+      <description><![CDATA[公共存储公司周二公布的第四季度运营资金高于华尔街预期，因为其存储单元租金上涨抵消了入住率下降的影响。]]></description>
+      <guid>https://www.reuters.com/markets/us/public-storage-beats-fourth-quarter-ffo-estimates-higher-rent-income-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 22:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>切萨皮克能源报告季度利润下降</title>
+      <title>由于大宗商品价格疲软，澳大利亚桑托斯全年利润大幅下滑</title>
+      <link>https://www.reuters.com/markets/commodities/australias-santos-full-year-profit-plummets-42-weak-commodity-prices-2024-02-20/</link>
+      <description><![CDATA[周三，澳大利亚石油和天然气生产商桑托斯报告称，由于大宗商品价格持续疲软和产量下降，其年度基本利润下降了 42%。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/australias-santos-full-year-profit-plummets-42-weak-commodity-prices-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 22:32:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊将加入道琼斯工业平均指数</title>
+      <link>https://www.reuters.com/business/retail-consumer/amazon-set-join-dow-jones-index-2024-02-20/</link>
+      <description><![CDATA[标准普尔道琼斯指数周二表示，亚马逊 AMZN.O 将于 2 月 26 日加入道琼斯工业平均指数，取代沃尔格林博姿联盟。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/amazon-set-join-dow-jones-index-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 22:29:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>矿业公司第一量子第四季度出现亏损</title>
+      <link>https://www.reuters.com/markets/commodities/miner-first-quantums-fourth-quarter-profit-dips-2024-02-20/</link>
+      <description><![CDATA[铜矿生产商 First Quantum Minerals 周二公布第四季度净亏损，原因是其巴拿马 Cobre 矿关闭影响了产量，并且收取了与其镍矿开采业务相关的费用。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/miner-first-quantums-fourth-quarter-profit-dips-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 22:26:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>花旗集团将首席执行官简·弗雷泽 (Jane Fraser) 2023 年薪酬提高 6% 至 2600 万美元</title>
+      <link>https://www.reuters.com/business/finance/citigroup-lifts-ceo-jane-frasers-2023-pay-26-mln-2024-02-20/</link>
+      <description><![CDATA[花旗集团在周二提交的文件中表示，该银行将首席执行官简·弗雷泽 (Jane Fraser) 2023 年的薪酬提高了约 6%，达到 2600 万美元。]]></description>
+      <guid>https://www.reuters.com/business/finance/citigroup-lifts-ceo-jane-frasers-2023-pay-26-mln-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 22:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>圭亚那19亿美元的天然气发电项目推迟至2025年</title>
+      <link>https://www.reuters.com/business/energy/guyanas-19-billion-gas-to-power-project-delayed-2025-2024-02-20/</link>
+      <description><![CDATA[圭亚那自然资源部顾问周二表示，圭亚那将推迟到 2025 年才利用其能源补贴，即今年启动的价值 19 亿美元的天然气发电项目，利用未开发的天然气来削减电力成本。]]></description>
+      <guid>https://www.reuters.com/business/energy/guyanas-19-billion-gas-to-power-project-delayed-2025-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 21:52:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>早间出价：领先于 Nvidia</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-20/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 21:48:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>切萨皮克能源公司季度业绩超出预期，下调产量预期</title>
       <link>https://www.reuters.com/business/energy/chesapeake-energy-reports-fall-quarterly-profit-2024-02-20/</link>
-      <description><![CDATA[切萨皮克能源公司周二报告称，第四季度利润大幅下降，原因是该天然气生产商在此期间面临大宗商品价格下跌以及产量下降的困扰。]]></description>
+      <description><![CDATA[切萨皮克能源公司周二第四季度利润超过华尔街预期，这家美国天然气生产商通过降低运营费用来应对大宗商品价格疲软的问题。]]></description>
       <guid>https://www.reuters.com/business/energy/chesapeake-energy-reports-fall-quarterly-profit-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 21:04:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>康尼格拉看到了向服用减肥药的人出售冷冻食品的“机会”</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/conagra-sees-opportunity-sell-frozen-meals-those-weight-loss-drugs-2024-02-20/</link>
-      <description><![CDATA[美国包装食品公司 Conagra Brands 高管汤姆·麦高 (Tom McGough) 周二在一次行业会议上表示，看到了向使用 Ozempic 等减肥药的人们出售更多冷冻食品、肉类零食和爆米花的“机会”。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/conagra-sees-opportunity-sell-frozen-meals-those-weight-loss-drugs-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 20:57:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉扩大德国工厂计划遭到当地人拒绝</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-faces-rejection-locals-plans-expand-german-site-2024-02-20/</link>
-      <description><![CDATA[格伦海德市市长周二对路透社表示，特斯拉扩大德国工厂的雄心遇到了障碍，因为公民投票反对砍伐树木并为更大工厂让路的动议。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-faces-rejection-locals-plans-expand-german-site-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 19:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stellantis可能在欧洲和北美生产零跑电动汽车</title>
-      <link>https://www.reuters.com/business/autos-transportation/stellantis-could-build-leapmotor-evs-europe-north-america-2024-02-20/</link>
-      <description><![CDATA[Stellantis首席执行官卡洛斯·塔瓦雷斯(Carlos Tavares)周二表示，Stellantis可以在欧洲、北美或其他市场生产基于中国子公司零跑汽车技术的电动汽车，这些市场需要具有价格竞争力的车型来与中国电动汽车制造商竞争。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/stellantis-could-build-leapmotor-evs-europe-north-america-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 19:49:23 GMT</pubDate>
     </item>
     <item>
       <title>由于波音延误，联合航空将更多地依赖 MAX 9 和空客 A321</title>
@@ -62,39 +83,11 @@
       <pubDate>Tue, 20 Feb 2024 19:14:52 GMT</pubDate>
     </item>
     <item>
-      <title>音乐厂牌UMG将以2.4亿美元收购Chord Music Partners少数股权</title>
-      <link>https://www.reuters.com/markets/deals/music-label-umg-buy-minority-stake-chord-music-partners-240-mln-2024-02-20/</link>
-      <description><![CDATA[环球音乐集团周二表示，将以 2.4 亿美元收购 Chord Music Partners 25.8% 的股份，这笔交易将使投资公司 KKR 从这家音乐目录所有者的资本中退出。]]></description>
-      <guid>https://www.reuters.com/markets/deals/music-label-umg-buy-minority-stake-chord-music-partners-240-mln-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 18:12:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴克莱绘制了通往更简单、更强大未来的不确定路线</title>
-      <link>https://www.reuters.com/business/finance/barclays-maps-uncertain-route-simpler-stronger-future-2024-02-20/</link>
-      <description><![CDATA[巴克莱银行公布了自 2016 年以来最大规模的改革，试图安抚寻求更清晰途径获得波动性较小回报的投资者。]]></description>
-      <guid>https://www.reuters.com/business/finance/barclays-maps-uncertain-route-simpler-stronger-future-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 18:06:45 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：消息人士称，西方石油公司正在探索以 200 亿美元以上的价格出售 Western Midstream</title>
       <link>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</link>
       <description><![CDATA[据知情人士透露，西方石油公司正在考虑出售 Western Midstream Partners ，这是一家专注于美国天然气的管道运营商，其市值（包括债务）接近 200 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 17:07:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国航空时隔五年提高行李费</title>
-      <link>https://www.reuters.com/business/aerospace-defense/american-airlines-raises-bag-fee-after-five-years-2024-02-20/</link>
-      <description><![CDATA[美国航空周二表示，该公司将提高 2 月 20 日或之后预订的旅行行李的托运行李价格。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/american-airlines-raises-bag-fee-after-five-years-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 16:58:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达的股价在季度报告发布前大幅上涨</title>
-      <link>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</link>
-      <description><![CDATA[英伟达股价今年的强劲涨势在周二停止，因为投资者担心这家雄心勃勃的芯片设计公司的季度业绩能否证明其高估值是合理的。]]></description>
-      <guid>https://www.reuters.com/technology/nvidias-stock-rally-sputters-ahead-quarterly-report-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 16:53:19 GMT</pubDate>
     </item>
     <item>
       <title>通用汽车因软件问题暂停销售新款中型科罗拉多州和峡谷卡车</title>
@@ -125,16 +118,23 @@
       <pubDate>Tue, 20 Feb 2024 13:44:22 GMT</pubDate>
     </item>
     <item>
+      <title>股价下跌后投资者任命化石集团董事候选人</title>
+      <link>https://www.reuters.com/business/investor-names-director-candidates-fossil-group-after-stock-price-drop-2024-02-20/</link>
+      <description><![CDATA[投资公司 Buxton Helmsley Group (BHG) 表示，在 Fossil Group 的股价去年下跌了四分之三后，该公司提名了四名候选人进入 Fossil Group 的董事会。]]></description>
+      <guid>https://www.reuters.com/business/investor-names-director-candidates-fossil-group-after-stock-price-drop-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 12:35:47 GMT</pubDate>
+    </item>
+    <item>
       <title>沃尔玛准备进行 23 亿美元的 Vizio 交易，价格敏感的购物者提振了其盈利</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</link>
-      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
+      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通货膨胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:15:25 GMT</pubDate>
     </item>
     <item>
       <title>英伟达取代特斯拉成为华尔街交易量最大的股票</title>
       <link>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</link>
-      <description><![CDATA[芯片制造商英伟达(Nvidia)正在取代特斯拉(Tesla)，成为华尔街交易量最大的股票，成为美国第三大市值公司后，其地位进一步提升，并显示更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
+      <description><![CDATA[芯片制造商英伟达(Nvidia)正在取代特斯拉(Tesla)，成为华尔街交易量最大的股票，成为美国第三大市值公司后，其地位进一步提升，并显示出更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 11:02:58 GMT</pubDate>
     </item>
