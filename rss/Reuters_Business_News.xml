@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 21 Feb 2024 06:08:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 06:58:33 GMT</lastBuildDate>
     <item>
       <title>力拓公布年度利润下降11%</title>
       <link>https://www.reuters.com/markets/commodities/rio-tinto-posts-11-drop-annual-profit-2024-02-21/</link>
@@ -120,14 +120,14 @@
     <item>
       <title>沃尔玛准备进行 23 亿美元的 Vizio 交易，价格敏感的购物者提振了其盈利</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</link>
-      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通货膨胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
+      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:15:25 GMT</pubDate>
     </item>
     <item>
       <title>英伟达取代特斯拉成为华尔街交易量最大的股票</title>
       <link>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</link>
-      <description><![CDATA[芯片制造商英伟达(Nvidia)正在取代特斯拉(Tesla)，成为华尔街交易量最大的股票，成为美国第三大市值公司后，其地位进一步提升，并显示出更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
+      <description><![CDATA[芯片制造商英伟达(Nvidia)正在取代特斯拉(Tesla)，成为华尔街交易量最大的股票，成为美国第三大市值公司后，其地位进一步提升，并显示更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 11:02:58 GMT</pubDate>
     </item>
