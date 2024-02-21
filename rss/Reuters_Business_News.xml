@@ -1,63 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 21 Feb 2024 10:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 11:16:58 GMT</lastBuildDate>
     <item>
-      <title>调查显示日本企业在俄罗斯维持暂停运营</title>
-      <link>https://www.reuters.com/world/japanese-companies-maintain-suspended-operations-russia-survey-shows-2024-02-21/</link>
-      <description><![CDATA[日本贸易振兴机构 (JETRO) 周三表示，大多数接受日本贸易振兴机构 (JETRO) 调查的日本公司都坚持其早先的决定，即两年前俄罗斯入侵乌克兰后部分或全部暂停在俄罗斯的业务。]]></description>
-      <guid>https://www.reuters.com/world/japanese-companies-maintain-suspended-operations-russia-survey-shows-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 09:59:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞银财富管理将美联储降息预期推迟至六月</title>
-      <link>https://www.reuters.com/markets/rates-bonds/ubs-wealth-management-pushes-back-fed-rate-cut-forecast-june-2024-02-21/</link>
-      <description><![CDATA[瑞银全球财富管理表示，目前预计美联储将于 6 月开始降息，而此前的预期是从 5 月开始降息。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/ubs-wealth-management-pushes-back-fed-rate-cut-forecast-june-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 09:44:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>红海弹道导弹袭击引发亚洲对防御的兴趣</title>
-      <link>https://www.reuters.com/world/asia-pacific/red-sea-ballistic-missile-attacks-trigger-asian-interest-defences-2024-02-21/</link>
-      <description><![CDATA[专家和行业官员表示，在红海使用反舰弹道导弹（ASBM）激发了亚洲对用于击落反舰弹道导弹的系统的兴趣，尽管中国拥有庞大的反舰弹道导弹武库，构成了更严峻的挑战。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/red-sea-ballistic-missile-attacks-trigger-asian-interest-defences-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 09:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>TotalEnergies 与空中客车公司签署可持续航空燃料合作伙伴关系</title>
-      <link>https://www.reuters.com/business/energy/totalenergies-airbus-sign-partnership-sustainable-aviation-fuel-2024-02-21/</link>
-      <description><![CDATA[法国能源集团周三表示，TotalEnergies 已与空中客车公司签署战略合作伙伴关系，根据该合作伙伴关系，TotalEnergies 将为这家飞机制造商提供可持续航空燃料，以满足其在欧洲一半以上的需求。]]></description>
-      <guid>https://www.reuters.com/business/energy/totalenergies-airbus-sign-partnership-sustainable-aviation-fuel-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 09:31:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本因消费支出低迷而下调经济前景</title>
-      <link>https://www.reuters.com/markets/asia/japan-downgrades-view-economy-sluggish-consumer-spending-2024-02-21/</link>
-      <description><![CDATA[由于消费者支出低迷，日本政府在二月份三个月来首次下调了对经济的看法，这表明在工资复苏缓慢和工业产出低迷的情况下走出衰退的道路崎岖不平。]]></description>
-      <guid>https://www.reuters.com/markets/asia/japan-downgrades-view-economy-sluggish-consumer-spending-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 09:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>咖啡集团 JDE Peet's 2023 年营业利润意外增长</title>
+      <title>JDE Peet's 预计有机销售额增长处于中期指引的低端</title>
       <link>https://www.reuters.com/business/retail-consumer/jde-peets-sees-organic-sales-growth-low-end-mid-term-guidance-2024-02-21/</link>
-      <description><![CDATA[全球最大的咖啡公司之一 JDE Peet&#39;s 周三报告称，2023 年营业利润有机增长，而分析师此前预测将出现下降，并表示预计今年将继续增长。]]></description>
+      <description><![CDATA[全球最大的咖啡公司之一 JDE Peet&#39;s 周三预测 2024 年有机销售增长将处于中期目标的低端，与预期一致，此前该公司公布了去年的盈利意外增长。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/jde-peets-sees-organic-sales-growth-low-end-mid-term-guidance-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 06:51:57 GMT</pubDate>
     </item>
     <item>
-      <title>支持战争的俄罗斯商人将接管达能的俄罗斯资产 - FT</title>
+      <title>达能计划将俄罗斯业务出售给与车臣有关的商人 - 英国《金融时报》报道</title>
       <link>https://www.reuters.com/business/retail-consumer/danone-planning-sell-russian-operations-chechnya-linked-businessman-ft-report-2024-02-21/</link>
-      <description><![CDATA[据英国《金融时报》周三报道，在莫斯科暂时控制几个月后，一名在 Instagram 上标榜自己支持战争的俄罗斯商人正计划以 177 亿卢布（1.9152 亿美元）收购达能的俄罗斯资产。]]></description>
+      <description><![CDATA[据英国《金融时报》周三报道，法国乳制品集团达能计划将其俄罗斯业务出售给一名与车臣有联系的商人，几个月前，莫斯科暂时控制了该公司在俄罗斯的业务。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/danone-planning-sell-russian-operations-chechnya-linked-businessman-ft-report-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 06:32:48 GMT</pubDate>
     </item>
     <item>
       <title>最终，“错失恐惧症”(FOMO) 将日本股市重新列入全球愿望清单</title>
       <link>https://www.reuters.com/markets/asia/last-fomo-puts-japans-stocks-back-global-wishlist-2024-02-21/</link>
-      <description><![CDATA[日经指数攀升至历史新高，标志着日本股市长期走出投资荒野，日本企业的资金、动力和变化迹象使市场重新回到全球投资组合的首位。]]></description>
+      <description><![CDATA[日经指数攀升至历史新高，标志着日本股市长期走出投资荒野，日本企业的资金、势头和变化迹象使市场重新回到全球投资组合的首位。]]></description>
       <guid>https://www.reuters.com/markets/asia/last-fomo-puts-japans-stocks-back-global-wishlist-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 06:32:25 GMT</pubDate>
     </item>
@@ -78,7 +43,7 @@
     <item>
       <title>电动汽车充电空白让司机尝试新路线充电</title>
       <link>https://www.reuters.com/business/autos-transportation/ev-charging-void-has-drivers-trying-new-routes-power-up-2024-02-21/</link>
-      <description><![CDATA[无法在家中安装充电器的电动汽车司机转而求助于美国和欧洲公司提供的权宜之计，作为通常昂贵或不方便的公共充电点的替代品。]]></description>
+      <description><![CDATA[无法在家中安装充电器的电动汽车司机转而求助于美国和欧洲公司提供的权宜之计，作为通常昂贵或不方便的公共充电点的替代方案。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ev-charging-void-has-drivers-trying-new-routes-power-up-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 06:06:53 GMT</pubDate>
     </item>
@@ -104,9 +69,16 @@
       <pubDate>Wed, 21 Feb 2024 05:37:01 GMT</pubDate>
     </item>
     <item>
-      <title>汇丰银行股价下跌，创纪录利润因中国遭受30亿美元打击</title>
+      <title>高盛表示，铜、金将因美联储宽松政策而获得“最大的直接”提振</title>
+      <link>https://www.reuters.com/markets/commodities/copper-gold-see-largest-price-boost-fed-easing-goldman-says-2024-02-21/</link>
+      <description><![CDATA[高盛分析师表示，由于美联储可能降息，铜和黄金预计将在大宗商品领域出现最大的直接价格上涨。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/copper-gold-see-largest-price-boost-fed-easing-goldman-says-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 05:29:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>汇丰银行30亿美元的中国减记额创下年度利润纪录</title>
       <link>https://www.reuters.com/business/finance/hsbc-full-year-profit-jumps-78-trailing-estimate-2024-02-21/</link>
-      <description><![CDATA[汇丰控股周三报告称，由于世界第二大经济体的不良贷款不断增加，其在一家中国银行的股份被抵押了30亿美元，使得创纪录的年度利润黯然失色。]]></description>
+      <description><![CDATA[汇丰控股公布了创纪录的年度利润，但仍低于分析师的预期，因为高利率带来的收入增长被其持有的一家中国银行股份的 30 亿美元巨额费用所抵消。]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-full-year-profit-jumps-78-trailing-estimate-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 04:19:32 GMT</pubDate>
     </item>
@@ -118,11 +90,25 @@
       <pubDate>Wed, 21 Feb 2024 04:07:46 GMT</pubDate>
     </item>
     <item>
-      <title>投资者等待英伟达现实检验和美联储会议纪要，股市走低</title>
+      <title>投资者期待英伟达财报，中国提振亚洲股市</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-21/</link>
-      <description><![CDATA[周三，在英伟达发布财报之前，全球股市下跌，许多人希望该财报将有助于证明围绕 2024 年人工智能驱动的涨势的炒作，以及美联储 1 月会议纪要发布之前。]]></description>
+      <description><![CDATA[由于政策制定者采取措施提振信心，中国市场周三提振亚洲股市，而在最近由人工智能驱动的全球疯狂上涨之后，英伟达即将公布的盈利让投资者感到紧张。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 02:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者权衡红海袭击和美国降息前景，油价上涨</title>
+      <link>https://www.reuters.com/business/energy/oil-rises-markets-weigh-red-sea-attacks-us-rate-cuts-2024-02-21/</link>
+      <description><![CDATA[由于对红海航运袭击的担忧以及美国降息所需时间将比预期更长的预期不断增强，周三亚洲贸易中油价收复部分失地。]]></description>
+      <guid>https://www.reuters.com/business/energy/oil-rises-markets-weigh-red-sea-attacks-us-rate-cuts-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 01:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密公司 Circle 将终止对 Tron 区块链上 USDC 稳定币的支持</title>
+      <link>https://www.reuters.com/technology/crypto-firm-circle-end-support-usdc-stablecoin-tron-blockchain-2024-02-21/</link>
+      <description><![CDATA[美国主要加密货币公司 Circle 将终止在 Tron 区块链网络上对其 USDC 代币的支持，该公司周三表示，这一决定“与其确保 USDC 保持可信、透明和安全的努力一致”。]]></description>
+      <guid>https://www.reuters.com/technology/crypto-firm-circle-end-support-usdc-stablecoin-tron-blockchain-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 01:05:54 GMT</pubDate>
     </item>
     <item>
       <title>澳大利亚桑托斯未达到盈利预测，未提供战略审查的最新信息</title>
@@ -132,16 +118,30 @@
       <pubDate>Tue, 20 Feb 2024 22:32:50 GMT</pubDate>
     </item>
     <item>
+      <title>亚马逊将取代沃尔格林进入道琼斯工业平均指数</title>
+      <link>https://www.reuters.com/business/retail-consumer/amazon-set-join-dow-jones-index-2024-02-20/</link>
+      <description><![CDATA[标准普尔道琼斯指数周二表示，亚马逊将于下周取代沃尔格林博姿联盟加入道琼斯工业平均指数。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/amazon-set-join-dow-jones-index-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 22:29:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国最高法院不会复审苹果公司赢得 5.03 亿美元专利裁决</title>
+      <link>https://www.reuters.com/legal/us-supreme-court-wont-review-apples-win-against-503-million-patent-verdict-2024-02-20/</link>
+      <description><![CDATA[美国最高法院周二拒绝审理专利许可公司 VirnetX 提出的恢复陪审团裁决的请求，该裁决是该公司在互联网安全专利纠纷中针对苹果公司赢得的价值 5.028 亿美元的裁决。]]></description>
+      <guid>https://www.reuters.com/legal/us-supreme-court-wont-review-apples-win-against-503-million-patent-verdict-2024-02-20/</guid>
+      <pubDate>Tue, 20 Feb 2024 15:19:44 GMT</pubDate>
+    </item>
+    <item>
       <title>沃尔玛准备进行 23 亿美元的 Vizio 交易，价格敏感的购物者提振了其盈利</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</link>
-      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通货膨胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
+      <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 12:15:25 GMT</pubDate>
     </item>
     <item>
       <title>英伟达取代特斯拉成为华尔街交易量最大的股票</title>
       <link>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</link>
-      <description><![CDATA[芯片制造商英伟达(Nvidia)正在取代特斯拉(Tesla)，成为华尔街交易量最大的股票，成为美国第三大市值公司后，其地位进一步提升，并显示出更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
+      <description><![CDATA[芯片制造商英伟达(Nvidia)正在取代特斯拉(Tesla)，成为华尔街交易量最大的股票，成为美国第三大市值公司后，其地位进一步提升，并显示更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 11:02:58 GMT</pubDate>
     </item>
