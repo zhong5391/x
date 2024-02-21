@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 21 Feb 2024 04:27:03 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 21 Feb 2024 04:40:01 GMT</lastBuildDate>
     <item>
       <title>加密公司 Circle 将终止对 Tron 区块链上 USDC 稳定币的支持</title>
       <link>https://www.reuters.com/technology/crypto-firm-circle-end-support-usdc-stablecoin-tron-blockchain-2024-02-21/</link>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 20 Feb 2024 23:55:09 GMT</pubDate>
     </item>
     <item>
-      <title>新华社报道，中国对美国否决以色列与哈马斯停火投票感到失望</title>
+      <title>新华社报道，中国对美国否决以色列和哈马斯停火投票感到失望</title>
       <link>https://www.reuters.com/world/china-disappointed-over-us-veto-israel-hamas-ceasefire-vote-xinhua-reports-2024-02-20/</link>
       <description><![CDATA[新华社周三援引中国常驻联合国代表张军的话说，中国对美国阻止联合国安理会关于以色列-哈马斯战争的决议草案表示“强烈失望”，该决议草案呼吁立即人道主义停火。]]></description>
       <guid>https://www.reuters.com/world/china-disappointed-over-us-veto-israel-hamas-ceasefire-vote-xinhua-reports-2024-02-20/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>土耳其拘留六名涉嫌为中国监视维吾尔人的人</title>
       <link>https://www.reuters.com/world/turkey-detains-six-suspected-spying-uyghurs-china-2024-02-20/</link>
-      <description><![CDATA[据国营阿纳多卢通讯社周二报道，土耳其当局拘留了六名涉嫌为中国情报部门在土耳其监视维吾尔人的人，另一名嫌疑人正在接受警方追捕。]]></description>
+      <description><![CDATA[据国营阿纳多卢通讯社周二报道，土耳其当局拘留了六名涉嫌为中国情报部门在土耳其监视维吾尔人的人，警方正在通缉另一名嫌疑人。]]></description>
       <guid>https://www.reuters.com/world/turkey-detains-six-suspected-spying-uyghurs-china-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 13:38:09 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>美元下跌，中国提振全球增长希望</title>
       <link>https://www.reuters.com/markets/currencies/dollar-firms-past-150-yen-us-japan-rates-outlook-diverge-2024-02-20/</link>
-      <description><![CDATA[在中国降息以提振陷入困境的房地产市场后，美元周二走软，引发了人们对进一步刺激措施提振全球增长的希望。]]></description>
+      <description><![CDATA[在中国降息以支撑陷入困境的房地产市场后，美元周二走软，引发了人们对进一步刺激措施提振全球增长的希望。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-firms-past-150-yen-us-japan-rates-outlook-diverge-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 01:05:48 GMT</pubDate>
     </item>
