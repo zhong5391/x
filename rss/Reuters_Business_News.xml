@@ -1,37 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 21 Feb 2024 07:17:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 07:58:25 GMT</lastBuildDate>
     <item>
-      <title>力拓公布年度利润下降11%</title>
+      <title>JDE Peet's 预计有机销售额增长处于中期指引的低端</title>
+      <link>https://www.reuters.com/business/retail-consumer/jde-peets-sees-organic-sales-growth-low-end-mid-term-guidance-2024-02-21/</link>
+      <description><![CDATA[全球最大的咖啡公司之一 JDE Peet&#39;s 周三预测 2024 年有机销售增长将处于中期目标的低端，与预期一致，此前该公司公布了去年的盈利意外增长。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/jde-peets-sees-organic-sales-growth-low-end-mid-term-guidance-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:51:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>达能计划将俄罗斯业务出售给与车臣有关的商人 - 英国《金融时报》报道</title>
+      <link>https://www.reuters.com/business/retail-consumer/danone-planning-sell-russian-operations-chechnya-linked-businessman-ft-report-2024-02-21/</link>
+      <description><![CDATA[据英国《金融时报》周三报道，法国乳制品集团达能计划将其俄罗斯业务出售给一名与车臣有联系的商人，几个月前，莫斯科暂时控制了该公司在俄罗斯的业务。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/danone-planning-sell-russian-operations-chechnya-linked-businessman-ft-report-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:32:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>最终，“错失恐惧症”(FOMO) 将日本股市重新列入全球愿望清单</title>
+      <link>https://www.reuters.com/markets/asia/last-fomo-puts-japans-stocks-back-global-wishlist-2024-02-21/</link>
+      <description><![CDATA[日经指数攀升至历史新高，标志着日本股市长期走出投资荒野，日本企业的资金、势头和变化迹象使市场重新回到全球投资组合的首位。]]></description>
+      <guid>https://www.reuters.com/markets/asia/last-fomo-puts-japans-stocks-back-global-wishlist-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>新加坡航空前景警告给航展蒙上阴影</title>
+      <link>https://www.reuters.com/business/aerospace-defense/singapore-airlines-outlook-warning-casts-shadow-over-air-show-2024-02-21/</link>
+      <description><![CDATA[本土航空公司新加坡航空警告称，由于成本上涨，机票价格面临压力，周三该公司股价下跌近 10%，给新加坡航展蒙上了阴影。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/singapore-airlines-outlook-warning-casts-shadow-over-air-show-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:24:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本股市有望触及历史新高，但价格低廉</title>
+      <link>https://www.reuters.com/markets/asia/japanese-stocks-within-reach-record-highs-yet-inexpensive-2024-02-21/</link>
+      <description><![CDATA[随着日本股市接近 1989 年泡沫时代的历史最高水平，估值指标显示，与历史水平和全球同行相比，它们的定价仍远未过高。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japanese-stocks-within-reach-record-highs-yet-inexpensive-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:23:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>电动汽车充电空白让司机尝试新路线充电</title>
+      <link>https://www.reuters.com/business/autos-transportation/ev-charging-void-has-drivers-trying-new-routes-power-up-2024-02-21/</link>
+      <description><![CDATA[无法在家中安装充电器的电动汽车驾驶员转而求助于美国和欧洲公司提供的权宜之计，作为通常昂贵或不方便的公共充电点的替代方案。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ev-charging-void-has-drivers-trying-new-routes-power-up-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:06:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>快时尚Shein、Temu的崛起搅动全球航空货运业</title>
+      <link>https://www.reuters.com/business/retail-consumer/rise-fast-fashion-shein-temu-roils-global-air-cargo-industry-2024-02-21/</link>
+      <description><![CDATA[十多名行业消息人士称，Shein 和 Temu 等快时尚电子商务零售商的迅速崛起正在颠覆全球航空货运业，因为它们越来越多地争夺有限的航空货运空间，以快速的运输时间吸引消费者。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/rise-fast-fashion-shein-temu-roils-global-air-cargo-industry-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:05:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞郎疲软打破坚冰，投资者看好瑞士股市</title>
+      <link>https://www.reuters.com/markets/europe/investors-warm-swiss-stocks-weakening-franc-breaks-ice-2024-02-21/</link>
+      <description><![CDATA[投资者一直在向瑞士股市注入资金，希望这个以出口为重点的市场能够超越同行，部分原因是央行政策的转变可能会使瑞郎进一步跌破2023年的多年高点。]]></description>
+      <guid>https://www.reuters.com/markets/europe/investors-warm-swiss-stocks-weakening-franc-breaks-ice-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>力拓利润下降12%，但铁矿石巨头向投资者返还更多现金</title>
       <link>https://www.reuters.com/markets/commodities/rio-tinto-posts-11-drop-annual-profit-2024-02-21/</link>
-      <description><![CDATA[力拓周三公布全年基本盈利下降 11%，原因是价格疲软导致其铝业务贡献下降，抵消了铁矿石业务产量增长的影响。]]></description>
+      <description><![CDATA[力拓周三公布年度基本盈利下降 12%，与预期一致，但由于通胀压力开始消退，其支付的末期股息好于预期。]]></description>
       <guid>https://www.reuters.com/markets/commodities/rio-tinto-posts-11-drop-annual-profit-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 05:37:01 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：市场等待英伟达、美联储会议纪要</title>
-      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-02-21/</link>
-      <description><![CDATA[Ankur Banerjee 对欧洲和全球市场未来一天的展望]]></description>
-      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 05:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>高盛表示，美联储宽松政策将对铜和黄金价格带来最大提振</title>
+      <title>高盛表示，铜、金将因美联储宽松政策而获得“最大的直接”提振</title>
       <link>https://www.reuters.com/markets/commodities/copper-gold-see-largest-price-boost-fed-easing-goldman-says-2024-02-21/</link>
       <description><![CDATA[高盛分析师表示，由于美联储可能降息，铜和黄金预计将在大宗商品领域出现最大的直接价格上涨。]]></description>
       <guid>https://www.reuters.com/markets/commodities/copper-gold-see-largest-price-boost-fed-easing-goldman-says-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 05:29:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国银行根据“白名单”项目批准170亿美元贷款 - 住房管理局</title>
-      <link>https://www.reuters.com/world/china/chinese-banks-approve-17-bln-loans-under-whitelist-project-housing-authority-2024-02-21/</link>
-      <description><![CDATA[中国住房和城乡建设管理局表示，已批准1236亿元人民币（172亿美元）的开发贷款，并根据一项旨在为受危机打击的房地产行业注入流动性的特殊机制发放了294亿元人民币。]]></description>
-      <guid>https://www.reuters.com/world/china/chinese-banks-approve-17-bln-loans-under-whitelist-project-housing-authority-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 05:05:29 GMT</pubDate>
     </item>
     <item>
       <title>汇丰银行30亿美元的中国减记额创下年度利润纪录</title>
@@ -43,30 +85,16 @@
     <item>
       <title>丰田在第一轮后推迟对工资谈判的回应</title>
       <link>https://www.reuters.com/business/autos-transportation/toyota-holds-off-response-wage-talks-after-first-round-2024-02-21/</link>
-      <description><![CDATA[全球最大的汽车制造商丰田汽车周三没有对其工会大幅加薪和创纪录奖金的要求做出回应，这给乐观的工资谈判预期带来了一些不确定性。]]></description>
+      <description><![CDATA[全球最大的汽车制造商丰田汽车周三并未就大幅加薪的要求立即与工会达成协议，但将在未来几天继续进行谈判，这引发了人们对当前工资谈判预期的怀疑。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/toyota-holds-off-response-wage-talks-after-first-round-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 04:07:46 GMT</pubDate>
     </item>
     <item>
-      <title>澳航飞行员因热带气旋林肯风险而暂停罢工计划</title>
-      <link>https://www.reuters.com/business/aerospace-defense/qantas-pilots-suspend-strike-plan-cyclone-lincoln-risk-2024-02-21/</link>
-      <description><![CDATA[飞行员工会表示，由于受到前热带气旋林肯的威胁，澳洲航空子公司 Network Aviation 的飞行员取消了从周四开始为期四天的罢工计划，以便在需要时进行疏散航班。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/qantas-pilots-suspend-strike-plan-cyclone-lincoln-risk-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 03:44:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于早期降息押注失败，亚洲股市下跌，关注美联储会议纪要</title>
+      <title>投资者期待英伟达财报，中国提振亚洲股市</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-21/</link>
-      <description><![CDATA[亚洲股市周三走低，因美联储提前降息的预期减弱，削弱了风险偏好，投资者关注美联储上次会议纪要，寻找有关政策前景的线索。]]></description>
+      <description><![CDATA[由于政策制定者采取措施提振信心，中国市场周三提振亚洲股市，而在最近由人工智能驱动的全球疯狂上涨之后，英伟达即将公布的盈利让投资者感到紧张。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 02:28:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>美元追随全球收益率走低；英镑重</title>
-      <link>https://www.reuters.com/markets/currencies/dollar-tracks-global-yields-lower-sterling-heavy-2024-02-21/</link>
-      <description><![CDATA[周三，美元跟随全球债券收益率下跌而全面下跌，而在英国央行行长安德鲁·贝利(Andrew Bailey)对央行利率前景发表鸽派言论后，英镑难以保持涨势。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/dollar-tracks-global-yields-lower-sterling-heavy-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 01:27:06 GMT</pubDate>
     </item>
     <item>
       <title>投资者权衡红海袭击和美国降息前景，油价上涨</title>
@@ -97,25 +125,11 @@
       <pubDate>Tue, 20 Feb 2024 22:29:05 GMT</pubDate>
     </item>
     <item>
-      <title>独家：消息人士称，西方石油公司正在探索以 200 亿美元以上的价格出售 Western Midstream</title>
-      <link>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</link>
-      <description><![CDATA[据知情人士透露，西方石油公司正在考虑出售 Western Midstream Partners ，这是一家专注于美国天然气的管道运营商，其市值（包括债务）接近 200 亿美元。]]></description>
-      <guid>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 17:07:38 GMT</pubDate>
-    </item>
-    <item>
       <title>美国最高法院不会复审苹果公司赢得 5.03 亿美元专利裁决</title>
       <link>https://www.reuters.com/legal/us-supreme-court-wont-review-apples-win-against-503-million-patent-verdict-2024-02-20/</link>
       <description><![CDATA[美国最高法院周二拒绝审理专利许可公司 VirnetX 提出的恢复陪审团裁决的请求，该裁决是该公司在互联网安全专利纠纷中针对苹果公司赢得的价值 5.028 亿美元的裁决。]]></description>
       <guid>https://www.reuters.com/legal/us-supreme-court-wont-review-apples-win-against-503-million-patent-verdict-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 15:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>路透调查显示美联储将于六月降息，风险偏向于稍后采取行动</title>
-      <link>https://www.reuters.com/markets/rates-bonds/fed-cut-us-rates-june-risks-skewed-towards-later-move-2024-02-20/</link>
-      <description><![CDATA[路透社调查的经济学家以微弱多数表示，美联储将在 6 月份下调联邦基金利率，他们还表示，更大的风险是首次降息的时间将晚于预期而不是更早。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/fed-cut-us-rates-june-risks-skewed-towards-later-move-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 13:44:22 GMT</pubDate>
     </item>
     <item>
       <title>沃尔玛准备进行 23 亿美元的 Vizio 交易，价格敏感的购物者提振了其盈利</title>
@@ -130,13 +144,6 @@
       <description><![CDATA[芯片制造商英伟达(Nvidia)正在取代特斯拉(Tesla)，成为华尔街交易量最大的股票，成为美国第三大市值公司后，其地位进一步提升，并显示更多证据表明人工智能相关押注已成为投资者的核心。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-dethrones-tesla-wall-streets-most-traded-stock-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 11:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达在公布财报前表示担忧，股市收低</title>
-      <link>https://www.reuters.com/markets/us/futures-slip-fading-rate-cut-hopes-retailers-earnings-focus-2024-02-20/</link>
-      <description><![CDATA[美国股市周二收低，纳斯达克指数跌幅最大，因芯片制造商英伟达在其备受期待的收益报告发布前股价下跌，而沃尔玛的上涨限制了道指的跌幅。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-slip-fading-rate-cut-hopes-retailers-earnings-focus-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 10:59:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
