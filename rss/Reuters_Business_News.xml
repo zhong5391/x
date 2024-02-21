@@ -1,23 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 21 Feb 2024 02:24:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 04:26:54 GMT</lastBuildDate>
     <item>
-      <title>澳洲航空任命约翰·马伦为新任董事长</title>
-      <link>https://www.reuters.com/business/aerospace-defense/qantas-appoints-john-mullen-chairman-elect-2024-02-20/</link>
-      <description><![CDATA[澳洲航空周三表示，约翰·马伦 (John Mullen) 将从 7 月 1 日起加入公司董事会，担任候任董事长，并在 10 月份的澳大利亚旗舰航空公司年度股东大会之前担任董事长一职。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/qantas-appoints-john-mullen-chairman-elect-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 23:43:14 GMT</pubDate>
+      <title>澳航飞行员因热带气旋林肯风险而暂停罢工计划</title>
+      <link>https://www.reuters.com/business/aerospace-defense/qantas-pilots-suspend-strike-plan-cyclone-lincoln-risk-2024-02-21/</link>
+      <description><![CDATA[飞行员工会表示，由于受到前热带气旋林肯的威胁，澳洲航空子公司 Network Aviation 的飞行员取消了从周四开始为期四天的罢工计划，以便在需要时进行疏散航班。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/qantas-pilots-suspend-strike-plan-cyclone-lincoln-risk-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 03:44:17 GMT</pubDate>
     </item>
     <item>
-      <title>菲律宾宿务太平洋航空​​将决定第二季度 100 架窄体喷气式飞机订单是空客还是波音</title>
-      <link>https://www.reuters.com/business/aerospace-defense/philippines-cebu-pacific-decide-airbus-vs-boeing-100-narrowbody-jets-order-q2-2024-02-20/</link>
-      <description><![CDATA[菲律宾廉价航空公司宿雾太平洋航空​​公司首席执行官迈克尔·舒克斯 (Michael Szucs) 表示，该公司将在 5 月或 6 月决定是否选择空客公司或波音公司来订购去年签署的 100 多架窄体飞机订单。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/philippines-cebu-pacific-decide-airbus-vs-boeing-100-narrowbody-jets-order-q2-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 23:38:54 GMT</pubDate>
+      <title>由于早期降息押注失败，亚洲股市下跌，关注美联储会议纪要</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-21/</link>
+      <description><![CDATA[亚洲股市周三走低，因美联储提前降息的预期减弱，削弱了风险偏好，投资者关注美联储上次会议纪要，寻找有关政策前景的线索。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 02:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本瑞穗银行目标保持全球十大投资银行地位</title>
+      <link>https://www.reuters.com/business/finance/japans-mizuho-aims-remain-top-10-global-investment-bank-2024-02-21/</link>
+      <description><![CDATA[瑞穗金融集团的投资银行业务负责人告诉路透社，瑞穗金融集团的目标是保持在全球投资银行排名前十的位置，此前该公司成为十多年来第一家进入排名前列的日本银行。]]></description>
+      <guid>https://www.reuters.com/business/finance/japans-mizuho-aims-remain-top-10-global-investment-bank-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 01:31:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>美元追随全球收益率走低；英镑重</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-tracks-global-yields-lower-sterling-heavy-2024-02-21/</link>
+      <description><![CDATA[周三，美元跟随全球债券收益率下跌而全面下跌，而在英国央行行长安德鲁·贝利(Andrew Bailey)对央行利率前景发表鸽派言论后，英镑难以保持涨势。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-tracks-global-yields-lower-sterling-heavy-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 01:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>油价上涨；市场权衡红海袭击和美国降息</title>
+      <link>https://www.reuters.com/business/energy/oil-rises-markets-weigh-red-sea-attacks-us-rate-cuts-2024-02-21/</link>
+      <description><![CDATA[周三亚洲早盘，油价收复部分失地，投资者权衡了对主要产油国减产和红海航运袭击的担忧，以及美国降息预期的黯淡。]]></description>
+      <guid>https://www.reuters.com/business/energy/oil-rises-markets-weigh-red-sea-attacks-us-rate-cuts-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 01:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密公司 Circle 将终止对 Tron 区块链上 USDC 稳定币的支持</title>
+      <link>https://www.reuters.com/technology/crypto-firm-circle-end-support-usdc-stablecoin-tron-blockchain-2024-02-21/</link>
+      <description><![CDATA[美国主要加密货币公司 Circle 将终止在 Tron 区块链网络上对其 USDC 代币的支持，该公司周三表示，这一决定“与其确保 USDC 保持可信、透明和安全的努力一致”。]]></description>
+      <guid>https://www.reuters.com/technology/crypto-firm-circle-end-support-usdc-stablecoin-tron-blockchain-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 01:05:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>富士康创始人郭台铭数月来首次高调亮相</title>
+      <link>https://www.reuters.com/world/asia-pacific/foxconn-founder-terry-gou-makes-first-high-profile-appearance-months-2024-02-21/</link>
+      <description><![CDATA[苹果主要供应商富士康的亿万富翁创始人郭台铭在去年底结束了台湾总统竞选后，于周二在该公司成立 50 周年之际首次高调亮相。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/foxconn-founder-terry-gou-makes-first-high-profile-appearance-months-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 01:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚第四季度年度工资增长创15年来新高，季度涨幅放缓</title>
+      <link>https://www.reuters.com/markets/australia-annual-wage-growth-hits-15-year-high-q4-2024-02-21/</link>
+      <description><![CDATA[由于低失业率和劳动力的激烈竞争推动了薪资交易，第四季度澳大利亚工资以 15 年来最快的速度增长，尽管分析师怀疑随着经济衰退，最好的时期已经过去。]]></description>
+      <guid>https://www.reuters.com/markets/australia-annual-wage-growth-hits-15-year-high-q4-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 00:40:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本出口复苏，但工厂情绪恶化令前景黯淡</title>
+      <link>https://www.reuters.com/markets/asia/japans-exports-grow-more-than-expected-manufacturers-mood-sours-2024-02-21/</link>
+      <description><![CDATA[在汽车和汽车零部件运往美国以及中国对芯片制造设备的需求的推动下，日本 1 月份出口增长超过预期，尽管工厂业情绪恶化加剧了对更广泛经济疲软的担忧。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japans-exports-grow-more-than-expected-manufacturers-mood-sours-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 00:37:35 GMT</pubDate>
     </item>
     <item>
       <title>Public Storage 因租金收入增加而超过第四季度 FFO 预期</title>
@@ -27,46 +76,18 @@
       <pubDate>Tue, 20 Feb 2024 22:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>由于大宗商品价格疲软，澳大利亚桑托斯全年利润大幅下滑</title>
+      <title>澳大利亚桑托斯未达到盈利预测，未提供战略审查的最新信息</title>
       <link>https://www.reuters.com/markets/commodities/australias-santos-full-year-profit-plummets-42-weak-commodity-prices-2024-02-20/</link>
-      <description><![CDATA[周三，澳大利亚石油和天然气生产商桑托斯报告称，由于大宗商品价格持续疲软和产量下降，其年度基本利润下降了 42%。]]></description>
+      <description><![CDATA[澳大利亚天然气生产商桑托斯周三公布，由于天然气价格和产量疲软，年度利润下降了 42%，跌幅超出预期，并表示在与更大竞争对手伍德赛德 (Woodside) 的合并谈判失败后，该公司正在努力提高估值。]]></description>
       <guid>https://www.reuters.com/markets/commodities/australias-santos-full-year-profit-plummets-42-weak-commodity-prices-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 22:32:50 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊将加入道琼斯工业平均指数</title>
+      <title>亚马逊将取代沃尔格林进入道琼斯工业平均指数</title>
       <link>https://www.reuters.com/business/retail-consumer/amazon-set-join-dow-jones-index-2024-02-20/</link>
-      <description><![CDATA[标准普尔道琼斯指数周二表示，亚马逊 AMZN.O 将于 2 月 26 日加入道琼斯工业平均指数，取代沃尔格林博姿联盟。]]></description>
+      <description><![CDATA[标准普尔道琼斯指数周二表示，亚马逊将于下周取代沃尔格林博姿联盟加入道琼斯工业平均指数。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/amazon-set-join-dow-jones-index-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 22:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>矿业公司第一量子第四季度出现亏损</title>
-      <link>https://www.reuters.com/markets/commodities/miner-first-quantums-fourth-quarter-profit-dips-2024-02-20/</link>
-      <description><![CDATA[铜矿生产商 First Quantum Minerals 周二公布第四季度净亏损，原因是其巴拿马 Cobre 矿关闭影响了产量，并且收取了与其镍矿开采业务相关的费用。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/miner-first-quantums-fourth-quarter-profit-dips-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 22:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>花旗集团将首席执行官简·弗雷泽 (Jane Fraser) 2023 年薪酬提高 6% 至 2600 万美元</title>
-      <link>https://www.reuters.com/business/finance/citigroup-lifts-ceo-jane-frasers-2023-pay-26-mln-2024-02-20/</link>
-      <description><![CDATA[花旗集团在周二提交的文件中表示，该银行将首席执行官简·弗雷泽 (Jane Fraser) 2023 年的薪酬提高了约 6%，达到 2600 万美元。]]></description>
-      <guid>https://www.reuters.com/business/finance/citigroup-lifts-ceo-jane-frasers-2023-pay-26-mln-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 22:21:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>圭亚那19亿美元的天然气发电项目推迟至2025年</title>
-      <link>https://www.reuters.com/business/energy/guyanas-19-billion-gas-to-power-project-delayed-2025-2024-02-20/</link>
-      <description><![CDATA[圭亚那自然资源部顾问周二表示，圭亚那将推迟到 2025 年才利用其能源补贴，即今年启动的价值 19 亿美元的天然气发电项目，利用未开发的天然气来削减电力成本。]]></description>
-      <guid>https://www.reuters.com/business/energy/guyanas-19-billion-gas-to-power-project-delayed-2025-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 21:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>早间出价：领先于 Nvidia</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-20/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 21:48:11 GMT</pubDate>
     </item>
     <item>
       <title>切萨皮克能源公司季度业绩超出预期，下调产量预期</title>
@@ -76,25 +97,11 @@
       <pubDate>Tue, 20 Feb 2024 21:04:33 GMT</pubDate>
     </item>
     <item>
-      <title>由于波音延误，联合航空将更多地依赖 MAX 9 和空客 A321</title>
-      <link>https://www.reuters.com/business/aerospace-defense/united-airlines-lean-more-max-9-airbus-a321-amid-boeing-delays-2024-02-20/</link>
-      <description><![CDATA[联合航空首席财务官 Mike Leskinen 周二表示，在没有 MAX 10 的情况下，联合航空将更多地依赖波音 737 MAX 9 和空客 A321 飞机来实现其增长计划。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/united-airlines-lean-more-max-9-airbus-a321-amid-boeing-delays-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 19:14:52 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：消息人士称，西方石油公司正在探索以 200 亿美元以上的价格出售 Western Midstream</title>
       <link>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</link>
       <description><![CDATA[据知情人士透露，西方石油公司正在考虑出售 Western Midstream Partners ，这是一家专注于美国天然气的管道运营商，其市值（包括债务）接近 200 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/deals/occidental-explores-18-bln-plus-sale-western-midstream-sources-say-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 17:07:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>通用汽车因软件问题暂停销售新款中型科罗拉多州和峡谷卡车</title>
-      <link>https://www.reuters.com/business/autos-transportation/gm-pauses-sales-new-mid-size-colorado-canyon-trucks-over-software-issue-2024-02-20/</link>
-      <description><![CDATA[通用汽车周二表示，已暂时停止销售 2024 年款雪佛兰 Colorado 和 GMC Canyon 中型卡车，以解决间歇性的软件质量问题。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/gm-pauses-sales-new-mid-size-colorado-canyon-trucks-over-software-issue-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 16:16:13 GMT</pubDate>
     </item>
     <item>
       <title>世界大型企业联合会放弃美国经济衰退呼吁</title>
@@ -118,13 +125,6 @@
       <pubDate>Tue, 20 Feb 2024 13:44:22 GMT</pubDate>
     </item>
     <item>
-      <title>股价下跌后投资者任命化石集团董事候选人</title>
-      <link>https://www.reuters.com/business/investor-names-director-candidates-fossil-group-after-stock-price-drop-2024-02-20/</link>
-      <description><![CDATA[投资公司 Buxton Helmsley Group (BHG) 表示，在这家时装设计公司的股价去年下跌了四分之三后，它向 Fossil Group 董事会提名了四名候选人。]]></description>
-      <guid>https://www.reuters.com/business/investor-names-director-candidates-fossil-group-after-stock-price-drop-2024-02-20/</guid>
-      <pubDate>Tue, 20 Feb 2024 12:35:47 GMT</pubDate>
-    </item>
-    <item>
       <title>沃尔玛准备进行 23 亿美元的 Vizio 交易，价格敏感的购物者提振了其盈利</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-expects-annual-sales-above-estimates-acquire-vizio-23-billion-2024-02-20/</link>
       <description><![CDATA[沃尔玛周二以强劲的第四季度业绩拉开了美国零售商财报季的序幕，此前受通胀挤压的购物者纷纷涌入沃尔玛的商店，并表示将以 23 亿美元收购智能电视制造商 Vizio。]]></description>
@@ -139,7 +139,7 @@
       <pubDate>Tue, 20 Feb 2024 11:02:58 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达在公布财报前表示担忧，股市收低</title>
+      <title>由于英伟达在公布财报前表示担忧，股市收低</title>
       <link>https://www.reuters.com/markets/us/futures-slip-fading-rate-cut-hopes-retailers-earnings-focus-2024-02-20/</link>
       <description><![CDATA[美国股市周二收低，纳斯达克指数跌幅最大，因芯片制造商英伟达在其备受期待的收益报告发布前股价下跌，而沃尔玛的上涨限制了道指的跌幅。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-slip-fading-rate-cut-hopes-retailers-earnings-focus-2024-02-20/</guid>
