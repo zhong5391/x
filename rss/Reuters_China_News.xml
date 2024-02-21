@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 21 Feb 2024 17:34:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2024 18:29:11 GMT</lastBuildDate>
     <item>
       <title>第一量子表示正在为巴拿马矿山关闭令寻求 200 亿美元的赔偿</title>
       <link>https://www.reuters.com/markets/commodities/first-quantum-says-it-is-seeking-20-billion-over-panama-mine-closure-order-2024-02-21/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>独家：继华为Mate 60 Pro之后，美国瞄准中国顶级芯片制造厂</title>
       <link>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</link>
-      <description><![CDATA[三名知情人士表示，在这家为华为 Mate 60 Pro 手机生产先进芯片后，拜登政府正在加大对这家受制裁的中国顶级芯片制造商的压力，切断其最先进的工厂从美国进口更多产品的机会。]]></description>
+      <description><![CDATA[三名知情人士表示，拜登政府正在加大对中国最大受制裁芯片制造商的压力，在该公司为华为 Mate 60 Pro 手机生产先进芯片后，切断了该公司最先进的工厂从美国进口的产品。]]></description>
       <guid>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 12:09:37 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 21 Feb 2024 11:19:36 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：美联储会议纪要通过时，英伟达股价下跌</title>
+      <title>早间竞价：英伟达在美联储会议纪要通过期间获利了结</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-21/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-21/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>中印两军就边界问题举行“建设性”会晤</title>
       <link>https://www.reuters.com/world/asia-pacific/chinese-indian-militaries-hold-constructive-meeting-border-issues-ministry-2024-02-21/</link>
-      <description><![CDATA[中国国防部在一份声明中表示，中印两军周一就解决边界问题举行了建设性会晤。]]></description>
+      <description><![CDATA[中国国防部在一份声明中表示，中印两军周一就解决边界问题举行了建设性会议。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/chinese-indian-militaries-hold-constructive-meeting-border-issues-ministry-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 10:32:33 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>红海弹道导弹袭击引发亚洲对防御的兴趣</title>
       <link>https://www.reuters.com/world/asia-pacific/red-sea-ballistic-missile-attacks-trigger-asian-interest-defences-2024-02-21/</link>
-      <description><![CDATA[专家和行业官员表示，在红海使用反舰弹道导弹（ASBM）激发了亚洲对击落反舰弹道导弹系统的兴趣，尽管中国拥有庞大的反舰弹道导弹武库，构成了更严峻的挑战。]]></description>
+      <description><![CDATA[专家和行业官员表示，在红海使用反舰弹道导弹（ASBM）激发了亚洲对用于击落反舰弹道导弹的系统的兴趣，尽管中国拥有庞大的反舰弹道导弹武库，构成了更严峻的挑战。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/red-sea-ballistic-missile-attacks-trigger-asian-interest-defences-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 09:39:05 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>智库称中国儿童保育成本位居全球最高</title>
       <link>https://www.reuters.com/world/china/chinas-childcare-costs-among-highest-world-think-tank-2024-02-21/</link>
-      <description><![CDATA[中国一家著名智库周三表示，相对于人均国内生产总值而言，中国是世界上抚养孩子成本最高的国家之一，同时详细介绍了选择在中国生孩子的女性的时间和机会成本。]]></description>
+      <description><![CDATA[中国一家著名智库周三表示，相对于人均国内生产总值而言，中国是世界上养育孩子成本最高的国家之一，同时详细介绍了选择在中国生孩子的女性的时间和机会成本。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-childcare-costs-among-highest-world-think-tank-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 06:58:42 GMT</pubDate>
     </item>
@@ -118,7 +118,7 @@
       <pubDate>Wed, 21 Feb 2024 04:38:35 GMT</pubDate>
     </item>
     <item>
-      <title>汇丰银行股价下跌，创纪录利润因中国遭受30亿美元打击</title>
+      <title>汇丰银行股价下跌，创纪录利润因中国遭受30亿美元打击而受损</title>
       <link>https://www.reuters.com/business/finance/hsbc-full-year-profit-jumps-78-trailing-estimate-2024-02-21/</link>
       <description><![CDATA[汇丰控股周三报告称，由于中国不良贷款不断增加，其在一家中国银行的股份被抵押了 30 亿美元，导致这家英国银行的股价暴跌，其创纪录的年度利润也黯然失色。]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-full-year-profit-jumps-78-trailing-estimate-2024-02-21/</guid>
