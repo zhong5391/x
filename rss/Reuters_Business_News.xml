@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 22 Feb 2024 21:33:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 21:48:48 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 公开美国 IPO 申请</title>
+      <link>https://www.reuters.com/technology/reddit-makes-us-ipo-filing-public-2024-02-22/</link>
+      <description><![CDATA[社交媒体平台 Reddit 周四公布了在美国首次公开募股 (IPO) 的文件。]]></description>
+      <guid>https://www.reuters.com/technology/reddit-makes-us-ipo-filing-public-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 20:26:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储哈克：央行今年可能降息</title>
+      <link>https://www.reuters.com/markets/us/feds-harker-central-bank-likely-track-rate-cut-this-year-2024-02-22/</link>
+      <description><![CDATA[费城联邦储备银行行长帕特里克·哈克周四表示，降息是货币政策的下一步，但他拒绝透露央行何时能够降低短期借贷成本。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-harker-central-bank-likely-track-rate-cut-this-year-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 20:20:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>First Quantum 因计划增加资本而股价上涨 8%</title>
+      <link>https://www.reuters.com/markets/commodities/first-quantum-shares-jump-8-plans-bolster-capital-2024-02-22/</link>
+      <description><![CDATA[加拿大矿业公司第一量子矿业有限公司 (First Quantum Minerals Ltd) 宣布改善资产负债表的措施后，投资者松了一口气，该公司股价周四上涨 9%。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/first-quantum-shares-jump-8-plans-bolster-capital-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 20:18:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密货币交易所 FTX 将出售人工智能初创公司 Anthropic 的股份</title>
+      <link>https://www.reuters.com/technology/crypto-exchange-ftx-sell-shares-ai-startup-anthropic-2024-02-22/</link>
+      <description><![CDATA[美国法官周四裁定，破产的加密货币交易所 FTX 可能会出售其在人工智能初创公司 Anthropic 中的股份。]]></description>
+      <guid>https://www.reuters.com/technology/crypto-exchange-ftx-sell-shares-ai-startup-anthropic-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 20:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>白宫称联邦调查局和国土安全部正在调查 AT&T 停电事件</title>
+      <link>https://www.reuters.com/technology/white-house-says-fbi-homeland-security-dept-looking-into-att-outage-2024-02-22/</link>
+      <description><![CDATA[白宫国家安全发言人约翰·柯比周四告诉记者，联邦调查局和国土安全部 (DHS) 正在调查 AT&amp;T 的故障，联邦通信委员会正在与该公司保持联系。]]></description>
+      <guid>https://www.reuters.com/technology/white-house-says-fbi-homeland-security-dept-looking-into-att-outage-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 20:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国航空必须面临 ESG 退休投资诉讼</title>
+      <link>https://www.reuters.com/sustainability/american-airlines-must-face-lawsuit-over-esg-retirement-investing-2024-02-22/</link>
+      <description><![CDATA[得克萨斯州沃思堡的一名联邦法官裁定，美国航空必须面临一项诉讼，指控其未能审慎监管员工退休基金，因为该公司使用的资产管理公司奉行可持续投资策略。]]></description>
+      <guid>https://www.reuters.com/sustainability/american-airlines-must-face-lawsuit-over-esg-retirement-investing-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 19:55:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>宝洁首席执行官将改变辩论从“社会正义到胜利”以支持多样性</title>
+      <link>https://www.reuters.com/sustainability/society-equity/pg-ceo-would-change-debate-social-justice-winning-bolster-diversity-2024-02-22/</link>
+      <description><![CDATA[宝洁公司甘布尔首席执行官乔恩·莫勒(Jon Moeller)周四对华尔街分析师表示，将对话从“社会正义”改为“获胜”将是促进女性和多元化人群更有效的方式。]]></description>
+      <guid>https://www.reuters.com/sustainability/society-equity/pg-ceo-would-change-debate-social-justice-winning-bolster-diversity-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 19:51:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着埃克森美孚收购的临近，先锋天然报告强劲的财年产量</title>
+      <link>https://www.reuters.com/business/energy/pioneer-natural-reports-strong-fy-production-exxon-takeover-looms-2024-02-22/</link>
+      <description><![CDATA[先锋自然资源公司周四报告称，2023 年产量超出了之前的预期，这家美国页岩油生产商正努力于今年晚些时候完成石油巨头埃克森美孚约 600 亿美元的收购。]]></description>
+      <guid>https://www.reuters.com/business/energy/pioneer-natural-reports-strong-fy-production-exxon-takeover-looms-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 19:44:46 GMT</pubDate>
+    </item>
     <item>
       <title>美国批准从 2025 年开始在中西部扩大 E15 汽油销售</title>
       <link>https://www.reuters.com/business/energy/biden-administration-approves-e15-gasoline-sales-expansion-midwest-states-2024-02-22/</link>
-      <description><![CDATA[拜登政府周四表示，已批准中西部州长的请求，允许从 2025 年开始在本州扩大乙醇含量较高的汽油销售。]]></description>
+      <description><![CDATA[美国政府周四表示，已批准中西部州长的请求，允许从 2025 年开始在各州扩大乙醇混合汽油的销售。]]></description>
       <guid>https://www.reuters.com/business/energy/biden-administration-approves-e15-gasoline-sales-expansion-midwest-states-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 18:10:27 GMT</pubDate>
     </item>
@@ -20,39 +76,11 @@
       <pubDate>Thu, 22 Feb 2024 17:06:05 GMT</pubDate>
     </item>
     <item>
-      <title>LVMH 成立娱乐公司，由阿尔诺继承人、美国老板领导</title>
-      <link>https://www.reuters.com/business/retail-consumer/lvmh-launches-entertainment-venture-led-by-arnault-heir-us-boss-2024-02-22/</link>
-      <description><![CDATA[奢侈品巨头 LVMH 正在成立一家娱乐企业，以促进其品牌的营销，该企业由 LVMH 继承人 Antoine Arnault 和该集团北美业务首席执行官 Anish Melwani 领导的高管委员会负责监督。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/lvmh-launches-entertainment-venture-led-by-arnault-heir-us-boss-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 16:56:36 GMT</pubDate>
-    </item>
-    <item>
       <title>电动汽车行业面临裁员、减产和改变计划的问题</title>
       <link>https://www.reuters.com/business/autos-transportation/ev-sector-grapples-with-layoffs-production-cuts-altered-plans-2024-02-22/</link>
       <description><![CDATA[全球电动汽车需求放缓正在波及整个行业，导致就业岗位减少，并导致战略计划、裁员和减产的变化，这表明短期内的痛苦可能会减缓从汽油动力内燃机的过渡。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ev-sector-grapples-with-layoffs-production-cuts-altered-plans-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 16:51:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iron Mountain 因弹性数据存储需求而公布第四季度 FFO 更高</title>
-      <link>https://www.reuters.com/business/iron-mountain-posts-higher-fourth-quarter-ffo-resilient-data-storage-demand-2024-02-22/</link>
-      <description><![CDATA[周四，受数据存储和记录业务弹性需求的推动，Iron Mountain 公布第四季度运营资金 (FFO) 有所增长。]]></description>
-      <guid>https://www.reuters.com/business/iron-mountain-posts-higher-fourth-quarter-ffo-resilient-data-storage-demand-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 16:26:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>航空航天巨头组成联盟阻止未经授权的零部件进入供应链</title>
-      <link>https://www.reuters.com/business/aerospace-defense/aerospace-giants-form-coalition-stop-unauthorized-parts-entering-supply-chain-2024-02-22/</link>
-      <description><![CDATA[空中客车公司、波音公司和通用电气航空航天公司等航空航天巨头周四宣布成立联盟，旨在防止未经授权的零部件进入全球供应链。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/aerospace-giants-form-coalition-stop-unauthorized-parts-entering-supply-chain-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 16:20:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴西总统卢拉称现代汽车将在巴西投资11亿美元</title>
-      <link>https://www.reuters.com/business/autos-transportation/brazils-lula-says-hyundai-invest-11-billion-brazil-2024-02-22/</link>
-      <description><![CDATA[巴西总统路易斯·伊纳西奥·卢拉·达席尔瓦周四表示，汽车制造商现代汽车计划到 2032 年在巴西投资超过 11 亿美元。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/brazils-lula-says-hyundai-invest-11-billion-brazil-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 16:07:51 GMT</pubDate>
     </item>
     <item>
       <title>谷歌为广告商升级AI产品Gemini模型</title>
@@ -62,39 +90,11 @@
       <pubDate>Thu, 22 Feb 2024 16:03:40 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲巨型股的吸引力推动股市创历史新高</title>
-      <link>https://www.reuters.com/markets/europe/europes-megacap-appeal-stokes-stocks-record-highs-2024-02-22/</link>
-      <description><![CDATA[对利用全球长期增长趋势的巨型股票的需求不断增长，已将欧洲股市推升至新高，尽管一些人表示，随着投资者在其他地方寻求价值，欧洲股市的明星地位可能会减弱。]]></description>
-      <guid>https://www.reuters.com/markets/europe/europes-megacap-appeal-stokes-stocks-record-highs-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 15:23:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储杰斐逊认为通胀取得进展，称降息与广泛数据有关</title>
-      <link>https://www.reuters.com/business/feds-jefferson-says-he-is-cautiously-optimistic-about-inflation-2024-02-22/</link>
-      <description><![CDATA[美联储副主席菲利普·杰斐逊周四表示，他将研究一系列广泛的经济指标，以说服他现在是降息的时候了，但没有说明首次降息的时间。]]></description>
-      <guid>https://www.reuters.com/business/feds-jefferson-says-he-is-cautiously-optimistic-about-inflation-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 15:09:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国一月份成屋销售升至五个月高位</title>
-      <link>https://www.reuters.com/world/us/us-existing-home-sales-rise-five-month-high-january-2024-02-22/</link>
-      <description><![CDATA[由于抵押贷款利率下降促使买家观望，美国 1 月份成屋销售增至五个月高点，但供应紧张仍然是一个挑战。]]></description>
-      <guid>https://www.reuters.com/world/us/us-existing-home-sales-rise-five-month-high-january-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 15:02:47 GMT</pubDate>
-    </item>
-    <item>
       <title>标准普尔全球调查显示，2 月份美国商业活动放缓</title>
       <link>https://www.reuters.com/business/us-business-activity-moderates-february-sp-global-survey-2024-02-22/</link>
       <description><![CDATA[2 月份美国商业活动降温，通胀方面传来令人鼓舞的消息，投入品价格指标降至近 3-1/2 年来的最低水平，这可能会缓解人们对价格压力加剧的担忧。]]></description>
       <guid>https://www.reuters.com/business/us-business-activity-moderates-february-sp-global-survey-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 14:53:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告显示美国2月份新车销量将上升</title>
-      <link>https://www.reuters.com/business/autos-transportation/us-new-vehicles-sales-set-rise-february-report-shows-2024-02-22/</link>
-      <description><![CDATA[行业咨询公司 J.D. Power 和 GlobalData 周四联合发布的报告显示，在强劲需求和更好的汽车供应的推动下，美国 2 月份新车销量预计将同比增长 1.4%。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/us-new-vehicles-sales-set-rise-february-report-shows-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 14:11:12 GMT</pubDate>
     </item>
     <item>
       <title>由于劳动力市场依然紧张，美国每周申请失业救济人数下降</title>
@@ -111,23 +111,23 @@
       <pubDate>Thu, 22 Feb 2024 13:18:49 GMT</pubDate>
     </item>
     <item>
-      <title>AT&T表示美国蜂窝网络中断在大范围中断后有所缓解</title>
+      <title>AT&T 在中断数小时后恢复服务</title>
       <link>https://www.reuters.com/technology/cellular-outage-us-hits-att-t-mobile-verizon-users-downdetector-shows-2024-02-22/</link>
-      <description><![CDATA[AT&amp;T 表示，周四发生的手机故障导致数千名美国用户的通话和短信中断，该公司四分之三的网络已恢复，联邦机构对此展开了调查。]]></description>
+      <description><![CDATA[AT&amp;T 表示，在周四发生手机故障数小时后，该公司已为所有受影响的客户恢复了无线服务，导致数千名美国用户的通话和短信中断，促使联邦机构展开调查。]]></description>
       <guid>https://www.reuters.com/technology/cellular-outage-us-hits-att-t-mobile-verizon-users-downdetector-shows-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 10:24:16 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能典范英伟达的丰硕业绩推动标准普尔 500 指数创历史新高</title>
+      <title>人工智能宠儿英伟达的丰硕业绩推动标准普尔 500 指数和道琼斯指数创历史新高</title>
       <link>https://www.reuters.com/markets/us/nasdaq-futures-jump-nearly-2-after-nvidia-trounces-expectations-2024-02-22/</link>
-      <description><![CDATA[周四，基准标准普尔 500 指数创下新高，此前人工智能宠儿英伟达的井喷营收预测提振了投资者对该行业的信心，并引发了增长股和科技股的上涨。]]></description>
+      <description><![CDATA[周四，在人工智能宠儿英伟达预测营收丰厚之后，标准普尔 500 指数和道琼斯工业平均指数双双创下历史新高，这激发了投资者的信心，也提振了其他成长型股票。]]></description>
       <guid>https://www.reuters.com/markets/us/nasdaq-futures-jump-nearly-2-after-nvidia-trounces-expectations-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 10:12:09 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能狂热引发华尔街科技股反弹，英伟达市值飙升至 2 万亿美元大关</title>
+      <title>Nvidia 股票市值增加 2500 亿美元，创历史新高</title>
       <link>https://www.reuters.com/technology/ai-leader-nvidia-rises-forecast-tops-wall-streets-lofty-goals-2024-02-22/</link>
-      <description><![CDATA[在AI芯片需求再次超出华尔街的天价预期后，英伟达市值周四飙升至2万亿美元，重新点燃了全球科技股的涨势。]]></description>
+      <description><![CDATA[英伟达 (Nvidia) 周四股价上涨 2500 亿美元，有望创下华尔街历史上最大单日涨幅，此前这家重量级芯片制造商的季度报告超出预期，并重新点燃了人工智能乐观情绪推动的涨势。]]></description>
       <guid>https://www.reuters.com/technology/ai-leader-nvidia-rises-forecast-tops-wall-streets-lofty-goals-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 09:51:51 GMT</pubDate>
     </item>
@@ -137,13 +137,6 @@
       <description><![CDATA[没有哪只股票能像英伟达公司那样体现美国市场对人工智能的热情，这使得华尔街受到其股价波动的影响。]]></description>
       <guid>https://www.reuters.com/technology/graphic-nvidias-growing-sway-over-us-stock-market-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 06:06:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：Reddit 与谷歌达成人工智能内容授权协议</title>
-      <link>https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/</link>
-      <description><![CDATA[三名知情人士表示，社交媒体平台 Reddit 已与谷歌达成协议，将其内容用于训练这家搜索引擎巨头的人工智能模型。]]></description>
-      <guid>https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 04:10:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
