@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 22 Feb 2024 14:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 15:48:38 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰战争已过去两年，全球贸易裂痕扩大</title>
+      <link>https://www.reuters.com/markets/global-trade-rift-widening-ukraine-war-passes-two-year-mark-2024-02-22/</link>
+      <description><![CDATA[俄罗斯入侵乌克兰两年后，有明显迹象表明全球经济正在分裂成两个独立的集团，近 30 年来支撑商业的多边贸易规则正受到威胁。]]></description>
+      <guid>https://www.reuters.com/markets/global-trade-rift-widening-ukraine-war-passes-two-year-mark-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 14:25:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>海德堡材料考虑在美国上市以解决估值差距</title>
+      <link>https://www.reuters.com/markets/deals/heidelberg-materials-weighs-us-listing-tackle-valuation-gap-2024-02-22/</link>
+      <description><![CDATA[海德堡材料公司首席执行官周四对分析师表示，该公司正在考虑在美国上市，以此作为潜在解决估值地域差距的一种方式。]]></description>
+      <guid>https://www.reuters.com/markets/deals/heidelberg-materials-weighs-us-listing-tackle-valuation-gap-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 14:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国电动卡车初创公司Windrose首席执行官表示探索在欧洲生产</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinese-electric-truck-start-up-windrose-explores-production-europe-ceo-says-2024-02-22/</link>
+      <description><![CDATA[中国电动重型卡车初创公司Windrose的创始人兼首席执行官周四表示，该公司计划将其车辆的制造外包给欧洲的汽车制造合作伙伴，以寻求在该地区与特斯拉和梅赛德斯奔驰的竞争对手展开竞争。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinese-electric-truck-start-up-windrose-explores-production-europe-ceo-says-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 11:52:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国要求国际法院就以色列“非法”占领发表言论</title>
+      <link>https://www.reuters.com/world/china-asks-world-court-speak-out-unlawful-israeli-occupation-2024-02-22/</link>
+      <description><![CDATA[中国周四要求国际法院就以色列占领巴勒斯坦领土发表意见，称以色列占领巴勒斯坦领土是非法的。]]></description>
+      <guid>https://www.reuters.com/world/china-asks-world-court-speak-out-unlawful-israeli-occupation-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 11:51:36 GMT</pubDate>
+    </item>
     <item>
       <title>英伟达首席执行官表示，已开始为中国市场提供两款新的人工智能芯片样品</title>
       <link>https://www.reuters.com/technology/nvidia-has-begun-sampling-two-new-ai-chips-china-market-says-ceo-2024-02-22/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>中国将向美国派遣更多大熊猫 开启“熊猫外交”新时代</title>
       <link>https://www.reuters.com/world/china/china-send-more-pandas-us-jump-starting-new-era-panda-diplomacy-2024-02-22/</link>
-      <description><![CDATA[中国野生动物保护协会正在与华盛顿国家动物园合作，安排将更多大熊猫带回美国，这标志着两个超级大国之间外交关系的改善。]]></description>
+      <description><![CDATA[中国野生动物保护协会正在与华盛顿国家动物园合作，安排将更多大熊猫带回美国，这标志着两个超级大国之间的外交关系正在改善。]]></description>
       <guid>https://www.reuters.com/world/china/china-send-more-pandas-us-jump-starting-new-era-panda-diplomacy-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 10:34:27 GMT</pubDate>
     </item>
@@ -64,14 +92,14 @@
     <item>
       <title>中国联想营收在连续五个季度下滑后实现增长</title>
       <link>https://www.reuters.com/markets/asia/chinas-lenovo-posts-revenue-growth-after-five-quarters-decline-2024-02-22/</link>
-      <description><![CDATA[全球最大的个人电脑 (PC) 制造商中国联想集团周四公布了强于预期的收益，其收入在经历了 5 个季度的下滑后恢复增长，原因是新冠肺炎 (COVID-19) 疫情过后经济放缓。]]></description>
+      <description><![CDATA[全球最大的个人电脑 (PC) 制造商中国联想集团周四公布了强于预期的收益，其收入在经历了 5 个季度的下滑后恢复增长，并因新冠肺炎 (COVID-19) 疫情之后经济放缓而出现下滑。]]></description>
       <guid>https://www.reuters.com/markets/asia/chinas-lenovo-posts-revenue-growth-after-five-quarters-decline-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 05:38:54 GMT</pubDate>
     </item>
     <item>
       <title>中国面临更大的压力，要求采取重大政策来修复经济</title>
       <link>https://www.reuters.com/world/china/pressure-grows-china-big-policy-moves-fix-economy-2024-02-22/</link>
-      <description><![CDATA[随着下个月中国人大年度会议的临近，中国领导人面临着近十年来最大的压力，需要采取大胆的政策决定来维护经济的长期增长潜力。]]></description>
+      <description><![CDATA[随着下个月中国人大年度会议的临近，中国领导人面临着近十年来最大的压力，需要做出大胆的政策决定，以保障经济的长期增长潜力。]]></description>
       <guid>https://www.reuters.com/world/china/pressure-grows-china-big-policy-moves-fix-economy-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 05:36:43 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[全球最大的个人电脑制造商中国联想集团周四公布，10月至12月营收为157.2亿美元，同比增长3%。]]></description>
       <guid>https://www.reuters.com/technology/chinas-lenovo-posts-q3-revenue-growth-beats-analyst-estimates-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 04:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲律宾海岸警卫队称中国有关入侵的说法“不准确”</title>
-      <link>https://www.reuters.com/world/asia-pacific/philippine-coast-guard-says-chinese-claim-intrusion-inaccurate-2024-02-22/</link>
-      <description><![CDATA[周四，一名菲律宾海岸警卫队官员称，中国同行声称一艘渔船“非法侵入”北京海域的说法“不准确”。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/philippine-coast-guard-says-chinese-claim-intrusion-inaccurate-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 03:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>五角大楼表示，美国国务院同意向台湾出售军事装备</title>
-      <link>https://www.reuters.com/world/us/us-state-dept-oks-potential-sale-military-gear-taiwan-pentagon-says-2024-02-22/</link>
-      <description><![CDATA[五角大楼周三表示，美国国务院已批准向台湾出售价值约 7500 万美元的先进战术数据链系统升级计划。]]></description>
-      <guid>https://www.reuters.com/world/us/us-state-dept-oks-potential-sale-military-gear-taiwan-pentagon-says-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 03:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>日经指数在全球牛市中创下 1989 年以来的首次新高</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-22/</link>
-      <description><![CDATA[周四，全球芯片巨头英伟达 (Nvidia) 发布的重磅预测引发全球股指创下新高，其中包括日本日经指数 (Nikkei) 自 1989 年以来的首次创纪录高点，股市多头备受关注。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 03:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>台总统接见美国代表团：希望今年台美交流更多</title>
-      <link>https://www.reuters.com/world/asia-pacific/taiwan-president-visiting-us-delegation-hope-see-more-taiwan-us-exchanges-this-2024-02-22/</link>
-      <description><![CDATA[台湾总统蔡英文周四对来访的美国议员代表团表示，台湾希望看到更多的台美关系。今年的交流，台湾将继续与世界接触。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/taiwan-president-visiting-us-delegation-hope-see-more-taiwan-us-exchanges-this-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 02:33:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
