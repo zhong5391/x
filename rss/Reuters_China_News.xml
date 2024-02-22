@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 22 Feb 2024 04:26:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 06:58:27 GMT</lastBuildDate>
     <item>
       <title>菲律宾海岸警卫队称中国有关入侵的说法“不准确”</title>
       <link>https://www.reuters.com/world/asia-pacific/philippine-coast-guard-says-chinese-claim-intrusion-inaccurate-2024-02-22/</link>
@@ -120,7 +120,7 @@
     <item>
       <title>独家：继华为Mate 60 Pro之后，美国瞄准中国顶级芯片制造厂</title>
       <link>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</link>
-      <description><![CDATA[三名知情人士表示，拜登政府正在加大对中国最大受制裁芯片制造商的压力，在该公司为华为 Mate 60 Pro 手机生产先进芯片后，切断了该公司最先进的工厂从美国进口的产品。]]></description>
+      <description><![CDATA[三名知情人士表示，在这家为华为 Mate 60 Pro 手机生产先进芯片后，拜登政府正在加大对这家受制裁的中国顶级芯片制造商的压力，切断其最先进的工厂从美国进口更多产品的机会。]]></description>
       <guid>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 12:09:37 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Wed, 21 Feb 2024 11:19:36 GMT</pubDate>
     </item>
     <item>
-      <title>早间竞价：英伟达在美联储会议纪要通过期间获利了结</title>
+      <title>早盘竞价：美联储会议纪要通过时，英伟达股价下跌</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-21/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-21/</guid>
