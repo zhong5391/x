@@ -1,23 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 22 Feb 2024 07:58:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 09:48:37 GMT</lastBuildDate>
+    <item>
+      <title>中国商飞在新加坡航展上抢走了空客和波音的风头</title>
+      <link>https://www.reuters.com/business/aerospace-defense/chinese-planemaker-comac-upstages-airbus-boeing-singapore-airshow-2024-02-22/</link>
+      <description><![CDATA[中国国有飞机制造商中国商飞公司本周在新加坡航展上抢走了行业领头羊空客和波音公司的风头，在寻求国际认证和外国订单的同时，展示了其自主研发的C919和ARJ21喷气式飞机。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/chinese-planemaker-comac-upstages-airbus-boeing-singapore-airshow-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 07:23:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管英国前景和汽车金融规定，劳埃德利润仍大幅增长</title>
+      <link>https://www.reuters.com/business/finance/lloyds-profit-jumps-sets-aside-450-million-pounds-motor-finance-review-2024-02-22/</link>
+      <description><![CDATA[周四，劳埃德银行集团 (Lloyds Banking Group) 公布 2023 年利润增长 57%，原因是英国经济步履蹒跚，汽车金融监管审查带来的潜在成本未能对其业绩造成重大影响。]]></description>
+      <guid>https://www.reuters.com/business/finance/lloyds-profit-jumps-sets-aside-450-million-pounds-motor-finance-review-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 07:17:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>航空公司的可持续发展口号掩盖了对绿色未来的分歧</title>
+      <link>https://www.reuters.com/sustainability/airlines-sustainability-mantra-masks-divides-over-green-future-2024-02-22/</link>
+      <description><![CDATA[周日，活动组织者在宣传新加坡航展时被问及今年的航空和国防盛会有何不同。 “可持续性，可持续性，可持续性，”他回答道。]]></description>
+      <guid>https://www.reuters.com/sustainability/airlines-sustainability-mantra-masks-divides-over-green-future-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 07:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国劳斯莱斯公司 2023 年利润增长一倍多</title>
+      <link>https://www.reuters.com/business/aerospace-defense/profits-britains-rolls-royce-more-than-doubled-2023-2024-02-22/</link>
+      <description><![CDATA[英国罗尔斯·罗伊斯公司表示，去年的年利润增长了一倍以上，超出了市场预期，并预计随着由其发动机驱动的飞机飞行次数增加、国防订单流量和数据中心需求增加，2024 年利润将进一步跃升。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/profits-britains-rolls-royce-more-than-doubled-2023-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 07:10:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>梅赛德斯-奔驰警告称，地缘政治和贸易紧张局势将在 2024 年产生影响</title>
+      <link>https://www.reuters.com/business/autos-transportation/mercedes-benz-hits-cars-returns-forecast-inflation-supply-chain-costs-bite-2024-02-22/</link>
+      <description><![CDATA[梅赛德斯-奔驰周四预测其汽车和货车部门 2024 年的销售回报率将下降，并警告中东和俄罗斯冲突以及中美之间的紧张局势造成“异常”的不确定性。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/mercedes-benz-hits-cars-returns-forecast-inflation-supply-chain-costs-bite-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 06:34:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于价格上涨阻碍了购物者，雀巢未能实现全年有机销售预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/nestle-misses-full-year-organic-sales-estimates-2024-02-22/</link>
+      <description><![CDATA[雀巢周四公布的全年有机销售增长略低于预期，这家全球最大的包装食品公司继续提高价格，促使一些购物者转向竞争品牌。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/nestle-misses-full-year-organic-sales-estimates-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 06:18:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>航空公司测试旅客对高价的容忍度以增加利润</title>
+      <link>https://www.reuters.com/business/aerospace-defense/airlines-test-fliers-tolerance-high-prices-bolster-profits-2024-02-22/</link>
+      <description><![CDATA[投资者和高管表示，美国和欧洲航空公司今年的目标是通过提高机票价格再次提高利润，因为它们试图从新冠疫情后的旅行热潮中榨取资源，并在飞机持续短缺的情况下降低成本。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/airlines-test-fliers-tolerance-high-prices-bolster-profits-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 06:07:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达对美国股市的影响力日益增强</title>
+      <link>https://www.reuters.com/technology/graphic-nvidias-growing-sway-over-us-stock-market-2024-02-22/</link>
+      <description><![CDATA[没有哪只股票能像英伟达公司那样体现美国市场对人工智能的热情，这使得华尔街受到其股价波动的影响。]]></description>
+      <guid>https://www.reuters.com/technology/graphic-nvidias-growing-sway-over-us-stock-market-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 06:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stellantis 将于 2025 年在英国卢顿工厂开始生产电动货车</title>
+      <link>https://www.reuters.com/business/autos-transportation/stellantis-start-electric-van-production-uk-luton-plant-2025-2024-02-22/</link>
+      <description><![CDATA[Stellantis 周四表示，将于 2025 年在英国卢顿工厂开始生产中型电动货车，这为这家拥有 92 年生产货车历史的工厂提供了一些长期确定性。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/stellantis-start-electric-van-production-uk-luton-plant-2025-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 06:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国面临更大的压力，要求采取重大政策来修复经济</title>
+      <link>https://www.reuters.com/world/china/pressure-grows-china-big-policy-moves-fix-economy-2024-02-22/</link>
+      <description><![CDATA[随着下个月中国人大年度会议的临近，中国领导人面临着近十年来最大的压力，需要做出大胆的政策决定，以保障经济的长期增长潜力。]]></description>
+      <guid>https://www.reuters.com/world/china/pressure-grows-china-big-policy-moves-fix-economy-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 05:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>左撇子：Zara 在快时尚领域对抗 Shein 的秘密武器</title>
+      <link>https://www.reuters.com/business/retail-consumer/zara-owner-inditex-expands-bargain-brand-counter-shein-2024-02-22/</link>
+      <description><![CDATA[Zara 母公司 Inditex 是全球销量最大的快时尚上市公司，该公司正在扩大其专注于 Z 世代的低价品牌 Lefties，以对抗中国创立的竞争对手 Shein。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/zara-owner-inditex-expands-bargain-brand-counter-shein-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 05:04:22 GMT</pubDate>
+    </item>
     <item>
       <title>中国联想第三季度收入增长超出分析师预期</title>
       <link>https://www.reuters.com/technology/chinas-lenovo-posts-q3-revenue-growth-beats-analyst-estimates-2024-02-22/</link>
       <description><![CDATA[全球最大的个人电脑制造商中国联想集团周四公布，10月至12月营收为157.2亿美元，同比增长3%。]]></description>
       <guid>https://www.reuters.com/technology/chinas-lenovo-posts-q3-revenue-growth-beats-analyst-estimates-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 04:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>民意调查 超过 80% 的经济学家表示，日本央行将在 4 月份取消负利率</title>
-      <link>https://www.reuters.com/markets/asia/boj-scrap-negative-interest-rates-april-say-over-80-economists-2024-02-22/</link>
-      <description><![CDATA[路透社调查的超过 80% 的经济学家表示，日本央行将于 4 月份终止为期八年的负利率政策，这标志着全球异常央行的期待已久的重大转变。]]></description>
-      <guid>https://www.reuters.com/markets/asia/boj-scrap-negative-interest-rates-april-say-over-80-economists-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 04:11:17 GMT</pubDate>
     </item>
     <item>
       <title>独家：Reddit 与谷歌达成人工智能内容授权协议</title>
@@ -27,24 +97,9 @@
       <pubDate>Thu, 22 Feb 2024 04:10:28 GMT</pubDate>
     </item>
     <item>
-      <title>日经指数创历史新高，野村交易员爆发出热烈掌声</title>
-      <link>https://www.reuters.com/markets/asia/nomura-traders-burst-into-applause-nikkei-hits-record-high-2024-02-22/</link>
-      <description><![CDATA[周四，东京交易室响起掌声，日本股市创下历史最高水平，打破了 20 世纪 80 年代泡沫经济期间创下的、长期以来被视为牢不可破的纪录。
-午间休市后，经纪公司野村证券东京交易大厅的大约 20 名交易员开始站了起来，日经指数突破了去年 12 月创下的 38,957.44 点的历史新高。]]></description>
-      <guid>https://www.reuters.com/markets/asia/nomura-traders-burst-into-applause-nikkei-hits-record-high-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 03:56:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>日经指数创历史新高：分析师是这么说的</title>
-      <link>https://www.reuters.com/markets/asia/view-japans-nikkei-hits-record-high-2024-02-22/</link>
-      <description><![CDATA[日本日经指数周四创下历史新高，超过了 1989 年的高点，此前在廉价估值、企业改革和投资流从遭受重创的中国股市转移的推动下，日本日经指数经历了一年的上涨。]]></description>
-      <guid>https://www.reuters.com/markets/asia/view-japans-nikkei-hits-record-high-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 03:41:17 GMT</pubDate>
-    </item>
-    <item>
       <title>日经指数创历史新高，日本疯狂的 20 世纪 80 年代留下了一段黯淡的记忆</title>
       <link>https://www.reuters.com/markets/asia/japans-crazy-1980s-bubble-dim-memory-nikkei-hits-record-high-2024-02-22/</link>
-      <description><![CDATA[随着日本股市最终恢复过去的峰值，这让人回想起那个时候，这个国家的每个人似乎都是股市百万富翁——东京的一个停车场比纽约的中央公园更值钱，而未来看起来就像一场无休无止的派对。]]></description>
+      <description><![CDATA[随着日本股市最终恢复过去的峰值，这让人回想起那个时候，这个国家的每个人似乎都是股市百万富翁——东京的一个停车场比纽约的中央公园更值钱，未来看起来就像一场无休无止的派对。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-crazy-1980s-bubble-dim-memory-nikkei-hits-record-high-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 03:39:46 GMT</pubDate>
     </item>
@@ -56,46 +111,11 @@
       <pubDate>Thu, 22 Feb 2024 03:38:57 GMT</pubDate>
     </item>
     <item>
-      <title>日本日经指数创历史新高，打破1989年纪录</title>
-      <link>https://www.reuters.com/markets/asia/japans-nikkei-share-average-crosses-all-time-high-breaking-1989-record-2024-02-22/</link>
-      <description><![CDATA[日本基准日经指数周四创下历史新高，打破了 1989 年泡沫经济太平时期的水平。]]></description>
-      <guid>https://www.reuters.com/markets/asia/japans-nikkei-share-average-crosses-all-time-high-breaking-1989-record-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 03:35:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>越南廉价航空公司 VietJet 同意购买 20 架空客 A330neo 喷气式飞机的临时协议</title>
-      <link>https://www.reuters.com/markets/deals/vietnamese-budget-carrier-vietjet-agrees-provisional-deal-20-airbus-a330neo-jets-2024-02-22/</link>
-      <description><![CDATA[越南廉价航空公司越捷航空周四表示，随着该航空公司扩大其长途航线网络，该公司已同意从欧洲空客公司订购 20 架 A330neo 宽体客机的临时协议。]]></description>
-      <guid>https://www.reuters.com/markets/deals/vietnamese-budget-carrier-vietjet-agrees-provisional-deal-20-airbus-a330neo-jets-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 03:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>空客称澳航A350交付延迟是由于需要重新设计额外油箱</title>
-      <link>https://www.reuters.com/business/aerospace-defense/airbus-says-qantas-a350-1000-delivery-delays-due-need-redesign-fuel-tank-2024-02-22/</link>
-      <description><![CDATA[空客公司一位高管表示，由于监管机构要求空客公司重新设计一个额外的油箱，因此其专为澳洲航空悉尼-伦敦直飞航班设计的超远程版本 A350-1000 喷气式飞机的推出面临着延迟。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/airbus-says-qantas-a350-1000-delivery-delays-due-need-redesign-fuel-tank-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 03:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达击败日本日经指数创历史新高，亚洲其他地区表现平平</title>
+      <title>英伟达提振亚洲科技股，日本日经指数创历史新高</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-22/</link>
-      <description><![CDATA[美国芯片设计公司英伟达出人意料地强劲的收入预测提振了亚洲科技股，日本日经指数周四创下历史新高。]]></description>
+      <description><![CDATA[美国芯片设计公司英伟达出人意料地强劲的营收预测提振了亚洲科技股，日本日经指数周四创下历史新高。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 03:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>油价小幅走高，因供应紧张迹象而保持涨势</title>
-      <link>https://www.reuters.com/business/energy/oil-edges-higher-holding-gains-made-signs-tighter-supply-2024-02-22/</link>
-      <description><![CDATA[周四油价小幅上涨，在供应趋紧的迹象下维持了前一交易日的涨幅。]]></description>
-      <guid>https://www.reuters.com/business/energy/oil-edges-higher-holding-gains-made-signs-tighter-supply-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 02:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Etsy 预测第一季度因可自由支配需求低迷而悲观</title>
-      <link>https://www.reuters.com/business/retail-consumer/etsy-forecasts-downbeat-first-quarter-sluggish-discretionary-demand-2024-02-21/</link>
-      <description><![CDATA[Etsy Inc 周三警告称，由于对其在线市场上销售的手工制品和个性化礼品的需求疲软，第一季度商品销售总额（GMS）下降。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/etsy-forecasts-downbeat-first-quarter-sluggish-discretionary-demand-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 22:11:48 GMT</pubDate>
     </item>
     <item>
       <title>收入预测超出预期，人工智能需求持续增长，英伟达股价飙升</title>
@@ -107,16 +127,9 @@
     <item>
       <title>随着电动汽车需求减弱，Rivian 和 Lucid 的 2024 年产量目标令人失望</title>
       <link>https://www.reuters.com/business/autos-transportation/rivian-forecasts-annual-production-well-below-estimates-2024-02-21/</link>
-      <description><![CDATA[电动汽车初创公司 Rivian 和 Lucid 周三预测 2024 年的产量远低于分析师的预期，因为持续高企的借贷成本阻碍消费者购买价格相对较高的电池驱动汽车。]]></description>
+      <description><![CDATA[电动汽车初创公司 Rivian 和 Lucid 周三预测 2024 年产量远低于分析师预期，因为持续高企的借贷成本阻碍消费者购买价格相对较高的电池驱动汽车。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/rivian-forecasts-annual-production-well-below-estimates-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 21:13:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>一月份会议纪要显示美联储担心降息过早</title>
-      <link>https://www.reuters.com/markets/us/fed-concerned-about-cutting-rates-too-soon-minutes-january-meeting-show-2024-02-21/</link>
-      <description><![CDATA[根据1月30日至31日的会议纪要，美联储上次会议的大部分决策者都担心过早降息的风险，并且对于借贷成本应在当前水平维持多久存在广泛的不确定性。]]></description>
-      <guid>https://www.reuters.com/markets/us/fed-concerned-about-cutting-rates-too-soon-minutes-january-meeting-show-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 19:03:56 GMT</pubDate>
     </item>
     <item>
       <title>波音 737 MAX 项目在飞机制造商启动</title>
@@ -126,25 +139,11 @@
       <pubDate>Wed, 21 Feb 2024 18:42:10 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔成为微软代工客户，有望超越台积电</title>
-      <link>https://www.reuters.com/technology/intel-expects-overtake-tsmc-making-fastest-chips-this-year-2024-02-21/</link>
-      <description><![CDATA[英特尔周三表示，微软计划利用其服务制造定制计算芯片，该公司预计在 2025 年内部最后期限之前，在先进芯片制造领域超越其最大竞争对手台积电。]]></description>
-      <guid>https://www.reuters.com/technology/intel-expects-overtake-tsmc-making-fastest-chips-this-year-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 16:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>德克萨斯州加密货币公司起诉美国证券交易委员会（SEC），称其对数字资产“越权”</title>
-      <link>https://www.reuters.com/technology/texas-crypto-company-sues-sec-overreach-digital-assets-2024-02-21/</link>
-      <description><![CDATA[德克萨斯州一家加密货币公司和一个行业组织周三起诉美国证券交易委员会，称该监管机构越权，并要求法官裁定在交易所交易的数字资产不是证券。]]></description>
-      <guid>https://www.reuters.com/technology/texas-crypto-company-sues-sec-overreach-digital-assets-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 16:14:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：继华为Mate 60 Pro之后，美国瞄准中国顶级芯片制造厂</title>
-      <link>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</link>
-      <description><![CDATA[三名知情人士表示，拜登政府正在加大对中国最大受制裁芯片制造商的压力，在该公司为华为 Mate 60 Pro 手机生产先进芯片后，切断了该公司最先进的工厂从美国进口的产品。]]></description>
-      <guid>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 12:09:37 GMT</pubDate>
+      <title>中国为支撑陷入困境的股市所做的努力</title>
+      <link>https://www.reuters.com/markets/asia/measures-china-has-taken-prop-up-its-stock-market-2024-01-23/</link>
+      <description><![CDATA[在当局加大力度恢复对中国遭受重创的市场的信心之后，中国股市周四上涨，基准上证综合指数连续第七个交易日上涨。]]></description>
+      <guid>https://www.reuters.com/markets/asia/measures-china-has-taken-prop-up-its-stock-market-2024-01-23/</guid>
+      <pubDate>Tue, 23 Jan 2024 07:15:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
