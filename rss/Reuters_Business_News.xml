@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 22 Feb 2024 06:41:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 07:17:38 GMT</lastBuildDate>
     <item>
       <title>中国联想第三季度收入增长超出分析师预期</title>
       <link>https://www.reuters.com/technology/chinas-lenovo-posts-q3-revenue-growth-beats-analyst-estimates-2024-02-22/</link>
@@ -30,7 +30,7 @@
       <title>日经指数创历史新高，野村交易员爆发出热烈掌声</title>
       <link>https://www.reuters.com/markets/asia/nomura-traders-burst-into-applause-nikkei-hits-record-high-2024-02-22/</link>
       <description><![CDATA[周四，东京交易室响起掌声，日本股市创下历史最高水平，打破了 20 世纪 80 年代泡沫经济期间创下的、长期以来被视为牢不可破的纪录。
-午间休市后，经纪公司野村证券东京交易大厅的约 20 名交易员开始站了起来，日经指数突破了 12 月创下的 38,957.44 点的历史新高。]]></description>
+午间休市后，经纪公司野村证券东京交易大厅的大约 20 名交易员开始站了起来，日经指数突破了去年 12 月创下的 38,957.44 点的历史新高。]]></description>
       <guid>https://www.reuters.com/markets/asia/nomura-traders-burst-into-applause-nikkei-hits-record-high-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 03:56:30 GMT</pubDate>
     </item>
@@ -44,7 +44,7 @@
     <item>
       <title>日经指数创历史新高，日本疯狂的 20 世纪 80 年代留下了一段黯淡的记忆</title>
       <link>https://www.reuters.com/markets/asia/japans-crazy-1980s-bubble-dim-memory-nikkei-hits-record-high-2024-02-22/</link>
-      <description><![CDATA[随着日本股市最终恢复过去的峰值，这让人回想起那个时候，这个国家的每个人似乎都是股市百万富翁——东京的一个停车场比纽约的中央公园更值钱，未来看起来就像一场无休无止的派对。]]></description>
+      <description><![CDATA[随着日本股市最终恢复过去的峰值，这让人回想起那个时候，这个国家的每个人似乎都是股市百万富翁——东京的一个停车场比纽约的中央公园更值钱，而未来看起来就像一场无休无止的派对。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-crazy-1980s-bubble-dim-memory-nikkei-hits-record-high-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 03:39:46 GMT</pubDate>
     </item>
@@ -79,7 +79,7 @@
     <item>
       <title>英伟达击败日本日经指数创历史新高，亚洲其他地区表现平平</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-22/</link>
-      <description><![CDATA[美国芯片设计公司英伟达出人意料地强劲的营收预测提振了亚洲科技股，日本日经指数周四创下历史新高。]]></description>
+      <description><![CDATA[美国芯片设计公司英伟达出人意料地强劲的收入预测提振了亚洲科技股，日本日经指数周四创下历史新高。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 03:00:06 GMT</pubDate>
     </item>
@@ -107,14 +107,14 @@
     <item>
       <title>随着电动汽车需求减弱，Rivian 和 Lucid 的 2024 年产量目标令人失望</title>
       <link>https://www.reuters.com/business/autos-transportation/rivian-forecasts-annual-production-well-below-estimates-2024-02-21/</link>
-      <description><![CDATA[电动汽车初创公司 Rivian 和 Lucid 周三预测 2024 年产量远低于分析师预期，因为持续高企的借贷成本阻碍消费者购买价格相对较高的电池驱动汽车。]]></description>
+      <description><![CDATA[电动汽车初创公司 Rivian 和 Lucid 周三预测 2024 年的产量远低于分析师的预期，因为持续高企的借贷成本阻碍消费者购买价格相对较高的电池驱动汽车。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/rivian-forecasts-annual-production-well-below-estimates-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 21:13:20 GMT</pubDate>
     </item>
     <item>
       <title>一月份会议纪要显示美联储担心降息过早</title>
       <link>https://www.reuters.com/markets/us/fed-concerned-about-cutting-rates-too-soon-minutes-january-meeting-show-2024-02-21/</link>
-      <description><![CDATA[根据 1 月 30 日至 31 日的会议纪要，美联储上次会议的大部分决策者都担心过早降息的风险，并且对于借贷成本应在当前水平维持多久存在广泛的不确定性。]]></description>
+      <description><![CDATA[根据1月30日至31日的会议纪要，美联储上次会议的大部分决策者都担心过早降息的风险，并且对于借贷成本应在当前水平维持多久存在广泛的不确定性。]]></description>
       <guid>https://www.reuters.com/markets/us/fed-concerned-about-cutting-rates-too-soon-minutes-january-meeting-show-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 19:03:56 GMT</pubDate>
     </item>
@@ -142,7 +142,7 @@
     <item>
       <title>独家：继华为Mate 60 Pro之后，美国瞄准中国顶级芯片制造厂</title>
       <link>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</link>
-      <description><![CDATA[三名知情人士表示，在这家为华为 Mate 60 Pro 手机生产先进芯片后，拜登政府正在加大对这家受制裁的中国顶级芯片制造商的压力，切断其最先进的工厂从美国进口更多产品的机会。]]></description>
+      <description><![CDATA[三名知情人士表示，拜登政府正在加大对中国最大受制裁芯片制造商的压力，在该公司为华为 Mate 60 Pro 手机生产先进芯片后，切断了该公司最先进的工厂从美国进口的产品。]]></description>
       <guid>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 12:09:37 GMT</pubDate>
     </item>
