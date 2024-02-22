@@ -4,11 +4,11 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 22 Feb 2024 03:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 04:07:35 GMT</lastBuildDate>
     <item>
       <title>日本基准日经指数短暂创出盘中新高</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-22/nikkei-225-heads-to-close-above-record-high-reached-in-1989</link>
-      <description><![CDATA[日经 225 指数在早盘交易中短暂突破 1989 年创下的历史新高后，预计收盘将高于 1989 年创下的历史新高，因为日元走弱支撑了出口商，而英伟达公司好于预期的盈利提振了市场情绪。]]></description>
+      <description><![CDATA[日本日经 225 指数创下盘中历史新高，与华尔街股市一起进入未知领域。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-22/nikkei-225-heads-to-close-above-record-high-reached-in-1989</guid>
       <pubDate>Thu, 22 Feb 2024 03:26:33 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>随着交易员权衡支撑措施，中国股市涨势暂停</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-22/china-stock-rally-takes-breather-as-traders-weigh-support-steps</link>
-      <description><![CDATA[周四早盘，中国股市波动，交易员评估了在经济风险持续存在的情况下稳定市场的最新措施。]]></description>
+      <description><![CDATA[随着交易员评估在经济风险持续存在的情况下稳定市场的最新措施，中国股市出现波动。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-22/china-stock-rally-takes-breather-as-traders-weigh-support-steps</guid>
       <pubDate>Thu, 22 Feb 2024 02:41:19 GMT</pubDate>
     </item>
@@ -174,13 +174,6 @@
       <pubDate>Wed, 21 Feb 2024 23:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>跨国公司选择新加坡而非香港作为亚洲总部</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-21/multinationals-choose-singapore-over-hong-kong-for-asian-hqs</link>
-      <description><![CDATA[国际商界很清楚他们想在亚洲的哪个地方安​​家：新加坡。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-21/multinationals-choose-singapore-over-hong-kong-for-asian-hqs</guid>
-      <pubDate>Wed, 21 Feb 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Fortescue 的利润大幅增长，无视铁矿石竞争对手的低迷</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-21/fortescue-s-first-half-profit-rises-41-on-iron-ore-exports</link>
       <description><![CDATA[Fortescue Ltd.上半年利润飙升41%，超出预期，并扭转了全球最大铁矿石开采商盈利下降的趋势。]]></description>
@@ -214,6 +207,13 @@
       <description><![CDATA[一切都着眼于长期，而且还需要几年的平静时间才能动摇人们对非常成功的投资策略的信念]]></description>
       <guid>https://www.bloomberg.com/opinion/articles/2024-02-21/yale-endowment-one-muted-year-isn-t-a-verdict-on-swensen-s-strategy</guid>
       <pubDate>Wed, 21 Feb 2024 05:30:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本日经指数最终突破 1989 年的历史峰值</title>
+      <link>https://www.bloomberg.com/graphics/2024-japan-nikkei-index-tracker/</link>
+      <description><![CDATA[随着日元疲软和企业盈利强劲增强市场信心，资产价值正在上涨。]]></description>
+      <guid>https://www.bloomberg.com/graphics/2024-japan-nikkei-index-tracker/</guid>
+      <pubDate>Thu, 15 Feb 2024 03:09:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
