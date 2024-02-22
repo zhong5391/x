@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 22 Feb 2024 03:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 04:39:23 GMT</lastBuildDate>
+    <item>
+      <title>油价小幅走高，因供应紧张迹象而保持涨势</title>
+      <link>https://www.reuters.com/business/energy/oil-edges-higher-holding-gains-made-signs-tighter-supply-2024-02-22/</link>
+      <description><![CDATA[周四油价小幅上涨，在供应趋紧的迹象下维持了前一交易日的涨幅。]]></description>
+      <guid>https://www.reuters.com/business/energy/oil-edges-higher-holding-gains-made-signs-tighter-supply-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 02:00:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达强劲前景带动芯片股上涨，日经指数飙升至历史收盘高位</title>
+      <link>https://www.reuters.com/markets/asia/nikkei-soars-past-all-time-closing-high-chip-stocks-rise-nvidias-robust-outlook-2024-02-22/</link>
+      <description><![CDATA[周四，日本日经指数飙升至 1989 年 12 月创下的历史收盘高点，美国芯片制造商英伟达 (Nvidia) 的前景超出市场预期后，芯片相关股票大幅上涨。]]></description>
+      <guid>https://www.reuters.com/markets/asia/nikkei-soars-past-all-time-closing-high-chip-stocks-rise-nvidias-robust-outlook-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 01:57:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>美元区间波动，等待一系列PMI数据</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-rangebound-an-array-pmi-data-awaited-2024-02-22/</link>
+      <description><![CDATA[周四美元基本保持稳定，交易员正在等待一系列商业活动调查，以评估主要经济体的健康状况及其对全球利率前景的影响。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-rangebound-an-array-pmi-data-awaited-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 01:47:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国维持利率稳定，投资者关注转向时机</title>
+      <link>https://www.reuters.com/markets/asia/south-korea-holds-rates-steady-investors-eye-timing-pivot-2024-02-22/</link>
+      <description><![CDATA[韩国央行周四将利率维持在 15 年来的高位，有迹象表明经济疲软正在减缓通胀，投资者将注意力集中在行长李昌镛 (Rhee Chang-yong) 关于今年晚些时候政策转向时机的评论上。]]></description>
+      <guid>https://www.reuters.com/markets/asia/south-korea-holds-rates-steady-investors-eye-timing-pivot-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 01:00:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国央行如预期维持利率稳定</title>
+      <link>https://www.reuters.com/markets/asia/south-korea-central-bank-keeps-rates-steady-expected-2024-02-22/</link>
+      <description><![CDATA[韩国央行周四将利率维持在 15 年来的高位，有迹象表明经济疲软正在减缓通胀。]]></description>
+      <guid>https://www.reuters.com/markets/asia/south-korea-central-bank-keeps-rates-steady-expected-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 01:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于情况恶化，日本 2 月份工厂活动延续下滑 - PMI</title>
+      <link>https://www.reuters.com/markets/asia/japans-feb-factory-activity-extends-declines-conditions-worsen-pmi-2024-02-22/</link>
+      <description><![CDATA[周四的调查显示，2 月份日本工厂活动继续下滑，服务业增长放缓，这表明随着经济努力摆脱衰退，商业状况正在恶化。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japans-feb-factory-activity-extends-declines-conditions-worsen-pmi-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 00:33:26 GMT</pubDate>
+    </item>
     <item>
       <title>汇丰成本难题加剧投资者银行审查</title>
       <link>https://www.reuters.com/business/finance/hsbc-cost-conundrum-intensifies-investor-bank-scrutiny-2024-02-22/</link>
@@ -20,60 +62,11 @@
       <pubDate>Wed, 21 Feb 2024 23:22:08 GMT</pubDate>
     </item>
     <item>
-      <title>路透调查显示，一半日本企业认为特朗普再次当选总统存在风险</title>
+      <title>民意调查 路透社民意调查显示，一半日本公司认为特朗普再次当选总统存在风险</title>
       <link>https://www.reuters.com/markets/asia/half-japanese-firms-see-another-trump-presidency-risk-reuters-poll-shows-2024-02-21/</link>
       <description><![CDATA[路透社周四的一项调查显示，大约一半的日本企业认为唐纳德·特朗普再次当选总统对企业构成潜在风险，保护主义加剧的前景是担忧的主要原因。]]></description>
       <guid>https://www.reuters.com/markets/asia/half-japanese-firms-see-another-trump-presidency-risk-reuters-poll-shows-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 23:17:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴西淡水河谷表示其索塞戈铜矿运营许可证已被吊销</title>
-      <link>https://www.reuters.com/markets/commodities/brazils-vale-says-its-sossego-mine-operating-license-has-been-suspended-2024-02-21/</link>
-      <description><![CDATA[巴西矿商淡水河谷周三表示，已收到帕拉州环境部长的一封信，通知其索塞戈矿的运营许可证已被暂停。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/brazils-vale-says-its-sossego-mine-operating-license-has-been-suspended-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 23:15:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>路透调查显示，日本公司将特朗普总统任期视为商业风险</title>
-      <link>https://www.reuters.com/markets/asia/japan-inc-sees-trump-presidency-business-risk-reuters-poll-shows-2024-02-21/</link>
-      <description><![CDATA[路透社的一项调查显示，近一半的日本公司认为唐纳德·特朗普连任美国总统的前景存在风险，因为一些民意调查显示他是 11 月大选的领跑者。企业表示，他们最担心的是保护主义政策。特朗普的“美国优先”政策是他2017年至2021年任期的特点。]]></description>
-      <guid>https://www.reuters.com/markets/asia/japan-inc-sees-trump-presidency-business-risk-reuters-poll-shows-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 23:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达股价在业绩公布后飙升，提振其他人工智能股票</title>
-      <link>https://www.reuters.com/technology/nvidia-stock-surges-after-results-lifts-other-ai-shares-2024-02-21/</link>
-      <description><![CDATA[周三晚间，芯片制造商 Nvidia 发布的备受期待的季度报告超出了预期，并引发了其他人工智能硬件股票的上涨，该公司的股票市值增加了超过 1290 亿美元。]]></description>
-      <guid>https://www.reuters.com/technology/nvidia-stock-surges-after-results-lifts-other-ai-shares-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 23:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>皇家加勒比因邮轮需求强劲而上调年度利润预测</title>
-      <link>https://www.reuters.com/business/royal-caribbean-boosts-annual-profit-forecast-strong-cruise-demand-2024-02-21/</link>
-      <description><![CDATA[皇家加勒比集团周三上调了年度利润预期，因为该公司受益于关键“浪潮季节”期间强劲的游轮需求和强劲的船上支出。]]></description>
-      <guid>https://www.reuters.com/business/royal-caribbean-boosts-annual-profit-forecast-strong-cruise-demand-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 23:11:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着中国脱钩加速，台湾芯片公司涌向日本</title>
-      <link>https://www.reuters.com/technology/taiwan-chip-firms-flock-japan-china-decoupling-accelerates-2024-02-21/</link>
-      <description><![CDATA[随着越来越多的台湾芯片公司在这里扩张，日本重建半导体行业的努力正受到强心剂——不仅是为了支持台积电的新工厂，而且还对日本半导体行业的前景感到兴奋。]]></description>
-      <guid>https://www.reuters.com/technology/taiwan-chip-firms-flock-japan-china-decoupling-accelerates-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 23:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>尼古拉首席执行官吉尔斯基被任命为代理首席财务官</title>
-      <link>https://www.reuters.com/business/autos-transportation/nikola-ceo-girsky-appointed-acting-chief-financial-officer-2024-02-21/</link>
-      <description><![CDATA[根据周三提交的监管文件，尼古拉于 2 月 14 日任命其首席执行官斯蒂芬·吉尔斯基 (Stephen Girsky) 为该电动卡车制造商的代理首席财务官。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/nikola-ceo-girsky-appointed-acting-chief-financial-officer-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 22:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国表示，尽管投资者积极行动，诺福克南方航空仍必须关注安全</title>
-      <link>https://www.reuters.com/business/autos-transportation/us-says-norfolk-southern-must-focus-safety-despite-investor-activism-2024-02-21/</link>
-      <description><![CDATA[在一群激进投资者提议更换该公司的高层管理人员后，联邦铁路管理局局长周三敦促诺福克南方公司关注安全。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/us-says-norfolk-southern-must-focus-safety-despite-investor-activism-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 22:47:45 GMT</pubDate>
     </item>
     <item>
       <title>Etsy 预测第一季度因可自由支配需求低迷而悲观</title>
@@ -99,9 +92,16 @@
     <item>
       <title>一月份会议纪要显示美联储担心降息过早</title>
       <link>https://www.reuters.com/markets/us/fed-concerned-about-cutting-rates-too-soon-minutes-january-meeting-show-2024-02-21/</link>
-      <description><![CDATA[根据1月30日至31日的会议纪要，美联储上次会议的大部分决策者都担心过早降息的风险，并且对于借贷成本应在当前水平维持多久存在广泛的不确定性。]]></description>
+      <description><![CDATA[根据 1 月 30 日至 31 日的会议纪要，美联储上次会议的大部分决策者都担心过早降息的风险，并且对于借贷成本应在当前水平维持多久存在广泛的不确定性。]]></description>
       <guid>https://www.reuters.com/markets/us/fed-concerned-about-cutting-rates-too-soon-minutes-january-meeting-show-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 19:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音 737 MAX 项目在飞机制造商启动</title>
+      <link>https://www.reuters.com/business/aerospace-defense/boeing-737-max-program-head-renton-plant-leaves-planemaker-memo-2024-02-21/</link>
+      <description><![CDATA[波音公司周三表示，将立即更换陷入困境的 737 MAX 项目负责人，这是自 1 月 5 日阿拉斯加航空 MAX 9 新型飞机空中面板爆裂以来首次重大高管离职。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/boeing-737-max-program-head-renton-plant-leaves-planemaker-memo-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 18:42:10 GMT</pubDate>
     </item>
     <item>
       <title>切萨皮克称天然气市场供应过剩，计划削减产量和支出</title>
@@ -134,7 +134,7 @@
     <item>
       <title>独家：继华为Mate 60 Pro之后，美国瞄准中国顶级芯片制造厂</title>
       <link>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</link>
-      <description><![CDATA[三名知情人士表示，拜登政府正在加大对中国最大受制裁芯片制造商的压力，在该公司为华为 Mate 60 Pro 手机生产先进芯片后，切断了该公司最先进的工厂从美国进口的产品。]]></description>
+      <description><![CDATA[三名知情人士表示，在这家为华为 Mate 60 Pro 手机生产先进芯片后，拜登政府正在加大对这家受制裁的中国顶级芯片制造商的压力，切断其最先进的工厂从美国进口更多产品的机会。]]></description>
       <guid>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 12:09:37 GMT</pubDate>
     </item>
