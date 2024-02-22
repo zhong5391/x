@@ -1,72 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 22 Feb 2024 04:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 04:52:21 GMT</lastBuildDate>
+    <item>
+      <title>中国联想第三季度收入增长超出分析师预期</title>
+      <link>https://www.reuters.com/technology/chinas-lenovo-posts-q3-revenue-growth-beats-analyst-estimates-2024-02-22/</link>
+      <description><![CDATA[全球最大的个人电脑制造商中国联想集团周四公布，10月至12月营收为157.2亿美元，同比增长3%。]]></description>
+      <guid>https://www.reuters.com/technology/chinas-lenovo-posts-q3-revenue-growth-beats-analyst-estimates-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 04:13:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>民意调查 超过 80% 的经济学家表示，日本央行将在 4 月份取消负利率</title>
+      <link>https://www.reuters.com/markets/asia/boj-scrap-negative-interest-rates-april-say-over-80-economists-2024-02-22/</link>
+      <description><![CDATA[路透社调查的超过 80% 的经济学家表示，日本央行将于 4 月份终止为期八年的负利率政策，这标志着全球异常央行的期待已久的重大转变。]]></description>
+      <guid>https://www.reuters.com/markets/asia/boj-scrap-negative-interest-rates-april-say-over-80-economists-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 04:11:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：Reddit 与谷歌达成人工智能内容授权协议</title>
+      <link>https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/</link>
+      <description><![CDATA[三名知情人士表示，社交媒体平台 Reddit 已与谷歌达成协议，将其内容用于训练这家搜索引擎巨头的人工智能模型。]]></description>
+      <guid>https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 04:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>日经指数创历史新高，野村交易员爆发出热烈掌声</title>
+      <link>https://www.reuters.com/markets/asia/nomura-traders-burst-into-applause-nikkei-hits-record-high-2024-02-22/</link>
+      <description><![CDATA[周四，东京交易室响起掌声，日本股市创下历史最高水平，打破了 20 世纪 80 年代泡沫经济期间创下的、长期以来被视为牢不可破的纪录。
+午间休市后，经纪公司野村证券东京交易大厅的大约 20 名交易员开始站了起来，日经指数突破了去年 12 月创下的 38,957.44 点的历史新高。]]></description>
+      <guid>https://www.reuters.com/markets/asia/nomura-traders-burst-into-applause-nikkei-hits-record-high-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 03:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>日经指数创历史新高：分析师是这么说的</title>
+      <link>https://www.reuters.com/markets/asia/view-japans-nikkei-hits-record-high-2024-02-22/</link>
+      <description><![CDATA[日本日经指数周四创下历史新高，超过了 1989 年的高点，此前在廉价估值、企业改革和投资流从遭受重创的中国股市转移的推动下，日本日经指数经历了一年的上涨。]]></description>
+      <guid>https://www.reuters.com/markets/asia/view-japans-nikkei-hits-record-high-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 03:41:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>日经指数创历史新高，日本疯狂的 20 世纪 80 年代留下了一段黯淡的记忆</title>
+      <link>https://www.reuters.com/markets/asia/japans-crazy-1980s-bubble-dim-memory-nikkei-hits-record-high-2024-02-22/</link>
+      <description><![CDATA[随着日本股市最终恢复过去的峰值，这让人回想起那个时候，这个国家的每个人似乎都是股市百万富翁——东京的一个停车场比纽约的中央公园更值钱，而未来看起来就像一场无休无止的派对。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japans-crazy-1980s-bubble-dim-memory-nikkei-hits-record-high-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 03:39:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>日经派对就像 1989 年一样；规模创历史新高</title>
+      <link>https://www.reuters.com/markets/asia/nikkei-parties-like-its-1989-scales-record-high-2024-02-22/</link>
+      <description><![CDATA[日本股市周四飙升至历史新高，打破了 1989 年泡沫经济太平时期的水平，因为廉价的估值和企业改革吸引外国资金寻找遭受重创的中国市场的替代品。]]></description>
+      <guid>https://www.reuters.com/markets/asia/nikkei-parties-like-its-1989-scales-record-high-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 03:38:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本日经指数创历史新高，打破1989年纪录</title>
+      <link>https://www.reuters.com/markets/asia/japans-nikkei-share-average-crosses-all-time-high-breaking-1989-record-2024-02-22/</link>
+      <description><![CDATA[日本基准日经指数周四创下历史新高，打破了 1989 年泡沫经济太平时期的水平。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japans-nikkei-share-average-crosses-all-time-high-breaking-1989-record-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 03:35:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>越南廉价航空公司 VietJet 同意购买 20 架空客 A330neo 喷气式飞机的临时协议</title>
+      <link>https://www.reuters.com/markets/deals/vietnamese-budget-carrier-vietjet-agrees-provisional-deal-20-airbus-a330neo-jets-2024-02-22/</link>
+      <description><![CDATA[越南廉价航空公司越捷航空周四表示，随着该航空公司扩大其长途航线网络，该公司已同意从欧洲空客公司订购 20 架 A330neo 宽体客机的临时协议。]]></description>
+      <guid>https://www.reuters.com/markets/deals/vietnamese-budget-carrier-vietjet-agrees-provisional-deal-20-airbus-a330neo-jets-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 03:13:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>空客称澳航A350交付延迟是由于需要重新设计额外油箱</title>
+      <link>https://www.reuters.com/business/aerospace-defense/airbus-says-qantas-a350-1000-delivery-delays-due-need-redesign-fuel-tank-2024-02-22/</link>
+      <description><![CDATA[空客公司一位高管表示，由于监管机构要求空客公司重新设计一个额外的油箱，因此其专为澳洲航空悉尼-伦敦直飞航班设计的超远程版本 A350-1000 喷气式飞机的推出面临着延迟。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/airbus-says-qantas-a350-1000-delivery-delays-due-need-redesign-fuel-tank-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 03:06:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>英伟达击败日本日经指数创历史新高，亚洲其他地区表现平平</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-22/</link>
+      <description><![CDATA[美国芯片设计公司英伟达出人意料地强劲的收入预测提振了亚洲科技股，日本日经指数周四创下历史新高。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 03:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>油价小幅走高，因供应紧张迹象而保持涨势</title>
       <link>https://www.reuters.com/business/energy/oil-edges-higher-holding-gains-made-signs-tighter-supply-2024-02-22/</link>
       <description><![CDATA[周四油价小幅上涨，在供应趋紧的迹象下维持了前一交易日的涨幅。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-edges-higher-holding-gains-made-signs-tighter-supply-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 02:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达强劲前景带动芯片股上涨，日经指数飙升至历史收盘高位</title>
-      <link>https://www.reuters.com/markets/asia/nikkei-soars-past-all-time-closing-high-chip-stocks-rise-nvidias-robust-outlook-2024-02-22/</link>
-      <description><![CDATA[周四，日本日经指数飙升至 1989 年 12 月创下的历史收盘高点，美国芯片制造商英伟达 (Nvidia) 的前景超出市场预期后，芯片相关股票大幅上涨。]]></description>
-      <guid>https://www.reuters.com/markets/asia/nikkei-soars-past-all-time-closing-high-chip-stocks-rise-nvidias-robust-outlook-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 01:57:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>美元区间波动，等待一系列PMI数据</title>
-      <link>https://www.reuters.com/markets/currencies/dollar-rangebound-an-array-pmi-data-awaited-2024-02-22/</link>
-      <description><![CDATA[周四美元基本保持稳定，交易员正在等待一系列商业活动调查，以评估主要经济体的健康状况及其对全球利率前景的影响。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/dollar-rangebound-an-array-pmi-data-awaited-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 01:47:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>韩国维持利率稳定，投资者关注转向时机</title>
-      <link>https://www.reuters.com/markets/asia/south-korea-holds-rates-steady-investors-eye-timing-pivot-2024-02-22/</link>
-      <description><![CDATA[韩国央行周四将利率维持在 15 年来的高位，有迹象表明经济疲软正在减缓通胀，投资者将注意力集中在行长李昌镛 (Rhee Chang-yong) 关于今年晚些时候政策转向时机的评论上。]]></description>
-      <guid>https://www.reuters.com/markets/asia/south-korea-holds-rates-steady-investors-eye-timing-pivot-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 01:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>韩国央行如预期维持利率稳定</title>
-      <link>https://www.reuters.com/markets/asia/south-korea-central-bank-keeps-rates-steady-expected-2024-02-22/</link>
-      <description><![CDATA[韩国央行周四将利率维持在 15 年来的高位，有迹象表明经济疲软正在减缓通胀。]]></description>
-      <guid>https://www.reuters.com/markets/asia/south-korea-central-bank-keeps-rates-steady-expected-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 01:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于情况恶化，日本 2 月份工厂活动延续下滑 - PMI</title>
-      <link>https://www.reuters.com/markets/asia/japans-feb-factory-activity-extends-declines-conditions-worsen-pmi-2024-02-22/</link>
-      <description><![CDATA[周四的调查显示，2 月份日本工厂活动继续下滑，服务业增长放缓，这表明随着经济努力摆脱衰退，商业状况正在恶化。]]></description>
-      <guid>https://www.reuters.com/markets/asia/japans-feb-factory-activity-extends-declines-conditions-worsen-pmi-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 00:33:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>汇丰成本难题加剧投资者银行审查</title>
-      <link>https://www.reuters.com/business/finance/hsbc-cost-conundrum-intensifies-investor-bank-scrutiny-2024-02-22/</link>
-      <description><![CDATA[汇丰银行成本不断攀升，加剧了投资者对大银行如何管理开支的担忧，使高管面临着迅速解决支出问题的压力。]]></description>
-      <guid>https://www.reuters.com/business/finance/hsbc-cost-conundrum-intensifies-investor-bank-scrutiny-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 00:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>新加坡大华银行下调2024年贷款增长，第四季度利润超出预期</title>
-      <link>https://www.reuters.com/business/finance/singapore-bank-uobs-fourth-quarter-net-profit-climbs-22-beats-forecast-2024-02-21/</link>
-      <description><![CDATA[新加坡大华银行 (UOB) 周四公布第四季度净利润增长 22%，强于预期，将 2024 年贷款增长预测从中个位数下调至低个位数。]]></description>
-      <guid>https://www.reuters.com/business/finance/singapore-bank-uobs-fourth-quarter-net-profit-climbs-22-beats-forecast-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 23:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>民意调查 路透社民意调查显示，一半日本公司认为特朗普再次当选总统存在风险</title>
-      <link>https://www.reuters.com/markets/asia/half-japanese-firms-see-another-trump-presidency-risk-reuters-poll-shows-2024-02-21/</link>
-      <description><![CDATA[路透社周四的一项调查显示，大约一半的日本企业认为唐纳德·特朗普再次当选总统对企业构成潜在风险，保护主义加剧的前景是担忧的主要原因。]]></description>
-      <guid>https://www.reuters.com/markets/asia/half-japanese-firms-see-another-trump-presidency-risk-reuters-poll-shows-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 23:17:04 GMT</pubDate>
     </item>
     <item>
       <title>Etsy 预测第一季度因可自由支配需求低迷而悲观</title>
@@ -83,16 +105,16 @@
       <pubDate>Wed, 21 Feb 2024 21:26:14 GMT</pubDate>
     </item>
     <item>
-      <title>Rivian 裁员，预计年产量低于预期</title>
+      <title>随着电动汽车需求减弱，Rivian 和 Lucid 的 2024 年产量目标令人失望</title>
       <link>https://www.reuters.com/business/autos-transportation/rivian-forecasts-annual-production-well-below-estimates-2024-02-21/</link>
-      <description><![CDATA[Rivian 周三表示，将裁员 10%，并预测今年的电动汽车产量大幅低于预期，原因是工厂升级停工以及高利率导致电动汽车需求放缓。]]></description>
+      <description><![CDATA[电动汽车初创公司 Rivian 和 Lucid 周三预测 2024 年的产量远低于分析师的预期，因为持续高企的借贷成本阻碍消费者购买价格相对较高的电池驱动汽车。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/rivian-forecasts-annual-production-well-below-estimates-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 21:13:20 GMT</pubDate>
     </item>
     <item>
       <title>一月份会议纪要显示美联储担心降息过早</title>
       <link>https://www.reuters.com/markets/us/fed-concerned-about-cutting-rates-too-soon-minutes-january-meeting-show-2024-02-21/</link>
-      <description><![CDATA[根据 1 月 30 日至 31 日的会议纪要，美联储上次会议的大部分决策者都担心过早降息的风险，并且对于借贷成本应在当前水平维持多久存在广泛的不确定性。]]></description>
+      <description><![CDATA[根据1月30日至31日的会议纪要，美联储上次会议的大部分决策者都担心过早降息的风险，并且对于借贷成本应在当前水平维持多久存在广泛的不确定性。]]></description>
       <guid>https://www.reuters.com/markets/us/fed-concerned-about-cutting-rates-too-soon-minutes-january-meeting-show-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 19:03:56 GMT</pubDate>
     </item>
@@ -102,13 +124,6 @@
       <description><![CDATA[波音公司周三表示，将立即更换陷入困境的 737 MAX 项目负责人，这是自 1 月 5 日阿拉斯加航空 MAX 9 新型飞机空中面板爆裂以来首次重大高管离职。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeing-737-max-program-head-renton-plant-leaves-planemaker-memo-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 18:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>切萨皮克称天然气市场供应过剩，计划削减产量和支出</title>
-      <link>https://www.reuters.com/business/energy/chesapeake-says-natgas-market-oversupplied-plans-cut-output-spending-2024-02-21/</link>
-      <description><![CDATA[切萨皮克能源公司(Chesapeake Energy)表示，由于认为市场“供应过剩”，今年将削减支出和天然气产量，导致该公司股价周三上涨逾7%。]]></description>
-      <guid>https://www.reuters.com/business/energy/chesapeake-says-natgas-market-oversupplied-plans-cut-output-spending-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 18:03:42 GMT</pubDate>
     </item>
     <item>
       <title>英特尔成为微软代工客户，有望超越台积电</title>
@@ -125,25 +140,11 @@
       <pubDate>Wed, 21 Feb 2024 16:14:00 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌将 Gemini AI 模型引入企业工具</title>
-      <link>https://www.reuters.com/technology/google-brings-gemini-ai-models-enterprise-tools-2024-02-21/</link>
-      <description><![CDATA[谷歌周三表示，它向企业提供的一些人工智能工具将由该公司的“Gemini”人工智能模型提供支持，并以较低的价格提供，因为它希望与微软支持的 OpenAI 竞争。]]></description>
-      <guid>https://www.reuters.com/technology/google-brings-gemini-ai-models-enterprise-tools-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 15:21:41 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：继华为Mate 60 Pro之后，美国瞄准中国顶级芯片制造厂</title>
       <link>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</link>
-      <description><![CDATA[三名知情人士表示，在这家为华为 Mate 60 Pro 手机生产先进芯片后，拜登政府正在加大对这家受制裁的中国顶级芯片制造商的压力，切断其最先进的工厂从美国进口更多产品的机会。]]></description>
+      <description><![CDATA[三名知情人士表示，拜登政府正在加大对中国最大受制裁芯片制造商的压力，在该公司为华为 Mate 60 Pro 手机生产先进芯片后，切断了该公司最先进的工厂从美国进口的产品。]]></description>
       <guid>https://www.reuters.com/technology/us-targets-chinas-top-chipmaking-plant-after-huawei-mate-60-pro-sources-say-2024-02-21/</guid>
       <pubDate>Wed, 21 Feb 2024 12:09:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>标准普尔 500 指数、道指小幅收涨；英伟达盘后上涨</title>
-      <link>https://www.reuters.com/markets/us/futures-dip-ahead-high-stakes-nvidia-results-fed-minutes-2024-02-21/</link>
-      <description><![CDATA[标准普尔 500 指数和道琼斯工业指数周三小幅上涨，而纳斯达克指数连续第三个交易日收低，因投资者等待英伟达公布的财报，该财报可能决定股市的近期动能。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-dip-ahead-high-stakes-nvidia-results-fed-minutes-2024-02-21/</guid>
-      <pubDate>Wed, 21 Feb 2024 10:55:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
