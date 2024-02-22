@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 22 Feb 2024 22:51:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 23:21:40 GMT</lastBuildDate>
+    <item>
+      <title>Booking Holdings 因亚洲需求复苏而盈利超出预期</title>
+      <link>https://www.reuters.com/technology/booking-holdings-beats-profit-estimates-demand-recovery-asia-2024-02-22/</link>
+      <description><![CDATA[受亚洲市场强劲复苏的推动，在线旅行社 Booking Holdings 周四第四季度利润超出分析师预期。]]></description>
+      <guid>https://www.reuters.com/technology/booking-holdings-beats-profit-estimates-demand-recovery-asia-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 21:51:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：随着全球股市的繁荣，记录被打破</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-22/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 21:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>最后时刻的乌龙球让伊蒂哈德队进入全沙特亚冠四分之一决赛</title>
+      <link>https://www.reuters.com/sports/soccer/late-own-goal-takes-al-ittihad-into-all-saudi-asian-cl-quarters-clash-2024-02-22/</link>
+      <description><![CDATA[周四，托马·塔巴塔泽最后时刻的乌龙球让卡里姆·本泽马免于脸红，这名后卫帮助沙特阿拉伯的伊蒂哈德队以 2-1 战胜了乌兹别克斯坦队的纳纳巴霍尔，并与同胞希拉尔队进行了亚洲冠军联赛四分之一决赛的比赛。]]></description>
+      <guid>https://www.reuters.com/sports/soccer/late-own-goal-takes-al-ittihad-into-all-saudi-asian-cl-quarters-clash-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 21:23:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>彭博社报道，日本新日铁中国资产因美国钢铁交易而受到审查</title>
+      <link>https://www.reuters.com/markets/commodities/japans-nippon-steel-china-assets-under-scrutiny-over-us-steel-deal-bloomberg-2024-02-22/</link>
+      <description><![CDATA[彭博新闻社周四援引知情人士的话报道称，拜登政府正在审查新日铁与中国的关系，涉及这家日本公司计划收购美国竞争对手美国钢铁公司的交易。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/japans-nippon-steel-china-assets-under-scrutiny-over-us-steel-deal-bloomberg-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 21:01:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>First Quantum 因计划增加资本而股价上涨 8%</title>
+      <link>https://www.reuters.com/markets/commodities/first-quantum-shares-jump-8-plans-bolster-capital-2024-02-22/</link>
+      <description><![CDATA[加拿大矿业公司第一量子矿业有限公司 (First Quantum Minerals Ltd) 宣布改善资产负债表的措施后，投资者松了一口气，该公司股价周四上涨 9%。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/first-quantum-shares-jump-8-plans-bolster-capital-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 20:18:01 GMT</pubDate>
+    </item>
     <item>
       <title>美国议员敦促大众汽车退出新疆业务</title>
       <link>https://www.reuters.com/business/autos-transportation/us-lawmakers-urge-vw-exit-xinjiang-operations-2024-02-22/</link>
@@ -64,7 +99,7 @@
     <item>
       <title>中国将向美国派遣更多大熊猫 开启“熊猫外交”新时代</title>
       <link>https://www.reuters.com/world/china/china-send-more-pandas-us-jump-starting-new-era-panda-diplomacy-2024-02-22/</link>
-      <description><![CDATA[中国野生动物保护协会正在与华盛顿国家动物园合作，安排将更多大熊猫带回美国，这标志着两个超级大国之间的外交关系正在改善。]]></description>
+      <description><![CDATA[中国野生动物保护协会正在与华盛顿国家动物园合作，安排将更多大熊猫带回美国，这标志着两个超级大国之间外交关系的改善。]]></description>
       <guid>https://www.reuters.com/world/china/china-send-more-pandas-us-jump-starting-new-era-panda-diplomacy-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 10:34:27 GMT</pubDate>
     </item>
@@ -99,51 +134,16 @@
     <item>
       <title>中国联想营收在连续五个季度下滑后实现增长</title>
       <link>https://www.reuters.com/markets/asia/chinas-lenovo-posts-revenue-growth-after-five-quarters-decline-2024-02-22/</link>
-      <description><![CDATA[全球最大的个人电脑 (PC) 制造商中国联想集团周四公布了强于预期的收益，其收入在经历了 5 个季度的下滑后恢复增长，并因新冠肺炎 (COVID-19) 疫情之后经济放缓而出现下滑。]]></description>
+      <description><![CDATA[全球最大的个人电脑 (PC) 制造商中国联想集团周四公布了强于预期的收益，其收入在经历了 5 个季度的下滑后恢复增长，原因是新冠肺炎 (COVID-19) 疫情过后经济放缓。]]></description>
       <guid>https://www.reuters.com/markets/asia/chinas-lenovo-posts-revenue-growth-after-five-quarters-decline-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 05:38:54 GMT</pubDate>
     </item>
     <item>
       <title>中国面临更大的压力，要求采取重大政策来修复经济</title>
       <link>https://www.reuters.com/world/china/pressure-grows-china-big-policy-moves-fix-economy-2024-02-22/</link>
-      <description><![CDATA[随着下个月中国人大年度会议的临近，中国领导人面临着近十年来最大的压力，需要做出大胆的政策决定，以保障经济的长期增长潜力。]]></description>
+      <description><![CDATA[随着下个月中国人大年度会议的临近，中国领导人面临着近十年来最大的压力，需要采取大胆的政策决定来维护经济的长期增长潜力。]]></description>
       <guid>https://www.reuters.com/world/china/pressure-grows-china-big-policy-moves-fix-economy-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 05:36:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：英伟达帮助日经指数冲过终点线</title>
-      <link>https://www.reuters.com/world/europe/global-markets-view-europe-2024-02-22/</link>
-      <description><![CDATA[凯文·巴克兰 (Kevin Buckland) 对欧洲和全球市场未来一天的展望]]></description>
-      <guid>https://www.reuters.com/world/europe/global-markets-view-europe-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 05:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国小鹏汽车与阿联酋 Ali&Sons 签署合作伙伴关系，瞄准意大利市场</title>
-      <link>https://www.reuters.com/business/autos-transportation/chinas-xpeng-signs-partnership-with-uaes-alisons-eyes-italian-market-2024-02-22/</link>
-      <description><![CDATA[中国小鹏汽车周四表示，随着这家电动汽车制造商加大海外扩张力度，它已与总部位于阿联酋的 Ali&amp;Sons 建立了战略合作伙伴关系，并将意大利纳入其欧洲计划。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/chinas-xpeng-signs-partnership-with-uaes-alisons-eyes-italian-market-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 05:22:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>广州附近驳船撞桥致车辆落水致五人死亡</title>
-      <link>https://www.reuters.com/world/china/two-killed-after-barge-hits-bridge-near-chinas-guangzhou-plunging-vehicles-water-2024-02-22/</link>
-      <description><![CDATA[据中国官方媒体周四报道，一艘驳船与广州市附近中国珠江三角洲水道上的一座桥梁相撞，导致桥梁部分断裂，车辆落入水中，造成五人死亡。]]></description>
-      <guid>https://www.reuters.com/world/china/two-killed-after-barge-hits-bridge-near-chinas-guangzhou-plunging-vehicles-water-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 05:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>左撇子：Zara 在快时尚领域对抗 Shein 的秘密武器</title>
-      <link>https://www.reuters.com/business/retail-consumer/zara-owner-inditex-expands-bargain-brand-counter-shein-2024-02-22/</link>
-      <description><![CDATA[Zara 母公司 Inditex 是全球销量最大的快时尚上市公司，该公司正在扩大其专注于 Z 世代的低价品牌 Lefties，以对抗中国创立的竞争对手 Shein。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/zara-owner-inditex-expands-bargain-brand-counter-shein-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 05:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国调查船访问马尔代夫可能引发印度洋安全担忧</title>
-      <link>https://www.reuters.com/world/asia-pacific/maldives-visit-chinese-survey-ship-could-trigger-indian-ocean-security-concerns-2024-02-22/</link>
-      <description><![CDATA[全球船舶跟踪数据显示，一艘中国科考船于周四抵达马尔代夫，而就在三个月前，一艘类似的船只访问了印度洋并引发了新德里的安全担忧。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/maldives-visit-chinese-survey-ship-could-trigger-indian-ocean-security-concerns-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 04:18:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
