@@ -1,49 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 23 Feb 2024 05:31:10 GMT</lastBuildDate>
-    <item>
-      <title>渣打银行宣布回购 10 亿美元股票并上调股息，2023 年利润增长 18%</title>
-      <link>https://www.reuters.com/markets/deals/stanchart-announces-1-bln-share-buyback-full-year-profit-rises-18-2024-02-23/</link>
-      <description><![CDATA[渣打银行 (Standard Chartered PLC) 周五报告称，2023 年税前利润增长 18%，符合预期，并通过 10 亿美元的股票回购和大幅增加股息来奖励股东。]]></description>
-      <guid>https://www.reuters.com/markets/deals/stanchart-announces-1-bln-share-buyback-full-year-profit-rises-18-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 04:32:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>外国首次亮相，但新加坡航展上几乎没有国防交易</title>
-      <link>https://www.reuters.com/business/aerospace-defense/foreign-debuts-few-defence-deals-singapore-air-show-2024-02-23/</link>
-      <description><![CDATA[新加坡航展包括新武器系统在国外的首次亮相，人们对能够摧毁弹道导弹和击落无人机的系统越来越感兴趣，但它没有看到任何俄罗斯的存在，而且重大国防交易也很少。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/foreign-debuts-few-defence-deals-singapore-air-show-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 04:14:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>高盛不再预期美国5月降息</title>
-      <link>https://www.reuters.com/markets/us/goldman-sachs-no-longer-expects-us-interest-rate-cut-may-2024-02-23/</link>
-      <description><![CDATA[高盛分析师不再预期美国 5 月份降息，并预计今年将有四次降息 25 个基点，因为政策制定者的言论表明他们并不着急。]]></description>
-      <guid>https://www.reuters.com/markets/us/goldman-sachs-no-longer-expects-us-interest-rate-cut-may-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 04:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>据彭博社报道，通用汽车 Cruise 将在未来几周内恢复城市道路上的机器人出租车测试</title>
-      <link>https://www.reuters.com/business/autos-transportation/gms-cruise-resume-robotaxi-tests-city-roads-coming-weeks-bloomberg-reports-2024-02-23/</link>
-      <description><![CDATA[据彭博社周四报道，通用汽车公司的自动驾驶汽车部门 Cruise 正准备在未来几周内恢复在公共道路上测试其机器人出租车，并配备安全驾驶员，休斯顿和达拉斯是可能的地点。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/gms-cruise-resume-robotaxi-tests-city-roads-coming-weeks-bloomberg-reports-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 03:42:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>迪尔 (Deere) 旗下维特根 (Wirtgen) 在道路建设专利审判中从卡特彼勒 (Caterpillar) 赢得 1290 万美元</title>
-      <link>https://www.reuters.com/legal/deeres-wirtgen-wins-129-mln-caterpillar-road-construction-patent-trial-2024-02-23/</link>
-      <description><![CDATA[迪尔公司周四，联合子公司维特根美国公司说服了特拉华州的联邦陪审团，建筑竞争对手卡特彼勒因侵犯其道路建设技术专利权而必须支付 1,290 万美元的赔偿金。]]></description>
-      <guid>https://www.reuters.com/legal/deeres-wirtgen-wins-129-mln-caterpillar-road-construction-patent-trial-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 03:05:41 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 23 Feb 2024 05:48:30 GMT</lastBuildDate>
     <item>
       <title>股市沐浴在科技股的欣喜之中，英伟达的繁荣</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-02-23/</link>
-      <description><![CDATA[周五，全球股市将迎来一周的强劲上涨，人工智能宠儿英伟达的惊人业绩引发从亚洲到欧洲和美国的一波创纪录新高，而日元则导致一系列货币下跌。]]></description>
+      <description><![CDATA[亚洲股市周五上涨，全球市场有望迎来一周的强劲上涨，人工智能宠儿英伟达令人惊叹的业绩引发从亚洲到欧洲和美国的一波创纪录新高，而日元则导致一系列货币下跌。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 02:46:40 GMT</pubDate>
     </item>
@@ -76,6 +41,13 @@
       <pubDate>Fri, 23 Feb 2024 01:09:22 GMT</pubDate>
     </item>
     <item>
+      <title>阿根廷总统将推动惩罚中央银行国库融资的法案</title>
+      <link>https://www.reuters.com/world/americas/argentina-president-push-bill-penalizing-cenbank-financing-treasury-2024-02-23/</link>
+      <description><![CDATA[阿根廷总统哈维尔·米莱周四表示，他将提出一项法案，惩罚央行为国家财政部提供资金。]]></description>
+      <guid>https://www.reuters.com/world/americas/argentina-president-push-bill-penalizing-cenbank-financing-treasury-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 00:58:40 GMT</pubDate>
+    </item>
+    <item>
       <title>美联储沃勒认为“不急于”降息</title>
       <link>https://www.reuters.com/markets/us/feds-waller-sees-no-rush-cut-interest-rates-2024-02-23/</link>
       <description><![CDATA[美联储理事克里斯托弗·沃勒(Christopher Waller)周四表示，美联储政策制定者应将降息至少再推迟几个月，看看近期通胀上升是否预示着物价稳定进程陷入停滞，还是只是路上的一个坎。]]></description>
@@ -83,11 +55,39 @@
       <pubDate>Fri, 23 Feb 2024 00:37:52 GMT</pubDate>
     </item>
     <item>
+      <title>尽管需求放缓，龙舌兰酒巨头 Becle 利润仍大幅增长</title>
+      <link>https://www.reuters.com/business/retail-consumer/tequila-giant-becle-posts-4th-quarter-profit-rise-2024-02-23/</link>
+      <description><![CDATA[全球最大的龙舌兰酒生产商墨西哥酿酒商 Becle 周四公布，尽管主要市场销量下滑，但 2023 年最后三个月的净利润较上年同期增长 41%，高于市场预期。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/tequila-giant-becle-posts-4th-quarter-profit-rise-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 00:13:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>新加坡电信第三季度利润持平，本地业绩疲软抵消了 Optus 的增长</title>
+      <link>https://www.reuters.com/business/media-telecom/singtel-posts-flat-net-profit-third-quarter-2024-02-23/</link>
+      <description><![CDATA[新加坡电信（SingTel）周五表示，其第三季度基本净利润与去年持平，因为本地业务疲软抵消了其信息技术和澳大利亚电信部门的增长。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/singtel-posts-flat-net-profit-third-quarter-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 00:10:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>路透调查显示，未来几个月全球股市将上涨，而非烟花爆竹</title>
+      <link>https://www.reuters.com/markets/poll-global-stocks-set-gains-not-fireworks-months-ahead-2024-02-23/</link>
+      <description><![CDATA[路透社对股票策略师的一项调查显示，考虑到去年出人意料的大幅上涨，全球股市近期的涨势仅剩一点点。对于未来三个月是否会出现调整，股票策略师的意见不一。]]></description>
+      <guid>https://www.reuters.com/markets/poll-global-stocks-set-gains-not-fireworks-months-ahead-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 00:08:55 GMT</pubDate>
+    </item>
+    <item>
       <title>美国证券交易委员会 (SEC) 文件称，摩根大通首席执行官戴蒙出售了价值约 1.5 亿美元的股票</title>
       <link>https://www.reuters.com/markets/us/jpmorgan-ceo-dimon-sells-about-150-mln-his-shares-sec-filing-says-2024-02-22/</link>
       <description><![CDATA[美国证券交易委员会周四提交的文件显示，摩根大通首席执行官杰米·戴蒙已出售其持有的价值约 1.5 亿美元的银行股份，这是这家美国最大银行的首席执行官自 2005 年上任以来首次出售股票。]]></description>
       <guid>https://www.reuters.com/markets/us/jpmorgan-ceo-dimon-sells-about-150-mln-his-shares-sec-filing-says-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 23:24:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储库克：降息前需要对通胀更有信心</title>
+      <link>https://www.reuters.com/markets/us/feds-cook-need-more-confidence-inflation-before-cutting-rates-2024-02-22/</link>
+      <description><![CDATA[美联储理事库克周四表示，随着通胀缓和和劳动力市场正常化，经济面临的风险已变得“双面”，但目前还不是降息的时候。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-cook-need-more-confidence-inflation-before-cutting-rates-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 22:09:54 GMT</pubDate>
     </item>
     <item>
       <title>整体前景超出盈利预期，股价上涨 12%</title>
@@ -134,7 +134,7 @@
     <item>
       <title>英伟达引发人工智能热潮，标准普尔 500 指数和道琼斯指数飙升至收盘新高</title>
       <link>https://www.reuters.com/markets/us/nasdaq-futures-jump-nearly-2-after-nvidia-trounces-expectations-2024-02-22/</link>
-      <description><![CDATA[周四，标准普尔 500 指数和道琼斯工业平均指数均飙升至创纪录的收盘高位，原因是在人工智能典型代表英伟达 (Nvidia) 公布丰厚的盈利和前景后的第二天，投资者纷纷涌入成长型和科技股。]]></description>
+      <description><![CDATA[周四，标准普尔 500 指数和道琼斯工业平均指数均飙升至创纪录的收盘高位，在人工智能典型代表英伟达 (Nvidia) 公布丰厚的盈利和前景后的第二天，投资者纷纷买入成长型和科技股。]]></description>
       <guid>https://www.reuters.com/markets/us/nasdaq-futures-jump-nearly-2-after-nvidia-trounces-expectations-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 10:12:09 GMT</pubDate>
     </item>
