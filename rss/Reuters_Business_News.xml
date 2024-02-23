@@ -1,30 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 23 Feb 2024 10:28:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 11:42:40 GMT</lastBuildDate>
+    <item>
+      <title>在人工智能引领的炙手可热的反弹之后，期货稍作喘息</title>
+      <link>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</link>
+      <description><![CDATA[美国股指期货在前一交易日大幅上涨后，周五暂停喘息，原因是人工智能典范英伟达的乐观业绩重燃了人们对人工智能的热情。]]></description>
+      <guid>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 10:54:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲、非洲石油市场收紧，为期货提供支撑</title>
+      <link>https://www.reuters.com/business/energy/europe-africa-oil-markets-tighten-lending-support-futures-2024-02-23/</link>
+      <description><![CDATA[交易商、伦敦证交所数据和分析师表示，红海航运延误和欧佩克+减产正在收紧欧洲和非洲的实物石油市场以及布伦特原油市场结构，为石油期货价格提供进一步支撑。]]></description>
+      <guid>https://www.reuters.com/business/energy/europe-africa-oil-markets-tighten-lending-support-futures-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 10:28:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>内格尔：欧洲央行必须抵制提前降息的诱惑</title>
+      <link>https://www.reuters.com/markets/europe/ecb-must-resist-early-rate-cut-temptation-nagel-2024-02-23/</link>
+      <description><![CDATA[德国央行行长纳格尔周五表示，欧元区通胀仍然居高不下，因此欧洲央行应抵制任何提前降息的诱惑，尤其是在第二季度关键经济数据公布之前。]]></description>
+      <guid>https://www.reuters.com/markets/europe/ecb-must-resist-early-rate-cut-temptation-nagel-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 10:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国、荷兰央行公布巨额亏损，并警告可能还会出现更多损失</title>
+      <link>https://www.reuters.com/markets/europe/bundesbank-posts-big-loss-predicts-more-2024-02-23/</link>
+      <description><![CDATA[德国和荷兰央行周五公布了 2023 年的数十亿欧元损失，并预测未来将出现更多财务困境，这表明它们不太可能在未来几年向国库支付股息。]]></description>
+      <guid>https://www.reuters.com/markets/europe/bundesbank-posts-big-loss-predicts-more-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 10:05:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着投资者“开始相信”，阿根廷市场加倍押注 Milei</title>
+      <link>https://www.reuters.com/world/americas/argentina-markets-double-down-milei-investors-start-believe-2024-02-23/</link>
+      <description><![CDATA[悄悄地说，阿根廷陷入困境的市场正显示出对该国不受限制的自由主义领导人哈维尔·米雷加倍押注的迹象，押注他能够使经济摆脱危机。]]></description>
+      <guid>https://www.reuters.com/world/americas/argentina-markets-double-down-milei-investors-start-believe-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 10:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析师表示，中国预计将采取渐进方式进一步提振经济</title>
+      <link>https://www.reuters.com/world/china/china-expected-take-gradual-approach-prop-up-economy-further-say-analysts-2024-02-23/</link>
+      <description><![CDATA[市场观察人士表示，中国可能会坚持采取渐进的方式刺激经济，尽管如果没有进一步的供给侧改革和积极的宽松措施，其政策制定者最近的举措不太可能重振市场情绪。]]></description>
+      <guid>https://www.reuters.com/world/china/china-expected-take-gradual-approach-prop-up-economy-further-say-analysts-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 10:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲央行：欧元区未来一年通胀预期小幅上升</title>
+      <link>https://www.reuters.com/markets/europe/euro-zone-inflation-expectations-edge-up-year-ahead-ecb-2024-02-23/</link>
+      <description><![CDATA[欧洲央行周五的一项新调查显示，欧元区消费者对未来一年的通胀预期上升，并在未来三年保持稳定，这进一步证明抑制物价增长的最后阶段可能会很困难。]]></description>
+      <guid>https://www.reuters.com/markets/europe/euro-zone-inflation-expectations-edge-up-year-ahead-ecb-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 09:05:15 GMT</pubDate>
+    </item>
     <item>
       <title>监管机构表示，特斯拉将在中国产品召回中修复 8,700 辆汽车的软件</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-fix-software-8700-vehicles-china-product-recall-regulator-says-2024-02-23/</link>
       <description><![CDATA[中国市场监管机构周五表示，特斯拉公司将修复 8,700 辆汽车的软件，以减少发生事故的可能性。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-fix-software-8700-vehicles-china-product-recall-regulator-says-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 08:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>董事会改组消息传出后汉莎航空股价下跌 3.6%</title>
-      <link>https://www.reuters.com/business/aerospace-defense/lufthansa-shares-fall-36-after-news-board-reshuffle-2024-02-23/</link>
-      <description><![CDATA[德国汉莎航空公司的股价于周五格林威治标准时间 0833 下跌 3.6%，原因是该航空公司宣布将在今年年中之前裁掉三分之二的董事会成员，股东对此做出了反应。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/lufthansa-shares-fall-36-after-news-board-reshuffle-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 08:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管支付应用程序兴起，瑞士人仍然喜欢实物现金</title>
-      <link>https://www.reuters.com/markets/currencies/swiss-still-love-physical-cash-despite-rise-payment-apps-2024-02-23/</link>
-      <description><![CDATA[瑞士央行周五的一项调查显示，尽管移动支付应用程序不断增长，而且人们对无现金社会的预测不断增长，但瑞士仍然热爱纸币和硬币。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/swiss-still-love-physical-cash-despite-rise-payment-apps-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 08:37:35 GMT</pubDate>
     </item>
     <item>
       <title>供应链紧张将影响航空业的反弹</title>
@@ -34,23 +69,9 @@
       <pubDate>Fri, 23 Feb 2024 08:25:33 GMT</pubDate>
     </item>
     <item>
-      <title>Tod’s 首席执行官表示没有出售公司的计划</title>
-      <link>https://www.reuters.com/business/retail-consumer/tods-ceo-says-there-are-no-plans-sell-company-2024-02-23/</link>
-      <description><![CDATA[意大利奢侈品集团 Tod&#39;s 创始人兼首席执行官迭戈·德拉·瓦莱 (Diego Della Valle) 周五表示，在通过私募股权公司 L Catterton 进行退市操作后，他的家族没有计划出售该公司。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/tods-ceo-says-there-are-no-plans-sell-company-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 08:21:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>排放测试违规后，丰田延长两条生产线的关闭时间</title>
-      <link>https://www.reuters.com/business/autos-transportation/toyota-extends-shutdown-two-production-lines-after-emission-test-irregularities-2024-02-23/</link>
-      <description><![CDATA[丰田汽车公司周五表示，已将日本丰田集团旗下两家制造工厂两条生产线的关闭期限延长至 3 月 1 日。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/toyota-extends-shutdown-two-production-lines-after-emission-test-irregularities-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 07:46:26 GMT</pubDate>
-    </item>
-    <item>
       <title>印度在世贸组织数据传输问题上的立场令芯片巨头感到不安</title>
       <link>https://www.reuters.com/world/india/indias-stance-data-transfers-wto-spooks-chip-giants-2024-02-23/</link>
-      <description><![CDATA[一个由半导体行业团体组成的全球联盟要求印度重新考虑在即将举行的全球贸易会议上推动跨境数字电子商务和数据传输关税的计划，并警告印度的立场将扼杀其本国的芯片设计行业。]]></description>
+      <description><![CDATA[一个由半导体行业团体组成的全球联盟要求印度重新考虑其在即将举行的全球贸易会议上推动跨境数字电子商务和数据传输关税的计划，并警告称印度的立场将扼杀其本国的芯片设计行业。]]></description>
       <guid>https://www.reuters.com/world/india/indias-stance-data-transfers-wto-spooks-chip-giants-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 07:36:04 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>据英国《金融时报》报道，ADNOC 与奥地利 OMV 价值 300 亿美元的化学品合作陷入停滞</title>
       <link>https://www.reuters.com/markets/deals/adnocs-30-bln-chemicals-deal-with-austrias-omv-stalls-ft-reports-2024-02-23/</link>
-      <description><![CDATA[据英国《金融时报》周五报道，阿布扎比国家石油公司 (ADNOC) 化学子公司与奥地利石油天然气公司 OMV 计划进行 300 亿美元合并的谈判近几周陷入僵局。]]></description>
+      <description><![CDATA[据英国《金融时报》周五报道，阿布扎比国家石油公司 (ADNOC) 化学子公司与奥地利石油天然气公司 OMV 计划进行的价值 300 亿美元的合并谈判近几周陷入僵局。]]></description>
       <guid>https://www.reuters.com/markets/deals/adnocs-30-bln-chemicals-deal-with-austrias-omv-stalls-ft-reports-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 05:48:42 GMT</pubDate>
     </item>
@@ -83,18 +104,11 @@
       <pubDate>Fri, 23 Feb 2024 05:43:42 GMT</pubDate>
     </item>
     <item>
-      <title>渣打银行宣布大规模回购，首席执行官哀叹股价“糟糕”</title>
+      <title>渣打银行宣布大规模回购，首席执行官哀叹股价“糟糕”，股价上涨</title>
       <link>https://www.reuters.com/markets/deals/stanchart-announces-1-bln-share-buyback-full-year-profit-rises-18-2024-02-23/</link>
-      <description><![CDATA[渣打银行 (Standard Chartered PLC) 首席执行官比尔·温特斯 (Bill Winters) 周五承认该行股价低迷，并誓言要解决这个问题，该银行宣布增加股息、新一轮 10 亿美元回购以及年度利润增长 18%。]]></description>
+      <description><![CDATA[渣打银行(Standard Chartered PLC)首席执行官比尔·温特斯(Bill Winters)周五直言不讳地承认该行股价低迷，并誓言要解决这个问题，因为该银行宣布增加股息、新的10亿美元回购以及年度利润增长18%。]]></description>
       <guid>https://www.reuters.com/markets/deals/stanchart-announces-1-bln-share-buyback-full-year-profit-rises-18-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 04:32:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>外国首次亮相，但新加坡航展上几乎没有国防交易</title>
-      <link>https://www.reuters.com/business/aerospace-defense/foreign-debuts-few-defence-deals-singapore-air-show-2024-02-23/</link>
-      <description><![CDATA[新加坡航展包括新武器系统在国外的首次亮相，人们对能够摧毁弹道导弹和击落无人机的系统越来越感兴趣，但它没有看到任何俄罗斯的存在，而且重大国防交易也很少。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/foreign-debuts-few-defence-deals-singapore-air-show-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 04:14:34 GMT</pubDate>
     </item>
     <item>
       <title>高盛不再预期美国5月降息</title>
@@ -111,39 +125,11 @@
       <pubDate>Fri, 23 Feb 2024 03:42:24 GMT</pubDate>
     </item>
     <item>
-      <title>股市沐浴在科技狂热和英伟达的繁荣之中</title>
+      <title>美联储抑制降息押注，英伟达繁荣提振股市</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-02-23/</link>
-      <description><![CDATA[随着人工智能宠儿英伟达令人惊叹的业绩引发从亚洲到欧洲和美国的一波创纪录高点，全球股市周五将迎来一周的强劲上涨，而日元则导致一系列货币下跌。]]></description>
+      <description><![CDATA[周五全球股市走强，创下单周历史新高，此前美国芯片制造商英伟达的巨额盈利提振了科技股，推动全球主要基准指数创下新高。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 02:46:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>货币交易者继续做空，日元下跌</title>
-      <link>https://www.reuters.com/markets/currencies/yen-sinks-currency-traders-keep-short-carry-2024-02-23/</link>
-      <description><![CDATA[日元兑欧元、英镑和其他交叉货币本周下跌，周五兑美元汇率将连续第四周下跌，因为投资者在其他地方都在追逐更好的收益率，押注日本利率将在一段时间内保持在接近于零的水平。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/yen-sinks-currency-traders-keep-short-carry-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 01:47:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔沃汽车将稀释电动汽车制造商 Polestar 的股份</title>
-      <link>https://www.reuters.com/business/autos-transportation/volvo-cars-proposes-distribute-627-polestar-stake-shareholders-2024-02-23/</link>
-      <description><![CDATA[沃尔沃汽车周五表示，计划将其持有的瑞典电动汽车制造商 Polestar Automotive Holding 价值 95 亿克朗（合 9.2017 亿美元）的 62.7% 股份分配给自己的股东。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/volvo-cars-proposes-distribute-627-polestar-stake-shareholders-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 01:09:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 在中断数小时后恢复服务</title>
-      <link>https://www.reuters.com/technology/cellular-outage-us-hits-att-t-mobile-verizon-users-downdetector-shows-2024-02-22/</link>
-      <description><![CDATA[AT&amp;T 周四晚间表示，导致数千名美国用户通话和短信中断并促使联邦调查的故障并非由网络攻击引起。]]></description>
-      <guid>https://www.reuters.com/technology/cellular-outage-us-hits-att-t-mobile-verizon-users-downdetector-shows-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 10:24:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 股票市值增加 2770 亿美元，创历史新高</title>
-      <link>https://www.reuters.com/technology/ai-leader-nvidia-rises-forecast-tops-wall-streets-lofty-goals-2024-02-22/</link>
-      <description><![CDATA[周四，英伟达股票市值增加了 2770 亿美元，这是华尔街历史上最大的单日涨幅，此前这家重量级芯片制造商的季度报告超出了预期，并重新点燃了人工智能乐观情绪推动的涨势。]]></description>
-      <guid>https://www.reuters.com/technology/ai-leader-nvidia-rises-forecast-tops-wall-streets-lofty-goals-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 09:51:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
