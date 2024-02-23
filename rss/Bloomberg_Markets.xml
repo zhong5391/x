@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 23 Feb 2024 10:28:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 10:41:36 GMT</lastBuildDate>
     <item>
       <title>由于加息的影响，荷兰央行损失猛增 660%</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-23/dutch-central-bank-s-loss-jumps-660-as-interest-rate-hikes-bite</link>
@@ -43,7 +43,7 @@
     <item>
       <title>建筑商 Taeyoung 的债权人承诺提供高达 3 亿美元的资金</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-23/builder-taeyoung-s-creditors-pledge-up-to-300-million-in-funds</link>
-      <description><![CDATA[债权人同意向 Taeyoung Engineering &amp; 提供贷款。韩国建筑公司寻求控制其财务，因此需要追加高达 4000 亿韩元（3.005 亿美元）的资金。]]></description>
+      <description><![CDATA[债权人同意向 Taeyoung Engineering &amp; 提供韩国建筑公司寻求控制其财务，因此需要追加高达 4000 亿韩元（3.005 亿美元）的资金。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-23/builder-taeyoung-s-creditors-pledge-up-to-300-million-in-funds</guid>
       <pubDate>Fri, 23 Feb 2024 09:37:09 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Fri, 23 Feb 2024 09:34:49 GMT</pubDate>
     </item>
     <item>
-      <title>德国房东布兰尼克斯 (Branicks) 在债务截止日期临近之际签署销售协议</title>
+      <title>德国房东布兰尼克斯 (Branicks) 在债务期限临近之际签署销售协议</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-23/german-landlord-branicks-puts-sales-signs-up-as-debt-deadlines-loom</link>
       <description><![CDATA[Branicks AG 正在营销零售资产组合，这家德国房地产公司正在努力筹集现金，距离债务谈判的第一个截止日期只有一个月了。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-23/german-landlord-branicks-puts-sales-signs-up-as-debt-deadlines-loom</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>投资者押注政治危机即将结束，塞内加尔债券上涨</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-23/senegal-bonds-rally-after-sall-vows-to-step-down-and-end-crisis</link>
-      <description><![CDATA[塞内加尔总统麦基·萨勒承诺在任期结束时下台，受到投资者的欢呼，此前他试图继续掌权引发了数周的动荡。]]></description>
+      <description><![CDATA[塞内加尔总统麦基·萨勒承诺在任期结束时下台，受到投资者的欢呼，此前他试图继续掌权，引发了数周的动荡。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-23/senegal-bonds-rally-after-sall-vows-to-step-down-and-end-crisis</guid>
       <pubDate>Fri, 23 Feb 2024 09:09:02 GMT</pubDate>
     </item>
@@ -125,20 +125,6 @@
       <pubDate>Fri, 23 Feb 2024 08:35:01 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，国航将就增持国泰股份征求顾问意见</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-23/air-china-said-to-consider-raising-stake-in-cathay-pacific</link>
-      <description><![CDATA[据知情人士透露，近几个月来，中国国航一直在就增持国泰航空近 30% 股份的可能好处征求顾问的意见，这让这位 77 岁的老人重新燃起了长期以来的想法。香港航空公司从疫情中反弹。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-23/air-china-said-to-consider-raising-stake-in-cathay-pacific</guid>
-      <pubDate>Fri, 23 Feb 2024 08:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞士央行表示，在精通现金的瑞士，支付应用程序正在兴起</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-23/payment-apps-are-on-the-rise-in-cash-savy-switzerland-snb-says</link>
-      <description><![CDATA[根据央行的一项新调查，支付应用程序在喜爱现金的瑞士越来越受欢迎。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-23/payment-apps-are-on-the-rise-in-cash-savy-switzerland-snb-says</guid>
-      <pubDate>Fri, 23 Feb 2024 08:30:00 GMT</pubDate>
-    </item>
-    <item>
       <title>电动汽车转型陷入困境，沃尔沃汽车将削减 Polestar 股份</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-23/volvo-car-to-slash-polestar-stake-as-ev-shift-stumbles</link>
       <description><![CDATA[沃尔沃汽车公司将把其在 Polestar Automotive Holding UK Plc 的股份削减至 18%，并停止向这家尚未盈利的电动汽车制造商提供资金，专注于自身向电池技术的转型。]]></description>
@@ -160,9 +146,16 @@
       <pubDate>Fri, 23 Feb 2024 08:13:55 GMT</pubDate>
     </item>
     <item>
+      <title>安联首席执行官表示，今年 Pimco 的资金流入“令人震惊”</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-23/pimco-inflows-have-been-stunning-this-year-allianz-ceo-says</link>
+      <description><![CDATA[Pacific Investment Management Co. 在 2024 年前六周吸引了约 200 亿欧元（216 亿美元）的第三方资金，接近前一年的水平。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-23/pimco-inflows-have-been-stunning-this-year-allianz-ceo-says</guid>
+      <pubDate>Fri, 23 Feb 2024 08:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>欧盟财长寻求更多国防资金，但质疑如何实现</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-23/eu-finance-chiefs-seek-more-defense-funding-but-question-how</link>
-      <description><![CDATA[随着乌克兰战争即将进入第三个年头，欧盟财长们正试图找出如何为日益增加的国防支出需求提供资金。]]></description>
+      <description><![CDATA[随着乌克兰战争即将进入第三个年头，欧盟财长们正试图找出如何为日益增长的国防支出需求提供资金。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-23/eu-finance-chiefs-seek-more-defense-funding-but-question-how</guid>
       <pubDate>Fri, 23 Feb 2024 07:25:46 GMT</pubDate>
     </item>
@@ -181,11 +174,18 @@
       <pubDate>Fri, 23 Feb 2024 07:05:46 GMT</pubDate>
     </item>
     <item>
-      <title>安联股价因非人寿保险业绩疲软而下跌</title>
+      <title>安联股价因非人寿保险业绩疲弱而下跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-23/allianz-profit-jumps-as-insurer-unveils-1-billion-buyback</link>
       <description><![CDATA[德国保险巨头安联集团公布其财险业务盈利未达预期，导致该公司股价下跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-23/allianz-profit-jumps-as-insurer-unveils-1-billion-buyback</guid>
       <pubDate>Fri, 23 Feb 2024 06:14:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴斯夫看到中国增长，欧洲成本削减 10 亿欧元</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-23/basf-sees-growth-in-china-cuts-european-costs-by-1-billion</link>
+      <description><![CDATA[巴斯夫公司预计，随着欧洲最大的化学品公司深化成本削减以应对能源支出增加和需求下滑，今年盈利将部分复苏。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-23/basf-sees-growth-in-china-cuts-european-costs-by-1-billion</guid>
+      <pubDate>Fri, 23 Feb 2024 06:00:00 GMT</pubDate>
     </item>
     <item>
       <title>马来西亚总理称令吉跌至26年低点“令人担忧”</title>
@@ -195,7 +195,7 @@
       <pubDate>Fri, 23 Feb 2024 03:25:04 GMT</pubDate>
     </item>
     <item>
-      <title>由于供过于求的担忧持续存在，油价下跌至窄幅交易区间</title>
+      <title>由于供应过剩担忧持续存在，油价下跌至窄幅交易区间</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-22/latest-oil-market-news-and-analysis-for-feb-23</link>
       <description><![CDATA[油价小幅走低，但仍处于窄幅交易区间的上限。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-22/latest-oil-market-news-and-analysis-for-feb-23</guid>
