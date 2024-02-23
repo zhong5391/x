@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 23 Feb 2024 05:18:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 05:31:19 GMT</lastBuildDate>
+    <item>
+      <title>新西兰重新评估南极基地的检修提议</title>
+      <link>https://www.reuters.com/world/asia-pacific/new-zealand-reassessing-proposed-overhaul-antarctic-base-2024-02-23/</link>
+      <description><![CDATA[负责新西兰南极运营的政府机构周五表示，由于预算问题，新西兰与一家建筑公司的谈判陷入僵局，正在重新评估对其南极洲基地的拟议检修。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/new-zealand-reassessing-proposed-overhaul-antarctic-base-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 03:21:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>立法者称，美国针对中国生物技术公司的法案可能更加“狭隘”</title>
+      <link>https://www.reuters.com/world/us/us-bill-chinese-biotech-firms-may-be-more-narrowly-tailored-lawmaker-says-2024-02-23/</link>
+      <description><![CDATA[提出该法案的美国议员周五表示，美国国会针对中国生物技术公司的法案最终可能会变得更加“狭隘”，并补充说他对今年可能通过的法案持谨慎乐观态度。]]></description>
+      <guid>https://www.reuters.com/world/us/us-bill-chinese-biotech-firms-may-be-more-narrowly-tailored-lawmaker-says-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 03:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：中国警察在夏威夷太平洋邻国基里巴斯工作</title>
+      <link>https://www.reuters.com/world/china/chinese-police-work-kiribati-hawaiis-pacific-neighbour-2024-02-23/</link>
+      <description><![CDATA[基里巴斯官员告诉路透社，中国警察正在偏远的环礁国家基里巴斯工作，基里巴斯是夏威夷的太平洋邻国，身穿制服的警察参与社区治安和犯罪数据库项目。]]></description>
+      <guid>https://www.reuters.com/world/china/chinese-police-work-kiribati-hawaiis-pacific-neighbour-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 03:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>股市沐浴在科技股的欣喜之中，英伟达的繁荣</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-02-23/</link>
+      <description><![CDATA[亚洲股市周五上涨，全球市场有望迎来一周的强劲上涨，人工智能宠儿英伟达令人惊叹的业绩引发从亚洲到欧洲和美国的一波创纪录新高，而日元则导致一系列货币下跌。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 02:46:40 GMT</pubDate>
+    </item>
     <item>
       <title>货币交易者继续做空，日元下跌</title>
       <link>https://www.reuters.com/markets/currencies/yen-sinks-currency-traders-keep-short-carry-2024-02-23/</link>
@@ -13,9 +41,9 @@
       <pubDate>Fri, 23 Feb 2024 01:47:08 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔沃汽车拟向股东分配 Polestar 62.7% 股份</title>
+      <title>沃尔沃汽车将稀释电动汽车制造商 Polestar 的股份</title>
       <link>https://www.reuters.com/business/autos-transportation/volvo-cars-proposes-distribute-627-polestar-stake-shareholders-2024-02-23/</link>
-      <description><![CDATA[沃尔沃汽车周五表示，计划将价值 95 亿瑞典克朗（合 9.2017 亿美元）的 Polestar Automotive Holding 62.7% 的股份分配给自己的股东。]]></description>
+      <description><![CDATA[沃尔沃汽车周五表示，计划将其持有的瑞典电动汽车制造商 Polestar Automotive Holding 价值 95 亿克朗（合 9.2017 亿美元）的 62.7% 股份分配给自己的股东。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/volvo-cars-proposes-distribute-627-polestar-stake-shareholders-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 01:09:22 GMT</pubDate>
     </item>
@@ -29,7 +57,7 @@
     <item>
       <title>日本在芯片复兴的漫长道路上伸出援助之手</title>
       <link>https://www.reuters.com/technology/japan-takes-taiwans-helping-hand-long-road-chip-revival-2024-02-22/</link>
-      <description><![CDATA[芯片制造商台积电于周六正式开设第一家日本工厂，凸显这家台湾公司在东京斥资数十亿美元重启其曾经强大的半导体制造业的努力中发挥的关键作用。]]></description>
+      <description><![CDATA[芯片制造商台积电于周六正式开设其第一家日本工厂，突显这家台湾公司在东京斥资数十亿美元重启其曾经强大的半导体制造业的努力中发挥的关键作用。]]></description>
       <guid>https://www.reuters.com/technology/japan-takes-taiwans-helping-hand-long-road-chip-revival-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 23:03:30 GMT</pubDate>
     </item>
@@ -50,7 +78,7 @@
     <item>
       <title>最后时刻的乌龙球让伊蒂哈德队进入全沙特亚冠四分之一决赛</title>
       <link>https://www.reuters.com/sports/soccer/late-own-goal-takes-al-ittihad-into-all-saudi-asian-cl-quarters-clash-2024-02-22/</link>
-      <description><![CDATA[周四，托马·塔巴塔泽最后时刻的乌龙球让卡里姆·本泽马免于脸红，这名后卫帮助沙特阿拉伯的伊蒂哈德队以 2-1 战胜了乌兹别克斯坦队的纳纳巴霍尔，并在亚冠四分之一决赛中与同胞希拉尔队进行了比赛。]]></description>
+      <description><![CDATA[周四，托马·塔巴塔泽最后时刻的乌龙球让卡里姆·本泽马免于脸红，这名后卫帮助沙特阿拉伯的伊蒂哈德队以 2-1 战胜了乌兹别克斯坦队的纳纳巴霍尔，并与同胞希拉尔队进行了亚洲冠军联赛四分之一决赛的比赛。]]></description>
       <guid>https://www.reuters.com/sports/soccer/late-own-goal-takes-al-ittihad-into-all-saudi-asian-cl-quarters-clash-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 21:23:24 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 11:04:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅赛德斯首席执行官警告欧盟不要针对中国采取保护主义</title>
-      <link>https://www.reuters.com/business/autos-transportation/mercedes-ceo-warns-eu-against-protectionism-response-china-2024-02-22/</link>
-      <description><![CDATA[梅赛德斯-奔驰首席执行官奥拉·卡林纽斯(Ola Kaellenius)周四在汽车制造商公布季度业绩后表示，欧盟针对中国加强保护主义的任何举措，对于欧洲等经济地区来说都是毁灭性的举动。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/mercedes-ceo-warns-eu-against-protectionism-response-china-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 10:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国将向美国派遣更多大熊猫 开启“熊猫外交”新时代</title>
-      <link>https://www.reuters.com/world/china/china-send-more-pandas-us-jump-starting-new-era-panda-diplomacy-2024-02-22/</link>
-      <description><![CDATA[中国野生动物保护协会正在与华盛顿国家动物园合作，安排将更多大熊猫带回美国，这标志着两个超级大国之间的外交关系正在改善。]]></description>
-      <guid>https://www.reuters.com/world/china/china-send-more-pandas-us-jump-starting-new-era-panda-diplomacy-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 10:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>臭气熏天的塞尔维亚废水加剧了环境问题</title>
-      <link>https://www.reuters.com/business/environment/smelly-serbian-wastewater-adds-environmental-woes-2024-02-22/</link>
-      <description><![CDATA[在贝尔格莱德高档滨水区的一栋新建高层建筑旁边，一条恶臭的溪流将污水直接排入萨瓦河，萨瓦河是污染该市水域的数十个排水口之一。]]></description>
-      <guid>https://www.reuters.com/business/environment/smelly-serbian-wastewater-adds-environmental-woes-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 08:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国科考船在印度洋作业</title>
-      <link>https://www.reuters.com/world/asia-pacific/chinese-research-vessels-operating-indian-ocean-2024-02-22/</link>
-      <description><![CDATA[中国的科学调查船队正在不断壮大，尽管政府坚称这些船只仅用于研究目的，但一些亚洲邻国，尤其是印度，担心他们收集的敏感数据可能会与中国军方分享。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/chinese-research-vessels-operating-indian-ocean-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 07:34:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
