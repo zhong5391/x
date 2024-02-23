@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 23 Feb 2024 19:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 19:58:38 GMT</lastBuildDate>
+    <item>
+      <title>穆迪表示，针对联合健康集团的黑客攻击对该公司来说是“信用负面”</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/moodys-says-hack-against-unitedhealth-group-is-credit-negative-company-2024-02-23/</link>
+      <description><![CDATA[信用评级机构穆迪周五表示，最近报道的针对联合健康集团的黑客事件对该公司来说是“信用负面”。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/moodys-says-hack-against-unitedhealth-group-is-credit-negative-company-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 19:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管有政策支持，中国新建住宅价格仍延续跌势</title>
+      <link>https://www.reuters.com/markets/asia/chinas-new-home-prices-extend-declines-despite-policy-support-2024-02-23/</link>
+      <description><![CDATA[1月份中国新建住宅价格环比跌幅放缓，大城市出现一定程度的企稳，但尽管北京方面努力重振需求，但全国范围内的下降趋势仍在持续。]]></description>
+      <guid>https://www.reuters.com/markets/asia/chinas-new-home-prices-extend-declines-despite-policy-support-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 18:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着流媒体竞争的加剧，标准普尔将派拉蒙全球置于负面观察名单</title>
+      <link>https://www.reuters.com/business/media-telecom/sp-puts-paramount-global-negative-watch-streaming-competition-grows-2024-02-23/</link>
+      <description><![CDATA[评级机构标准普尔周五将派拉蒙全球公司的信用评级置于负面观察名单，理由是由于有线电视业务持续下滑和流媒体竞争，该媒体集团运营现金流量较低。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/sp-puts-paramount-global-negative-watch-streaming-competition-grows-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 17:51:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储威廉姆斯称降息可能会在“今年晚些时候”发生</title>
+      <link>https://www.reuters.com/markets/us/feds-williams-rate-cuts-likely-appropriate-later-this-year-2024-02-23/</link>
+      <description><![CDATA[据 Axios 采访，纽约联储主席约翰·威廉姆斯预计，尽管 1 月份通胀和劳动力市场数据强于预期，但美联储仍将在“今年晚些时候”降息。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-williams-rate-cuts-likely-appropriate-later-this-year-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 17:40:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>航空公司集团与巴西官员讨论高成本问题</title>
+      <link>https://www.reuters.com/business/aerospace-defense/airline-group-discusses-high-costs-with-brazil-officials-2024-02-23/</link>
+      <description><![CDATA[航空公司游说团体国际航空运输协会本周会见了巴西政府官员，讨论该国航空公司面临的高昂成本，他们表示这阻碍了总统路易斯·伊纳西奥·卢拉·达席尔瓦降低机票价格的努力。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/airline-group-discusses-high-costs-with-brazil-officials-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 17:35:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>龙舌兰酒巨头 Becle 预计，在经历了困难的一年后，利润率正在增长</title>
+      <link>https://www.reuters.com/markets/commodities/tequila-giant-becle-sees-input-costs-easing-2024-2024-02-23/</link>
+      <description><![CDATA[全球最大的龙舌兰酒生产商墨西哥酿酒商 Becle 周五表示，由于投入成本下降，其第四季度利润超出预期，预计其利润率将缓慢改善。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/tequila-giant-becle-sees-input-costs-easing-2024-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 17:11:29 GMT</pubDate>
+    </item>
     <item>
       <title>随着市场信心增强，美国国债信用利差下降</title>
       <link>https://www.reuters.com/business/finance/credit-spreads-over-us-treasuries-fall-market-gains-confidence-2024-02-23/</link>
@@ -22,14 +64,14 @@
     <item>
       <title>美联储对尚未做出的降息理由持谨慎态度</title>
       <link>https://www.reuters.com/markets/rates-bonds/fed-cautious-rate-cut-case-that-has-yet-be-made-2024-02-23/</link>
-      <description><![CDATA[美联储官员表示，面临的经济状况缺乏任何明确的历史相似之处来指导他们，因此本周继续反对近期开始降息，而是在采取他们难以证明其合理性的举措之前建立了谨慎的理由。]]></description>
+      <description><![CDATA[美联储官员表示，面临的经济状况缺乏任何明确的历史相似之处来指导他们，本周继续反对近期开始降息，而是在采取他们难以证明其合理性的举措之前建立了谨慎的理由。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/fed-cautious-rate-cut-case-that-has-yet-be-made-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 15:55:58 GMT</pubDate>
     </item>
     <item>
       <title>巴克莱银行必须因 177 亿美元债务出售失误而面临美国股东诉讼</title>
       <link>https://www.reuters.com/legal/barclays-must-face-us-shareholder-lawsuit-over-177-bln-debt-sale-blunder-2024-02-23/</link>
-      <description><![CDATA[一名美国法官表示，巴克莱银行必须面临股东提议的集体诉讼的一部分，原因是该英国银行出售的债务比监管机构允许的多 177 亿美元。]]></description>
+      <description><![CDATA[一名美国法官周五裁定，巴克莱银行必须面临股东提出的集体诉讼，这些股东指控这家英国银行因出售比监管机构允许的多 177 亿美元的债务而存在证券欺诈行为。]]></description>
       <guid>https://www.reuters.com/legal/barclays-must-face-us-shareholder-lawsuit-over-177-bln-debt-sale-blunder-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 15:45:33 GMT</pubDate>
     </item>
@@ -41,13 +83,6 @@
       <pubDate>Fri, 23 Feb 2024 15:34:58 GMT</pubDate>
     </item>
     <item>
-      <title>飞机租赁商 AerCap 认为发动机问题在过去十年中持续存在</title>
-      <link>https://www.reuters.com/business/aerospace-defense/aircraft-lessor-aercap-sees-engine-issues-persisting-through-decade-2024-02-23/</link>
-      <description><![CDATA[全球最大的飞机租赁商 AerCap 首席执行官周五表示，预计到 2030 年发动机零部件的供应无法满足需求，这种情况将延长飞机制造商在劳动力和零部件短缺中的困境。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/aircraft-lessor-aercap-sees-engine-issues-persisting-through-decade-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 14:59:24 GMT</pubDate>
-    </item>
-    <item>
       <title>AI 狂潮席卷华尔街，英伟达估值突破 2 万亿美元</title>
       <link>https://www.reuters.com/technology/nvidia-hits-2-trillion-valuation-ai-frenzy-grips-wall-street-2024-02-23/</link>
       <description><![CDATA[周五，Nvidia 的市值达到 2 万亿美元，其芯片的需求旺盛，这使得这家硅谷公司成为生成人工智能热潮的先驱。]]></description>
@@ -55,37 +90,9 @@
       <pubDate>Fri, 23 Feb 2024 14:37:18 GMT</pubDate>
     </item>
     <item>
-      <title>丰业银行将设立由原住民股东拥有的加拿大投资经销商</title>
-      <link>https://www.reuters.com/business/finance/scotiabank-set-up-canadian-investment-dealer-owned-by-indigenous-shareholders-2024-02-23/</link>
-      <description><![CDATA[新斯科舍银行周五表示，将在加拿大设立第一家原住民投资交易商，这将鼓励社区参与资本市场并创造新的机会。]]></description>
-      <guid>https://www.reuters.com/business/finance/scotiabank-set-up-canadian-investment-dealer-owned-by-indigenous-shareholders-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 14:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Carvana 股价在首次年度盈利后走高</title>
-      <link>https://www.reuters.com/business/autos-transportation/carvana-shares-ride-higher-after-first-annual-profit-2024-02-23/</link>
-      <description><![CDATA[周五，二手车零售商 Carvana 公布首次年度盈利后，该公司股价飙升近 40%，在成本削减和与债券持有人达成的债务削减协议的推动下，公司股价出现大幅好转。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/carvana-shares-ride-higher-after-first-annual-profit-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 14:14:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>各大券商预计美联储六月前不会降息</title>
-      <link>https://www.reuters.com/markets/rates-bonds/major-brokerages-dont-expect-fed-rate-cut-till-june-2024-02-23/</link>
-      <description><![CDATA[三大券商预计美联储将在 6 月份降息，比市场今年早些时候的预测晚了几个月，因为粘性通胀加剧了人们对过早降息的担忧。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/major-brokerages-dont-expect-fed-rate-cut-till-june-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 14:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>米高梅度假村表示监管机构正在调查 9 月份的网络攻击</title>
-      <link>https://www.reuters.com/technology/cybersecurity/mgm-resorts-says-state-federal-regulators-probing-september-cyberattack-2024-02-23/</link>
-      <description><![CDATA[米高梅国际酒店集团 (MGM Resorts International) 透露，州和联邦监管机构正在调查 9 月份发生的对其系统的网络攻击，该攻击给该公司第三季度业绩造成了 1 亿美元的损失。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/mgm-resorts-says-state-federal-regulators-probing-september-cyberattack-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 13:46:15 GMT</pubDate>
-    </item>
-    <item>
       <title>成功登月后 Intuitive Machines 股价飙升</title>
       <link>https://www.reuters.com/business/intuitive-machines-rockets-higher-after-landing-spacecraft-moon-2024-02-23/</link>
-      <description><![CDATA[周五，Intuitive Machines 股价飙升 33%，该公司成为第一家将航天器登陆月球的私营公司，预示着更多此类太空探索任务的时代即将到来。]]></description>
+      <description><![CDATA[周五，Intuitive Machines 股价飙升 33%，该公司成为第一家将航天器登陆月球的私营公司，预示着更多此类太空探索任务的时代即将来临。]]></description>
       <guid>https://www.reuters.com/business/intuitive-machines-rockets-higher-after-landing-spacecraft-moon-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 12:46:30 GMT</pubDate>
     </item>
@@ -111,9 +118,9 @@
       <pubDate>Fri, 23 Feb 2024 11:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街延续AI引领的涨势，英伟达市值突破2万亿美元</title>
+      <title>华尔街人工智能引领的涨势失去动力，英伟达削减涨幅</title>
       <link>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</link>
-      <description><![CDATA[华尔街主要股指周五延续涨势，英伟达 (Nvidia) 的市值首次跃升至 2 万亿美元以上，自该芯片制造商发布重磅季度报告以来，人工智能热潮席卷了市场。]]></description>
+      <description><![CDATA[周五，华尔街主要股指在人工智能的狂热推动下出现令人眼花缭乱的反弹，英伟达的市值首次突破 2 万亿美元。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 10:54:44 GMT</pubDate>
     </item>
@@ -130,13 +137,6 @@
       <description><![CDATA[本周，参加疫情后首届新加坡航展贸易部分的人数创历史新高，尽管供应商难以跟上旅行需求的反弹，但参展商和代表对航空业持乐观态度。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/post-pandemic-recovery-fuels-robust-attendance-hopes-singapore-airshow-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 05:43:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>据彭博社报道，通用汽车 Cruise 将在未来几周内恢复城市道路上的机器人出租车测试</title>
-      <link>https://www.reuters.com/business/autos-transportation/gms-cruise-resume-robotaxi-tests-city-roads-coming-weeks-bloomberg-reports-2024-02-23/</link>
-      <description><![CDATA[据彭博社周四报道，通用汽车公司的自动驾驶汽车部门 Cruise 正准备在未来几周内恢复在公共道路上测试其机器人出租车，并配备安全驾驶员，休斯顿和达拉斯是可能的地点。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/gms-cruise-resume-robotaxi-tests-city-roads-coming-weeks-bloomberg-reports-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 03:42:24 GMT</pubDate>
     </item>
     <item>
       <title>随着英伟达乐观情绪消退，股市失去动力，美元稳定</title>
