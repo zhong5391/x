@@ -1,79 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 23 Feb 2024 01:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 03:18:50 GMT</lastBuildDate>
     <item>
-      <title>巴西B3第四季度净利润下降近9%</title>
-      <link>https://www.reuters.com/business/finance/brazils-b3-posts-net-profit-falling-almost-9-fourth-quarter-2024-02-22/</link>
-      <description><![CDATA[巴西金融交易所运营商 B3 周四公布，第四季度净利润同比下降 8.8%。]]></description>
-      <guid>https://www.reuters.com/business/finance/brazils-b3-posts-net-profit-falling-almost-9-fourth-quarter-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 22:35:20 GMT</pubDate>
+      <title>股市沐浴在科技股的欣喜之中，英伟达的繁荣</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-02-23/</link>
+      <description><![CDATA[亚洲股市周五上涨，全球市场有望迎来一周的强劲上涨，人工智能宠儿英伟达令人惊叹的业绩引发从亚洲到欧洲和美国的一波创纪录新高，而日元则导致一系列货币下跌。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 02:46:40 GMT</pubDate>
     </item>
     <item>
-      <title>墨西哥 Televisa 第四季度净亏损</title>
-      <link>https://www.reuters.com/business/media-telecom/mexicos-televisa-posts-net-loss-q4-2024-02-22/</link>
-      <description><![CDATA[墨西哥最大广播公司Televisa周四公布，第四季度净亏损86.62亿比索，而去年同期净亏损121.89亿比索。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/mexicos-televisa-posts-net-loss-q4-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 22:26:37 GMT</pubDate>
+      <title>美联储理事表示不急于降息后油价下跌</title>
+      <link>https://www.reuters.com/markets/commodities/oil-falls-after-us-fed-governor-says-no-rush-cut-interest-rates-2024-02-23/</link>
+      <description><![CDATA[美联储官员表示降息应至少再推迟两个月后，周五油价下跌。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/oil-falls-after-us-fed-governor-says-no-rush-cut-interest-rates-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 02:21:16 GMT</pubDate>
     </item>
     <item>
-      <title>Stellantis首席执行官2023年总薪酬为3650万欧元</title>
-      <link>https://www.reuters.com/business/autos-transportation/stellantis-ceo-received-365-million-euros-2023-total-compensation-2024-02-22/</link>
-      <description><![CDATA[这家意大利裔美国汽车制造商周四表示，Stellantis 首席执行官卡洛斯·塔瓦雷斯 (Carlos Tavares) 2023 年的总薪酬为 3650 万欧元（3950 万美元）。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/stellantis-ceo-received-365-million-euros-2023-total-compensation-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 22:10:39 GMT</pubDate>
+      <title>货币交易者继续做空，日元下跌</title>
+      <link>https://www.reuters.com/markets/currencies/yen-sinks-currency-traders-keep-short-carry-2024-02-23/</link>
+      <description><![CDATA[本周，日元兑欧元、英镑和其他交叉货币汇率跌至新低，美元汇率也将连续第四周下跌，因为除了日本之外，几乎所有地方的投资者都在追逐更高的收益率，而日本的投注利率将在一段时间内保持在接近于零的水平。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/yen-sinks-currency-traders-keep-short-carry-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 01:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spirit 表示无法估计 737 MAX 9 事件的影响</title>
+      <link>https://www.reuters.com/business/aerospace-defense/spirit-says-it-is-unable-estimate-impact-737-max-9-incident-2024-02-23/</link>
+      <description><![CDATA[机身制造商 Spirit AeroSystems 周四表示，无法合理估计上个月发生的导致波音 737 MAX 9 飞机暂时停飞以及该飞机制造商产量上限的事件所造成的财务影响。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/spirit-says-it-is-unable-estimate-impact-737-max-9-incident-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 01:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃尔沃汽车将稀释电动汽车制造商 Polestar 的股份</title>
+      <link>https://www.reuters.com/business/autos-transportation/volvo-cars-proposes-distribute-627-polestar-stake-shareholders-2024-02-23/</link>
+      <description><![CDATA[沃尔沃汽车周五表示，计划将其持有的瑞典电动汽车制造商 Polestar Automotive Holding 价值 95 亿克朗（合 9.2017 亿美元）的 62.7% 股份分配给自己的股东。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/volvo-cars-proposes-distribute-627-polestar-stake-shareholders-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 01:09:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿根廷总统将推动惩罚中央银行国库融资的法案</title>
+      <link>https://www.reuters.com/world/americas/argentina-president-push-bill-penalizing-cenbank-financing-treasury-2024-02-23/</link>
+      <description><![CDATA[阿根廷总统哈维尔·米莱周四表示，他将提出一项法案，惩罚央行为国家财政部提供资金。]]></description>
+      <guid>https://www.reuters.com/world/americas/argentina-president-push-bill-penalizing-cenbank-financing-treasury-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 00:58:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储沃勒认为“不急于”降息</title>
+      <link>https://www.reuters.com/markets/us/feds-waller-sees-no-rush-cut-interest-rates-2024-02-23/</link>
+      <description><![CDATA[美联储理事克里斯托弗·沃勒(Christopher Waller)周四表示，美联储政策制定者应将降息至少再推迟几个月，看看近期通胀上升是否预示着物价稳定进程陷入停滞，还是只是路上的一个坎。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-waller-sees-no-rush-cut-interest-rates-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 00:37:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管需求放缓，龙舌兰酒巨头 Becle 利润仍大幅增长</title>
+      <link>https://www.reuters.com/business/retail-consumer/tequila-giant-becle-posts-4th-quarter-profit-rise-2024-02-23/</link>
+      <description><![CDATA[全球最大的龙舌兰酒生产商墨西哥酿酒商 Becle 周四公布，尽管主要市场销量下滑，但 2023 年最后三个月的净利润较上年同期增长 41%，高于市场预期。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/tequila-giant-becle-posts-4th-quarter-profit-rise-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 00:13:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>新加坡电信第三季度利润持平，本地业绩疲软抵消了 Optus 的增长</title>
+      <link>https://www.reuters.com/business/media-telecom/singtel-posts-flat-net-profit-third-quarter-2024-02-23/</link>
+      <description><![CDATA[新加坡电信（SingTel）周五表示，其第三季度基本净利润与去年持平，因为本地业务疲软抵消了其信息技术和澳大利亚电信部门的增长。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/singtel-posts-flat-net-profit-third-quarter-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 00:10:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>路透调查显示，未来几个月全球股市将上涨，而非烟花爆竹</title>
+      <link>https://www.reuters.com/markets/poll-global-stocks-set-gains-not-fireworks-months-ahead-2024-02-23/</link>
+      <description><![CDATA[路透社对股票策略师的一项调查显示，考虑到去年出人意料的大幅上涨，全球股市近期的涨势仅剩一点点。对于未来三个月是否会出现调整，股票策略师的意见不一。]]></description>
+      <guid>https://www.reuters.com/markets/poll-global-stocks-set-gains-not-fireworks-months-ahead-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 00:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国证券交易委员会 (SEC) 文件称，摩根大通首席执行官戴蒙出售了价值约 1.5 亿美元的股票</title>
+      <link>https://www.reuters.com/markets/us/jpmorgan-ceo-dimon-sells-about-150-mln-his-shares-sec-filing-says-2024-02-22/</link>
+      <description><![CDATA[美国证券交易委员会周四提交的文件显示，摩根大通首席执行官杰米·戴蒙已出售其持有的价值约 1.5 亿美元的银行股份，这是这家美国最大银行的首席执行官自 2005 年上任以来首次出售股票。]]></description>
+      <guid>https://www.reuters.com/markets/us/jpmorgan-ceo-dimon-sells-about-150-mln-his-shares-sec-filing-says-2024-02-22/</guid>
+      <pubDate>Thu, 22 Feb 2024 23:24:08 GMT</pubDate>
     </item>
     <item>
       <title>美联储库克：降息前需要对通胀更有信心</title>
       <link>https://www.reuters.com/markets/us/feds-cook-need-more-confidence-inflation-before-cutting-rates-2024-02-22/</link>
-      <description><![CDATA[美联储理事丽莎·库克周四表示，随着通胀缓和和劳动力市场正常化，经济面临的风险已变得“双面”，但目前还不是降息的时候。]]></description>
+      <description><![CDATA[美联储理事库克周四表示，随着通胀缓和和劳动力市场正常化，经济面临的风险已变得“双面”，但目前还不是降息的时候。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-cook-need-more-confidence-inflation-before-cutting-rates-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 22:09:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>PIMCO表示，美国政府债务轨迹将推高长期收益率</title>
-      <link>https://www.reuters.com/markets/us/us-government-debt-trajectory-push-long-term-yields-higher-says-pimco-2024-02-22/</link>
-      <description><![CDATA[美国债券巨头太平洋投资管理公司(PIMCO)周四警告称，由于美国政府财政赤字庞大，债券投资者预计将因持有长期美国政府债务而获得更高的债务支出。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-government-debt-trajectory-push-long-term-yields-higher-says-pimco-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 22:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Capital One-Discover 合并交易终止费定为 13.8 亿美元</title>
-      <link>https://www.reuters.com/markets/deals/discover-or-capital-one-pay-termination-fee-138-bln-case-deal-sours-2024-02-22/</link>
-      <description><![CDATA[周四的一份监管文件显示，如果两家公司的合并在任何情况下失败，Discover Financial Services 或 Capital One Financial 将支付 13.8 亿美元的终止费。]]></description>
-      <guid>https://www.reuters.com/markets/deals/discover-or-capital-one-pay-termination-fee-138-bln-case-deal-sours-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 21:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：随着全球股市的繁荣，记录被打破</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-22/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 21:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：美国监管机构从气候规则草案中删除了一些排放披露要求</title>
-      <link>https://www.reuters.com/sustainability/us-regulator-drops-some-emissions-disclosure-requirements-draft-climate-rules-2024-02-22/</link>
-      <description><![CDATA[知情人士周四表示，美国证券交易委员会（SEC）已从其准备采用的企业气候风险规则中删除了一些最雄心勃勃的温室气体排放披露要求。]]></description>
-      <guid>https://www.reuters.com/sustainability/us-regulator-drops-some-emissions-disclosure-requirements-draft-climate-rules-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 21:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>南美航空第四季度利润下滑 95%</title>
-      <link>https://www.reuters.com/business/aerospace-defense/latam-airlines-fourth-quarter-profit-slides-95-2024-02-22/</link>
-      <description><![CDATA[拉丁美洲航空周四在一份文件中表示，第四季度净利润同比下降 95%，降至 8400 万美元。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/latam-airlines-fourth-quarter-profit-slides-95-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 21:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡瓦纳 (Carvana) 报告首次盈利，第一季度业绩强劲，股价上涨</title>
-      <link>https://www.reuters.com/business/autos-transportation/carvana-expects-core-profit-over-100-million-q1-2024-02-22/</link>
-      <description><![CDATA[周四，二手车零售商 Carvana 公布了其有史以来的首次盈利，并预测本季度核心利润“远高于”1 亿美元，部分原因是削减了成本，并导致其股价盘后飙升超过 20%。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/carvana-expects-core-profit-over-100-million-q1-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 21:26:45 GMT</pubDate>
     </item>
     <item>
       <title>整体前景超出盈利预期，股价上涨 12%</title>
@@ -88,20 +102,6 @@
       <description><![CDATA[Reddit 周四披露，该社交媒体公司在备受期待的 3 月份美国股市首次公开募股之前公开了 IPO 申请，其净亏损收窄至 9080 万美元，2023 年收入增长约 21%。]]></description>
       <guid>https://www.reuters.com/technology/reddit-makes-us-ipo-filing-public-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 20:26:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储哈克：央行首次降息的时机可能已接近</title>
-      <link>https://www.reuters.com/markets/us/feds-harker-central-bank-likely-track-rate-cut-this-year-2024-02-22/</link>
-      <description><![CDATA[费城联储行长帕特里克·哈克周四表示，降息是货币政策的下一步，而且降息的时机已经越来越近，不过他拒绝透露央行何时能够降低短期成本。定期借款。]]></description>
-      <guid>https://www.reuters.com/markets/us/feds-harker-central-bank-likely-track-rate-cut-this-year-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 20:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国批准从 2025 年开始在中西部扩大 E15 汽油销售</title>
-      <link>https://www.reuters.com/business/energy/biden-administration-approves-e15-gasoline-sales-expansion-midwest-states-2024-02-22/</link>
-      <description><![CDATA[美国政府周四表示，已批准中西部州长的请求，允许从 2025 年开始在各州扩大乙醇混合汽油的销售。]]></description>
-      <guid>https://www.reuters.com/business/energy/biden-administration-approves-e15-gasoline-sales-expansion-midwest-states-2024-02-22/</guid>
-      <pubDate>Thu, 22 Feb 2024 18:10:27 GMT</pubDate>
     </item>
     <item>
       <title>电动汽车行业面临裁员、减产和改变计划的问题</title>
@@ -127,14 +127,14 @@
     <item>
       <title>AT&T 在中断数小时后恢复服务</title>
       <link>https://www.reuters.com/technology/cellular-outage-us-hits-att-t-mobile-verizon-users-downdetector-shows-2024-02-22/</link>
-      <description><![CDATA[AT&amp;T 表示，在周四发生手机故障数小时后，该公司已为所有受影响的客户恢复了无线服务，导致数千名美国用户的通话和短信中断，促使联邦机构展开调查。]]></description>
+      <description><![CDATA[AT&amp;T 周四晚间表示，导致数千名美国用户通话和短信中断并促使联邦调查的故障并非由网络攻击引起。]]></description>
       <guid>https://www.reuters.com/technology/cellular-outage-us-hits-att-t-mobile-verizon-users-downdetector-shows-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 10:24:16 GMT</pubDate>
     </item>
     <item>
       <title>英伟达引发人工智能热潮，标准普尔 500 指数和道琼斯指数飙升至收盘新高</title>
       <link>https://www.reuters.com/markets/us/nasdaq-futures-jump-nearly-2-after-nvidia-trounces-expectations-2024-02-22/</link>
-      <description><![CDATA[周四，标准普尔 500 指数和道琼斯工业平均指数均飙升至创纪录的收盘高位，原因是在人工智能典型代表英伟达 (Nvidia) 公布丰厚的盈利和前景后的第二天，投资者纷纷涌入成长型和科技股。]]></description>
+      <description><![CDATA[周四，标准普尔 500 指数和道琼斯工业平均指数均飙升至创纪录的收盘高位，在人工智能典型代表英伟达 (Nvidia) 公布丰厚的盈利和前景后的第二天，投资者纷纷买入成长型和科技股。]]></description>
       <guid>https://www.reuters.com/markets/us/nasdaq-futures-jump-nearly-2-after-nvidia-trounces-expectations-2024-02-22/</guid>
       <pubDate>Thu, 22 Feb 2024 10:12:09 GMT</pubDate>
     </item>
