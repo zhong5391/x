@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 24 Feb 2024 22:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 22:51:26 GMT</lastBuildDate>
+    <item>
+      <title>独家：博通接近以 38 亿美元的价格向 KKR 出售远程访问部门</title>
+      <link>https://www.reuters.com/technology/broadcom-nears-38-bln-sale-remote-access-unit-kkr-2024-02-24/</link>
+      <description><![CDATA[知情人士周六表示，芯片制造商博通 (Broadcom) 即将以 38 亿美元的价格将其允许用户从任何设备访问桌面和应用程序的业务出售给私募股权公司 KKR。]]></description>
+      <guid>https://www.reuters.com/technology/broadcom-nears-38-bln-sale-remote-access-unit-kkr-2024-02-24/</guid>
+      <pubDate>Sat, 24 Feb 2024 21:54:43 GMT</pubDate>
+    </item>
     <item>
       <title>沃伦·巴菲特哀悼伯克希尔“建筑师”查理·芒格去世</title>
       <link>https://www.reuters.com/business/warren-buffett-mourns-passing-berkshire-architect-charlie-munger-2024-02-24/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sat, 24 Feb 2024 18:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>沃伦·巴菲特哀悼查理·芒格去世，称伯克希尔“基业长青”</title>
+      <title>沃伦·巴菲特哀悼查理·芒格，称伯克希尔哈撒韦“令人瞠目结舌”的业绩已经结束</title>
       <link>https://www.reuters.com/business/warren-buffett-says-berkshire-built-last-though-eye-popping-gains-are-over-2024-02-24/</link>
       <description><![CDATA[沃伦·巴菲特周六向投资者保证，他的伯克希尔·哈撒韦公司将从长远来看为他们提供良好的服务，尽管他对最近去世的长期二把手查理·芒格表示哀悼。]]></description>
       <guid>https://www.reuters.com/business/warren-buffett-says-berkshire-built-last-though-eye-popping-gains-are-over-2024-02-24/</guid>
@@ -36,12 +43,12 @@
     <item>
       <title>巴菲特的伯克希尔保险和投资利润创历史新高</title>
       <link>https://www.reuters.com/business/buffetts-berkshire-posts-record-profit-insurance-investment-2024-02-24/</link>
-      <description><![CDATA[沃伦·巴菲特旗下的伯克希尔·哈撒韦公司周六公布了连续第二个创纪录的年度营业利润，其保险业务受益于承保改善和利率上升带来的投资收入增加。]]></description>
+      <description><![CDATA[沃伦·巴菲特的伯克希尔·哈撒韦公司周六公布了连续第二个创纪录的年度营业利润，其保险业务受益于承保改善和利率上升带来的投资收入增加。]]></description>
       <guid>https://www.reuters.com/business/buffetts-berkshire-posts-record-profit-insurance-investment-2024-02-24/</guid>
       <pubDate>Sat, 24 Feb 2024 15:18:50 GMT</pubDate>
     </item>
     <item>
-      <title>巴菲特旗下伯克希尔盈利创历史新高，季度业绩也有所上升</title>
+      <title>巴菲特旗下的伯克希尔哈撒韦公司利润创历史新高，季度业绩也有所上升</title>
       <link>https://www.reuters.com/business/buffetts-berkshire-posts-record-profit-quarterly-results-also-rise-2024-02-24/</link>
       <description><![CDATA[沃伦·巴菲特的伯克希尔·哈撒韦公司周六公布了连续第二个创纪录的年度利润，这得益于其普通股投资收益以及利率上升帮助其保险业务产生更多收入。]]></description>
       <guid>https://www.reuters.com/business/buffetts-berkshire-posts-record-profit-quarterly-results-also-rise-2024-02-24/</guid>
@@ -60,13 +67,6 @@
       <description><![CDATA[法意汽车制造商 Stellantis 首席执行官卡洛斯·塔瓦雷斯 (Carlos Tavares) 在周六接受德国媒体 Welt 采访时表示，希望坚持欧盟的目标，从 2035 年起有效禁止销售新的汽油和柴油汽车。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/stellantis-ceo-defends-eus-2035-ban-fossil-fuel-cars-2024-02-24/</guid>
       <pubDate>Sat, 24 Feb 2024 00:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>据英国《金融时报》报道，高盛财务主管正在就离职事宜进行谈判</title>
-      <link>https://www.reuters.com/business/finance/goldman-sachs-treasurer-talks-potentially-leave-bank-ft-reports-2024-02-23/</link>
-      <description><![CDATA[据英国《金融时报》周五援引知情人士的话报道，曾被吹捧为可能的首席财务官候选人的高盛全球财务主管菲利普·柏林斯基(Philip Berlinski)正在就离开该行的可能性进行谈判。]]></description>
-      <guid>https://www.reuters.com/business/finance/goldman-sachs-treasurer-talks-potentially-leave-bank-ft-reports-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 23:34:18 GMT</pubDate>
     </item>
     <item>
       <title>福特暂停新型 F-150 Lightning 电动汽车的发货</title>
@@ -132,7 +132,7 @@
       <pubDate>Fri, 23 Feb 2024 11:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达势头持续，标普、道琼斯指数再创收盘新高</title>
+      <title>随着英伟达势头持续，标普、道琼斯指数再创收盘新高</title>
       <link>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</link>
       <description><![CDATA[周五，标准普尔 500 指数和道琼斯工业平均指数再创收盘新高，华尔街三大基准指数均录得周涨幅，因为人工智能股有足够的动力来保持涨势。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</guid>
