@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 23 Feb 2024 22:32:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 01:12:52 GMT</lastBuildDate>
+    <item>
+      <title>加拿大航空将限制票价并增加山猫航空航班的运力</title>
+      <link>https://www.reuters.com/business/aerospace-defense/air-canada-cap-fares-increase-capacity-take-lynx-air-fliers-2024-02-23/</link>
+      <description><![CDATA[加拿大航空 (Air Canada) 周五表示，鉴于这家陷入困境的加拿大廉价航空公司即将暂停运营，它将限制票价，并在 Lynx Air 运营的部分市场增加 6,000 多个座位。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/air-canada-cap-fares-increase-capacity-take-lynx-air-fliers-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 22:31:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>达美航空寻求撤销美国取消与墨西哥航空合作伙伴关系的计划</title>
+      <link>https://www.reuters.com/business/aerospace-defense/delta-seeks-reversal-us-plan-scrap-airlines-aeromexico-partnership-2024-02-23/</link>
+      <description><![CDATA[达美航空周五敦促拜登政府撤销取消该航空公司与墨西哥航空合作伙伴关系的反垄断豁免的计划，理由是该公司对经济造成重大影响。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/delta-seeks-reversal-us-plan-scrap-airlines-aeromexico-partnership-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 22:30:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着英伟达股价飙升，SPDR S&P 500 ETF 资产突破创纪录的 5000 亿美元</title>
+      <link>https://www.reuters.com/business/finance/spdr-sp-500-etf-tops-record-500-bln-assets-nvidia-soars-2024-02-23/</link>
+      <description><![CDATA[市场参与者表示，芯片制造商 Nvidia 股价的惊人上涨帮助 SPDR S&amp;P 500 ETF Trust 成为首个资产规模超过 5000 亿美元的交易所交易基金。]]></description>
+      <guid>https://www.reuters.com/business/finance/spdr-sp-500-etf-tops-record-500-bln-assets-nvidia-soars-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 22:28:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>福特暂停新型 F-150 Lightning 电动汽车的发货</title>
+      <link>https://www.reuters.com/business/autos-transportation/ford-stops-shipments-2024-f-150-lightning-2024-02-23/</link>
+      <description><![CDATA[福特汽车公司周五表示，已停止所有 2024 年款 F-150 Lightning 电动皮卡的发货，因此可以针对未具体说明的问题进行质量检查。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ford-stops-shipments-2024-f-150-lightning-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 22:22:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联航时隔四年提高托运行李费</title>
+      <link>https://www.reuters.com/business/aerospace-defense/united-airlines-raises-checked-baggage-fees-after-four-years-2024-02-23/</link>
+      <description><![CDATA[联合航空周五表示，将提高在北美旅行的乘客的托运行李费，几天前美国航空也宣布了类似的提高。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/united-airlines-raises-checked-baggage-fees-after-four-years-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 21:25:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPAC合并后，电动汽车制造商莲花科技在纳斯达克首次亮相</title>
+      <link>https://www.reuters.com/technology/ev-maker-lotus-tech-closes-up-modestly-nasdaq-debut-after-spac-merger-2024-02-23/</link>
+      <description><![CDATA[路特斯科技 (Lotus Technology) 的股价周五在纳斯达克首次亮相时上涨 2%，收复早前的跌幅，此前这家豪华电动汽车制造商完成了与私募股权公司 L Catterton 支持的空白支票收购公司的合并。]]></description>
+      <guid>https://www.reuters.com/technology/ev-maker-lotus-tech-closes-up-modestly-nasdaq-debut-after-spac-merger-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 21:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街未来一周美国股市飙升可能会受到美联储盈利放缓的暗示</title>
+      <link>https://www.reuters.com/markets/us/wall-st-week-ahead-soaring-us-stocks-could-take-cues-fed-earnings-wind-down-2024-02-23/</link>
+      <description><![CDATA[强劲的企业业绩帮助标普 500 指数今年攀升至新高，将人们的注意力从美联储降低利率的曲折道路上转移开。随着财报季结束，一些投资者认为货币政策将重新占据主导地位。]]></description>
+      <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-soaring-us-stocks-could-take-cues-fed-earnings-wind-down-2024-02-23/</guid>
+      <pubDate>Fri, 23 Feb 2024 21:15:13 GMT</pubDate>
+    </item>
     <item>
       <title>美国寻求修改创始人赵的债券，法官批准币安 43 亿美元认罪</title>
       <link>https://www.reuters.com/technology/judge-approves-binance-43-billion-guilty-plea-us-seeks-modify-founder-zhaos-bond-2024-02-23/</link>
@@ -13,9 +62,9 @@
       <pubDate>Fri, 23 Feb 2024 20:41:31 GMT</pubDate>
     </item>
     <item>
-      <title>美国联邦贸易委员会 (FTC) 对 H&R Block 删除消费者税务数据提出投诉</title>
+      <title>H&R Block 被指控在免费报税广告上进行欺骗性营销</title>
       <link>https://www.reuters.com/business/finance/us-ftc-files-complaint-against-hr-block-deleting-consumers-tax-data-2024-02-23/</link>
-      <description><![CDATA[美国联邦贸易委员会周五表示，已对 H&amp;R Block 提出投诉，称其删除了消费者的税务数据，并要求他们在降级到更实惠的在线产品时联系客户服务。]]></description>
+      <description><![CDATA[美国联邦贸易委员会周五表示，已提起诉讼，指控 H&amp;R Block 欺骗性地将其在线报税软件宣传为免费，但对许多消费者而言并非如此。]]></description>
       <guid>https://www.reuters.com/business/finance/us-ftc-files-complaint-against-hr-block-deleting-consumers-tax-data-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 20:26:11 GMT</pubDate>
     </item>
@@ -34,51 +83,9 @@
       <pubDate>Fri, 23 Feb 2024 20:09:55 GMT</pubDate>
     </item>
     <item>
-      <title>中国的困境不会减缓美国经济，但产能过剩令人担忧——财政部长阿德耶莫</title>
-      <link>https://www.reuters.com/markets/chinas-woes-wont-slow-us-economy-excess-capacity-concern-treasurys-adeyemo-2024-02-23/</link>
-      <description><![CDATA[美国副财长沃利·阿德耶莫周五表示，中国面临着一系列经济挑战，包括房地产业和人口老龄化，但他认为，除了中国过剩的制造业产能之外，不会对美国经济产生重大溢出效应。]]></description>
-      <guid>https://www.reuters.com/markets/chinas-woes-wont-slow-us-economy-excess-capacity-concern-treasurys-adeyemo-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 20:05:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>穆迪表示，针对联合健康的黑客攻击对该公司的信用造成负面影响</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/moodys-says-hack-against-unitedhealth-group-is-credit-negative-company-2024-02-23/</link>
-      <description><![CDATA[信用评级机构穆迪周五表示，最近报道的针对联合健康集团的黑客攻击对该公司来说是“信用负面”。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/moodys-says-hack-against-unitedhealth-group-is-credit-negative-company-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 19:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管有政策支持，中国新建住宅价格仍延续跌势</title>
-      <link>https://www.reuters.com/markets/asia/chinas-new-home-prices-extend-declines-despite-policy-support-2024-02-23/</link>
-      <description><![CDATA[1月份中国新建住宅价格环比跌幅放缓，大城市出现一定程度的企稳，但尽管北京方面努力重振需求，但全国范围内的下降趋势仍在持续。]]></description>
-      <guid>https://www.reuters.com/markets/asia/chinas-new-home-prices-extend-declines-despite-policy-support-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 18:35:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着流媒体竞争的加剧，标准普尔将派拉蒙全球置于负面观察名单</title>
-      <link>https://www.reuters.com/business/media-telecom/sp-puts-paramount-global-negative-watch-streaming-competition-grows-2024-02-23/</link>
-      <description><![CDATA[评级机构标准普尔周五将派拉蒙全球公司的信用评级置于负面观察名单，理由是由于有线电视业务持续下滑和流媒体竞争，该媒体集团运营现金流量较低。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/sp-puts-paramount-global-negative-watch-streaming-competition-grows-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 17:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储威廉姆斯称降息可能会在“今年晚些时候”发生</title>
-      <link>https://www.reuters.com/markets/us/feds-williams-rate-cuts-likely-appropriate-later-this-year-2024-02-23/</link>
-      <description><![CDATA[据 Axios 采访，纽约联储主席约翰·威廉姆斯认为，尽管 1 月份通胀和劳动力市场数据强于预期，但美联储仍将在“今年晚些时候”降息。]]></description>
-      <guid>https://www.reuters.com/markets/us/feds-williams-rate-cuts-likely-appropriate-later-this-year-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 17:40:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>航空公司集团与巴西官员讨论高成本问题</title>
-      <link>https://www.reuters.com/business/aerospace-defense/airline-group-discusses-high-costs-with-brazil-officials-2024-02-23/</link>
-      <description><![CDATA[航空公司游说团体国际航空运输协会本周会见了巴西政府官员，讨论该国航空公司面临的高昂成本，他们表示这阻碍了总统路易斯·伊纳西奥·卢拉·达席尔瓦降低机票价格的努力。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/airline-group-discusses-high-costs-with-brazil-officials-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 17:35:56 GMT</pubDate>
-    </item>
-    <item>
       <title>美联储对尚未做出的降息理由持谨慎态度</title>
       <link>https://www.reuters.com/markets/rates-bonds/fed-cautious-rate-cut-case-that-has-yet-be-made-2024-02-23/</link>
-      <description><![CDATA[美联储官员表示，面临的经济状况缺乏任何明确的历史相似之处来指导他们，因此本周继续反对近期开始降息，而是在采取他们难以证明其合理性的举措之前建立了谨慎的理由。]]></description>
+      <description><![CDATA[美联储官员表示，面临的经济状况缺乏任何明确的历史相似之处来指导他们，本周继续反对近期开始降息，而是在采取他们难以证明其合理性的举措之前建立了谨慎的理由。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/fed-cautious-rate-cut-case-that-has-yet-be-made-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 15:55:58 GMT</pubDate>
     </item>
@@ -104,18 +111,11 @@
       <pubDate>Fri, 23 Feb 2024 14:37:18 GMT</pubDate>
     </item>
     <item>
-      <title>成功登月后 Intuitive Machines 股价上涨</title>
+      <title>直觉机器公司称月球着陆器在着陆时翻倒，股价暴跌</title>
       <link>https://www.reuters.com/business/intuitive-machines-rockets-higher-after-landing-spacecraft-moon-2024-02-23/</link>
-      <description><![CDATA[周五，Intuitive Machines 股价上涨 21%，该公司成为第一家将航天器登陆月球的私营公司，预示着更多此类太空探索任务的时代即将来临。]]></description>
+      <description><![CDATA[周五，Intuitive Machines 股价在盘后交易中下跌 38%，此前该公司表示，其月球着陆器奥德修斯号在一天前降落在月球表面时发生侧向“翻倒”。]]></description>
       <guid>https://www.reuters.com/business/intuitive-machines-rockets-higher-after-landing-spacecraft-moon-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 12:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着股市创历史新高，投资者仍纷纷涌入现金</title>
-      <link>https://www.reuters.com/markets/investors-still-flock-cash-stocks-hit-record-highs-2024-02-23/</link>
-      <description><![CDATA[美国银行全球研究部周五表示，今年头几周，投资者以有记录以来最快的速度向货币市场基金注入现金，并在截至周三的一周内，又向股票注入了 150 亿美元。]]></description>
-      <guid>https://www.reuters.com/markets/investors-still-flock-cash-stocks-hit-record-highs-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 12:13:44 GMT</pubDate>
     </item>
     <item>
       <title>华纳兄弟探索公司 (Warner Bros Discovery) 的亏损超出预期，令其盈利蒙上阴影；股价下滑</title>
@@ -134,7 +134,7 @@
     <item>
       <title>英伟达势头持续，标普、道琼斯指数再创收盘新高</title>
       <link>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</link>
-      <description><![CDATA[周五，标准普尔 500 指数和道琼斯工业平均指数继续创下历史新高，华尔街三大指数均录得周涨幅，因为人工智能股票有足够的动力来保持涨势。]]></description>
+      <description><![CDATA[周五，标准普尔 500 指数和道琼斯工业平均指数再创收盘新高，华尔街三大基准指数均录得周涨幅，因为人工智能股有足够的动力来保持涨势。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 10:54:44 GMT</pubDate>
     </item>
