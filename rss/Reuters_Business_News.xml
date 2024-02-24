@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 24 Feb 2024 22:51:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Feb 2024 23:18:36 GMT</lastBuildDate>
     <item>
       <title>独家：博通接近以 38 亿美元的价格向 KKR 出售远程访问部门</title>
       <link>https://www.reuters.com/technology/broadcom-nears-38-bln-sale-remote-access-unit-kkr-2024-02-24/</link>
@@ -48,14 +48,14 @@
       <pubDate>Sat, 24 Feb 2024 15:18:50 GMT</pubDate>
     </item>
     <item>
-      <title>巴菲特旗下的伯克希尔哈撒韦公司利润创历史新高，季度业绩也有所上升</title>
+      <title>巴菲特旗下伯克希尔盈利创历史新高，季度业绩也有所上升</title>
       <link>https://www.reuters.com/business/buffetts-berkshire-posts-record-profit-quarterly-results-also-rise-2024-02-24/</link>
-      <description><![CDATA[沃伦·巴菲特的伯克希尔·哈撒韦公司周六公布了连续第二个创纪录的年度利润，这得益于其普通股投资收益以及利率上升帮助其保险业务产生更多收入。]]></description>
+      <description><![CDATA[沃伦·巴菲特的伯克希尔·哈撒韦公司周六公布了连续第二个创纪录的年度利润，这得益于其普通股投资的收益以及利率上升帮助其保险业务产生更多收入。]]></description>
       <guid>https://www.reuters.com/business/buffetts-berkshire-posts-record-profit-quarterly-results-also-rise-2024-02-24/</guid>
       <pubDate>Sat, 24 Feb 2024 13:53:05 GMT</pubDate>
     </item>
     <item>
-      <title>Blackstone 首席执行官施瓦茨曼 2023 年获得 8.967 亿美元的薪酬和股息</title>
+      <title>Blackstone 首席执行官施瓦茨曼 (Schwarzman) 2023 年获得 8.967 亿美元的薪酬和股息</title>
       <link>https://www.reuters.com/business/finance/blackstone-ceo-schwarzman-received-8967-mln-pay-dividends-2023-2024-02-24/</link>
       <description><![CDATA[根据周五提交的监管文件，黑石公司首席执行官史蒂夫·施瓦茨曼 (Steve Schwarzman) 去年获得了 8.967 亿美元的薪酬和股息，比他在 2022 年创纪录的收入下降了 29%。]]></description>
       <guid>https://www.reuters.com/business/finance/blackstone-ceo-schwarzman-received-8967-mln-pay-dividends-2023-2024-02-24/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>美联储对尚未做出的降息理由持谨慎态度</title>
       <link>https://www.reuters.com/markets/rates-bonds/fed-cautious-rate-cut-case-that-has-yet-be-made-2024-02-23/</link>
-      <description><![CDATA[美联储官员表示，面临的经济状况缺乏任何明确的历史相似之处来指导他们，因此本周继续反对近期开始降息，而是在采取他们难以证明其合理性的举措之前建立了谨慎的理由。]]></description>
+      <description><![CDATA[美联储官员表示，面临的经济状况缺乏任何明确的历史相似之处来指导他们，本周继续反对近期开始降息，而是在采取他们难以证明其合理性的举措之前建立了谨慎的理由。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/fed-cautious-rate-cut-case-that-has-yet-be-made-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 15:55:58 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Fri, 23 Feb 2024 11:04:40 GMT</pubDate>
     </item>
     <item>
-      <title>随着英伟达势头持续，标普、道琼斯指数再创收盘新高</title>
+      <title>英伟达势头持续，标普、道琼斯指数再创收盘新高</title>
       <link>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</link>
       <description><![CDATA[周五，标准普尔 500 指数和道琼斯工业平均指数再创收盘新高，华尔街三大基准指数均录得周涨幅，因为人工智能股有足够的动力来保持涨势。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</guid>
