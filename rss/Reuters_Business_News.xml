@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 25 Feb 2024 23:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 01:35:29 GMT</lastBuildDate>
+    <item>
+      <title>由于波音进一步延误，瑞安航空可能不得不削减夏季航班</title>
+      <link>https://www.reuters.com/business/aerospace-defense/ryanair-may-have-cut-summer-flights-due-further-boeing-delays-2024-02-26/</link>
+      <description><![CDATA[瑞安航空首席执行官迈克尔·奥利里 (Michael O&#39;Leary) 周五表示，到 6 月底接收的波音飞机数量将比之前预期的还要少，这可能会促使这家廉价航空公司在一年中最繁忙的时间削减夏季航班时刻表。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/ryanair-may-have-cut-summer-flights-due-further-boeing-delays-2024-02-26/</guid>
+      <pubDate>Mon, 26 Feb 2024 00:13:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球顶级能源交易商面临数十亿现金困境</title>
+      <link>https://www.reuters.com/business/energy/top-global-energy-traders-face-multi-billion-cash-quandary-2024-02-26/</link>
+      <description><![CDATA[当世界顶级能源贸易公司本周在伦敦准备其最大的年度行业聚会时，他们面临着一个日益严重的问题：如何处理他们的现金。]]></description>
+      <guid>https://www.reuters.com/business/energy/top-global-energy-traders-face-multi-billion-cash-quandary-2024-02-26/</guid>
+      <pubDate>Mon, 26 Feb 2024 00:06:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国铝业制造商美国铝业 (Alcoa) 向澳大利亚氧化铝公司 (Alumina) 提出 22 亿美元收购要约</title>
+      <link>https://www.reuters.com/markets/deals/us-aluminium-maker-alcoa-makes-22-bln-offer-australias-alumina-2024-02-25/</link>
+      <description><![CDATA[美国铝生产商美国铝业公司 (Alcoa Corp) 周一对其澳大利亚合资伙伴 Alumina 提出了一项不具约束力的有条件收购提议，在全股票收购中对该公司的估值为 22 亿美元。]]></description>
+      <guid>https://www.reuters.com/markets/deals/us-aluminium-maker-alcoa-makes-22-bln-offer-australias-alumina-2024-02-25/</guid>
+      <pubDate>Sun, 25 Feb 2024 23:40:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>调查显示大多数英国出口商受到红海干扰的打击</title>
+      <link>https://www.reuters.com/markets/europe/most-uk-exporters-hit-by-red-sea-disruption-survey-shows-2024-02-25/</link>
+      <description><![CDATA[一项调查显示，大多数英国出口商和制造商都感受到了也门与伊朗结盟的胡塞叛乱分子对航运的袭击造成的红海混乱的影响。]]></description>
+      <guid>https://www.reuters.com/markets/europe/most-uk-exporters-hit-by-red-sea-disruption-survey-shows-2024-02-25/</guid>
+      <pubDate>Sun, 25 Feb 2024 22:41:54 GMT</pubDate>
+    </item>
     <item>
       <title>早盘买入：日经指数关注 40,000</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-25/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>面对中国电动汽车竞争对手，欧洲汽车制造商在成本上挤压供应商</title>
       <link>https://www.reuters.com/business/autos-transportation/facing-chinese-ev-rivals-europes-automakers-squeeze-suppliers-costs-2024-02-25/</link>
-      <description><![CDATA[欧洲汽车制造商及其本已捉襟见肘的供应商面临着艰难的一年，因为他们竞相削减电动车型的成本，以对抗规模较小的中国竞争对手，而中国竞争对手正在推出更便宜的汽车来在本土挑战他们。]]></description>
+      <description><![CDATA[欧洲汽车制造商及其本已捉襟见肘的供应商面临着艰难的一年，因为他们竞相削减电动车型的成本，以对抗规模较小的中国竞争对手，而中国竞争对手正在推出更便宜的汽车来挑战他们的主场。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/facing-chinese-ev-rivals-europes-automakers-squeeze-suppliers-costs-2024-02-25/</guid>
       <pubDate>Sun, 25 Feb 2024 06:06:55 GMT</pubDate>
     </item>
@@ -76,25 +104,11 @@
       <pubDate>Sat, 24 Feb 2024 15:59:48 GMT</pubDate>
     </item>
     <item>
-      <title>巴菲特的伯克希尔保险和投资利润创历史新高</title>
-      <link>https://www.reuters.com/business/buffetts-berkshire-posts-record-profit-insurance-investment-2024-02-24/</link>
-      <description><![CDATA[沃伦·巴菲特的伯克希尔·哈撒韦公司周六公布了连续第二个创纪录的年度营业利润，其保险业务受益于承保改善和利率上升带来的投资收入增加。]]></description>
-      <guid>https://www.reuters.com/business/buffetts-berkshire-posts-record-profit-insurance-investment-2024-02-24/</guid>
-      <pubDate>Sat, 24 Feb 2024 15:18:50 GMT</pubDate>
-    </item>
-    <item>
       <title>福特暂停新型 F-150 Lightning 电动汽车的发货</title>
       <link>https://www.reuters.com/business/autos-transportation/ford-stops-shipments-2024-f-150-lightning-2024-02-23/</link>
       <description><![CDATA[福特汽车公司周五表示，已停止所有 2024 年款 F-150 Lightning 电动皮卡的发货，因此可以针对未具体说明的问题进行质量检查。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ford-stops-shipments-2024-f-150-lightning-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 22:22:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>SPAC合并后，电动汽车制造商莲花科技在纳斯达克首次亮相</title>
-      <link>https://www.reuters.com/technology/ev-maker-lotus-tech-closes-up-modestly-nasdaq-debut-after-spac-merger-2024-02-23/</link>
-      <description><![CDATA[路特斯科技 (Lotus Technology) 周五在纳斯达克首次亮相，其股价收盘上涨 2%，收复早前的跌幅，此前这家豪华电动汽车制造商完成了与私募股权公司 L Catterton 支持的空白支票收购公司的合并。]]></description>
-      <guid>https://www.reuters.com/technology/ev-maker-lotus-tech-closes-up-modestly-nasdaq-debut-after-spac-merger-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 21:22:44 GMT</pubDate>
     </item>
     <item>
       <title>美国制造商表示，美国应阻止从墨西哥进口廉价中国汽车</title>
@@ -106,7 +120,7 @@
     <item>
       <title>美联储对尚未做出的降息理由持谨慎态度</title>
       <link>https://www.reuters.com/markets/rates-bonds/fed-cautious-rate-cut-case-that-has-yet-be-made-2024-02-23/</link>
-      <description><![CDATA[美联储官员表示，面临的经济状况缺乏任何明确的历史相似之处来指导他们，本周继续反对近期开始降息，而是在采取他们难以证明其合理性的举措之前建立了谨慎的理由。]]></description>
+      <description><![CDATA[美联储官员表示，面临的经济状况缺乏任何明确的历史相似之处来指导他们，因此本周继续反对近期开始降息，而是在采取他们难以证明其合理性的举措之前建立了谨慎的理由。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/fed-cautious-rate-cut-case-that-has-yet-be-made-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 15:55:58 GMT</pubDate>
     </item>
@@ -123,27 +137,6 @@
       <description><![CDATA[月球着陆器制造商 Intuitive Machines 的股价在盘中交易中暴跌 30%，抹去了周五的涨幅，此前该公司表示其航天器在一天前登陆月球表面后不久就翻倒了。]]></description>
       <guid>https://www.reuters.com/business/intuitive-machines-rockets-higher-after-landing-spacecraft-moon-2024-02-23/</guid>
       <pubDate>Fri, 23 Feb 2024 12:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>华纳兄弟探索公司 (Warner Bros Discovery) 的亏损超出预期，令其盈利蒙上阴影；股价下滑</title>
-      <link>https://www.reuters.com/business/media-telecom/warner-bros-discovery-misses-quarterly-revenue-estimates-2024-02-23/</link>
-      <description><![CDATA[华纳兄弟探索公司周五报告称，该媒体集团的季度亏损超出预期，原因是该媒体集团面临广告市场疲软以及好莱坞两次罢工对内容生成造成的影响。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/warner-bros-discovery-misses-quarterly-revenue-estimates-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 12:06:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达势头持续，标普、道琼斯指数再创收盘新高</title>
-      <link>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</link>
-      <description><![CDATA[周五，标准普尔 500 指数和道琼斯工业平均指数再创收盘新高，华尔街三大基准指数均录得周涨幅，因为人工智能股有足够的动力来保持涨势。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-take-breather-after-scorching-ai-led-rally-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 10:54:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>新冠疫情后的繁荣引发了希望，新加坡航展人数创历史新高</title>
-      <link>https://www.reuters.com/business/aerospace-defense/post-pandemic-recovery-fuels-robust-attendance-hopes-singapore-airshow-2024-02-23/</link>
-      <description><![CDATA[本周，参加疫情后首届新加坡航展贸易部分的人数创历史新高，尽管供应商难以跟上旅行需求的反弹，但参展商和代表对航空业持乐观态度。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/post-pandemic-recovery-fuels-robust-attendance-hopes-singapore-airshow-2024-02-23/</guid>
-      <pubDate>Fri, 23 Feb 2024 05:43:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
