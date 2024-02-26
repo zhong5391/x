@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Mon, 26 Feb 2024 06:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 06:58:29 GMT</lastBuildDate>
     <item>
       <title>韩国推出企业“价值提升”计划</title>
       <link>https://www.bloomberg.com/news/videos/2024-02-26/south-korea-unveils-corporate-value-up-plan</link>
@@ -32,6 +32,13 @@
       <description><![CDATA[彭博社的 Zainab Fattah 讨论了阿联酋迪拜的房地产繁荣。她在《彭博社黎明：中东和非洲》节目中与 Vonnie Quiin 进行了交谈。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-02-26/dubai-property-boom-in-full-swing-video</guid>
       <pubDate>Mon, 26 Feb 2024 05:31:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>战争和美联储塑造的以色列利率决策看起来像是一个难以抉择的问题</title>
+      <link>https://www.bloomberg.com/news/articles/2024-02-26/war-and-fed-shape-israel-rate-decision-that-looks-like-a-toss-up</link>
+      <description><![CDATA[如果大多数经济学家被证明是正确的，以色列将进一步偏离美联储制定的政策路径，并且央行再次降息以帮助遭受战争打击的经济。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-02-26/war-and-fed-shape-israel-rate-decision-that-looks-like-a-toss-up</guid>
+      <pubDate>Mon, 26 Feb 2024 05:00:00 GMT</pubDate>
     </item>
     <item>
       <title>巴菲特在信中支持日本贸易公司，提振股价</title>
@@ -64,14 +71,14 @@
     <item>
       <title>中国国有企业罕见出售债券为地方政府融资平台提供资金</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-26/china-state-firm-in-rare-move-sells-debt-to-help-fund-local-lgfv</link>
-      <description><![CDATA[中国贵州省一家国有企业正在出售债券，以帮助偿还地方政府融资平台发行的债务，这一罕见举动凸显了该地区的流动性紧张。]]></description>
+      <description><![CDATA[中国贵州省一家国有企业正在出售债券，以帮助偿还地方政府融资平台发行的债务，这是罕见的举动，凸显了该地区的流动性紧张。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-26/china-state-firm-in-rare-move-sells-debt-to-help-fund-local-lgfv</guid>
       <pubDate>Mon, 26 Feb 2024 04:06:43 GMT</pubDate>
     </item>
     <item>
       <title>由于中国钢铁需求疲软，铁矿石跌至四个月低点</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-26/iron-ore-falls-to-least-since-october-on-weak-china-steel-demand</link>
-      <description><![CDATA[2024 年 2 月 9 日星期五，澳大利亚肯布拉港博思格钢铁有限公司肯布拉港钢厂正在热分离钢板。全球最大的两家矿业公司必和必拓集团有限公司和力拓集团正在联手竞标开发澳大利亚第一座电熔炉，这可能是减少炼钢过程中排放的重要一步。摄影师：Brent Lewin/彭博社]]></description>
+      <description><![CDATA[2024 年 2 月 9 日星期五，澳大利亚肯布拉港博思格钢铁有限公司肯布拉港钢厂正在热分离钢板。全球最大的两家矿业公司必和必拓集团有限公司和力拓集团正在联手竞标开发澳大利亚第一座电熔炉，这可能是削减炼钢过程中排放的重要一步。摄影师：Brent Lewin/彭博社]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-26/iron-ore-falls-to-least-since-october-on-weak-china-steel-demand</guid>
       <pubDate>Mon, 26 Feb 2024 03:52:35 GMT</pubDate>
     </item>
@@ -167,13 +174,6 @@
       <pubDate>Mon, 26 Feb 2024 00:30:02 GMT</pubDate>
     </item>
     <item>
-      <title>节后中国石油购买旺盛提高了需求希望</title>
-      <link>https://www.bloomberg.com/news/articles/2024-02-26/china-s-brisk-oil-buying-after-lunar-holiday-raises-demand-hopes</link>
-      <description><![CDATA[经过农历新年旅游热潮后，中国石油市场的前景看起来稍显光明，增加了需求更持续复苏的希望。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-02-26/china-s-brisk-oil-buying-after-lunar-holiday-raises-demand-hopes</guid>
-      <pubDate>Mon, 26 Feb 2024 00:25:21 GMT</pubDate>
-    </item>
-    <item>
       <title>交易员等待市场平衡信号，油价开盘下跌</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-25/latest-oil-market-news-and-analysis-for-feb-26</link>
       <description><![CDATA[由于交易员等待有关 3 月份及以后全球需求和平衡的新线索，油价继每周下跌后进一步下跌。]]></description>
@@ -211,7 +211,7 @@
     <item>
       <title>阿斯顿·马丁和百威英博在即将到来的盈利方面仍面临障碍</title>
       <link>https://www.bloomberg.com/news/articles/2024-02-23/aston-martin-ab-inbev-still-face-hurdles-in-upcoming-earnings</link>
-      <description><![CDATA[阿斯顿·马丁·拉贡达全球控股公司在本周发布财报时，必须展示其计划如何在多年亏损后扭转局面。]]></description>
+      <description><![CDATA[阿斯顿·马丁·拉共达全球控股公司在本周发布财报时，必须展示其计划如何在多年亏损后扭转局面。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-02-23/aston-martin-ab-inbev-still-face-hurdles-in-upcoming-earnings</guid>
       <pubDate>Fri, 23 Feb 2024 08:30:00 GMT</pubDate>
     </item>
