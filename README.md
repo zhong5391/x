@@ -16,3 +16,4 @@
  - source003 [https://rsshub.app/reuters/world/china](https://rsshub.app/reuters/world/china) -> [Reuters_China_News](rss/Reuters_China_News.xml)
  - source004 [http://www.foreignaffairs.com/rss.xml](http://www.foreignaffairs.com/rss.xml) -> [Foreign Affairs](rss/Foreign%20Affairs.xml)
  - source005 [http://feeds.feedburner.com/AtlanticInternational](http://feeds.feedburner.com/AtlanticInternational) -> [Global_The Atlantic](rss/Global_The%20Atlantic.xml)
+ - source006 [https://americanaffairsjournal.org/feed/](https://americanaffairsjournal.org/feed/) -> [american_affairs](rss/american_affairs.xml)
