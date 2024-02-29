@@ -1,14 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 29 Feb 2024 14:58:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 16:27:59 GMT</lastBuildDate>
     <item>
-      <title>百思买第四季度可比销售额降幅小于预期</title>
+      <title>加拿大央行将于 6 月降息；风险倾向于稍后降息</title>
+      <link>https://www.reuters.com/markets/rates-bonds/boc-cut-rates-june-risks-skewed-towards-later-cut-2024-02-29/</link>
+      <description><![CDATA[路透社调查的大多数经济学家表示，加拿大央行预计将在 6 月份下调隔夜利率，他们表示，更大的风险是首次降息将晚于他们的预期，而不是更早。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/boc-cut-rates-june-risks-skewed-towards-later-cut-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 14:09:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023年中国电动汽车对外投资可能创下新纪录</title>
+      <link>https://www.reuters.com/business/chinese-outbound-investment-evs-likely-set-new-record-2023-2024-02-29/</link>
+      <description><![CDATA[荣鼎集团的一份报告显示，随着西方经济体加强对中国以生产为中心、债务驱动的发展模式的审查，中国电动汽车价值链上的对外直接投资可能会在 2023 年创下新纪录。]]></description>
+      <guid>https://www.reuters.com/business/chinese-outbound-investment-evs-likely-set-new-record-2023-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 14:05:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bath & Body Works 预计全年销售和利润因需求放缓而黯淡</title>
+      <link>https://www.reuters.com/business/retail-consumer/bath-body-works-projects-downbeat-fy-sales-profit-slowing-demand-2024-02-29/</link>
+      <description><![CDATA[巴斯&amp; Body Works 周四预测年度销售额和利润低于分析师预期，原因是消费者缩减了蜡烛和香水等非必需品的支出，导致该公司股价在盘前交易中下跌 9%。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/bath-body-works-projects-downbeat-fy-sales-profit-slowing-demand-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:58:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>渣打银行因燃煤电厂资金问题被投诉</title>
+      <link>https://www.reuters.com/business/standard-chartered-targeted-complaint-over-coal-plant-funding-2024-02-29/</link>
+      <description><![CDATA[环境和人权组织周四告诉路透社，这些组织已向英国政府调解机构提出投诉，指控渣打银行为菲律宾四座燃煤电厂提供融资。]]></description>
+      <guid>https://www.reuters.com/business/standard-chartered-targeted-complaint-over-coal-plant-funding-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:54:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国1月份通胀增幅符合预期</title>
+      <link>https://www.reuters.com/markets/us/us-inflation-increases-line-with-expectations-january-2024-02-29/</link>
+      <description><![CDATA[美国一月份物价有所回升，但通胀年度增幅却是近三年来最小，这使得美联储六月份降息的可能性仍然存在。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-inflation-increases-line-with-expectations-january-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:49:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉必须面对 6,000 名员工在种族偏见案件中提出的集体诉讼</title>
+      <link>https://www.reuters.com/legal/tesla-must-face-class-action-claims-by-6000-workers-race-bias-case-2024-02-29/</link>
+      <description><![CDATA[加州一名法官初步裁定，近 6,000 名黑人工厂工人可以集体起诉特斯拉，因为该电动汽车制造商涉嫌未能解决弗里蒙特工厂猖獗的种族歧视和骚扰问题。]]></description>
+      <guid>https://www.reuters.com/legal/tesla-must-face-class-action-claims-by-6000-workers-race-bias-case-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:43:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大经济第四季度增长超过预期，一月份再次出现增长</title>
+      <link>https://www.reuters.com/world/americas/canadas-economy-tops-q4-growth-forecasts-another-rise-seen-jan-2024-02-29/</link>
+      <description><![CDATA[加拿大统计局周四公布的数据显示，加拿大第四季度经济年化增长率为 1.0%，超出预期，1 月份国内生产总值可能增长 0.4%。]]></description>
+      <guid>https://www.reuters.com/world/americas/canadas-economy-tops-q4-growth-forecasts-another-rise-seen-jan-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:35:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>无论选举结果如何，威立雅都认为其美国业务有“美好的未来”</title>
+      <link>https://www.reuters.com/business/veolia-sees-great-future-its-us-businesses-regardless-election-outcome-2024-02-29/</link>
+      <description><![CDATA[威立雅公司老板周四表示，无论美国 11 月总统选举结果如何，威立雅对其在美国的业务前景持乐观态度。]]></description>
+      <guid>https://www.reuters.com/business/veolia-sees-great-future-its-us-businesses-regardless-election-outcome-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件显示，花旗集团将在纽约裁员 286 名员工</title>
+      <link>https://www.reuters.com/business/citigroup-layoff-286-employees-new-york-filing-shows-2024-02-29/</link>
+      <description><![CDATA[根据向美国劳工部提交的文件，花旗集团将在纽约裁员 286 名员工，同时该银行正在进行数十年来最大规模的改革。]]></description>
+      <guid>https://www.reuters.com/business/citigroup-layoff-286-employees-new-york-filing-shows-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:13:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国物流公司Airspace与高通合作在亚洲扩张</title>
+      <link>https://www.reuters.com/business/retail-consumer/us-logistics-firm-airspace-expands-asia-partners-with-qualcomm-2024-02-29/</link>
+      <description><![CDATA[专门从事时间敏感货物运输的美国物流初创公司Airspace Technologies周四表示，该公司正在扩大在亚洲的业务，并与高通和其他半导体公司合作。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/us-logistics-firm-airspace-expands-asia-partners-with-qualcomm-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:05:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>机器人初创公司Figure从微软、Nvidia和其他科技巨头那里筹集了6.75亿美元</title>
+      <link>https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/</link>
+      <description><![CDATA[机器人初创公司Figure周四表示，已从英伟达、微软和亚马逊创始人杰夫·贝佐斯等投资者那里筹集了6.75亿美元的早期资金，估值为26亿美元。]]></description>
+      <guid>https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 13:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>好莱坞罢工，AMC 股价暴跌，费用增加影响业绩</title>
+      <link>https://www.reuters.com/business/amc-tumbles-hollywood-strikes-higher-expenses-hit-results-2024-02-29/</link>
+      <description><![CDATA[由于电影业继续受到好莱坞两次罢工的影响，AMC Entertainment 周四下跌超过 10%，导致该院线公布的季度亏损超出预期。]]></description>
+      <guid>https://www.reuters.com/business/amc-tumbles-hollywood-strikes-higher-expenses-hit-results-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 12:54:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>百思买在假日季蓬勃发展，优惠、会员资格刺激需求</title>
       <link>https://www.reuters.com/business/retail-consumer/best-buy-q4-comparable-sales-fall-less-than-expected-2024-02-29/</link>
-      <description><![CDATA[百思买周四公布的季度可比销售额降幅小于预期，原因是假日促销促使购物者打开钱包购买电子产品和家用电器等大件商品。]]></description>
+      <description><![CDATA[百思买周四公布的第四季度销售额降幅小于预期，利润也超出预期，受益于假日大件购物优惠和付费会员数量的增长。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/best-buy-q4-comparable-sales-fall-less-than-expected-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 12:09:15 GMT</pubDate>
     </item>
@@ -20,96 +104,25 @@
       <pubDate>Thu, 29 Feb 2024 12:06:22 GMT</pubDate>
     </item>
     <item>
-      <title>独家：消息人士称，Ancora 在推动变革的过程中寻求 Elanco 的四个董事会席位</title>
-      <link>https://www.reuters.com/business/ancora-seeks-four-board-seats-elanco-amid-push-changes-sources-say-2024-02-29/</link>
-      <description><![CDATA[两位知情人士告诉路透社，投资公司 Ancora Holdings 正在争取 Elanco Animal Health 的四个董事会席位，并希望更换该公司的首席执行官，该公司为宠物和牲畜生产药品和疫苗。]]></description>
-      <guid>https://www.reuters.com/business/ancora-seeks-four-board-seats-elanco-amid-push-changes-sources-say-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 12:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大道明银行因贷款损失准备金增加而利润下降</title>
-      <link>https://www.reuters.com/business/finance/canadas-td-bank-posts-lower-quarterly-profit-higher-loan-loss-provisions-2024-02-29/</link>
-      <description><![CDATA[道明银行集团周四公布第一季度利润下降，原因是这家加拿大银行拨出更多资金来支付不良贷款。]]></description>
-      <guid>https://www.reuters.com/business/finance/canadas-td-bank-posts-lower-quarterly-profit-higher-loan-loss-provisions-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:39:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国安全监管机构对部分福特 E 系列车辆展开召回调查</title>
-      <link>https://www.reuters.com/business/autos-transportation/us-safety-regulator-opens-recall-query-some-ford-e-series-vehicles-2024-02-29/</link>
-      <description><![CDATA[美国安全监管机构周四表示，因缺少动力制动器和转向辅助系统，正在对约 44,219 辆福特 E 系列汽车展开召回调查。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/us-safety-regulator-opens-recall-query-some-ford-e-series-vehicles-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:36:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲央行将于 6 月降息，但经济学家对时机风险存在分歧</title>
-      <link>https://www.reuters.com/markets/europe/ecb-cut-rates-june-economists-split-risk-around-timing-2024-02-29/</link>
-      <description><![CDATA[路透调查显示，近三分之二的经济学家表示，欧洲央行将在 6 月份首次降息，不过他们对于降息时间早于或晚于预期的可能性存在分歧。]]></description>
-      <guid>https://www.reuters.com/markets/europe/ecb-cut-rates-june-economists-split-risk-around-timing-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>International Game Technology 将以 62 亿美元的交易与 Everi 合并两个部门</title>
-      <link>https://www.reuters.com/markets/deals/international-game-technology-merge-two-units-with-everi-holdings-2024-02-29/</link>
-      <description><![CDATA[International Game Technology 周四表示，将分拆其全球游戏和 Playdigital 业务，并将其与游戏机制造商 Everi Holdings 合并
- 这笔交易价值 62 亿美元，其中包括债务。]]></description>
-      <guid>https://www.reuters.com/markets/deals/international-game-technology-merge-two-units-with-everi-holdings-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:25:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>大问题：正确的问题可以让你赚钱</title>
-      <link>https://www.reuters.com/business/finance/big-ask-right-questions-can-make-you-money-2024-02-29/</link>
-      <description><![CDATA[如果您希望自己的财务状况更好，这里有一个令人惊讶的简单建议：提出要求。]]></description>
-      <guid>https://www.reuters.com/business/finance/big-ask-right-questions-can-make-you-money-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国因倒车摄像头故障对超过 220,000 辆克莱斯勒汽车进行调查</title>
-      <link>https://www.reuters.com/business/autos-transportation/us-probes-into-over-220000-chrysler-vehicles-over-backup-camera-failure-2024-02-29/</link>
-      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 周四表示，已针对倒车摄像头故障的报告对约 226,249 辆克莱斯勒道奇酷威汽车展开初步评估，该故障可能会增加撞车的可能性。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/us-probes-into-over-220000-chrysler-vehicles-over-backup-camera-failure-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:07:08 GMT</pubDate>
-    </item>
-    <item>
       <title>美联储资产负债表的最终结局可能会比预期更长</title>
       <link>https://www.reuters.com/markets/us/feds-balance-sheet-endgame-may-play-out-over-longer-than-expected-horizon-2024-02-29/</link>
-      <description><![CDATA[美联储官员热衷于开始讨论其资产负债表缩减的最终结果，但良好的市场状况、近期央行行长的言论和债券交易商的估计表明，这一过程可能比之前预期的持续时间更长。]]></description>
+      <description><![CDATA[美联储官员热衷于开始讨论其资产负债表缩减的最终结果，但良好的市场状况、近期央行行长的评论和债券交易商的估计表明，这一过程可能比之前预期的持续时间更长。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-balance-sheet-endgame-may-play-out-over-longer-than-expected-horizon-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 11:05:41 GMT</pubDate>
     </item>
     <item>
-      <title>早盘买盘：随着个人消费支出通胀迫在眉睫，日元在闰日上涨</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-29/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 11:02:59 GMT</pubDate>
+      <title>独家：FDA发现马斯克脑植入公司运营的动物实验室存在问题</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/fda-finds-problems-animal-lab-run-by-musks-brain-implant-company-2024-02-29/</link>
+      <description><![CDATA[据路透社审阅的一份机构报告显示，美国食品和药物管理局检查人员发现埃隆·马斯克旗下 Neuralink 动物实验的记录保存和质量控制存在问题，距离这家初创公司表示已获准在人体上测试其大脑植入物不到一个月。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/fda-finds-problems-animal-lab-run-by-musks-brain-implant-company-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 11:02:36 GMT</pubDate>
     </item>
     <item>
-      <title>奥普拉·温弗瑞 (Oprah Winfrey) 决定退出董事会，慧俪轻体 (WeightWatchers) 股价下跌</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/weightwatchers-shares-drop-oprah-winfrey-decides-exit-board-2024-02-29/</link>
-      <description><![CDATA[WW International（又名慧俪轻体）披露媒体偶像奥普拉·温弗瑞 (Oprah Winfrey) 将在今年晚些时候退出董事会后，其股价遭受重挫。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/weightwatchers-shares-drop-oprah-winfrey-decides-exit-board-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 10:54:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于通胀数据公布前普遍谨慎，期货走软</title>
-      <link>https://www.reuters.com/markets/us/futures-ease-caution-prevails-ahead-inflation-data-2024-02-29/</link>
-      <description><![CDATA[美国股指期货周四下跌，因投资者在关键通胀数据公布之前没有进行大额押注，而通胀数据可能是决定美联储降息时机的关键。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-ease-caution-prevails-ahead-inflation-data-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 10:50:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国称将调查中国车辆的国家安全数据风险</title>
+      <title>美国将调查中国汽车是否构成国家数据安全风险</title>
       <link>https://www.reuters.com/business/autos-transportation/us-says-investigate-national-security-data-risks-chinese-vehicles-2024-02-29/</link>
       <description><![CDATA[白宫周四表示，美国正在对中国汽车进口是否构成国家安全风险展开调查，并可能因对“联网”汽车技术的担忧而实施限制。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-says-investigate-national-security-data-risks-chinese-vehicles-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 10:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰的公司面临着越来越多的问题，但大多数都克服了</title>
-      <link>https://www.reuters.com/markets/europe/companies-ukraine-see-problems-pile-up-most-tough-it-out-2024-02-29/</link>
-      <description><![CDATA[德国连锁超市麦德龙及其在乌克兰的 3,400 名员工努力工作，使业务恢复到两年前俄罗斯全面入侵之前的水平。]]></description>
-      <guid>https://www.reuters.com/markets/europe/companies-ukraine-see-problems-pile-up-most-tough-it-out-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 08:17:45 GMT</pubDate>
     </item>
     <item>
       <title>IAG 和法航持乐观态度，航空公司应对动荡</title>
@@ -117,20 +130,6 @@
       <description><![CDATA[随着疫情后旅游热潮的持续，英国航空母公司 IAG 和法航荷航仍保持乐观态度，但这家法荷集团在 2023 年底意外陷入亏损，突显了高成本和冲突带来的挑战。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/ba-owner-iag-gives-positive-2024-outlook-sustained-travel-demand-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 07:33:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：欧洲央行将维持市场利率下限但关注需求</title>
-      <link>https://www.reuters.com/business/finance/ecb-keep-floor-under-market-rates-with-eye-demand-sources-2024-02-29/</link>
-      <description><![CDATA[四位消息人士告诉路透社，欧洲央行将在未来几年继续对市场利率设置“下限”，但银行将在决定所需流动性方面发挥更大作用。]]></description>
-      <guid>https://www.reuters.com/business/finance/ecb-keep-floor-under-market-rates-with-eye-demand-sources-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>汉莎航空代价高昂的劳资纠纷威胁到 2024 年利润目标</title>
-      <link>https://www.reuters.com/business/aerospace-defense/lufthansas-costly-labour-disputes-threaten-2024-profit-goals-2024-02-29/</link>
-      <description><![CDATA[分析师和投资者表示，汉莎航空可能无法实现 2024 年的利润率目标，因为这家德国航空公司寻求达成新的、更高薪酬的协议，以结束长期罢工，这迫使该公司取消了数千个航班。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/lufthansas-costly-labour-disputes-threaten-2024-profit-goals-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 06:02:37 GMT</pubDate>
     </item>
     <item>
       <title>股市接近历史新高，比特币创2020年以来最佳月度</title>
