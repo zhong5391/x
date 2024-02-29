@@ -1,23 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 29 Feb 2024 18:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Feb 2024 20:51:52 GMT</lastBuildDate>
+    <item>
+      <title>消息人士称，美国银行美林向客户提供现货比特币 ETF</title>
+      <link>https://www.reuters.com/technology/bofas-merrill-offering-spot-bitcoin-etfs-clients-source-says-2024-02-29/</link>
+      <description><![CDATA[一位知情人士周四表示，美国银行美林一直在向符合条件的财富管理客户提供现货比特币交易所交易基金，这突显了该资产类别的日益受欢迎。]]></description>
+      <guid>https://www.reuters.com/technology/bofas-merrill-offering-spot-bitcoin-etfs-clients-source-says-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 20:10:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>代理顾问 ISS 支持星巴克应对劳工组织的董事会挑战</title>
+      <link>https://www.reuters.com/business/retail-consumer/proxy-advisor-iss-backs-starbucks-board-challenge-labor-group-2024-02-29/</link>
+      <description><![CDATA[代理咨询公司机构股东服务公司周四表示支持星巴克公司，建议投资者选举所有管理层董事，而不是一群工会提名人。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/proxy-advisor-iss-backs-starbucks-board-challenge-labor-group-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 20:05:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普社交媒体交易的设计师提起诉讼以阻止交易</title>
+      <link>https://www.reuters.com/legal/architect-trumps-social-media-deal-sues-block-transaction-2024-02-29/</link>
+      <description><![CDATA[根据周四在特拉华州提起的诉讼，计划将唐纳德·特朗普的社交媒体公司上市的空白支票收购公司的一名前高管提起诉讼，要求阻止该交易，直到他获得更大的付款。]]></description>
+      <guid>https://www.reuters.com/legal/architect-trumps-social-media-deal-sues-block-transaction-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 19:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>桥水创始人戴利奥称七侠“有点泡沫”</title>
+      <link>https://www.reuters.com/markets/us/bridgewater-founder-dalio-calls-magnificent-seven-bit-frothy-2024-02-29/</link>
+      <description><![CDATA[对冲基金 Bridgewater Associates 创始人、亿万富翁雷·达里奥 (Ray Dalio) 表示，七大股票“有点泡沫，但还没有完全泡沫化”，Alphabet 和 Meta Platforms 仍然“有些便宜”，而特斯拉“有些昂贵”。]]></description>
+      <guid>https://www.reuters.com/markets/us/bridgewater-founder-dalio-calls-magnificent-seven-bit-frothy-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 19:23:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国贸易主管：世贸组织谈判需要“复杂的权衡”</title>
+      <link>https://www.reuters.com/world/us-trade-chief-complex-trade-offs-needed-wto-talks-2024-02-29/</link>
+      <description><![CDATA[美国贸易代表戴凯瑟琳周五表示，世界贸易组织隔夜谈判仍有可能取得突破，但即使对于渔业等不太困难的话题也需要“复杂的权衡”。]]></description>
+      <guid>https://www.reuters.com/world/us-trade-chief-complex-trade-offs-needed-wto-talks-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 19:15:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国国税局表示将追查未能提交纳税申报表的高收入者</title>
+      <link>https://www.reuters.com/world/us/us-irs-says-it-will-pursue-high-income-earners-who-failed-file-tax-returns-2024-02-29/</link>
+      <description><![CDATA[美国国税局周四表示，将追查自 2017 年以来 125,000 起未能提交纳税申报表的高收入者，重启因过去预算削减而闲置多年的非纳税人执法计划。]]></description>
+      <guid>https://www.reuters.com/world/us/us-irs-says-it-will-pursue-high-income-earners-who-failed-file-tax-returns-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 19:05:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>意大利莱昂纳多和德国亨索尔特正在进行合资谈判</title>
+      <link>https://www.reuters.com/markets/deals/italys-leonardo-germanys-hensoldt-fresh-joint-venture-talks-2024-02-29/</link>
+      <description><![CDATA[意大利防务集团首席执行官周四表示，莱昂纳多和德国亨索尔特正在讨论组建合资企业的可能性。]]></description>
+      <guid>https://www.reuters.com/markets/deals/italys-leonardo-germanys-hensoldt-fresh-joint-venture-talks-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 18:45:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>亿万富翁安巴尼在迪士尼合作中获得技术和板球大胜利</title>
+      <link>https://www.reuters.com/markets/deals/technology-cricket-big-wins-billionaire-ambani-disney-tie-up-2024-02-29/</link>
+      <description><![CDATA[迪士尼与信实集团在印度的资产合并将打造出一家规模远远超过所有竞争对手的媒体巨头，通过流媒体技术实力和利润丰厚的板球转播权，增强亿万富翁穆克什·安巴尼的娱乐野心。]]></description>
+      <guid>https://www.reuters.com/markets/deals/technology-cricket-big-wins-billionaire-ambani-disney-tie-up-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 18:31:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储梅斯特表示银行的贴现窗口准入需要调整</title>
+      <link>https://www.reuters.com/markets/us/feds-mester-said-banks-discount-window-access-needs-tweaks-2024-02-29/</link>
+      <description><![CDATA[克利夫兰联邦储备银行行长洛雷塔·梅斯特周四表示，她赞成采取更具体的措施，确保银行准备好使用央行流动性工具，以帮助金融机构应对压力。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-mester-said-banks-discount-window-access-needs-tweaks-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 18:19:41 GMT</pubDate>
+    </item>
     <item>
       <title>美联储古尔斯比：政策“限制性”，通胀可能进一步加剧</title>
       <link>https://www.reuters.com/markets/us/feds-goolsbee-policy-restrictive-more-disinflation-likely-2024-02-29/</link>
       <description><![CDATA[芝加哥联邦储备银行行长奥斯坦·古尔斯比周四表示，他相信去年商品和劳动力供应的改善为今年美国通胀进一步下降奠定了基础，这表明他仍支持今年晚些时候降息。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-goolsbee-policy-restrictive-more-disinflation-likely-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 18:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>房地美表示，美国抵押贷款利率连续第四周上升</title>
-      <link>https://www.reuters.com/markets/us/us-mortgage-rates-rise-fourth-straight-week-freddie-mac-says-2024-02-29/</link>
-      <description><![CDATA[房地美周四报告称，美国抵押贷款利率连续第四周上升，达到两个月高位，再次成为阻碍对利率敏感的潜在购房者的流量的一个因素。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-mortgage-rates-rise-fourth-straight-week-freddie-mac-says-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 17:37:06 GMT</pubDate>
     </item>
     <item>
       <title>富国银行因应对虚假账户丑闻而被起诉</title>
@@ -27,46 +83,11 @@
       <pubDate>Thu, 29 Feb 2024 17:30:58 GMT</pubDate>
     </item>
     <item>
-      <title>拜耳提议乌本担任董事会席位，更换消费部门老板</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/bayer-proposes-ubben-board-seat-swaps-consumer-unit-boss-2024-02-29/</link>
-      <description><![CDATA[德国拜耳周四在宣布消费品部门领导层变动时表示，已提议任命华尔街最著名的激进投资者之一杰弗里·乌本 (Jeffrey Ubben) 为非执行董事。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/bayer-proposes-ubben-board-seat-swaps-consumer-unit-boss-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 17:17:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约总检察长对 AT&T 无线中断展开调查</title>
-      <link>https://www.reuters.com/technology/new-york-ag-opens-probe-into-att-wireless-outage-2024-02-29/</link>
-      <description><![CDATA[纽约总检察长利蒂西亚·詹姆斯 (Letitia James) 周四表示，她的办公室正在调查上周 AT&amp;T 无线网络中断长达 12 小时的原因以及该电信公司的反应。]]></description>
-      <guid>https://www.reuters.com/technology/new-york-ag-opens-probe-into-att-wireless-outage-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 17:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>耶伦表示阿根廷正在迈向财政可持续性</title>
-      <link>https://www.reuters.com/world/americas/yellen-says-argentina-moving-toward-fiscal-sustainability-2024-02-29/</link>
-      <description><![CDATA[美国财政部长珍妮特·耶伦周四会见了阿根廷经济部长路易斯·卡普托，欢迎米莱政府为恢复财政可持续性、调整汇率和对抗通胀而采取的“重要举措”。]]></description>
-      <guid>https://www.reuters.com/world/americas/yellen-says-argentina-moving-toward-fiscal-sustainability-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 17:12:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>调查发现OPEC 2月份石油产量增加9万桶/日</title>
-      <link>https://www.reuters.com/business/energy/opec-oil-output-rises-by-90000-bpd-february-survey-finds-2024-02-29/</link>
-      <description><![CDATA[根据周四公布的路透社调查，下表显示了石油输出国组织 (OPEC) 2 月和 1 月的原油产量，单位为百万桶/日。]]></description>
-      <guid>https://www.reuters.com/business/energy/opec-oil-output-rises-by-90000-bpd-february-survey-finds-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 17:09:24 GMT</pubDate>
-    </item>
-    <item>
       <title>英特尔看到独立可编程芯片单元的人工智能机会</title>
       <link>https://www.reuters.com/technology/intel-sees-ai-opportunity-standalone-programmable-chip-unit-2024-02-29/</link>
       <description><![CDATA[英特尔首席执行官桑德拉·里维拉 (Sandra Rivera) 表示，人工智能为英特尔全新独立可编程芯片部门提供了不断增长且潜在利润丰厚的机会。]]></description>
       <guid>https://www.reuters.com/technology/intel-sees-ai-opportunity-standalone-programmable-chip-unit-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 17:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿联酋航空总裁表示，波音公司需要做出改变</title>
-      <link>https://www.reuters.com/business/aerospace-defense/boeing-needs-make-changes-emirates-president-says-2024-02-29/</link>
-      <description><![CDATA[阿联酋航空总裁蒂姆·克拉克 (Tim Clark) 周四表示，美国飞机制造商波音公司需要做出改变，因为该公司一架 MAX 9 喷气式飞机在 1 月 5 日的一次飞行中发生面板爆炸事故，该公司面临监管审查。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/boeing-needs-make-changes-emirates-president-says-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 16:36:42 GMT</pubDate>
     </item>
     <item>
       <title>微软通过专门的“副驾驶”战略为财务团队量身定制人工智能</title>
@@ -83,25 +104,11 @@
       <pubDate>Thu, 29 Feb 2024 16:04:29 GMT</pubDate>
     </item>
     <item>
-      <title>由于高抵押贷款利率阻止买家，美国一月份待售房屋销量下降</title>
-      <link>https://www.reuters.com/markets/us/us-pending-home-sales-fall-january-high-mortgage-rates-deter-buyers-2024-02-29/</link>
-      <description><![CDATA[周四的一份报告显示，美国 1 月份房屋待售量有所下降，因为买家继续为仍然较高的抵押贷款利率而苦苦挣扎。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-pending-home-sales-fall-january-high-mortgage-rates-deter-buyers-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 15:56:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>服务业提升美国 1 月份价格；通胀逐渐走低</title>
+      <title>服务业推动美国一月份价格走高；通胀逐渐降温</title>
       <link>https://www.reuters.com/markets/us/us-inflation-increases-line-with-expectations-january-2024-02-29/</link>
-      <description><![CDATA[由于服务成本大幅上涨，美国一月份物价上涨，但通胀年度增幅为三年来最小，使得美联储年中降息仍处于考虑之中。]]></description>
+      <description><![CDATA[由于住房和金融等服务成本飙升，1月份美国物价加速上涨，但通胀年增幅为三年来最小，使得美联储年中降息仍处于考虑之中。]]></description>
       <guid>https://www.reuters.com/markets/us/us-inflation-increases-line-with-expectations-january-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 13:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉必须面临 6,000 名美国黑人工人的种族偏见集体诉讼</title>
-      <link>https://www.reuters.com/legal/tesla-must-face-class-action-claims-by-6000-workers-race-bias-case-2024-02-29/</link>
-      <description><![CDATA[加州一名法官初步裁定，近 6,000 名黑人工厂工人可以集体起诉特斯拉，因为该电动汽车制造商涉嫌未能解决弗里蒙特工厂猖獗的种族歧视和骚扰问题。]]></description>
-      <guid>https://www.reuters.com/legal/tesla-must-face-class-action-claims-by-6000-workers-race-bias-case-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 13:43:03 GMT</pubDate>
     </item>
     <item>
       <title>加拿大第四季度经济增长超出预期，减轻了立即降息的压力</title>
@@ -109,13 +116,6 @@
       <description><![CDATA[周四公布的数据显示，加拿大第四季度经济年化增长率为1.0%，超出预期，这一结果应该会缓解央行的降息压力。]]></description>
       <guid>https://www.reuters.com/world/americas/canadas-economy-tops-q4-growth-forecasts-another-rise-seen-jan-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 13:35:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>百思买凭借折扣和付费会员资格在假日季蓬勃发展</title>
-      <link>https://www.reuters.com/business/retail-consumer/best-buy-q4-comparable-sales-fall-less-than-expected-2024-02-29/</link>
-      <description><![CDATA[百思买周四公布的第四季度销售额降幅小于预期，利润也超出预期，受益于假日大件购物优惠和付费会员数量的增长。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/best-buy-q4-comparable-sales-fall-less-than-expected-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 12:09:15 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克 (Elon Musk) 的 X 针对仇恨言论监管机构提起的诉讼已进入法庭</title>
@@ -127,14 +127,14 @@
     <item>
       <title>美联储资产负债表的最终结局可能会比预期更长</title>
       <link>https://www.reuters.com/markets/us/feds-balance-sheet-endgame-may-play-out-over-longer-than-expected-horizon-2024-02-29/</link>
-      <description><![CDATA[美联储官员热衷于开始讨论其资产负债表缩减的最终结果，但良好的市场状况、近期央行行长的言论和债券交易商的估计表明，这一过程可能比之前预期的持续时间更长。]]></description>
+      <description><![CDATA[美联储官员热衷于开始讨论其资产负债表缩减的最终结果，但良好的市场状况、近期央行行长的评论和债券交易商的估计表明，这一过程可能比之前预期的持续时间更长。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-balance-sheet-endgame-may-play-out-over-longer-than-expected-horizon-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 11:05:41 GMT</pubDate>
     </item>
     <item>
       <title>由于投资者评估通胀数据，华尔街交易波动不一</title>
       <link>https://www.reuters.com/markets/us/futures-ease-caution-prevails-ahead-inflation-data-2024-02-29/</link>
-      <description><![CDATA[周四，华尔街主要股指涨跌互现，投资者评估了关键的通胀数据和美联储官员的评论，以判断潜在降息的时机。]]></description>
+      <description><![CDATA[标准普尔 500 指数周四上涨，受到英伟达和其他与人工智能相关的科技股的提振，同时投资者评估通胀数据和美联储官员的评论，以判断央行何时可能开始降息。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-caution-prevails-ahead-inflation-data-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 10:50:31 GMT</pubDate>
     </item>
