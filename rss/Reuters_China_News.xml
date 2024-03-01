@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 01 Mar 2024 19:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 19:58:48 GMT</lastBuildDate>
+    <item>
+      <title>耶伦表示，尽管在战争语言上存在分歧，美国仍致力于 G20 金融工作</title>
+      <link>https://www.reuters.com/world/yellen-says-us-committed-g20-finance-work-despite-divisions-over-war-language-2024-03-01/</link>
+      <description><![CDATA[美国财政部长珍妮特·耶伦周五表示，尽管二十国集团未能就有关乌克兰和加沙战争的公报语言达成共识，但华盛顿坚定致力于二十国集团财长的工作。]]></description>
+      <guid>https://www.reuters.com/world/yellen-says-us-committed-g20-finance-work-despite-divisions-over-war-language-2024-03-01/</guid>
+      <pubDate>Fri, 01 Mar 2024 18:00:52 GMT</pubDate>
+    </item>
     <item>
       <title>IM Motors 在中国电动汽车品牌近期最大的交易之一中筹集了 11 亿美元</title>
       <link>https://www.reuters.com/business/autos-transportation/im-motors-raises-11-bln-one-china-ev-brands-biggest-recent-deals-2024-03-01/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>投资者抢购“Magnificent 7”科技股和加密货币 - 美国银行</title>
       <link>https://www.reuters.com/markets/us/investors-swarm-into-tech-stocks-crypto-bofa-2024-03-01/</link>
-      <description><![CDATA[美国银行全球研究部周五发布的一份报告显示，截至周三的一周，投资者向科技股投入的资金达到了自 8 月份以来的最高水平，并且投资加密货币的金额增加了一倍。]]></description>
+      <description><![CDATA[美国银行全球研究部周五发布的一份报告显示，截至周三的一周，投资者向科技股投入的资金达到了自 8 月以来的最高水平，并且投资加密货币的金额增加了一倍。]]></description>
       <guid>https://www.reuters.com/markets/us/investors-swarm-into-tech-stocks-crypto-bofa-2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 07:34:58 GMT</pubDate>
     </item>
@@ -104,9 +111,9 @@
       <pubDate>Fri, 01 Mar 2024 02:59:36 GMT</pubDate>
     </item>
     <item>
-      <title>由于交易员押注降息，股市保持在历史高位</title>
+      <title>由于数据支持降息观点，股市上涨，收益率下降</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-01/</link>
-      <description><![CDATA[在美国和欧元区通胀数据以及疲软的全球工厂调查保持央行未来几个月降息的希望不变之后，周五全球股市徘徊在历史高位附近。]]></description>
+      <description><![CDATA[周五全球股指上涨，国债收益率下跌，因美国数据弱于预期，凸显了投资者对美联储未来几个月降息的预期。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 02:17:55 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[展望未来一天的亚洲市场。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-29/</guid>
       <pubDate>Thu, 29 Feb 2024 21:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国房价今年可能下跌0.9%；之前的民意调查显示增长：路透社​​民意调查</title>
-      <link>https://www.reuters.com/world/china/china-home-prices-likely-fall-09-this-year-previous-poll-tipped-growth-2024-02-29/</link>
-      <description><![CDATA[路透调查显示，由于政府持续支持措施的效果有限，今年中国的新房价格可能会下跌，经济学家预测，疲软的市场需要一年多的时间才能触底。]]></description>
-      <guid>https://www.reuters.com/world/china/china-home-prices-likely-fall-09-this-year-previous-poll-tipped-growth-2024-02-29/</guid>
-      <pubDate>Thu, 29 Feb 2024 21:04:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
