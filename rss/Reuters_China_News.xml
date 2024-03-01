@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 01 Mar 2024 16:58:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2024 17:28:35 GMT</lastBuildDate>
     <item>
       <title>IM Motors 在中国电动汽车品牌近期最大的交易之一中筹集了 11 亿美元</title>
       <link>https://www.reuters.com/business/autos-transportation/im-motors-raises-11-bln-one-china-ev-brands-biggest-recent-deals-2024-03-01/</link>
@@ -64,14 +64,14 @@
     <item>
       <title>中国人大将于下周推出更多刺激措施，但不太可能进行大胆改革</title>
       <link>https://www.reuters.com/world/china/chinas-parliament-unveil-more-stimulus-next-week-bold-reforms-unlikely-2024-03-01/</link>
-      <description><![CDATA[预计中国人大将在周二开始的年度会议上公布温和的刺激计划，以稳定增长，但可能会让那些呼吁制定大胆政策详细路线图以解决该国深度结构性失衡的人失望。]]></description>
+      <description><![CDATA[预计中国人大将在周二开始的年度会议上公布温和的刺激计划，以稳定增长，但可能会让那些呼吁制定大胆政策详细路线图以解决该国深度结构性失衡的人感到失望。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-parliament-unveil-more-stimulus-next-week-bold-reforms-unlikely-2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 06:10:37 GMT</pubDate>
     </item>
     <item>
-      <title>由于美联储降息押注坚定，金价有望连续第二周延续涨势</title>
+      <title>由于美国降息预期很快，黄金上涨至4周高位</title>
       <link>https://www.reuters.com/markets/commodities/gold-hovers-near-one-month-peak-slowing-us-inflation-2024-03-01/</link>
-      <description><![CDATA[金价周五触及一个月高位，并有望连续第二周上涨，因美国最新数据显示通胀放缓迹象，增强了投资者对美联储六月降息的预期。]]></description>
+      <description><![CDATA[黄金三月开局积极，周五经济数据疲软强化了美国六月降息的预期，金价升至四周高位。]]></description>
       <guid>https://www.reuters.com/markets/commodities/gold-hovers-near-one-month-peak-slowing-us-inflation-2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 05:08:01 GMT</pubDate>
     </item>
@@ -118,9 +118,9 @@
       <pubDate>Fri, 01 Mar 2024 01:50:26 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行发表评论后日元下跌，交易员权衡美联储前景，美元持稳</title>
+      <title>由于日本央行谨慎，美元兑日元上涨，兑欧元下跌</title>
       <link>https://www.reuters.com/markets/currencies/dollar-steady-traders-ponder-fed-rate-cut-bets-yen-shaky-150dlr-2024-03-01/</link>
-      <description><![CDATA[日本央行行长上田一夫(Kazuo Ueda)表示，现在宣布将通胀拉升至理想水平的胜利还为时过早，周五日元兑美元汇率下跌。]]></description>
+      <description><![CDATA[日本央行(BOJ)行长上田一夫表示，宣布通胀胜利还为时过早，美元兑日元周五上涨，但在美国经济数据弱于预期后，美元兑欧元下跌。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-steady-traders-ponder-fed-rate-cut-bets-yen-shaky-150dlr-2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 01:35:35 GMT</pubDate>
     </item>
