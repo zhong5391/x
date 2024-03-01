@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 01 Mar 2024 21:07:14 GMT</lastBuildDate>
-    <item>
-      <title>独家：日产与菲斯克就投资、合作伙伴关系进行高级谈判 - 消息人士</title>
-      <link>https://www.reuters.com/business/autos-transportation/nissan-fisker-advanced-talks-investment-partnership-sources-2024-03-01/</link>
-      <description><![CDATA[据两位知情人士透露，日产正在就投资电动汽车制造商菲斯克进行深入谈判，该交易可能为这家日本汽车制造商提供电动皮卡车，同时为这家陷入困境的初创公司提供财务生命线。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/nissan-fisker-advanced-talks-investment-partnership-sources-2024-03-01/</guid>
-      <pubDate>Fri, 01 Mar 2024 19:53:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登对华汽车间谍调查背后的政治和经济</title>
-      <link>https://www.reuters.com/world/politics-economics-behind-bidens-china-car-espionage-probe-2024-03-01/</link>
-      <description><![CDATA[美国总统乔·拜登誓言要“为美国汽车工人做正确的事”，他本周启动了一项调查，调查中国制造的汽车是否可用于监视美国人，考虑到目前美国道路上的此类汽车很少，这是一个遥远的威胁。]]></description>
-      <guid>https://www.reuters.com/world/politics-economics-behind-bidens-china-car-espionage-probe-2024-03-01/</guid>
-      <pubDate>Fri, 01 Mar 2024 18:32:34 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 01 Mar 2024 21:21:40 GMT</lastBuildDate>
     <item>
       <title>耶伦表示，尽管在战争语言上存在分歧，美国仍致力于 G20 金融工作</title>
       <link>https://www.reuters.com/world/yellen-says-us-committed-g20-finance-work-despite-divisions-over-war-language-2024-03-01/</link>
@@ -71,7 +57,7 @@
     <item>
       <title>投资者抢购“Magnificent 7”科技股和加密货币 - 美国银行</title>
       <link>https://www.reuters.com/markets/us/investors-swarm-into-tech-stocks-crypto-bofa-2024-03-01/</link>
-      <description><![CDATA[美国银行全球研究部周五发布的一份报告显示，截至周三的一周，投资者向科技股投入的资金达到了自 8 月以来的最高水平，并且投资加密货币的金额增加了一倍。]]></description>
+      <description><![CDATA[美国银行全球研究部周五发布的一份报告显示，截至周三的一周，投资者向科技股投入的资金达到了自 8 月份以来的最高水平，并且投资加密货币的金额增加了一倍。]]></description>
       <guid>https://www.reuters.com/markets/us/investors-swarm-into-tech-stocks-crypto-bofa-2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 07:34:58 GMT</pubDate>
     </item>
@@ -90,9 +76,9 @@
       <pubDate>Fri, 01 Mar 2024 06:10:37 GMT</pubDate>
     </item>
     <item>
-      <title>由于美国即将降息，金价升至两个月高点</title>
+      <title>由于美国降息预期很快，黄金上涨至4周高位</title>
       <link>https://www.reuters.com/markets/commodities/gold-hovers-near-one-month-peak-slowing-us-inflation-2024-03-01/</link>
-      <description><![CDATA[黄金三月开局积极，周五经济数据疲软强化了美国六月降息的预期，金价升至两个月高点。]]></description>
+      <description><![CDATA[黄金三月开局积极，周五经济数据疲软强化了美国六月降息的预期，金价升至四周高位。]]></description>
       <guid>https://www.reuters.com/markets/commodities/gold-hovers-near-one-month-peak-slowing-us-inflation-2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 05:08:01 GMT</pubDate>
     </item>
@@ -139,11 +125,25 @@
       <pubDate>Fri, 01 Mar 2024 01:50:26 GMT</pubDate>
     </item>
     <item>
-      <title>美元因数据疲弱而下跌，日元因日本央行谨慎而受到打击</title>
+      <title>由于日本央行谨慎，美元兑日元上涨，兑欧元下跌</title>
       <link>https://www.reuters.com/markets/currencies/dollar-steady-traders-ponder-fed-rate-cut-bets-yen-shaky-150dlr-2024-03-01/</link>
-      <description><![CDATA[由于美国经济数据弱于预期，美元兑欧元周五下跌，但在日本央行行长上田一夫表示现在宣布通胀胜利还为时尚早后，美元兑日元上涨。]]></description>
+      <description><![CDATA[日本央行(BOJ)行长上田一夫表示，宣布通胀胜利还为时过早，美元兑日元周五上涨，但在美国经济数据弱于预期后，美元兑欧元下跌。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-steady-traders-ponder-fed-rate-cut-bets-yen-shaky-150dlr-2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 01:35:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚 Syrah Resources 与韩国 Posco Future M 签署承购协议</title>
+      <link>https://www.reuters.com/markets/commodities/australias-syrah-resources-inks-offtake-deal-with-s-koreas-posco-future-m-2024-02-29/</link>
+      <description><![CDATA[澳大利亚Syrah Resources周五表示，将向韩国化学和电池材料制造商Posco Future M供应莫桑比克Balama石墨业务的天然石墨产品。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/australias-syrah-resources-inks-offtake-deal-with-s-koreas-posco-future-m-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 22:08:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：市场活跃，但中国 PMI 等待公布</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-29/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-02-29/</guid>
+      <pubDate>Thu, 29 Feb 2024 21:48:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
