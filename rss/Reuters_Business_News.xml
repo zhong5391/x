@@ -4,14 +4,7 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 03 Mar 2024 20:18:43 GMT</lastBuildDate>
-    <item>
-      <title>希腊监管机构批准比雷埃夫斯银行股权出售招股说明书</title>
-      <link>https://www.reuters.com/business/finance/greek-regulator-approves-prospectus-piraeus-bank-stake-sale-2024-03-03/</link>
-      <description><![CDATA[希腊资本市场委员会周日表示，已批准出售该国银行救助基金 HFSF 所拥有的比雷埃夫斯银行股份的招股说明书。]]></description>
-      <guid>https://www.reuters.com/business/finance/greek-regulator-approves-prospectus-piraeus-bank-stake-sale-2024-03-03/</guid>
-      <pubDate>Sun, 03 Mar 2024 18:51:47 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 03 Mar 2024 20:32:55 GMT</lastBuildDate>
     <item>
       <title>据当地媒体报道，丰田本月宣布在巴西投资 20 亿美元</title>
       <link>https://www.reuters.com/business/autos-transportation/toyota-announce-2-billion-investment-brazil-this-month-local-media-2024-03-03/</link>
@@ -50,7 +43,7 @@
     <item>
       <title>法院称欧盟必须支付高通要求的一小部分法律费用</title>
       <link>https://www.reuters.com/technology/court-says-eu-must-pay-fraction-legal-fees-sought-by-qualcomm-2024-03-02/</link>
-      <description><![CDATA[欧洲第二最高法院表示，欧盟监管机构应向高通支付 785,857.54 欧元（合 851,634 美元）的法律费用，不到这家美国芯片制造商在反垄断罚款上诉中获胜后要求支付的 1200 万欧元的 10%。]]></description>
+      <description><![CDATA[欧洲第二最高法院表示，欧盟监管机构应向高通支付 785,857.54 欧元（合 851,634 美元）的法律费用，不到这家美国芯片制造商在反垄断罚款上诉获胜后寻求的 1200 万欧元的 10%。]]></description>
       <guid>https://www.reuters.com/technology/court-says-eu-must-pay-fraction-legal-fees-sought-by-qualcomm-2024-03-02/</guid>
       <pubDate>Sat, 02 Mar 2024 16:12:25 GMT</pubDate>
     </item>
@@ -64,9 +57,16 @@
     <item>
       <title>谷歌从印度 Play 商店下架应用程序“是不被允许的”——部长</title>
       <link>https://www.reuters.com/technology/googles-removal-apps-play-store-india-cannot-be-permitted-minister-2024-03-02/</link>
-      <description><![CDATA[印度信息技术部长阿什维尼·维什诺 (Ashwini Vaishnaw) 周六表示，谷歌从其应用商店中删除部分印度应用程序的决定“是不被允许的”，目前印度就向这家美国公司支付服务费的争议仍在继续。]]></description>
+      <description><![CDATA[印度信息技术部长阿什维尼·维什诺 (Ashwini Vaishnaw) 周六表示，谷歌从其应用商店中删除部分印度应用程序的决定“是不被允许的”，目前印度围绕向这家美国公司支付服务费的争议仍在继续。]]></description>
       <guid>https://www.reuters.com/technology/googles-removal-apps-play-store-india-cannot-be-permitted-minister-2024-03-02/</guid>
       <pubDate>Sat, 02 Mar 2024 12:31:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿布扎比世贸组织谈判达成了什么协议？</title>
+      <link>https://www.reuters.com/world/what-was-agreed-wto-negotiations-abu-dhabi-2024-03-02/</link>
+      <description><![CDATA[尽管在阿布扎比的谈判一直深入到加时，世界贸易组织（WTO）谈判代表未能在周六凌晨打破重大改革的僵局，一些代表表示，这是国家利益战胜集体责任的胜利。]]></description>
+      <guid>https://www.reuters.com/world/what-was-agreed-wto-negotiations-abu-dhabi-2024-03-02/</guid>
+      <pubDate>Sat, 02 Mar 2024 00:46:26 GMT</pubDate>
     </item>
     <item>
       <title>英伟达首席执行官表示人工智能可以在五年内通过人体测试</title>
@@ -85,7 +85,7 @@
     <item>
       <title>加州批准 Waymo 机器人出租车在洛杉矶、旧金山周边城市提供服务</title>
       <link>https://www.reuters.com/business/autos-transportation/california-approves-waymo-robotaxi-services-la-sf-neighboring-cities-2024-03-01/</link>
-      <description><![CDATA[加州监管机构已批准 Alphabet 旗下 Waymo 的一项提议，将其完全无人驾驶的机器人出租车服务扩展到洛杉矶和旧金山附近的一些城市，该提议于周五生效。]]></description>
+      <description><![CDATA[加州监管机构已批准 Alphabet 旗下 Waymo 的一项提案，将其完全无人驾驶的机器人出租车服务扩展到洛杉矶和旧金山附近的一些城市，该提案于周五生效。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/california-approves-waymo-robotaxi-services-la-sf-neighboring-cities-2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 22:24:27 GMT</pubDate>
     </item>
@@ -104,6 +104,13 @@
       <pubDate>Fri, 01 Mar 2024 21:19:50 GMT</pubDate>
     </item>
     <item>
+      <title>Change Healthcare 在停电期间启用新服务</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/change-healthcare-enables-new-service-amid-outage-2024-03-01/</link>
+      <description><![CDATA[UnitedHealth 旗下的 Change Healthcare 周五表示，已为所有客户启用了新的电子处方服务，一周多前，该公司报告了一次对美国医疗保健系统参与者产生连锁反应的黑客攻击事件。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/change-healthcare-enables-new-service-amid-outage-2024-03-01/</guid>
+      <pubDate>Fri, 01 Mar 2024 20:47:38 GMT</pubDate>
+    </item>
+    <item>
       <title>消息人士称，Reddit 寻求 IPO 估值高达 65 亿美元</title>
       <link>https://www.reuters.com/technology/reddit-eyes-up-65-billion-valuation-ipo-wsj-reports-2024-03-01/</link>
       <description><![CDATA[两名知情人士周五告诉路透社，媒体平台 Reddit 的首次公开募股估值高达 65 亿美元，远低于几年前的估值。]]></description>
@@ -113,7 +120,7 @@
     <item>
       <title>美联储库格勒对通货紧缩持“乐观”态度，且不会造成大量失业</title>
       <link>https://www.reuters.com/markets/us/feds-kugler-optimistic-disinflation-without-big-job-losses-2024-03-01/</link>
-      <description><![CDATA[美联储理事阿德里安娜·库格勒(Adriana Kugler)周五表示，她认为美国经济有望在健康的劳动力市场中实现通胀下降的“软着陆”，并指出通胀预期仍然稳定，美联储已经避免了工资价格螺旋式上升。]]></description>
+      <description><![CDATA[美联储理事阿德里亚娜·库格勒(Adriana Kugler)周五表示，她认为美国经济有望在健康的劳动力市场中实现通胀下降的“软着陆”，并指出通胀预期仍然稳定，美联储已经避免了工资价格螺旋式上升。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-kugler-optimistic-disinflation-without-big-job-losses-2024-03-01/</guid>
       <pubDate>Fri, 01 Mar 2024 20:23:07 GMT</pubDate>
     </item>
