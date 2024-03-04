@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 04 Mar 2024 22:58:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 23:19:53 GMT</lastBuildDate>
+    <item>
+      <title>特里安将迪士尼在争取董事会席位方面出现的问题归咎于“监管不力”</title>
+      <link>https://www.reuters.com/business/media-telecom/trian-blames-poor-oversight-disneys-problems-its-push-board-seats-2024-03-04/</link>
+      <description><![CDATA[美国亿万富翁投资者尼尔森·佩尔茨周一表示，媒体和娱乐公司华特迪士尼已经输掉了“胜牌”，并指责其董事会“监督不力”，他希望下个月当选董事会成员。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/trian-blames-poor-oversight-disneys-problems-its-push-board-seats-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 22:17:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：风险反弹势头增强，中国公布目标</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-04/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 21:48:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>2月份企业垃圾债务违约创疫情后新高</title>
+      <link>https://www.reuters.com/markets/rates-bonds/corporate-junk-debt-defaults-hit-post-pandemic-high-february-2024-03-04/</link>
+      <description><![CDATA[摩根大通在一份新的研究报告中表示，美国企业垃圾债发行人的违约率在 2 月份达到了疫情后的最高水平。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/corporate-junk-debt-defaults-hit-post-pandemic-high-february-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 21:43:57 GMT</pubDate>
+    </item>
     <item>
       <title>行业和经济专家表示，海运业风险盛行</title>
       <link>https://www.reuters.com/business/autos-transportation/risk-reigns-ocean-shipping-industry-economic-experts-say-2024-03-04/</link>
@@ -13,9 +34,9 @@
       <pubDate>Mon, 04 Mar 2024 20:04:50 GMT</pubDate>
     </item>
     <item>
-      <title>据《华尔街日报》报道，包括前首席执行官阿格拉瓦尔在内的 Twitter 前高管起诉马斯克，要求支付超过 1.28 亿美元的遣散费</title>
+      <title>Twitter 前高管起诉埃隆·马斯克 (Elon Musk)，要求支付超过 1.28 亿美元的遣散费</title>
       <link>https://www.reuters.com/technology/former-twitter-executives-sue-elon-musk-over-128-mln-severance-wsj-reports-2024-03-04/</link>
-      <description><![CDATA[据《华尔街日报》周一报道，包括前首席执行官帕拉格·阿格拉瓦尔在内的四名 Twitter 前高管已起诉埃隆·马斯克，要求支付超过 1.28 亿美元的遣散费。]]></description>
+      <description><![CDATA[根据周一提起的诉讼，包括前首席执行官帕拉格·阿格拉瓦尔在内的四名 Twitter 前高管已起诉埃隆·马斯克，要求支付总计超过 1.28 亿美元的未付遣散费。]]></description>
       <guid>https://www.reuters.com/technology/former-twitter-executives-sue-elon-musk-over-128-mln-severance-wsj-reports-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 19:57:19 GMT</pubDate>
     </item>
@@ -41,44 +62,23 @@
       <pubDate>Mon, 04 Mar 2024 18:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>2月份中国销量下滑后特斯拉股价下滑</title>
+      <title>中国销量跌至一年多来最低水平后，特斯拉股价下滑</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-shares-skid-after-february-china-sales-slump-2024-03-04/</link>
-      <description><![CDATA[特斯拉股价周一下跌超过 7%，此前该公司 2 月份在中国的销量下降，该公司在中国面临着日益激烈的竞争和农历新年假期期间的经济放缓。]]></description>
+      <description><![CDATA[特斯拉股价周一下跌超过 7%，此前该公司 2 月份在中国的销量下降，该公司在中国的销量可能会在农历新年假期期间面临放缓。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-skid-after-february-china-sales-slump-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 18:25:29 GMT</pubDate>
     </item>
     <item>
       <title>据 CBC 报道，苹果公司将支付 1,440 万加元解决加拿大 iPhone 节流事件</title>
       <link>https://www.reuters.com/technology/apple-pay-c144-mln-settle-iphone-throttling-case-canada-cbc-reports-2024-03-04/</link>
-      <description><![CDATA[据 CBC 新闻周一报道，不列颠哥伦比亚省最高法院法官已批准苹果公司向集体诉讼中符合条件的成员提出的 1,440 万加元（合 1,060 万美元）和解协议，该诉讼指控该公司通过软件更新故意降低 iPhone 6 和 7 型号的速度。]]></description>
+      <description><![CDATA[据 CBC 新闻周一报道，不列颠哥伦比亚省最高法院法官已批准苹果公司向集体诉讼中符合条件的成员提出的 1,440 万加元（合 1,060 万美元）和解协议，该诉讼指控该公司通过软件更新故意降低 iPhone 6 和 7 机型的速度。]]></description>
       <guid>https://www.reuters.com/technology/apple-pay-c144-mln-settle-iphone-throttling-case-canada-cbc-reports-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 18:21:16 GMT</pubDate>
     </item>
     <item>
-      <title>法国考虑处罚以遏制超快时尚品牌</title>
-      <link>https://www.reuters.com/business/retail-consumer/france-mulls-penalties-rein-ultra-fast-fashion-brands-2024-03-04/</link>
-      <description><![CDATA[法国占多数的议员在一项新法案中提议，对中国 Shein 等产品周转速度超快的时尚品牌应处以最高其服装售价 50% 的罚款，以抵消其对环境的影响。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/france-mulls-penalties-rein-ultra-fast-fashion-brands-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 18:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟反垄断监管机构暂时停止对 IAG 与欧洲航空交易的调查</title>
-      <link>https://www.reuters.com/markets/deals/eu-antitrust-regulators-halt-now-probe-into-iags-air-europa-deal-2024-03-04/</link>
-      <description><![CDATA[据欧盟委员会周一在其网站上发布的最新消息，欧盟反垄断监管机构上个月暂时停止了对英国航空公司母公司 IAG 以 4 亿欧元（4.3428 亿美元）收购欧洲航空公司的出价的调查。]]></description>
-      <guid>https://www.reuters.com/markets/deals/eu-antitrust-regulators-halt-now-probe-into-iags-air-europa-deal-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 17:48:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储博斯蒂克：鉴于美国经济强劲，不急需降息</title>
-      <link>https://www.reuters.com/markets/us/feds-bostic-no-urgency-cut-interest-rates-given-us-economys-strength-2024-03-04/</link>
-      <description><![CDATA[亚特兰大联储主席拉斐尔·博斯蒂克在讲话中表示，鉴于经济和就业市场“繁荣”，美联储并未面临降息的紧迫压力，这强调了通胀可能陷入央行 2% 目标之上或什至被送至央行的风险。因“被压抑的热情”而更高。]]></description>
-      <guid>https://www.reuters.com/markets/us/feds-bostic-no-urgency-cut-interest-rates-given-us-economys-strength-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 17:10:59 GMT</pubDate>
-    </item>
-    <item>
       <title>新日铁高管将与 USW 负责人会面，寻求对美国钢铁交易的支持</title>
       <link>https://www.reuters.com/markets/deals/nippon-steel-exec-meet-usw-head-seek-support-us-steel-deal-2024-03-04/</link>
-      <description><![CDATA[新日铁一名高级管理人员告诉路透社，他将于本月会见美国钢铁工人联合会（USW）工会主席，寻求收购美国钢铁公司的支持，并表示有信心该交易可以在 9 月底完成。]]></description>
+      <description><![CDATA[新日铁一位高级管理人员告诉路透社，他将于本月会见美国钢铁工人联合会（USW）工会主席，寻求收购美国钢铁公司的支持，并表示有信心该交易可以在 9 月底完成。]]></description>
       <guid>https://www.reuters.com/markets/deals/nippon-steel-exec-meet-usw-head-seek-support-us-steel-deal-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 17:03:44 GMT</pubDate>
     </item>
@@ -90,9 +90,9 @@
       <pubDate>Mon, 04 Mar 2024 15:15:43 GMT</pubDate>
     </item>
     <item>
-      <title>由于内部控制问题损害了投资者的信任，NYCB 股价恢复下滑</title>
+      <title>由于内部控制问题损害了投资者的信任，NYCB 股价暴跌</title>
       <link>https://www.reuters.com/business/finance/nycb-shares-eye-rebound-after-sell-off-material-weakness-disclosure-2024-03-04/</link>
-      <description><![CDATA[纽约社区银行 (New York Community Bancorp) 股价周一早盘下跌，延续前一交易日的跌势，此前该银行更换了首席执行官，并指出与贷款审查相关的内部控制存在“重大缺陷”。]]></description>
+      <description><![CDATA[纽约社区银行 (New York Community Bancorp) 更换首席执行官并指出与贷款审查相关的内部控制存在“重大缺陷”，几天后该银行股价继续下跌。]]></description>
       <guid>https://www.reuters.com/business/finance/nycb-shares-eye-rebound-after-sell-off-material-weakness-disclosure-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 14:23:29 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Mon, 04 Mar 2024 13:59:14 GMT</pubDate>
     </item>
     <item>
-      <title>捷蓝航空和精神航空因反垄断障碍取消价值 38 亿美元的合并</title>
+      <title>捷蓝航空 (JetBlue) 与精神航空 (Spirit Airlines) 因反垄断障碍取消价值 38 亿美元的合并</title>
       <link>https://www.reuters.com/markets/deals/jetblue-terminates-38-bln-spirit-deal-2024-03-04/</link>
       <description><![CDATA[低成本航空公司捷蓝航空 (JetBlue Airways) 和精神航空 (Spirit Airlines) 周一取消了价值 38 亿美元的合并协议，在美国法官 1 月份以反竞争担忧为由阻止该交易后，该协议没有任何进展。]]></description>
       <guid>https://www.reuters.com/markets/deals/jetblue-terminates-38-bln-spirit-deal-2024-03-04/</guid>
@@ -125,9 +125,9 @@
       <pubDate>Mon, 04 Mar 2024 12:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>经济数据公布前标普指数上涨 500 英寸</title>
+      <title>投资者在经济数据公布前屏住呼吸，标普 500 指数小幅走低</title>
       <link>https://www.reuters.com/markets/us/futures-lose-steam-after-wall-st-rally-jobs-data-powell-hearing-tap-2024-03-04/</link>
-      <description><![CDATA[继上周五标准普尔 500 指数和纳斯达克指数创下收盘新高之后，标准普尔 500 指数周一下午小幅上涨，接下来的一周将充斥着经济数据和美联储主席杰罗姆·鲍威尔的国会证词。]]></description>
+      <description><![CDATA[标准普尔 500 指数在经历了一个波动的交易日后，周一小幅收低，因投资者在经济数据和美联储主席杰罗姆·鲍威尔在国会作证之前暂停。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-lose-steam-after-wall-st-rally-jobs-data-powell-hearing-tap-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 11:25:12 GMT</pubDate>
     </item>
