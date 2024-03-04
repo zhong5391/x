@@ -1,54 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 04 Mar 2024 19:28:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 19:41:27 GMT</lastBuildDate>
     <item>
-      <title>2月份中国销量下滑后特斯拉股价下滑</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-shares-skid-after-february-china-sales-slump-2024-03-04/</link>
-      <description><![CDATA[特斯拉股价周一下跌逾 7%，此前该公司 2 月份在中国的销量大幅下滑，该公司在中国面临着日益激烈的竞争以及农历新年假期期间的经济放缓。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-skid-after-february-china-sales-slump-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 18:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>据 CBC 报道，苹果公司将支付 1,440 万加元解决加拿大 iPhone 节流事件</title>
-      <link>https://www.reuters.com/technology/apple-pay-c144-mln-settle-iphone-throttling-case-canada-cbc-reports-2024-03-04/</link>
-      <description><![CDATA[据 CBC 新闻周一报道，不列颠哥伦比亚省最高法院法官已批准苹果公司向集体诉讼中符合条件的成员提出的 1,440 万加元（合 1,060 万美元）和解协议，该诉讼指控该公司通过软件更新故意降低 iPhone 6 和 7 型号的速度。]]></description>
-      <guid>https://www.reuters.com/technology/apple-pay-c144-mln-settle-iphone-throttling-case-canada-cbc-reports-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 18:21:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国考虑处罚以遏制超快时尚品牌</title>
-      <link>https://www.reuters.com/business/retail-consumer/france-mulls-penalties-rein-ultra-fast-fashion-brands-2024-03-04/</link>
-      <description><![CDATA[法国占多数的议员在一项新法案中提议，对中国 Shein 等产品周转速度超快的时尚品牌应处以最高其服装售价 50% 的罚款，以抵消其对环境的影响。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/france-mulls-penalties-rein-ultra-fast-fashion-brands-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 18:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟反垄断监管机构暂时停止对 IAG 与欧洲航空交易的调查</title>
-      <link>https://www.reuters.com/markets/deals/eu-antitrust-regulators-halt-now-probe-into-iags-air-europa-deal-2024-03-04/</link>
-      <description><![CDATA[据欧盟委员会周一在其网站上发布的最新消息，欧盟反垄断监管机构上个月暂时停止了对英国航空公司母公司 IAG 以 4 亿欧元（4.3428 亿美元）收购欧洲航空公司的出价的调查。]]></description>
-      <guid>https://www.reuters.com/markets/deals/eu-antitrust-regulators-halt-now-probe-into-iags-air-europa-deal-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 17:48:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储博斯蒂克：鉴于美国经济强劲，不急需降息</title>
-      <link>https://www.reuters.com/markets/us/feds-bostic-no-urgency-cut-interest-rates-given-us-economys-strength-2024-03-04/</link>
-      <description><![CDATA[亚特兰大联储主席拉斐尔·博斯蒂克在讲话中表示，鉴于经济和就业市场“繁荣”，美联储并未面临降息的紧迫压力，这强调了通胀可能陷入央行 2% 目标之上或什至被送至央行的风险。因“被压抑的热情”而更高。]]></description>
-      <guid>https://www.reuters.com/markets/us/feds-bostic-no-urgency-cut-interest-rates-given-us-economys-strength-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 17:10:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>新日铁高管将与 USW 负责人会面，寻求对美国钢铁交易的支持</title>
-      <link>https://www.reuters.com/markets/deals/nippon-steel-exec-meet-usw-head-seek-support-us-steel-deal-2024-03-04/</link>
-      <description><![CDATA[新日铁一名高级管理人员告诉路透社，他将于本月会见美国钢铁工人联合会（USW）工会主席，寻求收购美国钢铁公司的支持，并表示有信心该交易可以在 9 月底完成。]]></description>
-      <guid>https://www.reuters.com/markets/deals/nippon-steel-exec-meet-usw-head-seek-support-us-steel-deal-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 17:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国航空从空客、波音和巴西航空工业公司订购了 260 架飞机</title>
+      <title>美国航空从空客、波音和巴西航空工业公司订购了 260 架新飞机</title>
       <link>https://www.reuters.com/business/aerospace-defense/american-airlines-orders-260-new-aircraft-airbus-boeing-embraer-2024-03-04/</link>
       <description><![CDATA[美国航空周一表示，已同意从空客、波音和巴西航空工业公司购买总计 260 架新飞机，该公司的目标是增加运力以满足不断飙升的旅行需求。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/american-airlines-orders-260-new-aircraft-airbus-boeing-embraer-2024-03-04/</guid>
@@ -76,6 +34,20 @@
       <pubDate>Mon, 04 Mar 2024 15:15:43 GMT</pubDate>
     </item>
     <item>
+      <title>沃尔格林首席执行官表示没有计划出售专业药房部门</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/walgreens-is-not-planing-sell-shields-health-ceo-says-2024-03-04/</link>
+      <description><![CDATA[沃尔格林博姿联盟首席执行官拒绝了媒体报道，称该公司至少目前不打算出售专业药房部门 Shields Health Solutions]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/walgreens-is-not-planing-sell-shields-health-ceo-says-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 14:51:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度初创公司要求反垄断机构命令谷歌在“厚颜无耻”的举动后恢复应用程序</title>
+      <link>https://www.reuters.com/world/india/indian-startups-ask-antitrust-body-order-google-restore-apps-after-brazen-move-2024-03-04/</link>
+      <description><![CDATA[路透社看到的一封信显示，代表印度初创公司的一个组织已要求该国反垄断监管机构命令 Alphabet Inc. 旗下的谷歌恢复因违反政策而删除的应用程序，这加剧了与这家美国巨头在关键市场的摊牌。]]></description>
+      <guid>https://www.reuters.com/world/india/indian-startups-ask-antitrust-body-order-google-restore-apps-after-brazen-move-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 14:37:42 GMT</pubDate>
+    </item>
+    <item>
       <title>由于内部控制问题损害了投资者的信任，NYCB 股价恢复下滑</title>
       <link>https://www.reuters.com/business/finance/nycb-shares-eye-rebound-after-sell-off-material-weakness-disclosure-2024-03-04/</link>
       <description><![CDATA[纽约社区银行 (New York Community Bancorp) 股价周一早盘下跌，延续前一交易日的跌势，此前该银行更换了首席执行官，并指出与贷款审查相关的内部控制存在“重大缺陷”。]]></description>
@@ -90,11 +62,32 @@
       <pubDate>Mon, 04 Mar 2024 14:19:35 GMT</pubDate>
     </item>
     <item>
+      <title>随着科技竞赛的继续，Anthropic 发布了更强大的 Claude 3 AI</title>
+      <link>https://www.reuters.com/technology/anthropic-releases-more-powerful-claude-3-ai-tech-race-continues-2024-03-04/</link>
+      <description><![CDATA[Anthropic 是一家由谷歌和亚马逊支持的初创公司，周一发布了一套名为 Claude 3 的人工智能模型，这是硅谷近乎不间断的市场竞争中的最新一波更强大的技术。]]></description>
+      <guid>https://www.reuters.com/technology/anthropic-releases-more-powerful-claude-3-ai-tech-race-continues-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 14:05:54 GMT</pubDate>
+    </item>
+    <item>
       <title>活动家布莱克韦尔斯表示战略、透明度问题阻碍了迪士尼</title>
       <link>https://www.reuters.com/business/media-telecom/activist-blackwells-says-strategy-transparency-issues-hampering-disney-2024-03-04/</link>
       <description><![CDATA[华特迪士尼投资者布莱克韦尔资本表示，缺乏强有力的内容和技术战略以及治理和透明度问题正在阻碍这家娱乐巨头的业绩，因为它试图获得该公司的董事会席位。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/activist-blackwells-says-strategy-transparency-issues-hampering-disney-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 13:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>对冲资金流 对冲基金押注美国房地产反弹</title>
+      <link>https://www.reuters.com/markets/us/hedge-flow-hedge-funds-bet-us-real-estate-rebound-2024-03-04/</link>
+      <description><![CDATA[高盛的一份报告称，截至周五的一周，对冲基金大量买入美国房地产投资股票，这是投机者连续第六周押注商业和工业地产反弹。]]></description>
+      <guid>https://www.reuters.com/markets/us/hedge-flow-hedge-funds-bet-us-real-estate-rebound-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 13:42:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>战争保险公司对红海红海沉没事件不以为然，费率稳定</title>
+      <link>https://www.reuters.com/markets/war-insurers-shrug-off-rubymar-sinking-red-sea-rates-stable-2024-03-04/</link>
+      <description><![CDATA[业内消息人士称，尽管红海货轮沉没，但红海战争险保险费用周一仍保持稳定，因为承保人在上个月首次被导弹击中后已将伤亡人数考虑在内。]]></description>
+      <guid>https://www.reuters.com/markets/war-insurers-shrug-off-rubymar-sinking-red-sea-rates-stable-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 13:39:36 GMT</pubDate>
     </item>
     <item>
       <title>捷蓝航空和精神航空因反垄断障碍取消价值 38 亿美元的合并</title>
@@ -104,9 +97,9 @@
       <pubDate>Mon, 04 Mar 2024 13:37:44 GMT</pubDate>
     </item>
     <item>
-      <title>苹果在 Spotify 案中被欧盟罚款 20 亿美元</title>
+      <title>苹果在 Spotify 案中被欧盟处以 20 亿美元反垄断罚款</title>
       <link>https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/</link>
-      <description><![CDATA[周一，布鲁塞尔对苹果公司处以 18.4 亿欧元（合 20 亿美元）的罚款，原因是苹果公司通过限制 App Store 来阻碍音乐流媒体竞争对手的竞争，这是这家 iPhone 制造商首次因违反欧盟规定而受到处罚。]]></description>
+      <description><![CDATA[布鲁塞尔周一对苹果公司处以 18.4 亿欧元（合 20 亿美元）的罚款，原因是苹果公司通过限制其 App Store 来阻碍音乐流媒体竞争对手的竞争，这是这家 iPhone 制造商首次因违反欧盟规定而受到处罚。]]></description>
       <guid>https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 12:08:11 GMT</pubDate>
     </item>
@@ -118,9 +111,9 @@
       <pubDate>Mon, 04 Mar 2024 12:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街在创纪录的上涨后下滑；经济数据随时可用</title>
+      <title>华尔街在创纪录的上涨后下跌；经济数据随时可用</title>
       <link>https://www.reuters.com/markets/us/futures-lose-steam-after-wall-st-rally-jobs-data-powell-hearing-tap-2024-03-04/</link>
-      <description><![CDATA[在标准普尔 500 指数和纳斯达克指数前一交易日创下收盘新高后，华尔街主要股指周一失去了一些动力，因为投资者在本周初因关键就业数据和美联储主席杰罗姆·鲍威尔的国会证词而暂停。]]></description>
+      <description><![CDATA[在标准普尔 500 指数和纳斯达克指数在前一交易日创下收盘新高后，华尔街主要股指周一下跌，原因是投资者在本周初因关键就业数据和美联储主席杰罗姆·鲍威尔的国会证词而暂停。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-lose-steam-after-wall-st-rally-jobs-data-powell-hearing-tap-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 11:25:12 GMT</pubDate>
     </item>
@@ -130,6 +123,13 @@
       <description><![CDATA[对美国顶级企业债务看似永无休止的需求引起了一些投资者的不安，他们认为，如果今年晚些时候流动性状况恶化，可能会出现抛售。]]></description>
       <guid>https://www.reuters.com/markets/us/us-corporate-debt-euphoria-could-stall-fed-tightens-liquidity-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 11:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gravity 在纽约向公众开放美国最快的电动汽车充电桩</title>
+      <link>https://www.reuters.com/business/autos-transportation/gravity-opens-fastest-ev-charger-us-public-new-york-city-2024-03-04/</link>
+      <description><![CDATA[谷歌支持的电动汽车基础设施初创公司 Gravity Mobility 向公众开放了美国最快的充电解决方案，以吸引车队客户。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/gravity-opens-fastest-ev-charger-us-public-new-york-city-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 10:02:29 GMT</pubDate>
     </item>
     <item>
       <title>比特币突破65,000美元，历史新高即将到来</title>
