@@ -1,14 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 04 Mar 2024 17:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2024 17:32:21 GMT</lastBuildDate>
     <item>
-      <title>NYCB 股价因披露“重大疲软”而遭抛售后有望反弹</title>
+      <title>美国航空从空客、波音和巴西航空工业公司订购了 260 架新飞机</title>
+      <link>https://www.reuters.com/business/aerospace-defense/american-airlines-orders-260-new-aircraft-airbus-boeing-embraer-2024-03-04/</link>
+      <description><![CDATA[美国航空周一表示，已同意从空客、波音和巴西航空工业公司购买总计 260 架新飞机，该公司的目标是增加运力以满足不断飙升的旅行需求。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/american-airlines-orders-260-new-aircraft-airbus-boeing-embraer-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 16:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>卖空者瞄准美国区域银行 ETF 获利近 10 亿美元</title>
+      <link>https://www.reuters.com/markets/us/short-sellers-rake-nearly-1-bln-targeting-us-regional-bank-etf-2024-03-04/</link>
+      <description><![CDATA[分析公司 Ortex 的数据显示，随着纽约社区银行 (New York Community Bancorp) 的麻烦波及整个行业，2024 年迄今为止，针对美国一家主要地区银行交易所交易基金的卖空者已在纸面上获利 9.77 亿美元。]]></description>
+      <guid>https://www.reuters.com/markets/us/short-sellers-rake-nearly-1-bln-targeting-us-regional-bank-etf-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 15:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌支持的卫星追踪全球石油工业甲烷排放量</title>
+      <link>https://www.reuters.com/technology/google-backed-satellite-track-global-oil-industry-methane-emissions-2024-03-04/</link>
+      <description><![CDATA[由 Alphabet 公司旗下谷歌和环境保护基金组织支持的一颗新卫星将于周一从加利福尼亚州发射，其任务是查明太空中石油和天然气工业的甲烷排放量。]]></description>
+      <guid>https://www.reuters.com/technology/google-backed-satellite-track-global-oil-industry-methane-emissions-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 15:23:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 推出配备更快 M3 芯片的 MacBook Air 笔记本电脑</title>
+      <link>https://www.reuters.com/technology/apple-launches-macbook-air-laptops-with-faster-m3-chips-2024-03-04/</link>
+      <description><![CDATA[苹果公司周一推出了两款配备最新 M3 处理器的新款 MacBook Air 笔记本电脑，并押注功能更强大的型号将吸引那些希望升级到人工智能驱动的个人电脑的消费者。]]></description>
+      <guid>https://www.reuters.com/technology/apple-launches-macbook-air-laptops-with-faster-m3-chips-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 15:15:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃尔格林首席执行官表示没有计划出售专业药房部门</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/walgreens-is-not-planing-sell-shields-health-ceo-says-2024-03-04/</link>
+      <description><![CDATA[沃尔格林博姿联盟首席执行官拒绝了媒体报道，称该公司至少目前不打算出售专业药房部门 Shields Health Solutions]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/walgreens-is-not-planing-sell-shields-health-ceo-says-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 14:51:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度初创公司要求反垄断机构命令谷歌在“厚颜无耻”的举动后恢复应用程序</title>
+      <link>https://www.reuters.com/world/india/indian-startups-ask-antitrust-body-order-google-restore-apps-after-brazen-move-2024-03-04/</link>
+      <description><![CDATA[路透社看到的一封信显示，代表印度初创公司的一个组织已要求该国反垄断监管机构命令 Alphabet Inc. 旗下的谷歌恢复因违反政策而删除的应用程序，这加剧了与这家美国巨头在关键市场的摊牌。]]></description>
+      <guid>https://www.reuters.com/world/india/indian-startups-ask-antitrust-body-order-google-restore-apps-after-brazen-move-2024-03-04/</guid>
+      <pubDate>Mon, 04 Mar 2024 14:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于内部控制问题损害了投资者的信任，NYCB 股价恢复下滑</title>
       <link>https://www.reuters.com/business/finance/nycb-shares-eye-rebound-after-sell-off-material-weakness-disclosure-2024-03-04/</link>
-      <description><![CDATA[纽约社区银行 (New York Community Bancorp) 更换了首席执行官，并指出与贷款审查相关的内部控制存在“重大缺陷”，继前一交易日惨败后，该公司股价周一有望反弹。]]></description>
+      <description><![CDATA[纽约社区银行 (New York Community Bancorp) 股价周一早盘下跌，延续前一交易日的跌势，此前该银行更换了首席执行官，并指出与贷款审查相关的内部控制存在“重大缺陷”。]]></description>
       <guid>https://www.reuters.com/business/finance/nycb-shares-eye-rebound-after-sell-off-material-weakness-disclosure-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 14:23:29 GMT</pubDate>
     </item>
@@ -34,20 +76,6 @@
       <pubDate>Mon, 04 Mar 2024 13:59:14 GMT</pubDate>
     </item>
     <item>
-      <title>Exor 宣布持有数据提供商 Clarivate 10% 股份，持股可能增至 17.5%</title>
-      <link>https://www.reuters.com/markets/deals/exor-announces-10-stake-data-provider-clarivate-can-rise-175-2024-03-04/</link>
-      <description><![CDATA[两家公司周一表示，意大利阿涅利家族通过其投资部门 Exor 持有纽约上市信息服务提供商 Clarivate 10.1% 的股份，并补充说 Exor 可能将其持股比例增至 17.5%。]]></description>
-      <guid>https://www.reuters.com/markets/deals/exor-announces-10-stake-data-provider-clarivate-can-rise-175-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>部长表示，意大利寻求欧盟迅速对 ITA-汉莎航空做出反垄断裁决</title>
-      <link>https://www.reuters.com/business/aerospace-defense/italy-seeks-swift-eu-antitrust-ruling-ita-lufthansa-minister-says-2024-03-04/</link>
-      <description><![CDATA[意大利工业部长周一表示，意大利预计欧盟委员会将在 1 月份启动反垄断调查后迅速做出决定，支持汉莎航空收购 ITA 航空公司少数股权。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/italy-seeks-swift-eu-antitrust-ruling-ita-lufthansa-minister-says-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:44:55 GMT</pubDate>
-    </item>
-    <item>
       <title>对冲资金流 对冲基金押注美国房地产反弹</title>
       <link>https://www.reuters.com/markets/us/hedge-flow-hedge-funds-bet-us-real-estate-rebound-2024-03-04/</link>
       <description><![CDATA[高盛的一份报告称，截至周五的一周，对冲基金大量买入美国房地产投资股票，这是投机者连续第六周押注商业和工业地产反弹。]]></description>
@@ -69,46 +97,25 @@
       <pubDate>Mon, 04 Mar 2024 13:37:44 GMT</pubDate>
     </item>
     <item>
-      <title>瓦莱罗加入峰会碳捕获项目</title>
-      <link>https://www.reuters.com/sustainability/climate-energy/valero-joins-summits-carbon-capture-project-2024-03-04/</link>
-      <description><![CDATA[美国炼油商瓦莱罗能源公司 (Valero Energy Corp) 周一表示，该公司将加入总部位于爱荷华州的 Summit Carbon Solutions 拟议的碳捕获和储存项目。]]></description>
-      <guid>https://www.reuters.com/sustainability/climate-energy/valero-joins-summits-carbon-capture-project-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>尼古拉任命汽车行业资深人士托马斯·奥克雷为首席财务官</title>
-      <link>https://www.reuters.com/business/autos-transportation/nikola-appoints-auto-industry-veteran-thomas-okray-cfo-2024-03-04/</link>
-      <description><![CDATA[电动卡车制造商尼古拉周一表示，任命通用汽车和亚马逊前高管托马斯·奥克雷为首席财务官。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/nikola-appoints-auto-industry-veteran-thomas-okray-cfo-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 13:21:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果在 Spotify 案中被欧盟处以 20 亿美元反垄断罚款，将上诉</title>
+      <title>苹果在 Spotify 案中被欧盟处以 20 亿美元反垄断罚款</title>
       <link>https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/</link>
-      <description><![CDATA[周一，布鲁塞尔对苹果公司处以 18.4 亿欧元（合 20 亿美元）的罚款，这是这家 iPhone 制造商有史以来首次受到欧盟反垄断处罚，原因是苹果公司阻止 Spotify 和其他音乐流媒体服务向用户告知其 App Store 之外的支付选项。]]></description>
+      <description><![CDATA[布鲁塞尔周一对苹果公司处以 18.4 亿欧元（合 20 亿美元）的罚款，原因是苹果公司通过限制其 App Store 来阻碍音乐流媒体竞争对手的竞争，这是这家 iPhone 制造商首次因违反欧盟规定而受到处罚。]]></description>
       <guid>https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 12:08:11 GMT</pubDate>
     </item>
     <item>
       <title>投资者团体将私有化报价提高至 66 亿美元后，梅西百货股价飙升</title>
       <link>https://www.reuters.com/business/retail-consumer/macys-surges-after-investor-group-sweetens-take-private-bid-66-bln-2024-03-04/</link>
-      <description><![CDATA[投资者 Arkhouse Management 和 Brigade Capital 在周末提高了私有化报价后，梅西百货 (Macy&#39;s) 股价周一盘前上涨 16%，对这家美国百货商店运营商的估值为 65.8 亿美元。]]></description>
+      <description><![CDATA[梅西百货 (Macy&#39;s) 的股价周一上涨 16%，投资者 Arkhouse Management 和 Brigade Capital 周末提高了私有化报价，对这家美国百货商店运营商的估值达到 65.8 亿美元。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/macys-surges-after-investor-group-sweetens-take-private-bid-66-bln-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 12:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>创纪录的上涨后，华尔街闭上了眼睛；经济数据随时可用</title>
+      <title>华尔街在创纪录的上涨后下跌；经济数据随时可用</title>
       <link>https://www.reuters.com/markets/us/futures-lose-steam-after-wall-st-rally-jobs-data-powell-hearing-tap-2024-03-04/</link>
-      <description><![CDATA[在标准普尔 500 指数和纳斯达克指数前一交易日创下收盘纪录新高后，美国股市周一开盘低迷，因为投资者在本周初因关键就业数据和美联储主席杰罗姆·鲍威尔的国会证词而暂停。]]></description>
+      <description><![CDATA[在标准普尔 500 指数和纳斯达克指数在前一交易日创下收盘新高后，华尔街主要股指周一下跌，原因是投资者在本周初因关键就业数据和美联储主席杰罗姆·鲍威尔的国会证词而暂停。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-lose-steam-after-wall-st-rally-jobs-data-powell-hearing-tap-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 11:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理者探索美元转移以应对更快的美国股票结算</title>
-      <link>https://www.reuters.com/markets/us/managers-explore-dollar-shift-handle-faster-us-stock-settlement-2024-03-04/</link>
-      <description><![CDATA[专业货币经理表示，一些投资经理正在寻求将其基金开展业务的货币改为美元，以防止在今年春季美国证券结算周期缩短时，他们的外汇交易失败。]]></description>
-      <guid>https://www.reuters.com/markets/us/managers-explore-dollar-shift-handle-faster-us-stock-settlement-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 11:07:47 GMT</pubDate>
     </item>
     <item>
       <title>随着美联储收紧流动性，美国企业债务狂热可能会停滞</title>
@@ -116,13 +123,6 @@
       <description><![CDATA[对美国顶级企业债务看似永无休止的需求引起了一些投资者的不安，他们认为，如果今年晚些时候流动性状况恶化，可能会出现抛售。]]></description>
       <guid>https://www.reuters.com/markets/us/us-corporate-debt-euphoria-could-stall-fed-tightens-liquidity-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 11:04:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：鲍威尔在望，股市保持纪录，日经指数突破 40,000 点</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-04/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-04/</guid>
-      <pubDate>Mon, 04 Mar 2024 11:03:34 GMT</pubDate>
     </item>
     <item>
       <title>Gravity 在纽约向公众开放美国最快的电动汽车充电桩</title>
@@ -139,11 +139,11 @@
       <pubDate>Mon, 04 Mar 2024 03:26:47 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，桑坦德银行在数字化转型过程中在美国裁员 320 人</title>
-      <link>https://www.reuters.com/business/finance/santander-cuts-320-us-jobs-digital-shift-bloomberg-reports-2024-03-03/</link>
-      <description><![CDATA[一位知情人士称，西班牙桑坦德银行已在美国裁员约 320 人，以更加专注于数字业务。]]></description>
-      <guid>https://www.reuters.com/business/finance/santander-cuts-320-us-jobs-digital-shift-bloomberg-reports-2024-03-03/</guid>
-      <pubDate>Sun, 03 Mar 2024 20:38:53 GMT</pubDate>
+      <title>2024 年的预期：美联储转向、通胀降温、增长放缓</title>
+      <link>https://www.reuters.com/markets/what-expect-2024-fed-pivot-cooling-inflation-easing-growth-2024-01-15/</link>
+      <description><![CDATA[大型银行表示，今年全球经济增长可能会放缓，但美联储立场的鸽派倾斜给美国经济带来了希望，并提亮了风险资产的前景。]]></description>
+      <guid>https://www.reuters.com/markets/what-expect-2024-fed-pivot-cooling-inflation-easing-growth-2024-01-15/</guid>
+      <pubDate>Mon, 15 Jan 2024 16:07:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
