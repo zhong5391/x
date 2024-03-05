@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 05 Mar 2024 04:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 04:28:41 GMT</lastBuildDate>
     <item>
       <title>比特币飙升至68,000美元以上，创历史新高</title>
       <link>https://www.reuters.com/technology/bitcoin-surges-past-68000-sight-record-high-2024-03-05/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>美元是中国新闻的旁观者，日元考虑利率风险</title>
       <link>https://www.reuters.com/markets/currencies/dollar-spectator-china-news-yen-ponders-rate-risks-2024-03-05/</link>
-      <description><![CDATA[周二，美元兑人民币汇率保持稳定，市场消化了中国的一系列政策声明，而东京通胀的反弹似乎让日本距离结束负利率又近了一步。]]></description>
+      <description><![CDATA[周二，美元兑人民币保持稳定，市场消化了中国的一系列政策声明，而东京通胀的反弹似乎让日本距离结束负利率又近了一步。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-spectator-china-news-yen-ponders-rate-risks-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 01:22:00 GMT</pubDate>
     </item>
@@ -85,14 +85,14 @@
     <item>
       <title>伯克希尔旗下子公司因房地产佣金过高而加入诉讼</title>
       <link>https://www.reuters.com/legal/berkshire-unit-added-lawsuit-over-inflated-real-estate-commissions-2024-03-04/</link>
-      <description><![CDATA[沃伦·巴菲特旗下伯克希尔·哈撒韦公司的一个部门周一被卷入一项诉讼，指控全国房地产经纪人协会和几家经纪公司合谋人为地维持全国范围内的高房地产佣金。]]></description>
+      <description><![CDATA[沃伦·巴菲特旗下伯克希尔·哈撒韦公司的一个部门周一被卷入一项诉讼，指控全国房地产经纪人协会和几家经纪公司合谋在全国范围内人为地维持高额房地产佣金。]]></description>
       <guid>https://www.reuters.com/legal/berkshire-unit-added-lawsuit-over-inflated-real-estate-commissions-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 22:56:15 GMT</pubDate>
     </item>
     <item>
       <title>特里安将迪士尼在争取董事会席位方面出现的问题归咎于“监管不力”</title>
       <link>https://www.reuters.com/business/media-telecom/trian-blames-poor-oversight-disneys-problems-its-push-board-seats-2024-03-04/</link>
-      <description><![CDATA[美国亿万富翁投资者尼尔森·佩尔茨周一表示，媒体和娱乐公司华特迪士尼已经输掉了“胜牌”，并指责其董事会“监督不力”，他希望下个月当选董事会成员。]]></description>
+      <description><![CDATA[美国亿万富翁投资者纳尔逊·佩尔茨周一表示，媒体和娱乐公司华特迪士尼已经输掉了“胜牌”，并指责其董事会“监督不力”，他希望下个月当选董事会成员。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/trian-blames-poor-oversight-disneys-problems-its-push-board-seats-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 22:17:09 GMT</pubDate>
     </item>
@@ -111,7 +111,7 @@
       <pubDate>Mon, 04 Mar 2024 18:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>中国销量跌至一年多来最低水平后，特斯拉股价下滑</title>
+      <title>中国销量跌至一年多来最低水平后，特斯拉股价下跌</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-shares-skid-after-february-china-sales-slump-2024-03-04/</link>
       <description><![CDATA[特斯拉股价周一下跌超过 7%，此前该公司 2 月份在中国的销量下降，该公司在中国的销量可能会在农历新年假期期间面临放缓。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-skid-after-february-china-sales-slump-2024-03-04/</guid>
@@ -127,7 +127,7 @@
     <item>
       <title>苹果在 Spotify 案中被欧盟罚款 20 亿美元</title>
       <link>https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/</link>
-      <description><![CDATA[布鲁塞尔周一对苹果公司处以 18.4 亿欧元（合 20 亿美元）的罚款，原因是苹果公司通过限制其 App Store 来阻碍音乐流媒体竞争对手的竞争，这是这家 iPhone 制造商首次因违反欧盟规定而受到处罚。]]></description>
+      <description><![CDATA[周一，布鲁塞尔对苹果公司处以 18.4 亿欧元（合 20 亿美元）的罚款，原因是苹果公司通过限制 App Store 来阻碍音乐流媒体竞争对手的竞争，这是这家 iPhone 制造商首次因违反欧盟规定而受到处罚。]]></description>
       <guid>https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 12:08:11 GMT</pubDate>
     </item>
