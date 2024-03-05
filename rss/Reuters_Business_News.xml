@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 05 Mar 2024 09:58:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 10:24:18 GMT</lastBuildDate>
     <item>
       <title>丰田将与松下全资子公司组建电池合资企业</title>
       <link>https://www.reuters.com/markets/deals/toyota-make-battery-venture-with-panasonic-wholly-owned-subsidiary-2024-03-05/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>中国的目标是科技自力更生；誓言向外国投资者开放制造业</title>
       <link>https://www.reuters.com/world/china/china-aims-self-reliance-tech-vows-open-manufacturing-foreign-investors-2024-03-05/</link>
-      <description><![CDATA[中国周二誓言要建立从人工智能到太空等对未来竞争力至关重要的产业，同时开放制造业和一些服务业的准入，以阻止外国投资者撤退。]]></description>
+      <description><![CDATA[中国周二誓言要建设从人工智能到太空等对未来竞争力至关重要的产业，同时开放制造业和一些服务业的准入，以阻止外国投资者撤退。]]></description>
       <guid>https://www.reuters.com/world/china/china-aims-self-reliance-tech-vows-open-manufacturing-foreign-investors-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 06:12:13 GMT</pubDate>
     </item>
@@ -125,7 +125,7 @@
       <pubDate>Mon, 04 Mar 2024 18:40:51 GMT</pubDate>
     </item>
     <item>
-      <title>中国销量跌至一年多来最低水平后，特斯拉股价下跌</title>
+      <title>中国销量跌至一年多来最低水平后，特斯拉股价下滑</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-shares-skid-after-february-china-sales-slump-2024-03-04/</link>
       <description><![CDATA[特斯拉股价周一下跌超过 7%，此前该公司 2 月份在中国的销量下降，该公司在中国的销量可能会在农历新年假期期间面临放缓。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-skid-after-february-china-sales-slump-2024-03-04/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>苹果在 Spotify 案中被欧盟罚款 20 亿美元</title>
       <link>https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/</link>
-      <description><![CDATA[周一，布鲁塞尔对苹果公司处以 18.4 亿欧元（合 20 亿美元）的罚款，原因是苹果公司通过限制 App Store 来阻碍音乐流媒体竞争对手的竞争，这是这家 iPhone 制造商首次因违反欧盟规定而受到处罚。]]></description>
+      <description><![CDATA[布鲁塞尔周一对苹果公司处以 18.4 亿欧元（合 20 亿美元）的罚款，原因是苹果公司通过限制其 App Store 来阻碍音乐流媒体竞争对手的竞争，这是这家 iPhone 制造商首次因违反欧盟规定而受到处罚。]]></description>
       <guid>https://www.reuters.com/technology/apple-hit-with-over-18-bln-euro-eu-antitrust-fine-spotify-case-2024-03-04/</guid>
       <pubDate>Mon, 04 Mar 2024 12:08:11 GMT</pubDate>
     </item>
