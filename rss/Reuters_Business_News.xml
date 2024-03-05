@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 05 Mar 2024 14:05:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 14:24:34 GMT</lastBuildDate>
     <item>
       <title>消息人士称，思科的 Splunk 交易将获得无条件欧盟反垄断批准</title>
       <link>https://www.reuters.com/markets/deals/ciscos-splunk-deal-set-win-unconditional-eu-antitrust-ok-sources-say-2024-03-05/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>开利将以 14.3 亿美元的价格出售工业消防业务</title>
       <link>https://www.reuters.com/markets/deals/carrier-sell-industrial-fire-business-143-bln-deal-2024-03-05/</link>
-      <description><![CDATA[开利周二表示，将以 14.3 亿美元的交易将其工业消防部门出售给 Sentinel Capital Partners，以专注于其主要的供暖和制冷设备业务。]]></description>
+      <description><![CDATA[开利周二表示，将以 14.3 亿美元的交易将其工业消防部门出售给 Sentinel Capital Partners，因为该公司希望专注于其主要的供暖和制冷设备业务。]]></description>
       <guid>https://www.reuters.com/markets/deals/carrier-sell-industrial-fire-business-143-bln-deal-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 12:20:06 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>SpaceX 面临工程师因批评埃隆·马斯克性别歧视而被解雇的听证会</title>
       <link>https://www.reuters.com/sustainability/boards-policy-regulation/spacex-faces-hearing-engineers-fired-after-criticizing-elon-musk-over-sexism-2024-03-05/</link>
-      <description><![CDATA[火箭制造商 SpaceX 将于周二接受美国劳工委员会法官的审讯，指控该公司解雇了 8 名工程师，原因是他们在致公司高管的信中批评首席执行官埃隆·马斯克 (Elon Musk) 并指责他存在性别歧视行为。]]></description>
+      <description><![CDATA[火箭制造商 SpaceX 周二将出庭接受美国劳工委员会法官的审讯，指控该公司解雇了 8 名工程师，原因是他们在致公司高管的信中批评首席执行官埃隆·马斯克 (Elon Musk) 并指责他存在性别歧视行为。]]></description>
       <guid>https://www.reuters.com/sustainability/boards-policy-regulation/spacex-faces-hearing-engineers-fired-after-criticizing-elon-musk-over-sexism-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 11:03:37 GMT</pubDate>
     </item>
