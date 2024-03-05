@@ -1,16 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 05 Mar 2024 14:51:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 15:18:24 GMT</lastBuildDate>
     <item>
-      <title>消息人士称，思科的 Splunk 交易将获得无条件欧盟反垄断批准</title>
-      <link>https://www.reuters.com/markets/deals/ciscos-splunk-deal-set-win-unconditional-eu-antitrust-ok-sources-say-2024-03-05/</link>
-      <description><![CDATA[两位直接知情人士周二表示，思科系统公司将以 280 亿美元收购网络安全公司 Splunk 的交易将获得欧盟反垄断机构的无条件批准。]]></description>
-      <guid>https://www.reuters.com/markets/deals/ciscos-splunk-deal-set-win-unconditional-eu-antitrust-ok-sources-say-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:43:29 GMT</pubDate>
+      <title>Ozempic 肾脏试验数据令人失望，透析公司获利</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/dialysis-firms-gain-ozempic-kidney-trial-data-disappoints-2024-03-05/</link>
+      <description><![CDATA[诺和诺德 (Novo Nordisk) 广受欢迎的糖尿病药物 Ozempic 在对慢性肾病患者进行测试时未达到一些预期，周二早盘交易中透析服务提供商的股价上涨。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/dialysis-firms-gain-ozempic-kidney-trial-data-disappoints-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国医院集团称联合健康集团在黑客攻击后的努力不够</title>
+      <link>https://www.reuters.com/technology/cybersecurity/us-hospitals-group-calls-unitedhealth-efforts-after-hack-inadequate-2024-03-05/</link>
+      <description><![CDATA[美国医院协会 (AHA) 致信联合健康集团 (UnitedHealth Group)，批评该公司在健康保险公司 Change Healthcare 部门遭受网络攻击后恢复其财务系统的努力。]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/us-hospitals-group-calls-unitedhealth-efforts-after-hack-inadequate-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:25:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯储蓄银行：年底前 60% 的企业贷款决策将由人工智能做出</title>
+      <link>https://www.reuters.com/technology/russias-sberbank-ai-make-60-corporate-loan-decisions-by-year-end-2024-03-05/</link>
+      <description><![CDATA[俄罗斯最大银行 Sberbank 首席执行官 German Gref 周二表示，到今年年底，俄罗斯联邦储蓄银行 60% 的企业贷款将使用人工智能 (AI) 做出决策。]]></description>
+      <guid>https://www.reuters.com/technology/russias-sberbank-ai-make-60-corporate-loan-decisions-by-year-end-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:18:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cadence 以 12.4 亿美元收购 BETA CAE Systems</title>
+      <link>https://www.reuters.com/technology/cadence-buy-analysis-platform-beta-cae-systems-124-billion-2024-03-05/</link>
+      <description><![CDATA[Cadence Design Systems 周二表示，将以 12.4 亿美元现金和股票收购 BETA CAE Systems International AG，该公司生产用于分析汽车和喷气发动机设计的软件。]]></description>
+      <guid>https://www.reuters.com/technology/cadence-buy-analysis-platform-beta-cae-systems-124-billion-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:11:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>布蒂吉格：美国誓言在审计后对波音公司进行密切关注</title>
+      <link>https://www.reuters.com/business/aerospace-defense/us-vows-keep-boeing-under-microscope-after-audit-buttigieg-2024-03-05/</link>
+      <description><![CDATA[运输部长皮特·布蒂吉格周二表示，美国监管机构将把波音公司置于“显微镜下”，因为这家飞机制造商正在努力解决质量问题。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/us-vows-keep-boeing-under-microscope-after-audit-buttigieg-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:06:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能初创公司 Lore Machine 正在进行融资谈判，推出视觉讲故事平台</title>
+      <link>https://www.reuters.com/technology/ai-start-up-lore-machine-funding-talks-rolls-out-visual-storytelling-platform-2024-03-05/</link>
+      <description><![CDATA[Lore Machine 是一家人工智能初创公司，允许作家将故事转换为图像、音频和动画，该公司表示正在洽谈融资事宜，并于周二开始向公众推出其视觉讲故事平台。]]></description>
+      <guid>https://www.reuters.com/technology/ai-start-up-lore-machine-funding-talks-rolls-out-visual-storytelling-platform-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 14:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>路透调查显示，在市场紧张的情况下，全球房价将温和攀升</title>
+      <link>https://www.reuters.com/markets/poll-global-home-prices-set-gentle-climb-tight-market-2024-03-05/</link>
+      <description><![CDATA[路透社对住房专家的调查显示，今年和明年大多数主要房地产市场的房价将小幅上涨，他们预计经济适用房短缺的情况将至少持续两到三年。]]></description>
+      <guid>https://www.reuters.com/markets/poll-global-home-prices-set-gentle-climb-tight-market-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 13:30:38 GMT</pubDate>
     </item>
     <item>
       <title>独家：谈判取得进展后，工会结束了星巴克董事会的斗争</title>
@@ -18,27 +60,6 @@
       <description><![CDATA[两位知情人士告诉路透社，在星巴克上周同意努力达成劳工协议后，工会联盟正在结束星巴克的董事会斗争。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/labor-unions-end-starbucks-boardroom-fight-after-progress-bargaining-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 12:36:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>开利将以 14.3 亿美元的价格出售工业消防业务</title>
-      <link>https://www.reuters.com/markets/deals/carrier-sell-industrial-fire-business-143-bln-deal-2024-03-05/</link>
-      <description><![CDATA[开利周二表示，将以 14.3 亿美元的交易将其工业消防部门出售给 Sentinel Capital Partners，因为该公司希望专注于其主要的供暖和制冷设备业务。]]></description>
-      <guid>https://www.reuters.com/markets/deals/carrier-sell-industrial-fire-business-143-bln-deal-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>据英国《金融时报》报道，新加坡淡马锡正在洽谈投资 OpenAI</title>
-      <link>https://www.reuters.com/technology/singapores-temasek-talks-invest-openai-ft-reports-2024-03-05/</link>
-      <description><![CDATA[英国《金融时报》周二援引两位知情人士的话报道称，新加坡淡马锡控股公司正在讨论投资微软支持的人工智能公司 OpenAI。]]></description>
-      <guid>https://www.reuters.com/technology/singapores-temasek-talks-invest-openai-ft-reports-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>信中称特斯拉以左翼激进组织名义起火</title>
-      <link>https://www.reuters.com/world/europe/letter-claims-tesla-fire-name-militant-leftist-group-2024-03-05/</link>
-      <description><![CDATA[周二，一家另类媒体网站上出现了一封信，声称柏林郊外的特斯拉汽车工厂涉嫌以一个自称“火山组织”的极左武装组织的名义纵火袭击。]]></description>
-      <guid>https://www.reuters.com/world/europe/letter-claims-tesla-fire-name-militant-leftist-group-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 12:08:21 GMT</pubDate>
     </item>
     <item>
       <title>摩根士丹利表示，美国银行比欧洲银行更容易受到房地产紧缩的影响</title>
@@ -50,21 +71,14 @@
     <item>
       <title>尽管假日销售下滑，塔吉特盈利仍大幅增长，预计 2024 年销售将复苏</title>
       <link>https://www.reuters.com/business/retail-consumer/targets-earnings-surge-despite-holiday-sales-dip-sees-sales-recovery-2024-2024-03-05/</link>
-      <description><![CDATA[塔吉特周二报告称，由于销售额下降幅度小于预期，假日季度收益较高，并预测年度可比销售额将大大高于华尔街预期，导致其股价在盘前交易中上涨高达 11%。]]></description>
+      <description><![CDATA[塔吉特周二报告称，由于销售额下降幅度小于预期，假日季度收益较高，并预测年度可比销售额将大大高于华尔街预期，导致其股价早盘上涨 10%。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/targets-earnings-surge-despite-holiday-sales-dip-sees-sales-recovery-2024-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 11:46:00 GMT</pubDate>
     </item>
     <item>
-      <title>由于“不那么保守”的预测令投资者失望，GitLab 股价下跌</title>
-      <link>https://www.reuters.com/technology/gitlab-shares-drop-less-conservative-forecast-disappoints-investors-2024-03-05/</link>
-      <description><![CDATA[周二，GitLab 股价下跌 24%，此前这家软件开发商预计 2025 年全年收入和利润低于华尔街预期，理由是经济不确定，支出环境谨慎。]]></description>
-      <guid>https://www.reuters.com/technology/gitlab-shares-drop-less-conservative-forecast-disappoints-investors-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 11:38:27 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：消息人士称，星巴克中东特许经营商 AlShaya 将裁员 2,000 多人</title>
       <link>https://www.reuters.com/business/retail-consumer/starbucks-middle-east-franchisee-alshaya-cut-over-2000-jobs-sources-say-2024-03-05/</link>
-      <description><![CDATA[据知情人士透露，拥有中东星巴克经营权的海湾零售巨头 AlShaya Group 计划裁员 2,000 多人，因为该业务受到与加沙战争有关的消费者抵制的打击。]]></description>
+      <description><![CDATA[知情人士称，拥有中东星巴克经营权的海湾零售巨头 AlShaya Group 计划裁员 2000 多人，因为该业务受到与加沙战争有关的消费者抵制。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/starbucks-middle-east-franchisee-alshaya-cut-over-2000-jobs-sources-say-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 11:35:56 GMT</pubDate>
     </item>
@@ -76,37 +90,23 @@
       <pubDate>Tue, 05 Mar 2024 11:11:31 GMT</pubDate>
     </item>
     <item>
-      <title>通用汽车、麦格纳和 Wipro 联手开发汽车软件市场</title>
-      <link>https://www.reuters.com/technology/gm-magna-wipro-team-up-automotive-software-marketplace-2024-03-05/</link>
-      <description><![CDATA[通用汽车、汽车零部件供应商麦格纳和IT公司Wipro周二表示，他们正在合作创建一个销售平台来购买和销售汽车软件。]]></description>
-      <guid>https://www.reuters.com/technology/gm-magna-wipro-team-up-automotive-software-marketplace-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 11:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克特斯拉赔偿案中60亿美元的律师费合理吗？</title>
-      <link>https://www.reuters.com/legal/could-6-billion-legal-fee-musks-tesla-pay-case-be-reasonable-2024-03-05/</link>
-      <description><![CDATA[成功取消埃隆·马斯克 560 亿美元特斯拉薪酬方案的律师承认，他们提出的 60 亿美元费用要求是“史无前例的”，但从某些角度来看，这可能很便宜。]]></description>
-      <guid>https://www.reuters.com/legal/could-6-billion-legal-fee-musks-tesla-pay-case-be-reasonable-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 11:04:46 GMT</pubDate>
-    </item>
-    <item>
       <title>SpaceX 面临工程师因批评埃隆·马斯克性别歧视而被解雇的听证会</title>
       <link>https://www.reuters.com/sustainability/boards-policy-regulation/spacex-faces-hearing-engineers-fired-after-criticizing-elon-musk-over-sexism-2024-03-05/</link>
-      <description><![CDATA[火箭制造商 SpaceX 周二将出庭接受美国劳工委员会法官的审讯，指控该公司解雇了 8 名工程师，原因是他们在致公司高管的信中批评首席执行官埃隆·马斯克 (Elon Musk) 并指责他存在性别歧视行为。]]></description>
+      <description><![CDATA[火箭制造商 SpaceX 将于周二接受美国劳工委员会法官的审讯，指控该公司解雇了 8 名工程师，原因是他们在致公司高管的信中批评首席执行官埃隆·马斯克 (Elon Musk) 并指责他存在性别歧视行为。]]></description>
       <guid>https://www.reuters.com/sustainability/boards-policy-regulation/spacex-faces-hearing-engineers-fired-after-criticizing-elon-musk-over-sexism-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 11:03:37 GMT</pubDate>
     </item>
     <item>
-      <title>随着大型股在经济数据之前下滑，期货回落</title>
+      <title>经济数据公布前，纳斯达克指数引领华尔街走低</title>
       <link>https://www.reuters.com/markets/us/futures-ease-ahead-economic-data-megacap-growth-stocks-slide-2024-03-05/</link>
-      <description><![CDATA[由于投资者等待一系列经济数据和本周的几项重大事件，包括美联储主席杰罗姆·鲍威尔的露面，美国股指期货周二下跌。]]></description>
+      <description><![CDATA[华尔街主要股指周二开盘走低，其中以科技股为主的纳斯达克指数领跌，原因是大型成长型股票在一系列经济数据和本周几项重大事件（包括美联储主席杰罗姆·鲍威尔露面）之前下跌。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-ahead-economic-data-megacap-growth-stocks-slide-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 10:21:59 GMT</pubDate>
     </item>
     <item>
-      <title>拜登政府限制信用卡滞纳金以打击垃圾费</title>
+      <title>美国限制信用卡滞纳金，审查私募股权医疗保健交易</title>
       <link>https://www.reuters.com/world/us/biden-administration-limit-credit-card-late-fees-move-against-junk-fees-2024-03-05/</link>
-      <description><![CDATA[拜登政府周二公布了最新措施，以应对不断上涨的消费者成本和垃圾费，包括采取跨部门行动打击物价上涨，并限制银行对信用卡逾期付款收取的费用。]]></description>
+      <description><![CDATA[拜登政府周二启动了一项跨部门行动，以打击价格上涨，限制银行对信用卡逾期付款的收费，并审查私募股权在医疗保健交易中的作用。]]></description>
       <guid>https://www.reuters.com/world/us/biden-administration-limit-credit-card-late-fees-move-against-junk-fees-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 10:04:15 GMT</pubDate>
     </item>
@@ -118,25 +118,18 @@
       <pubDate>Tue, 05 Mar 2024 10:03:22 GMT</pubDate>
     </item>
     <item>
-      <title>独家：碧桂园贷款人集团聘请顾问进行债务重组谈判</title>
-      <link>https://www.reuters.com/world/china/country-garden-lenders-group-hires-advisers-debt-revamp-talks-sources-say-2024-03-05/</link>
-      <description><![CDATA[中国碧桂园的一组贷款机构已聘请安理国际律师事务所。三位知情人士表示，奥弗利和德勤担任顾问，这家陷入困境的开发商的债权人正在为可能的债务重组谈判做好准备。]]></description>
-      <guid>https://www.reuters.com/world/china/country-garden-lenders-group-hires-advisers-debt-revamp-talks-sources-say-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 09:24:43 GMT</pubDate>
+      <title>特斯拉德国工厂停工，马斯克称涉嫌纵火案“极其愚蠢”</title>
+      <link>https://www.reuters.com/business/autos-transportation/tesla-plant-germany-without-power-after-suspected-arson-attack-bz-2024-03-05/</link>
+      <description><![CDATA[特斯拉位于柏林附近的欧洲超级工厂于周二早些时候发生了一起“极其愚蠢”的疑似纵火袭击，导致该工厂附近的一座输电塔着火，随后该工厂停止了生产，并陷入断电状态。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/tesla-plant-germany-without-power-after-suspected-arson-attack-bz-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 07:41:39 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利称今年全球并购交易量将增长 50%</title>
-      <link>https://www.reuters.com/markets/deals/global-ma-volumes-rise-by-50-this-year-says-morgan-stanley-2024-03-05/</link>
-      <description><![CDATA[摩根士丹利周一在一份报告中表示，随着对融资成本、通胀和经济衰退的担忧减弱，今年全球交易量将比 2023 年增加 50%。]]></description>
-      <guid>https://www.reuters.com/markets/deals/global-ma-volumes-rise-by-50-this-year-says-morgan-stanley-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 08:55:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音收购 Spirit Aero 可能有助于供应链，但并非包治百病</title>
-      <link>https://www.reuters.com/markets/deals/boeings-spirit-aero-bid-could-help-supply-chain-is-no-cure-all-2024-03-05/</link>
-      <description><![CDATA[分析师表示，波音可能收购 Spirit AeroSystems，并推迟提高 737 MAX 喷气式飞机产量的计划，可能有助于这家飞机制造商管理其供应链，但此举并不能快速解决其质量问题。]]></description>
-      <guid>https://www.reuters.com/markets/deals/boeings-spirit-aero-bid-could-help-supply-chain-is-no-cure-all-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 06:06:20 GMT</pubDate>
+      <title>美国降息押注不断增加推动金价创历史新高</title>
+      <link>https://www.reuters.com/markets/commodities/gold-hovers-near-3-month-peak-eyes-powells-testimony-2024-03-05/</link>
+      <description><![CDATA[周二，金价创下历史新高，进一步突破每盎司 2,100 美元，因美国 6 月份降息的预期不断增加，中东战争带来的避险需求也推动金价上涨。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/gold-hovers-near-3-month-peak-eyes-powells-testimony-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 05:10:14 GMT</pubDate>
     </item>
     <item>
       <title>由于中国计划落空，股市下跌；比特币与纪录调情</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[周二，全球股市跌破近期高点，因为中国为期一周的年度会议开始时缺乏任何大额刺激计划，让投资者感到失望，而比特币仍非常接近历史最高点。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 02:13:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉劳资纠纷引发北欧同情罢工</title>
+      <link>https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/</link>
+      <description><![CDATA[特斯拉与瑞典 IF Metall 之间的纠纷吸引了北欧各地的工会，所有工会都敦促这家电动汽车 (EV) 制造商签署集体谈判协议。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/</guid>
+      <pubDate>Thu, 07 Dec 2023 12:08:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
