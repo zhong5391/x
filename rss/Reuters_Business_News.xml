@@ -1,45 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 05 Mar 2024 21:20:47 GMT</lastBuildDate>
-    <item>
-      <title>纽约起诉预借现金提供商 Yellowstone，索赔 14 亿美元，指控其掠夺性贷款</title>
-      <link>https://www.reuters.com/legal/new-york-sues-cash-advance-provider-yellowstone-14-billion-alleges-predatory-2024-03-05/</link>
-      <description><![CDATA[周二，纽约总检察长利蒂蒂亚·詹姆斯 (Letitia James) 起诉现金垫款提供商黄石资本 (Yellowstone Capital)，要求赔偿 14 亿美元，称该公司开展大规模掠夺性贷款业务，对欺诈性贷款收取“天价”利率。]]></description>
-      <guid>https://www.reuters.com/legal/new-york-sues-cash-advance-provider-yellowstone-14-billion-alleges-predatory-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 20:54:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>伯克希尔旗下的 PacifiCorp 被勒令向房主和夏令营支付 2920 万美元，以应对 2020 年俄勒冈州野火造成的损失</title>
-      <link>https://www.reuters.com/legal/berkshires-pacificorp-ordered-pay-292-million-homeowners-summer-camp-2020-oregon-2024-03-05/</link>
-      <description><![CDATA[俄勒冈州陪审团周二下令伯克希尔哈撒韦公司旗下的太平洋公司向九名房主和一个夏令营支付至少 2920 万美元，这些房主和一个夏令营的财产因 2020 年野火而受损，他们声称，这场野火是由于俄勒冈州公用事业公司未能在大风期间关闭电线而引发的。]]></description>
-      <guid>https://www.reuters.com/legal/berkshires-pacificorp-ordered-pay-292-million-homeowners-summer-camp-2020-oregon-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 20:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>零售商 Cencosud 因阿根廷通货膨胀和消费放缓而利润下降 42%</title>
-      <link>https://www.reuters.com/business/retail-consumer/retailer-cencosud-posts-profit-down-42-argentine-inflation-slow-consumption-2024-03-05/</link>
-      <description><![CDATA[拉丁美洲最大的零售商之一智利 Cencosud 周二报告称，第四季度净利润下降 42%，降至 833 亿比索（9,400 万美元），而收入则缩水 16% 至 3.30 万亿比索。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/retailer-cencosud-posts-profit-down-42-argentine-inflation-slow-consumption-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 20:41:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新的强生滑石粉审判因陪审团悬而未决而结束</title>
-      <link>https://www.reuters.com/legal/latest-jj-talc-trial-ends-with-hung-jury-2024-03-05/</link>
-      <description><![CDATA[关于强生公司声称的最新审判周二，约翰逊的滑石粉产品导致癌症以无效审判告终，佛罗里达州法院陪审团表示无法就裁决达成一致。]]></description>
-      <guid>https://www.reuters.com/legal/latest-jj-talc-trial-ends-with-hung-jury-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 20:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>花旗集团首席执行官预计投资银行业务费用上涨，市场收入疲软</title>
-      <link>https://www.reuters.com/business/finance/citigroup-ceo-sees-rising-fees-investment-banking-weaker-markets-revenue-2024-03-05/</link>
-      <description><![CDATA[花旗集团首席执行官简·弗雷泽 (Jane Fraser) 周二在纽约举行的一次会议上对投资者表示，预计 2023 年第一季度投资银行费用将较 2023 年第四季度小幅上涨。]]></description>
-      <guid>https://www.reuters.com/business/finance/citigroup-ceo-sees-rising-fees-investment-banking-weaker-markets-revenue-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 20:31:14 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 05 Mar 2024 21:34:19 GMT</lastBuildDate>
     <item>
       <title>捷蓝航空合并失败后精神航空面临艰难道路</title>
       <link>https://www.reuters.com/markets/deals/spirit-airlines-faces-tough-road-after-jetblue-merger-falls-through-2024-03-05/</link>
@@ -57,23 +22,51 @@
     <item>
       <title>机构投资者可能帮助比特币维持新高度</title>
       <link>https://www.reuters.com/technology/institutional-investors-may-help-bitcoin-sustain-new-heights-2024-03-05/</link>
-      <description><![CDATA[专家表示，随着传统机构将资金投入比特币，这种加密货币最近飙升至历史新高的势头可能会比 2021 年更长。]]></description>
+      <description><![CDATA[专家表示，随着传统机构将资金投入比特币，这种加密货币最新的飙升至历史新高的势头可能会比 2021 年更长。]]></description>
       <guid>https://www.reuters.com/technology/institutional-investors-may-help-bitcoin-sustain-new-heights-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 17:41:21 GMT</pubDate>
     </item>
     <item>
+      <title>“火山组织”声称对特斯拉德国工厂附近纵火案负责</title>
+      <link>https://www.reuters.com/business/autos-transportation/volcano-group-claiming-arson-near-teslas-german-plant-2024-03-05/</link>
+      <description><![CDATA[一个自称“Vulkangruppe Tesla Abschalten”或“关闭特斯拉的火山组织”的极左激进组织声称对周二柏林郊外特斯拉汽车工厂附近的一座电力塔涉嫌纵火袭击负责。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/volcano-group-claiming-arson-near-teslas-german-plant-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 17:39:56 GMT</pubDate>
+    </item>
+    <item>
       <title>立法者寻求迫使字节跳动剥离 TikTok，否则将面临美国禁令</title>
       <link>https://www.reuters.com/technology/lawmakers-seek-force-bytedance-divest-tiktok-or-face-us-ban-2024-03-05/</link>
-      <description><![CDATA[美国两党议员小组周二提出立法，给予中国字节跳动大约六个月的时间剥离流行的短视频应用 TikTok，否则将面临美国禁令。]]></description>
+      <description><![CDATA[美国两党议员小组周二提出立法，将给中国字节跳动大约六个月的时间剥离流行的短视频应用 TikTok，否则将面临美国禁令。]]></description>
       <guid>https://www.reuters.com/technology/lawmakers-seek-force-bytedance-divest-tiktok-or-face-us-ban-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 17:14:08 GMT</pubDate>
     </item>
     <item>
-      <title>美国领先银行退出 ESG 项目融资小组</title>
-      <link>https://www.reuters.com/business/finance/jpmorgan-citi-wells-boa-are-no-longer-signatories-equator-principles-website-2024-03-05/</link>
-      <description><![CDATA[其网站周二显示，美国最大的四家银行不再签署赤道原则，这是评估项目相关融资环境和社会风险的行业基准。]]></description>
-      <guid>https://www.reuters.com/business/finance/jpmorgan-citi-wells-boa-are-no-longer-signatories-equator-principles-website-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 16:11:11 GMT</pubDate>
+      <title>美国财政部放宽新冠疫情援助规定以增加经济适用房供应</title>
+      <link>https://www.reuters.com/markets/us/us-treasury-ease-rules-covid-aid-boost-affordable-housing-supply-2024-03-05/</link>
+      <description><![CDATA[美国财政部周二宣布了新措施，通过向州和地方政府释放未使用的 COVID-19 援助资金来支持更广泛的住房项目，以增加经济适用房的供应。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-treasury-ease-rules-covid-aid-boost-affordable-housing-supply-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 16:44:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tether 1000 亿美元引发稳定币稳定性担忧</title>
+      <link>https://www.reuters.com/technology/tethers-100-bln-stokes-stablecoin-stability-concerns-2024-03-05/</link>
+      <description><![CDATA[随着 Tether 本周流通量突破 1000 亿美元，全球最大稳定币的迅速崛起凸显了人们对更广泛金融市场潜在风险的担忧。]]></description>
+      <guid>https://www.reuters.com/technology/tethers-100-bln-stokes-stablecoin-stability-concerns-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 16:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>黄金在美国利率关注的动力浪潮中创下历史新高</title>
+      <link>https://www.reuters.com/markets/commodities/gold-carried-record-high-wave-momentum-with-focus-us-rates-2024-03-05/</link>
+      <description><![CDATA[黄金周二创下历史新高，对美国货币宽松的预期不断增强，而地缘政治风险持续提振动能驱动型基金的活动，这可能进一步推动金价上涨。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/gold-carried-record-high-wave-momentum-with-focus-us-rates-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 16:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国法院在非洲童工问题上支持苹果、特斯拉和其他科技公司</title>
+      <link>https://www.reuters.com/legal/us-appeals-court-dismisses-child-labor-case-against-tech-companies-2024-03-05/</link>
+      <description><![CDATA[联邦上诉法院周二拒绝追究五家大型科技公司的责任，因为它们涉嫌支持在刚果民主共和国的钴矿开采作业中使用童工。]]></description>
+      <guid>https://www.reuters.com/legal/us-appeals-court-dismisses-child-labor-case-against-tech-companies-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 15:45:51 GMT</pubDate>
     </item>
     <item>
       <title>Meta 的 Facebook、Instagram 在全球宕机后恢复正常</title>
@@ -113,21 +106,28 @@
     <item>
       <title>SpaceX 面临工程师因批评埃隆·马斯克性别歧视而被解雇的听证会</title>
       <link>https://www.reuters.com/sustainability/boards-policy-regulation/spacex-faces-hearing-engineers-fired-after-criticizing-elon-musk-over-sexism-2024-03-05/</link>
-      <description><![CDATA[美国劳工委员会法官周二就一桩案件举行听证会，指控火箭制造商 SpaceX 非法解雇 8 名工程师，因为他们批评首席执行官埃隆·马斯克 (Elon Musk)，并在致公司高管的信中指责他存在性别歧视行为。]]></description>
+      <description><![CDATA[美国劳工委员会法官周二就一桩案件举行听证会，指控火箭制造商 SpaceX 非法解雇 8 名工程师，因为他们批评首席执行官埃隆·马斯克 (Elon Musk)，并在致公司高管的信中指控他存在性别歧视行为。]]></description>
       <guid>https://www.reuters.com/sustainability/boards-policy-regulation/spacex-faces-hearing-engineers-fired-after-criticizing-elon-musk-over-sexism-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 11:03:37 GMT</pubDate>
     </item>
     <item>
-      <title>随着大型股和筹码下滑，以科技股为主的纳斯达克指数引领华尔街走低</title>
+      <title>随着大型股下滑，以科技股为主的纳斯达克指数引领华尔街走低</title>
       <link>https://www.reuters.com/markets/us/futures-ease-ahead-economic-data-megacap-growth-stocks-slide-2024-03-05/</link>
-      <description><![CDATA[华尔街股市周二下跌，在本周公布大量经济数据和美联储主席杰罗姆·鲍威尔发表讲话之前，苹果公司和芯片行业等大型成长股的疲软给纳斯达克指数带来压力。]]></description>
+      <description><![CDATA[华尔街周二下跌，苹果和特斯拉等大型成长型股票疲软，令纳斯达克指数承压，而投资者评估了一系列经济数据，并等待美联储主席杰罗姆·鲍威尔的讲话。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-ahead-economic-data-megacap-growth-stocks-slide-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 10:21:59 GMT</pubDate>
     </item>
     <item>
+      <title>拜登将信用卡滞纳金上限限制在 8 美元，并调查美国医疗保健收购案</title>
+      <link>https://www.reuters.com/world/us/biden-administration-limit-credit-card-late-fees-move-against-junk-fees-2024-03-05/</link>
+      <description><![CDATA[拜登政府周二表示，将限制银行对信用卡逾期付款的收费，并调查私募股权行业是否导致美国人的医疗成本更高，这是针对高消费成本的最新举措。]]></description>
+      <guid>https://www.reuters.com/world/us/biden-administration-limit-credit-card-late-fees-move-against-junk-fees-2024-03-05/</guid>
+      <pubDate>Tue, 05 Mar 2024 10:04:15 GMT</pubDate>
+    </item>
+    <item>
       <title>特斯拉德国工厂停工，马斯克称涉嫌纵火案“极其愚蠢”</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-plant-germany-without-power-after-suspected-arson-attack-bz-2024-03-05/</link>
-      <description><![CDATA[特斯拉位于柏林附近的欧洲超级工厂已暂停工作，直至另行通知，周二，特斯拉首席执行官埃隆·马斯克(Elon Musk)称附近发生了一起“极其愚蠢”的疑似纵火袭击，导致该工厂断电。]]></description>
+      <description><![CDATA[特斯拉位于柏林附近的欧洲超级工厂已暂停工作，直至另行通知，周二，特斯拉首席执行官埃隆·马斯克称附近发生了一起“极其愚蠢”的疑似纵火袭击事件，导致工厂断电。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-plant-germany-without-power-after-suspected-arson-attack-bz-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 07:41:39 GMT</pubDate>
     </item>
