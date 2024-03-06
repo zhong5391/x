@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 06 Mar 2024 19:28:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 19:41:34 GMT</lastBuildDate>
     <item>
       <title>摩根士丹利因电动汽车需求疲软而下调价格目标后特斯拉股价下跌</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-shares-fall-after-morgan-stanley-cuts-price-target-weakening-ev-demand-2024-03-06/</link>
-      <description><![CDATA[周三，特斯拉股价下跌约 2%，此前摩根士丹利 (Morgan Stanley) 一位广受关注的分析师下调了该股的目标价，称尽管大幅降价，但包括中国在内的主要市场的电动汽车需求仍在继续疲软。]]></description>
+      <description><![CDATA[特斯拉股价周三下跌约 2%，此前摩根士丹利一位广受关注的分析师下调了该股的目标价，称尽管大幅降价，但包括中国在内的主要市场的电动汽车需求仍在继续疲软。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-fall-after-morgan-stanley-cuts-price-target-weakening-ev-demand-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 17:43:32 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>美国各州敦促 Meta 打击 Facebook、Instagram 账户劫持行为</title>
       <link>https://www.reuters.com/technology/meta-urged-by-us-states-combat-facebook-instagram-account-hijackings-2024-03-06/</link>
-      <description><![CDATA[美国四十个州和华盛顿特区呼吁 Meta Platforms 打击劫持 Facebook 和 Instagram 账户的诈骗者，以解决账户被盗事件“急剧”激增的问题。]]></description>
+      <description><![CDATA[美国四十个州和华盛顿特区呼吁 Meta Platforms 打击劫持 Facebook 和 Instagram 账户的诈骗者，以应对账户接管行为“急剧”激增的问题。]]></description>
       <guid>https://www.reuters.com/technology/meta-urged-by-us-states-combat-facebook-instagram-account-hijackings-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 17:08:38 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>独家：美国监管机构有望大幅减轻巴塞尔资本负担</title>
       <link>https://www.reuters.com/markets/us/us-regulators-expected-significantly-reduce-basel-capital-burden-sources-say-2024-03-06/</link>
-      <description><![CDATA[八名与监管机构和监管官员定期接触的行业高管表示，美国监管机构预计将大幅减少银行根据拟议规则必须持有的额外资本，该规则已遭到华尔街的强烈反对。]]></description>
+      <description><![CDATA[八名与监管机构和监管官员定期接触的行业高管表示，预计美国监管机构将大幅减少银行根据拟议规则必须持有的额外资本，该规则已遭到华尔街的强烈反对。]]></description>
       <guid>https://www.reuters.com/markets/us/us-regulators-expected-significantly-reduce-basel-capital-burden-sources-say-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 11:11:22 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>美联储鲍威尔仍预计降息，但通胀进展“不确定”</title>
       <link>https://www.reuters.com/markets/us/feds-powell-set-election-year-stage-with-testimony-rate-cuts-inflation-2024-03-06/</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔周三向国会议员保证，他们将在紧张的总统选举年面对厌倦通胀的选民，即将做出的降息时间和速度的决定将完全基于经济数据。]]></description>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔周三向国会议员保证，即将到来的降息时间和降息速度的决定将完全基于经济数据，国会议员将在紧张的总统选举年面对厌倦通胀的选民。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-powell-set-election-year-stage-with-testimony-rate-cuts-inflation-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 06:06:00 GMT</pubDate>
     </item>
