@@ -1,23 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 06 Mar 2024 10:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 10:28:20 GMT</lastBuildDate>
+    <item>
+      <title>阿提哈德航空首席执行官表示，预计 2022 年和 2023 年将实现盈利，并正在为可能的 IPO 做好准备</title>
+      <link>https://www.reuters.com/business/aerospace-defense/etihad-posts-2022-2023-profits-is-readying-possible-ipo-ceo-says-2024-03-06/</link>
+      <description><![CDATA[阿布扎比阿提哈德航空首席执行官安东尼奥·内维斯表示，阿提哈德航空已恢复盈利，并正在改善其透明度、治理和资产负债表，以便为首次公开募股做好准备，如果其主权财富基金所有者决定将其上市。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/etihad-posts-2022-2023-profits-is-readying-possible-ipo-ceo-says-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 09:40:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>-全球棕榈油供应萎缩，生物柴油需求强劲推高价格</title>
+      <link>https://www.reuters.com/markets/commodities/shrinking-global-palm-oil-supplies-strong-biodiesel-demand-boost-prices-2024-03-06/</link>
+      <description><![CDATA[全球棕榈油产量停滞和生物柴油指令提高可能会抑制今年全球使用最广泛的植物油的供应，为价格进一步上涨创造条件，目前棕榈油价格已创下七个月以来的最高水平。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/shrinking-global-palm-oil-supplies-strong-biodiesel-demand-boost-prices-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 09:08:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：挪威财富基金推动新兴市场公司董事会增加更多女性成员</title>
+      <link>https://www.reuters.com/sustainability/society-equity/norways-wealth-fund-pushes-more-women-emerging-market-company-boards-2024-03-06/</link>
+      <description><![CDATA[挪威1.6万亿美元的主权财富基金是全球最大的主权财富基金，高级官员告诉路透社，该基金将呼吁其投资的新兴市场公司任命更多女性进入董事会，这首次使该政策成为全球性的。]]></description>
+      <guid>https://www.reuters.com/sustainability/society-equity/norways-wealth-fund-pushes-more-women-emerging-market-company-boards-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 09:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行行长上田表示，亚洲的快速数字化可能带来新的金融风险</title>
+      <link>https://www.reuters.com/markets/asia/asias-rapid-digitalisation-may-pose-new-financial-risks-says-boj-chief-ueda-2024-03-06/</link>
+      <description><![CDATA[日本央行(BOJ)行长上田一夫周三表示，亚洲金融的快速数字化可能会给金融体系的稳定带来新的风险，并强调金融创新的收益和成本之间需要取得适当的平衡。]]></description>
+      <guid>https://www.reuters.com/markets/asia/asias-rapid-digitalisation-may-pose-new-financial-risks-says-boj-chief-ueda-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 08:57:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>荷兰政府争先恐后地将ASML留在荷兰——报纸</title>
+      <link>https://www.reuters.com/technology/dutch-government-scrambling-keep-asml-netherlands-newspaper-2024-03-06/</link>
+      <description><![CDATA[据《电讯报》周三报道，荷兰政府发起了一项运动，以确保该国最大的公司、半导体设备制造商 ASML 不会因反移民政策而将业务转移到另一个国家。]]></description>
+      <guid>https://www.reuters.com/technology/dutch-government-scrambling-keep-asml-netherlands-newspaper-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 08:52:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚企业监管机构要求普通保险公司改进索赔实践</title>
+      <link>https://www.reuters.com/business/finance/australias-corporate-regulator-asks-general-insurers-improve-claim-practices-2024-03-06/</link>
+      <description><![CDATA[澳大利亚企业监管机构周三表示，已向该国的普通保险公司发出一封信，要求改进保险索赔处理做法，特别是应对恶劣天气事件。]]></description>
+      <guid>https://www.reuters.com/business/finance/australias-corporate-regulator-asks-general-insurers-improve-claim-practices-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 08:23:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称，摩根士丹利因市场暴跌而削减了9%的中国基金部门员工</title>
+      <link>https://www.reuters.com/business/finance/morgan-stanley-cuts-9-china-fund-unit-staff-amid-market-rout-sources-say-2024-03-06/</link>
+      <description><![CDATA[两位直接了解情况的人士表示，摩根士丹利已解雇其在中国的资产管理业务部门约 9% 的员工，因为中国不断上涨的股市削弱了其 3.8 万亿美元基金部门的前景。]]></description>
+      <guid>https://www.reuters.com/business/finance/morgan-stanley-cuts-9-china-fund-unit-staff-amid-market-rout-sources-say-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 08:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>国家规划师称中国2024年5%的增长目标是可以实现的</title>
+      <link>https://www.reuters.com/world/china/china-step-up-economic-policy-adjustments-2024-state-planner-says-2024-03-06/</link>
+      <description><![CDATA[国家计委主席周三表示，中国2024年5%左右的增长目标符合中国经济潜力，同时宣布计划加大政策调整和发行特别国债的力度。]]></description>
+      <guid>https://www.reuters.com/world/china/china-step-up-economic-policy-adjustments-2024-state-planner-says-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 08:00:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>激烈的美国竞争引发审查，888 终止与《体育画报》的交易</title>
+      <link>https://www.reuters.com/world/uk/british-gambling-group-888-explores-selling-exiting-some-us-operations-2024-03-06/</link>
+      <description><![CDATA[英国博彩公司 888 Holdings 周三表示，由于竞争激烈且利润率低，该公司已终止与《体育画报》的交易，并正在考虑出售或退出其直接面向消费者的美国业务。]]></description>
+      <guid>https://www.reuters.com/world/uk/british-gambling-group-888-explores-selling-exiting-some-us-operations-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 07:35:50 GMT</pubDate>
+    </item>
     <item>
       <title>比特币在突破新纪录后重新上涨</title>
       <link>https://www.reuters.com/markets/currencies/bitcoin-back-rise-after-vaulting-new-record-2024-03-06/</link>
-      <description><![CDATA[比特币从不到 24 小时前创下的历史高点短暂回落后，周三再次反弹，因为多头几乎没有迹象表明他们会撤回对这一全球最大加密货币的押注。]]></description>
+      <description><![CDATA[比特币在从不到 24 小时前创下的历史高点短暂回落后，周三再次反弹，因为多头几乎没有表现出放弃对全球最大加密货币的押注的迹象。]]></description>
       <guid>https://www.reuters.com/markets/currencies/bitcoin-back-rise-after-vaulting-new-record-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 07:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，凯雷以 8 亿美元的价格出售日本化妆品供应商 Tokiwa</title>
-      <link>https://www.reuters.com/markets/deals/carlyle-launches-sale-japanese-cosmetics-supplier-tokiwa-800-million-deal-2024-03-06/</link>
-      <description><![CDATA[据三位知情人士透露，私募股权公司凯雷集团已开始出售日本化妆品供应商 Tokiwa Corp 的交易，该公司的估值可能达到 8 亿美元。]]></description>
-      <guid>https://www.reuters.com/markets/deals/carlyle-launches-sale-japanese-cosmetics-supplier-tokiwa-800-million-deal-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 07:01:17 GMT</pubDate>
+      <title>总统称斯里兰卡承诺在2027年至2042年期间偿还债务</title>
+      <link>https://www.reuters.com/world/asia-pacific/sri-lanka-committed-repaying-debt-within-2027-2042-schedule-president-says-2024-03-06/</link>
+      <description><![CDATA[斯里兰卡总统拉尼尔·维克勒马辛哈周三表示，斯里兰卡致力于在2027年至2042年的时间表内偿还债务，并补充说，成功的债务重组谈判将使年度外债支付额降至GDP的4%。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/sri-lanka-committed-repaying-debt-within-2027-2042-schedule-president-says-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 06:26:11 GMT</pubDate>
     </item>
     <item>
       <title>中国能否同时保持增长和“转型”经济？</title>
@@ -43,16 +106,9 @@
     <item>
       <title>美联储鲍威尔将在大选年就降息和通胀问题作证</title>
       <link>https://www.reuters.com/markets/us/feds-powell-set-election-year-stage-with-testimony-rate-cuts-inflation-2024-03-06/</link>
-      <description><![CDATA[随着从股票到加密货币再到房屋等资产价值不断走高，通货膨胀仍然被认为过高，以及对“繁荣”的担忧逐渐进入对话，美联储主席杰罗姆·鲍威尔周三将向美国立法者通报经济和降息前景的最新情况。充满政治色彩的选举年。]]></description>
+      <description><![CDATA[随着从股票到加密货币再到房屋等资产价值不断走高，通胀仍然被认为过高，以及对“繁荣”的担忧逐渐进入对话，美联储主席杰罗姆·鲍威尔周三将向美国立法者通报经济和降息前景的最新情况。充满政治色彩的选举年。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-powell-set-election-year-stage-with-testimony-rate-cuts-inflation-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 06:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲银行间同业拆借利率 (Euribor) 改革将于五月启动以吸引更多银行</title>
-      <link>https://www.reuters.com/business/finance/euribor-overhaul-attract-more-banks-starts-may-2024-03-06/</link>
-      <description><![CDATA[欧洲银行间同业拆借利率(Euribor)银行间贷款利率的管理人员周三表示，他们将从5月起推出计划中的调整，此举可能意味着更多银行将为价值数万亿欧元的抵押贷款和汽车贷款等产品中使用的基准做出贡献。]]></description>
-      <guid>https://www.reuters.com/business/finance/euribor-overhaul-attract-more-banks-starts-may-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 06:04:26 GMT</pubDate>
     </item>
     <item>
       <title>欧元重返全球央行舞台</title>
@@ -62,30 +118,9 @@
       <pubDate>Wed, 06 Mar 2024 06:03:12 GMT</pubDate>
     </item>
     <item>
-      <title>路透调查显示，由于工厂陷入困境，中国一月至二月出口可能放缓</title>
-      <link>https://www.reuters.com/world/china/chinas-exports-likely-slowed-jan-feb-factories-struggle-2024-03-06/</link>
-      <description><![CDATA[路透周三的一项调查显示，中国一月至二月的出口增长可能放缓，这表明制造商仍在为海外买家而苦苦挣扎，并需要国内进一步的政策支持。]]></description>
-      <guid>https://www.reuters.com/world/china/chinas-exports-likely-slowed-jan-feb-factories-struggle-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 05:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>早间买盘：黄金闪闪发光，交易员将目光投向鲍威尔</title>
-      <link>https://www.reuters.com/markets/global-markets-view-europe-2024-03-06/</link>
-      <description><![CDATA[汤姆·威斯布鲁克 (Tom Westbrook) 对欧洲和全球市场未来一天的展望]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-view-europe-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 05:34:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告称半导体是荷兰初创企业的亮点</title>
-      <link>https://www.reuters.com/technology/semiconductors-bright-spot-dutch-startup-landscape-report-says-2024-03-06/</link>
-      <description><![CDATA[荷兰经济事务部为加强荷兰科技创业而成立的组织在周三的年度审查中表示，荷兰半导体行业初创企业正在吸引越来越多的资金。]]></description>
-      <guid>https://www.reuters.com/technology/semiconductors-bright-spot-dutch-startup-landscape-report-says-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 05:04:41 GMT</pubDate>
-    </item>
-    <item>
       <title>亚洲股市上涨；黄金、比特币创历史新高后漂移</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-06/</link>
-      <description><![CDATA[亚洲股市周三上涨，交易员在为期一周的年度议会会议期间等待北京方面的政策线索，之前缺乏刺激措施令一些投资者感到失望，而黄金和比特币在触及历史高点后回落。]]></description>
+      <description><![CDATA[亚洲股市周三上涨，交易员在为期一周的年度议会会议期间等待北京方面的政策线索，之前缺乏刺激措施令一些投资者感到失望，而黄金和比特币在触及历史新高后回落。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 02:37:03 GMT</pubDate>
     </item>
@@ -97,32 +132,11 @@
       <pubDate>Wed, 06 Mar 2024 02:34:21 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克 (Elon Musk) 的 X 逃脱了大部分有关歌曲版权的诉讼</title>
-      <link>https://www.reuters.com/legal/elon-musks-x-escapes-most-lawsuit-over-copyrighted-songs-2024-03-05/</link>
-      <description><![CDATA[周二，埃隆·马斯克 (Elon Musk) 旗下的社交媒体平台 X 赢得了驳回 17 家音乐出版商提起的大部分诉讼，这些出版商指控 X 允许人们在未经许可的情况下在网上发布音乐，侵犯了近 1,700 首歌曲的版权。]]></description>
-      <guid>https://www.reuters.com/legal/elon-musks-x-escapes-most-lawsuit-over-copyrighted-songs-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 23:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国安全委员会主席表示，需要更多资金用于铁路、航空安全调查</title>
-      <link>https://www.reuters.com/business/aerospace-defense/us-safety-board-needs-more-funding-rail-air-safety-probes-chair-says-2024-03-05/</link>
-      <description><![CDATA[美国国家运输安全委员会主席将于周三告诉参议院商务委员会，该机构需要更多资金，并警告削减资金可能会使对航空和铁路事故的调查面临风险。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/us-safety-board-needs-more-funding-rail-air-safety-probes-chair-says-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 23:29:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国贸易团体起诉拜登关于“零工”工作和合同的规定</title>
-      <link>https://www.reuters.com/world/us/us-trade-groups-sue-over-biden-rule-gig-work-contracting-2024-03-05/</link>
-      <description><![CDATA[美国主要商业团体周二提起最新诉讼，挑战拜登政府的一项规定，该规定将使公司更难将某些工人视为独立承包商而不是雇员。]]></description>
-      <guid>https://www.reuters.com/world/us/us-trade-groups-sue-over-biden-rule-gig-work-contracting-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 21:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司与机械师周五开始高风险合同谈判</title>
-      <link>https://www.reuters.com/business/aerospace-defense/boeing-machinists-kick-off-high-stakes-contract-talks-friday-2024-03-05/</link>
-      <description><![CDATA[波音公司及其最大的工会周五公开谈判，寻求 16 年来的第一份新合同，这家美国飞机制造商正在努力应对持续的 737 MAX 安全危机，并且其他经济部门的工人也取得了巨大的进步。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/boeing-machinists-kick-off-high-stakes-contract-talks-friday-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 18:03:31 GMT</pubDate>
+      <title>欧佩克+减产压倒中国和美国需求担忧，油价上涨</title>
+      <link>https://www.reuters.com/business/energy/oil-fell-slightly-china-growth-worries-clash-with-output-cuts-2024-03-06/</link>
+      <description><![CDATA[油价在连续四天下跌后于周三小幅反弹，原因是主要产油国减产带来的供应紧张迹象盖过了全球两大原油消费国中国和美国的需求担忧。]]></description>
+      <guid>https://www.reuters.com/business/energy/oil-fell-slightly-china-growth-worries-clash-with-output-cuts-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 01:57:19 GMT</pubDate>
     </item>
     <item>
       <title>美国议员敦促字节跳动剥离 TikTok，否则将面临禁令</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[美国两党议员小组周二提出立法，给予中国字节跳动大约六个月的时间剥离流行的短视频应用程序 TikTok，否则将面临美国禁令，试图解决对其中国所有权的国家安全担忧。]]></description>
       <guid>https://www.reuters.com/technology/lawmakers-seek-force-bytedance-divest-tiktok-or-face-us-ban-2024-03-05/</guid>
       <pubDate>Tue, 05 Mar 2024 17:14:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国2月份服务业放缓；通胀放缓</title>
-      <link>https://www.reuters.com/markets/us/us-services-sector-cools-february-ism-survey-shows-2024-03-05/</link>
-      <description><![CDATA[由于就业下降，美国服务业 2 月份增长略有放缓，但新订单指标升至六个月高位，表明该行业的潜在实力。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-services-sector-cools-february-ism-survey-shows-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 15:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币飙升至历史新高，然后暴跌</title>
-      <link>https://www.reuters.com/technology/bitcoin-surges-past-68000-sight-record-high-2024-03-05/</link>
-      <description><![CDATA[在投资者将资金投入美国现货交易所交易加密产品以及全球利率可能下降的前景的推动下，比特币周二触及历史新高。]]></description>
-      <guid>https://www.reuters.com/technology/bitcoin-surges-past-68000-sight-record-high-2024-03-05/</guid>
-      <pubDate>Tue, 05 Mar 2024 02:34:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
