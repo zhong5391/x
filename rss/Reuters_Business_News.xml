@@ -1,35 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 06 Mar 2024 23:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 23:30:34 GMT</lastBuildDate>
     <item>
-      <title>早盘买盘：抛售，什么抛售？市场回到最佳状态</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-06/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 21:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：内部文件显示，Panera 在 IPO 前放宽了动物福利和成分标准</title>
-      <link>https://www.reuters.com/business/panera-loosens-animal-welfare-ingredients-standards-ahead-ipo-internal-documents-2024-03-06/</link>
-      <description><![CDATA[路透社看到的公司内部文件显示，快餐连锁店 Panera Bread 在计划首次公开募股之前放宽了动物福利和食品中所谓清洁成分的标准。]]></description>
-      <guid>https://www.reuters.com/business/panera-loosens-animal-welfare-ingredients-standards-ahead-ipo-internal-documents-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 20:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储调查显示美国经济活动近几周小幅增长</title>
-      <link>https://www.reuters.com/markets/us/us-economic-activity-increased-slightly-recent-weeks-fed-survey-shows-2024-03-06/</link>
-      <description><![CDATA[美联储周三的一项调查显示，从一月初到二月下旬，美国经济活动有所增加，而通胀和就业市场就其进一步降温的速度发出了相互矛盾的信号，这突显了央行行长们在寻求帮助时面临的复杂局面。充分缓解价格压力。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-economic-activity-increased-slightly-recent-weeks-fed-survey-shows-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 20:50:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国银行与竞争对手一起预测投资银行业务收入将增长</title>
+      <title>美银预计第一季度投资银行业务收入将增长10%至15%</title>
       <link>https://www.reuters.com/business/finance/bofa-expects-investment-banking-revenue-climb-10-15-1q-2024-03-06/</link>
-      <description><![CDATA[美国银行预计第一季度投资银行收入将同比增长10%至15%，加入最近变得更加乐观的竞争对手行列。]]></description>
+      <description><![CDATA[美国银行首席财务官周三表示，预计第一季度投资银行业务收入将同比增长10%至15%，而净利息收入可能达到预测范围的上限。]]></description>
       <guid>https://www.reuters.com/business/finance/bofa-expects-investment-banking-revenue-climb-10-15-1q-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 19:44:13 GMT</pubDate>
     </item>
@@ -71,7 +50,7 @@
     <item>
       <title>摩根士丹利因电动汽车需求疲软而下调价格目标后特斯拉股价下跌</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-shares-fall-after-morgan-stanley-cuts-price-target-weakening-ev-demand-2024-03-06/</link>
-      <description><![CDATA[特斯拉股价周三连续第三天下跌，此前摩根士丹利一位备受关注的分析师下调了该股的目标价，称尽管大幅降价，但包括中国在内的主要市场的电动汽车需求仍在继续疲软。]]></description>
+      <description><![CDATA[周三，特斯拉股价连续第三天下跌，此前摩根士丹利一位备受关注的分析师下调了该股的目标价，称尽管大幅降价，但包括中国在内的主要市场的电动汽车需求仍在继续疲软。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-fall-after-morgan-stanley-cuts-price-target-weakening-ev-demand-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 17:43:32 GMT</pubDate>
     </item>
@@ -83,11 +62,25 @@
       <pubDate>Wed, 06 Mar 2024 17:38:25 GMT</pubDate>
     </item>
     <item>
+      <title>美联储鲍威尔：不要指望软着陆胜利</title>
+      <link>https://www.reuters.com/markets/us/feds-powell-dont-expect-soft-landing-victory-lap-2024-03-06/</link>
+      <description><![CDATA[软着陆似乎不会被电视转播。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-powell-dont-expect-soft-landing-victory-lap-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 17:34:03 GMT</pubDate>
+    </item>
+    <item>
       <title>陷入困境的贷款机构 NYCB 从包括姆努钦的公司在内的一批人那里获得了 10 亿美元的投资</title>
       <link>https://www.reuters.com/markets/us/embattled-lender-nycb-seeks-cash-infusion-wsj-reports-2024-03-06/</link>
-      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括前美国财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
+      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括美国前财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
       <guid>https://www.reuters.com/markets/us/embattled-lender-nycb-seeks-cash-infusion-wsj-reports-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 17:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国各州敦促 Meta 打击 Facebook、Instagram 账户劫持行为</title>
+      <link>https://www.reuters.com/technology/meta-urged-by-us-states-combat-facebook-instagram-account-hijackings-2024-03-06/</link>
+      <description><![CDATA[美国四十个州和华盛顿特区呼吁 Meta Platforms 打击劫持 Facebook 和 Instagram 账户的诈骗者，以解决账户被盗事件“急剧”激增的问题。]]></description>
+      <guid>https://www.reuters.com/technology/meta-urged-by-us-states-combat-facebook-instagram-account-hijackings-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 17:08:38 GMT</pubDate>
     </item>
     <item>
       <title>解释者：为什么零售业对私募股权公司来说失去了光芒</title>
@@ -95,6 +88,13 @@
       <description><![CDATA[私募股权公司在美国主要零售商、服装和配饰以及连锁餐厅上投入了数十亿美元，重塑了 20 世纪 90 年代至 2010 年代初的消费行业。但在过去 10 年里，包括凯雷 (Carlyle) 和华平投资 (Warburg Pincus) 在内的大公司集体撤回了对该行业的投资，反映出消费者品味的变化以及来自企业买家的竞争。]]></description>
       <guid>https://www.reuters.com/markets/us/why-retail-has-lost-its-sparkle-private-equity-firms-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 16:01:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lyft财报错误引发股东诉讼</title>
+      <link>https://www.reuters.com/legal/lyft-earnings-report-error-prompts-shareholder-lawsuit-2024-03-06/</link>
+      <description><![CDATA[Lyft 因在最近的财报发布中关于关键利润指标的错误而被股东起诉证券欺诈，导致该公司的股价大幅上涨，然后下跌。]]></description>
+      <guid>https://www.reuters.com/legal/lyft-earnings-report-error-prompts-shareholder-lawsuit-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 15:09:02 GMT</pubDate>
     </item>
     <item>
       <title>英国计划从2026年起对电子烟征收新税</title>
@@ -111,23 +111,30 @@
       <pubDate>Wed, 06 Mar 2024 13:28:44 GMT</pubDate>
     </item>
     <item>
+      <title>AI芯片制造补贴让美国官员面临艰难选择</title>
+      <link>https://www.reuters.com/world/us/us-officials-face-tough-choices-subsidizing-ai-chip-manufacturing-2024-03-06/</link>
+      <description><![CDATA[美国官员已拨出近300亿美元的补贴用于先进半导体制造，旨在将尖端人工智能芯片的开发和制造带到美国本土。]]></description>
+      <guid>https://www.reuters.com/world/us/us-officials-face-tough-choices-subsidizing-ai-chip-manufacturing-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 12:04:08 GMT</pubDate>
+    </item>
+    <item>
       <title>独家：美国监管机构有望大幅减轻巴塞尔资本负担</title>
       <link>https://www.reuters.com/markets/us/us-regulators-expected-significantly-reduce-basel-capital-burden-sources-say-2024-03-06/</link>
-      <description><![CDATA[八名与监管机构和监管官员定期接触的行业高管表示，预计美国监管机构将大幅减少银行根据拟议规则必须持有的额外资本，该规则已遭到华尔街的强烈反对。]]></description>
+      <description><![CDATA[八名与监管机构和监管官员定期接触的行业高管表示，美国监管机构预计将大幅减少银行根据拟议规则必须持有的额外资本，该规则已遭到华尔街的强烈反对。]]></description>
       <guid>https://www.reuters.com/markets/us/us-regulators-expected-significantly-reduce-basel-capital-burden-sources-say-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 11:11:22 GMT</pubDate>
     </item>
     <item>
-      <title>美联储鲍威尔点燃今年降息希望，华尔街指数上涨</title>
+      <title>鲍威尔点燃今年降息希望后华尔街上涨</title>
       <link>https://www.reuters.com/markets/us/futures-gain-ahead-powells-testimony-economic-data-2024-03-06/</link>
-      <description><![CDATA[华尔街三大股指周三收高，因经济数据和美联储主席鲍威尔的言论强化了对美联储今年将降低基准利率的预期。]]></description>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔强化了对美联储今年将降低基准利率的预期，华尔街三大股指周三上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-gain-ahead-powells-testimony-economic-data-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 10:28:34 GMT</pubDate>
     </item>
     <item>
       <title>美联储鲍威尔仍预计降息，但通胀进展“不确定”</title>
       <link>https://www.reuters.com/markets/us/feds-powell-set-election-year-stage-with-testimony-rate-cuts-inflation-2024-03-06/</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔周三对美国立法者表示，他和他的同事们将在充满压力的总统选举年“保持低调”，并降低利率，避免了财政政策、能源、住房、乌克兰和其他棘手问题的争议。未来几个月仍有可能出现这种情况，但前提是有进一步证据证明通胀下降。]]></description>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔周三表示，美国经济似乎远未达到陷入衰退的地步，但他指出，鉴于通胀取得进一步进展尚不确定，目前尚不清楚美联储何时会降息并支撑当前的扩张。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-powell-set-election-year-stage-with-testimony-rate-cuts-inflation-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 06:06:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[OpenAI 周二回击了埃隆·马斯克 (Elon Musk) 的说法，即该初创公司放弃了最初的使命，电子邮件显示这位亿万富翁支持其创建营利性实体的计划，并希望进行合并，使特斯拉成为其“摇钱树”。]]></description>
       <guid>https://www.reuters.com/technology/openai-seeks-dismiss-all-musks-claims-lawsuit-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 02:34:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>陷入困境的贷款机构 NYCB 获得 10 亿美元股权投资</title>
-      <link>https://www.reuters.com/markets/us/new-york-community-bancorps-latest-troubles-2024-02-07/</link>
-      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括前美国财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
-      <guid>https://www.reuters.com/markets/us/new-york-community-bancorps-latest-troubles-2024-02-07/</guid>
-      <pubDate>Wed, 07 Feb 2024 17:21:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
