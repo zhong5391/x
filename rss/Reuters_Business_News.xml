@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 06 Mar 2024 17:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2024 17:32:50 GMT</lastBuildDate>
     <item>
       <title>ADP报告显示美国2月份私营部门就业人数增幅略低于预期</title>
       <link>https://www.reuters.com/markets/us/us-private-payrolls-rise-slightly-less-than-expected-february-adp-report-shows-2024-03-06/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>Abercrombie & Fitch 预测强劲需求带来乐观收入增长</title>
       <link>https://www.reuters.com/business/retail-consumer/abercrombie-fitch-beats-revenue-estimates-strong-holiday-quarter-demand-2024-03-06/</link>
-      <description><![CDATA[阿伯克龙比惠誉公司周三预测全年收入增长将高于华尔街预期，因为该公司押注在假日购物季强劲的背景下，其服装品牌的全价需求将强劲。]]></description>
+      <description><![CDATA[阿伯克龙比惠誉公司周三预测全年收入增长高于华尔街预期，因为该公司押注在强劲的假日购物季的支持下，其服装品牌的全价需求将强劲。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/abercrombie-fitch-beats-revenue-estimates-strong-holiday-quarter-demand-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 12:41:51 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>独家：美国监管机构有望大幅减轻巴塞尔资本负担</title>
       <link>https://www.reuters.com/markets/us/us-regulators-expected-significantly-reduce-basel-capital-burden-sources-say-2024-03-06/</link>
-      <description><![CDATA[八名与监管机构和监管官员定期接触的行业高管表示，美国监管机构预计将大幅减少银行根据拟议规则必须持有的额外资本，该规则已遭到华尔街的强烈反对。]]></description>
+      <description><![CDATA[八名与监管机构和监管官员定期接触的行业高管表示，预计美国监管机构将大幅减少银行根据拟议规则必须持有的额外资本，该规则已遭到华尔街的强烈反对。]]></description>
       <guid>https://www.reuters.com/markets/us/us-regulators-expected-significantly-reduce-basel-capital-burden-sources-say-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 11:11:22 GMT</pubDate>
     </item>
