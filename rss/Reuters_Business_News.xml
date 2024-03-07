@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 01:58:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 02:18:50 GMT</lastBuildDate>
+    <item>
+      <title>FTX 与 BlockFi 达成和解，可能支付高达 8.74 亿美元</title>
+      <link>https://www.reuters.com/technology/ftx-reaches-settlement-with-blockfi-may-pay-up-874-million-2024-03-07/</link>
+      <description><![CDATA[根据周三提交的法庭文件，破产的加密货币公司 FTX 和 BlockFi 已经解决了因 2022 年公司倒闭而产生的纠纷，FTX 同意向 BlockFi 支付最多 8.74 亿美元。]]></description>
+      <guid>https://www.reuters.com/technology/ftx-reaches-settlement-with-blockfi-may-pay-up-874-million-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 00:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚企业监管机构对澳大利亚证券交易所罚款并发出侵权通知</title>
+      <link>https://www.reuters.com/markets/australias-corporate-regulator-fines-asx-issues-infringement-notice-2024-03-06/</link>
+      <description><![CDATA[澳大利亚企业监管机构周四表示，经过合规调查后，ASX Ltd 已支付 110 万澳元（721,930 美元）的罚款，这是该国首次向交易所运营商发出此类违规通知。]]></description>
+      <guid>https://www.reuters.com/markets/australias-corporate-regulator-fines-asx-issues-infringement-notice-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 23:44:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储卡什卡里预计今年最多降息两次</title>
+      <link>https://www.reuters.com/markets/us/feds-kashkari-sees-two-rate-cuts-most-this-year-2024-03-06/</link>
+      <description><![CDATA[明尼阿波利斯联邦储备银行行长尼尔·卡什卡利周三表示，今年年初以来强劲的经济数据可能会让美联储今年只降息两次，甚至可能只降息一次。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-kashkari-sees-two-rate-cuts-most-this-year-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 22:29:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析师称，美国集装箱托运人缓慢签订新合同，着眼于红海加息的缓和</title>
+      <link>https://www.reuters.com/world/middle-east/us-container-shippers-slow-walk-new-contracts-eye-easing-red-sea-rate-hikes-2024-03-06/</link>
+      <description><![CDATA[航运业分析师表示，美国进口商正在等待新的集装箱运输合​​同，押注红海船只袭击造成的费率飙升将会消退，并使他们处于更有利的谈判地位。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/us-container-shippers-slow-walk-new-contracts-eye-easing-red-sea-rate-hikes-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 22:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合健康技术部门的黑客攻击影响了谁以及什么？</title>
+      <link>https://www.reuters.com/technology/cybersecurity/who-what-is-hack-unitedhealths-tech-unit-affecting-2024-03-06/</link>
+      <description><![CDATA[2 月 21 日，联合健康集团 (UnitedHealth Group) 的 Change Healthcare 技术部门（该部门负责处理该行业的保险索赔和付款）遭到勒索软件攻击，该部门已经扰乱了美国各地的医疗保健。]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/who-what-is-hack-unitedhealths-tech-unit-affecting-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 22:11:33 GMT</pubDate>
+    </item>
     <item>
       <title>早盘买盘：抛售，什么抛售？市场回到最佳状态</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-06/</link>
@@ -13,9 +48,9 @@
       <pubDate>Wed, 06 Mar 2024 21:48:34 GMT</pubDate>
     </item>
     <item>
-      <title>独家：内部文件显示，Panera 在 IPO 前放宽了动物福利和成分标准</title>
+      <title>独家：内部文件显示，Panera 在 IPO 前放松了成分标准</title>
       <link>https://www.reuters.com/business/panera-loosens-animal-welfare-ingredients-standards-ahead-ipo-internal-documents-2024-03-06/</link>
-      <description><![CDATA[路透社看到的公司内部文件显示，快餐连锁店 Panera Bread 在计划首次公开募股之前放宽了动物福利和食品中所谓清洁成分的标准。]]></description>
+      <description><![CDATA[路透社看到的公司内部文件显示，快餐连锁店 Panera Bread 在计划 IPO 之前放宽了动物福利和所谓食品清洁成分的标准，预计年度成本削减了 2100 万美元。]]></description>
       <guid>https://www.reuters.com/business/panera-loosens-animal-welfare-ingredients-standards-ahead-ipo-internal-documents-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 20:55:35 GMT</pubDate>
     </item>
@@ -29,7 +64,7 @@
     <item>
       <title>美国银行与竞争对手一起预测投资银行业务收入将增长</title>
       <link>https://www.reuters.com/business/finance/bofa-expects-investment-banking-revenue-climb-10-15-1q-2024-03-06/</link>
-      <description><![CDATA[美国银行预计第一季度投资银行收入将同比增长10%至15%，加入最近变得更加乐观的竞争对手行列。]]></description>
+      <description><![CDATA[美国银行预计第一季度投资银行业务收入将同比增长10%至15%，加入最近变得更加乐观的竞争对手行列。]]></description>
       <guid>https://www.reuters.com/business/finance/bofa-expects-investment-banking-revenue-climb-10-15-1q-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 19:44:13 GMT</pubDate>
     </item>
@@ -48,20 +83,6 @@
       <pubDate>Wed, 06 Mar 2024 19:21:28 GMT</pubDate>
     </item>
     <item>
-      <title>美国1月份批发库存下调</title>
-      <link>https://www.reuters.com/markets/us/us-wholesale-inventories-revised-down-january-2024-03-06/</link>
-      <description><![CDATA[美国一月份批发库存下降幅度超过最初预期，这可能对第一季度的经济增长预期产生负面影响。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-wholesale-inventories-revised-down-january-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:43:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本预计 3 月份结束负利率的势头正在增强</title>
-      <link>https://www.reuters.com/markets/asia/japan-sees-growing-momentum-towards-march-end-negative-rates-2024-03-06/</link>
-      <description><![CDATA[日本央行考虑最早本月结束负利率的势头正在增强，即将到来的年度工资谈判可能会导致连续第二年大幅加薪。]]></description>
-      <guid>https://www.reuters.com/markets/asia/japan-sees-growing-momentum-towards-march-end-negative-rates-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 18:23:01 GMT</pubDate>
-    </item>
-    <item>
       <title>鲍威尔向立法者发表讲话时，“最坏情况”通胀担忧威胁到债券市场的平静</title>
       <link>https://www.reuters.com/markets/us/worst-case-inflation-fears-threaten-bond-market-calm-powell-addresses-lawmakers-2024-03-06/</link>
       <description><![CDATA[未来几天，美国债券市场弥漫的不安平静可能会被打破，因为即将公布的就业和消费者价格数据将更多地揭示美联储可能需要在多长时间内维持高利率以彻底击败通胀。]]></description>
@@ -71,7 +92,7 @@
     <item>
       <title>摩根士丹利因电动汽车需求疲软而下调价格目标后特斯拉股价下跌</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-shares-fall-after-morgan-stanley-cuts-price-target-weakening-ev-demand-2024-03-06/</link>
-      <description><![CDATA[特斯拉股价周三连续第三天下跌，此前摩根士丹利一位备受关注的分析师下调了该股的目标价，称尽管大幅降价，但包括中国在内的主要市场的电动汽车需求仍在继续疲软。]]></description>
+      <description><![CDATA[周三，特斯拉股价连续第三天下跌，此前摩根士丹利一位备受关注的分析师下调了该股的目标价，称尽管大幅降价，但包括中国在内的主要市场的电动汽车需求仍在继续疲软。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-fall-after-morgan-stanley-cuts-price-target-weakening-ev-demand-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 17:43:32 GMT</pubDate>
     </item>
@@ -85,23 +106,9 @@
     <item>
       <title>陷入困境的贷款机构 NYCB 从包括姆努钦的公司在内的一批人那里获得了 10 亿美元的投资</title>
       <link>https://www.reuters.com/markets/us/embattled-lender-nycb-seeks-cash-infusion-wsj-reports-2024-03-06/</link>
-      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括前美国财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
+      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括美国前财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
       <guid>https://www.reuters.com/markets/us/embattled-lender-nycb-seeks-cash-infusion-wsj-reports-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 17:11:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>解释者：为什么零售业对私募股权公司来说失去了光芒</title>
-      <link>https://www.reuters.com/markets/us/why-retail-has-lost-its-sparkle-private-equity-firms-2024-03-06/</link>
-      <description><![CDATA[私募股权公司在美国主要零售商、服装和配饰以及连锁餐厅上投入了数十亿美元，重塑了 20 世纪 90 年代至 2010 年代初的消费行业。但在过去 10 年里，包括凯雷 (Carlyle) 和华平投资 (Warburg Pincus) 在内的大公司集体撤回了对该行业的投资，反映出消费者品味的变化以及来自企业买家的竞争。]]></description>
-      <guid>https://www.reuters.com/markets/us/why-retail-has-lost-its-sparkle-private-equity-firms-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 16:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国计划从2026年起对电子烟征收新税</title>
-      <link>https://www.reuters.com/world/uk/uks-hunt-plans-extra-tax-vaping-2026-2024-03-06/</link>
-      <description><![CDATA[英国财政部长杰里米·亨特表示，他计划从 2026 年 10 月起对电子烟产品征收额外税，以使这种习惯变得更加昂贵，并阻止非吸烟者吸烟。]]></description>
-      <guid>https://www.reuters.com/world/uk/uks-hunt-plans-extra-tax-vaping-2026-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 13:35:53 GMT</pubDate>
     </item>
     <item>
       <title>随着职位空缺和辞职人数下降，美国劳动力市场稳步放缓</title>
@@ -113,7 +120,7 @@
     <item>
       <title>独家：美国监管机构有望大幅减轻巴塞尔资本负担</title>
       <link>https://www.reuters.com/markets/us/us-regulators-expected-significantly-reduce-basel-capital-burden-sources-say-2024-03-06/</link>
-      <description><![CDATA[八名与监管机构和监管官员定期接触的行业高管表示，预计美国监管机构将大幅减少银行根据拟议规则必须持有的额外资本，该规则已遭到华尔街的强烈反对。]]></description>
+      <description><![CDATA[八名与监管机构和监管官员定期接触的行业高管表示，美国监管机构预计将大幅减少银行根据拟议规则必须持有的额外资本，该规则已遭到华尔街的强烈反对。]]></description>
       <guid>https://www.reuters.com/markets/us/us-regulators-expected-significantly-reduce-basel-capital-burden-sources-say-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 11:11:22 GMT</pubDate>
     </item>
@@ -132,16 +139,9 @@
       <pubDate>Wed, 06 Mar 2024 06:06:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI回击马斯克，称亿万富翁推动与特斯拉合并</title>
-      <link>https://www.reuters.com/technology/openai-seeks-dismiss-all-musks-claims-lawsuit-2024-03-06/</link>
-      <description><![CDATA[OpenAI 周二回击了埃隆·马斯克 (Elon Musk) 的说法，即该初创公司放弃了最初的使命，电子邮件显示这位亿万富翁支持其创建营利性实体的计划，并希望进行合并，使特斯拉成为其“摇钱树”。]]></description>
-      <guid>https://www.reuters.com/technology/openai-seeks-dismiss-all-musks-claims-lawsuit-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 02:34:21 GMT</pubDate>
-    </item>
-    <item>
       <title>陷入困境的贷款机构 NYCB 获得 10 亿美元股权投资</title>
       <link>https://www.reuters.com/markets/us/new-york-community-bancorps-latest-troubles-2024-02-07/</link>
-      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括前美国财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
+      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括美国前财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
       <guid>https://www.reuters.com/markets/us/new-york-community-bancorps-latest-troubles-2024-02-07/</guid>
       <pubDate>Wed, 07 Feb 2024 17:21:47 GMT</pubDate>
     </item>
