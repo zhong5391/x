@@ -1,21 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 22:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 22:29:55 GMT</lastBuildDate>
     <item>
-      <title>继 2023 年低迷之后，交易撮合者看到选举年并购活动出现“萌芽”</title>
-      <link>https://www.reuters.com/markets/deals/dealmakers-see-green-shoots-ma-activity-election-year-after-2023-doldrums-2024-03-07/</link>
-      <description><![CDATA[在经历了 2023 年的低迷之后，并购活动预计将在今年晚些时候反弹，因为预计美联储将降息，而随着交易撮合者看到未来几个季度的“萌芽”，现金充裕的买家将为更大的交易做好准备。]]></description>
-      <guid>https://www.reuters.com/markets/deals/dealmakers-see-green-shoots-ma-activity-election-year-after-2023-doldrums-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 19:11:30 GMT</pubDate>
+      <title>ValueAct 在与 Trian 的董事会斗争中重申对迪士尼的支持</title>
+      <link>https://www.reuters.com/business/media-telecom/valueact-reiterates-backing-disney-amid-boardroom-fight-with-trian-2024-03-07/</link>
+      <description><![CDATA[周四，在亿万富翁纳尔逊·佩尔茨 (Nelson Peltz) 的特里安基金管理公司 (Trian Fund Management) 董事会提出挑战之际，激进对冲基金 ValueAct Capital 重申了对华特迪士尼的支持。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/valueact-reiterates-backing-disney-amid-boardroom-fight-with-trian-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 22:19:03 GMT</pubDate>
     </item>
     <item>
-      <title>Rivian 推出更小、更便宜的电动汽车，加快交付计划</title>
+      <title>据《纽约时报》报道，鲁珀特·默多克订婚了</title>
+      <link>https://www.reuters.com/world/us/rupert-murdoch-gets-engaged-new-york-times-reports-2024-03-07/</link>
+      <description><![CDATA[据《纽约时报》周四报道，福克斯和新闻集团前董事长鲁珀特·默多克已订婚。]]></description>
+      <guid>https://www.reuters.com/world/us/rupert-murdoch-gets-engaged-new-york-times-reports-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 22:10:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘：全球市场阳光刺破中国乌云</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-07/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 21:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国购房情绪上升；业主感觉到“出售的好时机”</title>
+      <link>https://www.reuters.com/markets/us/us-homebuying-sentiment-up-owners-sense-good-time-sell-2024-03-07/</link>
+      <description><![CDATA[2月份美国购房信心连续第三个月上升，主要是因为现有房主越来越多地认为现在是出售房屋的好时机，这可能预示着房屋挂牌量急需的上升。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-homebuying-sentiment-up-owners-sense-good-time-sell-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 21:42:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着饼干碎裂，选举年通胀辩论可能会变得混乱</title>
+      <link>https://www.reuters.com/markets/us/cookie-crumbles-election-year-inflation-debate-could-get-messy-2024-03-07/</link>
+      <description><![CDATA[美国参议员约翰·费特曼(John Fetterman)在讨论高食品价格时曾因抨击竞选对手购买“生食”而闻名。周四，他试图为可能成为即将到来的总统选举的核心问题的通胀辩论带来一些现实主义色彩。]]></description>
+      <guid>https://www.reuters.com/markets/us/cookie-crumbles-election-year-inflation-debate-could-get-messy-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 21:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于可自由支配支出放缓，Costco Wholesale 未达季度收入预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/costco-wholesale-misses-quarterly-revenue-estimates-2024-03-07/</link>
+      <description><![CDATA[Costco Wholesale 周四季度销售额未达到市场预期，因消费者感受到通胀压力而削减了该零售商的支出，导致该公司股价在盘后交易中下跌 5%。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/costco-wholesale-misses-quarterly-revenue-estimates-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 21:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能推动需求，博通营收超出预期，股价下跌</title>
+      <link>https://www.reuters.com/technology/broadcoms-first-quarter-revenue-beats-estimates-2024-03-07/</link>
+      <description><![CDATA[科技集团博通周四第一季度营收超出市场预期，云提供商继续升级数据中心以支持人工智能，有助于推动对其先进网络芯片的需求。]]></description>
+      <guid>https://www.reuters.com/technology/broadcoms-first-quarter-revenue-beats-estimates-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 21:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gap 乐观的季度业绩显示对 Old Navy 服装的需求有所改善</title>
+      <link>https://www.reuters.com/business/retail-consumer/gap-reports-upbeat-quarterly-sales-improving-demand-old-navy-apparel-2024-03-07/</link>
+      <description><![CDATA[周四，Gap 公布的第四季度业绩超出了华尔街的预期，这得益于节日期间对其 Old Navy 和同名品牌改进产品的强劲需求以及较低的降价幅度。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/gap-reports-upbeat-quarterly-sales-improving-demand-old-navy-apparel-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 21:19:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rivian 展示更小、更便宜的电动汽车，加快交付计划</title>
       <link>https://www.reuters.com/business/autos-transportation/ev-maker-rivian-unveils-smaller-less-expensive-r2-suvs-2024-03-07/</link>
-      <description><![CDATA[Rivian 周四在电动汽车需求放缓的情况下推出了更小、更便宜的 R2 SUV 和 R3 跨界车，并表示将在现有工厂开始生产 R2，以加快 2026 年上半年的交付速度。]]></description>
+      <description><![CDATA[Rivian 周四推出了较小、较便宜的电动 R2 SUV 和 R3 跨界车，并计划在其现有的美国工厂开始生产 R2，以加快 2026 年上半年的交付速度。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ev-maker-rivian-unveils-smaller-less-expensive-r2-suvs-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 18:48:05 GMT</pubDate>
     </item>
@@ -25,27 +74,6 @@
       <description><![CDATA[来自汽车制造州的三名参议院民主党人周四敦促拜登政府提高对中国电动汽车的进口关税，以应对国家安全风险，这是立法者保护美国汽车行业的最新举措。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/senate-democrats-urge-biden-administration-hike-tariffs-chinese-evs-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 18:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储报告称小企业在 2023 年面临财务和通胀挑战</title>
-      <link>https://www.reuters.com/markets/us/fed-report-says-small-businesses-faced-financial-inflation-challenges-2023-2024-03-07/</link>
-      <description><![CDATA[12家地区联邦储备银行周四发布的一份报告显示，去年小企业继续从疫情大流行的打击中恢复过来，同时面临着利率上升带来的财务挑战以及仍然难以找到工人。]]></description>
-      <guid>https://www.reuters.com/markets/us/fed-report-says-small-businesses-faced-financial-inflation-challenges-2023-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 18:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌最新办公室的人工智能设计师在 Wi-Fi 沙漠中辛勤工作</title>
-      <link>https://www.reuters.com/technology/googles-newest-office-has-ai-designers-toiling-wi-fi-desert-2024-03-07/</link>
-      <description><![CDATA[谷歌一直在宣传这家网络巨头完全设计和建造的第一座建筑的无数创新，甚至让员工专注于其最引人注目的项目：生成人工智能。但是，有些人表示他们希望创新能够包括像样的 Wi-Fi。]]></description>
-      <guid>https://www.reuters.com/technology/googles-newest-office-has-ai-designers-toiling-wi-fi-desert-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 17:57:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟行业负责人表示，苹果与 Epic Games 的争端是当务之急</title>
-      <link>https://www.reuters.com/technology/apple-epic-games-spat-is-matter-priority-eu-industry-chief-says-2024-03-07/</link>
-      <description><![CDATA[欧盟行业负责人蒂埃里·布雷顿 (Thierry Breton) 周四表示，欧盟监管机构的任务是优先调查苹果与《堡垒之夜》视频游戏制造商 Epic Games 之间的争端。]]></description>
-      <guid>https://www.reuters.com/technology/apple-epic-games-spat-is-matter-priority-eu-industry-chief-says-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 17:53:48 GMT</pubDate>
     </item>
     <item>
       <title>备忘录显示，由于波音交付延误，美联航将暂停飞行员招聘两个月</title>
@@ -69,18 +97,11 @@
       <pubDate>Thu, 07 Mar 2024 17:11:21 GMT</pubDate>
     </item>
     <item>
-      <title>Gartner 表示，到 2027 年，电动汽车的生产成本将低于汽油动力汽车</title>
-      <link>https://www.reuters.com/business/autos-transportation/evs-will-be-cheaper-produce-than-gas-powered-vehicles-by-2027-gartner-says-2024-03-07/</link>
-      <description><![CDATA[市场研究公司 Gartner 周四表示，由于新的制造方法降低了生产成本，到 2027 年，电池电动汽车的平均生产成本将比同类内燃机汽车便宜。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/evs-will-be-cheaper-produce-than-gas-powered-vehicles-by-2027-gartner-says-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 15:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能热潮涌入看涨的 Nvidia ETF，资金流入创历史新高</title>
-      <link>https://www.reuters.com/technology/inflows-into-bullish-nvidia-etf-hit-record-ai-frenzy-2024-03-07/</link>
-      <description><![CDATA[今年，随着人工智能的热潮，投资者纷纷涌入以英伟达为重点的交易所交易基金（ETF），资金流入一只追踪该芯片设计公司股价周三创下历史新高的看涨基金。]]></description>
-      <guid>https://www.reuters.com/technology/inflows-into-bullish-nvidia-etf-hit-record-ai-frenzy-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 15:51:39 GMT</pubDate>
+      <title>赫斯表示正在审查完成雪佛龙收购交易的时间表</title>
+      <link>https://www.reuters.com/markets/deals/hess-says-reviewing-timeline-closing-chevron-deal-2024-03-07/</link>
+      <description><![CDATA[美国石油生产商赫斯周四表示，在石油巨头埃克森美孚暗示可能对赫斯的圭亚那资产提出还价后，该公司正在审查完成雪佛龙收购交易的时间表。]]></description>
+      <guid>https://www.reuters.com/markets/deals/hess-says-reviewing-timeline-closing-chevron-deal-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 14:08:36 GMT</pubDate>
     </item>
     <item>
       <title>LinkedIn 在新的披露中表示，高级订阅带来了 17 亿美元的收入</title>
@@ -97,30 +118,16 @@
       <pubDate>Thu, 07 Mar 2024 13:42:50 GMT</pubDate>
     </item>
     <item>
-      <title>克罗格预测 2024 年食品杂货需求保持强劲</title>
-      <link>https://www.reuters.com/business/retail-consumer/kroger-forecasts-2024-sales-largely-above-market-estimates-2024-03-07/</link>
-      <description><![CDATA[克罗格周四预测年销售额和利润将大大高于华尔街的预期，押注于其商店对食品杂货的更高需求、更严格的成本控制以及其自有品牌的实力。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/kroger-forecasts-2024-sales-largely-above-market-estimates-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 13:06:25 GMT</pubDate>
+      <title>洞察：美国监管机构为 NYCB 的快速增长开绿灯，尽管存在危险信号</title>
+      <link>https://www.reuters.com/markets/us/us-regulators-greenlit-nycbs-rapid-growth-even-with-red-flags-2024-03-07/</link>
+      <description><![CDATA[美国银行监管机构本可以阻止纽约社区银行寻求一项导致其财务困境的交易。相反，他们签署了协议。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-regulators-greenlit-nycbs-rapid-growth-even-with-red-flags-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 11:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>电动汽车制造商 Rivian 面临转折点，推出更便宜的 R2</title>
-      <link>https://www.reuters.com/business/autos-transportation/ev-maker-rivian-faces-turning-point-with-debut-cheaper-r2-2024-03-07/</link>
-      <description><![CDATA[电动汽车初创公司 Rivian 周四面临着一个关键时刻，该公司推出了一系列新的低价车型，这对其未来至关重要。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/ev-maker-rivian-faces-turning-point-with-debut-cheaper-r2-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 11:04:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国众议院委员会将就 TikTok 打击法案进行投票</title>
-      <link>https://www.reuters.com/technology/new-push-congress-ban-tiktok-or-force-chinese-divestiture-gains-steam-2024-03-07/</link>
-      <description><![CDATA[美国众议院能源和商务委员会将于周四就一项立法进行投票，该法案将给予中国字节跳动六个月的时间从短视频应用 TikTok 撤资，否则将面临美国禁令。]]></description>
-      <guid>https://www.reuters.com/technology/new-push-congress-ban-tiktok-or-force-chinese-divestiture-gains-steam-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 11:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街上涨，标准普尔500指数创历史新高，芯片股延续涨势</title>
+      <title>华尔街反弹，标准普尔 500 指数创下收盘新高</title>
       <link>https://www.reuters.com/markets/us/nasdaq-sp-500-futures-inch-up-ahead-more-economic-data-powell-testimony-2024-03-07/</link>
-      <description><![CDATA[华尔街主要股指周四攀升，在科技股和成长股以及投资者对美联储降息前景的乐观支撑下，标普500指数和纳斯达克指数双双创下盘中历史新高。]]></description>
+      <description><![CDATA[周四，华尔街上涨，标普 500 指数上涨 1%，创下收盘新高，纳斯达克综合指数上涨 1.5%，其中科技股和成长股的涨幅最大，因投资者对美联储降息前景的乐观情绪增强。今年。]]></description>
       <guid>https://www.reuters.com/markets/us/nasdaq-sp-500-futures-inch-up-ahead-more-economic-data-powell-testimony-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 10:44:29 GMT</pubDate>
     </item>
@@ -130,13 +137,6 @@
       <description><![CDATA[纽约社区银行新任首席执行官周四表示，该银行看到非银行竞标者对其部分贷款产生了兴趣，并将在下个月制定新的业务计划，此前该银行再次大幅削减股息，并披露存款下降了 7%。]]></description>
       <guid>https://www.reuters.com/markets/us/nycb-seeks-stem-stock-rout-with-mnuchin-backed-1-bln-capital-injection-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 10:39:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nationwide 向 Virgin Money 发起 37 亿美元的竞标，挑战英国大银行</title>
-      <link>https://www.reuters.com/markets/deals/nationwide-buy-virgin-money-uk-29-billion-pound-deal-2024-03-07/</link>
-      <description><![CDATA[英国全国建筑协会已同意以 29 亿英镑（37 亿美元）的全现金交易收购 Virgin Money UK，以创建英国第二大储蓄和抵押贷款提供商。]]></description>
-      <guid>https://www.reuters.com/markets/deals/nationwide-buy-virgin-money-uk-29-billion-pound-deal-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 07:17:53 GMT</pubDate>
     </item>
     <item>
       <title>通胀下降，欧洲央行为 6 月降息奠定基础</title>
