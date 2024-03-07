@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 16:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 16:38:55 GMT</lastBuildDate>
     <item>
       <title>美联储鲍曼：“尚未”准备好降息，如果需要愿意再次加息</title>
       <link>https://www.reuters.com/markets/us/feds-bowman-not-yet-ready-rate-cuts-willing-hike-again-if-needed-2024-03-07/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>需求萎缩影响销售预期，维多利亚的秘密 (Victoria's Secret) 下跌</title>
       <link>https://www.reuters.com/business/retail-consumer/victorias-secret-falls-shrinking-demand-hits-sales-forecasts-2024-03-07/</link>
-      <description><![CDATA[维多利亚的秘密周四，该内衣品牌预计，由于北美主要市场的消费者转向更便宜的选择，开年低迷，年销售额将下降，该公司股价周四盘前暴跌约 29%。]]></description>
+      <description><![CDATA[维多利亚的秘密周四，该内衣品牌预计，由于北美主要市场的消费者转向更便宜的选择，年初开局低迷，年销售额将下降，该公司股价周四盘前暴跌约 29%。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/victorias-secret-falls-shrinking-demand-hits-sales-forecasts-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 14:10:46 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>欧洲央行下调增长和通胀预测</title>
       <link>https://www.reuters.com/markets/europe/ecb-cuts-growth-inflation-projections-2024-03-07/</link>
-      <description><![CDATA[欧洲央行周四下调了部分增长和通胀预期，将明年物价增长目标调整至 2%，原因是经济增长疲软和能源价格良性限制了物价压力。]]></description>
+      <description><![CDATA[欧洲央行周四下调了部分经济增长和通胀预期，将明年物价增速重新调整至 2% 的目标，原因是经济增长疲弱和能源价格良性限制了物价压力。]]></description>
       <guid>https://www.reuters.com/markets/europe/ecb-cuts-growth-inflation-projections-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 13:29:10 GMT</pubDate>
     </item>
@@ -57,14 +57,14 @@
     <item>
       <title>美国之鹰航空因需求强劲、折扣减少而超出预期；股价上涨</title>
       <link>https://www.reuters.com/business/retail-consumer/american-eagle-beats-quarterly-revenue-estimates-2024-03-07/</link>
-      <description><![CDATA[周四，American Eagle Outfitters 的第四季度业绩超出了华尔街的预期，消费者在美国关键的假日购物季抢购了这家服装零售商的全价商品。]]></description>
+      <description><![CDATA[周四，American Eagle Outfitters 的第四季度业绩超出了华尔街的预期，因为消费者在美国关键的假日购物季期间抢购了这家服装零售商的全价商品。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/american-eagle-beats-quarterly-revenue-estimates-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 13:11:03 GMT</pubDate>
     </item>
     <item>
       <title>克罗格预测 2024 年食品杂货需求保持强劲</title>
       <link>https://www.reuters.com/business/retail-consumer/kroger-forecasts-2024-sales-largely-above-market-estimates-2024-03-07/</link>
-      <description><![CDATA[克罗格周四预测，随着越来越多的美国人在持续的通货膨胀下在家做饭，其商店对食品杂货的需求将会增加，其年销售额和利润将大大高于华尔街的预期。]]></description>
+      <description><![CDATA[克罗格周四预测，随着越来越多的美国人在持续的通货膨胀下在家做饭，其商店对食品杂货的需求将会增加，因此年度销售额和利润将大大高于华尔街的预期。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/kroger-forecasts-2024-sales-largely-above-market-estimates-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 13:06:25 GMT</pubDate>
     </item>
