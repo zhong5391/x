@@ -4,7 +4,21 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 03:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 04:19:43 GMT</lastBuildDate>
+    <item>
+      <title>美国股市涨幅低于预期，油价小幅走高</title>
+      <link>https://www.reuters.com/business/energy/oil-prices-edge-higher-after-us-stocks-build-less-than-expected-2024-03-07/</link>
+      <description><![CDATA[上周美国原油库存增幅低于预期且燃料库存大幅下跌后，周四油价小幅走高。]]></description>
+      <guid>https://www.reuters.com/business/energy/oil-prices-edge-higher-after-us-stocks-build-less-than-expected-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 01:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于美国降息迫在眉睫，美元随国债收益率下跌</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-falls-with-treasury-yields-views-looming-us-rate-cuts-2024-03-07/</link>
+      <description><![CDATA[美元周四走软，兑日元汇率触及一个月低点，因为交易员们认为，即使在通胀出现一些意外上行之后，今年美国利率也可能会下降。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-falls-with-treasury-yields-views-looming-us-rate-cuts-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 01:21:32 GMT</pubDate>
+    </item>
     <item>
       <title>FTX 与 BlockFi 达成和解，可能支付高达 8.74 亿美元</title>
       <link>https://www.reuters.com/technology/ftx-reaches-settlement-with-blockfi-may-pay-up-874-million-2024-03-07/</link>
@@ -62,13 +76,6 @@
       <pubDate>Wed, 06 Mar 2024 20:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>美国银行与竞争对手一起预测投资银行业务收入将增长</title>
-      <link>https://www.reuters.com/business/finance/bofa-expects-investment-banking-revenue-climb-10-15-1q-2024-03-06/</link>
-      <description><![CDATA[美国银行预计第一季度投资银行业务收入将同比增长10%至15%，加入最近变得更加乐观的竞争对手行列。]]></description>
-      <guid>https://www.reuters.com/business/finance/bofa-expects-investment-banking-revenue-climb-10-15-1q-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 19:44:13 GMT</pubDate>
-    </item>
-    <item>
       <title>陷入困境的贷款机构 NYCB 表示已筹集超过 10 亿美元的股权</title>
       <link>https://www.reuters.com/business/finance/embattled-lender-nycb-says-it-has-raised-more-than-1-bln-equity-2024-03-06/</link>
       <description><![CDATA[纽约社区银行 (New York Community Bancorp) 周三表示，已筹集超过 10 亿美元的股本。]]></description>
@@ -97,16 +104,9 @@
       <pubDate>Wed, 06 Mar 2024 17:43:32 GMT</pubDate>
     </item>
     <item>
-      <title>能源部长称中国涌入电动汽车市场的能力令美国担忧</title>
-      <link>https://www.reuters.com/business/autos-transportation/chinas-ability-flood-ev-market-concerning-us-energy-secretary-says-2024-03-06/</link>
-      <description><![CDATA[美国能源部长周三表示，美国担心中国充斥电动汽车市场的能力，但美国的激励措施可以提高国产电动汽车的承受能力。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/chinas-ability-flood-ev-market-concerning-us-energy-secretary-says-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 17:38:25 GMT</pubDate>
-    </item>
-    <item>
       <title>陷入困境的贷款机构 NYCB 从包括姆努钦的公司在内的一批人那里获得了 10 亿美元的投资</title>
       <link>https://www.reuters.com/markets/us/embattled-lender-nycb-seeks-cash-infusion-wsj-reports-2024-03-06/</link>
-      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括美国前财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
+      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括前美国财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
       <guid>https://www.reuters.com/markets/us/embattled-lender-nycb-seeks-cash-infusion-wsj-reports-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 17:11:16 GMT</pubDate>
     </item>
@@ -137,13 +137,6 @@
       <description><![CDATA[美联储主席杰罗姆·鲍威尔周三对美国立法者表示，他和他的同事们将在充满压力的总统选举年“保持低调”，并降低利率，避免了财政政策、能源、住房、乌克兰和其他棘手问题的争议。未来几个月仍有可能出现这种情况，但前提是有进一步证据证明通胀下降。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-powell-set-election-year-stage-with-testimony-rate-cuts-inflation-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 06:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>陷入困境的贷款机构 NYCB 获得 10 亿美元股权投资</title>
-      <link>https://www.reuters.com/markets/us/new-york-community-bancorps-latest-troubles-2024-02-07/</link>
-      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括美国前财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
-      <guid>https://www.reuters.com/markets/us/new-york-community-bancorps-latest-troubles-2024-02-07/</guid>
-      <pubDate>Wed, 07 Feb 2024 17:21:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
