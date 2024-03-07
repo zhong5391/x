@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 08:19:15 GMT</lastBuildDate>
-    <item>
-      <title>诺和诺德将公布早期药物试验数据和 Wegovy 供应更新</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-present-early-stage-trial-data-new-diabetes-drug-investor-meeting-2024-03-07/</link>
-      <description><![CDATA[诺和诺德周四表示，将公布一种备受期待的正在研发的肥胖药物的早期试验数据，并提供减肥药物 Wegovy 在短缺情况下供应的最新情况。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-present-early-stage-trial-data-new-diabetes-drug-investor-meeting-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 07:11:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hugo Boss预计2024年营业利润低于市场预期</title>
-      <link>https://www.reuters.com/business/retail-consumer/hugo-boss-expects-2024-operating-profit-below-market-expectations-2024-03-07/</link>
-      <description><![CDATA[Hugo Boss 周四预测 2024 年营业利润低于市场预期，因为它表明消费者信心持续疲弱，尤其是在不同的欧洲经济体。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/hugo-boss-expects-2024-operating-profit-below-market-expectations-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 06:45:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着争议加剧，罢工浪潮袭击德国铁路和机场</title>
-      <link>https://www.reuters.com/world/europe/strike-wave-hits-german-rail-airports-disputes-mount-2024-03-07/</link>
-      <description><![CDATA[周四，德国在三个方面面临罢工，火车司机、机场保安人员和汉莎航空地勤人员罢工，给这个欧洲最大经济体的数百万旅客带来了进一步的麻烦。]]></description>
-      <guid>https://www.reuters.com/world/europe/strike-wave-hits-german-rail-airports-disputes-mount-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 06:17:25 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 07 Mar 2024 08:32:21 GMT</lastBuildDate>
     <item>
       <title>Yandex 和 Polymetal 股东将批准俄罗斯重大退出交易</title>
       <link>https://www.reuters.com/business/yandex-polymetal-shareholders-set-approve-major-russian-exit-deals-2024-03-07/</link>
@@ -34,9 +13,9 @@
       <pubDate>Thu, 07 Mar 2024 06:11:08 GMT</pubDate>
     </item>
     <item>
-      <title>随着成本上升，汉莎航空预计 2024 年运营业绩将与去年持平</title>
+      <title>由于成本上升，汉莎航空将 2024 年营业利润率目标下调至 7.6%</title>
       <link>https://www.reuters.com/business/aerospace-defense/lufthansa-drops-2024-operating-margin-target-76-costs-rise-2024-03-07/</link>
-      <description><![CDATA[汉莎航空周四公布 2023 年营业利润达 27 亿欧元，符合预期，并表示 2024 年经营业绩将与去年持平，因为这家德国航空公司正在努力应对代价高昂的劳资纠纷。]]></description>
+      <description><![CDATA[汉莎航空周四报告称，2023 年营业利润达到预期的 27 亿欧元，并将 2024 年营业利润率预期从 8% 的目标下调至 7.6%，因为这家德国航空公司正在努力应对代价高昂的劳资纠纷。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/lufthansa-drops-2024-operating-margin-target-76-costs-rise-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 06:05:26 GMT</pubDate>
     </item>
@@ -48,16 +27,16 @@
       <pubDate>Thu, 07 Mar 2024 06:03:36 GMT</pubDate>
     </item>
     <item>
-      <title>早间竞价：欧洲央行还需要更多证据</title>
+      <title>早盘竞价：欧洲央行还需要更多证据</title>
       <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-07/</link>
       <description><![CDATA[Vidya Ranganathan 对欧洲和全球市场未来一天的展望]]></description>
       <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 05:32:59 GMT</pubDate>
     </item>
     <item>
-      <title>鲍威尔暗示 2024 年降息，金价延续涨势至创纪录水平</title>
+      <title>鲍威尔暗示 2024 年降息，金价延续涨势创新高</title>
       <link>https://www.reuters.com/markets/commodities/gold-extends-rally-hit-new-record-powell-hints-rate-cut-2024-2024-03-07/</link>
-      <description><![CDATA[周四金价飙升至历史新高，有望连续第七个交易日上涨，原因是美国经济数据低迷，而且美联储主席杰罗姆·鲍威尔表示，如果通胀缓解，未来几个月可能会降息。]]></description>
+      <description><![CDATA[在美国经济数据疲软以及美联储主席杰罗姆·鲍威尔表示，如果通胀缓解，未来几个月可能降息的带动下，金价周四上涨，创下新纪录，有望连续第七个交易日上涨。]]></description>
       <guid>https://www.reuters.com/markets/commodities/gold-extends-rally-hit-new-record-powell-hints-rate-cut-2024-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 05:13:25 GMT</pubDate>
     </item>
@@ -83,6 +62,13 @@
       <pubDate>Thu, 07 Mar 2024 03:34:40 GMT</pubDate>
     </item>
     <item>
+      <title>中国1-2月出口增长7.1%，进口增长3.5%，好于预期</title>
+      <link>https://www.reuters.com/markets/asia/chinas-jan-feb-exports-rise-71-imports-grow-35-beating-forecasts-2024-03-07/</link>
+      <description><![CDATA[海关周四公布的数据显示，1-2月中国出口同比增长7.1%，进口增长3.5%，两项数据均好于预期。]]></description>
+      <guid>https://www.reuters.com/markets/asia/chinas-jan-feb-exports-rise-71-imports-grow-35-beating-forecasts-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 03:14:56 GMT</pubDate>
+    </item>
+    <item>
       <title>亚洲股市普遍走高；日本央行的讨论提振日元，打压日经指数</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-07/</link>
       <description><![CDATA[亚洲股市周四大多上涨，原因是越来越多的迹象表明美联储将很快开始降息，投资者对此感到安慰，而有关日本即将采取政策转变的传言提振了日元，并将日经指数从历史高位拉低。]]></description>
@@ -90,11 +76,25 @@
       <pubDate>Thu, 07 Mar 2024 02:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行对物价和工资的信心不断增强，焦点转向三月会议</title>
+      <title>随着刺激退出迫在眉睫，日本央行政策制定者表示对价格目标有信心</title>
       <link>https://www.reuters.com/markets/asia/boj-board-member-nakagawa-signals-conviction-over-price-goal-achievement-2024-03-07/</link>
-      <description><![CDATA[日本央行(BOJ)行长及其一名董事会成员周四表示，经济正在朝着央行2%的通胀目标迈进，这一言论增强了市场对负利率即将结束的预期。]]></description>
+      <description><![CDATA[日本央行(BOJ)董事会成员中川纯子(Junko Nakakawa)表示，经济正在朝着实现央行2%的通胀目标稳步前进，并表示相信逐步取消大规模刺激措施的条件正在落实。]]></description>
       <guid>https://www.reuters.com/markets/asia/boj-board-member-nakagawa-signals-conviction-over-price-goal-achievement-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 02:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>乐观的中国贸易数据推动油价上涨</title>
+      <link>https://www.reuters.com/business/energy/oil-prices-edge-higher-after-us-stocks-build-less-than-expected-2024-03-07/</link>
+      <description><![CDATA[周四油价保持稳定，在乐观的中国贸易数据以及美国数据显示原油库存增幅小于预期以及燃料库存大幅减少后，维持隔夜涨幅。]]></description>
+      <guid>https://www.reuters.com/business/energy/oil-prices-edge-higher-after-us-stocks-build-less-than-expected-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 01:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>FTX 与 BlockFi 达成和解，可能支付高达 8.74 亿美元</title>
+      <link>https://www.reuters.com/technology/ftx-reaches-settlement-with-blockfi-may-pay-up-874-million-2024-03-07/</link>
+      <description><![CDATA[根据周三提交的法庭文件，破产的加密货币公司 FTX 和 BlockFi 已经解决了因 2022 年公司倒闭而产生的纠纷，FTX 同意向 BlockFi 支付最多 8.74 亿美元。]]></description>
+      <guid>https://www.reuters.com/technology/ftx-reaches-settlement-with-blockfi-may-pay-up-874-million-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 00:02:18 GMT</pubDate>
     </item>
     <item>
       <title>分析师称，美国集装箱托运人缓慢签订新合同，着眼于红海加息的缓和</title>
@@ -120,7 +120,7 @@
     <item>
       <title>陷入困境的贷款机构 NYCB 从包括姆努钦的公司在内的一批人那里获得了 10 亿美元的投资</title>
       <link>https://www.reuters.com/markets/us/embattled-lender-nycb-seeks-cash-infusion-wsj-reports-2024-03-06/</link>
-      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括美国前财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
+      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括前美国财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
       <guid>https://www.reuters.com/markets/us/embattled-lender-nycb-seeks-cash-infusion-wsj-reports-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 17:11:16 GMT</pubDate>
     </item>
