@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 02:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 03:03:43 GMT</lastBuildDate>
     <item>
       <title>美国股市涨幅低于预期，油价小幅走高</title>
       <link>https://www.reuters.com/business/energy/oil-prices-edge-higher-after-us-stocks-build-less-than-expected-2024-03-07/</link>
@@ -99,14 +99,14 @@
     <item>
       <title>摩根士丹利因电动汽车需求疲软而下调价格目标后特斯拉股价下跌</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-shares-fall-after-morgan-stanley-cuts-price-target-weakening-ev-demand-2024-03-06/</link>
-      <description><![CDATA[周三，特斯拉股价连续第三天下跌，此前摩根士丹利一位备受关注的分析师下调了该股的目标价，称尽管大幅降价，但包括中国在内的主要市场的电动汽车需求仍在继续疲软。]]></description>
+      <description><![CDATA[特斯拉股价周三连续第三天下跌，此前摩根士丹利一位备受关注的分析师下调了该股的目标价，称尽管大幅降价，但包括中国在内的主要市场的电动汽车需求仍在继续疲软。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-fall-after-morgan-stanley-cuts-price-target-weakening-ev-demand-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 17:43:32 GMT</pubDate>
     </item>
     <item>
       <title>陷入困境的贷款机构 NYCB 从包括姆努钦的公司在内的一批人那里获得了 10 亿美元的投资</title>
       <link>https://www.reuters.com/markets/us/embattled-lender-nycb-seeks-cash-infusion-wsj-reports-2024-03-06/</link>
-      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括美国前财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
+      <description><![CDATA[纽约社区银行周三表示，已从投资者那里筹集了 10 亿美元，其中包括前美国财政部长史蒂文·姆努钦 (Steven Mnuchin) 的自由战略资本 (Liberty Strategy Capital)，并任命前货币监理署长为新任首席执行官。]]></description>
       <guid>https://www.reuters.com/markets/us/embattled-lender-nycb-seeks-cash-infusion-wsj-reports-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 17:11:16 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>独家：美国监管机构有望大幅减轻巴塞尔资本负担</title>
       <link>https://www.reuters.com/markets/us/us-regulators-expected-significantly-reduce-basel-capital-burden-sources-say-2024-03-06/</link>
-      <description><![CDATA[八名与监管机构和监管官员定期接触的行业高管表示，美国监管机构预计将大幅减少银行根据拟议规则必须持有的额外资本，该规则已遭到华尔街的强烈反对。]]></description>
+      <description><![CDATA[八名与监管机构和监管官员定期接触的行业高管表示，预计美国监管机构将大幅减少银行根据拟议规则必须持有的额外资本，该规则已遭到华尔街的强烈反对。]]></description>
       <guid>https://www.reuters.com/markets/us/us-regulators-expected-significantly-reduce-basel-capital-burden-sources-say-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 11:11:22 GMT</pubDate>
     </item>
