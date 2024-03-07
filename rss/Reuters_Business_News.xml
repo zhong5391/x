@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 05:51:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 06:39:01 GMT</lastBuildDate>
+    <item>
+      <title>Yandex 和 Polymetal 股东将批准俄罗斯重大退出交易</title>
+      <link>https://www.reuters.com/business/yandex-polymetal-shareholders-set-approve-major-russian-exit-deals-2024-03-07/</link>
+      <description><![CDATA[自莫斯科入侵乌克兰以来，俄罗斯最大的两笔企业退出交易将于周四等待股东批准，其中“俄罗斯谷歌”Yandex 和主要矿业资产将转入俄罗斯所有权，交易总额约为 90 亿美元。]]></description>
+      <guid>https://www.reuters.com/business/yandex-polymetal-shareholders-set-approve-major-russian-exit-deals-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 06:11:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于成本上升，汉莎航空将 2024 年营业利润率目标下调至 7.6%</title>
+      <link>https://www.reuters.com/business/aerospace-defense/lufthansa-drops-2024-operating-margin-target-76-costs-rise-2024-03-07/</link>
+      <description><![CDATA[汉莎航空周四公布，2023 年营业利润达到预期的 27 亿欧元，并将 2024 年营业利润率预期从 8% 的目标下调至 7.6%，因为这家德国航空公司正在努力应对代价高昂的劳资纠纷。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/lufthansa-drops-2024-operating-margin-target-76-costs-rise-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 06:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着大型科技公司争先恐后地遵守欧盟规则，调查可能会发生</title>
+      <link>https://www.reuters.com/technology/big-tech-scrambles-meet-eu-rules-investigations-seen-likely-2024-03-07/</link>
+      <description><![CDATA[从彻底改革在线平台到幕后工程，谷歌、苹果、亚马逊、微软、Meta 和 TikTok 所有者字节跳动在过去六个月里都在努力遵守周四生效的具有里程碑意义的欧盟技术规则。]]></description>
+      <guid>https://www.reuters.com/technology/big-tech-scrambles-meet-eu-rules-investigations-seen-likely-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 06:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>早间竞价：欧洲央行还需要更多证据</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-07/</link>
+      <description><![CDATA[Vidya Ranganathan 对欧洲和全球市场未来一天的展望]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 05:32:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>鲍威尔暗示 2024 年降息，金价延续涨势创新高</title>
+      <link>https://www.reuters.com/markets/commodities/gold-extends-rally-hit-new-record-powell-hints-rate-cut-2024-2024-03-07/</link>
+      <description><![CDATA[在美国经济数据疲软以及美联储主席杰罗姆·鲍威尔表示，如果通胀缓解，未来几个月可能降息的带动下，金价周四上涨，创下新纪录，有望连续第七个交易日上涨。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/gold-extends-rally-hit-new-record-powell-hints-rate-cut-2024-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 05:13:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉因汽车排放标准主张退出澳大利亚汽车游说团体</title>
+      <link>https://www.reuters.com/business/autos-transportation/tesla-quits-australia-auto-lobby-over-claims-car-emission-standards-2024-03-07/</link>
+      <description><![CDATA[特斯拉周四表示，将退出澳大利亚主要汽车游说团体并辞去董事会职务，指责该团体在政府提议的燃油效率标准及其对汽车价格的潜在影响方面误导消费者。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/tesla-quits-australia-auto-lobby-over-claims-car-emission-standards-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 04:22:06 GMT</pubDate>
+    </item>
     <item>
       <title>澳大利亚政府敦促赋予监管机构分拆超市巨头的权力</title>
       <link>https://www.reuters.com/business/retail-consumer/australia-government-urged-give-regulator-power-break-up-supermarket-giants-2024-03-07/</link>
@@ -13,7 +55,7 @@
       <pubDate>Thu, 07 Mar 2024 03:59:03 GMT</pubDate>
     </item>
     <item>
-      <title>中国1-2月进出口超预期预示全球贸易反弹</title>
+      <title>全球需求回升，中国出口超预期</title>
       <link>https://www.reuters.com/markets/asia/chinas-jan-feb-trade-beats-forecasts-signals-global-trade-rebound-2024-03-07/</link>
       <description><![CDATA[中国一月至二月的进出口增长超出预期，表明全球贸易正在出现拐点，这对试图支撑步履蹒跚的经济复苏的政策制定者来说是一个令人鼓舞的信号。]]></description>
       <guid>https://www.reuters.com/markets/asia/chinas-jan-feb-trade-beats-forecasts-signals-global-trade-rebound-2024-03-07/</guid>
@@ -27,39 +69,25 @@
       <pubDate>Thu, 07 Mar 2024 03:14:56 GMT</pubDate>
     </item>
     <item>
-      <title>中国企业集团复星旗下旅游部门表示正在审查业务组合</title>
-      <link>https://www.reuters.com/markets/deals/chinese-conglomerate-fosuns-tourism-unit-says-reviewing-business-portfolio-2024-03-07/</link>
-      <description><![CDATA[复星旅文集团周四表示，正在审查其业务组合，以回应路透社有关其正在探索出售酒店度假村的报道。]]></description>
-      <guid>https://www.reuters.com/markets/deals/chinese-conglomerate-fosuns-tourism-unit-says-reviewing-business-portfolio-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 03:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚洲股市因美国降息而上涨，日元因日本央行的言论而上涨</title>
+      <title>亚洲股市普遍走高；日本央行的讨论提振日元，打压日经指数</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-07/</link>
-      <description><![CDATA[全球最有权势的央行行长向投资者保证美国利率今年将下降，为欧洲政策制定者奠定了基础，亚洲股市周四上涨，而美元则下跌。]]></description>
+      <description><![CDATA[周四，亚洲股市大多上涨，原因是越来越多的迹象表明美联储将很快开始降息，投资者对此感到安慰，而有关日本即将实施政策转变的传言提振了日元，并将日经指数从历史高位拉低。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 02:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>农业部副部长表示，墨西哥正在等待美国证明转基因玉米对其人民安全</title>
-      <link>https://www.reuters.com/markets/commodities/mexico-waiting-us-proof-that-gm-corn-safe-its-people-deputy-ag-minister-says-2024-03-07/</link>
-      <description><![CDATA[墨西哥农业部副部长维克托·苏亚雷斯周三表示，墨西哥正在等待美国证明进口转基因玉米对墨西哥人是安全的，因为两国之间的争端正在国际贸易协定下展开。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/mexico-waiting-us-proof-that-gm-corn-safe-its-people-deputy-ag-minister-says-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 02:20:57 GMT</pubDate>
+      <title>随着刺激退出迫在眉睫，日本央行决策者表示对价格目标有信心</title>
+      <link>https://www.reuters.com/markets/asia/boj-board-member-nakagawa-signals-conviction-over-price-goal-achievement-2024-03-07/</link>
+      <description><![CDATA[日本央行(BOJ)董事会成员中川纯子(Junko Nakakawa)表示，经济正在朝着实现央行2%的通胀目标稳步前进，并表示相信逐步取消大规模刺激措施的条件正在落实。]]></description>
+      <guid>https://www.reuters.com/markets/asia/boj-board-member-nakagawa-signals-conviction-over-price-goal-achievement-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 02:05:56 GMT</pubDate>
     </item>
     <item>
-      <title>美国股市涨幅低于预期，油价小幅走高</title>
+      <title>乐观的中国贸易数据推动油价上涨</title>
       <link>https://www.reuters.com/business/energy/oil-prices-edge-higher-after-us-stocks-build-less-than-expected-2024-03-07/</link>
-      <description><![CDATA[上周美国原油库存增幅低于预期且燃料库存大幅下跌后，周四油价小幅走高。]]></description>
+      <description><![CDATA[周四油价保持稳定，在乐观的中国贸易数据以及美国数据显示原油库存增幅小于预期以及燃料库存大幅减少后，维持隔夜涨幅。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-prices-edge-higher-after-us-stocks-build-less-than-expected-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 01:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>日元因日本央行即将转向支点的可能性而上涨；美元普遍走低</title>
-      <link>https://www.reuters.com/markets/currencies/dollar-falls-with-treasury-yields-views-looming-us-rate-cuts-2024-03-07/</link>
-      <description><![CDATA[日元兑美元汇率周四升至一个月高点，原因是越来越多的人猜测日本央行(BOJ)可能最早在本月结束负利率，以及美国即将降息的押注拖累美元。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/dollar-falls-with-treasury-yields-views-looming-us-rate-cuts-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 01:21:32 GMT</pubDate>
     </item>
     <item>
       <title>FTX 与 BlockFi 达成和解，可能支付高达 8.74 亿美元</title>
@@ -76,27 +104,6 @@
       <pubDate>Wed, 06 Mar 2024 22:20:15 GMT</pubDate>
     </item>
     <item>
-      <title>联合健康技术部门的黑客攻击影响了谁以及什么？</title>
-      <link>https://www.reuters.com/technology/cybersecurity/who-what-is-hack-unitedhealths-tech-unit-affecting-2024-03-06/</link>
-      <description><![CDATA[2 月 21 日，联合健康集团 (UnitedHealth Group) 的 Change Healthcare 技术部门（该部门负责处理该行业的保险索赔和付款）遭到勒索软件攻击，该部门已经扰乱了美国各地的医疗保健。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/who-what-is-hack-unitedhealths-tech-unit-affecting-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 22:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘买盘：抛售，什么抛售？市场回到最佳状态</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-06/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 21:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：内部文件显示，Panera 在 IPO 前放松了成分标准</title>
-      <link>https://www.reuters.com/business/panera-loosens-animal-welfare-ingredients-standards-ahead-ipo-internal-documents-2024-03-06/</link>
-      <description><![CDATA[路透社看到的公司内部文件显示，快餐连锁店 Panera Bread 在计划 IPO 之前放宽了动物福利和所谓食品清洁成分的标准，预计年度成本削减了 2100 万美元。]]></description>
-      <guid>https://www.reuters.com/business/panera-loosens-animal-welfare-ingredients-standards-ahead-ipo-internal-documents-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 20:55:35 GMT</pubDate>
-    </item>
-    <item>
       <title>SpaceX员工在美国诉讼中称存在严重性别偏见和报复</title>
       <link>https://www.reuters.com/legal/spacex-worker-alleges-severe-sex-bias-retaliation-us-lawsuit-2024-03-06/</link>
       <description><![CDATA[火箭制造商 SpaceX 在一项新诉讼中被指控拒绝晋升一名女性生产工人，向她支付低于男同事的工资，并对她举报经理的性骚扰进行报复。]]></description>
@@ -109,13 +116,6 @@
       <description><![CDATA[未来几天，美国债券市场弥漫的不安平静可能会被打破，因为即将公布的就业和消费者价格数据将更多地揭示美联储可能需要在多长时间内维持高利率以彻底击败通胀。]]></description>
       <guid>https://www.reuters.com/markets/us/worst-case-inflation-fears-threaten-bond-market-calm-powell-addresses-lawmakers-2024-03-06/</guid>
       <pubDate>Wed, 06 Mar 2024 18:18:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩根士丹利因电动汽车需求疲软而下调价格目标后特斯拉股价下跌</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-shares-fall-after-morgan-stanley-cuts-price-target-weakening-ev-demand-2024-03-06/</link>
-      <description><![CDATA[特斯拉股价周三连续第三天下跌，此前摩根士丹利一位备受关注的分析师下调了该股的目标价，称尽管大幅降价，但包括中国在内的主要市场的电动汽车需求仍在继续疲软。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-fall-after-morgan-stanley-cuts-price-target-weakening-ev-demand-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 17:43:32 GMT</pubDate>
     </item>
     <item>
       <title>陷入困境的贷款机构 NYCB 从包括姆努钦的公司在内的一批人那里获得了 10 亿美元的投资</title>
