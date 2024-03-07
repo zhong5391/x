@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 20:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 20:32:26 GMT</lastBuildDate>
+    <item>
+      <title>继 2023 年低迷之后，交易撮合者看到选举年并购活动出现“萌芽”</title>
+      <link>https://www.reuters.com/markets/deals/dealmakers-see-green-shoots-ma-activity-election-year-after-2023-doldrums-2024-03-07/</link>
+      <description><![CDATA[在经历了 2023 年的低迷之后，并购活动预计将在今年晚些时候反弹，因为预计美联储将降息，而随着交易撮合者看到未来几个季度的“萌芽”，现金充裕的买家将为更大的交易做好准备。]]></description>
+      <guid>https://www.reuters.com/markets/deals/dealmakers-see-green-shoots-ma-activity-election-year-after-2023-doldrums-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 19:11:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rivian 推出更小、更便宜的电动汽车，加快交付计划</title>
+      <link>https://www.reuters.com/business/autos-transportation/ev-maker-rivian-unveils-smaller-less-expensive-r2-suvs-2024-03-07/</link>
+      <description><![CDATA[Rivian 周四在电动汽车需求放缓的情况下推出了更小、更便宜的 R2 SUV 和 R3 跨界车，并表示将在现有工厂开始生产 R2，以加快 2026 年上半年的交付速度。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ev-maker-rivian-unveils-smaller-less-expensive-r2-suvs-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 18:48:05 GMT</pubDate>
+    </item>
     <item>
       <title>参议院民主党人敦促拜登政府提高对中国电动汽车的关税</title>
       <link>https://www.reuters.com/business/autos-transportation/senate-democrats-urge-biden-administration-hike-tariffs-chinese-evs-2024-03-07/</link>
-      <description><![CDATA[三名参议院民主党人周四敦促拜登政府提高对中国电动汽车的进口关税，以应对国家安全风险，这是立法者保护美国汽车行业的最新举措。]]></description>
+      <description><![CDATA[来自汽车制造州的三名参议院民主党人周四敦促拜登政府提高对中国电动汽车的进口关税，以应对国家安全风险，这是立法者保护美国汽车行业的最新举措。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/senate-democrats-urge-biden-administration-hike-tariffs-chinese-evs-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 18:14:30 GMT</pubDate>
     </item>
@@ -48,25 +62,11 @@
       <pubDate>Thu, 07 Mar 2024 17:33:45 GMT</pubDate>
     </item>
     <item>
-      <title>鲍威尔表示美联储并未“远离”央行数字货币</title>
-      <link>https://www.reuters.com/markets/us/powell-says-fed-not-remotely-close-central-bank-digital-currency-2024-03-07/</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔大幅淡化了央行发行自己的数字货币的可能性，并表示，如果这种情况真的发生，政府将发挥有限的作用。]]></description>
-      <guid>https://www.reuters.com/markets/us/powell-says-fed-not-remotely-close-central-bank-digital-currency-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 17:22:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>据彭博社报道，阿布扎比聘请银行进行阿提哈德航空首次公开募股</title>
-      <link>https://www.reuters.com/markets/deals/abu-dhabi-taps-banks-etihad-airways-ipo-bloomberg-news-reports-2024-03-07/</link>
-      <description><![CDATA[据彭博社周四报道，阿布扎比财富基金 ADQ 已为阿提哈德航空潜在的首次公开募股选择了包括汇丰控股、花旗集团和阿布扎比第一银行在内的顾问。]]></description>
-      <guid>https://www.reuters.com/markets/deals/abu-dhabi-taps-banks-etihad-airways-ipo-bloomberg-news-reports-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 16:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储梅斯特仍预计今年晚些时候降息</title>
-      <link>https://www.reuters.com/markets/us/feds-mester-still-sees-rate-cuts-later-this-year-2024-03-07/</link>
-      <description><![CDATA[克利夫兰联邦储备银行行长洛雷塔·梅斯特周四重申，她相信央行今年将能够降低利率，但她指出，目前还没有采取正确行动的紧迫性。]]></description>
-      <guid>https://www.reuters.com/markets/us/feds-mester-still-sees-rate-cuts-later-this-year-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 16:38:43 GMT</pubDate>
+      <title>股市繁荣带动美国家庭财富飙升创纪录</title>
+      <link>https://www.reuters.com/markets/us/us-household-wealth-soars-record-booming-stocks-2024-03-07/</link>
+      <description><![CDATA[美联储周四表示，由于股市飙升抵消了房地产市场价值的下跌，美国家庭财富到 2023 年底将增至约 156.2 万亿美元，创下历史新高。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-household-wealth-soars-record-booming-stocks-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 17:11:21 GMT</pubDate>
     </item>
     <item>
       <title>Gartner 表示，到 2027 年，电动汽车的生产成本将低于汽油动力汽车</title>
@@ -111,23 +111,23 @@
       <pubDate>Thu, 07 Mar 2024 11:04:53 GMT</pubDate>
     </item>
     <item>
-      <title>国会禁止 TikTok 或迫使中国剥离的新举措势头强劲</title>
+      <title>美国众议院委员会将就 TikTok 打击法案进行投票</title>
       <link>https://www.reuters.com/technology/new-push-congress-ban-tiktok-or-force-chinese-divestiture-gains-steam-2024-03-07/</link>
-      <description><![CDATA[美国众议院能源和商业委员会预计将于周四就一项立法进行投票，该法案将给予中国字节跳动六个月的时间从短视频应用 TikTok 剥离，否则将面临美国禁令。]]></description>
+      <description><![CDATA[美国众议院能源和商务委员会将于周四就一项立法进行投票，该法案将给予中国字节跳动六个月的时间从短视频应用 TikTok 撤资，否则将面临美国禁令。]]></description>
       <guid>https://www.reuters.com/technology/new-push-congress-ban-tiktok-or-force-chinese-divestiture-gains-steam-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 11:02:45 GMT</pubDate>
     </item>
     <item>
-      <title>标准普尔500指数创历史新高，芯片股延续涨势</title>
+      <title>华尔街上涨，标准普尔500指数创历史新高，芯片股延续涨势</title>
       <link>https://www.reuters.com/markets/us/nasdaq-sp-500-futures-inch-up-ahead-more-economic-data-powell-testimony-2024-03-07/</link>
-      <description><![CDATA[华尔街主要股指周四攀升，其中纳斯达克指数在芯片制造商的支持下领涨，而基准标准普尔 500 指数盘中创下历史新高，因投资者对美联储 6 月降息的前景保持乐观。]]></description>
+      <description><![CDATA[华尔街主要股指周四攀升，在科技股和成长股以及投资者对美联储降息前景的乐观支撑下，标普500指数和纳斯达克指数双双创下盘中历史新高。]]></description>
       <guid>https://www.reuters.com/markets/us/nasdaq-sp-500-futures-inch-up-ahead-more-economic-data-powell-testimony-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 10:44:29 GMT</pubDate>
     </item>
     <item>
-      <title>NYCB新任首席执行官在存款下降、股息削减后考虑商业计划</title>
+      <title>NYCB 着眼于潜在的贷款簿销售，存款减少 7%</title>
       <link>https://www.reuters.com/markets/us/nycb-seeks-stem-stock-rout-with-mnuchin-backed-1-bln-capital-injection-2024-03-07/</link>
-      <description><![CDATA[纽约社区银行 (New York Community Bancorp) 即将上任的首席执行官表示，在这家陷入困境的银行从投资者那里获得了 10 亿美元的救生索、自 1 月份以来第二次削减股息并透露存款下降 7% 后，他正在制定一项新的业务计划。]]></description>
+      <description><![CDATA[纽约社区银行新任首席执行官周四表示，该银行看到非银行竞标者对其部分贷款产生了兴趣，并将在下个月制定新的业务计划，此前该银行再次大幅削减股息，并披露存款下降了 7%。]]></description>
       <guid>https://www.reuters.com/markets/us/nycb-seeks-stem-stock-rout-with-mnuchin-backed-1-bln-capital-injection-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 10:39:35 GMT</pubDate>
     </item>
