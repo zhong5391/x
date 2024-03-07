@@ -1,35 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 14:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 14:51:56 GMT</lastBuildDate>
     <item>
-      <title>伦敦劳合社 2023 年承保利润翻倍</title>
-      <link>https://www.reuters.com/world/uk/lloyds-london-2023-underwriting-profit-doubles-2024-03-07/</link>
-      <description><![CDATA[伦敦劳合社 (SOLYD.UL) 周四表示，由于商业保险公司削减了风险较高的业务并提高了保费，该公司的承保利润在 2023 年增长了 127%，达到 59 亿英镑（75.2 亿美元）。]]></description>
-      <guid>https://www.reuters.com/world/uk/lloyds-london-2023-underwriting-profit-doubles-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 12:02:51 GMT</pubDate>
+      <title>美联储鲍曼：“尚未”准备好降息，如果需要愿意再次加息</title>
+      <link>https://www.reuters.com/markets/us/feds-bowman-not-yet-ready-rate-cuts-willing-hike-again-if-needed-2024-03-07/</link>
+      <description><![CDATA[美联储理事米歇尔·鲍曼周四表示，美国经济尚未达到美联储应该降息的地步，尽管通胀下降和最终降息的底线仍然存在，但仍不能排除收紧货币政策的可能性。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-bowman-not-yet-ready-rate-cuts-willing-hike-again-if-needed-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 14:13:45 GMT</pubDate>
     </item>
     <item>
-      <title>全球银行监管机构严厉打击大型贷方游戏资本规则</title>
-      <link>https://www.reuters.com/business/finance/global-banking-watchdog-crack-down-window-dressing-by-big-lenders-2024-03-07/</link>
-      <description><![CDATA[全球银行业监管机构周四提出措施，打击全球最大银行为避免更高资本要求而玩弄规则的“不可接受”尝试。]]></description>
-      <guid>https://www.reuters.com/business/finance/global-banking-watchdog-crack-down-window-dressing-by-big-lenders-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 11:23:33 GMT</pubDate>
+      <title>需求萎缩影响销售预期，维多利亚的秘密 (Victoria's Secret) 下跌</title>
+      <link>https://www.reuters.com/business/retail-consumer/victorias-secret-falls-shrinking-demand-hits-sales-forecasts-2024-03-07/</link>
+      <description><![CDATA[维多利亚的秘密周四，该内衣品牌预计，由于北美主要市场的消费者转向更便宜的选择，开年低迷，年销售额将下降，该公司股价周四盘前暴跌约 29%。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/victorias-secret-falls-shrinking-demand-hits-sales-forecasts-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 14:10:46 GMT</pubDate>
     </item>
     <item>
-      <title>Rovi 探索出售为第三方生产药品的部门</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/rovi-explores-sale-unit-that-makes-drugs-third-parties-2024-03-07/</link>
-      <description><![CDATA[西班牙制药公司 Rovi 周四表示，已聘请财务咨询和资产管理公司 Lazard 探讨出售其用于生产新冠疫苗的第三方制造业务。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/rovi-explores-sale-unit-that-makes-drugs-third-parties-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 11:22:35 GMT</pubDate>
+      <title>LinkedIn 罕见地透露，付费订阅带来了 17 亿美元的收入</title>
+      <link>https://www.reuters.com/technology/rare-disclosure-linkedin-says-premium-subscriptions-bring-17-billion-2024-03-07/</link>
+      <description><![CDATA[LinkedIn 周四首次披露了其高级订阅业务的销售额，称该部门的收入将在 2023 年达到 17 亿美元，因为该公司看到新人工智能工具的采用有所增加。]]></description>
+      <guid>https://www.reuters.com/technology/rare-disclosure-linkedin-says-premium-subscriptions-bring-17-billion-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 14:04:46 GMT</pubDate>
     </item>
     <item>
-      <title>GE航空航天公司预计2028年营业利润将达到100亿美元，并设定股东回报目标</title>
+      <title>美国每周初请失业金人数不变</title>
+      <link>https://www.reuters.com/markets/us/us-weekly-jobless-claims-unchanged-2024-03-07/</link>
+      <description><![CDATA[由于劳动力市场继续逐步放缓，上周美国初请失业金人数没有变化。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-weekly-jobless-claims-unchanged-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 13:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲央行下调增长和通胀预测</title>
+      <link>https://www.reuters.com/markets/europe/ecb-cuts-growth-inflation-projections-2024-03-07/</link>
+      <description><![CDATA[欧洲央行周四下调了部分增长和通胀预期，将明年物价增长目标调整至 2%，原因是经济增长疲软和能源价格良性限制了物价压力。]]></description>
+      <guid>https://www.reuters.com/markets/europe/ecb-cuts-growth-inflation-projections-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 13:29:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲央行维持利率不变，但承认通胀有所降温</title>
+      <link>https://www.reuters.com/markets/europe/ecb-keeps-rates-hold-acknowledges-some-inflation-cooling-2024-03-07/</link>
+      <description><![CDATA[欧洲央行周四如预期维持利率不变，但承认通胀放缓速度比之前预期的要快，这可能为今年晚些时候的降息开辟道路。]]></description>
+      <guid>https://www.reuters.com/markets/europe/ecb-keeps-rates-hold-acknowledges-some-inflation-cooling-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 13:21:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜耳大股东哈里斯支持首席执行官专注于内部重组</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/major-bayer-shareholder-harris-backs-ceos-focus-internal-restructuring-2024-03-07/</link>
+      <description><![CDATA[拜耳三大股东 Harris Associates 周四强烈支持该制药商首席执行官暂停多元化集团的拆分工作，并专注于改善公司的经营业绩。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/major-bayer-shareholder-harris-backs-ceos-focus-internal-restructuring-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 13:16:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国之鹰航空因需求强劲、折扣减少而超出预期；股价上涨</title>
+      <link>https://www.reuters.com/business/retail-consumer/american-eagle-beats-quarterly-revenue-estimates-2024-03-07/</link>
+      <description><![CDATA[周四，American Eagle Outfitters 的第四季度业绩超出了华尔街的预期，消费者在美国关键的假日购物季抢购了这家服装零售商的全价商品。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/american-eagle-beats-quarterly-revenue-estimates-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 13:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>克罗格预测 2024 年食品杂货需求保持强劲</title>
+      <link>https://www.reuters.com/business/retail-consumer/kroger-forecasts-2024-sales-largely-above-market-estimates-2024-03-07/</link>
+      <description><![CDATA[克罗格周四预测，随着越来越多的美国人在持续的通货膨胀下在家做饭，其商店对食品杂货的需求将会增加，其年销售额和利润将大大高于华尔街的预期。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/kroger-forecasts-2024-sales-largely-above-market-estimates-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 13:06:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国裁员人数创去年3月以来最高</title>
+      <link>https://www.reuters.com/markets/us/us-layoffs-reach-highest-since-last-march-2024-03-07/</link>
+      <description><![CDATA[周四发布的一份报告称，由于自动化相关的重组继续造成影响，美国上个月裁员公告增加了 3%，达到 11 个月来的最高水平。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-layoffs-reach-highest-since-last-march-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 12:40:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>NYCB 总存款下降 7% 至 772 亿美元，股价下跌</title>
+      <link>https://www.reuters.com/markets/us/nycb-total-deposits-drop-7-772-billion-shares-fall-2024-03-07/</link>
+      <description><![CDATA[纽约社区银行周四披露，其持有存款为 772 亿美元，较 2 月 5 日的 830 亿美元下降约 7%，导致其股价在盘前下跌 3.3%。]]></description>
+      <guid>https://www.reuters.com/markets/us/nycb-total-deposits-drop-7-772-billion-shares-fall-2024-03-07/</guid>
+      <pubDate>Thu, 07 Mar 2024 12:29:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE航空航天公司预计2028年营业利润将达到100亿美元，设定股息目标</title>
       <link>https://www.reuters.com/business/aerospace-defense/ge-aerospace-forecasts-10-bln-operating-profit-2028-sets-shareholder-return-2024-03-07/</link>
-      <description><![CDATA[通用电气公司航空航天业务周四重申了今年的展望，并预测 2028 年营业利润将达到 100 亿美元，理由是对其产品和服务的强劲需求。]]></description>
+      <description><![CDATA[通用电气公司航空航天业务周四预测，其营业利润将在 2028 年增至约 100 亿美元，并表示其目标是将初始股息支付率为净利润的 30%。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/ge-aerospace-forecasts-10-bln-operating-profit-2028-sets-shareholder-return-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 11:20:13 GMT</pubDate>
     </item>
@@ -46,13 +102,6 @@
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 11:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>勃林格殷格翰将吸入器的自付费用削减至 35 美元</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/boehringer-cut-out-of-pocket-costs-inhalers-35-2024-03-07/</link>
-      <description><![CDATA[德国制药商勃林格殷格翰 (Boehringer Ingelheim) 周四表示，从 6 月 1 日起，该公司用于治疗慢性肺病和哮喘的吸入器产品的自付费用将降低至每月 35 美元。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/boehringer-cut-out-of-pocket-costs-inhalers-35-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 11:07:36 GMT</pubDate>
     </item>
     <item>
       <title>洞察：美国监管机构为 NYCB 的快速增长开绿灯，尽管存在危险信号</title>
@@ -76,74 +125,25 @@
       <pubDate>Thu, 07 Mar 2024 11:02:45 GMT</pubDate>
     </item>
     <item>
-      <title>鲍威尔作证，纳斯达克、标准普尔 500 指数期货在更多经济数据公布之前小幅上涨</title>
-      <link>https://www.reuters.com/markets/us/nasdaq-sp-500-futures-inch-up-ahead-more-economic-data-powell-testimony-2024-03-07/</link>
-      <description><![CDATA[周四，在更多经济数据和杰罗姆·鲍威尔发表评论之前，标准普尔 500 指数和纳斯达克期货小幅走高，此前美联储主席隔夜坚守剧本，表示央行仍预计今年晚些时候降息。]]></description>
-      <guid>https://www.reuters.com/markets/us/nasdaq-sp-500-futures-inch-up-ahead-more-economic-data-powell-testimony-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 10:44:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>NYCB 寻求通过努钦支持的 10 亿美元注资来遏制股市暴跌</title>
+      <title>NYCB 披露存款流出 7%，进一步削减股息</title>
       <link>https://www.reuters.com/markets/us/nycb-seeks-stem-stock-rout-with-mnuchin-backed-1-bln-capital-injection-2024-03-07/</link>
-      <description><![CDATA[纽约社区银行 (New York Community Bancorp) 的股价周四上涨，此前美国前财政部长史蒂文·姆努钦 (Steven Mnuchin) 领导的知名投资者财团向其注资 10 亿美元，帮助缓解了该银行财务方面的紧张情绪。]]></description>
+      <description><![CDATA[纽约社区银行 (New York Community Bancorp) 披露，过去一个月的存款下降了 7%，并自 1 月份以来第二次减少了季度股息，削弱了投资者对其一天前获得的 10 亿美元生命线的乐观情绪。]]></description>
       <guid>https://www.reuters.com/markets/us/nycb-seeks-stem-stock-rout-with-mnuchin-backed-1-bln-capital-injection-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 10:39:35 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟监管机构寻求苹果与 Epic Games 争端升级的细节</title>
-      <link>https://www.reuters.com/technology/eu-regulators-seek-details-escalating-apple-epic-games-spat-2024-03-07/</link>
-      <description><![CDATA[反垄断监管机构周四表示，欧盟已要求苹果公司解释为何阻止《堡垒之夜》视频游戏制造商 Epic Games 在欧洲推出自己的 iPhone 和 iPad 在线市场，以及这是否违反了欧盟技术规则。]]></description>
-      <guid>https://www.reuters.com/technology/eu-regulators-seek-details-escalating-apple-epic-games-spat-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 08:17:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>实验性 Novo 肥胖药物在早期试验中比 Wegovy 更有效</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-present-early-stage-trial-data-new-diabetes-drug-investor-meeting-2024-03-07/</link>
-      <description><![CDATA[诺和诺德周四表示，其备受期待的实验性肥胖药物阿米菌素的早期试验数据显示，与其广受欢迎的 Wegovy 疗法相比，减肥效果更高，导致其股价创下新高。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-present-early-stage-trial-data-new-diabetes-drug-investor-meeting-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 07:11:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yandex 和 Polymetal 股东将批准俄罗斯重大退出交易</title>
-      <link>https://www.reuters.com/business/yandex-polymetal-shareholders-set-approve-major-russian-exit-deals-2024-03-07/</link>
-      <description><![CDATA[自莫斯科入侵乌克兰以来，俄罗斯最大的两笔企业退出交易将于周四等待股东批准，其中“俄罗斯谷歌”Yandex 和主要矿业资产将转入俄罗斯所有权，交易总额约为 90 亿美元。]]></description>
-      <guid>https://www.reuters.com/business/yandex-polymetal-shareholders-set-approve-major-russian-exit-deals-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 06:11:08 GMT</pubDate>
-    </item>
-    <item>
       <title>随着大型科技公司争先恐后地遵守欧盟规则，调查可能会发生</title>
       <link>https://www.reuters.com/technology/big-tech-scrambles-meet-eu-rules-investigations-seen-likely-2024-03-07/</link>
-      <description><![CDATA[谷歌、苹果、亚马逊、微软、Meta 和 TikTok 母公司字节跳动在过去六个月里都在努力遵守周四生效的具有里程碑意义的欧盟技术规则，从在线平台的彻底改革到后台工程。]]></description>
+      <description><![CDATA[全球最大的科技公司已经彻底改革了其核心平台服务，以遵守欧盟规则，迫使它们与竞争对手更加公平地竞争，但由于批评它们的努力可能不够充分，未来可能会面临调查。]]></description>
       <guid>https://www.reuters.com/technology/big-tech-scrambles-meet-eu-rules-investigations-seen-likely-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 06:03:36 GMT</pubDate>
     </item>
     <item>
-      <title>全球需求回升，中国出口超预期</title>
-      <link>https://www.reuters.com/markets/asia/chinas-jan-feb-trade-beats-forecasts-signals-global-trade-rebound-2024-03-07/</link>
-      <description><![CDATA[中国一月至二月的进出口增长超出预期，表明全球贸易正在出现拐点，这对试图支撑步履蹒跚的经济复苏的政策制定者来说是一个令人鼓舞的信号。]]></description>
-      <guid>https://www.reuters.com/markets/asia/chinas-jan-feb-trade-beats-forecasts-signals-global-trade-rebound-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 03:34:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行提振日元，欧洲等待欧洲央行</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-07/</link>
-      <description><![CDATA[欧洲正在等待欧洲央行周四公布最新的降息计划，此前美联储再次暗示将进行多年来的首次降息，而日本央行则让日元再次走高。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 02:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行对物价和工资的信心不断增强，焦点转向三月会议</title>
-      <link>https://www.reuters.com/markets/asia/boj-board-member-nakagawa-signals-conviction-over-price-goal-achievement-2024-03-07/</link>
-      <description><![CDATA[日本央行(BOJ)行长及其一名董事会成员周四表示，经济正在朝着央行2%的通胀目标迈进，这一言论增强了市场对负利率即将结束的预期。]]></description>
-      <guid>https://www.reuters.com/markets/asia/boj-board-member-nakagawa-signals-conviction-over-price-goal-achievement-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 02:05:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国、加拿大公司以裁员开启2024年</title>
-      <link>https://www.reuters.com/business/job-cuts-spill-beyond-tech-sector-2024-02-09/</link>
-      <description><![CDATA[美国和加拿大的公司在 2024 年伊始就在各个行业裁员了数千人，这表明，随着它们争先恐后地控制成本，2023 年的大量裁员可能会持续下去。]]></description>
-      <guid>https://www.reuters.com/business/job-cuts-spill-beyond-tech-sector-2024-02-09/</guid>
-      <pubDate>Fri, 09 Feb 2024 23:26:48 GMT</pubDate>
+      <title>随着通胀下降，欧洲央行朝着降息迈出了一小步</title>
+      <link>https://www.reuters.com/world/europe/ecb-hold-rates-take-baby-steps-towards-first-cut-2024-03-06/</link>
+      <description><![CDATA[欧洲央行周四将借贷成本维持在历史高位，但在降低借贷成本方面迈出了第一步，称通胀放缓速度快于几个月前的预期。]]></description>
+      <guid>https://www.reuters.com/world/europe/ecb-hold-rates-take-baby-steps-towards-first-cut-2024-03-06/</guid>
+      <pubDate>Wed, 06 Mar 2024 23:02:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
