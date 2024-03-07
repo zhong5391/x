@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 07 Mar 2024 10:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2024 11:16:14 GMT</lastBuildDate>
     <item>
       <title>高盛上调标准普尔 500 强公司股票回购预期</title>
       <link>https://www.reuters.com/business/finance/goldman-sachs-lifts-stock-buyback-forecast-sp-500-companies-2024-03-07/</link>
-      <description><![CDATA[高盛上调了对标准普尔 500 指数成分股公司的股票回购预测，在超预期的大型科技股盈利增长的推动下，回购额预计将在 2024 年增长 13%，达到 9,250 亿美元。]]></description>
+      <description><![CDATA[高盛上调了对标普 500 指数成分股公司的股票回购预测，在超预期的大型科技股盈利增长的推动下，回购规模预计将在 2024 年增长 13%，达到 9,250 亿美元。]]></description>
       <guid>https://www.reuters.com/business/finance/goldman-sachs-lifts-stock-buyback-forecast-sp-500-companies-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 09:01:00 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 07 Mar 2024 06:11:08 GMT</pubDate>
     </item>
     <item>
-      <title>劳资纠纷困扰汉莎航空 2024 年前景黯淡</title>
+      <title>由于劳资纠纷的影响，汉莎航空给出了疲软的 2024 年前景</title>
       <link>https://www.reuters.com/business/aerospace-defense/lufthansa-drops-2024-operating-margin-target-76-costs-rise-2024-03-07/</link>
       <description><![CDATA[汉莎航空周四警告称，第一季度的运营亏损将扩大，并给出了 2024 年前景黯淡的预测，因为这家德国航空公司正在努力应对代价高昂的劳资纠纷，抵消了旅游业的繁荣。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/lufthansa-drops-2024-operating-margin-target-76-costs-rise-2024-03-07/</guid>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 07 Mar 2024 06:03:36 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：欧洲央行还需要更多证据</title>
+      <title>早间竞价：欧洲央行还需要更多证据</title>
       <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-07/</link>
       <description><![CDATA[Vidya Ranganathan 对欧洲和全球市场未来一天的展望]]></description>
       <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-07/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>亚洲股市普遍走高；日本央行的讨论提振日元，打压日经指数</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-07/</link>
-      <description><![CDATA[亚洲股市周四大多上涨，原因是越来越多的迹象表明美联储将很快开始降息，投资者对此感到安慰，而有关日本即将采取政策转变的传言提振了日元，并将日经指数从历史高位拉低。]]></description>
+      <description><![CDATA[周四，亚洲股市大多上涨，原因是越来越多的迹象表明美联储将很快开始降息，投资者对此感到安慰，而有关日本即将实施政策转变的传言提振了日元，并将日经指数从历史高位拉低。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-07/</guid>
       <pubDate>Thu, 07 Mar 2024 02:35:13 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>德国房地产贷款人 PBB 与遭受危机打击的美国市场</title>
       <link>https://www.reuters.com/markets/german-property-lender-pbb-crisis-hit-us-market-2024-02-20/</link>
-      <description><![CDATA[德意志 Pfandbriefbank (PBB) 是德国顶级房地产金融机构之一，其历史可追溯至 1860 年代，并于 2009 年获得政府救助，目前该银行正在应对所谓的“金融危机以来最严重的房地产危机”。]]></description>
+      <description><![CDATA[Deutsche Pfandbriefbank (PBB) 是德国顶级房地产金融机构之一，其历史可追溯至 1860 年代，并于 2009 年获得政府救助，目前正在应对所谓的“金融危机以来最严重的房地产危机”。]]></description>
       <guid>https://www.reuters.com/markets/german-property-lender-pbb-crisis-hit-us-market-2024-02-20/</guid>
       <pubDate>Tue, 20 Feb 2024 13:06:10 GMT</pubDate>
     </item>
