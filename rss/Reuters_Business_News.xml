@@ -1,28 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 08 Mar 2024 18:52:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 19:14:53 GMT</lastBuildDate>
+    <item>
+      <title>苹果在史诗般的争斗中撤退，允许《堡垒之夜》在欧盟回归</title>
+      <link>https://www.reuters.com/technology/apple-reinstates-epic-games-developer-account-2024-03-08/</link>
+      <description><![CDATA[周五，苹果公司在与 Epic Games 的争执中退了一步，为这家《堡垒之夜》视频游戏制造商在欧洲推出自己的 iPhone 和 iPad 在线市场扫清了道路。]]></description>
+      <guid>https://www.reuters.com/technology/apple-reinstates-epic-games-developer-account-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 18:01:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于季度收入低于预期，好市多 (Costco) 股价创下近两年来最糟糕的一天</title>
+      <link>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</link>
+      <description><![CDATA[Costco 的股价周五下跌超过 7%，创下自 2022 年 5 月以来最糟糕的一天，此前这家会员制零售连锁店未达到第二季度收入预期，并暗示汽油价格下跌带来了负面影响。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 17:29:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>据彭博社报道，台积电将为美国一家芯片工厂赢得超过 50 亿美元的资助</title>
+      <link>https://www.reuters.com/technology/tsmc-win-more-than-5-billion-grants-us-chip-plant-bloomberg-reports-2024-03-08/</link>
+      <description><![CDATA[据彭博社周五报道，全球最大的代工芯片制造商台积电 (TSMC) 将从美国政府获得超过 50 亿美元的联邦拨款，用于在亚利桑那州建立一家芯片制造工厂。]]></description>
+      <guid>https://www.reuters.com/technology/tsmc-win-more-than-5-billion-grants-us-chip-plant-bloomberg-reports-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 17:27:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称，意大利敲定了价值 33 亿美元的 Silicon Box 工厂交易</title>
+      <link>https://www.reuters.com/technology/italy-finalising-33-bln-silicon-box-plant-deal-source-says-2024-03-08/</link>
+      <description><![CDATA[一位知情人士周五表示，意大利正在敲定与半导体公司 Silicon Box 价值约 30 亿欧元（合 33 亿美元）的国家支持协议条款，以在该国建设工业基地。]]></description>
+      <guid>https://www.reuters.com/technology/italy-finalising-33-bln-silicon-box-plant-deal-source-says-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 17:15:51 GMT</pubDate>
+    </item>
     <item>
       <title>高盛董事会成员杰西卡·乌尔将离职</title>
       <link>https://www.reuters.com/business/finance/goldman-sachs-board-member-jessica-uhl-depart-2024-03-08/</link>
-      <description><![CDATA[高盛周五表示，董事会成员杰西卡·乌尔 (Jessica Uhl) 将辞去通用电气能源分拆公司 GE Vernova 总裁职务，专注于她的职务。]]></description>
+      <description><![CDATA[高盛周五表示，董事会成员杰西卡·乌尔 (Jessica Uhl) 将辞去通用电气能源分拆公司 GE Vernova 总裁一职，专注于她的职务。]]></description>
       <guid>https://www.reuters.com/business/finance/goldman-sachs-board-member-jessica-uhl-depart-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 17:07:28 GMT</pubDate>
     </item>
     <item>
       <title>劳资委员会主席表示，特斯拉德国工厂将于下周重启</title>
       <link>https://www.reuters.com/business/autos-transportation/teslas-german-plant-restart-next-week-says-works-council-head-2024-03-08/</link>
-      <description><![CDATA[特斯拉位于柏林附近的德国工厂自 3 月 5 日以来一直处于停工状态，原因是极左极端分子对附近的一座电力塔进行了纵火袭击，该工厂劳资委员会负责人周五表示，该工厂将于下周恢复运营。]]></description>
+      <description><![CDATA[特斯拉劳资委员会负责人周五表示，在停电导致生产停止后，特斯拉位于柏林附近的德国工厂将于下周恢复运营。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/teslas-german-plant-restart-next-week-says-works-council-head-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 17:00:16 GMT</pubDate>
     </item>
     <item>
       <title>萨姆·奥尔特曼的世界币在西班牙禁令后提起诉讼</title>
       <link>https://www.reuters.com/technology/sam-altmans-worldcoin-files-lawsuit-after-spanish-ban-2024-03-08/</link>
-      <description><![CDATA[萨姆·奥尔特曼（Sam Altman）的世界币发言人周五表示，世界币已针对西班牙数据保护监管机构被禁止在西班牙运营而提起诉讼。]]></description>
+      <description><![CDATA[萨姆·奥尔特曼 (Sam Altman) 的世界币发言人周五表示，世界币已针对西班牙数据保护监管机构被禁止在西班牙运营而提起诉讼。]]></description>
       <guid>https://www.reuters.com/technology/sam-altmans-worldcoin-files-lawsuit-after-spanish-ban-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 16:57:44 GMT</pubDate>
     </item>
@@ -55,20 +83,6 @@
       <pubDate>Fri, 08 Mar 2024 16:04:29 GMT</pubDate>
     </item>
     <item>
-      <title>Stellantis 将于 2025 年下半年推出新款阿尔法罗密欧 Stelvio SUV</title>
-      <link>https://www.reuters.com/business/autos-transportation/stellantis-launch-new-alfa-romeo-stelvio-suv-h2-2025-2024-03-08/</link>
-      <description><![CDATA[意大利高端品牌 Stellantis 旗下阿尔法·罗密欧 (Alfa Romeo) 周五表示，将于明年下半年推出新款 Stelvio 运动型多用途车 (SUV)，随后于 2026 年推出新款 Giulia 运动轿车。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/stellantis-launch-new-alfa-romeo-stelvio-suv-h2-2025-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 15:57:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国联邦检察官调查特斯拉纵火案</title>
-      <link>https://www.reuters.com/world/europe/germanys-federal-prosecutor-investigates-tesla-arson-attack-2024-03-08/</link>
-      <description><![CDATA[德国联邦检察官办公室已接手对导致柏林附近特斯拉德国工厂供电中断的纵火袭击事件进行调查，并以恐怖主义罪名展开调查。]]></description>
-      <guid>https://www.reuters.com/world/europe/germanys-federal-prosecutor-investigates-tesla-arson-attack-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 15:39:27 GMT</pubDate>
-    </item>
-    <item>
       <title>比特币短暂升至历史新高超过 70,000 美元</title>
       <link>https://www.reuters.com/markets/currencies/bitcoin-rises-record-high-over-70000-2024-03-08/</link>
       <description><![CDATA[随着加密货币狂热继续席卷投资界，比特币在周五的波动交易中短暂上涨至历史新高。]]></description>
@@ -78,9 +92,16 @@
     <item>
       <title>Rivian 因新推出的 R2 SUV 吸引了大量早期订单而上涨</title>
       <link>https://www.reuters.com/business/autos-transportation/rivian-surges-new-launch-r2-suv-attracts-strong-early-orders-2024-03-08/</link>
-      <description><![CDATA[Rivian 股价周五上涨约 4%，其更便宜的 R2 SUV 在推出后数小时内就获得了数万辆预订，这增强了人们对这家电动汽车制造商在大众市场领域扩张的乐观情绪。]]></description>
+      <description><![CDATA[Rivian 的股价周五上涨超过 3%，其更便宜的 R2 SUV 在推出后数小时内就获得了数万辆预订，这增强了人们对这家电动汽车制造商在大众市场领域扩张的乐观情绪。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/rivian-surges-new-launch-r2-suv-attracts-strong-early-orders-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 15:31:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国就业市场数据支持美联储“不急于”降息的观点</title>
+      <link>https://www.reuters.com/markets/us/fed-gets-another-reason-not-rush-rate-cuts-2024-03-08/</link>
+      <description><![CDATA[政府报告显示二月份就业增长强劲，但也有劳动力市场降温的迹象，这可能有助于美联储应对通胀，周五，正在权衡何时开始降息的美联储政策制定者有了继续待命的新理由。]]></description>
+      <guid>https://www.reuters.com/markets/us/fed-gets-another-reason-not-rush-rate-cuts-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:20:13 GMT</pubDate>
     </item>
     <item>
       <title>微软称俄罗斯国家支持的黑客再次试图破坏其系统</title>
@@ -90,18 +111,11 @@
       <pubDate>Fri, 08 Mar 2024 14:10:50 GMT</pubDate>
     </item>
     <item>
-      <title>美国就业增长加速；失业率达3.9%，创两年新高</title>
+      <title>美国劳动力市场降温；失业率升至两年高位3.9%</title>
       <link>https://www.reuters.com/markets/us/us-job-growth-accelerates-february-unemployment-rate-rises-39-2024-03-08/</link>
-      <description><![CDATA[美国2月份就业增长加速，但前两个月就业增长的下调以及失业率升至3.9%的两年高点表明劳动力市场正在放缓。]]></description>
+      <description><![CDATA[美国 2 月份就业增长加速，但这可能掩盖了劳动力市场状况的疲软，因为失业率升至 3.9% 的两年高位。]]></description>
       <guid>https://www.reuters.com/markets/us/us-job-growth-accelerates-february-unemployment-rate-rises-39-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 13:43:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：海湾石油巨头沙特阿美公司和阿布扎比国家石油公司将目光投向锂</title>
-      <link>https://www.reuters.com/markets/commodities/gulf-oil-giants-saudi-aramco-adnoc-set-sights-lithium-2024-03-08/</link>
-      <description><![CDATA[三名消息人士告诉路透社，沙特阿拉伯和阿拉伯联合酋长国的国家石油公司计划从其油田的盐水中提取锂，以实现经济多元化并从转向电动汽车（EV）中获利。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/gulf-oil-giants-saudi-aramco-adnoc-set-sights-lithium-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 13:29:46 GMT</pubDate>
     </item>
     <item>
       <title>诺和诺德首席执行官表示，肥胖领域的创新可能证明某些细分市场的价格上涨是合理的</title>
@@ -111,30 +125,16 @@
       <pubDate>Fri, 08 Mar 2024 11:09:19 GMT</pubDate>
     </item>
     <item>
-      <title>地区动荡一年后，美国小企业为信贷而苦苦挣扎</title>
-      <link>https://www.reuters.com/markets/us/us-small-businesses-struggle-credit-one-year-after-regional-turmoil-2024-03-08/</link>
-      <description><![CDATA[由于一年前利率上升和银行倒闭的影响持续存在，美国的小企业主正在努力从传统贷款机构获得融资，从而阻碍了一些企业的业务增长。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-small-businesses-struggle-credit-one-year-after-regional-turmoil-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 11:07:05 GMT</pubDate>
-    </item>
-    <item>
       <title>雪佛龙首席执行官因赫斯收购而面临一生的挑战</title>
       <link>https://www.reuters.com/business/energy/chevrons-ceo-faces-challenges-lifetime-with-hess-bid-2024-03-08/</link>
-      <description><![CDATA[雪佛龙首席执行官迈克尔·沃斯 (Michael Wirth) 正面临与埃克森美孚 (Exxon Mobil) 的正面竞争，后者斥资 530 亿美元收购赫斯 (Hess) 及其在石油热点圭亚那的股份，并可能最终陷入南美洲两个最大能源竞争对手之间的争端。]]></description>
+      <description><![CDATA[雪佛龙首席执行官迈克尔·沃斯 (Michael Wirth) 正面临着与埃克森美孚 (Exxon Mobil) 的正面竞争，后者斥资 530 亿美元收购赫斯 (Hess) 及其在石油热点圭亚那的股份，并可能最终陷入南美洲两个最大能源竞争对手之间的争端。]]></description>
       <guid>https://www.reuters.com/business/energy/chevrons-ceo-faces-challenges-lifetime-with-hess-bid-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 11:03:53 GMT</pubDate>
     </item>
     <item>
-      <title>BP碳排放量自2019年以来首次上升</title>
-      <link>https://www.reuters.com/business/energy/bps-operational-emissions-edge-higher-2023-2024-03-08/</link>
-      <description><![CDATA[英国石油公司 (BP) 周五表示，随着该公司启动新的石油和天然气项目并提高生产水平，2023 年总体碳排放量自 2019 年以来首次攀升。]]></description>
-      <guid>https://www.reuters.com/business/energy/bps-operational-emissions-edge-higher-2023-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 10:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>就业数据增强降息押注，标普 500 指数和纳斯达克指数创历史新高</title>
+      <title>随着芯片股从历史高位下滑，以科技股为主的纳斯达克指数下跌</title>
       <link>https://www.reuters.com/markets/us/futures-steady-before-key-payrolls-test-2024-03-08/</link>
-      <description><![CDATA[周五，标准普尔 500 指数和纳斯达克指数创下盘中新高，此前数据显示失业率上升和工资涨幅放缓，增强了美联储可能在今年年中开始降息的预期。]]></description>
+      <description><![CDATA[由于芯片股的涨势失去了一些动力，纳斯达克和标准普尔 500 指数周五下跌，而好坏参半的劳动力市场报告显示，尽管失业率意外上升，但雇主 2 月份新增就业岗位多于预期。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-steady-before-key-payrolls-test-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 10:41:22 GMT</pubDate>
     </item>
