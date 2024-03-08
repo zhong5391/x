@@ -1,35 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 08 Mar 2024 13:21:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 13:38:39 GMT</lastBuildDate>
     <item>
-      <title>日本央行倾向于在三月份退出负利率——消息人士</title>
-      <link>https://www.reuters.com/markets/asia/boj-leaning-toward-exiting-negative-rates-march-sources-2024-03-08/</link>
-      <description><![CDATA[四位熟悉日本央行想法的消息人士称，越来越多的日本央行政策制定者对本月结束负利率的想法越来越热衷，因为预计今年的年度工资谈判将大幅加薪。]]></description>
-      <guid>https://www.reuters.com/markets/asia/boj-leaning-toward-exiting-negative-rates-march-sources-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 10:56:37 GMT</pubDate>
+      <title>美联储威廉姆斯：中性利率可能仍处于较低水平</title>
+      <link>https://www.reuters.com/markets/us/feds-williams-neutral-rate-is-likely-still-low-2024-03-08/</link>
+      <description><![CDATA[纽约联邦储备银行行长约翰·威廉姆斯周五表示，他怀疑在冠状病毒大流行之后，利率的“中性”状态并未上升太多。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-williams-neutral-rate-is-likely-still-low-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 12:56:37 GMT</pubDate>
     </item>
     <item>
-      <title>诺和诺德首席执行官表示，复方索马鲁肽造成严重的美国健康问题</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/compounded-semaglutide-poses-serious-us-health-issue-novo-nordisk-ceo-says-2024-03-08/</link>
-      <description><![CDATA[诺和诺德首席执行官周五表示，复方索马鲁肽在美国是一个严重的健康问题。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/compounded-semaglutide-poses-serious-us-health-issue-novo-nordisk-ceo-says-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 10:52:11 GMT</pubDate>
+      <title>诺和诺德希望在十年内推出实验性肥胖药物</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-hopes-launch-experimental-obesity-drug-this-decade-2024-03-08/</link>
+      <description><![CDATA[诺和诺德公司的开发主管周五告诉路透社，他对制药商能够在本十年推出其实验性减肥药物阿霉素的药丸版本感到非常满意。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-hopes-launch-experimental-obesity-drug-this-decade-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 12:14:44 GMT</pubDate>
     </item>
     <item>
-      <title>BP 2023 年运营排放量将小幅上升</title>
+      <title>电动汽车初创公司正在采取哪些措施来应对需求疲软的情况？</title>
+      <link>https://www.reuters.com/technology/what-are-ev-startups-doing-ride-out-weak-demand-2024-03-08/</link>
+      <description><![CDATA[美国电动汽车初创公司正在转向更便宜的车型，停止提高产量的计划，并解雇员工，以应对由于借贷成本高昂和车辆维修费用高昂而导致的需求下滑。]]></description>
+      <guid>https://www.reuters.com/technology/what-are-ev-startups-doing-ride-out-weak-demand-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 12:07:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合健康保险遭黑客攻击可能需要数月时间才能完全恢复</title>
+      <link>https://www.reuters.com/technology/cybersecurity/unitedhealth-hack-could-take-months-full-recovery-2024-03-08/</link>
+      <description><![CDATA[安全专家表示，美国最大的医疗保险公司联合健康集团可能需要几个月的时间才能从网络攻击中完全恢复，这是针对美国医疗保健基础设施最具破坏性的黑客攻击之一。]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/unitedhealth-hack-could-take-months-full-recovery-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 12:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>降息希望推动全球股票基金吸引 65 亿美元资金流入</title>
+      <link>https://www.reuters.com/markets/global-markets-flows-graphic-2024-03-08/</link>
+      <description><![CDATA[截至 3 月 6 日的 7 天内，全球股票基金净吸纳 65 亿美元，原因是美国制造业数据疲软以及美联储政策制定者的言论引发了今年晚些时候降息的预期。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-flows-graphic-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 11:55:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国银行表示，科技股出现创纪录的单周最大资金流出</title>
+      <link>https://www.reuters.com/markets/us/global-markets-flows-bofa-urgent-2024-03-08/</link>
+      <description><![CDATA[美国银行周五援引 EPFR 的数据表示，截至周三的一周内，投资者以有记录以来最快的速度抛售科技股，并继续将资金投入投资级债券和现金等价物。]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-flows-bofa-urgent-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 11:19:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺和诺德首席执行官表示，肥胖领域的创新可能证明某些细分市场的价格上涨是合理的</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-ceo-says-innovation-obesity-may-justify-higher-price-some-segments-2024-03-08/</link>
+      <description><![CDATA[诺和诺德首席执行官周五对路透社表示，随着价格随着时间的推移而下降，预计会有更多的人服用减肥药，并补充说，新一代药物将证明某些细分市场价格上涨是合理的。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-ceo-says-innovation-obesity-may-justify-higher-price-some-segments-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 11:09:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>地区动荡一年后，美国小企业为信贷而苦苦挣扎</title>
+      <link>https://www.reuters.com/markets/us/us-small-businesses-struggle-credit-one-year-after-regional-turmoil-2024-03-08/</link>
+      <description><![CDATA[由于一年前利率上升和银行倒闭的影响持续存在，美国的小企业主正在努力从传统贷款机构获得融资，从而阻碍了一些企业的业务增长。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-small-businesses-struggle-credit-one-year-after-regional-turmoil-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 11:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>雪佛龙首席执行官因赫斯收购而面临一生的挑战</title>
+      <link>https://www.reuters.com/business/energy/chevrons-ceo-faces-challenges-lifetime-with-hess-bid-2024-03-08/</link>
+      <description><![CDATA[雪佛龙首席执行官迈克尔·沃斯 (Michael Wirth) 正面临着与埃克森美孚 (Exxon Mobil) 的正面竞争，后者斥资 530 亿美元收购赫斯 (Hess) 及其在石油热点圭亚那的股份，并可能最终陷入南美洲两个最大能源竞争对手之间的争端。]]></description>
+      <guid>https://www.reuters.com/business/energy/chevrons-ceo-faces-challenges-lifetime-with-hess-bid-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 11:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：华尔街冲浪运动重新崛起</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-08/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 11:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>BP碳排放量自2019年以来首次上升</title>
       <link>https://www.reuters.com/business/energy/bps-operational-emissions-edge-higher-2023-2024-03-08/</link>
-      <description><![CDATA[英国石油公司在年度报告中表示，由于石油和天然气项目的启动和运营问题，2023年其自身业务的碳排放量略有上升。]]></description>
+      <description><![CDATA[英国石油公司 (BP) 周五表示，随着该公司启动新的石油和天然气项目并提高生产水平，2023 年总体碳排放量自 2019 年以来首次攀升。]]></description>
       <guid>https://www.reuters.com/business/energy/bps-operational-emissions-edge-higher-2023-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 10:48:34 GMT</pubDate>
     </item>
     <item>
-      <title>关键就业测试前期货稳定</title>
+      <title>随着关键就业测试的临近，期货下跌</title>
       <link>https://www.reuters.com/markets/us/futures-steady-before-key-payrolls-test-2024-03-08/</link>
-      <description><![CDATA[华尔街隔夜大幅上涨后，周五美国股指期货走低，投资者等待重要的劳动力市场报告，该报告可能决定美联储的降息路径。]]></description>
+      <description><![CDATA[华尔街隔夜大幅上涨后，美国股指期货周五下跌，因投资者等待可能决定利率走势的重要劳动力市场报告。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-steady-before-key-payrolls-test-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 10:41:22 GMT</pubDate>
     </item>
@@ -41,67 +97,18 @@
       <pubDate>Fri, 08 Mar 2024 10:25:44 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，日产可能从 2028 年开始在内部生产超紧凑型电动汽车</title>
+      <title>消息人士称，日产可能从 2028 年开始内部生产超紧凑型电动汽车</title>
       <link>https://www.reuters.com/business/autos-transportation/nissan-may-bring-ultra-compact-ev-production-in-house-2028-sources-say-2024-03-08/</link>
       <description><![CDATA[五位知情人士表示，日本日产汽车可能会在内部生产其超紧凑型电动汽车，这得益于目前由初级合作伙伴三菱汽车生产的 Sakura 车型的成功。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/nissan-may-bring-ultra-compact-ev-production-in-house-2028-sources-say-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 10:22:47 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲央行决策者一致支持即将到来的降息</title>
-      <link>https://www.reuters.com/markets/europe/ecb-policymakers-line-up-behind-upcoming-rate-cut-2024-03-08/</link>
-      <description><![CDATA[由于欧元区通胀下降速度快于预期，欧洲央行政策制定者周五一致支持未来几个月降息。]]></description>
-      <guid>https://www.reuters.com/markets/europe/ecb-policymakers-line-up-behind-upcoming-rate-cut-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 10:05:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>小鹏汽车AeroHT Voyager X2在广州完成低空飞行</title>
-      <link>https://www.reuters.com/business/autos-transportation/chinas-xpengs-drone-car-aeroht-voyager-x2-completes-low-altitude-flight-2024-03-08/</link>
-      <description><![CDATA[中国电动汽车制造商小鹏汽车的子公司小鹏航空在一份声明中表示，该公司周五表示，其飞行无人机 AeroHT Voyager X2 在南方城市广州的中央商务区完成了低空飞行。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/chinas-xpengs-drone-car-aeroht-voyager-x2-completes-low-altitude-flight-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 10:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>BP从前首席执行官卢尼2023年的薪酬中收回230万美元</title>
-      <link>https://www.reuters.com/business/bp-claws-back-23-mln-former-ceo-looneys-2023-pay-2024-03-08/</link>
-      <description><![CDATA[英国石油公司在其年度报告中表示，前首席执行官伯纳德·鲁尼因未能披露过去与员工的关系而于 12 月 13 日被解雇，该公司从其 2023 年薪酬中收回了 180 万英镑（合 230 万美元）。]]></description>
-      <guid>https://www.reuters.com/business/bp-claws-back-23-mln-former-ceo-looneys-2023-pay-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 09:45:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国2月份新增人民币贷款从历史高位回落</title>
-      <link>https://www.reuters.com/world/china/chinas-february-new-yuan-loans-seen-retreating-record-high-2024-03-08/</link>
-      <description><![CDATA[路透调查显示，尽管央行寻求刺激疲软的经济增长并应对通货紧缩压力，但由于季节性因素，2月份中国银行贷款可能从1月份的历史高位大幅回落。]]></description>
-      <guid>https://www.reuters.com/world/china/chinas-february-new-yuan-loans-seen-retreating-record-high-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 09:44:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>DS Smith 为 Mondi 斥资 65 亿美元创建欧洲包装领导者而欢呼</title>
-      <link>https://www.reuters.com/business/ds-smith-shares-cheer-mondis-65-bln-bid-create-european-packaging-leader-2024-03-08/</link>
-      <description><![CDATA[DS Smith 的股价周五上涨超过 7%，此前一天，更大的竞争对手 Mondi 提出了 51.4 亿英镑（65.8 亿美元）的全股要约收购这家英国造纸和包装集团。]]></description>
-      <guid>https://www.reuters.com/business/ds-smith-shares-cheer-mondis-65-bln-bid-create-european-packaging-leader-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 08:25:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚洲股市因中国改革和人工智能激增而吸引大量外国资金</title>
-      <link>https://www.reuters.com/markets/asia/asian-stocks-draw-massive-foreign-funds-chinas-reforms-ai-surge-2024-03-08/</link>
-      <description><![CDATA[随着北京推出改革措施以及人工智能（AI）热潮推动科技股飙升，中国股市出现反弹，外国投资者在二月份向亚洲股市注入了大量资金。]]></description>
-      <guid>https://www.reuters.com/markets/asia/asian-stocks-draw-massive-foreign-funds-chinas-reforms-ai-surge-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 06:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>1-2月中国电动汽车销量放缓；降价力度加大</title>
-      <link>https://www.reuters.com/business/autos-transportation/china-ev-sales-slow-january-february-competition-intensifies-2024-03-08/</link>
-      <description><![CDATA[周五的行业数据显示，中国电动汽车销量在今年头几个月放缓，随着市场领导者比亚迪带头进行更大幅度的降价，竞争加剧。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/china-ev-sales-slow-january-february-competition-intensifies-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 05:35:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息人士称，中国恒大清算人任命法律顾问</title>
-      <link>https://www.reuters.com/business/china-evergrande-liquidators-appoint-legal-advisers-sources-say-2024-03-08/</link>
-      <description><![CDATA[据直接了解情况的消息人士透露，中国恒大的清算人已聘请三家律师事务所就这家陷入困境的房地产巨头的清盘程序提供咨询。]]></description>
-      <guid>https://www.reuters.com/business/china-evergrande-liquidators-appoint-legal-advisers-sources-say-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 05:20:41 GMT</pubDate>
+      <title>诺和诺德对在十年内推出香蜜素肥胖药物充满信心</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-hopes-launch-experimental-obesity-drug-within-this-decade-2024-03-08/</link>
+      <description><![CDATA[诺和诺德公司的开发负责人周五告诉路透社，诺和诺德公司非常有信心能够在十年内推出其实验性减肥药物阿霉素的药丸版本，一天前该公司宣布了该药物的强有力的早期试验数据。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-hopes-launch-experimental-obesity-drug-within-this-decade-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 09:04:43 GMT</pubDate>
     </item>
     <item>
       <title>阿里巴巴旗下灵犀游戏表示，管理层将辞职，为年轻高管让路</title>
@@ -118,9 +125,9 @@
       <pubDate>Fri, 08 Mar 2024 05:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>美国非农就业数据公布前股市创历史新高</title>
+      <title>降息希望在美国就业前将股市推升至新高</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-08/</link>
-      <description><![CDATA[全球股市周五创下历史新高，投资者押注跨大西洋降息将在几个月内开始，并希望华尔街开盘前的美国非农就业数据表明美国经济持续弹性，但不会过热。]]></description>
+      <description><![CDATA[受美国和欧洲未来几个月降息前景的提振，周五股市基准触及历史新高，美国就业数据成为华尔街开盘前的下一个数据里程碑。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 02:33:14 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>波音表示年度员工奖金将重点关注安全</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeing-tie-more-employee-bonus-pays-safety-wsj-reports-2024-03-08/</link>
-      <description><![CDATA[波音公司周四表示，它正在彻底改革员工奖金的支付方式，以强调质量和安全，今年的运营目标专门集中在这两个组成部分。]]></description>
+      <description><![CDATA[波音公司周四表示，它正在彻底改革员工奖金的支付方式，以强调质量和安全，今年的运营目标专门集中在这两个部分。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeing-tie-more-employee-bonus-pays-safety-wsj-reports-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 01:42:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着通胀迷雾消散，市场看到欧洲央行降息路线图更加清晰</title>
-      <link>https://www.reuters.com/markets/europe/markets-see-clearer-ecb-rate-cut-roadmap-inflation-fog-lifts-2024-03-07/</link>
-      <description><![CDATA[随着新的经济预测显示通胀目标即将实现，投资者越来越有信心欧洲央行可能会在 6 月份引领全球同行降息。]]></description>
-      <guid>https://www.reuters.com/markets/europe/markets-see-clearer-ecb-rate-cut-roadmap-inflation-fog-lifts-2024-03-07/</guid>
-      <pubDate>Thu, 07 Mar 2024 17:36:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
