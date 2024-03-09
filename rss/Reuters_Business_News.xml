@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 09 Mar 2024 05:41:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 06:25:48 GMT</lastBuildDate>
+    <item>
+      <title>马斯克表示 X 的长视频将很快在智能电视上播放</title>
+      <link>https://www.reuters.com/technology/musk-says-xs-long-form-videos-will-soon-be-available-smart-tvs-2024-03-09/</link>
+      <description><![CDATA[在《财富》杂志报道社交网络 X 计划下周为亚马逊和三星用户推出一款电视应用程序后，亿万富翁埃隆·马斯克表示，长视频将很快在智能电视上推出。]]></description>
+      <guid>https://www.reuters.com/technology/musk-says-xs-long-form-videos-will-soon-be-available-smart-tvs-2024-03-09/</guid>
+      <pubDate>Sat, 09 Mar 2024 04:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官阻止美国劳工委员会对合同工和特许经营工人的规定</title>
+      <link>https://www.reuters.com/legal/us-judge-blocks-us-labor-boards-rule-involving-contract-franchise-workers-2024-03-09/</link>
+      <description><![CDATA[德克萨斯州的一名联邦法官周五推翻了美国国家劳工关系委员会（NLRB）的一项规定，该规定受到主要商业团体的质疑，该规定将许多公司视为某些合同工和特许经营工人的雇主，并要求他们与代表他们的工会进行谈判。]]></description>
+      <guid>https://www.reuters.com/legal/us-judge-blocks-us-labor-boards-rule-involving-contract-franchise-workers-2024-03-09/</guid>
+      <pubDate>Sat, 09 Mar 2024 03:23:13 GMT</pubDate>
+    </item>
     <item>
       <title>波音称未找到有关 737 MAX 9 关键部件拆卸的文件</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeing-says-no-documents-found-737-max-9-key-part-removal-2024-03-09/</link>
-      <description><![CDATA[据路透社看到的一封信函，波音公司周五表示，该公司认为，涉及在空中紧急情况下发生故障的 737 MAX 9 生产过程中关键部件打开和关闭所需的文件从未创建。]]></description>
+      <description><![CDATA[据路透社看到的一封信函，波音公司周五表示，它认为从未创建过详细说明在空中紧急情况下发生故障的 737 MAX 9 生产过程中拆除关键部件所需的文件。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeing-says-no-documents-found-737-max-9-key-part-removal-2024-03-09/</guid>
       <pubDate>Sat, 09 Mar 2024 03:06:30 GMT</pubDate>
     </item>
@@ -36,12 +50,12 @@
     <item>
       <title>陷入困境的银行 NYCB 宣布即将上任的首席执行官奥廷的基本工资</title>
       <link>https://www.reuters.com/business/finance/embattled-lender-nycb-announces-incoming-ceo-ottings-base-salary-2024-03-08/</link>
-      <description><![CDATA[纽约社区银行周五表示，即将上任的首席执行官约瑟夫·奥廷将获得 125 万美元的年基本工资，并于 3 月 6 日获得购买 1500 万股公司普通股的一次性选择权。]]></description>
+      <description><![CDATA[纽约社区银行周五表示，即将上任的首席执行官 Joseph Otting 将获得 125 万美元的年基本工资，并于 3 月 6 日获得购买 1500 万股公司普通股的一次性选择权。]]></description>
       <guid>https://www.reuters.com/business/finance/embattled-lender-nycb-announces-incoming-ceo-ottings-base-salary-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 23:21:17 GMT</pubDate>
     </item>
     <item>
-      <title>Sam Altman 将与三名新董事一起重返 OpenAI 董事会</title>
+      <title>Sam Altman 将携三名新董事重返 OpenAI 董事会</title>
       <link>https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/</link>
       <description><![CDATA[全球最著名的人工智能公司周五表示，OpenAI 首席执行官 Sam Altman 将与三名新董事一起重返 ChatGPT 制造商的董事会。]]></description>
       <guid>https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/</guid>
@@ -62,23 +76,9 @@
       <pubDate>Fri, 08 Mar 2024 19:52:52 GMT</pubDate>
     </item>
     <item>
-      <title>美国 FDA 批准诺和诺德的 Wegovy 用于降低心脏病风险</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/fda-approves-novo-nordisks-wegovy-use-reducing-heart-attack-risks-2024-03-08/</link>
-      <description><![CDATA[美国食品和药物管理局周五批准了诺和诺德的减肥药 Wegovy，用于降低未患有糖尿病的超重或肥胖成年人中风和心脏病发作的风险。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/fda-approves-novo-nordisks-wegovy-use-reducing-heart-attack-risks-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 19:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果在史诗般的争斗中撤退，允许《堡垒之夜》在欧盟回归</title>
-      <link>https://www.reuters.com/technology/apple-reinstates-epic-games-developer-account-2024-03-08/</link>
-      <description><![CDATA[在欧洲监管机构的压力下，苹果于周五收回了与 Epic Games 的不和，为 Epic 在欧洲的 iPhone 和 iPad 上推出自己的游戏商店扫清了道路。]]></description>
-      <guid>https://www.reuters.com/technology/apple-reinstates-epic-games-developer-account-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 18:01:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Costco 股价因季度收入低于预期而收盘近两年来最糟糕的一天</title>
       <link>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</link>
-      <description><![CDATA[Costco 股价周五收跌 7.6%，创 2022 年 5 月以来最糟糕单日，此前这家会员制零售连锁店未达到第二季度收入预期，并暗示汽油价格下跌带来负面影响。]]></description>
+      <description><![CDATA[Costco 的股价周五收盘下跌 7.6%，为 2022 年 5 月以来最糟糕的一天，此前这家会员制零售连锁店未达到第二季度收入预期，并暗示汽油价格下跌带来了负面影响。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 17:29:27 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>微软警告俄罗斯黑客仍在试图闯入其系统</title>
       <link>https://www.reuters.com/technology/cybersecurity/microsoft-says-cyber-threat-actor-has-been-able-access-internal-systems-2024-03-08/</link>
-      <description><![CDATA[微软周五表示，与俄罗斯外国情报部门有联系的黑客再次试图闯入其系统，利用一月份从公司电子邮件中窃取的数据来获得对这家科技巨头的新访问权限，该科技巨头的产品在美国国家安全机构中广泛使用。]]></description>
+      <description><![CDATA[微软周五表示，与俄罗斯外国情报机构有联系的黑客再次试图闯入其系统，利用一月份从公司电子邮件中窃取的数据来获得对这家科技巨头的新访问权限，该科技巨头的产品在美国国家安全机构中广泛使用。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/microsoft-says-cyber-threat-actor-has-been-able-access-internal-systems-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 14:10:50 GMT</pubDate>
     </item>
