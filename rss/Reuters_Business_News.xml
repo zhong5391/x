@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 09 Mar 2024 23:22:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 23:40:00 GMT</lastBuildDate>
+    <item>
+      <title>华尔街巨头齐聚，金融博物馆寻找落脚点</title>
+      <link>https://www.reuters.com/business/finance/wall-street-titans-gather-finance-museum-searches-home-2024-03-09/</link>
+      <description><![CDATA[金融业重量级人物上周在纽约召开会议，为一座失去了标志性华尔街地址的金融博物馆筹集资金。]]></description>
+      <guid>https://www.reuters.com/business/finance/wall-street-titans-gather-finance-museum-searches-home-2024-03-09/</guid>
+      <pubDate>Sat, 09 Mar 2024 21:44:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>汉莎航空空乘人员将于周二和周三罢工</title>
+      <link>https://www.reuters.com/business/aerospace-defense/lufthansa-flight-attendants-strike-tuesday-wednesday-2024-03-09/</link>
+      <description><![CDATA[汉莎航空空乘工会呼吁其成员在周二和周三对汉莎航空和短途航空公司 CityLine 进行罢工，以要求提高工资。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/lufthansa-flight-attendants-strike-tuesday-wednesday-2024-03-09/</guid>
+      <pubDate>Sat, 09 Mar 2024 20:35:33 GMT</pubDate>
+    </item>
     <item>
       <title>据英国《金融时报》报道，开云集团和 EssilorLuxottica 可能成为意大利 Marcolin 的收购者</title>
       <link>https://www.reuters.com/markets/deals/kering-essilorluxottica-possible-suitors-italys-marcolin-ft-reports-2024-03-09/</link>
-      <description><![CDATA[据英国《金融时报》周六报道，古驰 (Gucci) 母公司开云集团 (Kering) 和雷朋 (Ray-Ban) 母公司埃视路陆逊梯卡 (EssilorLuxottica) 均是意大利眼镜制造商 Marcolin 的追求者之一。]]></description>
+      <description><![CDATA[据《金融时报》周六报道，古驰 (Gucci) 母公司开云集团 (Kering) 和雷朋 (Ray-Ban) 母公司埃视路陆逊梯卡 (EssilorLuxottica) 均是意大利眼镜制造商 Marcolin 的追求者之一。]]></description>
       <guid>https://www.reuters.com/markets/deals/kering-essilorluxottica-possible-suitors-italys-marcolin-ft-reports-2024-03-09/</guid>
       <pubDate>Sat, 09 Mar 2024 14:40:24 GMT</pubDate>
     </item>
@@ -22,7 +36,7 @@
     <item>
       <title>赣锋锂业表示，中国锂市场将长期呈上升趋势</title>
       <link>https://www.reuters.com/markets/commodities/chinas-lithium-market-set-long-term-uptrend-says-ganfeng-lithium-2024-03-09/</link>
-      <description><![CDATA[中国主要电池金属供应商赣锋锂业董事长表示，电池金属价格稳定将有利于中国锂行业，电池金属价格将长期上涨。]]></description>
+      <description><![CDATA[中国主要电池金属供应商赣锋锂业的董事长表示，中国的锂行业将受益于电池金属价格的稳定，电池金属价格将长期上涨。]]></description>
       <guid>https://www.reuters.com/markets/commodities/chinas-lithium-market-set-long-term-uptrend-says-ganfeng-lithium-2024-03-09/</guid>
       <pubDate>Sat, 09 Mar 2024 08:07:58 GMT</pubDate>
     </item>
@@ -71,16 +85,9 @@
     <item>
       <title>陷入困境的银行 NYCB 宣布即将上任的首席执行官奥廷的基本工资</title>
       <link>https://www.reuters.com/business/finance/embattled-lender-nycb-announces-incoming-ceo-ottings-base-salary-2024-03-08/</link>
-      <description><![CDATA[纽约社区银行周五表示，即将上任的首席执行官约瑟夫·奥廷将获得 125 万美元的年基本工资，并于 3 月 6 日获得购买 1500 万股公司普通股的一次性选择权。]]></description>
+      <description><![CDATA[纽约社区银行周五表示，即将上任的首席执行官 Joseph Otting 将获得 125 万美元的年基本工资，并于 3 月 6 日获得购买 1500 万股公司普通股的一次性选择权。]]></description>
       <guid>https://www.reuters.com/business/finance/embattled-lender-nycb-announces-incoming-ceo-ottings-base-salary-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 23:21:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman 将携三名新董事重返 OpenAI 董事会</title>
-      <link>https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/</link>
-      <description><![CDATA[全球最著名的人工智能公司周五表示，OpenAI 首席执行官 Sam Altman 将与三名新董事一起重返 ChatGPT 制造商的董事会。]]></description>
-      <guid>https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 22:11:48 GMT</pubDate>
     </item>
     <item>
       <title>华尔街未来一周白宫争夺战将成为华尔街更加关注的焦点</title>
@@ -92,7 +99,7 @@
     <item>
       <title>Costco 股价因季度收入低于预期而收盘近两年来最糟糕的一天</title>
       <link>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</link>
-      <description><![CDATA[Costco 股价周五收跌 7.6%，创 2022 年 5 月以来最糟糕单日，此前这家会员制零售连锁店未达到第二季度收入预期，并暗示汽油价格下跌带来负面影响。]]></description>
+      <description><![CDATA[Costco 的股价周五收盘下跌 7.6%，为 2022 年 5 月以来最糟糕的一天，此前这家会员制零售连锁店未达到第二季度收入预期，并暗示汽油价格下跌带来了负面影响。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 17:29:27 GMT</pubDate>
     </item>
@@ -116,13 +123,6 @@
       <description><![CDATA[Rivian 的股价周五收盘上涨超过 2%，其更便宜的 R2 SUV 在推出后数小时内就获得了数万辆预订，这增强了人们对这家电动汽车制造商可能在大众市场领域扩张的乐观情绪。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/rivian-surges-new-launch-r2-suv-attracts-strong-early-orders-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 15:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软警告俄罗斯黑客仍在试图闯入其系统</title>
-      <link>https://www.reuters.com/technology/cybersecurity/microsoft-says-cyber-threat-actor-has-been-able-access-internal-systems-2024-03-08/</link>
-      <description><![CDATA[微软周五表示，与俄罗斯外国情报部门有联系的黑客再次试图闯入其系统，利用一月份从公司电子邮件中窃取的数据来获得对这家科技巨头的新访问权限，该科技巨头的产品在美国国家安全机构中广泛使用。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/microsoft-says-cyber-threat-actor-has-been-able-access-internal-systems-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 14:10:50 GMT</pubDate>
     </item>
     <item>
       <title>美国劳动力市场降温；失业率升至两年高位3.9%</title>
