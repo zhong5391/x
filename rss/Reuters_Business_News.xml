@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 09 Mar 2024 01:54:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2024 02:20:00 GMT</lastBuildDate>
+    <item>
+      <title>陷入困境的银行 NYCB 宣布即将上任的首席执行官奥廷的基本工资</title>
+      <link>https://www.reuters.com/business/finance/embattled-lender-nycb-announces-incoming-ceo-ottings-base-salary-2024-03-08/</link>
+      <description><![CDATA[纽约社区银行周五表示，即将上任的首席执行官约瑟夫·奥廷将获得 125 万美元的年基本工资，并于 3 月 6 日获得购买 1500 万股公司普通股的一次性选择权。]]></description>
+      <guid>https://www.reuters.com/business/finance/embattled-lender-nycb-announces-incoming-ceo-ottings-base-salary-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 23:21:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman 将与三名新董事一起重返 OpenAI 董事会</title>
+      <link>https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/</link>
+      <description><![CDATA[全球最著名的人工智能公司周五表示，OpenAI 首席执行官 Sam Altman 将与三名新董事一起重返 ChatGPT 制造商的董事会。]]></description>
+      <guid>https://www.reuters.com/technology/sam-altman-return-openais-board-information-reports-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 22:11:48 GMT</pubDate>
+    </item>
     <item>
       <title>华尔街未来一周白宫争夺战将成为华尔街更加关注的焦点</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-battle-white-house-comes-into-sharper-focus-wall-street-2024-03-08/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>Costco 股价因季度收入低于预期而收盘近两年来最糟糕的一天</title>
       <link>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</link>
-      <description><![CDATA[Costco 的股价周五收盘下跌 7.6%，为 2022 年 5 月以来最糟糕的一天，此前这家会员制零售连锁店未达到第二季度收入预期，并暗示汽油价格下跌带来了负面影响。]]></description>
+      <description><![CDATA[Costco 股价周五收跌 7.6%，创 2022 年 5 月以来最糟糕单日，此前这家会员制零售连锁店未达到第二季度收入预期，并暗示汽油价格下跌带来负面影响。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 17:29:27 GMT</pubDate>
     </item>
@@ -53,20 +67,6 @@
       <description><![CDATA[一位知情人士周五表示，意大利正在敲定与半导体公司 Silicon Box 价值约 30 亿欧元（合 33 亿美元）的国家支持协议条款，以在该国建设工业基地。]]></description>
       <guid>https://www.reuters.com/technology/italy-finalising-33-bln-silicon-box-plant-deal-source-says-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 17:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>高盛董事会成员杰西卡·乌尔将离职</title>
-      <link>https://www.reuters.com/business/finance/goldman-sachs-board-member-jessica-uhl-depart-2024-03-08/</link>
-      <description><![CDATA[高盛周五表示，董事会成员杰西卡·乌尔 (Jessica Uhl) 将辞去通用电气能源分拆公司 GE Vernova 总裁职务，专注于她的职务。]]></description>
-      <guid>https://www.reuters.com/business/finance/goldman-sachs-board-member-jessica-uhl-depart-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 17:07:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>劳资委员会主席表示，特斯拉德国工厂将于下周重启</title>
-      <link>https://www.reuters.com/business/autos-transportation/teslas-german-plant-restart-next-week-says-works-council-head-2024-03-08/</link>
-      <description><![CDATA[特斯拉劳资委员会负责人周五表示，在停电导致生产停止后，特斯拉位于柏林附近的德国工厂将于下周恢复运营。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/teslas-german-plant-restart-next-week-says-works-council-head-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 17:00:16 GMT</pubDate>
     </item>
     <item>
       <title>币安必须在美国面临因加密货币损失而重新提起的投资者诉讼</title>
@@ -127,14 +127,14 @@
     <item>
       <title>雪佛龙首席执行官因赫斯收购而面临一生的挑战</title>
       <link>https://www.reuters.com/business/energy/chevrons-ceo-faces-challenges-lifetime-with-hess-bid-2024-03-08/</link>
-      <description><![CDATA[雪佛龙首席执行官迈克尔·沃斯 (Michael Wirth) 正面临与埃克森美孚 (Exxon Mobil) 的正面竞争，后者斥资 530 亿美元收购赫斯 (Hess) 及其在石油热点圭亚那的股份，并可能最终陷入南美洲两个最大能源竞争对手之间的争端。]]></description>
+      <description><![CDATA[雪佛龙首席执行官迈克尔·沃斯 (Michael Wirth) 正面临着与埃克森美孚 (Exxon Mobil) 的正面竞争，后者斥资 530 亿美元收购赫斯 (Hess) 及其在石油热点圭亚那的股份，并可能最终陷入南美洲两个最大能源竞争对手之间的争端。]]></description>
       <guid>https://www.reuters.com/business/energy/chevrons-ceo-faces-challenges-lifetime-with-hess-bid-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 11:03:53 GMT</pubDate>
     </item>
     <item>
       <title>华尔街股市跌破记录，纳斯达克指数领跌</title>
       <link>https://www.reuters.com/markets/us/futures-steady-before-key-payrolls-test-2024-03-08/</link>
-      <description><![CDATA[标准普尔 500 指数和纳斯达克指数在盘中触及历史新高后周五收盘走低，高涨的芯片股出现逆转，劳动力市场报告好坏参半，显示新增就业岗位多于预期，失业率上升。]]></description>
+      <description><![CDATA[标准普尔 500 指数和纳斯达克指数在盘中触及历史新高后周五收低，高涨的芯片股出现逆转，劳动力市场报告好坏参半，显示新增就业岗位多于预期，失业率上升。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-steady-before-key-payrolls-test-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 10:41:22 GMT</pubDate>
     </item>
