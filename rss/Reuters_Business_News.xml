@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 10 Mar 2024 22:34:56 GMT</lastBuildDate>
-    <item>
-      <title>日本加大对盟友澳大利亚和美国长期液化天然气供应的依赖</title>
-      <link>https://www.reuters.com/business/energy/japan-boosts-reliance-allies-australia-us-long-term-lng-supplies-2024-03-10/</link>
-      <description><![CDATA[由于俄罗斯等供应商的重要合同将于 2030 年代初到期，资源稀缺的日本正在从亲密盟友澳大利亚和美国那里获得液化天然气的长期供应。]]></description>
-      <guid>https://www.reuters.com/business/energy/japan-boosts-reliance-allies-australia-us-long-term-lng-supplies-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 22:09:18 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 10 Mar 2024 22:49:03 GMT</lastBuildDate>
     <item>
       <title>彭博新闻称，Reddit 计划通过 IPO 筹集 7.48 亿美元</title>
       <link>https://www.reuters.com/technology/reddit-aims-raise-748-mln-planned-ipo-bloomberg-news-says-2024-03-10/</link>
@@ -92,7 +85,7 @@
     <item>
       <title>赣锋锂业表示，中国锂市场将长期呈上升趋势</title>
       <link>https://www.reuters.com/markets/commodities/chinas-lithium-market-set-long-term-uptrend-says-ganfeng-lithium-2024-03-09/</link>
-      <description><![CDATA[中国主要电池金属供应商赣锋锂业董事长表示，电池金属价格稳定将有利于中国锂行业，电池金属价格将长期上涨。]]></description>
+      <description><![CDATA[中国主要电池金属供应商赣锋锂业的董事长表示，中国的锂行业将受益于电池金属价格的稳定，电池金属价格将长期上涨。]]></description>
       <guid>https://www.reuters.com/markets/commodities/chinas-lithium-market-set-long-term-uptrend-says-ganfeng-lithium-2024-03-09/</guid>
       <pubDate>Sat, 09 Mar 2024 08:07:58 GMT</pubDate>
     </item>
@@ -137,6 +130,13 @@
       <description><![CDATA[Costco 的股价周五收盘下跌 7.6%，为 2022 年 5 月以来最糟糕的一天，此前这家会员制零售连锁店未达到第二季度收入预期，并暗示汽油价格下跌带来了负面影响。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 17:29:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币短暂升至历史新高超过 70,000 美元</title>
+      <link>https://www.reuters.com/markets/currencies/bitcoin-rises-record-high-over-70000-2024-03-08/</link>
+      <description><![CDATA[随着加密货币狂热继续席卷投资界，比特币在周五的波动交易中短暂上涨至历史新高。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/bitcoin-rises-record-high-over-70000-2024-03-08/</guid>
+      <pubDate>Fri, 08 Mar 2024 15:34:46 GMT</pubDate>
     </item>
     <item>
       <title>美国劳动力市场降温；失业率升至两年高位3.9%</title>
