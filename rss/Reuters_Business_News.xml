@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 23:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 23:48:39 GMT</lastBuildDate>
     <item>
-      <title>云需求强劲，甲骨文季度利润增长</title>
+      <title>沃尔格林与纽约州指控其抬高婴儿配方奶粉价格达成和解</title>
+      <link>https://www.reuters.com/legal/walgreens-settles-new-york-charges-it-inflated-prices-infant-formula-2024-03-11/</link>
+      <description><![CDATA[纽约总检察长 Letitia James 对沃尔格林 (Walgreens) 的指控表示，在雅培 (Abbott Labs) 召回导致全国范围内出现短缺后，沃尔格林 (Walgreens) 已就 2022 年至少 20 种婴儿配方奶粉产品大幅抬高价格的指控达成和解。]]></description>
+      <guid>https://www.reuters.com/legal/walgreens-settles-new-york-charges-it-inflated-prices-infant-formula-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 21:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：股市再次走低，印度消费者物价指数上涨</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-11/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 21:48:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>泰森食品公司将关闭爱荷华州猪肉工厂，共有 1,200 名工人</title>
+      <link>https://www.reuters.com/markets/commodities/tyson-foods-close-iowa-pork-plant-with-1200-workers-2024-03-11/</link>
+      <description><![CDATA[肉类加工商泰森食品公司 (Tyson Foods) 周一表示，将永久关闭爱荷华州佩里市的一家猪肉工厂，从而裁减约 1,200 名工人。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/tyson-foods-close-iowa-pork-plant-with-1200-workers-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 21:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>据彭博社报道，默多克的新闻集团有意与竞争对手联合竞购《电讯报》</title>
+      <link>https://www.reuters.com/markets/deals/murdochs-news-corp-eyes-joint-telegraph-bid-with-rivals-bloomberg-news-reports-2024-03-11/</link>
+      <description><![CDATA[据彭博社周一援引知情人士的话报道，鲁珀特·默多克的新闻集团和《每日邮报》的所有者已经就与阿联酋支持的投资基金 RedBird IMI 联合收购《电讯报》的可能性进行了谈判。]]></description>
+      <guid>https://www.reuters.com/markets/deals/murdochs-news-corp-eyes-joint-telegraph-bid-with-rivals-bloomberg-news-reports-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 20:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>甲骨文因人工智能需求超过季度利润预期，股价飙升</title>
       <link>https://www.reuters.com/technology/oracle-misses-quarterly-revenue-estimates-2024-03-11/</link>
-      <description><![CDATA[甲骨文周一公布季度利润增长，原因是生成型人工智能蓬勃发展，对其云计算服务的需求增加。]]></description>
+      <description><![CDATA[甲骨文周一表示，将与芯片巨头英伟达联合发布公告，并在 AI 需求旺盛的推动下，季度利润超出预期，推动股价在盘后交易中上涨 14%。]]></description>
       <guid>https://www.reuters.com/technology/oracle-misses-quarterly-revenue-estimates-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 20:18:12 GMT</pubDate>
     </item>
@@ -22,7 +50,7 @@
     <item>
       <title>福特在美国逃税案中支付 3.65 亿美元</title>
       <link>https://www.reuters.com/business/autos-transportation/ford-pay-365-million-us-import-tariff-evasion-case-2024-03-11/</link>
-      <description><![CDATA[福特汽车公司将支付 3.65 亿美元，以解决美国对其数十万辆 Transit Connect 车辆错误分类和低估价值，违反联邦关税法的指控。]]></description>
+      <description><![CDATA[福特汽车公司将支付 3.65 亿美元，以解决美国对其数十万辆 Transit Connect 车辆的错误分类和低估价值而违反联邦关税法的指控。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ford-pay-365-million-us-import-tariff-evasion-case-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 19:53:26 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>美国通胀数据公布后，期权参与者已做好应对市场波动的准备</title>
       <link>https://www.reuters.com/markets/us/options-players-ready-market-swings-after-us-inflation-data-2024-03-11/</link>
-      <description><![CDATA[在周二公布的通胀数据可能会影响美联储的货币政策轨迹之前，美国股票期权市场的交易员变得有些不安。]]></description>
+      <description><![CDATA[在周二公布可能影响美联储货币政策轨迹的通胀数据之前，美国股票期权市场的交易员变得变得不安。]]></description>
       <guid>https://www.reuters.com/markets/us/options-players-ready-market-swings-after-us-inflation-data-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 18:38:38 GMT</pubDate>
     </item>
@@ -53,13 +81,6 @@
       <description><![CDATA[高盛策略师表示，全球股市日益集中，其中美国股市和科技股的权重增加，虽然不一定没有道理，但可能需要一定程度的多元化。]]></description>
       <guid>https://www.reuters.com/markets/us-equities-tech-growing-market-dominance-goldman-strategists-say-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 17:01:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>高超音速武器初创公司 Castelion 进行首次原型导弹测试</title>
-      <link>https://www.reuters.com/business/aerospace-defense/hypersonic-weapon-startup-castelion-has-first-full-weapon-test-2024-03-11/</link>
-      <description><![CDATA[Castelion是一家试图为五角大楼制造高超音速武器的初创公司，该公司周一告诉路透社，随着越来越多的小型高超音速武器制造商以更便宜、快速生产的产品向大型国防承包商发起挑战，该公司首次测试了其系统。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/hypersonic-weapon-startup-castelion-has-first-full-weapon-test-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 17:01:20 GMT</pubDate>
     </item>
     <item>
       <title>解释者：纽约立法者再次解决主权债务返工问题</title>
@@ -74,20 +95,6 @@
       <description><![CDATA[华特迪士尼周一在一段视频中对亿万富翁纳尔逊·佩尔茨和他的特里安基金争取两个董事会席位的活动做出了回应，该视频攻击了这位激进股东的动机和资格。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/disney-attacks-investor-nelson-peltzs-motivations-qualifications-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 15:58:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约联储：2月份消费者对长期通胀的展望遇到障碍</title>
-      <link>https://www.reuters.com/markets/us/ny-fed-consumer-outlook-longer-term-inflation-hit-snag-february-2024-03-11/</link>
-      <description><![CDATA[纽约联邦储备银行周一发布的一份报告称，2月份公众对通胀长期轨迹的预期恶化。]]></description>
-      <guid>https://www.reuters.com/markets/us/ny-fed-consumer-outlook-longer-term-inflation-hit-snag-february-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 15:03:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟成员国批准关于零工工人权利的稀释规则草案</title>
-      <link>https://www.reuters.com/world/europe/eu-countries-back-draft-rules-gig-workers-rights-2024-03-11/</link>
-      <description><![CDATA[周一，欧洲在给予 Uber 和 Deliveroo 等在线平台所谓的零工经济工人更大的社会和劳工权利方面又迈进了一步，尽管企业表示，根据淡化的规则，不会有什么改变。]]></description>
-      <guid>https://www.reuters.com/world/europe/eu-countries-back-draft-rules-gig-workers-rights-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 14:53:35 GMT</pubDate>
     </item>
     <item>
       <title>美联储将于六月开始降息；今年交付的风险减少：路透社调查</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[标准普尔 500 指数和纳斯达克指数周一小幅下跌，投资者正在为本周的消费者和生产者价格数据做准备，他们希望这些数据能够更好地了解美联储是否可以在未来几个月开始降息。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-dip-run-up-inflation-data-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 09:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克 (Elon Musk) 再次向 OpenAI 发起进攻，将 xAI 的 Grok 聊天机器人开源</title>
-      <link>https://www.reuters.com/technology/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-2024-03-11/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 周一表示，他的人工智能初创公司 xAI 将于本周开源其 ChatGPT 挑战者“Grok”，几天前，他起诉 OpenAI 放弃其最初的使命，转而采用营利性模式。]]></description>
-      <guid>https://www.reuters.com/technology/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 09:01:25 GMT</pubDate>
     </item>
     <item>
       <title>独家：投资者敦促 Zara 所有者 Inditex 公布完整供应链</title>
