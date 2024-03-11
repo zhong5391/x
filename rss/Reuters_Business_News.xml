@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 04:52:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 05:19:26 GMT</lastBuildDate>
+    <item>
+      <title>麦格理首席执行官表示澳大利亚正走向经济“软着陆”</title>
+      <link>https://www.reuters.com/markets/australia-headed-towards-economic-soft-landing-says-macquarie-ceo-2024-03-11/</link>
+      <description><![CDATA[麦格理集团首席执行官谢马拉·维克拉马纳亚克 (Shemara Wikramanayake) 周一表示，澳大利亚经济已做好准备，将于 2024 年降息，并在经历长期通胀后实现“软着陆”。]]></description>
+      <guid>https://www.reuters.com/markets/australia-headed-towards-economic-soft-landing-says-macquarie-ceo-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 03:31:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳航飞行员因持续薪资纠纷再次罢工</title>
+      <link>https://www.reuters.com/business/aerospace-defense/pilots-qantas-units-strike-again-amid-ongoing-pay-dispute-2024-03-11/</link>
+      <description><![CDATA[澳大利亚航空飞行员联合会周一表示，澳洲航空旗下 Network Aviation 和 QantasLink 的飞行员将在本周举行新的罢工，因为他们继续要求更高的工资。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/pilots-qantas-units-strike-again-amid-ongoing-pay-dispute-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 03:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：消息人士称，中国监管机构要求大型银行加大对万科的支持力度</title>
+      <link>https://www.reuters.com/business/chinese-regulators-ask-large-banks-step-up-support-vanke-sources-say-2024-03-11/</link>
+      <description><![CDATA[两名消息人士称，中国监管机构最近会见金融机构，讨论国有房地产开发商万科的问题，要求大型银行加大融资支持力度，并要求私人债务持有人讨论延期问题。]]></description>
+      <guid>https://www.reuters.com/business/chinese-regulators-ask-large-banks-step-up-support-vanke-sources-say-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 03:07:38 GMT</pubDate>
+    </item>
     <item>
       <title>油价因中国需求担忧而下跌</title>
       <link>https://www.reuters.com/markets/commodities/oil-prices-fall-china-demand-worries-2024-03-11/</link>
@@ -13,7 +34,7 @@
       <pubDate>Mon, 11 Mar 2024 01:56:54 GMT</pubDate>
     </item>
     <item>
-      <title>由于对即将加息的坚定押注，日元上涨；英镑幻灯片</title>
+      <title>外汇 日元上涨，因押注即将加息；英镑幻灯片</title>
       <link>https://www.reuters.com/markets/currencies/yen-gains-bets-firm-imminent-rate-hike-sterling-slides-2024-03-11/</link>
       <description><![CDATA[日元兑美元周一走强，因有迹象表明日本央行将在下周的政策会议上退出负利率，这与美联储六月降息的预期形成鲜明对比。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-gains-bets-firm-imminent-rate-hike-sterling-slides-2024-03-11/</guid>
@@ -22,14 +43,14 @@
     <item>
       <title>韩国监管机构发现中国股票衍生品销售存在不当行为</title>
       <link>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</link>
-      <description><![CDATA[韩国金融市场监管机构周一表示，发现销售与香港股市指数挂钩的衍生品的金融公司存在不当行为。]]></description>
+      <description><![CDATA[韩国金融市场监管机构周一表示，发现出售与香港股市指数挂钩的衍生品的金融公司存在不当行为。]]></description>
       <guid>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 01:12:35 GMT</pubDate>
     </item>
     <item>
       <title>日本四季度GDP上修为小幅扩张 经济避免衰退</title>
       <link>https://www.reuters.com/markets/asia/japan-q4-gdp-revised-up-slight-expansion-economy-avoids-recession-2024-03-11/</link>
-      <description><![CDATA[周一修正后的政府GDP数据显示，日本经济避免了技术性衰退，尽管第四季度的上行变化弱于预期，凸显了对经济复苏乏力的担忧。]]></description>
+      <description><![CDATA[周一修订后的政府数据显示，日本经济避免了技术性衰退，尽管第四季度的上行变化弱于预期，凸显了对经济复苏乏力的担忧。]]></description>
       <guid>https://www.reuters.com/markets/asia/japan-q4-gdp-revised-up-slight-expansion-economy-avoids-recession-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 00:55:19 GMT</pubDate>
     </item>
@@ -60,13 +81,6 @@
       <description><![CDATA[由于俄罗斯等供应商的重要合同将于 2030 年代初到期，资源稀缺的日本正在从亲密盟友澳大利亚和美国那里获得液化天然气的长期供应。]]></description>
       <guid>https://www.reuters.com/business/energy/japan-boosts-reliance-allies-australia-us-long-term-lng-supplies-2024-03-10/</guid>
       <pubDate>Sun, 10 Mar 2024 22:09:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>彭博新闻社称，Reddit 计划通过 IPO 筹集 7.48 亿美元</title>
-      <link>https://www.reuters.com/technology/reddit-aims-raise-748-mln-planned-ipo-bloomberg-news-says-2024-03-10/</link>
-      <description><![CDATA[据彭博社周日报道，媒体平台 Reddit 及其投资者正在寻求通过首次公开募股筹集高达 7.48 亿美元的资金。]]></description>
-      <guid>https://www.reuters.com/technology/reddit-aims-raise-748-mln-planned-ipo-bloomberg-news-says-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 19:50:04 GMT</pubDate>
     </item>
     <item>
       <title>IDB批准投资部门增资35亿美元</title>
@@ -118,20 +132,6 @@
       <pubDate>Sat, 09 Mar 2024 08:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>法官阻止美国劳工委员会对合同工和特许经营工人的规定</title>
-      <link>https://www.reuters.com/legal/us-judge-blocks-us-labor-boards-rule-involving-contract-franchise-workers-2024-03-09/</link>
-      <description><![CDATA[德克萨斯州的一名联邦法官周五推翻了美国国家劳工关系委员会（NLRB）的一项规定，该规定将许多公司视为某些合同工和特许经营工人的雇主，并要求他们与代表他们的工会进行谈判。]]></description>
-      <guid>https://www.reuters.com/legal/us-judge-blocks-us-labor-boards-rule-involving-contract-franchise-workers-2024-03-09/</guid>
-      <pubDate>Sat, 09 Mar 2024 03:23:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音称未找到有关 737 MAX 9 关键部件拆卸的文件</title>
-      <link>https://www.reuters.com/business/aerospace-defense/boeing-says-no-documents-found-737-max-9-key-part-removal-2024-03-09/</link>
-      <description><![CDATA[据路透社看到的一封信函，波音公司周五表示，它认为从未创建过详细说明在空中紧急情况下发生故障的 737 MAX 9 生产过程中拆除关键部件所需的文件。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/boeing-says-no-documents-found-737-max-9-key-part-removal-2024-03-09/</guid>
-      <pubDate>Sat, 09 Mar 2024 03:06:30 GMT</pubDate>
-    </item>
-    <item>
       <title>华尔街未来一周白宫争夺战将成为华尔街更加关注的焦点</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-battle-white-house-comes-into-sharper-focus-wall-street-2024-03-08/</link>
       <description><![CDATA[关注盈利和货币政策的投资者开始考虑今年可能影响市场的另一个变量：2024 年美国总统大选。]]></description>
@@ -139,11 +139,11 @@
       <pubDate>Fri, 08 Mar 2024 21:40:42 GMT</pubDate>
     </item>
     <item>
-      <title>Costco 股价因季度收入低于预期而收盘近两年来最糟糕的一天</title>
-      <link>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</link>
-      <description><![CDATA[Costco 的股价周五收盘下跌 7.6%，为 2022 年 5 月以来最糟糕的一天，此前这家会员制零售连锁店未达到第二季度收入预期，并暗示汽油价格下跌带来了负面影响。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 17:29:27 GMT</pubDate>
+      <title>对于许多中国人来说，经济感觉正陷入衰退</title>
+      <link>https://www.reuters.com/world/china/many-china-economy-feels-like-it-is-recession-2024-01-17/</link>
+      <description><![CDATA[中国公务员考试前一天晚上，张美乐焦急地在宿舍走廊里来回踱步，排练答案。回到房间后，她才发现自己一直在哭。]]></description>
+      <guid>https://www.reuters.com/world/china/many-china-economy-feels-like-it-is-recession-2024-01-17/</guid>
+      <pubDate>Wed, 17 Jan 2024 23:07:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
