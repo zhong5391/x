@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 10:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 10:58:44 GMT</lastBuildDate>
     <item>
       <title>Reddit 期待已久的美国 IPO 估值目标高达 64 亿美元</title>
       <link>https://www.reuters.com/markets/deals/reddit-targets-up-64-bln-valuation-much-awaited-us-ipo-2024-03-11/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>洞察：下一次自动驾驶仪试验将测试特斯拉的“责任归咎于驾驶员”防御</title>
       <link>https://www.reuters.com/business/autos-transportation/next-autopilot-trial-test-teslas-blame-the-driver-defense-2024-03-11/</link>
-      <description><![CDATA[该汽车制造商总裁乔恩·麦克尼尔在尝试使用自动驾驶仪后在一封电子邮件中表示：“我在自动驾驶仪下感到非常舒服，以至于我最终被出口吹走了，因为我沉浸在电子邮件或电话中（我知道，我知道，这不是推荐的用途）。” Model X 中的功能。现在，该电子邮件被用于针对特斯拉的诉讼。]]></description>
+      <description><![CDATA[该汽车制造商总裁乔恩·麦克尼尔在试用后在一封电子邮件中表示：“我在自动驾驶仪下感到非常舒服，以至于我最终被出口吹走了，因为我沉浸在电子邮件或电话中（我知道，我知道，这不是推荐的用途）。” Model X 中的功能。现在，该电子邮件被用于针对特斯拉的诉讼。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/next-autopilot-trial-test-teslas-blame-the-driver-defense-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 10:03:52 GMT</pubDate>
     </item>
@@ -127,14 +127,14 @@
     <item>
       <title>日本四季度GDP上修为小幅扩张 经济避免衰退</title>
       <link>https://www.reuters.com/markets/asia/japan-q4-gdp-revised-up-slight-expansion-economy-avoids-recession-2024-03-11/</link>
-      <description><![CDATA[周一修订后的政府数据显示，日本经济避免了技术性衰退，尽管第四季度的上行变化弱于预期，凸显了对经济复苏乏力的担忧。]]></description>
+      <description><![CDATA[周一修正后的政府数据显示，日本经济避免了技术性衰退，尽管第四季度的上行变化弱于预期，凸显了对经济复苏乏力的担忧。]]></description>
       <guid>https://www.reuters.com/markets/asia/japan-q4-gdp-revised-up-slight-expansion-economy-avoids-recession-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 00:55:19 GMT</pubDate>
     </item>
     <item>
       <title>随着不确定性的蔓延，欧洲股市从历史高位回落</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</link>
-      <description><![CDATA[周一早盘，欧洲股指大多下跌，从上周的历史高位回落，交易员努力应对经济前景的不确定性，并等待本周晚些时候的美国通胀数据。]]></description>
+      <description><![CDATA[欧洲股指周一早盘大多下跌，从上周的历史高位回落，交易员努力应对经济前景的不确定性，并等待本周晚些时候的美国通胀数据。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 00:28:53 GMT</pubDate>
     </item>
