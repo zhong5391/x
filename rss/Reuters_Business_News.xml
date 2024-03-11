@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 07:48:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 08:28:19 GMT</lastBuildDate>
+    <item>
+      <title>独家：投资者敦促 Zara 所有者 Inditex 公布完整供应链</title>
+      <link>https://www.reuters.com/business/retail-consumer/investors-push-zara-owner-inditex-publish-full-supply-chain-2024-03-11/</link>
+      <description><![CDATA[投资者希望 Zara 母公司 Inditex 效仿竞争对手 H&amp;M 和 Primark 的做法，公开其完整的供应商名单，以便他们能够更好地评估供应链风险。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/investors-push-zara-owner-inditex-publish-full-supply-chain-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 06:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲人工智能人才争夺战愈演愈烈</title>
+      <link>https://www.reuters.com/technology/ai-talent-war-heats-up-europe-2024-03-11/</link>
+      <description><![CDATA[人工智能（AI）初创公司的涌入正在加剧欧洲对技术人才的争夺，让谷歌 DeepMind 等公司必须在支付巨额费用或失去该地区最优秀人才之间做出选择。]]></description>
+      <guid>https://www.reuters.com/technology/ai-talent-war-heats-up-europe-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 06:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着乐购和塞恩斯伯里抓住时机，英国杂货落后者面临艰巨的任务</title>
+      <link>https://www.reuters.com/business/retail-consumer/tesco-sainsburys-seize-moment-uk-grocery-laggards-face-uphill-task-2024-03-11/</link>
+      <description><![CDATA[随着英国购物者每周都试图进一步扩大支出，超市领导者特易购和塞恩斯伯里正在利用其优越的财务实力从负债累累、难以竞争的竞争对手那里赢得顾客。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/tesco-sainsburys-seize-moment-uk-grocery-laggards-face-uphill-task-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 06:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：强调日本央行的积极因素</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-11/</link>
+      <description><![CDATA[韦恩·科尔 (Wayne Cole) 对欧洲和全球市场未来一天的展望。]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 05:32:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着绿色燃料标准的争论愈演愈烈，大众汽车退出澳大利亚汽车游说委员会</title>
+      <link>https://www.reuters.com/business/autos-transportation/volkswagen-quits-australia-auto-lobby-committee-fight-grows-over-green-fuel-2024-03-11/</link>
+      <description><![CDATA[大众汽车澳大利亚公司周一表示，在特斯拉与该组织断绝关系几天后，该公司已退出该国汽车游说团体的政策制定委员会，因为这家德国汽车制造商与反对新燃油标准的运动保持了距离。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-quits-australia-auto-lobby-committee-fight-grows-over-green-fuel-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 04:54:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国旨在成为印度-太平洋地区的“首选经济伙伴”-雷蒙多</title>
+      <link>https://www.reuters.com/business/us-aims-be-economic-partner-choice-indo-pacific-raimondo-2024-03-11/</link>
+      <description><![CDATA[美国商务部长吉娜·雷蒙多将于周一开始率领一个总统贸易和投资代表团访问菲律宾，美国希望加强该地区的经济联系。]]></description>
+      <guid>https://www.reuters.com/business/us-aims-be-economic-partner-choice-indo-pacific-raimondo-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 04:30:41 GMT</pubDate>
+    </item>
     <item>
       <title>麦格理首席执行官表示澳大利亚正走向经济“软着陆”</title>
       <link>https://www.reuters.com/markets/australia-headed-towards-economic-soft-landing-says-macquarie-ceo-2024-03-11/</link>
@@ -13,9 +55,9 @@
       <pubDate>Mon, 11 Mar 2024 03:31:18 GMT</pubDate>
     </item>
     <item>
-      <title>澳航飞行员因持续薪资纠纷再次罢工</title>
+      <title>澳航调整时间表，机组飞行员计划再次罢工</title>
       <link>https://www.reuters.com/business/aerospace-defense/pilots-qantas-units-strike-again-amid-ongoing-pay-dispute-2024-03-11/</link>
-      <description><![CDATA[澳大利亚航空飞行员联合会周一表示，澳洲航空旗下 Network Aviation 和 QantasLink 的飞行员将在本周举行新的罢工，因为他们继续要求更高的工资。]]></description>
+      <description><![CDATA[澳大利亚旗舰航空公司澳洲航空 (Qantas Airways) 周一表示，将调整本周几天的航班时刻表，以减轻因飞行员新计划罢工而造成的运营中断。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/pilots-qantas-units-strike-again-amid-ongoing-pay-dispute-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 03:28:41 GMT</pubDate>
     </item>
@@ -29,21 +71,14 @@
     <item>
       <title>油价因中国需求担忧而下跌</title>
       <link>https://www.reuters.com/markets/commodities/oil-prices-fall-china-demand-worries-2024-03-11/</link>
-      <description><![CDATA[由于对中国需求放缓的担忧，周一油价延续上周跌势，但围绕中东和俄罗斯的地缘政治风险挥之不去，限制了跌幅。]]></description>
+      <description><![CDATA[由于对中国需求放缓的担忧，周一油价延续了上周的跌势，尽管围绕中东和俄罗斯的地缘政治风险挥之不去，限制了跌幅。]]></description>
       <guid>https://www.reuters.com/markets/commodities/oil-prices-fall-china-demand-worries-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 01:56:54 GMT</pubDate>
     </item>
     <item>
-      <title>外汇 日元上涨，因押注即将加息；英镑幻灯片</title>
-      <link>https://www.reuters.com/markets/currencies/yen-gains-bets-firm-imminent-rate-hike-sterling-slides-2024-03-11/</link>
-      <description><![CDATA[日元兑美元周一走强，因有迹象表明日本央行将在下周的政策会议上退出负利率，这与美联储六月降息的预期形成鲜明对比。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/yen-gains-bets-firm-imminent-rate-hike-sterling-slides-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 01:33:12 GMT</pubDate>
-    </item>
-    <item>
       <title>韩国监管机构发现中国股票衍生品销售存在不当行为</title>
       <link>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</link>
-      <description><![CDATA[韩国金融市场监管机构周一表示，发现销售与香港股市指数挂钩的衍生品的金融公司存在不当行为。]]></description>
+      <description><![CDATA[韩国金融市场监管机构周一表示，发现出售与香港股市指数挂钩的衍生品的金融公司存在不当行为。]]></description>
       <guid>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 01:12:35 GMT</pubDate>
     </item>
@@ -55,25 +90,18 @@
       <pubDate>Mon, 11 Mar 2024 00:55:19 GMT</pubDate>
     </item>
     <item>
-      <title>由于日本央行考虑实行正利率，亚洲股市下滑，日元坚挺</title>
+      <title>由于日本央行考虑实行正利率，亚洲股市低迷，日元坚挺</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</link>
       <description><![CDATA[周一，亚洲股市大幅下挫，而在美国通胀数据公布可能会加速或推迟全球降息之前，美元显得脆弱。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 00:28:53 GMT</pubDate>
     </item>
     <item>
-      <title>彭博社称，达美航空预计波音 737 Max 10 可能会推迟到 2027 年</title>
+      <title>据彭博社报道，达美航空预计波音 737 Max 10 的交付将推迟至 2027 年</title>
       <link>https://www.reuters.com/business/aerospace-defense/delta-expects-boeing-737-max-10-may-be-delayed-until-2027-bloomberg-says-2024-03-10/</link>
-      <description><![CDATA[据彭博社周日报道，达美航空预计波音公司 737 Max 10 飞机的交付将推迟到 2027 年，因为该飞机制造商面临联邦安全和刑事审查。]]></description>
+      <description><![CDATA[彭博新闻周日援引该公司首席执行官埃德·巴斯蒂安 (Ed Bastian) 的采访报道称，达美航空预计向该公司交付波音 737 Max 10 飞机的时间可能会推迟到 2027 年。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/delta-expects-boeing-737-max-10-may-be-delayed-until-2027-bloomberg-says-2024-03-10/</guid>
       <pubDate>Sun, 10 Mar 2024 23:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘：中国的通胀、资本流动趋势正在逆转吗？</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-10/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 22:43:25 GMT</pubDate>
     </item>
     <item>
       <title>日本加大对盟友澳大利亚和美国长期液化天然气供应的依赖</title>
@@ -109,34 +137,6 @@
       <description><![CDATA[尽管由于油价和产量下降，沙特阿拉伯国有石油巨头阿美公司 2023 年净利润下降 24.7% 至 1,213 亿美元，但该公司仍提高了股息，这表明该国在寻求多元化的过程中继续依赖石油收入。]]></description>
       <guid>https://www.reuters.com/business/energy/saudi-aramco-boosts-dividend-despite-drop-2023-profit-2024-03-10/</guid>
       <pubDate>Sun, 10 Mar 2024 06:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街巨头齐聚，金融博物馆寻找落脚点</title>
-      <link>https://www.reuters.com/business/finance/wall-street-titans-gather-finance-museum-searches-home-2024-03-09/</link>
-      <description><![CDATA[金融业重量级人物上周在纽约召开会议，为一座失去了标志性华尔街地址的金融博物馆筹集资金。]]></description>
-      <guid>https://www.reuters.com/business/finance/wall-street-titans-gather-finance-museum-searches-home-2024-03-09/</guid>
-      <pubDate>Sat, 09 Mar 2024 21:44:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>汉莎航空空乘人员将于周二和周三罢工</title>
-      <link>https://www.reuters.com/business/aerospace-defense/lufthansa-flight-attendants-strike-tuesday-wednesday-2024-03-09/</link>
-      <description><![CDATA[汉莎航空空乘工会呼吁其成员在周二和周三对汉莎航空和短途航空公司 CityLine 进行罢工，以要求提高工资。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/lufthansa-flight-attendants-strike-tuesday-wednesday-2024-03-09/</guid>
-      <pubDate>Sat, 09 Mar 2024 20:35:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国警告总体就业压力尚未缓解</title>
-      <link>https://www.reuters.com/world/china/china-says-overall-pressure-employment-yet-ease-2024-03-09/</link>
-      <description><![CDATA[人力资源部长周六表示，中国仍面临结构性就业问题，总体就业压力尚未缓解，经济放缓将为 2024 年大学毕业生数量再创新高做好准备。]]></description>
-      <guid>https://www.reuters.com/world/china/china-says-overall-pressure-employment-yet-ease-2024-03-09/</guid>
-      <pubDate>Sat, 09 Mar 2024 08:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街未来一周白宫争夺战将成为华尔街更加关注的焦点</title>
-      <link>https://www.reuters.com/markets/us/wall-st-week-ahead-battle-white-house-comes-into-sharper-focus-wall-street-2024-03-08/</link>
-      <description><![CDATA[关注盈利和货币政策的投资者开始考虑今年可能影响市场的另一个变量：2024 年美国总统大选。]]></description>
-      <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-battle-white-house-comes-into-sharper-focus-wall-street-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 21:40:42 GMT</pubDate>
     </item>
     <item>
       <title>对于许多中国人来说，经济感觉正陷入衰退</title>
