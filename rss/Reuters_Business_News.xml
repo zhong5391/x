@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 08:28:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 08:41:29 GMT</lastBuildDate>
+    <item>
+      <title>电力公司表示，特斯拉德国超级工厂可能从周一开始恢复供电</title>
+      <link>https://www.reuters.com/business/autos-transportation/teslas-german-gigafactory-could-be-supplied-again-monday-says-power-firm-2024-03-11/</link>
+      <description><![CDATA[负责解决持续停电问题的电力公司表示，特斯拉位于柏林附近的德国超级工厂可能从周一开始恢复供电，该公司自 3 月 5 日以来已经关闭了该工厂。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/teslas-german-gigafactory-could-be-supplied-again-monday-says-power-firm-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 08:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国公司将宣布在菲律宾投资超过10亿美元</title>
+      <link>https://www.reuters.com/markets/us-companies-announce-investments-over-1-bln-philippines-2024-03-11/</link>
+      <description><![CDATA[美国商务部长吉娜·雷蒙多周一在对马尼拉进行正式访问期间表示，美国公司将宣布在菲律宾投资超过 10 亿美元。]]></description>
+      <guid>https://www.reuters.com/markets/us-companies-announce-investments-over-1-bln-philippines-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 07:34:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币触及 70,400 美元上方新纪录高位</title>
+      <link>https://www.reuters.com/technology/bitcoin-hits-new-record-high-above-70400-2024-03-11/</link>
+      <description><![CDATA[比特币周一创下历史新高，突破 70,400 美元，因为最大的加密货币的飙升没有显示出放缓的迹象。]]></description>
+      <guid>https://www.reuters.com/technology/bitcoin-hits-new-record-high-above-70400-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 07:23:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国投资者埃利奥特放弃对英国咖喱的收购要约</title>
+      <link>https://www.reuters.com/markets/deals/us-investor-elliott-says-wont-make-offer-uks-currys-2024-03-11/</link>
+      <description><![CDATA[美国投资者 Elliott Advisors 不打算对 Currys 提出收购要约，称这家英国电器零售商的董事会不会参与其中。]]></description>
+      <guid>https://www.reuters.com/markets/deals/us-investor-elliott-says-wont-make-offer-uks-currys-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 07:21:16 GMT</pubDate>
+    </item>
     <item>
       <title>独家：投资者敦促 Zara 所有者 Inditex 公布完整供应链</title>
       <link>https://www.reuters.com/business/retail-consumer/investors-push-zara-owner-inditex-publish-full-supply-chain-2024-03-11/</link>
@@ -20,7 +48,7 @@
       <pubDate>Mon, 11 Mar 2024 06:04:13 GMT</pubDate>
     </item>
     <item>
-      <title>随着乐购和塞恩斯伯里抓住时机，英国杂货落后者面临艰巨的任务</title>
+      <title>随着特易购和塞恩斯伯里抓住时机，英国杂货落后者面临艰巨的任务</title>
       <link>https://www.reuters.com/business/retail-consumer/tesco-sainsburys-seize-moment-uk-grocery-laggards-face-uphill-task-2024-03-11/</link>
       <description><![CDATA[随着英国购物者每周都试图进一步扩大支出，超市领导者特易购和塞恩斯伯里正在利用其优越的财务实力从负债累累、难以竞争的竞争对手那里赢得顾客。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/tesco-sainsburys-seize-moment-uk-grocery-laggards-face-uphill-task-2024-03-11/</guid>
@@ -48,13 +76,6 @@
       <pubDate>Mon, 11 Mar 2024 04:30:41 GMT</pubDate>
     </item>
     <item>
-      <title>麦格理首席执行官表示澳大利亚正走向经济“软着陆”</title>
-      <link>https://www.reuters.com/markets/australia-headed-towards-economic-soft-landing-says-macquarie-ceo-2024-03-11/</link>
-      <description><![CDATA[麦格理集团首席执行官谢马拉·维克拉马纳亚克 (Shemara Wikramanayake) 周一表示，澳大利亚经济已做好准备，将于 2024 年降息，并在经历长期通胀后实现“软着陆”。]]></description>
-      <guid>https://www.reuters.com/markets/australia-headed-towards-economic-soft-landing-says-macquarie-ceo-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 03:31:18 GMT</pubDate>
-    </item>
-    <item>
       <title>澳航调整时间表，机组飞行员计划再次罢工</title>
       <link>https://www.reuters.com/business/aerospace-defense/pilots-qantas-units-strike-again-amid-ongoing-pay-dispute-2024-03-11/</link>
       <description><![CDATA[澳大利亚旗舰航空公司澳洲航空 (Qantas Airways) 周一表示，将调整本周几天的航班时刻表，以减轻因飞行员新计划罢工而造成的运营中断。]]></description>
@@ -62,23 +83,16 @@
       <pubDate>Mon, 11 Mar 2024 03:28:41 GMT</pubDate>
     </item>
     <item>
-      <title>独家：消息人士称，中国监管机构要求大型银行加大对万科的支持力度</title>
+      <title>独家：中国监管部门要求大型银行加大对万科的支持力度</title>
       <link>https://www.reuters.com/business/chinese-regulators-ask-large-banks-step-up-support-vanke-sources-say-2024-03-11/</link>
       <description><![CDATA[两名消息人士称，中国监管机构最近会见金融机构，讨论国有房地产开发商万科的问题，要求大型银行加大融资支持力度，并要求私人债务持有人讨论延期问题。]]></description>
       <guid>https://www.reuters.com/business/chinese-regulators-ask-large-banks-step-up-support-vanke-sources-say-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 03:07:38 GMT</pubDate>
     </item>
     <item>
-      <title>油价因中国需求担忧而下跌</title>
-      <link>https://www.reuters.com/markets/commodities/oil-prices-fall-china-demand-worries-2024-03-11/</link>
-      <description><![CDATA[由于对中国需求放缓的担忧，周一油价延续了上周的跌势，尽管围绕中东和俄罗斯的地缘政治风险挥之不去，限制了跌幅。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/oil-prices-fall-china-demand-worries-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 01:56:54 GMT</pubDate>
-    </item>
-    <item>
       <title>韩国监管机构发现中国股票衍生品销售存在不当行为</title>
       <link>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</link>
-      <description><![CDATA[韩国金融市场监管机构周一表示，发现出售与香港股市指数挂钩的衍生品的金融公司存在不当行为。]]></description>
+      <description><![CDATA[韩国金融市场监管机构周一表示，发现销售与香港股市指数挂钩的衍生品的金融公司存在不当行为。]]></description>
       <guid>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 01:12:35 GMT</pubDate>
     </item>
@@ -125,25 +139,11 @@
       <pubDate>Sun, 10 Mar 2024 18:49:16 GMT</pubDate>
     </item>
     <item>
-      <title>印度血清研究所将目光投向新冠以外的疟疾和登革热新疫苗</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/indias-serum-looks-beyond-covid-with-new-vaccines-malaria-dengue-2024-03-10/</link>
-      <description><![CDATA[全球最大的疫苗制造商印度血清研究所的首席执行官表示，该公司在未来几年推出针对疟疾和登革热等疾病的疫苗之前，通过重新利用用于进行 COVID-19 免疫接种的设施，加强了其生产。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/indias-serum-looks-beyond-covid-with-new-vaccines-malaria-dengue-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 17:33:07 GMT</pubDate>
-    </item>
-    <item>
       <title>尽管利润下降，阿美公司仍将股息提高 30% 至 980 亿美元</title>
       <link>https://www.reuters.com/business/energy/saudi-aramco-boosts-dividend-despite-drop-2023-profit-2024-03-10/</link>
       <description><![CDATA[尽管由于油价和产量下降，沙特阿拉伯国有石油巨头阿美公司 2023 年净利润下降 24.7% 至 1,213 亿美元，但该公司仍提高了股息，这表明该国在寻求多元化的过程中继续依赖石油收入。]]></description>
       <guid>https://www.reuters.com/business/energy/saudi-aramco-boosts-dividend-despite-drop-2023-profit-2024-03-10/</guid>
       <pubDate>Sun, 10 Mar 2024 06:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于许多中国人来说，经济感觉正陷入衰退</title>
-      <link>https://www.reuters.com/world/china/many-china-economy-feels-like-it-is-recession-2024-01-17/</link>
-      <description><![CDATA[中国公务员考试前一天晚上，张美乐焦急地在宿舍走廊里来回踱步，排练答案。回到房间后，她才发现自己一直在哭。]]></description>
-      <guid>https://www.reuters.com/world/china/many-china-economy-feels-like-it-is-recession-2024-01-17/</guid>
-      <pubDate>Wed, 17 Jan 2024 23:07:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
