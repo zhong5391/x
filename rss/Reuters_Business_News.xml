@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 13:51:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 14:17:04 GMT</lastBuildDate>
+    <item>
+      <title>路透调查显示巴西2月月度通胀预测为一年高点</title>
+      <link>https://www.reuters.com/world/americas/brazil-feb-monthly-inflation-forecast-one-year-high-2024-03-11/</link>
+      <description><![CDATA[路透社的一项调查发现，巴西的月度通胀率可能在二月份加速至一年高点，但由于农产品供应充足和经济状况疲软，未来几个月应该会开始回落。]]></description>
+      <guid>https://www.reuters.com/world/americas/brazil-feb-monthly-inflation-forecast-one-year-high-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 12:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普表示关税影响可以通过减税和其他行动来抵消</title>
+      <link>https://www.reuters.com/world/us/trump-says-tariff-impact-could-be-offset-by-tax-cuts-other-action-2024-03-11/</link>
+      <description><![CDATA[美国共和党总统候选人唐纳德·特朗普总统周一为其提议的 10% 关税进行了辩护，他在接受 CNBC 采访时表示，对家庭的任何影响（例如物价上涨）都可以通过减税和其他行动来抵消。]]></description>
+      <guid>https://www.reuters.com/world/us/trump-says-tariff-impact-could-be-offset-by-tax-cuts-other-action-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 12:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>霍尼韦尔将向加拿大最高法院寻求庞巴迪发动机定价案的“救济”</title>
+      <link>https://www.reuters.com/business/aerospace-defense/honeywell-will-seek-relief-bombardier-engine-pricing-case-canadas-top-court-2024-03-11/</link>
+      <description><![CDATA[霍尼韦尔表示，将要求加拿大最高法院审理涉及公务机制造商庞巴迪的发动机定价案，该纠纷引发了竞争对手飞机制造商对泄露商业谈判机密条款的担忧。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/honeywell-will-seek-relief-bombardier-engine-pricing-case-canadas-top-court-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 11:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Choice放弃竞购竞争对手温德姆酒店</title>
+      <link>https://www.reuters.com/markets/deals/choice-ends-hostile-bid-wyndham-hotels-2024-03-11/</link>
+      <description><![CDATA[精品国际酒店集团 (Choice Hotels International) 终止了对竞争对手温德姆酒店集团的敌意收购。该公司周一表示，度假村未能从目标股东那里获得足够的支持。]]></description>
+      <guid>https://www.reuters.com/markets/deals/choice-ends-hostile-bid-wyndham-hotels-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:48:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mango 在美国的扩张帮助 2023 年销售额突破 34 亿美元</title>
+      <link>https://www.reuters.com/business/retail-consumer/spanish-retailer-mango-sales-rose-record-31-bln-eur-2023-2024-03-11/</link>
+      <description><![CDATA[时尚零售商 Mango 周一表示，其销售额将在 2023 年增长 19%，达到创纪录的 31 亿欧元（33.9 亿美元），与西班牙竞争对手 Zara 在美国的强劲扩张相当。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/spanish-retailer-mango-sales-rose-record-31-bln-eur-2023-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:16:23 GMT</pubDate>
+    </item>
     <item>
       <title>Reddit 期待已久的美国 IPO 估值目标高达 64 亿美元</title>
       <link>https://www.reuters.com/markets/deals/reddit-targets-up-64-bln-valuation-much-awaited-us-ipo-2024-03-11/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>美联储银行紧急行动终止贷款，目光转向贴现窗口</title>
       <link>https://www.reuters.com/markets/us/emergency-fed-bank-effort-ends-lending-eyes-turn-discount-window-2024-03-11/</link>
-      <description><![CDATA[一年前，在硅谷银行倒闭引发的巨大压力下，美联储匆忙启动的一项新业务周一关闭，有证据表明，它有助于扭转可能导致经济脱轨并颠覆央行降低通胀努力的困境。 。]]></description>
+      <description><![CDATA[一年前，在硅谷银行倒闭引发的巨大压力下，美联储匆忙启动的一项新业务周一关闭，有证据表明，它帮助扭转了可能导致经济脱轨并颠覆央行降低通胀努力的困境。 。]]></description>
       <guid>https://www.reuters.com/markets/us/emergency-fed-bank-effort-ends-lending-eyes-turn-discount-window-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 10:11:48 GMT</pubDate>
     </item>
@@ -27,21 +62,14 @@
       <pubDate>Mon, 11 Mar 2024 10:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>金树首支私募信贷基金筹集13.5亿美元</title>
-      <link>https://www.reuters.com/business/finance/goldentree-raises-135-bln-first-private-credit-fund-2024-03-11/</link>
-      <description><![CDATA[该公司周一在一份声明中表示，金树资产管理公司为其首支纯私人信贷基金筹集了超过13.5亿美元，在蓬勃发展的市场中站稳了脚跟。]]></description>
-      <guid>https://www.reuters.com/business/finance/goldentree-raises-135-bln-first-private-credit-fund-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 10:06:28 GMT</pubDate>
+      <title>美国碳管道公司承诺不采收石油，但巴肯钻探商希望如此</title>
+      <link>https://www.reuters.com/markets/carbon/us-carbon-pipeline-company-pledges-no-oil-recovery-bakken-drillers-want-it-2024-03-11/</link>
+      <description><![CDATA[Summit Carbon Solutions正试图建造美国最大的二氧化碳捕获管道来运输和掩埋温室气体，该公司一再承诺其项目不会被钻井公司用来提高油田产量。]]></description>
+      <guid>https://www.reuters.com/markets/carbon/us-carbon-pipeline-company-pledges-no-oil-recovery-bakken-drillers-want-it-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:07:25 GMT</pubDate>
     </item>
     <item>
-      <title>美国参议员寻求重新分配政府频谱以促进 5G 网络发展</title>
-      <link>https://www.reuters.com/business/media-telecom/us-senators-seek-reallocate-government-spectrum-boost-5g-networks-2024-03-11/</link>
-      <description><![CDATA[两名共和党高级参议员周一提出立法，要求拍卖一些美国政府拥有的频谱，以促进商业无线 5G 网络的发展。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/us-senators-seek-reallocate-government-spectrum-boost-5g-networks-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 10:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>洞察：下一次自动驾驶仪试验将测试特斯拉的“责任归咎于驾驶员”防御</title>
+      <title>下一次自动驾驶仪试验将测试特斯拉的“责任归咎于驾驶员”防御</title>
       <link>https://www.reuters.com/business/autos-transportation/next-autopilot-trial-test-teslas-blame-the-driver-defense-2024-03-11/</link>
       <description><![CDATA[该汽车制造商总裁乔恩·麦克尼尔在尝试使用自动驾驶仪后在一封电子邮件中表示：“我在自动驾驶仪下感到非常舒服，以至于我最终被出口吹走了，因为我沉浸在电子邮件或电话中（我知道，我知道，这不是推荐的用途）。” Model X 中的功能。现在，该电子邮件被用于针对特斯拉的诉讼。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/next-autopilot-trial-test-teslas-blame-the-driver-defense-2024-03-11/</guid>
@@ -57,23 +85,23 @@
     <item>
       <title>美国因制动问题对 250,712 辆本田汽车展开调查</title>
       <link>https://www.reuters.com/business/autos-transportation/us-opens-probe-into-250712-honda-vehicles-over-braking-issues-2024-03-11/</link>
-      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 周一对约 250,712 辆本田 Insight 和本田 Passport 车辆因无意启动自动紧急制动而展开初步评估。]]></description>
+      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 周一对约 250,712 辆本田 Insight 和本田 Passport 车辆因无意启动自动紧急制动而启动初步调查。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-opens-probe-into-250712-honda-vehicles-over-braking-issues-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 09:41:39 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲央行管理委员会卡齐米尔表示，欧洲央行即将降息，但还不是现在</title>
-      <link>https://www.reuters.com/markets/europe/ecb-rate-cut-coming-not-just-yet-says-governing-councils-kazimir-2024-03-11/</link>
-      <description><![CDATA[斯洛伐克管理委员会成员彼得·卡济米尔周一表示，欧洲央行对通胀下降越来越有信心，但仍应将降息推迟到六月。]]></description>
-      <guid>https://www.reuters.com/markets/europe/ecb-rate-cut-coming-not-just-yet-says-governing-councils-kazimir-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 09:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>通胀数据导致期货下跌</title>
+      <title>随着焦点转向通胀数据，期货走软</title>
       <link>https://www.reuters.com/markets/us/futures-dip-run-up-inflation-data-2024-03-11/</link>
-      <description><![CDATA[美国股指期货周一下跌，因投资者等待本周关键通胀数据，这些数据可能为美联储的货币政策路径提供线索，好坏参半的就业数据强化了美联储将在年中开始宽松的预期。]]></description>
+      <description><![CDATA[美国股指期货周一小幅走低，因投资者等待本周关键通胀数据，该数据可能为上周好坏参半的就业报告后美联储的货币政策路径提供更多线索。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-dip-run-up-inflation-data-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 09:27:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克 (Elon Musk) 再次向 OpenAI 发起进攻，将 xAI 的 Grok 聊天机器人开源</title>
+      <link>https://www.reuters.com/technology/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-2024-03-11/</link>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 周一表示，他的人工智能初创公司 xAI 将于本周开源其 ChatGPT 挑战者“Grok”，几天前，他起诉 OpenAI 放弃其最初的使命，转而采用营利性模式。]]></description>
+      <guid>https://www.reuters.com/technology/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 09:01:25 GMT</pubDate>
     </item>
     <item>
       <title>随着需求狂潮加剧，比特币价格突破 71,000 美元历史新高</title>
@@ -90,32 +118,11 @@
       <pubDate>Mon, 11 Mar 2024 06:05:22 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲人工智能人才争夺战愈演愈烈</title>
-      <link>https://www.reuters.com/technology/ai-talent-war-heats-up-europe-2024-03-11/</link>
-      <description><![CDATA[人工智能（AI）初创公司的涌入正在加剧欧洲对技术人才的争夺，让谷歌 DeepMind 等公司必须在支付巨额费用或失去该地区最优秀人才之间做出选择。]]></description>
-      <guid>https://www.reuters.com/technology/ai-talent-war-heats-up-europe-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 06:04:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着乐购和塞恩斯伯里抓住时机，英国杂货落后者面临艰巨的任务</title>
+      <title>随着特易购和塞恩斯伯里抓住时机，英国杂货落后者面临艰巨的任务</title>
       <link>https://www.reuters.com/business/retail-consumer/tesco-sainsburys-seize-moment-uk-grocery-laggards-face-uphill-task-2024-03-11/</link>
       <description><![CDATA[随着英国购物者每周都试图进一步扩大支出，超市领导者特易购和塞恩斯伯里正在利用其优越的财务实力从负债累累、难以竞争的竞争对手那里赢得顾客。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/tesco-sainsburys-seize-moment-uk-grocery-laggards-face-uphill-task-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 06:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着绿色燃料标准的争论愈演愈烈，大众汽车退出澳大利亚汽车游说委员会</title>
-      <link>https://www.reuters.com/business/autos-transportation/volkswagen-quits-australia-auto-lobby-committee-fight-grows-over-green-fuel-2024-03-11/</link>
-      <description><![CDATA[大众汽车澳大利亚公司周一表示，在特斯拉与该组织断绝关系几天后，该公司已退出该国汽车游说团体的政策制定委员会，因为这家德国汽车制造商与反对新燃油标准的运动保持了距离。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-quits-australia-auto-lobby-committee-fight-grows-over-green-fuel-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 04:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳航调整时间表，机组飞行员计划再次罢工</title>
-      <link>https://www.reuters.com/business/aerospace-defense/pilots-qantas-units-strike-again-amid-ongoing-pay-dispute-2024-03-11/</link>
-      <description><![CDATA[澳大利亚旗舰航空公司澳洲航空 (Qantas Airways) 周一表示，将调整本周几天的航班时刻表，以减轻因飞行员新计划罢工而造成的运营中断。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/pilots-qantas-units-strike-again-amid-ongoing-pay-dispute-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 03:28:41 GMT</pubDate>
     </item>
     <item>
       <title>独家：中国监管部门要求大型银行加大对万科的支持力度</title>
@@ -132,18 +139,11 @@
       <pubDate>Mon, 11 Mar 2024 00:55:19 GMT</pubDate>
     </item>
     <item>
-      <title>随着不确定性的蔓延，欧洲股市从历史高位回落</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</link>
-      <description><![CDATA[周一早盘，欧洲股指大多下跌，从上周的历史高位回落，交易员努力应对经济前景的不确定性，并等待本周晚些时候的美国通胀数据。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 00:28:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>据彭博社报道，达美航空预计波音 737 Max 10 的交付将推迟至 2027 年</title>
-      <link>https://www.reuters.com/business/aerospace-defense/delta-expects-boeing-737-max-10-may-be-delayed-until-2027-bloomberg-says-2024-03-10/</link>
-      <description><![CDATA[彭博新闻周日援引该公司首席执行官埃德·巴斯蒂安 (Ed Bastian) 的采访报道称，达美航空预计向该公司交付波音 737 Max 10 飞机的时间可能会推迟到 2027 年。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/delta-expects-boeing-737-max-10-may-be-delayed-until-2027-bloomberg-says-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 23:31:50 GMT</pubDate>
+      <title>2024 年美国可能会在整合浪潮中达成更多能源交易</title>
+      <link>https://www.reuters.com/default/more-us-energy-deals-likely-2024-wave-consolidation-2024-01-24/</link>
+      <description><![CDATA[美国能源行业已进入整合的新阶段，该行业将在 2023 年掀起 2500 亿美元的收购热潮，专家预计即将出现更多交易。]]></description>
+      <guid>https://www.reuters.com/default/more-us-energy-deals-likely-2024-wave-consolidation-2024-01-24/</guid>
+      <pubDate>Wed, 24 Jan 2024 10:26:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
