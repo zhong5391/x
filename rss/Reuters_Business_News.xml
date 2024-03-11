@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 21:31:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 21:48:43 GMT</lastBuildDate>
     <item>
       <title>云需求强劲，甲骨文季度利润增长</title>
       <link>https://www.reuters.com/technology/oracle-misses-quarterly-revenue-estimates-2024-03-11/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>福特在美国逃税案中支付 3.65 亿美元</title>
       <link>https://www.reuters.com/business/autos-transportation/ford-pay-365-million-us-import-tariff-evasion-case-2024-03-11/</link>
-      <description><![CDATA[福特汽车公司将支付 3.65 亿美元，以解决美国对其数十万辆 Transit Connect 车辆的错误分类和低估价值而违反联邦关税法的指控。]]></description>
+      <description><![CDATA[福特汽车公司将支付 3.65 亿美元，以解决美国对其数十万辆 Transit Connect 车辆错误分类和低估价值，违反联邦关税法的指控。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ford-pay-365-million-us-import-tariff-evasion-case-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 19:53:26 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>美国通胀数据公布后，期权参与者已做好应对市场波动的准备</title>
       <link>https://www.reuters.com/markets/us/options-players-ready-market-swings-after-us-inflation-data-2024-03-11/</link>
-      <description><![CDATA[在周二公布可能影响美联储货币政策轨迹的通胀数据之前，美国股票期权市场的交易员变得变得不安。]]></description>
+      <description><![CDATA[在周二公布的通胀数据可能会影响美联储的货币政策轨迹之前，美国股票期权市场的交易员变得有些不安。]]></description>
       <guid>https://www.reuters.com/markets/us/options-players-ready-market-swings-after-us-inflation-data-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 18:38:38 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 11 Mar 2024 15:58:41 GMT</pubDate>
     </item>
     <item>
-      <title>纽约联储：2月份消费者对长期通胀的展望遇到困难</title>
+      <title>纽约联储：2月份消费者对长期通胀的展望遇到障碍</title>
       <link>https://www.reuters.com/markets/us/ny-fed-consumer-outlook-longer-term-inflation-hit-snag-february-2024-03-11/</link>
       <description><![CDATA[纽约联邦储备银行周一发布的一份报告称，2月份公众对通胀长期轨迹的预期恶化。]]></description>
       <guid>https://www.reuters.com/markets/us/ny-fed-consumer-outlook-longer-term-inflation-hit-snag-february-2024-03-11/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>欧盟成员国批准关于零工工人权利的稀释规则草案</title>
       <link>https://www.reuters.com/world/europe/eu-countries-back-draft-rules-gig-workers-rights-2024-03-11/</link>
-      <description><![CDATA[周一，欧洲在给予 Uber 和 Deliveroo 等在线平台所谓的零工经济工人更大的社会和劳工权利方面又迈进了一步，尽管各公司表示，根据淡化的规则，不会有什么改变。]]></description>
+      <description><![CDATA[周一，欧洲在给予 Uber 和 Deliveroo 等在线平台所谓的零工经济工人更大的社会和劳工权利方面又迈进了一步，尽管企业表示，根据淡化的规则，不会有什么改变。]]></description>
       <guid>https://www.reuters.com/world/europe/eu-countries-back-draft-rules-gig-workers-rights-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 14:53:35 GMT</pubDate>
     </item>
