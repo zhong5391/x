@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 10 Mar 2024 23:52:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 01:16:46 GMT</lastBuildDate>
+    <item>
+      <title>中国大使表示对澳大利亚葡萄酒关税的审查进展顺利</title>
+      <link>https://www.reuters.com/world/asia-pacific/chinese-ambassador-says-review-into-tariffs-australian-wine-progressing-well-2024-03-11/</link>
+      <description><![CDATA[中国大使肖千周一在悉尼举行的一次会议上表示，中国对澳大利亚葡萄酒征收关税的审查进展顺利。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/chinese-ambassador-says-review-into-tariffs-australian-wine-progressing-well-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 00:32:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本 GDP 数据上调，亚洲股市下滑，日元坚挺</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</link>
+      <description><![CDATA[亚洲股市周一跟随华尔街走低，而在美国通胀数据可能加速或推迟全球降息之前，美元看起来很脆弱。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 00:28:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘：中国的通胀、资本流动趋势正在逆转吗？</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-10/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-10/</guid>
+      <pubDate>Sun, 10 Mar 2024 22:43:25 GMT</pubDate>
+    </item>
     <item>
       <title>上海振华否认对美国港口构成网络安全风险</title>
       <link>https://www.reuters.com/technology/cybersecurity/shanghai-zhenhua-denies-posing-cybersecurity-risk-us-ports-2024-03-10/</link>
@@ -22,26 +43,26 @@
     <item>
       <title>澳大利亚贸易部长称中国葡萄酒和龙虾贸易壁垒取得良好进展</title>
       <link>https://www.reuters.com/world/asia-pacific/good-progress-chinese-wine-lobster-trade-barriers-says-australia-trade-minister-2024-03-10/</link>
-      <description><![CDATA[澳大利亚贸易部长唐·法雷尔 (Don Farrell) 周日表示，中国将于 3 月底完成对澳大利亚葡萄酒长达数年的关税审查，并正在审查对龙虾进口的限制。]]></description>
+      <description><![CDATA[澳大利亚贸易部长唐·法雷尔周日表示，中国将在三月底之前完成对澳大利亚葡萄酒长达数年的关税审查，并正在审查对龙虾进口的限制。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/good-progress-chinese-wine-lobster-trade-barriers-says-australia-trade-minister-2024-03-10/</guid>
       <pubDate>Sun, 10 Mar 2024 00:19:32 GMT</pubDate>
     </item>
     <item>
       <title>赣锋锂业表示，中国锂市场将长期呈上升趋势</title>
       <link>https://www.reuters.com/markets/commodities/chinas-lithium-market-set-long-term-uptrend-says-ganfeng-lithium-2024-03-09/</link>
-      <description><![CDATA[中国主要电池金属供应商赣锋锂业董事长表示，电池金属价格稳定将有利于中国锂行业，电池金属价格将长期上涨。]]></description>
+      <description><![CDATA[中国主要电池金属供应商赣锋锂业的董事长表示，中国的锂行业将受益于电池金属价格的稳定，电池金属价格将长期上涨。]]></description>
       <guid>https://www.reuters.com/markets/commodities/chinas-lithium-market-set-long-term-uptrend-says-ganfeng-lithium-2024-03-09/</guid>
       <pubDate>Sat, 09 Mar 2024 08:07:58 GMT</pubDate>
     </item>
     <item>
       <title>中国警告总体就业压力尚未缓解</title>
       <link>https://www.reuters.com/world/china/china-says-overall-pressure-employment-yet-ease-2024-03-09/</link>
-      <description><![CDATA[人力资源部长周六表示，中国仍面临结构性就业问题，总体就业压力尚未缓解，经济放缓将为 2024 年大学毕业生数量再创新高做好准备。]]></description>
+      <description><![CDATA[人力资源部长周六表示，中国仍面临结构性就业问题，整体就业压力尚未缓解，经济放缓将为2024年大学毕业生数量再创新高做好准备。]]></description>
       <guid>https://www.reuters.com/world/china/china-says-overall-pressure-employment-yet-ease-2024-03-09/</guid>
       <pubDate>Sat, 09 Mar 2024 08:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>彭博社称，美国考虑将长鑫存储列入黑名单，以遏制中国芯片的发展</title>
+      <title>彭博社称，美国考虑将长鑫存储列入黑名单，以遏制中国芯片发展</title>
       <link>https://www.reuters.com/technology/us-mulls-blacklisting-cxmt-curb-chinas-chip-advance-bloomberg-news-says-2024-03-09/</link>
       <description><![CDATA[彭博社周五称，美国正在考虑对包括芯片制造商长鑫存储技术在内的多家中国科技公司实施制裁，以进一步限制中国先进半导体的发展。]]></description>
       <guid>https://www.reuters.com/technology/us-mulls-blacklisting-cxmt-curb-chinas-chip-advance-bloomberg-news-says-2024-03-09/</guid>
@@ -99,7 +120,7 @@
     <item>
       <title>台湾敦促中国不要改变前线岛屿附近海域的局势</title>
       <link>https://www.reuters.com/world/taiwan-urges-china-not-change-status-quo-around-waters-near-kinmen-islands-2024-03-08/</link>
-      <description><![CDATA[台湾最高决策机构周五敦促中国不要通过派遣海警船进入禁区来改变台湾前线岛屿附近海域的“现状”，称紧张局势应该是“可控的”。]]></description>
+      <description><![CDATA[台湾最高决策机构周五敦促中国不要通过派遣海岸警卫队船只进入禁区来改变台湾前线岛屿附近海域的“现状”，称紧张局势应该是“可控的”。]]></description>
       <guid>https://www.reuters.com/world/taiwan-urges-china-not-change-status-quo-around-waters-near-kinmen-islands-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 08:34:48 GMT</pubDate>
     </item>
@@ -111,32 +132,11 @@
       <pubDate>Fri, 08 Mar 2024 07:39:55 GMT</pubDate>
     </item>
     <item>
-      <title>第23条：香港新国安法你需要了解的事</title>
-      <link>https://www.reuters.com/world/asia-pacific/article-23-what-you-need-know-about-hong-kongs-new-national-security-laws-2024-03-08/</link>
-      <description><![CDATA[经过上周结束的为期一个月的公众咨询后，香港政府于周五公布了拟议的国家安全法案。市领导希望该法案能够迅速获得通过，可能在几周内获得通过。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/article-23-what-you-need-know-about-hong-kongs-new-national-security-laws-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 07:36:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚洲股市因中国改革和人工智能激增而吸引大量外国资金</title>
-      <link>https://www.reuters.com/markets/asia/asian-stocks-draw-massive-foreign-funds-chinas-reforms-ai-surge-2024-03-08/</link>
-      <description><![CDATA[随着北京推出改革措施以及人工智能（AI）热潮推动科技股飙升，中国股市出现反弹，外国投资者在二月份向亚洲股市注入了大量资金。]]></description>
-      <guid>https://www.reuters.com/markets/asia/asian-stocks-draw-massive-foreign-funds-chinas-reforms-ai-surge-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 06:41:12 GMT</pubDate>
-    </item>
-    <item>
       <title>1-2月中国电动汽车销量放缓；降价力度加大</title>
       <link>https://www.reuters.com/business/autos-transportation/china-ev-sales-slow-january-february-competition-intensifies-2024-03-08/</link>
       <description><![CDATA[周五的行业数据显示，中国电动汽车销量在今年头几个月放缓，随着市场领导者比亚迪带头进行更大幅度的降价，竞争加剧。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/china-ev-sales-slow-january-february-competition-intensifies-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 05:35:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>打拳抽铁，中国女子走“YOLO”</title>
-      <link>https://www.reuters.com/lifestyle/punching-pumping-iron-chinese-women-go-yolo-2024-03-08/</link>
-      <description><![CDATA[一名 30 多岁的女性没有工作、没有朋友，也没有人生方向，她决定开始打拳击，引发了身体上的转变，这是今年中国票房最高的电影的故事。]]></description>
-      <guid>https://www.reuters.com/lifestyle/punching-pumping-iron-chinese-women-go-yolo-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 05:32:08 GMT</pubDate>
     </item>
     <item>
       <title>中国最高立法者承诺维护主权和安全利益</title>
