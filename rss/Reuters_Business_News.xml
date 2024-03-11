@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 05:48:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 06:30:30 GMT</lastBuildDate>
     <item>
       <title>麦格理首席执行官表示澳大利亚正走向经济“软着陆”</title>
       <link>https://www.reuters.com/markets/australia-headed-towards-economic-soft-landing-says-macquarie-ceo-2024-03-11/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>韩国监管机构发现中国股票衍生品销售存在不当行为</title>
       <link>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</link>
-      <description><![CDATA[韩国金融市场监管机构周一表示，发现销售与香港股市指数挂钩的衍生品的金融公司存在不当行为。]]></description>
+      <description><![CDATA[韩国金融市场监管机构周一表示，发现出售与香港股市指数挂钩的衍生品的金融公司存在不当行为。]]></description>
       <guid>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 01:12:35 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>华尔街巨头齐聚，金融博物馆寻找落脚点</title>
       <link>https://www.reuters.com/business/finance/wall-street-titans-gather-finance-museum-searches-home-2024-03-09/</link>
-      <description><![CDATA[金融业重量级人物上周在纽约召开会议，为一座失去了标志性华尔街地址的金融博物馆筹集资金。]]></description>
+      <description><![CDATA[金融业重量级人物上周在纽约召开会议，为一座失去了华尔街标志性地址的金融博物馆筹集资金。]]></description>
       <guid>https://www.reuters.com/business/finance/wall-street-titans-gather-finance-museum-searches-home-2024-03-09/</guid>
       <pubDate>Sat, 09 Mar 2024 21:44:01 GMT</pubDate>
     </item>
