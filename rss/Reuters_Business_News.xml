@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 03:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 03:38:38 GMT</lastBuildDate>
+    <item>
+      <title>油价因中国需求担忧而下跌</title>
+      <link>https://www.reuters.com/markets/commodities/oil-prices-fall-china-demand-worries-2024-03-11/</link>
+      <description><![CDATA[由于对中国需求放缓的担忧，周一油价延续上周跌势，但围绕中东和俄罗斯的地缘政治风险挥之不去，限制了跌幅。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/oil-prices-fall-china-demand-worries-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 01:56:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于对即将加息的坚定押注，日元上涨；英镑幻灯片</title>
+      <link>https://www.reuters.com/markets/currencies/yen-gains-bets-firm-imminent-rate-hike-sterling-slides-2024-03-11/</link>
+      <description><![CDATA[日元兑美元周一走强，因有迹象表明日本央行将在下周的政策会议上退出负利率，这与美联储六月降息的预期形成鲜明对比。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/yen-gains-bets-firm-imminent-rate-hike-sterling-slides-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 01:33:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国监管机构发现中国股票衍生品销售存在不当行为</title>
+      <link>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</link>
+      <description><![CDATA[韩国金融市场监管机构周一表示，发现出售与香港股市指数挂钩的衍生品的金融公司存在不当行为。]]></description>
+      <guid>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 01:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本四季度GDP上修为小幅扩张 经济避免衰退</title>
+      <link>https://www.reuters.com/markets/asia/japan-q4-gdp-revised-up-slight-expansion-economy-avoids-recession-2024-03-11/</link>
+      <description><![CDATA[周一修正后的政府GDP数据显示，日本经济避免了技术性衰退，尽管第四季度的上行变化弱于预期，凸显了对经济复苏乏力的担忧。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japan-q4-gdp-revised-up-slight-expansion-economy-avoids-recession-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 00:55:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于日本央行考虑实行正利率，亚洲股市下滑，日元坚挺</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</link>
+      <description><![CDATA[亚洲股市周一暴跌，而在美国通胀数据公布可能会加速或推迟全球降息之前，美元看起来很脆弱。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 00:28:53 GMT</pubDate>
+    </item>
     <item>
       <title>彭博社称，达美航空预计波音 737 Max 10 可能会推迟到 2027 年</title>
       <link>https://www.reuters.com/business/aerospace-defense/delta-expects-boeing-737-max-10-may-be-delayed-until-2027-bloomberg-says-2024-03-10/</link>
@@ -55,20 +90,6 @@
       <pubDate>Sun, 10 Mar 2024 17:33:07 GMT</pubDate>
     </item>
     <item>
-      <title>上海振华否认对美国港口构成网络安全风险</title>
-      <link>https://www.reuters.com/technology/cybersecurity/shanghai-zhenhua-denies-posing-cybersecurity-risk-us-ports-2024-03-10/</link>
-      <description><![CDATA[在美国国会委员会质疑上海振华重工（ZPMC）在运往美国的起重机方面的工作后，上海振华重工（ZPMC）周日表示，其起重机不会构成网络安全威胁。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/shanghai-zhenhua-denies-posing-cybersecurity-risk-us-ports-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 10:15:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>沙特阿美看到中国需求增长，寻求更多投资</title>
-      <link>https://www.reuters.com/business/energy/aramco-chief-sees-healthy-chinese-demand-looking-more-investments-2024-03-10/</link>
-      <description><![CDATA[沙特阿美首席执行官阿明·纳赛尔周日表示，该石油巨头正在寻找在中国投资的更多机会，他表示中国的石油需求强劲且不断增长。]]></description>
-      <guid>https://www.reuters.com/business/energy/aramco-chief-sees-healthy-chinese-demand-looking-more-investments-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 09:10:13 GMT</pubDate>
-    </item>
-    <item>
       <title>尽管利润下降，阿美公司仍将股息提高 30% 至 980 亿美元</title>
       <link>https://www.reuters.com/business/energy/saudi-aramco-boosts-dividend-despite-drop-2023-profit-2024-03-10/</link>
       <description><![CDATA[尽管由于油价和产量下降，沙特阿拉伯国有石油巨头阿美公司 2023 年净利润下降 24.7% 至 1,213 亿美元，但该公司仍提高了股息，这表明该国在寻求多元化的过程中继续依赖石油收入。]]></description>
@@ -90,25 +111,11 @@
       <pubDate>Sat, 09 Mar 2024 20:35:33 GMT</pubDate>
     </item>
     <item>
-      <title>赣锋锂业表示，中国锂市场将长期呈上升趋势</title>
-      <link>https://www.reuters.com/markets/commodities/chinas-lithium-market-set-long-term-uptrend-says-ganfeng-lithium-2024-03-09/</link>
-      <description><![CDATA[中国主要电池金属供应商赣锋锂业的董事长表示，中国的锂行业将受益于电池金属价格的稳定，电池金属价格将长期上涨。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/chinas-lithium-market-set-long-term-uptrend-says-ganfeng-lithium-2024-03-09/</guid>
-      <pubDate>Sat, 09 Mar 2024 08:07:58 GMT</pubDate>
-    </item>
-    <item>
       <title>中国警告总体就业压力尚未缓解</title>
       <link>https://www.reuters.com/world/china/china-says-overall-pressure-employment-yet-ease-2024-03-09/</link>
-      <description><![CDATA[人力资源部长周六表示，中国仍面临结构性就业问题，总体就业压力尚未缓解，经济放缓将为 2024 年大学毕业生数量再创新高做好准备。]]></description>
+      <description><![CDATA[人力资源部长周六表示，中国仍面临结构性就业问题，整体就业压力尚未缓解，经济放缓将为2024年大学毕业生数量再创新高做好准备。]]></description>
       <guid>https://www.reuters.com/world/china/china-says-overall-pressure-employment-yet-ease-2024-03-09/</guid>
       <pubDate>Sat, 09 Mar 2024 08:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克表示 X 的长视频将很快在智能电视上播放</title>
-      <link>https://www.reuters.com/technology/musk-says-xs-long-form-videos-will-soon-be-available-smart-tvs-2024-03-09/</link>
-      <description><![CDATA[在《财富》杂志报道社交网络 X 计划下周为亚马逊和三星用户推出一款电视应用程序后，亿万富翁埃隆·马斯克表示，长视频将很快在智能电视上推出。]]></description>
-      <guid>https://www.reuters.com/technology/musk-says-xs-long-form-videos-will-soon-be-available-smart-tvs-2024-03-09/</guid>
-      <pubDate>Sat, 09 Mar 2024 04:09:04 GMT</pubDate>
     </item>
     <item>
       <title>法官阻止美国劳工委员会对合同工和特许经营工人的规定</title>
@@ -118,7 +125,7 @@
       <pubDate>Sat, 09 Mar 2024 03:23:13 GMT</pubDate>
     </item>
     <item>
-      <title>波音称未找到有关 737 MAX 9 关键部件拆卸的文件</title>
+      <title>波音称未发现有关 737 MAX 9 关键部件拆卸的文件</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeing-says-no-documents-found-737-max-9-key-part-removal-2024-03-09/</link>
       <description><![CDATA[据路透社看到的一封信函，波音公司周五表示，它认为从未创建过详细说明在空中紧急情况下发生故障的 737 MAX 9 生产过程中拆除关键部件所需的文件。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeing-says-no-documents-found-737-max-9-key-part-removal-2024-03-09/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Fri, 08 Mar 2024 21:40:42 GMT</pubDate>
     </item>
     <item>
-      <title>Costco 股价因季度收入低于预期而收盘近两年来最糟糕的一天</title>
+      <title>Costco 股价因季度营收未达标而收盘近两年来最糟糕的一天</title>
       <link>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</link>
       <description><![CDATA[Costco 的股价周五收盘下跌 7.6%，为 2022 年 5 月以来最糟糕的一天，此前这家会员制零售连锁店未达到第二季度收入预期，并暗示汽油价格下跌带来了负面影响。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/costco-stock-set-worst-day-near-two-years-quarterly-revenue-miss-2024-03-08/</guid>
       <pubDate>Fri, 08 Mar 2024 17:29:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国劳动力市场降温；失业率升至两年高位3.9%</title>
-      <link>https://www.reuters.com/markets/us/us-job-growth-accelerates-february-unemployment-rate-rises-39-2024-03-08/</link>
-      <description><![CDATA[美国 2 月份就业增长加速，但这可能掩盖了劳动力市场状况的疲软，因为失业率升至 3.9% 的两年高位。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-job-growth-accelerates-february-unemployment-rate-rises-39-2024-03-08/</guid>
-      <pubDate>Fri, 08 Mar 2024 13:43:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
