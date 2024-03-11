@@ -1,37 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 11 Mar 2024 11:31:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 11:48:53 GMT</lastBuildDate>
     <item>
-      <title>电力公司表示，特斯拉德国超级工厂可能从周一开始恢复供电</title>
-      <link>https://www.reuters.com/business/autos-transportation/teslas-german-gigafactory-could-be-supplied-again-monday-says-power-firm-2024-03-11/</link>
-      <description><![CDATA[负责解决持续停电问题的电力公司表示，特斯拉位于柏林附近的德国超级工厂可能从周一开始恢复供电，该公司自 3 月 5 日以来已经关闭了该工厂。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/teslas-german-gigafactory-could-be-supplied-again-monday-says-power-firm-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 08:03:19 GMT</pubDate>
+      <title>Reddit 期待已久的美国 IPO 估值目标高达 64 亿美元</title>
+      <link>https://www.reuters.com/markets/deals/reddit-targets-up-64-bln-valuation-much-awaited-us-ipo-2024-03-11/</link>
+      <description><![CDATA[该社交媒体平台周一表示，Reddit 的美国首次公开募股 (IPO) 目标估值高达 64 亿美元，即将成为过去几年最受期待的股市首次亮相之一。]]></description>
+      <guid>https://www.reuters.com/markets/deals/reddit-targets-up-64-bln-valuation-much-awaited-us-ipo-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:14:20 GMT</pubDate>
     </item>
     <item>
-      <title>美国公司将宣布在菲律宾投资超过10亿美元</title>
-      <link>https://www.reuters.com/markets/us-companies-announce-investments-over-1-bln-philippines-2024-03-11/</link>
-      <description><![CDATA[美国商务部长吉娜·雷蒙多周一在对马尼拉进行正式访问期间表示，美国公司将宣布在菲律宾投资超过 10 亿美元。]]></description>
-      <guid>https://www.reuters.com/markets/us-companies-announce-investments-over-1-bln-philippines-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 07:34:08 GMT</pubDate>
+      <title>美联储银行紧急行动终止贷款，目光转向贴现窗口</title>
+      <link>https://www.reuters.com/markets/us/emergency-fed-bank-effort-ends-lending-eyes-turn-discount-window-2024-03-11/</link>
+      <description><![CDATA[一年前，在硅谷银行倒闭引发的巨大压力下，美联储匆忙启动的一项新业务周一关闭，有证据表明，它有助于扭转可能导致经济脱轨并颠覆央行降低通胀努力的困境。 。]]></description>
+      <guid>https://www.reuters.com/markets/us/emergency-fed-bank-effort-ends-lending-eyes-turn-discount-window-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:11:48 GMT</pubDate>
     </item>
     <item>
-      <title>比特币触及 70,400 美元上方新纪录高位</title>
+      <title>早盘竞价：英伟达、日经指数受挫——中国摆脱通货紧缩</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-11/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>金树首支私募信贷基金筹集13.5亿美元</title>
+      <link>https://www.reuters.com/business/finance/goldentree-raises-135-bln-first-private-credit-fund-2024-03-11/</link>
+      <description><![CDATA[该公司周一在一份声明中表示，金树资产管理公司为其首支纯私人信贷基金筹集了超过13.5亿美元，在蓬勃发展的市场中站稳了脚跟。]]></description>
+      <guid>https://www.reuters.com/business/finance/goldentree-raises-135-bln-first-private-credit-fund-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:06:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国参议员寻求重新分配政府频谱以促进 5G 网络发展</title>
+      <link>https://www.reuters.com/business/media-telecom/us-senators-seek-reallocate-government-spectrum-boost-5g-networks-2024-03-11/</link>
+      <description><![CDATA[两名共和党高级参议员周一提出立法，要求拍卖一些美国政府拥有的频谱，以促进商业无线 5G 网络的发展。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/us-senators-seek-reallocate-government-spectrum-boost-5g-networks-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:04:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>洞察：下一次自动驾驶仪试验将测试特斯拉的“责任归咎于驾驶员”防御</title>
+      <link>https://www.reuters.com/business/autos-transportation/next-autopilot-trial-test-teslas-blame-the-driver-defense-2024-03-11/</link>
+      <description><![CDATA[该汽车制造商总裁乔恩·麦克尼尔在尝试使用自动驾驶仪后在一封电子邮件中表示：“我在自动驾驶仪下感到非常舒服，以至于我最终被出口吹走了，因为我沉浸在电子邮件或电话中（我知道，我知道，这不是推荐的用途）。” Model X 中的功能。现在，该电子邮件被用于针对特斯拉的诉讼。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/next-autopilot-trial-test-teslas-blame-the-driver-defense-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储预测将通过强劲数据表明降息前景是否保持不变</title>
+      <link>https://www.reuters.com/markets/us/fed-projections-show-if-rate-cut-outlook-stays-intact-through-strong-data-2024-03-11/</link>
+      <description><![CDATA[没有人预计美联储会在下周的政策会议上改变利率，但随着经济持续好于预期，官员们是否坚持之前的降息前景是一个更加悬而未决的问题。]]></description>
+      <guid>https://www.reuters.com/markets/us/fed-projections-show-if-rate-cut-outlook-stays-intact-through-strong-data-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国因制动问题对 250,712 辆本田汽车展开调查</title>
+      <link>https://www.reuters.com/business/autos-transportation/us-opens-probe-into-250712-honda-vehicles-over-braking-issues-2024-03-11/</link>
+      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 周一对约 250,712 辆本田 Insight 和本田 Passport 车辆因无意启动自动紧急制动而展开初步评估。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/us-opens-probe-into-250712-honda-vehicles-over-braking-issues-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 09:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲央行管理委员会卡齐米尔表示，欧洲央行即将降息，但还不是现在</title>
+      <link>https://www.reuters.com/markets/europe/ecb-rate-cut-coming-not-just-yet-says-governing-councils-kazimir-2024-03-11/</link>
+      <description><![CDATA[斯洛伐克管理委员会成员彼得·卡济米尔周一表示，欧洲央行对通胀下降越来越有信心，但仍应将降息推迟到六月。]]></description>
+      <guid>https://www.reuters.com/markets/europe/ecb-rate-cut-coming-not-just-yet-says-governing-councils-kazimir-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 09:37:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>通胀数据导致期货下跌</title>
+      <link>https://www.reuters.com/markets/us/futures-dip-run-up-inflation-data-2024-03-11/</link>
+      <description><![CDATA[美国股指期货周一下跌，因投资者等待本周关键通胀数据，这些数据可能为美联储的货币政策路径提供线索，好坏参半的就业数据强化了美联储将在年中开始宽松的预期。]]></description>
+      <guid>https://www.reuters.com/markets/us/futures-dip-run-up-inflation-data-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 09:27:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着需求狂潮加剧，比特币价格突破 71,000 美元历史新高</title>
       <link>https://www.reuters.com/technology/bitcoin-hits-new-record-high-above-70400-2024-03-11/</link>
-      <description><![CDATA[比特币周一创下历史新高，突破 70,400 美元，因为最大的加密货币的飙升没有显示出放缓的迹象。]]></description>
+      <description><![CDATA[比特币周一创下历史新高，突破 71,000 美元，因为最大的加密货币的飙升没有显示出放缓的迹象。]]></description>
       <guid>https://www.reuters.com/technology/bitcoin-hits-new-record-high-above-70400-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 07:23:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国投资者埃利奥特放弃对英国咖喱的收购要约</title>
-      <link>https://www.reuters.com/markets/deals/us-investor-elliott-says-wont-make-offer-uks-currys-2024-03-11/</link>
-      <description><![CDATA[美国投资者 Elliott Advisors 不打算对 Currys 提出收购要约，称这家英国电器零售商的董事会不会参与其中。]]></description>
-      <guid>https://www.reuters.com/markets/deals/us-investor-elliott-says-wont-make-offer-uks-currys-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 07:21:16 GMT</pubDate>
     </item>
     <item>
       <title>独家：投资者敦促 Zara 所有者 Inditex 公布完整供应链</title>
@@ -55,25 +104,11 @@
       <pubDate>Mon, 11 Mar 2024 06:03:23 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：强调日本央行的积极因素</title>
-      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-11/</link>
-      <description><![CDATA[韦恩·科尔 (Wayne Cole) 对欧洲和全球市场未来一天的展望。]]></description>
-      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 05:32:35 GMT</pubDate>
-    </item>
-    <item>
       <title>随着绿色燃料标准的争论愈演愈烈，大众汽车退出澳大利亚汽车游说委员会</title>
       <link>https://www.reuters.com/business/autos-transportation/volkswagen-quits-australia-auto-lobby-committee-fight-grows-over-green-fuel-2024-03-11/</link>
       <description><![CDATA[大众汽车澳大利亚公司周一表示，在特斯拉与该组织断绝关系几天后，该公司已退出该国汽车游说团体的政策制定委员会，因为这家德国汽车制造商与反对新燃油标准的运动保持了距离。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/volkswagen-quits-australia-auto-lobby-committee-fight-grows-over-green-fuel-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 04:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国旨在成为印度-太平洋地区的“首选经济伙伴”-雷蒙多</title>
-      <link>https://www.reuters.com/business/us-aims-be-economic-partner-choice-indo-pacific-raimondo-2024-03-11/</link>
-      <description><![CDATA[美国商务部长吉娜·雷蒙多将于周一开始率领一个总统贸易和投资代表团访问菲律宾，美国希望加强该地区的经济联系。]]></description>
-      <guid>https://www.reuters.com/business/us-aims-be-economic-partner-choice-indo-pacific-raimondo-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 04:30:41 GMT</pubDate>
     </item>
     <item>
       <title>澳航调整时间表，机组飞行员计划再次罢工</title>
@@ -85,28 +120,21 @@
     <item>
       <title>独家：中国监管部门要求大型银行加大对万科的支持力度</title>
       <link>https://www.reuters.com/business/chinese-regulators-ask-large-banks-step-up-support-vanke-sources-say-2024-03-11/</link>
-      <description><![CDATA[两名消息人士称，中国监管机构最近会见金融机构，讨论国有房地产开发商万科的问题，要求大型银行加大融资支持力度，并要求私人债务持有人讨论延期问题。]]></description>
+      <description><![CDATA[两位消息人士称，中国已要求银行加强对国家支持的万科的融资支持，并呼吁债权人考虑延长私人债务期限，这是中央政府为帮助陷入困境的房地产公司进行的罕见干预。]]></description>
       <guid>https://www.reuters.com/business/chinese-regulators-ask-large-banks-step-up-support-vanke-sources-say-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 03:07:38 GMT</pubDate>
     </item>
     <item>
-      <title>韩国监管机构发现中国股票衍生品销售存在不当行为</title>
-      <link>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</link>
-      <description><![CDATA[韩国金融市场监管机构周一表示，发现出售与香港股市指数挂钩的衍生品的金融公司存在不当行为。]]></description>
-      <guid>https://www.reuters.com/markets/asia/south-korea-watchdog-finds-wrongdoings-sales-china-equity-derivatives-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 01:12:35 GMT</pubDate>
-    </item>
-    <item>
       <title>日本四季度GDP上修为小幅扩张 经济避免衰退</title>
       <link>https://www.reuters.com/markets/asia/japan-q4-gdp-revised-up-slight-expansion-economy-avoids-recession-2024-03-11/</link>
-      <description><![CDATA[周一修正后的政府数据显示，日本经济避免了技术性衰退，尽管第四季度的上行变化弱于预期，凸显了对经济复苏乏力的担忧。]]></description>
+      <description><![CDATA[周一修订后的政府数据显示，日本经济避免了技术性衰退，尽管第四季度的上行变化弱于预期，凸显了对经济复苏乏力的担忧。]]></description>
       <guid>https://www.reuters.com/markets/asia/japan-q4-gdp-revised-up-slight-expansion-economy-avoids-recession-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 00:55:19 GMT</pubDate>
     </item>
     <item>
-      <title>由于日本央行考虑实行正利率，亚洲股市低迷，日元坚挺</title>
+      <title>随着不确定性的蔓延，欧洲股市从历史高位回落</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</link>
-      <description><![CDATA[亚洲股市周一暴跌，而在美国通胀数据公布可能会加速或推迟全球降息之前，美元看起来很脆弱。]]></description>
+      <description><![CDATA[周一早盘，欧洲股指大多下跌，从上周的历史高位回落，交易员努力应对经济前景的不确定性，并等待本周晚些时候的美国通胀数据。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 00:28:53 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[彭博新闻周日援引该公司首席执行官埃德·巴斯蒂安 (Ed Bastian) 的采访报道称，达美航空预计向该公司交付波音 737 Max 10 飞机的时间可能会推迟到 2027 年。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/delta-expects-boeing-737-max-10-may-be-delayed-until-2027-bloomberg-says-2024-03-10/</guid>
       <pubDate>Sun, 10 Mar 2024 23:31:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本加大对盟友澳大利亚和美国长期液化天然气供应的依赖</title>
-      <link>https://www.reuters.com/business/energy/japan-boosts-reliance-allies-australia-us-long-term-lng-supplies-2024-03-10/</link>
-      <description><![CDATA[由于俄罗斯等供应商的重要合同将于 2030 年代初到期，资源稀缺的日本正在从亲密盟友澳大利亚和美国那里获得液化天然气的长期供应。]]></description>
-      <guid>https://www.reuters.com/business/energy/japan-boosts-reliance-allies-australia-us-long-term-lng-supplies-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 22:09:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>IDB批准投资部门增资35亿美元</title>
-      <link>https://www.reuters.com/business/finance/idb-approves-35-billion-capital-increase-investment-arm-2024-03-10/</link>
-      <description><![CDATA[美洲开发银行 (IDB) 行长 Ilan Goldfajn 在周日的一次活动中表示，批准为其私营部门部门 IDB Invest 增资 35 亿美元。]]></description>
-      <guid>https://www.reuters.com/business/finance/idb-approves-35-billion-capital-increase-investment-arm-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 19:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达因人工智能使用版权作品而被作者起诉</title>
-      <link>https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/</link>
-      <description><![CDATA[Nvidia 的芯片为人工智能提供动力，该公司已被三位作者起诉，他们称该公司未经许可使用了他们的版权书籍来训练其 NeMo AI 平台。]]></description>
-      <guid>https://www.reuters.com/technology/nvidia-is-sued-by-authors-over-ai-use-copyrighted-works-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 18:49:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管利润下降，阿美公司仍将股息提高 30% 至 980 亿美元</title>
-      <link>https://www.reuters.com/business/energy/saudi-aramco-boosts-dividend-despite-drop-2023-profit-2024-03-10/</link>
-      <description><![CDATA[尽管由于油价和产量下降，沙特阿拉伯国有石油巨头阿美公司 2023 年净利润下降 24.7% 至 1,213 亿美元，但该公司仍提高了股息，这表明该国在寻求多元化的过程中继续依赖石油收入。]]></description>
-      <guid>https://www.reuters.com/business/energy/saudi-aramco-boosts-dividend-despite-drop-2023-profit-2024-03-10/</guid>
-      <pubDate>Sun, 10 Mar 2024 06:50:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
