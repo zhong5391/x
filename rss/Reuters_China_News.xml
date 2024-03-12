@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 12 Mar 2024 17:33:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 17:48:45 GMT</lastBuildDate>
+    <item>
+      <title>美国间谍头子“不能排除”中国将利用TikTok影响美国大选</title>
+      <link>https://www.reuters.com/world/us/us-spy-chief-cannot-rule-out-that-china-would-use-tiktok-influence-us-elections-2024-03-12/</link>
+      <description><![CDATA[美国国家情报总监艾薇儿·海恩斯 (Avril Haines) 周二在众议院情报委员会听证会上表示，中国可能利用社交媒体应用 TikTok 影响 2024 年美国大选。]]></description>
+      <guid>https://www.reuters.com/world/us/us-spy-chief-cannot-rule-out-that-china-would-use-tiktok-influence-us-elections-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 16:27:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国间谍头目称“中国正在注视”，恳求乌克兰提供援助</title>
+      <link>https://www.reuters.com/world/saying-china-is-watching-us-spy-chiefs-plead-ukraine-aid-2024-03-12/</link>
+      <description><![CDATA[美国情报机构领导人周二紧急向众议院议员施压，要求批准对乌克兰提供更多军事援助，称这不仅会增强基辅对抗俄罗斯的能力，还会阻止中国的侵略。]]></description>
+      <guid>https://www.reuters.com/world/saying-china-is-watching-us-spy-chiefs-plead-ukraine-aid-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 15:57:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺和诺德所有者今年将在印度扩张</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-owner-expand-india-this-year-2024-03-12/</link>
+      <description><![CDATA[丹麦肥胖药物制造商诺和诺德的控股股东诺和控股公司首席执行官卡西姆·库泰周二表示，该公司计划今年在印度开设办事处，以开拓创新和不断增长的医疗保健市场。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-owner-expand-india-this-year-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 15:39:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>国际象棋 - 厌倦了标准国际象棋？自由式</title>
+      <link>https://www.reuters.com/sports/chess-bored-with-standard-chess-go-freestyle-2024-03-12/</link>
+      <description><![CDATA[觉得国际象棋很无聊？尝试在后排洗牌，你会得到 Chess960，或称自由式国际象棋，这是该游戏的一种变体，注重创造力而不是准备，并得到了国际象棋大师马格努斯·卡尔森的支持。]]></description>
+      <guid>https://www.reuters.com/sports/chess-bored-with-standard-chess-go-freestyle-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 15:21:21 GMT</pubDate>
+    </item>
     <item>
       <title>日经新闻报道，日产、本田考虑在中国减产</title>
       <link>https://www.reuters.com/business/autos-transportation/nissan-honda-consider-china-output-cuts-nikkei-reports-2024-03-12/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>意法半导体首席执行官表示，尽管美国芯片大战，中国仍是一个增长市场</title>
       <link>https://www.reuters.com/technology/stmicroelectronics-ceo-says-china-is-growth-market-despite-us-chip-war-2024-03-12/</link>
-      <description><![CDATA[该公司首席执行官周二表示，尽管与美国在半导体方面的紧张关系日益加剧，但中国仍然是法国-意大利半导体公司意法半导体的重要增长市场。]]></description>
+      <description><![CDATA[该公司首席执行官周二表示，尽管中美两国在半导体方面的紧张关系日益加剧，但中国仍然是法国-意大利半导体公司意法半导体的重要增长市场。]]></description>
       <guid>https://www.reuters.com/technology/stmicroelectronics-ceo-says-china-is-growth-market-despite-us-chip-war-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 14:11:13 GMT</pubDate>
     </item>
@@ -29,7 +57,7 @@
     <item>
       <title>首尔凌空抽射蔚山进亚冠半决赛</title>
       <link>https://www.reuters.com/sports/soccer/seol-volley-takes-ulsan-into-asian-champions-league-semi-final-2024-03-12/</link>
-      <description><![CDATA[周二，蔚山现代队凭借薛英宇的凌空抽射以1-0击败韩国球队全北汽车队，以总比分2-1锁定胜局，进入亚洲冠军联赛半决赛。]]></description>
+      <description><![CDATA[周二，蔚山现代队凭借薛英宇的凌空抽射以1比0击败韩国球队全北汽车队，以总比分2比1获胜，锁定了亚洲冠军联赛半决赛的席位。]]></description>
       <guid>https://www.reuters.com/sports/soccer/seol-volley-takes-ulsan-into-asian-champions-league-semi-final-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 12:57:06 GMT</pubDate>
     </item>
@@ -76,39 +104,11 @@
       <pubDate>Tue, 12 Mar 2024 08:22:17 GMT</pubDate>
     </item>
     <item>
-      <title>官员称，无论 11 月大选如何，韩国认为与美国的关系不会发生变化</title>
-      <link>https://www.reuters.com/world/asia-pacific/south-korea-sees-no-change-us-ties-regardless-november-election-official-says-2024-03-12/</link>
-      <description><![CDATA[一位高级总统官员表示，即使美国选民选出新总统，韩国预计与美国的关系也不会发生根本性转变，但希望今年在国防费用分摊谈判和其他问题上取得进展。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/south-korea-sees-no-change-us-ties-regardless-november-election-official-says-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 07:57:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息人士称，台湾候任副总统正在美国进行“私人访问”</title>
-      <link>https://www.reuters.com/world/taiwans-vice-president-elect-is-low-profile-visit-washington-wsj-reports-2024-03-12/</link>
-      <description><![CDATA[一位获悉此事的台湾高级官员周二表示，台湾候任副总统萧美琴本周正在美国进行低调的私人访问。]]></description>
-      <guid>https://www.reuters.com/world/taiwans-vice-president-elect-is-low-profile-visit-washington-wsj-reports-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 07:38:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国选择马爹利、轩尼诗、人头马白兰地作为反倾销调查的一部分</title>
-      <link>https://www.reuters.com/world/china/china-selects-three-sample-companies-anti-dumping-investigation-brandy-imported-2024-03-12/</link>
-      <description><![CDATA[中国商务部周二表示，计划选择马爹利公司。雅斯轩尼诗公司Co and E. Remy Martin &amp; 雷米马丁公司公司作为对欧盟进口白兰地进行反倾销立案调查的样本企业。]]></description>
-      <guid>https://www.reuters.com/world/china/china-selects-three-sample-companies-anti-dumping-investigation-brandy-imported-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 07:21:13 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：中国总理李克强将缺席重要商业峰会与全球首席执行官的会面</title>
       <link>https://www.reuters.com/business/chinese-premier-li-skip-meeting-with-global-ceos-key-business-summit-2024-03-12/</link>
       <description><![CDATA[三名知情人士表示，中国总理李强不打算在三月下旬即将举行的中国发展高层论坛上与来访的外国首席执行官举行会晤，这引发了人们对北京在当前吸引海外投资的承诺的担忧。情绪恶化。]]></description>
       <guid>https://www.reuters.com/business/chinese-premier-li-skip-meeting-with-global-ceos-key-business-summit-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 07:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度拒绝中国对莫迪访问喜马拉雅边境国家的反对</title>
-      <link>https://www.reuters.com/world/asia-pacific/india-rejects-chinas-objections-modis-visit-himalayan-border-state-2024-03-12/</link>
-      <description><![CDATA[印度周二拒绝了中国对总理纳伦德拉·莫迪周末访问阿鲁纳恰尔邦的反对，称这个东北边境邦一直是“印度不可分割的一部分”。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/india-rejects-chinas-objections-modis-visit-himalayan-border-state-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 06:52:30 GMT</pubDate>
     </item>
     <item>
       <title>独家：消息人士称，中国体操冠军李宁考虑将公司私有化</title>
@@ -118,16 +118,16 @@
       <pubDate>Tue, 12 Mar 2024 05:37:59 GMT</pubDate>
     </item>
     <item>
-      <title>中国小米将开始交付首款电动车型，股价飙升</title>
+      <title>中国小米将于本月开始首批电动汽车交付</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-xiaomi-says-it-will-start-deliveries-its-first-ev-model-march-28-2024-03-12/</link>
-      <description><![CDATA[中国小米周二表示，将于本月开始交付首款电动汽车 SU7，在残酷的价格战中进军全球最大的汽车市场。]]></description>
+      <description><![CDATA[小米周二表示，将于本月开始在中国交付首款电动汽车（EV），在价格竞争激烈之际进军全球最大的汽车市场。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinas-xiaomi-says-it-will-start-deliveries-its-first-ev-model-march-28-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 01:55:14 GMT</pubDate>
     </item>
     <item>
       <title>中国两起煤矿事故造成12人死亡</title>
       <link>https://www.reuters.com/world/china/coalmine-explosion-eastern-china-kills-seven-2024-03-11/</link>
-      <description><![CDATA[据国家电视台中央电视台报道，过去 24 小时内，中国发生两起煤矿事故，造成 12 人死亡，这是政府最近修订采矿安全法后困扰该行业的最新事件。]]></description>
+      <description><![CDATA[据国家电视台中央电视台报道，过去 24 小时内中国发生的两起煤矿事故已造成 12 人死亡，这是政府最近修订采矿安全立法后困扰该行业的最新事件。]]></description>
       <guid>https://www.reuters.com/world/china/coalmine-explosion-eastern-china-kills-seven-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 15:36:50 GMT</pubDate>
     </item>
