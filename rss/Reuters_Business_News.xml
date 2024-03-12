@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 12 Mar 2024 02:39:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 02:52:42 GMT</lastBuildDate>
     <item>
       <title>NYCB 完成 10 亿美元注资交易</title>
       <link>https://www.reuters.com/business/finance/nycb-closes-1-billion-capital-infusion-deal-2024-03-12/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>沃尔格林 (Walgreens) 就纽约指控其严重抬高婴儿配方奶粉价格达成和解</title>
       <link>https://www.reuters.com/legal/walgreens-settles-new-york-charges-it-inflated-prices-infant-formula-2024-03-11/</link>
-      <description><![CDATA[纽约州总检察长 Letitia James 指控沃尔格林在 2022 年初雅培实验室 (Abbott Labs) 召回导致全国范围内出现婴儿配方奶粉短缺后，严重抬高了至少 20 种婴儿配方奶粉的价格，该公司已就此达成和解。]]></description>
+      <description><![CDATA[纽约总检察长 Letitia James 指控沃尔格林在雅培实验室 (Abbott Labs) 召回导致 2022 年初全国范围内的婴儿配方奶粉产品短缺后，严重抬高了至少 20 种婴儿配方奶粉的价格，该公司已与纽约州总检察长 Letitia James 达成和解。]]></description>
       <guid>https://www.reuters.com/legal/walgreens-settles-new-york-charges-it-inflated-prices-infant-formula-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 21:51:59 GMT</pubDate>
     </item>
