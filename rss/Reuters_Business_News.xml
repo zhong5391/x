@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 12 Mar 2024 06:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 06:58:32 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉表示德国工厂全面恢复生产还需要一段时间</title>
+      <link>https://www.reuters.com/business/autos-transportation/tesla-says-it-will-take-some-time-production-german-factory-fully-resume-2024-03-12/</link>
+      <description><![CDATA[工厂负责人安德烈蒂里格周一晚间表示，特斯拉位于柏林附近的德国超级工厂的生产需要一段时间才能完全恢复。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/tesla-says-it-will-take-some-time-production-german-factory-fully-resume-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 06:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：消息人士称，中国体操冠军李宁考虑将公司私有化</title>
+      <link>https://www.reuters.com/markets/asia/chinas-champion-gymnast-li-ning-considers-taking-company-private-sources-say-2024-03-12/</link>
+      <description><![CDATA[四位知情人士表示，中国亿万富翁企业家、奥运冠军李宁正在考虑将其同名运动服装公司从香港证券交易所私有化，这在步履蹒跚的市场中增加了一系列此类潜在交易。]]></description>
+      <guid>https://www.reuters.com/markets/asia/chinas-champion-gymnast-li-ning-considers-taking-company-private-sources-say-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 05:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲 英镑多头为英国工资测试做好准备</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-12/</link>
+      <description><![CDATA[Ankur Banerjee 对欧洲和全球市场未来一天的展望]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 05:36:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>据彭博社报道，加拿大国家银行考虑出售柬埔寨分行</title>
+      <link>https://www.reuters.com/markets/deals/national-bank-canada-weighs-sale-cambodian-unit-bloomberg-news-reports-2024-03-12/</link>
+      <description><![CDATA[彭博社周二援引知情人士的话报道称，加拿大国家银行正在探索其柬埔寨子公司 ABA Bank 的选择方案，包括以超过 20 亿美元的价格出售该银行。]]></description>
+      <guid>https://www.reuters.com/markets/deals/national-bank-canada-weighs-sale-cambodian-unit-bloomberg-news-reports-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 05:31:59 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉及其竞争对手在自动驾驶技术方面得分较低</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-rivals-get-low-marks-automated-driving-technology-2024-03-12/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>据《纽约时报》报道，FAA 审计发现波音 737 MAX 生产存在数十个问题</title>
       <link>https://www.reuters.com/business/aerospace-defense/faa-audit-boeings-737-max-production-found-dozens-issues-nyt-reports-2024-03-12/</link>
-      <description><![CDATA[据《纽约时报》周一报道，1 月份阿拉斯加航空公司一架飞机的面板爆炸后，美国联邦航空管理局 (FAA) 对波音 737 MAX 生产流程进行了审计，89 项测试中有 33 项未通过。]]></description>
+      <description><![CDATA[据《纽约时报》周一报道，1 月份阿拉斯加航空公司一架飞机的面板发生爆炸后，美国联邦航空管理局 (FAA) 对波音 737 MAX 生产流程进行了审计，89 项测试中有 33 项未通过。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/faa-audit-boeings-737-max-production-found-dozens-issues-nyt-reports-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 03:32:46 GMT</pubDate>
     </item>
@@ -55,25 +83,11 @@
       <pubDate>Tue, 12 Mar 2024 01:55:14 GMT</pubDate>
     </item>
     <item>
-      <title>新西兰称扣押了 LATAM 波音 787 飞机的黑匣子</title>
+      <title>新西兰称在乘客讲述事件过程中扣押了 LATAM 波音 787 客机的黑匣子</title>
       <link>https://www.reuters.com/business/aerospace-defense/new-zealand-says-seizing-black-boxes-latam-boeing-787-2024-03-12/</link>
       <description><![CDATA[新西兰运输事故调查委员会周二表示，在发生导致 50 多人受伤的事故后，他们正在扣押 LATAM 航空公司一架波音 787 飞机的驾驶舱录音机和飞行数据记录仪。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/new-zealand-says-seizing-black-boxes-latam-boeing-787-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 01:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>美元保持警惕；日本央行投机行为支撑日元</title>
-      <link>https://www.reuters.com/markets/currencies/dollar-guard-boj-speculation-keeps-yen-supported-2024-03-12/</link>
-      <description><![CDATA[在当天晚些时候公布的美国关键通胀数据之前，美元周二基本保持稳定，而日元则坚挺，接近一个月高点，因日本央行最早可能在下周退出负利率的预期不断升温。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/dollar-guard-boj-speculation-keeps-yen-supported-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 01:46:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>穆迪开始评级审查后万科债券有所缓解</title>
-      <link>https://www.reuters.com/markets/asia/china-vankes-hong-kong-shares-open-1-lower-after-moodys-starts-ratings-review-2024-03-12/</link>
-      <description><![CDATA[在穆迪表示该房地产公司的评级现在将被考虑为垃圾级之后，中国销售额第二大开发商万科的美元债券周二下跌，加剧了房地产行业的困境。]]></description>
-      <guid>https://www.reuters.com/markets/asia/china-vankes-hong-kong-shares-open-1-lower-after-moodys-starts-ratings-review-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 01:40:27 GMT</pubDate>
     </item>
     <item>
       <title>布莱克韦尔斯表示迪士尼未能披露 ValueAct 过去的资金管理角色</title>
@@ -88,13 +102,6 @@
       <description><![CDATA[纽约社区银行周一表示，已完成上周与投资者团体达成的 10 亿美元注资协议，并计划向股东提交普通股按三分一的反向股票分割。]]></description>
       <guid>https://www.reuters.com/business/finance/nycb-closes-1-billion-capital-infusion-deal-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 00:36:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃尔格林 (Walgreens) 就纽约指控其严重抬高婴儿配方奶粉价格达成和解</title>
-      <link>https://www.reuters.com/legal/walgreens-settles-new-york-charges-it-inflated-prices-infant-formula-2024-03-11/</link>
-      <description><![CDATA[纽约州总检察长 Letitia James 指控沃尔格林在 2022 年初雅培实验室 (Abbott Labs) 召回导致全国范围内出现婴儿配方奶粉短缺后，严重抬高了至少 20 种婴儿配方奶粉的价格，该公司已就此达成和解。]]></description>
-      <guid>https://www.reuters.com/legal/walgreens-settles-new-york-charges-it-inflated-prices-infant-formula-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 21:51:59 GMT</pubDate>
     </item>
     <item>
       <title>泰森食品公司将关闭爱荷华州猪肉工厂，共有 1,200 名工人</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[美国总统候选人唐纳德·特朗普周一表示，TikTok 对国家安全构成威胁，但他也表示，禁止这款流行应用程序会伤害一些孩子，只会增强 Meta Platforms 的 Facebook 的实力，而共和党人曾严厉批评 Facebook。]]></description>
       <guid>https://www.reuters.com/world/us/tiktok-us-security-threat-says-trump-similar-facebook-cnbc-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 15:09:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储预测将通过强劲数据表明降息前景是否保持不变</title>
-      <link>https://www.reuters.com/markets/us/fed-projections-show-if-rate-cut-outlook-stays-intact-through-strong-data-2024-03-11/</link>
-      <description><![CDATA[没有人预计美联储会在下周的政策会议上改变利率，但随着经济持续好于预期，官员们是否坚持之前的降息前景是一个更加悬而未决的问题。]]></description>
-      <guid>https://www.reuters.com/markets/us/fed-projections-show-if-rate-cut-outlook-stays-intact-through-strong-data-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 10:02:58 GMT</pubDate>
     </item>
     <item>
       <title>标普 500 指数、纳斯达克指数收跌，投资者等待 CPI、PPI 数据</title>
