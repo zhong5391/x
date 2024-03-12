@@ -1,49 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 12 Mar 2024 03:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 03:51:37 GMT</lastBuildDate>
     <item>
-      <title>油价上涨小幅超出需求预期</title>
-      <link>https://www.reuters.com/business/energy/oil-rises-slightly-ahead-demand-estimates-2024-03-12/</link>
-      <description><![CDATA[亚洲早盘油价上涨，但由于市场等待石油机构的月度报告，价格走势有限。]]></description>
-      <guid>https://www.reuters.com/business/energy/oil-rises-slightly-ahead-demand-estimates-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 02:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>新西兰称扣押了 LATAM 波音 787 飞机的黑匣子</title>
-      <link>https://www.reuters.com/business/aerospace-defense/new-zealand-says-seizing-black-boxes-latam-boeing-787-2024-03-12/</link>
-      <description><![CDATA[新西兰运输事故调查委员会周二表示，在发生导致 50 多人受伤的事故后，他们正在扣押 LATAM 航空公司一架波音 787 飞机的驾驶舱录音机和飞行数据记录仪。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/new-zealand-says-seizing-black-boxes-latam-boeing-787-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 01:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>美元保持警惕；日本央行投机行为支撑日元</title>
-      <link>https://www.reuters.com/markets/currencies/dollar-guard-boj-speculation-keeps-yen-supported-2024-03-12/</link>
-      <description><![CDATA[在当天晚些时候公布的美国关键通胀数据之前，美元周二基本保持稳定，而日元则坚挺，接近一个月高点，因日本央行最早可能在下周退出负利率的预期不断升温。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/dollar-guard-boj-speculation-keeps-yen-supported-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 01:46:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>穆迪开始评级审查后万科港股低开1%</title>
-      <link>https://www.reuters.com/markets/asia/china-vankes-hong-kong-shares-open-1-lower-after-moodys-starts-ratings-review-2024-03-12/</link>
-      <description><![CDATA[穆迪表示，万科的评级现在将被考虑为垃圾级，该公司股价周二在香港开盘下跌 1%。]]></description>
-      <guid>https://www.reuters.com/markets/asia/china-vankes-hong-kong-shares-open-1-lower-after-moodys-starts-ratings-review-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 01:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>布莱克韦尔斯表示迪士尼未能披露 ValueAct 的资金管理职责</title>
-      <link>https://www.reuters.com/business/media-telecom/blackwells-says-disney-failed-disclose-valueacts-money-management-role-2024-03-12/</link>
-      <description><![CDATA[Blackwells Capital 周一表示，华特迪士尼未能告知股东 ValueAct Capital Management 已投资这家美国娱乐巨头养老基金资产超过 3.5 亿美元，从而造成了利益冲突。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/blackwells-says-disney-failed-disclose-valueacts-money-management-role-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 01:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>NYCB 完成 10 亿美元注资交易，宣布反向股票分割</title>
+      <title>NYCB 完成 10 亿美元注资交易</title>
       <link>https://www.reuters.com/business/finance/nycb-closes-1-billion-capital-infusion-deal-2024-03-12/</link>
-      <description><![CDATA[纽约社区银行周一表示，已完成上周与投资者团体达成的 10 亿美元注资协议，并计划向股东提交普通股按三分一的反向股票分割。]]></description>
+      <description><![CDATA[纽约社区银行周一表示，已完成上周与一个投资者团体达成的 10 亿美元注资协议。]]></description>
       <guid>https://www.reuters.com/business/finance/nycb-closes-1-billion-capital-infusion-deal-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 00:36:03 GMT</pubDate>
     </item>
@@ -55,7 +20,7 @@
       <pubDate>Mon, 11 Mar 2024 23:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>美国法官将于八月听取联邦贸易委员会对克罗格-艾伯森交易的质疑</title>
+      <title>美国法官将于 8 月 26 日听取 FTC 对 Kroger Albertsons 交易的质疑</title>
       <link>https://www.reuters.com/markets/deals/us-judge-hear-ftc-challenge-kroger-albertsons-deal-aug-26-2024-03-11/</link>
       <description><![CDATA[美国地区法官艾德丽安·纳尔逊 (Adrienne Nelson) 周一定于 8 月 26 日开始听证会，联邦贸易委员会将申请初步禁令，阻止连锁超市克罗格 (Kroger) 以 246 亿美元收购规模较小的竞争对手艾伯森 (Albertsons) 的交易。]]></description>
       <guid>https://www.reuters.com/markets/deals/us-judge-hear-ftc-challenge-kroger-albertsons-deal-aug-26-2024-03-11/</guid>
@@ -64,7 +29,7 @@
     <item>
       <title>沃尔格林 (Walgreens) 就纽约指控其严重抬高婴儿配方奶粉价格达成和解</title>
       <link>https://www.reuters.com/legal/walgreens-settles-new-york-charges-it-inflated-prices-infant-formula-2024-03-11/</link>
-      <description><![CDATA[纽约州总检察长 Letitia James 指控沃尔格林在 2022 年初雅培实验室 (Abbott Labs) 召回导致全国范围内出现婴儿配方奶粉短缺后，严重抬高了至少 20 种婴儿配方奶粉的价格，该公司已就此达成和解。]]></description>
+      <description><![CDATA[纽约总检察长 Letitia James 指控沃尔格林在雅培实验室 (Abbott Labs) 召回导致 2022 年初全国范围内的婴儿配方奶粉产品短缺后，严重抬高了至少 20 种婴儿配方奶粉的价格，该公司已与纽约州总检察长 Letitia James 达成和解。]]></description>
       <guid>https://www.reuters.com/legal/walgreens-settles-new-york-charges-it-inflated-prices-infant-formula-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 21:51:59 GMT</pubDate>
     </item>
@@ -83,6 +48,13 @@
       <pubDate>Mon, 11 Mar 2024 21:04:39 GMT</pubDate>
     </item>
     <item>
+      <title>据彭博社报道，默多克的新闻集团有意与竞争对手联合竞购《电讯报》</title>
+      <link>https://www.reuters.com/markets/deals/murdochs-news-corp-eyes-joint-telegraph-bid-with-rivals-bloomberg-news-reports-2024-03-11/</link>
+      <description><![CDATA[据彭博社周一援引知情人士的话报道，鲁珀特·默多克的新闻集团和《每日邮报》的所有者已经就与阿联酋支持的投资基金 RedBird IMI 联合收购《电讯报》的可能性进行了谈判。]]></description>
+      <guid>https://www.reuters.com/markets/deals/murdochs-news-corp-eyes-joint-telegraph-bid-with-rivals-bloomberg-news-reports-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 20:46:58 GMT</pubDate>
+    </item>
+    <item>
       <title>甲骨文因人工智能需求超过季度利润预期，股价飙升</title>
       <link>https://www.reuters.com/technology/oracle-misses-quarterly-revenue-estimates-2024-03-11/</link>
       <description><![CDATA[甲骨文周一表示，将与芯片巨头英伟达 (Nvidia) 联合发布公告，受益于人工智能需求的蓬勃发展，季度利润超出预期，股价在盘后交易中上涨近 14%。]]></description>
@@ -92,23 +64,30 @@
     <item>
       <title>美国运输部长预计波音公司将与 DOJ、NTSB 合作开展 737 MAX 调查</title>
       <link>https://www.reuters.com/business/aerospace-defense/us-transport-chief-expects-boeing-cooperate-with-doj-ntsb-737-max-probes-2024-03-11/</link>
-      <description><![CDATA[美国运输部长皮特·布蒂吉格周一表示，他希望波音公司能够配合司法部和国家运输安全委员会对阿拉斯加航空 737 MAX 9 1 月 5 日空中紧急事件的调查。]]></description>
+      <description><![CDATA[美国运输部长皮特·布蒂吉格周一表示，他预计波音公司将配合司法部和国家运输安全委员会对 1 月 5 日阿拉斯加航空 737 MAX 9 空中紧急事件的调查。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/us-transport-chief-expects-boeing-cooperate-with-doj-ntsb-737-max-probes-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 20:03:42 GMT</pubDate>
     </item>
     <item>
       <title>福特在美国逃税案中支付 3.65 亿美元</title>
       <link>https://www.reuters.com/business/autos-transportation/ford-pay-365-million-us-import-tariff-evasion-case-2024-03-11/</link>
-      <description><![CDATA[福特汽车公司将支付 3.65 亿美元，以解决美国对其数十万辆 Transit Connect 车辆错误分类和低估价值，违反联邦关税法的指控。]]></description>
+      <description><![CDATA[福特汽车公司将支付 3.65 亿美元，以解决美国对其数十万辆 Transit Connect 车辆的错误分类和低估价值而违反联邦关税法的指控。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ford-pay-365-million-us-import-tariff-evasion-case-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 19:53:26 GMT</pubDate>
     </item>
     <item>
       <title>美国通胀数据公布后，期权参与者已做好应对市场波动的准备</title>
       <link>https://www.reuters.com/markets/us/options-players-ready-market-swings-after-us-inflation-data-2024-03-11/</link>
-      <description><![CDATA[在周二公布的通胀数据可能会影响美联储的货币政策轨迹之前，美国股票期权市场的交易员变得有些不安。]]></description>
+      <description><![CDATA[在周二公布可能影响美联储货币政策轨迹的通胀数据之前，美国股票期权市场的交易员变得变得不安。]]></description>
       <guid>https://www.reuters.com/markets/us/options-players-ready-market-swings-after-us-inflation-data-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 18:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>高盛策略师表示，美国股市和科技股的市场主导地位不断增强</title>
+      <link>https://www.reuters.com/markets/us-equities-tech-growing-market-dominance-goldman-strategists-say-2024-03-11/</link>
+      <description><![CDATA[高盛策略师表示，全球股市日益集中，其中美国股市和科技股的权重增加，虽然不一定没有道理，但可能需要一定程度的多元化。]]></description>
+      <guid>https://www.reuters.com/markets/us-equities-tech-growing-market-dominance-goldman-strategists-say-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 17:01:41 GMT</pubDate>
     </item>
     <item>
       <title>解释者：纽约立法者再次解决主权债务返工问题</title>
@@ -118,11 +97,32 @@
       <pubDate>Mon, 11 Mar 2024 16:51:35 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普称 TikTok 为威胁，但表示如果没有它，一些孩子可能会“发疯”</title>
-      <link>https://www.reuters.com/world/us/tiktok-us-security-threat-says-trump-similar-facebook-cnbc-2024-03-11/</link>
-      <description><![CDATA[美国总统候选人唐纳德·特朗普周一表示，TikTok 对国家安全构成威胁，但他也表示，禁止这款流行应用程序会伤害一些孩子，只会增强 Meta Platforms 的 Facebook 的实力，而共和党人曾严厉批评 Facebook。]]></description>
-      <guid>https://www.reuters.com/world/us/tiktok-us-security-threat-says-trump-similar-facebook-cnbc-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 15:09:39 GMT</pubDate>
+      <title>迪士尼在与佩尔茨的董事会斗争中陷入个人困境</title>
+      <link>https://www.reuters.com/business/media-telecom/disney-attacks-investor-nelson-peltzs-motivations-qualifications-2024-03-11/</link>
+      <description><![CDATA[周一，华特迪士尼公司对亿万富翁纳尔逊·佩尔茨和他的特里安基金为赢得两个董事会席位而进行的竞选活动做出了回应，在一场日益激烈的代理权争夺战中，攻击了激进股东的动机和资格。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/disney-attacks-investor-nelson-peltzs-motivations-qualifications-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 15:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>至少从 2008 年起，OPEC 和 IEA 就石油需求存在分歧</title>
+      <link>https://www.reuters.com/business/energy/opec-iea-most-divided-oil-demand-since-least-2008-2024-03-11/</link>
+      <description><![CDATA[据路透社研究，石油输出国组织 (OPEC) 和国际能源署是全球最受关注的石油需求增长预测机构，但它们对燃料使用的看法却存在至少 16 年来的分歧。]]></description>
+      <guid>https://www.reuters.com/business/energy/opec-iea-most-divided-oil-demand-since-least-2008-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 14:29:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 期待已久的美国 IPO 估值目标高达 64 亿美元</title>
+      <link>https://www.reuters.com/markets/deals/reddit-targets-up-64-bln-valuation-much-awaited-us-ipo-2024-03-11/</link>
+      <description><![CDATA[该社交媒体平台周一表示，Reddit 的美国首次公开募股 (IPO) 目标估值高达 64 亿美元，即将成为过去几年最受期待的股市首次亮相之一。]]></description>
+      <guid>https://www.reuters.com/markets/deals/reddit-targets-up-64-bln-valuation-much-awaited-us-ipo-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:14:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国碳管道公司承诺不采收石油，但巴肯钻探商希望如此</title>
+      <link>https://www.reuters.com/markets/carbon/us-carbon-pipeline-company-pledges-no-oil-recovery-bakken-drillers-want-it-2024-03-11/</link>
+      <description><![CDATA[Summit Carbon Solutions正试图建造美国最大的二氧化碳捕获管道来运输和掩埋温室气体，该公司一再承诺其项目不会被钻井公司用来提高油田产量。]]></description>
+      <guid>https://www.reuters.com/markets/carbon/us-carbon-pipeline-company-pledges-no-oil-recovery-bakken-drillers-want-it-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 10:07:25 GMT</pubDate>
     </item>
     <item>
       <title>美联储预测将通过强劲数据表明降息前景是否保持不变</title>
