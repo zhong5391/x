@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 12 Mar 2024 16:58:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 17:19:48 GMT</lastBuildDate>
     <item>
       <title>据《华盛顿邮报》报道，白宫因黑客攻击而召见联合健康保险首席执行官</title>
       <link>https://www.reuters.com/world/us/white-house-summons-unitedhealth-ceo-over-hack-washington-post-reports-2024-03-12/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>波音举报人被发现死于明显自杀</title>
       <link>https://www.reuters.com/world/us/boeing-whistleblower-found-dead-apparent-suicide-2024-03-12/</link>
-      <description><![CDATA[据南卡罗来纳州当局称，前波音员工约翰·巴尼特(John Barnett)被发现死于自杀，据报道，他曾对该公司的生产问题表示担忧。]]></description>
+      <description><![CDATA[据南卡罗来纳州当局称，前波音员工约翰·巴尼特 (John Barnett) 被发现死于自杀，据称他曾对该公司的生产问题表示担忧。]]></description>
       <guid>https://www.reuters.com/world/us/boeing-whistleblower-found-dead-apparent-suicide-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 14:47:32 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>美国商品期货交易委员会主席表示，将在夏季之前发布垂直整合模型的规则</title>
       <link>https://www.reuters.com/markets/commodities/us-cftc-publish-rule-vertically-integrated-models-by-summer-says-chair-2024-03-12/</link>
-      <description><![CDATA[美国商品期货交易委员会主席周二表示，该委员会计划在夏季之前发布一项规则草案，征求有关垂直整合模式的意见，在这种模式中，经纪商、清算所和交易所隶属于一家控股公司。]]></description>
+      <description><![CDATA[美国商品期货交易委员会主席周二表示，该委员会计划在夏季之前发布一项规则草案，征求有关垂直整合模式的意见，在该模式中，经纪商、清算所和交易所隶属于一家控股公司。]]></description>
       <guid>https://www.reuters.com/markets/commodities/us-cftc-publish-rule-vertically-integrated-models-by-summer-says-chair-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 14:00:23 GMT</pubDate>
     </item>
@@ -64,14 +64,14 @@
     <item>
       <title>金宝汤 (Campbell Soup) 在延迟后完成 23.3 亿美元的 Sovos 交易</title>
       <link>https://www.reuters.com/markets/deals/campbell-soup-completes-233-bln-sovos-deal-after-delays-2024-03-12/</link>
-      <description><![CDATA[美国包装食品制造商索沃斯品牌 (Sovos Brands) 在获得联邦贸易委员会批准几周后于周二表示，金宝汤 (Campbell Soup) 已完成对 Rao 自制食品所有者索沃斯品牌 (Sovos Brands) 的收购。]]></description>
+      <description><![CDATA[美国包装食品制造商索沃斯品牌 (Sovos Brands) 在获得联邦贸易委员会批准几周后于周二表示，金宝汤 (Campbell Soup) 已完成对 Rao 旗下 Homemade 所有者 Sovos Brands 的收购。]]></description>
       <guid>https://www.reuters.com/markets/deals/campbell-soup-completes-233-bln-sovos-deal-after-delays-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 13:09:06 GMT</pubDate>
     </item>
     <item>
       <title>汽油、住房成本推动美国二月份通胀走高</title>
       <link>https://www.reuters.com/markets/us/gasoline-shelter-costs-lift-us-consumer-prices-february-2024-03-12/</link>
-      <description><![CDATA[由于汽油和住房成本上涨，美国 2 月份消费者价格稳步上涨，这表明通货膨胀的粘性使人们对美联储是否会在 6 月份开始降息产生一些怀疑。]]></description>
+      <description><![CDATA[由于汽油和住房成本上涨，美国 2 月份消费者价格稳步上涨，这表明通货膨胀的粘性使人们对美联储是否会在 6 月份开始降息产生了一些怀疑。]]></description>
       <guid>https://www.reuters.com/markets/us/gasoline-shelter-costs-lift-us-consumer-prices-february-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 12:45:20 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Tue, 12 Mar 2024 10:09:59 GMT</pubDate>
     </item>
     <item>
-      <title>NFIB 称美国小企业乐观情绪降至 9 个月以来的最低水平</title>
+      <title>NFIB 称美国小企业乐观情绪降至 9 个月以来最低</title>
       <link>https://www.reuters.com/markets/us/us-small-business-optimism-falls-lowest-9-months-nfib-says-2024-03-12/</link>
       <description><![CDATA[周二发布的一份报告显示，由于对通胀的持续担忧，美国小企业信心在 2 月份跌至 5 月份以来的最低水平。]]></description>
       <guid>https://www.reuters.com/markets/us/us-small-business-optimism-falls-lowest-9-months-nfib-says-2024-03-12/</guid>
