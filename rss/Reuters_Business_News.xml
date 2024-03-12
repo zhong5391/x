@@ -1,16 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 12 Mar 2024 05:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2024 05:31:59 GMT</lastBuildDate>
     <item>
-      <title>油价上涨小幅超出需求预期</title>
+      <title>特斯拉及其竞争对手在自动驾驶技术方面得分较低</title>
+      <link>https://www.reuters.com/business/autos-transportation/tesla-rivals-get-low-marks-automated-driving-technology-2024-03-12/</link>
+      <description><![CDATA[在周二发布的一项新研究中，特斯拉的自动驾驶仪和全自动驾驶技术以及主要汽车制造商销售的其他九种辅助驾驶系统获得了美国公路安全保险协会的“差”评级。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/tesla-rivals-get-low-marks-automated-driving-technology-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 04:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>据《纽约时报》报道，FAA 审计发现波音 737 MAX 生产存在数十个问题</title>
+      <link>https://www.reuters.com/business/aerospace-defense/faa-audit-boeings-737-max-production-found-dozens-issues-nyt-reports-2024-03-12/</link>
+      <description><![CDATA[据《纽约时报》周一报道，1 月份阿拉斯加航空公司一架飞机的面板爆炸后，美国联邦航空管理局 (FAA) 对波音 737 MAX 生产流程进行了审计，89 项测试中有 33 项未通过。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/faa-audit-boeings-737-max-production-found-dozens-issues-nyt-reports-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 03:32:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>据彭博社报道，日本电产 (Nidec) 与 KPS 争夺西门子价值 30 亿美元的 Innotics 部门</title>
+      <link>https://www.reuters.com/markets/deals/nidec-kps-compete-siemens-3-bln-innomotics-unit-bloomberg-reports-2024-03-12/</link>
+      <description><![CDATA[据彭博社周一报道，日本电产公司和美国私募股权公司 KPS Capital Partners 正在竞相收购西门子股份公司 Innotics 大型电机业务。]]></description>
+      <guid>https://www.reuters.com/markets/deals/nidec-kps-compete-siemens-3-bln-innomotics-unit-bloomberg-reports-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 02:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚洲股市先于美国消费者物价指数上涨；日元因日本央行的言论而走强</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-12/</link>
+      <description><![CDATA[在颇具影响力的美国通胀报告公布之前，亚洲股市周二小幅走高，而日本股市下跌，日元走强，因人们对日本央行可能最早在下周准备退出超宽松货币政策的预期不断升温。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 02:37:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>中东紧张局势持续，油价上涨，需求担忧限制涨幅</title>
       <link>https://www.reuters.com/business/energy/oil-rises-slightly-ahead-demand-estimates-2024-03-12/</link>
-      <description><![CDATA[亚洲早盘油价上涨，但由于市场等待石油机构的月度报告，价格走势有限。]]></description>
+      <description><![CDATA[由于中东地缘政治紧张局势继续引发担忧，油价在周二交易中上涨，但由于看跌需求情绪以及市场等待石油机构的月度报告，涨幅有限。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-rises-slightly-ahead-demand-estimates-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 02:34:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行行长上田小幅淡化对经济的乐观情绪</title>
+      <link>https://www.reuters.com/markets/asia/japans-economy-recovering-showing-signs-weakness-says-boj-chief-ueda-2024-03-12/</link>
+      <description><![CDATA[日本央行行长上田一夫(Kazuo Ueda)周二表示，经济正在复苏，但也显示出一些疲软迹象，其评估结果比一月份略显黯淡，这是对最近一批消费疲软数据的认可。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japans-economy-recovering-showing-signs-weakness-says-boj-chief-ueda-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 02:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国小米将开始交付首款电动车型，股价飙升</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinas-xiaomi-says-it-will-start-deliveries-its-first-ev-model-march-28-2024-03-12/</link>
+      <description><![CDATA[中国小米周二表示，将于本月开始交付首款电动汽车 SU7，在残酷的价格战中进军全球最大的汽车市场。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinas-xiaomi-says-it-will-start-deliveries-its-first-ev-model-march-28-2024-03-12/</guid>
+      <pubDate>Tue, 12 Mar 2024 01:55:14 GMT</pubDate>
     </item>
     <item>
       <title>新西兰称扣押了 LATAM 波音 787 飞机的黑匣子</title>
@@ -22,21 +64,21 @@
     <item>
       <title>美元保持警惕；日本央行投机行为支撑日元</title>
       <link>https://www.reuters.com/markets/currencies/dollar-guard-boj-speculation-keeps-yen-supported-2024-03-12/</link>
-      <description><![CDATA[在当天晚些时候公布的美国关键通胀数据之前，美元周二基本保持稳定，而日元则坚挺于一个月高点附近，因日本央行最早可能在下周退出负利率的预期不断升温。]]></description>
+      <description><![CDATA[在当天晚些时候公布的美国关键通胀数据之前，美元周二基本保持稳定，而日元则坚挺，接近一个月高点，因日本央行最早可能在下周退出负利率的预期不断升温。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-guard-boj-speculation-keeps-yen-supported-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 01:46:04 GMT</pubDate>
     </item>
     <item>
-      <title>穆迪开始评级审查后万科港股低开1%</title>
+      <title>穆迪开始评级审查后万科债券有所缓解</title>
       <link>https://www.reuters.com/markets/asia/china-vankes-hong-kong-shares-open-1-lower-after-moodys-starts-ratings-review-2024-03-12/</link>
-      <description><![CDATA[穆迪表示，万科的评级现在将被考虑为垃圾级，该公司股价周二在香港开盘下跌 1%。]]></description>
+      <description><![CDATA[在穆迪表示该房地产公司的评级现在将被考虑为垃圾级之后，中国销售额第二大开发商万科的美元债券周二下跌，加剧了房地产行业的困境。]]></description>
       <guid>https://www.reuters.com/markets/asia/china-vankes-hong-kong-shares-open-1-lower-after-moodys-starts-ratings-review-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 01:40:27 GMT</pubDate>
     </item>
     <item>
-      <title>布莱克韦尔斯表示迪士尼未能披露 ValueAct 的资金管理职责</title>
+      <title>布莱克韦尔斯表示迪士尼未能披露 ValueAct 过去的资金管理角色</title>
       <link>https://www.reuters.com/business/media-telecom/blackwells-says-disney-failed-disclose-valueacts-money-management-role-2024-03-12/</link>
-      <description><![CDATA[Blackwells Capital 周一表示，华特迪士尼未能告知股东 ValueAct Capital Management 已投资这家美国娱乐巨头养老基金资产超过 3.5 亿美元，从而造成了利益冲突。]]></description>
+      <description><![CDATA[Blackwells Capital 周一表示，华特迪士尼未能告知股东 ValueAct Capital Management 已投资这家美国娱乐巨头养老基金资产超过 3.5 亿美元。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/blackwells-says-disney-failed-disclose-valueacts-money-management-role-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 01:01:49 GMT</pubDate>
     </item>
@@ -48,32 +90,11 @@
       <pubDate>Tue, 12 Mar 2024 00:36:03 GMT</pubDate>
     </item>
     <item>
-      <title>新西兰航空暂停奥克兰至芝加哥直飞服务</title>
-      <link>https://www.reuters.com/business/aerospace-defense/air-new-zealand-pauses-auckland-chicago-non-stop-service-2024-03-11/</link>
-      <description><![CDATA[新西兰航空周二表示，由于劳斯莱斯遄达 1000 发动机的可用性持续面临挑战，计划于今年 3 月 31 日至 10 月 25 日暂停奥克兰至芝加哥的直飞航班。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/air-new-zealand-pauses-auckland-chicago-non-stop-service-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 23:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国法官将于八月听取联邦贸易委员会对克罗格-艾伯森交易的质疑</title>
-      <link>https://www.reuters.com/markets/deals/us-judge-hear-ftc-challenge-kroger-albertsons-deal-aug-26-2024-03-11/</link>
-      <description><![CDATA[美国地区法官艾德丽安·纳尔逊 (Adrienne Nelson) 周一定于 8 月 26 日开始听证会，联邦贸易委员会将申请初步禁令，阻止连锁超市克罗格 (Kroger) 以 246 亿美元收购规模较小的竞争对手艾伯森 (Albertsons) 的交易。]]></description>
-      <guid>https://www.reuters.com/markets/deals/us-judge-hear-ftc-challenge-kroger-albertsons-deal-aug-26-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 23:14:36 GMT</pubDate>
-    </item>
-    <item>
       <title>沃尔格林 (Walgreens) 就纽约指控其严重抬高婴儿配方奶粉价格达成和解</title>
       <link>https://www.reuters.com/legal/walgreens-settles-new-york-charges-it-inflated-prices-infant-formula-2024-03-11/</link>
-      <description><![CDATA[纽约总检察长 Letitia James 指控沃尔格林在雅培实验室 (Abbott Labs) 召回导致 2022 年初全国范围内的婴儿配方奶粉产品短缺后，严重抬高了至少 20 种婴儿配方奶粉的价格，该公司已与纽约州总检察长 Letitia James 达成和解。]]></description>
+      <description><![CDATA[纽约州总检察长 Letitia James 指控沃尔格林在 2022 年初雅培实验室 (Abbott Labs) 召回导致全国范围内出现婴儿配方奶粉短缺后，严重抬高了至少 20 种婴儿配方奶粉的价格，该公司已就此达成和解。]]></description>
       <guid>https://www.reuters.com/legal/walgreens-settles-new-york-charges-it-inflated-prices-infant-formula-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 21:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：股市再次走低，印度消费者物价指数上涨</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-11/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 21:48:33 GMT</pubDate>
     </item>
     <item>
       <title>泰森食品公司将关闭爱荷华州猪肉工厂，共有 1,200 名工人</title>
@@ -90,32 +111,18 @@
       <pubDate>Mon, 11 Mar 2024 20:18:12 GMT</pubDate>
     </item>
     <item>
-      <title>美国运输部长预计波音公司将与 DOJ、NTSB 合作开展 737 MAX 调查</title>
-      <link>https://www.reuters.com/business/aerospace-defense/us-transport-chief-expects-boeing-cooperate-with-doj-ntsb-737-max-probes-2024-03-11/</link>
-      <description><![CDATA[美国运输部长皮特·布蒂吉格周一表示，他希望波音公司能够配合司法部和国家运输安全委员会对阿拉斯加航空 737 MAX 9 1 月 5 日空中紧急事件的调查。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/us-transport-chief-expects-boeing-cooperate-with-doj-ntsb-737-max-probes-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 20:03:42 GMT</pubDate>
-    </item>
-    <item>
       <title>福特在美国逃税案中支付 3.65 亿美元</title>
       <link>https://www.reuters.com/business/autos-transportation/ford-pay-365-million-us-import-tariff-evasion-case-2024-03-11/</link>
-      <description><![CDATA[福特汽车公司将支付 3.65 亿美元，以解决美国对其数十万辆 Transit Connect 车辆的错误分类和低估价值而违反联邦关税法的指控。]]></description>
+      <description><![CDATA[福特汽车公司将支付 3.65 亿美元，以解决美国对其数十万辆 Transit Connect 车辆错误分类和低估价值，违反联邦关税法的指控。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ford-pay-365-million-us-import-tariff-evasion-case-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 19:53:26 GMT</pubDate>
     </item>
     <item>
       <title>美国通胀数据公布后，期权参与者已做好应对市场波动的准备</title>
       <link>https://www.reuters.com/markets/us/options-players-ready-market-swings-after-us-inflation-data-2024-03-11/</link>
-      <description><![CDATA[在周二公布可能影响美联储货币政策轨迹的通胀数据之前，美国股票期权市场的交易员变得变得不安。]]></description>
+      <description><![CDATA[在周二公布的通胀数据可能会影响美联储的货币政策轨迹之前，美国股票期权市场的交易员变得有些不安。]]></description>
       <guid>https://www.reuters.com/markets/us/options-players-ready-market-swings-after-us-inflation-data-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 18:38:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>解释者：纽约立法者再次解决主权债务返工问题</title>
-      <link>https://www.reuters.com/business/finance/new-york-lawmakers-tackle-sovereign-debt-reworks-again-2024-03-11/</link>
-      <description><![CDATA[另一项简化主权债务重组解决方案的尝试正在纽约州立法机关获得通过，华尔街再次注意到这一点。]]></description>
-      <guid>https://www.reuters.com/business/finance/new-york-lawmakers-tackle-sovereign-debt-reworks-again-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 16:51:35 GMT</pubDate>
     </item>
     <item>
       <title>特朗普称 TikTok 为威胁，但表示如果没有它，一些孩子可能会“发疯”</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[标准普尔 500 指数和纳斯达克指数周一小幅下跌，投资者正在为本周的消费者和生产者价格数据做准备，他们希望这些数据能够更好地了解美联储是否可以在未来几个月开始降息。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-dip-run-up-inflation-data-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 09:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：投资者敦促 Zara 所有者 Inditex 公布完整供应链</title>
-      <link>https://www.reuters.com/business/retail-consumer/investors-push-zara-owner-inditex-publish-full-supply-chain-2024-03-11/</link>
-      <description><![CDATA[投资者希望 Zara 母公司 Inditex 效仿竞争对手 H&amp;M 和 Primark 的做法，公开其完整的供应商名单，以便他们能够更好地评估供应链风险。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/investors-push-zara-owner-inditex-publish-full-supply-chain-2024-03-11/</guid>
-      <pubDate>Mon, 11 Mar 2024 06:05:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
