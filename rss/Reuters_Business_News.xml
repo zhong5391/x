@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 13 Mar 2024 04:52:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 05:19:42 GMT</lastBuildDate>
     <item>
       <title>税务计划丑闻曝光后，普华永道澳大利亚公司又裁员 300 多人</title>
       <link>https://www.reuters.com/business/pwc-australia-cuts-another-300-plus-jobs-wake-leaked-tax-plan-scandal-2024-03-13/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>股市超越美国通胀率，创历史新高</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-13/</link>
-      <description><![CDATA[在华尔街创下历史新高的背景下，亚洲股市周三触及七个月高点，投资者大多对略高于预期的美国通胀不以为意，押注这不会破坏今年年中预期的降息。]]></description>
+      <description><![CDATA[在华尔街创下历史新高的背景下，亚洲股市周三触及七个月高点，投资者大多对略高于预期的美国通胀不以为意，押注这不会破坏今年年中的降息预期。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 02:16:26 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Tue, 12 Mar 2024 19:49:59 GMT</pubDate>
     </item>
     <item>
-      <title>备忘录称，波音将在 737 工厂增加合规检查和设备审核</title>
+      <title>备忘录称，波音将在 737 工厂增加合规检查和设备审计</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeing-will-add-compliance-checks-equipment-audits-737-factory-memo-says-2024-03-12/</link>
       <description><![CDATA[波音公司周二在给员工的一份备忘录中表示，该公司正在对每个 737 工作区域增加每周合规检查，并对设备进行额外审核，以减少质量问题。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeing-will-add-compliance-checks-equipment-audits-737-factory-memo-says-2024-03-12/</guid>
@@ -120,7 +120,7 @@
     <item>
       <title>美国航空公司警告称，由于安全危机，波音飞机将出现更多延误</title>
       <link>https://www.reuters.com/business/aerospace-defense/southwest-cuts-delivery-forecast-boeing-2024-03-12/</link>
-      <description><![CDATA[美国航空公司周二警告称，由于波音公司的安全危机对航空业造成的打击进一步恶化，波音飞机交付延误增多，其增加运力的计划受到质疑。]]></description>
+      <description><![CDATA[美国航空公司周二警告称，由于波音公司的安全危机对航空业造成的打击进一步恶化，导致波音飞机交付延误增多，其增加运力的计划受到质疑。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/southwest-cuts-delivery-forecast-boeing-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 10:46:12 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>甲骨文股价上涨，标普 500 指数创历史新高，交易员继续降息押注</title>
       <link>https://www.reuters.com/markets/us/sp-500-nasdaq-futures-edge-higher-ahead-key-inflation-test-2024-03-12/</link>
-      <description><![CDATA[美国股市周二大幅收高，标普 500 指数收盘创下历史新高，因甲骨文股价飙升，消费者价格数据未能浇灭投资者对未来几个月降息的希望。]]></description>
+      <description><![CDATA[美国股市周二大幅收高，标普 500 指数收盘创下历史新高，因甲骨文股价飙升，消费者价格数据未能浇灭投资者未来几个月降息的希望。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-500-nasdaq-futures-edge-higher-ahead-key-inflation-test-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 09:37:34 GMT</pubDate>
     </item>
