@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 13 Mar 2024 05:48:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 06:09:34 GMT</lastBuildDate>
     <item>
-      <title>官方媒体报道，中国河北省餐厅发生爆炸，造成多人受伤</title>
+      <title>援助组织称，因从事间谍活动而被俄罗斯拘留的韩国人从事人道主义和使命工作</title>
+      <link>https://www.reuters.com/world/south-korean-held-russia-spying-did-humanitarian-mission-work-says-aid-group-2024-03-13/</link>
+      <description><![CDATA[基督教援助组织负责人表示，一名因间谍罪名被俄罗斯逮捕的韩国传教士被派去纯粹从事人道主义和传教工作，并没有参与帮助该地区的朝鲜工人叛逃。]]></description>
+      <guid>https://www.reuters.com/world/south-korean-held-russia-spying-did-humanitarian-mission-work-says-aid-group-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 03:12:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>中餐馆爆炸造成1人死亡22人受伤</title>
       <link>https://www.reuters.com/world/china/explosion-hebei-china-restaurant-injures-several-people-state-media-reports-2024-03-13/</link>
-      <description><![CDATA[中国官方媒体周三报道，中国河北省一家餐馆发生强烈爆炸，造成数人受伤，汽车严重受损，周围街道上散落着大量碎片。]]></description>
+      <description><![CDATA[官方媒体和当局周三表示，中国北部省份河北省一家餐馆疑似煤气泄漏，引发爆炸，建筑物外墙被撕裂，汽车受损，碎片散落，造成 1 人死亡、22 人受伤。]]></description>
       <guid>https://www.reuters.com/world/china/explosion-hebei-china-restaurant-injures-several-people-state-media-reports-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 02:42:34 GMT</pubDate>
     </item>
     <item>
       <title>股市超越美国通胀率，创历史新高</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-13/</link>
-      <description><![CDATA[在华尔街创下历史新高的背景下，亚洲股市周三触及七个月高点，投资者大多对略高于预期的美国通胀不以为意，押注这不会破坏今年年中预期的降息。]]></description>
+      <description><![CDATA[在华尔街创下历史新高的背景下，亚洲股市周三触及七个月高点，投资者大多对略高于预期的美国通胀不以为意，押注这不会破坏今年年中的降息预期。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 02:16:26 GMT</pubDate>
     </item>
@@ -50,14 +57,14 @@
     <item>
       <title>美国众议院将就 TikTok 打击行动进行投票；参议院命运未卜</title>
       <link>https://www.reuters.com/world/us/us-house-vote-tiktok-crackdown-fate-uncertain-senate-2024-03-12/</link>
-      <description><![CDATA[美国众议院计划周三对一项法案进行投票，该法案将给 TikTok 的中国所有者字节跳动大约六个月的时间剥离这款约 1.7 亿美国人使用的短视频应用程序，否则将面临禁令。]]></description>
+      <description><![CDATA[美国众议院计划周三对一项法案进行投票，该法案将给予 TikTok 的中国所有者字节跳动大约六个月的时间剥离这款约 1.7 亿美国人使用的短视频应用程序，否则将面临禁令。]]></description>
       <guid>https://www.reuters.com/world/us/us-house-vote-tiktok-crackdown-fate-uncertain-senate-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 23:25:35 GMT</pubDate>
     </item>
     <item>
       <title>日本太空一号 Kairos 火箭在首飞时爆炸</title>
       <link>https://www.reuters.com/technology/space/japans-space-one-counts-down-inaugural-kairos-rocket-launch-2024-03-12/</link>
-      <description><![CDATA[日本太空一号的小型固体燃料 Kairos 火箭在周三首次发射后不久发生爆炸，该公司试图成为第一家将卫星送入轨道的日本公司。]]></description>
+      <description><![CDATA[Kairos 是日本太空一号制造的小型固体燃料火箭，在周三首次发射后不久发生爆炸，该公司试图成为第一家将卫星送入轨道的日本公司。]]></description>
       <guid>https://www.reuters.com/technology/space/japans-space-one-counts-down-inaugural-kairos-rocket-launch-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 23:12:04 GMT</pubDate>
     </item>
@@ -104,14 +111,7 @@
       <pubDate>Tue, 12 Mar 2024 14:33:43 GMT</pubDate>
     </item>
     <item>
-      <title>意法半导体首席执行官表示，尽管美国芯片大战，中国仍是一个增长市场</title>
-      <link>https://www.reuters.com/technology/stmicroelectronics-ceo-says-china-is-growth-market-despite-us-chip-war-2024-03-12/</link>
-      <description><![CDATA[该公司首席执行官周二表示，尽管中美两国在半导体方面的紧张关系日益加剧，但中国仍然是法国-意大利半导体公司意法半导体的重要增长市场。]]></description>
-      <guid>https://www.reuters.com/technology/stmicroelectronics-ceo-says-china-is-growth-market-despite-us-chip-war-2024-03-12/</guid>
-      <pubDate>Tue, 12 Mar 2024 14:11:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>保时捷在疲软的中国市场中坚持“价值重于销量”的策略</title>
+      <title>保时捷在疲软的中国市场中坚持“价值重于销量”的战略</title>
       <link>https://www.reuters.com/business/autos-transportation/porsche-sticks-value-over-volume-strategy-weakening-china-market-2024-03-12/</link>
       <description><![CDATA[保时捷不会在疲软的中国市场参与激烈的折扣战，而是坚持维持溢价的原则，即使这会损害豪华汽车制造商的市场份额。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/porsche-sticks-value-over-volume-strategy-weakening-china-market-2024-03-12/</guid>
