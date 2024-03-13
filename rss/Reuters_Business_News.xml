@@ -1,37 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 13 Mar 2024 21:51:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 22:30:10 GMT</lastBuildDate>
+    <item>
+      <title>独家：Vista Equity 寻求银行寻求 Solera IPO 消息来源</title>
+      <link>https://www.reuters.com/markets/us/vista-equity-seeks-tap-banks-solera-ipo-sources-2024-03-13/</link>
+      <description><![CDATA[知情人士周三表示，私募股权公司 Vista Equity Partners 正在寻求聘请投资银行来帮助汽车和保险行业软件提供商 Solera 在美国进行首次公开​​募股。]]></description>
+      <guid>https://www.reuters.com/markets/us/vista-equity-seeks-tap-banks-solera-ipo-sources-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 21:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通聘请前 Global X 首席投资官担任 ETF 策略师</title>
+      <link>https://www.reuters.com/business/finance/jpmorgan-hires-former-global-x-chief-investment-officer-etf-strategist-2024-03-13/</link>
+      <description><![CDATA[摩根大通Co周三表示，其资产管理部门已聘请Global X前首席投资官乔恩·迈尔(Jon Maier)领导一项新的全球研究工作，重点关注交易所交易基金(ETF)。]]></description>
+      <guid>https://www.reuters.com/business/finance/jpmorgan-hires-former-global-x-chief-investment-officer-etf-strategist-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 21:36:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 第三次 Starship 试飞获得 FAA 批准</title>
+      <link>https://www.reuters.com/technology/space/spacexs-third-starship-test-flight-gets-faa-green-light-2024-03-13/</link>
+      <description><![CDATA[据该机构网站称，美国联邦航空管理局 (FAA) 周三向 SpaceX 授予了从德克萨斯州试射该公司 Starship 火箭系统的许可证，为另一次早期演示航天器铺平了道路，这对埃隆·马斯克 (Elon Musk) 的卫星发射业务和 NASA 的月球计划至关重要。]]></description>
+      <guid>https://www.reuters.com/technology/space/spacexs-third-starship-test-flight-gets-faa-green-light-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 21:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度 Reliance 收购派拉蒙在维亚康姆的股份18</title>
+      <link>https://www.reuters.com/markets/deals/indias-reliance-buy-paramounts-stake-viacom-18-2024-03-13/</link>
+      <description><![CDATA[印度信实工业公司在一份监管​​文件中表示，该公司已同意以约 5.17 亿美元（428.6 亿印度卢比）的价格收购派拉蒙全球公司在当地娱乐网络 Viacom 18 Media 13.01% 的全部股份。]]></description>
+      <guid>https://www.reuters.com/markets/deals/indias-reliance-buy-paramounts-stake-viacom-18-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 21:04:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>据《华尔街日报》报道，电动汽车初创公司 Fisker 正在为可能的破产申请做准备</title>
+      <link>https://www.reuters.com/business/autos-transportation/ev-start-up-fisker-prepares-possible-bankruptcy-filing-wsj-reports-2024-03-13/</link>
+      <description><![CDATA[据《华尔街日报》周三援引知情人士的话报道，电动汽车初创公司菲斯克已聘请重组顾问协助可能的破产申请。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ev-start-up-fisker-prepares-possible-bankruptcy-filing-wsj-reports-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 21:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Under Armour 创始人普朗克重返首席执行官职位</title>
+      <link>https://www.reuters.com/business/retail-consumer/under-armours-founder-plank-return-ceo-2024-03-13/</link>
+      <description><![CDATA[服装制造商 Under Armour 周三表示，创始人凯文·普兰克 (Kevin Plank) 将从 4 月 1 日起重返公司担任首席执行官。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/under-armours-founder-plank-return-ceo-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 20:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国住宅建筑商 Lennar 因房屋交付量增加而超出第一季度利润预期</title>
+      <link>https://www.reuters.com/business/us-homebuilder-lennar-beats-q1-profit-estimates-higher-home-deliveries-2024-03-13/</link>
+      <description><![CDATA[Lennar Corp 周三公布的第一季度利润高于华尔街预期，原因是现有房屋供应量处于历史低位，导致新房建设需求持续增长。]]></description>
+      <guid>https://www.reuters.com/business/us-homebuilder-lennar-beats-q1-profit-estimates-higher-home-deliveries-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 20:36:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>耶伦表示，尽管中国出口，美国仍将采取行动确保国内电动汽车制造商取得成功</title>
+      <link>https://www.reuters.com/business/autos-transportation/yellen-says-us-moving-ensure-domestic-ev-maker-success-despite-chinas-exports-2024-03-13/</link>
+      <description><![CDATA[美国财政部长珍妮特·耶伦周三表示，面对中国不断增长的电动汽车出口和政府的巨额补贴，乔·拜登总统的政府正在采取措施确保国内电动汽车（EV）行业的成功。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/yellen-says-us-moving-ensure-domestic-ev-maker-success-despite-chinas-exports-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 20:28:35 GMT</pubDate>
+    </item>
     <item>
       <title>联合健康数据泄露引发集体诉讼</title>
       <link>https://www.reuters.com/legal/class-action-lawsuits-pile-up-over-unitedhealth-data-breach-2024-03-13/</link>
       <description><![CDATA[联合健康集团 (UnitedHealth Group) 已遭受至少六起集体诉讼，指控该集团未能保护数百万人的个人数据免受上个月其支付处理部门 Change Healthcare 遭受黑客攻击的影响，而且可能还会出现更多诉讼。]]></description>
       <guid>https://www.reuters.com/legal/class-action-lawsuits-pile-up-over-unitedhealth-data-breach-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 19:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑人银行家对巴克莱银行的种族歧视诉讼败诉</title>
-      <link>https://www.reuters.com/sustainability/society-equity/three-black-bankers-lose-uk-race-discrimination-claim-against-barclays-2024-03-13/</link>
-      <description><![CDATA[三名黑人银行家在伦敦起诉巴克莱银行，要求赔偿总计 5280 万英镑（6670 万美元），指控内容包括种族歧视、骚扰、受害和举报人损害，但他们的案子基本上已经败诉。]]></description>
-      <guid>https://www.reuters.com/sustainability/society-equity/three-black-bankers-lose-uk-race-discrimination-claim-against-barclays-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 17:52:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国卫生部门对联合健康集团黑客攻击展开调查</title>
-      <link>https://www.reuters.com/technology/cybersecurity/hhs-opens-probe-into-hack-unitedhealth-unit-2024-03-13/</link>
-      <description><![CDATA[美国卫生与公众服务部 (HHS) 已对联合健康集团旗下 Change Healthcare 部门遭受的网络攻击展开调查，该攻击导致药房续药和保险索赔处理中断。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/hhs-opens-probe-into-hack-unitedhealth-unit-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 17:41:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 用户可以访问 Le Monde、Prisa Media 的新闻内容</title>
-      <link>https://www.reuters.com/technology/chatgpt-users-get-access-news-content-le-monde-prisa-media-2024-03-13/</link>
-      <description><![CDATA[微软支持的 OpenAI 周三表示，ChatGPT 用户将可以访问 Le Monde 和 Prisa Media 的法语和西班牙语新闻内容，并披露了其与媒体出版物的合作关系。]]></description>
-      <guid>https://www.reuters.com/technology/chatgpt-users-get-access-news-content-le-monde-prisa-media-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 17:38:22 GMT</pubDate>
     </item>
     <item>
       <title>Waymo 开始在洛杉矶提供免费无人驾驶机器人出租车服务</title>
@@ -53,13 +88,6 @@
       <description><![CDATA[制作流行视频游戏《堡垒之夜》的 Epic Games 周三指责苹果违反了管理其利润丰厚的应用商店的禁令，并要求美国法官判定苹果藐视法庭并终止其“虚假”合规行为。]]></description>
       <guid>https://www.reuters.com/legal/epic-games-accuses-apple-violating-app-store-injunction-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 16:35:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国调查人员称波音飞机门塞工作的视频片段被覆盖</title>
-      <link>https://www.reuters.com/business/aerospace-defense/ntsb-says-video-footage-boeing-737-max-9-door-plug-removal-overwritten-2024-03-13/</link>
-      <description><![CDATA[美国国家运输安全委员会 (NTSB) 负责人周三表示，调查人员仍然不知道谁在 1 月 5 日阿拉斯加航空空中紧急事件中涉及的波音 737 MAX 9 门插头上工作，并且视频片段已被覆盖。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/ntsb-says-video-footage-boeing-737-max-9-door-plug-removal-overwritten-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 16:17:40 GMT</pubDate>
     </item>
     <item>
       <title>高盛将恢复对美国房地产的押注，其他投资者警告称将面临更多痛苦</title>
@@ -85,23 +113,9 @@
     <item>
       <title>法院裁定，尽管罚款 50 亿美元，FTC 仍可重新审理 Meta 隐私案</title>
       <link>https://www.reuters.com/legal/transactional/ftc-can-reopen-meta-privacy-case-despite-5-bln-fine-court-rules-2024-03-13/</link>
-      <description><![CDATA[美国一家上诉法院裁定，Meta 目前无法阻止美国联邦贸易委员会重新对其 Facebook 部门的隐私行为展开调查，尽管 Meta 表示反对，称其已支付 50 亿美元罚款并同意采取一系列保障措施。]]></description>
+      <description><![CDATA[美国上诉法院裁定，Meta 目前无法阻止美国联邦贸易委员会重新对其 Facebook 部门的隐私行为展开调查，尽管 Meta 表示反对，称其已支付 50 亿美元罚款并同意采取一系列保障措施。]]></description>
       <guid>https://www.reuters.com/legal/transactional/ftc-can-reopen-meta-privacy-case-despite-5-bln-fine-court-rules-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 13:26:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>比特币减半：什么时候发生以及对价格意味着什么？</title>
-      <link>https://www.reuters.com/technology/what-is-bitcoins-halving-does-it-matter-2024-03-13/</link>
-      <description><![CDATA[随着比特币的价格达到新的高度，人们的注意力开始转向其即将到来的“减半”以及它是否在其上涨中发挥了作用。]]></description>
-      <guid>https://www.reuters.com/technology/what-is-bitcoins-halving-does-it-matter-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 12:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿迪达斯老板表示超级碗后与叶的会面没有计划</title>
-      <link>https://www.reuters.com/business/retail-consumer/adidas-boss-says-meeting-with-ye-after-superbowl-not-planned-2024-03-13/</link>
-      <description><![CDATA[阿迪达斯首席执行官比约恩·古尔登 (Bjorn Gulden) 周三表示，上个月超级碗比赛结束后，阿迪达斯首席执行官比约恩·古尔登 (Bjorn Gulden) 与说唱歌手叶在 Instagram 上发布的帖子引发了猜测，但他并没有讨论业务。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/adidas-boss-says-meeting-with-ye-after-superbowl-not-planned-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Dollar Tree 未达到假日季度预期，关闭近 1,000 家门店</title>
@@ -111,23 +125,16 @@
       <pubDate>Wed, 13 Mar 2024 10:49:52 GMT</pubDate>
     </item>
     <item>
-      <title>礼来公司与亚马逊合作提供 Zepbound 和其他药物</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/lilly-partners-with-amazon-deliver-zepbound-other-drugs-2024-03-13/</link>
-      <description><![CDATA[礼来公司周三表示，它已与亚马逊的药房部门合作，将处方药发送到其直接面向消费者的服务 LillyDirect。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/lilly-partners-with-amazon-deliver-zepbound-other-drugs-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 10:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国众议院通过法案迫使字节跳动剥离 TikTok 或面临禁令</title>
+      <title>美国众议院通过法案，迫使字节跳动剥离 TikTok，否则将面临禁令</title>
       <link>https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/</link>
       <description><![CDATA[美国众议院周三以压倒性多数通过了一项法案，该法案将给予 TikTok 的中国所有者字节跳动大约六个月的时间剥离这款短视频应用程序的美国资产，否则将面临禁令，这是自特朗普政府以来该应用程序面临的最大威胁。]]></description>
       <guid>https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 10:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>标准普尔 500 指数几乎持平，但芯片股下跌；未来更多通胀数据</title>
+      <title>随着芯片制造商放松政策，华尔街股市收盘大多走低；未来通胀数据</title>
       <link>https://www.reuters.com/markets/us/futures-steady-investors-brace-more-economic-data-2024-03-13/</link>
-      <description><![CDATA[周三下午，标准普尔 500 指数几乎没有变化，英伟达和其他芯片制造商的股价下跌，而投资者则为周四更多的通胀数据做好准备。]]></description>
+      <description><![CDATA[标准普尔 500 指数和纳斯达克指数周三小幅走低，因投资者在芯片制造商股票上获利了结，同时他们在下周美联储会议之前等待生产者价格数据和有关通胀趋势的进一步线索。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-steady-investors-brace-more-economic-data-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 09:37:39 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[埃隆·马斯克 (Elon Musk) 周三参观了特斯拉位于德国格伦海德的欧洲超级工厂，该工厂上周附近一座输电塔遭到纵火袭击，导致停电、生产停止，损失惨重，目前已恢复运营。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/production-up-running-teslas-factory-germany-rbb-reports-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 07:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>美股可能并未出现泡沫，但回调可能即将来临</title>
-      <link>https://www.reuters.com/markets/us/us-stocks-may-not-be-bubble-pullback-could-be-near-2024-03-13/</link>
-      <description><![CDATA[一些市场参与者认为，尽管目前尚不清楚股市是处于泡沫还是强劲的牛市中，但美国股市的持续涨势即将暂停。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-stocks-may-not-be-bubble-pullback-could-be-near-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 05:08:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

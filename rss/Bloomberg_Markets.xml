@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 13 Mar 2024 22:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 22:30:02 GMT</lastBuildDate>
     <item>
       <title>Reddit IPO路演预计2024年销售额增长超过20%</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-13/reddit-sees-more-than-20-sales-growth-in-2024-in-ipo-roadshow</link>
@@ -22,7 +22,7 @@
     <item>
       <title>标准普尔将阿根廷债务互换评级下调至选择性违约</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-13/argentina-downgraded-to-selective-default-by-s-p-on-debt-swap</link>
-      <description><![CDATA[在政府推动投资者将债券换成到期日较晚的新票据后，周三，标准普尔全球评级将阿根廷地方债务评级下调至选择性违约。]]></description>
+      <description><![CDATA[周三，在政府推动投资者将债券换成到期日较晚的新票据后，标准普尔全球评级将阿根廷地方债务评级下调至选择性违约。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-13/argentina-downgraded-to-selective-default-by-s-p-on-debt-swap</guid>
       <pubDate>Wed, 13 Mar 2024 20:38:36 GMT</pubDate>
     </item>
@@ -60,6 +60,13 @@
       <description><![CDATA[摩根大通全球大宗商品策略主管 Natasha Kaneva 在彭博电视上讨论铜、黄金和石油价格的前景。]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-03-13/where-jpmorgan-s-kaneva-sees-copper-gold-and-oil-headed-video</guid>
       <pubDate>Wed, 13 Mar 2024 20:01:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cemex 达到“北极星”标准普尔将其提升至投资级别</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-13/cemex-lifted-to-investment-grade-by-s-p-on-lower-leverage</link>
+      <description><![CDATA[Cemex SAB 终于达到了多年来所谓的“北极星”：标准普尔全球评级的投资级地位。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-13/cemex-lifted-to-investment-grade-by-s-p-on-lower-leverage</guid>
+      <pubDate>Wed, 13 Mar 2024 19:51:21 GMT</pubDate>
     </item>
     <item>
       <title>彭博市场与 Sonali Basak 03/13/2024</title>
@@ -113,7 +120,7 @@
     <item>
       <title>帕里哈皮蒂亚的社会资本在调查后解雇了两名合伙人</title>
       <link>https://www.bloomberg.com/news/videos/2024-03-13/palihapitiya-s-social-capital-fires-two-partners-video</link>
-      <description><![CDATA[根据彭博社审阅的一封致投资者的信函，由播客兼 Facebook 前高管查马斯·帕里哈皮蒂亚 (Chamath Palihapitiya) 领导的风险投资公司 Social Capital 以未公开的“情况”为由解雇了两名合伙人。彭博社的马克·古尔曼 (Mark Gurman) 与埃德·勒德洛 (Ed Ludlow) 和卡罗琳·海德 (Caroline Hyde) 共同主持“彭博科技”节目。 （来源：彭博社）]]></description>
+      <description><![CDATA[据彭博社审阅的一封致投资者的信函显示，由播客兼 Facebook 前高管查马斯·帕里哈皮蒂亚 (Chamath Palihapitiya) 领导的风险投资公司 Social Capital 以未公开的“情况”为由解雇了两名合伙人。彭博社的马克·古尔曼 (Mark Gurman) 与埃德·勒德洛 (Ed Ludlow) 和卡罗琳·海德 (Caroline Hyde) 共同主持“彭博科技”节目。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-03-13/palihapitiya-s-social-capital-fires-two-partners-video</guid>
       <pubDate>Wed, 13 Mar 2024 18:56:17 GMT</pubDate>
     </item>
@@ -153,13 +160,6 @@
       <pubDate>Wed, 13 Mar 2024 18:43:05 GMT</pubDate>
     </item>
     <item>
-      <title>美联储称基差贸易“显着”小于预期</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-13/fed-says-basis-trade-significantly-smaller-than-estimated</link>
-      <description><![CDATA[美联储研究人员表示，美国国债基差交易（一种引起监管机构审查的债券市场策略）的金额可能只有常用估计值的三分之一。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-13/fed-says-basis-trade-significantly-smaller-than-estimated</guid>
-      <pubDate>Wed, 13 Mar 2024 18:22:13 GMT</pubDate>
-    </item>
-    <item>
       <title>美国卫生监管机构对 UnitedHealth 网络攻击展开调查</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-13/us-health-regulators-open-probe-in-unitedhealth-unh-cyber-attack</link>
       <description><![CDATA[美国卫生当局正在调查联合健康集团旗下 Change Healthcare 部门遭受的网络攻击是否涉及个人健康信息泄露。]]></description>
@@ -197,7 +197,7 @@
     <item>
       <title>殷拓 (EQT) 旗下高德玛 (Galderma) 设定 26 亿美元 IPO 条款</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-13/eqt-s-skincare-business-galderma-sets-terms-for-2-6-billion-ipo</link>
-      <description><![CDATA[护肤品公司 Galderma Group AG 设定了 23 亿瑞士法郎（合 26 亿美元）首次公开募股的价格范围，这将是自 2022 年保时捷 AG 以来欧洲最大规模的上市。]]></description>
+      <description><![CDATA[护肤公司 Galderma Group AG 设定了 23 亿瑞士法郎（合 26 亿美元）首次公开募股的价格范围，这将是自 2022 年保时捷 AG 以来欧洲最大规模的上市。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-13/eqt-s-skincare-business-galderma-sets-terms-for-2-6-billion-ipo</guid>
       <pubDate>Wed, 13 Mar 2024 08:14:51 GMT</pubDate>
     </item>
