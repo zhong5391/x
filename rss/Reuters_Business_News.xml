@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 13 Mar 2024 14:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 15:20:40 GMT</lastBuildDate>
     <item>
       <title>法院裁定，尽管罚款 50 亿美元，FTC 仍可重新审理 Meta 隐私案</title>
       <link>https://www.reuters.com/legal/transactional/ftc-can-reopen-meta-privacy-case-despite-5-bln-fine-court-rules-2024-03-13/</link>
@@ -99,7 +99,7 @@
     <item>
       <title>纵火袭击后恢复生产，马斯克参观特斯拉德国工厂</title>
       <link>https://www.reuters.com/business/autos-transportation/production-up-running-teslas-factory-germany-rbb-reports-2024-03-13/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 周三抵达特斯拉位于德国格伦海德的欧洲超级工厂，上周附近一座输电塔遭到纵火袭击，导致工厂停电，造成代价高昂的停电，该工厂已恢复运营。]]></description>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 周三抵达特斯拉位于德国格伦海德的欧洲超级工厂，上周附近一座输电塔遭到纵火袭击，导致工厂停产，造成代价高昂的停电，该工厂已恢复运营。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/production-up-running-teslas-factory-germany-rbb-reports-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 07:35:02 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>美股可能并未出现泡沫，但回调可能即将来临</title>
       <link>https://www.reuters.com/markets/us/us-stocks-may-not-be-bubble-pullback-could-be-near-2024-03-13/</link>
-      <description><![CDATA[一些市场参与者认为，尽管目前尚不清楚股市是处于泡沫还是强劲的牛市中，但美国股市的持续上涨即将暂停。]]></description>
+      <description><![CDATA[一些市场参与者认为，尽管目前尚不清楚股市是处于泡沫还是强劲的牛市中，但美国股市的持续涨势即将暂停。]]></description>
       <guid>https://www.reuters.com/markets/us/us-stocks-may-not-be-bubble-pullback-could-be-near-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 05:08:09 GMT</pubDate>
     </item>
