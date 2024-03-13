@@ -1,70 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 13 Mar 2024 10:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2024 11:19:04 GMT</lastBuildDate>
     <item>
-      <title>新加坡电信驳斥媒体关于出售澳大利亚子公司 Optus 的报道</title>
+      <title>富国银行将美联储首次降息的预期推迟至六月</title>
+      <link>https://www.reuters.com/markets/us/wells-fargo-pushes-back-its-expectation-first-fed-rate-cut-june-2024-03-13/</link>
+      <description><![CDATA[富国银行周三表示，预计美联储将于 6 月份开始降息，而此前的预期是 5 月份降息。]]></description>
+      <guid>https://www.reuters.com/markets/us/wells-fargo-pushes-back-its-expectation-first-fed-rate-cut-june-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 10:53:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dollar Tree 公布季度亏损，并因门店关闭计划产生超过 10 亿美元的费用</title>
+      <link>https://www.reuters.com/business/dollar-tree-close-nearly-1000-stores-2024-03-13/</link>
+      <description><![CDATA[Dollar Tree 计划关闭近 1,000 家商店，并承担了超过 10 亿美元的商誉减值费用，周三该公司出现季度亏损。]]></description>
+      <guid>https://www.reuters.com/business/dollar-tree-close-nearly-1000-stores-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 10:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 将在 YouTube 潜在对峙中测试完整音乐视频</title>
+      <link>https://www.reuters.com/technology/spotify-test-full-music-videos-potential-youtube-faceoff-2024-03-13/</link>
+      <description><![CDATA[瑞典音乐流媒体公司 Spotify 正在为高级订阅者推出有限测试版的完整长度音乐视频，进军 YouTube 近二十年主导的领域。]]></description>
+      <guid>https://www.reuters.com/technology/spotify-test-full-music-videos-potential-youtube-faceoff-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 10:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>大众汽车表示其ID.UNYX车型已获得中国政府批准</title>
+      <link>https://www.reuters.com/business/autos-transportation/volkswagen-says-it-has-received-chinese-government-approval-idunyx-model-2024-03-13/</link>
+      <description><![CDATA[大众汽车集团（中国）周三表示，其唯一控股的合资企业安徽大众汽车的首款车型已获得中国政府批准。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-says-it-has-received-chinese-government-approval-idunyx-model-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 10:11:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>礼来公司与亚马逊合作提供 Zepbound 和其他药物</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/lilly-partners-with-amazon-deliver-zepbound-other-drugs-2024-03-13/</link>
+      <description><![CDATA[礼来公司周三表示，它已与亚马逊的药房部门合作，将处方药发送到其直接面向消费者的服务 LillyDirect。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/lilly-partners-with-amazon-deliver-zepbound-other-drugs-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 10:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：人工智能避开消费物价指数，中国再次陷入困境</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-graphics-2024-03-13/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-graphics-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 10:05:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国众议院将投票迫使字节跳动剥离 TikTok，否则将面临禁令</title>
+      <link>https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/</link>
+      <description><![CDATA[美国众议院计划周三对一项法案进行投票，该法案将给予 TikTok 的中国所有者字节跳动大约六个月的时间剥离这款约 1.7 亿美国人使用的短视频应用程序的美国资产，否则将面临禁令。]]></description>
+      <guid>https://www.reuters.com/technology/us-house-vote-force-bytedance-divest-tiktok-or-face-ban-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 10:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者等待更多经济数据，期货稳定</title>
+      <link>https://www.reuters.com/markets/us/futures-steady-investors-brace-more-economic-data-2024-03-13/</link>
+      <description><![CDATA[美国股指期货周三低迷，投资者等待本周一系列经济数据，包括生产者价格和零售销售数据，以获取有关美联储降息路径的线索。]]></description>
+      <guid>https://www.reuters.com/markets/us/futures-steady-investors-brace-more-economic-data-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 09:37:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称，新加坡电信希望将 Optus 的大量股份出售给 Brookfield</title>
       <link>https://www.reuters.com/business/media-telecom/singtel-shares-jump-4-before-being-halted-after-media-report-optus-sale-2024-03-13/</link>
-      <description><![CDATA[东南亚最大的电信运营商新加坡电信周三否认了媒体报道，称该公司正在就出售其澳大利亚子公司 Optus 进行深入谈判。]]></description>
+      <description><![CDATA[一位直接了解此事的消息人士周三表示，新加坡电信 (SingTel) 正寻求将其全资澳大利亚子公司 Optus 的大量股权出售给加拿大私募股权巨头 Brookfield。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/singtel-shares-jump-4-before-being-halted-after-media-report-optus-sale-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 08:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>rbb 报道称，特斯拉德国工厂已开始生产并投入运行</title>
+      <title>rbb 报道，特斯拉德国工厂已开始生产并投入运行</title>
       <link>https://www.reuters.com/business/autos-transportation/production-up-running-teslas-factory-germany-rbb-reports-2024-03-13/</link>
       <description><![CDATA[据当地广播电台 rbb 报道，特斯拉位于德国格伦海德的欧洲超级工厂于周三再次恢复生产，此前附近一座输电塔遭到纵火袭击，导致该工厂长达一周的停电，损失惨重。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/production-up-running-teslas-factory-germany-rbb-reports-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 07:35:02 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士交易所运营商 SIX 公布减值损失 11.5 亿美元</title>
-      <link>https://www.reuters.com/business/swiss-exchange-operator-six-posts-115-bln-loss-impairments-2024-03-13/</link>
-      <description><![CDATA[瑞士证券交易所运营商 SIX 报告称，在计入两项先前标记的非现金减值后，2023 年亏损 10.1 亿瑞士法郎（11.5 亿美元）。]]></description>
-      <guid>https://www.reuters.com/business/swiss-exchange-operator-six-posts-115-bln-loss-impairments-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 07:33:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>上田表示，日本央行认为工资谈判是刺激退出时机的关键</title>
-      <link>https://www.reuters.com/markets/asia/boj-views-wage-talks-key-timing-stimulus-exit-ueda-says-2024-03-13/</link>
-      <description><![CDATA[日本央行行长上田一夫表示，企业和工会之间正在进行的年度春季工资谈判对于决定何时逐步取消大规模刺激计划至关重要。]]></description>
-      <guid>https://www.reuters.com/markets/asia/boj-views-wage-talks-key-timing-stimulus-exit-ueda-says-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 07:20:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>首都银行在最后一刻的救助方案后公布年度亏损较小</title>
-      <link>https://www.reuters.com/business/metro-bank-posts-smaller-annual-loss-2024-03-13/</link>
-      <description><![CDATA[英国银行Metro Bank周三公布年度亏损较小，这得益于其成本削减措施以及在最后时刻注资后资金流出在年底趋于稳定的支撑。]]></description>
-      <guid>https://www.reuters.com/business/metro-bank-posts-smaller-annual-loss-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 07:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>大众汽车表示新车型应取消西欧订单</title>
+      <title>大众汽车表示，严峻的市场形势将影响 2024 年汽车销量增长</title>
       <link>https://www.reuters.com/business/autos-transportation/volkswagen-expects-order-growth-western-europe-thanks-new-vehicles-2024-03-13/</link>
-      <description><![CDATA[大众汽车周三表示，预计未来几个月西欧的汽车订单将因包括纯电动汽车在内的新车型而增加。]]></description>
+      <description><![CDATA[由于经济前景黯淡和竞争日益激烈，大众汽车预计今年汽车销量将增长 3%，较 2023 年大幅下降。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/volkswagen-expects-order-growth-western-europe-thanks-new-vehicles-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 06:43:34 GMT</pubDate>
     </item>
     <item>
-      <title>日本加息预示着金融市场的新时代</title>
-      <link>https://www.reuters.com/markets/rates-bonds/japan-rate-rises-herald-new-era-financial-markets-2024-03-13/</link>
-      <description><![CDATA[日本股市突破三年来的高点仅仅几周后，该国的金融市场就出现了另一种现象，这一现象是这一代人中最好的时期所未见的：利率上升。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/japan-rate-rises-herald-new-era-financial-markets-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 06:37:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zara 所有者 Inditex 因高端时尚而迎来春季季</title>
-      <link>https://www.reuters.com/business/retail-consumer/zara-owner-inditexs-profit-risesfalls-54-bln-euros-2023-bet-upmarket-fashion-2024-03-13/</link>
-      <description><![CDATA[Zara 母公司 Inditex 春季上半年销售额按固定汇率计算增长了 11%，这得益于高档时装的推动，并持续保持强劲势头，2023 年销售额增长超过主要竞争对手 H&amp;M。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/zara-owner-inditexs-profit-risesfalls-54-bln-euros-2023-bet-upmarket-fashion-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 06:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿迪达斯 30 年来首次亏损，但仍坚持派息</title>
+      <title>阿迪达斯30年来首次亏损并对美国发出警告</title>
       <link>https://www.reuters.com/business/retail-consumer/adidas-warns-2024-sales-decline-over-stocked-north-america-market-2024-03-13/</link>
-      <description><![CDATA[德国运动服装巨头阿迪达斯周三公布了 2023 年 30 多年来的首次亏损，首席执行官比约恩·古尔登 (Bjorn Gulden) 在与说唱歌手坎耶·韦斯特 (Kanye West) 分手后，致力于扭转该品牌的局面。]]></description>
+      <description><![CDATA[德国运动服装巨头阿迪达斯周三公布了 30 多年来的首次年度亏损，并警告称，随着美国运动服装零售商应对高库存，北美销售额将再次下降。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/adidas-warns-2024-sales-decline-over-stocked-north-america-market-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 06:34:19 GMT</pubDate>
     </item>
@@ -76,25 +97,11 @@
       <pubDate>Wed, 13 Mar 2024 06:11:02 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士信贷倒闭一年后欧洲银行业的复苏之路坎坷</title>
-      <link>https://www.reuters.com/business/european-banks-bumpy-recovery-year-after-credit-suisse-collapse-2024-03-13/</link>
-      <description><![CDATA[一年前，瑞士信贷银行濒临崩溃，恐慌导致欧洲银行股暴跌，违约保险成本飙升。]]></description>
-      <guid>https://www.reuters.com/business/european-banks-bumpy-recovery-year-after-credit-suisse-collapse-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 06:07:23 GMT</pubDate>
-    </item>
-    <item>
       <title>抵押贷款违约率上升给中国家庭带来更多痛苦</title>
       <link>https://www.reuters.com/world/china/rising-mortgage-defaults-bring-more-pain-chinese-households-2024-03-13/</link>
       <description><![CDATA[在中国南方城市，前金融工作者雷晓宇因抵押贷款拖欠而被收债人追捕，她不再接听电话，试图推迟不可避免的事情。]]></description>
       <guid>https://www.reuters.com/world/china/rising-mortgage-defaults-bring-more-pain-chinese-households-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 06:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>HelloFresh 投资者难以接受战略调整</title>
-      <link>https://www.reuters.com/business/retail-consumer/hellofresh-investors-struggle-swallow-strategy-revamp-2024-03-13/</link>
-      <description><![CDATA[投资者和分析师表示，HelloFresh 需要削减成本并阻止餐包订户外流，以提高利润并重振股价，但他们仍对扩大其新兴的即食食品部门的计划感到信服。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/hellofresh-investors-struggle-swallow-strategy-revamp-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 06:06:36 GMT</pubDate>
     </item>
     <item>
       <title>随着对华贸易的蓬勃发展，一些俄罗斯企业蓬勃发展</title>
@@ -113,7 +120,7 @@
     <item>
       <title>美股可能并未出现泡沫，但回调可能即将来临</title>
       <link>https://www.reuters.com/markets/us/us-stocks-may-not-be-bubble-pullback-could-be-near-2024-03-13/</link>
-      <description><![CDATA[一些市场参与者认为，尽管目前尚不清楚股市是处于泡沫还是强劲的牛市中，但美国股市的持续涨势即将暂停。]]></description>
+      <description><![CDATA[一些市场参与者认为，尽管目前尚不清楚股市是处于泡沫还是强劲的牛市中，但美国股市的持续上涨即将暂停。]]></description>
       <guid>https://www.reuters.com/markets/us/us-stocks-may-not-be-bubble-pullback-could-be-near-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 05:08:09 GMT</pubDate>
     </item>
@@ -125,13 +132,6 @@
       <pubDate>Wed, 13 Mar 2024 05:05:46 GMT</pubDate>
     </item>
     <item>
-      <title>股市超越美国通胀率，创历史新高</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-13/</link>
-      <description><![CDATA[在华尔街创下历史新高的背景下，亚洲股市周三触及七个月高点，投资者大多对略高于预期的美国通胀不以为意，押注这不会破坏今年年中的降息预期。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-13/</guid>
-      <pubDate>Wed, 13 Mar 2024 02:16:26 GMT</pubDate>
-    </item>
-    <item>
       <title>2023年全球企业股息将达到创纪录的1.66万亿美元</title>
       <link>https://www.reuters.com/markets/global-corporate-dividends-hit-record-166-trillion-2023-2024-03-13/</link>
       <description><![CDATA[周三的一份报告显示，2023 年全球企业股息创下 1.66 万亿美元的历史新高，其中银行派发创纪录的股息占增长的一半。]]></description>
@@ -141,7 +141,7 @@
     <item>
       <title>美国航空公司警告称，由于安全危机，波音飞机将出现更多延误</title>
       <link>https://www.reuters.com/business/aerospace-defense/southwest-cuts-delivery-forecast-boeing-2024-03-12/</link>
-      <description><![CDATA[美国航空公司周二警告称，由于波音公司的安全危机对航空业造成的打击进一步恶化，导致波音飞机交付延误增多，其增加运力的计划受到质疑。]]></description>
+      <description><![CDATA[美国航空公司周二警告称，由于波音公司的安全危机对航空业造成的打击进一步恶化，波音飞机交付延误增多，其增加运力的计划受到质疑。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/southwest-cuts-delivery-forecast-boeing-2024-03-12/</guid>
       <pubDate>Tue, 12 Mar 2024 10:46:12 GMT</pubDate>
     </item>
