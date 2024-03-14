@@ -1,23 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 14 Mar 2024 15:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 16:29:21 GMT</lastBuildDate>
     <item>
-      <title>NYCB 在错过截止日期后向 SEC 提交年度报告</title>
-      <link>https://www.reuters.com/markets/us/nycb-files-annual-report-with-sec-after-missing-deadline-2024-03-14/</link>
-      <description><![CDATA[纽约社区银行周四向美国证券交易委员会提交了年度报告，距监管机构规定的截止日期已经过去一周多了。]]></description>
-      <guid>https://www.reuters.com/markets/us/nycb-files-annual-report-with-sec-after-missing-deadline-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 14:08:00 GMT</pubDate>
+      <title>IBGE 数据显示巴西屠宰记录使其成为全球肉类之王</title>
+      <link>https://www.reuters.com/markets/commodities/brazil-slaughtering-records-make-it-global-meat-king-ibge-data-shows-2024-03-14/</link>
+      <description><![CDATA[根据国家人口普查局周四发布的 2023 年数据，巴西肉类公司加工了前所未有的鸡肉和生猪数量，并创下了历史上第二高的牛屠宰水平。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/brazil-slaughtering-records-make-it-global-meat-king-ibge-data-shows-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 15:53:39 GMT</pubDate>
     </item>
     <item>
-      <title>预计 2024 年德国家庭太阳能电池销量将增长 26%</title>
-      <link>https://www.reuters.com/business/energy/sales-solar-batteries-german-homes-seen-rising-26-2024-2024-03-14/</link>
-      <description><![CDATA[行业协会 BVES 周四表示，随着越来越多的家庭选择更便宜的可再生能源供应，今年德国家用太阳能电池的销量可能会增长 26%。]]></description>
-      <guid>https://www.reuters.com/business/energy/sales-solar-batteries-german-homes-seen-rising-26-2024-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 14:04:48 GMT</pubDate>
+      <title>独家：花旗集团就欺凌指控调查高级 IPO 银行家</title>
+      <link>https://www.reuters.com/business/citigroup-probes-senior-ipo-banker-over-bullying-claims-2024-03-14/</link>
+      <description><![CDATA[四名直接了解此事的人士表示，花旗集团正在调查至少一名员工对一名从事首次公开募股工作的美国高级银行家提出的工作场所骚扰指控。]]></description>
+      <guid>https://www.reuters.com/business/citigroup-probes-senior-ipo-banker-over-bullying-claims-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 15:33:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>马士基首席执行官表示，集装箱运价已降至不可持续的水平</title>
+      <link>https://www.reuters.com/markets/europe/maersk-ceo-says-container-rates-have-fallen-unsustainable-levels-2024-03-14/</link>
+      <description><![CDATA[马士基首席执行官文森特·克莱尔周四在集团年度股东大会上表示，未来几年全球集装箱运输市场将面临运力过剩的局面，客户支付的运费已降至不可持续的水平。]]></description>
+      <guid>https://www.reuters.com/markets/europe/maersk-ceo-says-container-rates-have-fallen-unsustainable-levels-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 15:29:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>塞拉俱乐部起诉美国证券交易委员会削弱气候风险披露规则</title>
+      <link>https://www.reuters.com/legal/sierra-club-sues-us-sec-weakening-climate-risk-disclosure-rules-2024-03-14/</link>
+      <description><![CDATA[一家主要环保组织提起诉讼，质疑美国证券交易委员会发布的新规定，要求上市公司报告气候相关风险，认为这些规定在保护投资者方面做得不够。]]></description>
+      <guid>https://www.reuters.com/legal/sierra-club-sues-us-sec-weakening-climate-risk-disclosure-rules-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 15:21:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>上汽名爵将于夏季开设第二个欧洲零部件中心</title>
+      <link>https://www.reuters.com/business/autos-transportation/saics-mg-open-second-europe-parts-centre-by-summer-2024-03-14/</link>
+      <description><![CDATA[中国汽车制造商上汽集团旗下的名爵汽车发言人周四告诉路透社，该公司将于 2024 年夏季在法国开设第二个欧洲零部件中心，以满足该国对其汽车不断增长的需求。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/saics-mg-open-second-europe-parts-centre-by-summer-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 15:21:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于帮派暴力，皇家加勒比暂停对海地拉巴迪的游轮访问</title>
+      <link>https://www.reuters.com/world/americas/royal-caribbean-suspends-cruise-visits-haitis-labadee-amid-gang-violence-2024-03-14/</link>
+      <description><![CDATA[皇家加勒比集团一位高级管理人员周四在脸书上发帖称，在海地帮派暴力事件数月不断升级后，皇家加勒比集团已在未来 7 天内暂停前往海地僻静半岛拉巴地的游轮游览。]]></description>
+      <guid>https://www.reuters.com/world/americas/royal-caribbean-suspends-cruise-visits-haitis-labadee-amid-gang-violence-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 15:17:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥驰亚增资 24 亿美元进行股票回购，上调百威英博股份出售的盈利预测</title>
+      <link>https://www.reuters.com/markets/deals/altria-adds-24-bln-share-repurchase-kitty-lifts-earnings-forecast-ab-inbev-stake-2024-03-14/</link>
+      <description><![CDATA[奥驰亚集团周四将其股票回购计划扩大了 24 亿美元，并提高了年度利润预期，此前这家万宝路啤酒制造商同意出售其在啤酒制造商百威英博 (Anheuser-Busch InBev) 约 10% 的股份。]]></description>
+      <guid>https://www.reuters.com/markets/deals/altria-adds-24-bln-share-repurchase-kitty-lifts-earnings-forecast-ab-inbev-stake-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 15:16:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通因贸易报告不充分被罚款近3.5亿美元</title>
+      <link>https://www.reuters.com/business/finance/jpmorgan-pay-nearly-350-million-penalties-inadequate-trade-reporting-2024-03-14/</link>
+      <description><![CDATA[摩根大通美联储周四宣布，该公司因监控公司和客户交易活动是否存在市场不当行为的计划不完善而被美国两家银行监管机构处以 3.482 亿美元的罚款。]]></description>
+      <guid>https://www.reuters.com/business/finance/jpmorgan-pay-nearly-350-million-penalties-inadequate-trade-reporting-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 15:05:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>资产管理公司表示，美国股票结算速度加快对欧洲构成“系统性风险”</title>
+      <link>https://www.reuters.com/markets/us/faster-us-stock-settlement-poses-systemic-risk-europe-asset-managers-say-2024-03-14/</link>
+      <description><![CDATA[欧洲资产管理行业周四表示，除非市场参与者有更多时间准备美元购买股票，否则华尔街将完成股票交易所需时间减半的举措将在欧洲造成“系统性风险”。]]></description>
+      <guid>https://www.reuters.com/markets/us/faster-us-stock-settlement-poses-systemic-risk-europe-asset-managers-say-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 15:05:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arkhouse表示正在与梅西百货就尽职调查进行谈判，以推动更高的出价</title>
+      <link>https://www.reuters.com/markets/deals/arkhouse-macys-talks-due-diligence-amid-push-higher-bid-2024-03-14/</link>
+      <description><![CDATA[梅西百货的投资者 Arkhouse Management 周四表示，美国百货公司正在与这家投资公司进行谈判，以就更高报价的前景进行尽职调查。]]></description>
+      <guid>https://www.reuters.com/markets/deals/arkhouse-macys-talks-due-diligence-amid-push-higher-bid-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 14:29:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>NYCB 出售部分贷款以获取收益，旨在将签名添加到财务报告中</title>
+      <link>https://www.reuters.com/markets/us/nycb-files-annual-report-with-sec-after-missing-deadline-2024-03-14/</link>
+      <description><![CDATA[纽约社区银行在周四的年度报告中表示，该银行已经出售了一些贷款以获取收益，并正在努力将倒闭的贷款机构 Signature Bank 纳入其财务报告流程。]]></description>
+      <guid>https://www.reuters.com/markets/us/nycb-files-annual-report-with-sec-after-missing-deadline-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 14:08:00 GMT</pubDate>
     </item>
     <item>
       <title>汽油、食品提振美国二月份生产者价格</title>
@@ -27,58 +90,9 @@
       <pubDate>Thu, 14 Mar 2024 13:31:16 GMT</pubDate>
     </item>
     <item>
-      <title>拜登称美国钢铁公司必须保持国内所有和经营</title>
-      <link>https://www.reuters.com/markets/us/biden-say-us-steel-must-remain-domestically-owned-operated-2024-03-14/</link>
-      <description><![CDATA[美国总统乔·拜登将在周四的一份声明中表示，反对拟议的合并，美国钢铁公司（日本新日铁公司以 149 亿美元收购的目标）必须继续是一家美国本土拥有和经营的公司。]]></description>
-      <guid>https://www.reuters.com/markets/us/biden-say-us-steel-must-remain-domestically-owned-operated-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 13:27:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>希尔顿将收购Graduate Hotels，这是自1999年以来的首次品牌收购</title>
-      <link>https://www.reuters.com/markets/deals/hilton-buy-graduate-hotels-first-brand-acquisition-since-1999-2024-03-14/</link>
-      <description><![CDATA[希尔顿周四表示，将以 2.1 亿美元的价格从 Adventurous Journeys Capital Partners 手中收购 Grader Hotels，这是其二十多年来的首次品牌收购，因为酒店业的压力创造了整合的机会。]]></description>
-      <guid>https://www.reuters.com/markets/deals/hilton-buy-graduate-hotels-first-brand-acquisition-since-1999-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 13:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟调查速卖通可能存在的非法在线产品</title>
-      <link>https://www.reuters.com/technology/eu-probes-aliexpress-over-possibly-illegal-online-products-2024-03-14/</link>
-      <description><![CDATA[周四，欧盟委员会对传播潜在非法和色情材料展开调查，这是继社交媒体平台 X 和 TikTok 之后的第三次此类调查，阿里巴巴旗下速卖通可能面临巨额罚款。]]></description>
-      <guid>https://www.reuters.com/technology/eu-probes-aliexpress-over-possibly-illegal-online-products-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 13:12:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>意大利埃尼集团提高支出，押注能源转型</title>
-      <link>https://www.reuters.com/business/energy/italys-eni-increases-investor-reward-updated-strategy-2024-03-14/</link>
-      <description><![CDATA[意大利能源集团埃尼表示，预计到 2027 年资产组合管理净收益将达到 80 亿欧元（87 亿美元），因此将把分配政策提高到运营现金流 (CFFO) 的 30% 至 35%。]]></description>
-      <guid>https://www.reuters.com/business/energy/italys-eni-increases-investor-reward-updated-strategy-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 13:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>MicroStrategy 本月发行第二笔可转换债券以购买更多比特币</title>
-      <link>https://www.reuters.com/technology/microstrategy-offers-second-convertible-debt-10-days-buy-more-bitcoin-2024-03-14/</link>
-      <description><![CDATA[MicroStrategy 选择在不到 10 天内第二次通过发行可转换债券筹集资金，以进一步增加其对蓬勃发展的比特币的投资。]]></description>
-      <guid>https://www.reuters.com/technology/microstrategy-offers-second-convertible-debt-10-days-buy-more-bitcoin-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 13:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>经济数据公布后，交易员仍押注美联储六月降息</title>
-      <link>https://www.reuters.com/markets/us/traders-stick-bets-june-fed-rate-cut-after-economic-data-2024-03-14/</link>
-      <description><![CDATA[周四报告的生产者价格强于预期，消费者支出弱于预期，这对金融市场对美联储将于 6 月开始降息的押注没有多少影响，该押注基于以美联储政策利率结算的期货合约价格。]]></description>
-      <guid>https://www.reuters.com/markets/us/traders-stick-bets-june-fed-rate-cut-after-economic-data-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 12:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>意大利依维柯集团预计到 2028 年收入将增长 20%，寻求合作</title>
-      <link>https://www.reuters.com/business/autos-transportation/italys-iveco-group-sees-20-revenue-growth-2028-it-expands-partnerships-2024-03-14/</link>
-      <description><![CDATA[意大利客车和卡车制造商依维柯集团周四公布了一项新的业务计划，重点关注扩大产品组合和工业合作伙伴关系，预计到 2028 年收入将增长 20%。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/italys-iveco-group-sees-20-revenue-growth-2028-it-expands-partnerships-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 12:49:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国2月零售额反弹；每周申请失业救济人数下降</title>
+      <title>美国零售销售不及预期；生产者价格上涨</title>
       <link>https://www.reuters.com/markets/us/us-retail-sales-rebound-february-weekly-jobless-claims-fall-2024-03-14/</link>
-      <description><![CDATA[在汽车经销商和加油站销量增长的推动下，美国 2 月份零售额出现反弹，但随着家庭应对通胀和借贷成本上升，消费者支出正在放缓。]]></description>
+      <description><![CDATA[美国2月份零售销售反弹幅度低于预期，由于通胀上升和借贷成本高企，第一季度消费者支出似乎正在放缓。]]></description>
       <guid>https://www.reuters.com/markets/us/us-retail-sales-rebound-february-weekly-jobless-claims-fall-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 12:46:35 GMT</pubDate>
     </item>
@@ -90,16 +104,9 @@
       <pubDate>Thu, 14 Mar 2024 12:43:56 GMT</pubDate>
     </item>
     <item>
-      <title>宝马的年度汽车利润率超出预期</title>
-      <link>https://www.reuters.com/business/autos-transportation/bmws-q4-automotive-margin-beats-expectations-2024-03-14/</link>
-      <description><![CDATA[周四，宝马公布其核心汽车业务的年度利润率有所上升，这得益于其中国合资企业华晨宝马汽车有限公司（BBA）的全面整合和销量的改善。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/bmws-q4-automotive-margin-beats-expectations-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 12:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着交易员评估数据，华尔街下跌；芯片股下滑</title>
+      <title>由于交易员评估热门通胀数据，华尔街下跌；芯片股承压</title>
       <link>https://www.reuters.com/markets/us/futures-rise-run-up-inflation-figures-retail-sales-data-2024-03-14/</link>
-      <description><![CDATA[华尔街主要股指周四下跌，因为高于预期的生产者价格数据可能会扰乱围绕美联储首次降息时间的押注，并且高涨的芯片股扩大了跌幅。]]></description>
+      <description><![CDATA[周四，华尔街主要股指下跌，此前生产者价格数据高于预期，这可能会扰乱围绕美联储首次降息时间的押注，并且高涨的芯片股扩大了跌幅。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-rise-run-up-inflation-figures-retail-sales-data-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 11:32:30 GMT</pubDate>
     </item>
@@ -125,25 +132,18 @@
       <pubDate>Thu, 14 Mar 2024 10:04:02 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：石油玷污了通胀观点，特斯拉处于慢车道</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-14/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 10:02:35 GMT</pubDate>
+      <title>NYCB 披露贷款销售情况，寻求整合 Signature Bank</title>
+      <link>https://www.reuters.com/markets/us/new-york-community-bancorps-latest-troubles-2024-02-07/</link>
+      <description><![CDATA[纽约社区银行周四披露，它已经出售了一些贷款并获得收益，并正在努力将去年收购的倒闭银行 Signature Bank 纳入其整体财务报告流程。]]></description>
+      <guid>https://www.reuters.com/markets/us/new-york-community-bancorps-latest-troubles-2024-02-07/</guid>
+      <pubDate>Wed, 07 Feb 2024 17:21:47 GMT</pubDate>
     </item>
     <item>
-      <title>大众汽车预计 2027 年推出入门级电动汽车</title>
-      <link>https://www.reuters.com/business/autos-transportation/cost-cutting-program-volkswagen-brand-bears-first-fruit-2024-03-14/</link>
-      <description><![CDATA[大众汽车周四表示，预计将在 2027 年推出入门级电动汽车，大众品牌负责人托马斯·谢弗 (Thomas Schaefer) 表示，该公司将在未来几周内决定推出哪种车型。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/cost-cutting-program-volkswagen-brand-bears-first-fruit-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 09:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管缺乏替代方案，航空公司仍试图利用波音的困境</title>
-      <link>https://www.reuters.com/business/aerospace-defense/airlines-try-leverage-boeing-woes-despite-lack-alternatives-2024-03-14/</link>
-      <description><![CDATA[航空公司高管对波音公司感到沮丧，因为其安全危机打乱了他们的业务计划。但在两家公司供应的大型飞机市场紧张的情况下，他们别无选择，只能与这家美国飞机制造商开展业务。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/airlines-try-leverage-boeing-woes-despite-lack-alternatives-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 05:02:47 GMT</pubDate>
+      <title>航运公司对红海胡塞武装袭击做出反应</title>
+      <link>https://www.reuters.com/world/middle-east/shipping-firms-avoid-red-sea-houthi-attacks-increase-2023-12-18/</link>
+      <description><![CDATA[也门胡塞武装加强了对红海地区船只的袭击，影响了对东西方贸易至关重要的航线。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/shipping-firms-avoid-red-sea-houthi-attacks-increase-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 08:47:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
