@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 14 Mar 2024 08:27:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 08:40:13 GMT</lastBuildDate>
     <item>
       <title>据英国《金融时报》报道，Entain 正在研究出售海外赌博品牌的可能性</title>
       <link>https://www.reuters.com/markets/deals/entain-examines-possible-sale-overseas-gambling-brands-ft-reports-2024-03-14/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>尽管缺乏替代方案，航空公司仍试图利用波音的困境</title>
       <link>https://www.reuters.com/business/aerospace-defense/airlines-try-leverage-boeing-woes-despite-lack-alternatives-2024-03-14/</link>
-      <description><![CDATA[航空公司高管对波音公司感到沮丧，因为其安全危机打乱了他们的业务计划。但在两家公司供应的大型飞机市场紧张的情况下，他们别无选择，只能与这家美国飞机制造商开展业务。]]></description>
+      <description><![CDATA[航空公司高管对波音公司感到沮丧，因为其安全危机打乱了他们的商业计划。但在两家公司供应的大型飞机市场紧张的情况下，他们别无选择，只能与这家美国飞机制造商开展业务。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/airlines-try-leverage-boeing-woes-despite-lack-alternatives-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 05:02:47 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>研究显示，各国正在接近数字货币，但美国落后</title>
       <link>https://www.reuters.com/markets/currencies/countries-closing-digital-currencies-us-lagging-study-shows-2024-03-14/</link>
-      <description><![CDATA[周四一项备受关注的研究显示，占全球经济总量 98% 的 134 个国家目前正在探索其货币的数字版本，其中一半以上处于高级开发、试点或启动阶段。]]></description>
+      <description><![CDATA[周四一项备受关注的研究显示，占全球经济总量 98% 的 134 个国家目前正在探索本国货币的数字版本，其中一半以上处于高级开发、试点或启动阶段。]]></description>
       <guid>https://www.reuters.com/markets/currencies/countries-closing-digital-currencies-us-lagging-study-shows-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 04:08:27 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Thu, 14 Mar 2024 03:28:50 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市持稳；日经指数因日本央行的关键押注而受损</title>
+      <title>亚洲股市稳定；日经指数因日本央行的关键押注而受损</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-14/</link>
       <description><![CDATA[亚洲股市周四维持在七个月高位附近，但主要横盘整理，因为投资者等待新的催化剂，这将进一步明确全球利率宽松周期。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-14/</guid>
