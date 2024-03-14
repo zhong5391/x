@@ -1,91 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 14 Mar 2024 08:09:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 08:27:32 GMT</lastBuildDate>
     <item>
-      <title>瑞士下议院支持从获救银行收回工资的计划</title>
-      <link>https://www.reuters.com/world/europe/swiss-lower-house-backs-plan-claw-back-pay-rescued-banks-2024-03-14/</link>
-      <description><![CDATA[瑞士议会下议院周三晚间明确通过了一项动议，如果一家大型银行必须用公共资金进行救助，那么该银行的高级管理层将返还其过去十年收入的一半。]]></description>
-      <guid>https://www.reuters.com/world/europe/swiss-lower-house-backs-plan-claw-back-pay-rescued-banks-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 07:51:34 GMT</pubDate>
+      <title>据英国《金融时报》报道，Entain 正在研究出售海外赌博品牌的可能性</title>
+      <link>https://www.reuters.com/markets/deals/entain-examines-possible-sale-overseas-gambling-brands-ft-reports-2024-03-14/</link>
+      <description><![CDATA[据英国《金融时报》周四报道，英国博彩公司 Entain 已聘请顾问来监督其多个海外品牌的可能出售。]]></description>
+      <guid>https://www.reuters.com/markets/deals/entain-examines-possible-sale-overseas-gambling-brands-ft-reports-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 05:59:13 GMT</pubDate>
     </item>
     <item>
-      <title>独家：全球供应过剩，中国买家取消或推迟澳大利亚小麦采购</title>
-      <link>https://www.reuters.com/markets/commodities/chinese-buyers-cancel-or-postpone-australian-wheat-buys-amid-global-oversupply-2024-03-14/</link>
-      <description><![CDATA[直接了解交易情况的贸易消息人士称，中国小麦进口商取消或推迟了约 100 万吨澳大利亚小麦进口，因全球库存增加拖累价格。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/chinese-buyers-cancel-or-postpone-australian-wheat-buys-amid-global-oversupply-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 07:43:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿斯利康 (AstraZeneca) 将以 10.5 亿美元收购 Amolyt Pharma，以增强罕见疾病产品组合</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-buy-amolyt-pharma-105-bln-boost-rare-diseases-portfolio-2024-03-14/</link>
-      <description><![CDATA[制药商阿斯利康周四表示，将以 10.5 亿美元现金收购专注于罕见内分泌疾病的公司 Amolyt Pharma，以扩大其罕见疾病产品组合。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-buy-amolyt-pharma-105-bln-boost-rare-diseases-portfolio-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 07:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deliveroo 超出盈利预期，预计 2024 年现金流为正</title>
-      <link>https://www.reuters.com/business/retail-consumer/deliveroo-beats-earnings-guidance-sees-positive-cash-flow-2024-2024-03-14/</link>
-      <description><![CDATA[英国送餐公司Deliveroo公布的2023年核心盈利好于预期，为8500万英镑（1.09亿美元），并表示预计今年将取得进一步进展，预计将实现正现金流。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/deliveroo-beats-earnings-guidance-sees-positive-cash-flow-2024-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 07:11:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>新加坡大华银行计划到 2026 年将私人财富资产增加一倍</title>
-      <link>https://www.reuters.com/business/singaporean-bank-uob-aims-double-private-wealth-assets-by-2026-2024-03-14/</link>
-      <description><![CDATA[新加坡银行大华银行（UOB）一位高管表示，该银行计划在未来几年将其管理的私人财富资产增加一倍，因为该银行押注更多财富流入新加坡和东南亚。]]></description>
-      <guid>https://www.reuters.com/business/singaporean-bank-uob-aims-double-private-wealth-assets-by-2026-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 07:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>甲骨文为财务、供应链软件添加生成人工智能功能</title>
-      <link>https://www.reuters.com/technology/oracle-adds-generative-ai-features-finance-supply-chain-software-2024-03-14/</link>
-      <description><![CDATA[甲骨文周四表示，它将在其企业软件系列中添加生成人工智能功能，加剧与微软和其他科技公司向企业客户销售该技术的竞争。]]></description>
-      <guid>https://www.reuters.com/technology/oracle-adds-generative-ai-features-finance-supply-chain-software-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 07:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>路透调查发现巴基斯坦央行预计将于周一维持利率不变，并在 2024 年第二季度降息</title>
-      <link>https://www.reuters.com/markets/rates-bonds/pakistan-cenbank-expected-hold-rates-monday-cut-q2-2024-2024-03-14/</link>
-      <description><![CDATA[由于通胀风险继续隐现，巴基斯坦央行周一将连续第六次政策会议将关键利率维持在创纪录的22%，但大多数分析师预计将从今年第二季度开始降息。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/pakistan-cenbank-expected-hold-rates-monday-cut-q2-2024-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 06:46:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>西班牙Ferrovial公司将以8.1亿美元收购IRB基础设施信托公司24%的股份</title>
-      <link>https://www.reuters.com/markets/deals/spains-ferrovial-buy-24-stake-irb-infrastructure-trust-810-million-2024-03-14/</link>
-      <description><![CDATA[西班牙建筑巨头 Ferrovial 周四表示，将以 7.4 亿欧元（约合 8.1 亿美元）的价格收购 IRB 基础设施信托公司 24% 的股份，IRB 基础设施信托公司是一家投资工具，持有印度 12 个收费公路特许经营权的投资组合。]]></description>
-      <guid>https://www.reuters.com/markets/deals/spains-ferrovial-buy-24-stake-irb-infrastructure-trust-810-million-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 06:43:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于美联储宽松政策存在不确定性，中国央行周五将维持关键利率不变</title>
-      <link>https://www.reuters.com/markets/rates-bonds/china-cbank-set-leave-key-rate-unchanged-friday-amid-uncertainty-around-fed-2024-03-14/</link>
-      <description><![CDATA[路透调查显示，由于美联储降息时间存在不确定性，预计中国央行周五展期到期中期贷款时将维持关键政策利率不变。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/china-cbank-set-leave-key-rate-unchanged-friday-amid-uncertainty-around-fed-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 06:30:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果供应商富士康预计 2024 年业绩强劲，第四季度业绩好于预期</title>
-      <link>https://www.reuters.com/technology/apple-supplier-foxconns-q4-profit-jumps-33-yy-beats-forecasts-2024-03-14/</link>
-      <description><![CDATA[苹果供应商富士康周四表示，由于人工智能服务器需求旺盛，年初开局缓慢，预计 2024 年收入将大幅增长，此前该公司公布的第四季度利润超出了市场预期。]]></description>
-      <guid>https://www.reuters.com/technology/apple-supplier-foxconns-q4-profit-jumps-33-yy-beats-forecasts-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 06:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着违约风险上升，欧洲私人信贷与银行的联系加深</title>
-      <link>https://www.reuters.com/business/finance/private-credit-ties-banks-deepen-europe-default-risk-rises-2024-03-14/</link>
-      <description><![CDATA[欧洲私人信贷基金越来越多地从银行借款以提高业绩，加剧了人们对这种相互关联性带来的更广泛风险的担忧。]]></description>
-      <guid>https://www.reuters.com/business/finance/private-credit-ties-banks-deepen-europe-default-risk-rises-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 06:08:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国蔚来汽车与宁德时代合作开发更长寿命的电池</title>
+      <title>中国电动汽车制造商蔚来已完成4000万次电池更换</title>
       <link>https://www.reuters.com/business/autos-transportation/china-ev-maker-nio-has-completed-40-million-battery-swaps-so-far-2024-03-14/</link>
-      <description><![CDATA[中国电动汽车制造商蔚来周四与电池巨头宁德时代签署协议，合作开发寿命更长的电池，作为降低电动汽车总体成本的一部分。]]></description>
+      <description><![CDATA[中国电动汽车制造商蔚来汽车首席执行官李斌周四表示，迄今为止已完成 4000 万次电池更换。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/china-ev-maker-nio-has-completed-40-million-battery-swaps-so-far-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 05:55:35 GMT</pubDate>
     </item>
@@ -97,25 +27,81 @@
       <pubDate>Thu, 14 Mar 2024 05:43:35 GMT</pubDate>
     </item>
     <item>
+      <title>欧洲投资者关注下一轮美国数据</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-14/</link>
+      <description><![CDATA[Rae Wee 对欧洲和全球市场未来一天的展望]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 05:35:07 GMT</pubDate>
+    </item>
+    <item>
       <title>尽管缺乏替代方案，航空公司仍试图利用波音的困境</title>
       <link>https://www.reuters.com/business/aerospace-defense/airlines-try-leverage-boeing-woes-despite-lack-alternatives-2024-03-14/</link>
-      <description><![CDATA[航空公司高管对波音公司感到沮丧，因为其安全危机打乱了他们的商业计划。但在两家公司供应的大型飞机市场紧张的情况下，他们别无选择，只能与这家美国飞机制造商开展业务。]]></description>
+      <description><![CDATA[航空公司高管对波音公司感到沮丧，因为其安全危机打乱了他们的业务计划。但在两家公司供应的大型飞机市场紧张的情况下，他们别无选择，只能与这家美国飞机制造商开展业务。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/airlines-try-leverage-boeing-woes-despite-lack-alternatives-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 05:02:47 GMT</pubDate>
     </item>
     <item>
+      <title>工会表示，日本服务业公司提供自2013年以来最大的加薪幅度</title>
+      <link>https://www.reuters.com/world/asia-pacific/japans-service-sector-firms-offer-biggest-pay-rise-since-2013-union-says-2024-03-14/</link>
+      <description><![CDATA[日本最大的产业工会UA Zensen周四表示，231家企业的平均加薪幅度达到2013年以来的最高纪录。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/japans-service-sector-firms-offer-biggest-pay-rise-since-2013-union-says-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 04:56:47 GMT</pubDate>
+    </item>
+    <item>
       <title>研究显示，各国正在接近数字货币，但美国落后</title>
       <link>https://www.reuters.com/markets/currencies/countries-closing-digital-currencies-us-lagging-study-shows-2024-03-14/</link>
-      <description><![CDATA[周四一项备受关注的研究显示，占全球经济总量 98% 的 134 个国家目前正在探索本国货币的数字版本，其中一半以上处于高级开发、试点或启动阶段。]]></description>
+      <description><![CDATA[周四一项备受关注的研究显示，占全球经济总量 98% 的 134 个国家目前正在探索其货币的数字版本，其中一半以上处于高级开发、试点或启动阶段。]]></description>
       <guid>https://www.reuters.com/markets/currencies/countries-closing-digital-currencies-us-lagging-study-shows-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 04:08:27 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市在美国数据公布之前等待时机；日经指数因日本央行的关键押注而受损</title>
+      <title>银行贷款疲弱之际越南总理会见当地顶级企业</title>
+      <link>https://www.reuters.com/business/vietnam-pm-meets-top-local-businesses-amid-weak-bank-lending-2024-03-14/</link>
+      <description><![CDATA[政府表示，越南总理范明正周四会见了该国顶级企业，讨论在银行贷款疲软的情况下提振经济活动的措施。]]></description>
+      <guid>https://www.reuters.com/business/vietnam-pm-meets-top-local-businesses-amid-weak-bank-lending-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 03:41:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>达美航空将于 6 月 7 日起恢复飞往以色列的航班</title>
+      <link>https://www.reuters.com/world/middle-east/delta-air-resume-flights-israel-starting-june-7-2024-03-14/</link>
+      <description><![CDATA[达美航空周三晚间表示，将从 6 月 7 日起恢复飞往以色列的航班，成为继 10 月 7 日哈马斯武装分子袭击以色列南部之后第二家恢复飞往以色列的美国主要航空公司。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/delta-air-resume-flights-israel-starting-june-7-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 03:28:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚洲股市持稳；日经指数因日本央行的关键押注而受损</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-14/</link>
       <description><![CDATA[亚洲股市周四维持在七个月高位附近，但主要横盘整理，因为投资者等待新的催化剂，这将进一步明确全球利率宽松周期。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 03:05:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>经中国批准，日本建投公司将于 3 月 19 日开始对 JSR 进行要约收购 - 彭博社</title>
+      <link>https://www.reuters.com/markets/deals/japans-jic-start-tender-offer-jsr-march-19-after-chinese-approval-bloomberg-news-2024-03-14/</link>
+      <description><![CDATA[据彭博社周四报道，日本国家投资公司（JIC）在获得中国监管机构批准后，将于 3 月 19 日开始对芯片材料制造商 JSR Corp 的股票进行要约收购。]]></description>
+      <guid>https://www.reuters.com/markets/deals/japans-jic-start-tender-offer-jsr-march-19-after-chinese-approval-bloomberg-news-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>雅宝将拍卖锂作为推动价格透明度的一部分</title>
+      <link>https://www.reuters.com/markets/commodities/albemarle-auction-lithium-part-push-price-transparency-2024-03-14/</link>
+      <description><![CDATA[全球最大的电动汽车电池锂生产商雅宝 (Albemarle) 周三表示，将举行多次拍卖以出售金属供应，作为提高市场透明度的一部分。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/albemarle-auction-lithium-part-push-price-transparency-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>前央行高管表示，日本央行在结束负利率后将放缓加息步伐</title>
+      <link>https://www.reuters.com/markets/rates-bonds/boj-go-slow-hiking-rates-after-ending-negative-rates-says-ex-cbank-executive-2024-03-14/</link>
+      <description><![CDATA[日本央行前行长早川秀夫周四表示，日本央行行长上田一夫在结束负利率后可能会慢慢地实现超宽松货币政策正常化。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/boj-go-slow-hiking-rates-after-ending-negative-rates-says-ex-cbank-executive-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 02:08:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：欧洲监管机构表示，如果需要，将取消对波音的批准</title>
+      <link>https://www.reuters.com/business/aerospace-defense/europe-regulator-says-it-would-pull-boeing-approval-if-needed-2024-03-14/</link>
+      <description><![CDATA[欧洲航空监管机构代理负责人周三表示，如果有必要，该机构将停止对波音飞机生产的间接批准，但他对这家飞机制造商正在解决最新的安全危机感到放心。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/europe-regulator-says-it-would-pull-boeing-approval-if-needed-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 00:46:58 GMT</pubDate>
     </item>
     <item>
       <title>报告称，飞行员座椅的移动是拉丁美洲波音航班调查的焦点</title>
@@ -123,6 +109,13 @@
       <description><![CDATA[据航空业刊物《Air Current》周三报道，驾驶舱座位的移动是南美航空一架波音 787 飞机突然在半空中俯冲导致 50 多人受伤的调查重点。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/pilot-seat-movement-focus-probe-into-latam-boeing-flight-report-says-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 23:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通聘请前 Global X 首席投资官担任 ETF 策略师</title>
+      <link>https://www.reuters.com/business/finance/jpmorgan-hires-former-global-x-chief-investment-officer-etf-strategist-2024-03-13/</link>
+      <description><![CDATA[摩根大通Co周三表示，其资产管理部门已聘请Global X前首席投资官乔恩·迈尔(Jon Maier)领导一项新的全球研究工作，重点关注交易所交易基金(ETF)。]]></description>
+      <guid>https://www.reuters.com/business/finance/jpmorgan-hires-former-global-x-chief-investment-officer-etf-strategist-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 21:36:18 GMT</pubDate>
     </item>
     <item>
       <title>耶伦表示，随着中国增加出口，美国的目标是确保国内电动汽车制造商取得成功</title>
@@ -137,6 +130,13 @@
       <description><![CDATA[一位知情人士周三表示，美国总统乔·拜登计划对新日铁拟斥资 149 亿美元收购美国钢铁公司表示担忧，因押注该交易可能面临更大的政治反对，导致这家美国公司的股价下跌近 13%。]]></description>
       <guid>https://www.reuters.com/world/us/biden-express-concern-over-nippon-steels-deal-us-steel-ft-reports-2024-03-13/</guid>
       <pubDate>Wed, 13 Mar 2024 17:09:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>高盛将恢复对美国房地产的押注，其他投资者警告称将面临更多痛苦</title>
+      <link>https://www.reuters.com/business/finance/goldman-sachs-asset-management-says-resume-us-real-estate-investment-2024-03-13/</link>
+      <description><![CDATA[高盛资产管理公司房地产主管表示，由于市场正在触底反弹，高盛资产管理公司今年将恢复“积极投资”美国商业地产，而其他投资者则表示，市场低迷仍将持续。]]></description>
+      <guid>https://www.reuters.com/business/finance/goldman-sachs-asset-management-says-resume-us-real-estate-investment-2024-03-13/</guid>
+      <pubDate>Wed, 13 Mar 2024 14:40:45 GMT</pubDate>
     </item>
     <item>
       <title>美国众议院通过法案迫使字节跳动剥离 TikTok 或面临禁令</title>
