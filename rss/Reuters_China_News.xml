@@ -3,8 +3,22 @@
   <channel>
     <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 14 Mar 2024 22:16:58 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 14 Mar 2024 22:29:42 GMT</lastBuildDate>
+    <item>
+      <title>早盘：市场承压，关注中国房价</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-14/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 21:50:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 法案引发美国宪法保护言论自由的斗争</title>
+      <link>https://www.reuters.com/legal/tiktok-bill-sets-up-fight-over-free-speech-protections-us-constitution-2024-03-14/</link>
+      <description><![CDATA[美国立法者希望强制其中国所有者出售 TikTok 或禁止其进入应用商店，法律专家表示，这将与这家社交媒体公司就美国宪法第一修正案的言论自由保护展开摊牌。]]></description>
+      <guid>https://www.reuters.com/legal/tiktok-bill-sets-up-fight-over-free-speech-protections-us-constitution-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 20:15:55 GMT</pubDate>
+    </item>
     <item>
       <title>美国表示“立即”开设瓦努阿图大使馆，警告中国交易</title>
       <link>https://www.reuters.com/world/asia-pacific/us-says-open-vanuatu-embassy-imminently-warns-china-deals-2024-03-14/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[中国外交部发言人周四表示，以国家安全为由削弱其他国家的竞争优势，“毫无公平可言”，并批评美国强制剥离或禁止 TikTok 的法案。]]></description>
       <guid>https://www.reuters.com/technology/proposed-us-tiktok-ban-not-fair-chinas-foreign-ministry-says-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 08:26:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国腾讯收购字节跳动两个视频游戏团队 - 消息人士</title>
-      <link>https://www.reuters.com/technology/chinas-tencent-takes-over-two-bytedance-video-game-teams-source-2024-03-14/</link>
-      <description><![CDATA[据一位知情人士透露，在字节跳动去年退出游戏业务后，中国腾讯已经接管了字节跳动的两家视频游戏部门。]]></description>
-      <guid>https://www.reuters.com/technology/chinas-tencent-takes-over-two-bytedance-video-game-teams-source-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 08:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：由于全球供应过剩，中国买家取消、推迟澳大利亚小麦采购</title>
-      <link>https://www.reuters.com/markets/commodities/chinese-buyers-cancel-or-postpone-australian-wheat-buys-amid-global-oversupply-2024-03-14/</link>
-      <description><![CDATA[直接了解交易情况的贸易消息人士称，由于全球库存增加拖累价格，中国小麦进口商取消或推迟了约 100 万吨澳大利亚小麦货物。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/chinese-buyers-cancel-or-postpone-australian-wheat-buys-amid-global-oversupply-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 07:43:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
