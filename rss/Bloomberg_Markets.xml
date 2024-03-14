@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 14 Mar 2024 10:41:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 10:58:25 GMT</lastBuildDate>
     <item>
       <title>摩根大通：坚韧的背景讲述了良好的股票故事</title>
       <link>https://www.bloomberg.com/news/videos/2024-03-14/jpmorgan-resilient-backdrop-tells-good-equity-story</link>
@@ -13,11 +13,25 @@
       <pubDate>Thu, 14 Mar 2024 10:38:17 GMT</pubDate>
     </item>
     <item>
+      <title>沙特股票交易量意外激增，令交易所受益</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-14/surprise-jump-in-saudi-stocks-trading-volume-to-benefit-exchange</link>
+      <description><![CDATA[今年，沙特股票交易量出人意料地激增，这对证券交易所运营商沙特塔达乌尔集团控股公司(Saudi Tadawul Group Holding Co.)来说是一个巨大的提振。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-14/surprise-jump-in-saudi-stocks-trading-volume-to-benefit-exchange</guid>
+      <pubDate>Thu, 14 Mar 2024 10:38:07 GMT</pubDate>
+    </item>
+    <item>
       <title>开始新的一天需要知道的五件事：美洲</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-03-14/five-things-you-need-to-know-to-start-your-day-americas</link>
       <description><![CDATA[早上好。在下周的美联储会议之前，人们将关注今天的美国生产者价格指数 (PPI) 报告。此外，石油市场最终可能会出现供应短缺，而大宗商品交易商正在押注波动性。这就是人们正在谈论的内容。 —索菲亚·奥尔塔·科斯塔想要收到西班牙语简讯吗？注册获取“五件事：西班牙语版”时事通讯。]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2024-03-14/five-things-you-need-to-know-to-start-your-day-americas</guid>
       <pubDate>Thu, 14 Mar 2024 10:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>挪威预计今年将达到北约国防支出目标</title>
+      <link>https://www.bloomberg.com/news/articles/2024-03-14/norway-expects-to-reach-nato-defense-spending-target-this-year</link>
+      <description><![CDATA[挪威现在的目标是在 2024 年实现作为北约防御联盟一部分的军费开支目标，比原计划提前两年，理由是安全形势“严峻”。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-03-14/norway-expects-to-reach-nato-defense-spending-target-this-year</guid>
+      <pubDate>Thu, 14 Mar 2024 10:19:12 GMT</pubDate>
     </item>
     <item>
       <title>世贸组织将在战争阻碍贸易的情况下解决改革和渔业补贴问题</title>
@@ -140,20 +154,6 @@
       <pubDate>Thu, 14 Mar 2024 08:06:50 GMT</pubDate>
     </item>
     <item>
-      <title>为什么我们现在生活在休闲食品的黄金时代</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-14/why-we-re-now-living-in-the-golden-age-of-snack-food</link>
-      <description><![CDATA[多样性和丰富性背后的技术突破。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-14/why-we-re-now-living-in-the-golden-age-of-snack-food</guid>
-      <pubDate>Thu, 14 Mar 2024 08:00:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>太古计划在中国和东南亚进行更多医院投资</title>
-      <link>https://www.bloomberg.com/news/articles/2024-03-14/swire-eyes-more-hospital-investment-in-china-southeast-asia</link>
-      <description><![CDATA[太古股份有限公司在中国经营香港大型航空公司和可乐装瓶厂数十年之后，现在正多元化发展新业务：中国和东南亚的私立医院。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-03-14/swire-eyes-more-hospital-investment-in-china-southeast-asia</guid>
-      <pubDate>Thu, 14 Mar 2024 07:49:32 GMT</pubDate>
-    </item>
-    <item>
       <title>沙特阿拉伯正在谈判将华尔街顶级银行纳入沙特阿美股票出售计划</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-14/saudi-arabia-said-in-talks-to-add-banks-to-record-aramco-offer</link>
       <description><![CDATA[据知情人士透露，沙特阿拉伯正在就石油巨头沙特阿美公司的二级股票发行事宜与华尔街顶级银行进行谈判，该国正在推进近年来最大规模的股票发行之一。]]></description>
@@ -203,9 +203,9 @@
       <pubDate>Wed, 13 Mar 2024 23:29:26 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲央行讲话，交易员关注通胀，股市上涨：市场总结</title>
+      <title>通胀数据公布前美国期货随股市上涨：市场总结</title>
       <link>https://www.bloomberg.com/news/articles/2024-03-13/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[随着交易员权衡欧洲央行政策制定者最新的鸽派言论，股市上涨，同时也在等待美国通胀的进一步数据，以获取有关美联储利率路径的线索。]]></description>
+      <description><![CDATA[美国股指期货与欧洲股市一起上涨，因为交易员在进一步的通胀数据公布之前权衡了企业盈利前景，这可能为美联储的政策路径提供线索。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-03-13/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 13 Mar 2024 22:32:47 GMT</pubDate>
     </item>
