@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 14 Mar 2024 11:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 11:58:33 GMT</lastBuildDate>
     <item>
       <title>分析师表示，由于炼油厂停电导致供应减少，美国汽油价格将上涨</title>
       <link>https://www.reuters.com/business/energy/us-pump-prices-set-jump-refinery-outages-nip-supply-analysts-say-2024-03-14/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>美国进出口银行将对巴林石油项目进行投票，测试美国的气候承诺</title>
       <link>https://www.reuters.com/sustainability/us-exim-bank-vote-bahrain-oil-project-testing-us-climate-pledge-2024-03-14/</link>
-      <description><![CDATA[美国出口信贷机构周四将投票决定是否支持巴林石油和天然气钻探项目的 1 亿美元贷款，以检验美国停止支持扩大化石燃料使用项目的气候承诺。]]></description>
+      <description><![CDATA[美国出口信贷机构周四将就是否支持巴林石油和天然气钻探项目的 1 亿美元贷款进行投票，以检验美国停止支持扩大化石燃料使用项目的气候承诺。]]></description>
       <guid>https://www.reuters.com/sustainability/us-exim-bank-vote-bahrain-oil-project-testing-us-climate-pledge-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 10:05:54 GMT</pubDate>
     </item>
     <item>
       <title>独家：Citgo 拍卖中的出价疲弱促使委内瑞拉提出替代支付计划</title>
       <link>https://www.reuters.com/business/energy/weak-bids-citgo-auction-spurs-venezuela-pitch-alternative-pay-plan-2024-03-14/</link>
-      <description><![CDATA[两位知情人士表示，美国举行的股票拍卖将决定委内瑞拉炼油商 Citgo Petroleum 的命运，拍卖中收到的最高出价为 73 亿美元，仅够支付法院批准的索赔的三分之一。]]></description>
+      <description><![CDATA[两位知情人士表示，美国一场股票拍卖的最高出价为 73 亿美元，该拍卖将决定委内瑞拉国有炼油商 Citgo Petroleum 的命运，仅够支付法院批准的索赔的三分之一。]]></description>
       <guid>https://www.reuters.com/business/energy/weak-bids-citgo-auction-spurs-venezuela-pitch-alternative-pay-plan-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 10:04:08 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>现代和起亚因软件问题在韩国召回近 17 万辆电动汽车</title>
       <link>https://www.reuters.com/business/autos-transportation/hyundai-kia-recall-nearly-170000-evs-over-software-problem-south-korea-2024-03-14/</link>
-      <description><![CDATA[韩国交通运输部周四表示，由于充电系统软件存在问题，现代汽车公司及其姐妹公司起亚公司将在韩国召回约 17 万辆电动汽车 (EV)。]]></description>
+      <description><![CDATA[韩国交通部周四表示，由于充电系统软件存在问题，现代汽车公司及其姐妹公司起亚公司将在韩国召回约 17 万辆电动汽车 (EV)。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/hyundai-kia-recall-nearly-170000-evs-over-software-problem-south-korea-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 09:46:57 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 14 Mar 2024 09:37:23 GMT</pubDate>
     </item>
     <item>
-      <title>IEA认为，由于经济逆风依然存在，石油需求增长疲弱</title>
+      <title>IEA认为，由于经济逆风依然存在，石油需求增长疲软</title>
       <link>https://www.reuters.com/business/energy/iea-sees-economic-headwinds-putting-damper-supply-growth-2024-03-14/</link>
       <description><![CDATA[国际能源署预计今年石油需求增长为 130 万桶/日，比 2023 年减少了整整 100 万桶/日，但由于红海胡塞武装袭击延迟供应，比上个月的预测增加了 11 万桶/日。]]></description>
       <guid>https://www.reuters.com/business/energy/iea-sees-economic-headwinds-putting-damper-supply-growth-2024-03-14/</guid>
@@ -106,21 +106,21 @@
     <item>
       <title>苹果供应商富士康对 2024 年持乐观态度，称人工智能服务器需求巨大</title>
       <link>https://www.reuters.com/technology/apple-supplier-foxconns-q4-profit-jumps-33-yy-beats-forecasts-2024-03-14/</link>
-      <description><![CDATA[苹果供应商富士康对今年的前景更加乐观，周四表示，预计人工智能服务器需求旺盛将推动收入大幅增长。]]></description>
+      <description><![CDATA[苹果供应商富士康对今年的前景更加乐观，周四表示，由于人工智能服务器需求的蓬勃发展，预计收入将大幅增长。]]></description>
       <guid>https://www.reuters.com/technology/apple-supplier-foxconns-q4-profit-jumps-33-yy-beats-forecasts-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 06:29:03 GMT</pubDate>
     </item>
     <item>
       <title>尽管缺乏替代方案，航空公司仍试图利用波音的困境</title>
       <link>https://www.reuters.com/business/aerospace-defense/airlines-try-leverage-boeing-woes-despite-lack-alternatives-2024-03-14/</link>
-      <description><![CDATA[航空公司高管对波音公司感到沮丧，因为其安全危机打乱了他们的商业计划。但在两家公司供应的大型飞机市场紧张的情况下，他们别无选择，只能与这家美国飞机制造商开展业务。]]></description>
+      <description><![CDATA[航空公司高管对波音公司感到沮丧，因为其安全危机打乱了他们的业务计划。但在两家公司供应的大型飞机市场紧张的情况下，他们别无选择，只能与这家美国飞机制造商开展业务。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/airlines-try-leverage-boeing-woes-despite-lack-alternatives-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 05:02:47 GMT</pubDate>
     </item>
     <item>
       <title>研究显示，各国正在接近数字货币，但美国落后</title>
       <link>https://www.reuters.com/markets/currencies/countries-closing-digital-currencies-us-lagging-study-shows-2024-03-14/</link>
-      <description><![CDATA[周四一项备受关注的研究显示，占全球经济总量 98% 的 134 个国家目前正在探索本国货币的数字版本，其中一半以上处于高级开发、试点或启动阶段。]]></description>
+      <description><![CDATA[周四一项备受关注的研究显示，占全球经济总量 98% 的 134 个国家目前正在探索其货币的数字版本，其中一半以上处于高级开发、试点或启动阶段。]]></description>
       <guid>https://www.reuters.com/markets/currencies/countries-closing-digital-currencies-us-lagging-study-shows-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 04:08:27 GMT</pubDate>
     </item>
