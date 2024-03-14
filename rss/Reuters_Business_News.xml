@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 14 Mar 2024 14:39:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2024 14:52:32 GMT</lastBuildDate>
     <item>
       <title>研究发现外国公司对德国的投资降至十年来的最低水平</title>
       <link>https://www.reuters.com/markets/europe/investment-germany-by-foreign-firms-drops-decade-low-study-finds-2024-03-14/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>Dollar General 预测 2024 年销量将因需求稳定而乐观，股价上涨</title>
       <link>https://www.reuters.com/business/retail-consumer/dollar-general-projects-2024-profit-below-estimates-costs-pinch-2024-03-14/</link>
-      <description><![CDATA[Dollar General周四预测的年销售额将高于华尔街的预期，因为更多受通胀影响的客户会购买更便宜的杂货和必需品，导致其股价在盘前飙升逾6%。]]></description>
+      <description><![CDATA[Dollar General 周四预测的年销售额将高于华尔街的预期，因为更多受通胀影响的客户会购买更便宜的食品杂货和必需品，导致其股价在盘前飙升逾 6%。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/dollar-general-projects-2024-profit-below-estimates-costs-pinch-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 11:11:02 GMT</pubDate>
     </item>
@@ -85,14 +85,14 @@
     <item>
       <title>美国进出口银行将对巴林石油项目进行投票，测试美国的气候承诺</title>
       <link>https://www.reuters.com/sustainability/us-exim-bank-vote-bahrain-oil-project-testing-us-climate-pledge-2024-03-14/</link>
-      <description><![CDATA[美国出口信贷机构周四将投票决定是否支持巴林石油和天然气钻探项目的 1 亿美元贷款，以检验美国停止支持扩大化石燃料使用项目的气候承诺。]]></description>
+      <description><![CDATA[美国出口信贷机构周四将就是否支持巴林石油和天然气钻探项目的 1 亿美元贷款进行投票，以检验美国停止支持扩大化石燃料使用项目的气候承诺。]]></description>
       <guid>https://www.reuters.com/sustainability/us-exim-bank-vote-bahrain-oil-project-testing-us-climate-pledge-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 10:05:54 GMT</pubDate>
     </item>
     <item>
       <title>独家：Citgo 拍卖中的出价疲弱促使委内瑞拉提出替代支付计划</title>
       <link>https://www.reuters.com/business/energy/weak-bids-citgo-auction-spurs-venezuela-pitch-alternative-pay-plan-2024-03-14/</link>
-      <description><![CDATA[两位知情人士表示，美国举行的股票拍卖将决定委内瑞拉炼油商 Citgo Petroleum 的命运，拍卖中收到的最高出价为 73 亿美元，仅够支付法院批准的索赔的三分之一。]]></description>
+      <description><![CDATA[两位知情人士表示，美国一场股票拍卖的最高出价为 73 亿美元，该拍卖将决定委内瑞拉国有炼油商 Citgo Petroleum 的命运，仅够支付法院批准的索赔的三分之一。]]></description>
       <guid>https://www.reuters.com/business/energy/weak-bids-citgo-auction-spurs-venezuela-pitch-alternative-pay-plan-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 10:04:08 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>大众汽车预计 2027 年推出入门级电动汽车</title>
       <link>https://www.reuters.com/business/autos-transportation/cost-cutting-program-volkswagen-brand-bears-first-fruit-2024-03-14/</link>
-      <description><![CDATA[大众汽车周四提出了到 2027 年推出入门级电动汽车的前景，大众品牌负责人托马斯·谢弗 (Thomas Schaefer) 表示，该公司将在未来几周内决定推出哪种车型。]]></description>
+      <description><![CDATA[大众汽车周四表示，预计将在 2027 年推出入门级电动汽车，大众品牌负责人托马斯·谢弗 (Thomas Schaefer) 表示，该公司将在未来几周内决定推出哪种车型。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/cost-cutting-program-volkswagen-brand-bears-first-fruit-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 09:37:23 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>尽管缺乏替代方案，航空公司仍试图利用波音的困境</title>
       <link>https://www.reuters.com/business/aerospace-defense/airlines-try-leverage-boeing-woes-despite-lack-alternatives-2024-03-14/</link>
-      <description><![CDATA[航空公司高管对波音公司感到沮丧，因为其安全危机打乱了他们的商业计划。但在两家公司供应的大型飞机市场紧张的情况下，他们别无选择，只能与这家美国飞机制造商开展业务。]]></description>
+      <description><![CDATA[航空公司高管对波音公司感到沮丧，因为其安全危机打乱了他们的业务计划。但在两家公司供应的大型飞机市场紧张的情况下，他们别无选择，只能与这家美国飞机制造商开展业务。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/airlines-try-leverage-boeing-woes-despite-lack-alternatives-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 05:02:47 GMT</pubDate>
     </item>
