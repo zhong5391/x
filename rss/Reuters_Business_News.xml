@@ -1,14 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 15 Mar 2024 12:33:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 13:32:53 GMT</lastBuildDate>
     <item>
-      <title>《纽约时报》称，麦当劳正在澳大利亚、香港和日本应对技术难题</title>
+      <title>苹果就中国销售言论与股东达成 4.9 亿美元和解</title>
+      <link>https://www.reuters.com/legal/apple-reaches-490-million-settlement-with-shareholders-over-china-sales-comments-2024-03-15/</link>
+      <description><![CDATA[周五法庭文件显示，苹果公司已达成 4.9 亿美元和解协议，以解决一项集体诉讼，该诉讼指控首席执行官蒂姆·库克隐瞒中国 iPhone 需求下降的情况，欺骗股东。]]></description>
+      <guid>https://www.reuters.com/legal/apple-reaches-490-million-settlement-with-shareholders-over-china-sales-comments-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>据彭博社报道，卡塔尔航空正在考虑向波音、空客订购多达 150 架宽体飞机</title>
+      <link>https://www.reuters.com/business/aerospace-defense/qatar-airways-mulls-up-150-widebody-orders-boeing-airbus-bloomberg-reports-2024-03-15/</link>
+      <description><![CDATA[据彭博社周五援引知情人士的话报道，卡塔尔航空正在与波音和空客进行初步谈判，以订购最多 150 架宽体喷气式飞机。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/qatar-airways-mulls-up-150-widebody-orders-boeing-airbus-bloomberg-reports-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:19:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>据英国《金融时报》报道，由于华盛顿威胁禁止TikTok，TikTok 在美国的收入达到 160 亿美元</title>
+      <link>https://www.reuters.com/technology/tiktoks-us-revenue-hits-16-bln-washington-threatens-ban-ft-reports-2024-03-15/</link>
+      <description><![CDATA[据英国《金融时报》周五报道，中国字节跳动旗下的 TikTok 去年在美国的收入约为 160 亿美元，这款吸引 Z 世代用户的病毒视频应用在美国面临被禁止的风险。]]></description>
+      <guid>https://www.reuters.com/technology/tiktoks-us-revenue-hits-16-bln-washington-threatens-ban-ft-reports-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:17:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 股价下跌，因预测疲弱，粉丝担心竞争和人工智能工作</title>
+      <link>https://www.reuters.com/technology/adobe-drops-weak-forecast-fans-worries-about-competition-ai-efforts-2024-03-15/</link>
+      <description><![CDATA[Adobe 股价周五下跌 12%，原因是该公司黯淡的季度预测引发了人们对激烈竞争的担忧，并使那些希望通过生成式 AI 集成提振的投资者感到失望。]]></description>
+      <guid>https://www.reuters.com/technology/adobe-drops-weak-forecast-fans-worries-about-competition-ai-efforts-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 11:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>国际货币基金组织表示，许多欧洲新兴经济体需要采取紧缩货币立场</title>
+      <link>https://www.reuters.com/markets/europe/tight-monetary-stance-needed-many-emerging-european-economies-says-imf-2024-03-15/</link>
+      <description><![CDATA[国际货币基金组织一位高级官员表示，中欧、东欧和东南欧的潜在通胀水平高于发达经济体，要求该地区许多央行比欧洲央行更长时间地维持紧缩货币立场。]]></description>
+      <guid>https://www.reuters.com/markets/europe/tight-monetary-stance-needed-many-emerging-european-economies-says-imf-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 11:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 禁令法案：我们对 Tiktok 的中国所有者的了解</title>
+      <link>https://www.reuters.com/technology/what-do-we-know-about-tiktoks-chinese-owner-bytedance-2024-03-15/</link>
+      <description><![CDATA[美国众议院本周以压倒性多数通过了一项法案，该法案将给予 TikTok 的中国所有者字节跳动大约六个月的时间剥离这款短视频应用程序的美国资产，否则将面临禁令，这是自特朗普政府以来该应用程序面临的最大威胁。]]></description>
+      <guid>https://www.reuters.com/technology/what-do-we-know-about-tiktoks-chinese-owner-bytedance-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 10:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>大众集团2月份交付量下降1.1%</title>
+      <link>https://www.reuters.com/business/autos-transportation/volkswagen-group-deliveries-down-11-february-2024-03-15/</link>
+      <description><![CDATA[德国汽车制造商大众集团周五表示，受中国销量大幅下降的影响，2月份大众汽车集团交付量下降1.1%至605,500辆。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-group-deliveries-down-11-february-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 10:16:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>峰值利率提振美国对高风险企业债务的需求</title>
+      <link>https://www.reuters.com/markets/us/peak-rates-boost-us-demand-riskier-form-corporate-debt-2024-03-15/</link>
+      <description><![CDATA[美国风险最高的企业债务类型之一的市场今年正在复苏，因为企业迎合了投资者对资产的需求，这些资产可以在利率预期下降之前几年锁定高收益。]]></description>
+      <guid>https://www.reuters.com/markets/us/peak-rates-boost-us-demand-riskier-form-corporate-debt-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 10:07:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着电动汽车销售放缓，美国汽车制造商竞相生产更多混合动力汽车</title>
+      <link>https://www.reuters.com/business/autos-transportation/us-automakers-race-build-more-hybrids-ev-sales-slow-2024-03-15/</link>
+      <description><![CDATA[随着美国油电混合动力汽车销量激增，而电动汽车销量降温，汽车制造商和供应商押注消费者对全燃烧和全电动之间妥协的需求将是一个持久的趋势。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/us-automakers-race-build-more-hybrids-ev-sales-slow-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 10:06:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：国债遭到鱼雷袭击，特斯拉遭遇重挫</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-15/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 10:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果美国参议院推进禁令，TikTok 广告商将寻求竞争对手</title>
+      <link>https://www.reuters.com/technology/tiktok-advertisers-will-look-rivals-if-us-senate-moves-ahead-ban-2024-03-15/</link>
+      <description><![CDATA[利用 TikTok 向年轻消费者进行营销的广告商正在与社交媒体竞争对手制定应急计划，以防短视频应用程序在美国出售或被禁止，但他们正在等待参议院采取行动的迹象，然后再调整营销预算。]]></description>
+      <guid>https://www.reuters.com/technology/tiktok-advertisers-will-look-rivals-if-us-senate-moves-ahead-ban-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 10:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>麦当劳在多个国家遭遇技术故障，部分门店恢复营业</title>
       <link>https://www.reuters.com/business/retail-consumer/mcdonalds-battles-technical-woes-australia-hong-kong-japan-nyt-says-2024-03-15/</link>
-      <description><![CDATA[《纽约时报》称，快餐巨头麦当劳的顾客报告其在澳大利亚、香港和日本的餐厅出现技术问题，该公司发言人周五证实了日本的停电情况。]]></description>
+      <description><![CDATA[麦当劳周五表示，技术故障已扰乱其全球许多门店的运营，包括日本、英国和澳大利亚，但排除了网络安全事件的可能性。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/mcdonalds-battles-technical-woes-australia-hong-kong-japan-nyt-says-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 08:39:26 GMT</pubDate>
     </item>
@@ -20,32 +97,11 @@
       <pubDate>Fri, 15 Mar 2024 06:27:14 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士电信以 87 亿美元收购意大利沃达丰</title>
-      <link>https://www.reuters.com/markets/deals/swisscom-buy-vodafone-italia-8-bln-euro-deal-2024-03-15/</link>
-      <description><![CDATA[瑞士电信周五表示，将以 80 亿欧元（合 87 亿美元）收购沃达丰意大利公司，并将该业务与其意大利子公司 Fastweb 合并。]]></description>
-      <guid>https://www.reuters.com/markets/deals/swisscom-buy-vodafone-italia-8-bln-euro-deal-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 06:26:47 GMT</pubDate>
-    </item>
-    <item>
       <title>英格兰银行将在首次降息前争取时间</title>
       <link>https://www.reuters.com/markets/rates-bonds/bank-england-set-play-time-before-first-rate-cut-2024-03-15/</link>
       <description><![CDATA[英国央行可能会让投资者猜测下周英国央行何时可能开始降息，等待更明确的迹象表明经济中仍然存在的通胀压力确实正在消除。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/bank-england-set-play-time-before-first-rate-cut-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 06:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：重新思考美联储降息造成科技波动</title>
-      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-15/</link>
-      <description><![CDATA[凯文·巴克兰 (Kevin Buckland) 对欧洲和全球市场未来一天的展望]]></description>
-      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 05:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着加密货币狂热的暂停，波动性较大的比特币从历史高位回落</title>
-      <link>https://www.reuters.com/markets/currencies/volatile-bitcoin-falls-record-high-crypto-frenzy-hits-pause-2024-03-15/</link>
-      <description><![CDATA[周五，比特币在波动性的交易中跌至一周低点，投资者从其创纪录高位中获利了结，而美国通胀的另一次意外上行使提前降息的前景黯淡，并削弱了对风险资产的需求。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/volatile-bitcoin-falls-record-high-crypto-frenzy-hits-pause-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 05:22:35 GMT</pubDate>
     </item>
     <item>
       <title>日本即将结束负利率，日本央行3月退出的可能性加大</title>
@@ -62,72 +118,30 @@
       <pubDate>Fri, 15 Mar 2024 04:54:09 GMT</pubDate>
     </item>
     <item>
-      <title>路透调查：分析师表示，日本央行将于四月结束负利率，三月的可能性很大</title>
-      <link>https://www.reuters.com/markets/rates-bonds/boj-end-negative-rates-april-high-chance-march-analysts-say-2024-03-15/</link>
-      <description><![CDATA[据路透社调查的近三分之二的经济学家称，日本央行将在 4 月份放弃负利率政策，尽管现在越来越多的少数人预计日本央行将在 4 月份放弃负利率政策，而 2 月份接受调查的只有少数人。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/boj-end-negative-rates-april-high-chance-march-analysts-say-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 04:09:27 GMT</pubDate>
-    </item>
-    <item>
       <title>日产考虑与本田合作开发电动汽车——消息人士</title>
       <link>https://www.reuters.com/business/autos-transportation/nissan-considering-partnership-with-honda-evs-sources-2024-03-15/</link>
-      <description><![CDATA[三名日产知情人士透露，日产汽车正在考虑与本田汽车就电动汽车关键零部件寻求业务合作，以降低生产成本。]]></description>
+      <description><![CDATA[三名日产知情人士表示，日产汽车正在考虑与本田汽车就电动汽车关键零部件寻求业务合作，以降低生产成本。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/nissan-considering-partnership-with-honda-evs-sources-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 04:00:12 GMT</pubDate>
     </item>
     <item>
       <title>日本工会组织宣布33年来最大幅度的工资上涨，预示着央行的转变</title>
       <link>https://www.reuters.com/markets/asia/japan-unions-will-unveil-results-wage-talks-presaging-shift-central-bank-2024-03-15/</link>
-      <description><![CDATA[日本最大的工会组织周五表示，日本最大的公司同意在 2024 年将工资提高 5.28%，这是 33 年来的最高水平，这强化了日本央行将很快放弃长达 10 年的刺激计划的观点。]]></description>
+      <description><![CDATA[日本最大的工会组织周五表示，日本最大的公司同意在 2024 年将工资提高 5.28%，这是 33 年来最大幅度的加薪幅度，这强化了日本央行将很快放弃长达 10 年的刺激计划的观点。]]></description>
       <guid>https://www.reuters.com/markets/asia/japan-unions-will-unveil-results-wage-talks-presaging-shift-central-bank-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 02:35:09 GMT</pubDate>
     </item>
     <item>
       <title>美国通胀浇灭降息希望，股市涨势暂停</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-15/</link>
-      <description><![CDATA[全球股市在连续七周上涨后，本周将以不温不火的方式结束，此前美国通胀高于预期，打压了人们对美联储降息时间和频率的押注。]]></description>
+      <description><![CDATA[在连续七周上涨后，全球股市本周将以不温不火的方式结束，美元坚挺，因为美国通胀高于预期，打压了人们对美联储降息时间和频率的押注。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 02:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>尽管有支持措施，中国房价仍继续下跌</title>
-      <link>https://www.reuters.com/world/china/chinas-feb-new-home-prices-extend-declines-2024-03-15/</link>
-      <description><![CDATA[周五公布的官方数据显示，中国2月份新建住宅价格连续第八个月下跌，这表明尽管采取了一系列措施支撑该行业，但脆弱的房地产市场仍在努力寻找底部。]]></description>
-      <guid>https://www.reuters.com/world/china/chinas-feb-new-home-prices-extend-declines-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 01:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国银行维持关键政策利率不变，符合预期</title>
-      <link>https://www.reuters.com/markets/rates-bonds/china-cbank-leaves-key-policy-rate-unchanged-expected-2024-03-15/</link>
-      <description><![CDATA[中国央行周五维持关键政策利率不变，同时从中期政策性贷款操作中提取现金，因为在美联储降息预期时间存在不确定性的情况下，当局继续优先考虑货币稳定。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/china-cbank-leaves-key-policy-rate-unchanged-expected-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 01:31:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>第四季度利润超出市场预期后富士康股价飙升 9.5%</title>
-      <link>https://www.reuters.com/technology/foxconn-shares-rise-more-than-5-after-q4-profit-beats-market-estimates-2024-03-15/</link>
-      <description><![CDATA[苹果供应商富士康的股价周五早盘上涨 9.5%，达到三年来的最高水平，一天前该公司公布了第四季度利润超出预期，并预测由于人工智能服务器需求旺盛，今年的前景看好。]]></description>
-      <guid>https://www.reuters.com/technology/foxconn-shares-rise-more-than-5-after-q4-profit-beats-market-estimates-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 01:15:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国参议院不会快速推进众议院剥离 TikTok 的法案</title>
-      <link>https://www.reuters.com/world/us/us-senate-not-moving-fast-track-house-bill-tiktok-divestiture-2024-03-14/</link>
-      <description><![CDATA[一些美国参议员希望众议院花点时间决定是否支持众议院一项法案，该法案将迫使中国字节跳动在六个月内剥离短视频应用 TikTok，否则将面临禁令。]]></description>
-      <guid>https://www.reuters.com/world/us/us-senate-not-moving-fast-track-house-bill-tiktok-divestiture-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 22:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软指出谷歌在生成人工智能领域的竞争优势</title>
-      <link>https://www.reuters.com/technology/microsoft-singles-out-googles-competitive-edge-generative-ai-2024-03-14/</link>
-      <description><![CDATA[微软告诉欧盟反垄断监管机构，Alphabet 旗下谷歌凭借其大量数据和人工智能优化芯片在生成人工智能方面享有竞争优势，这凸显了两家科技巨头之间的竞争。]]></description>
-      <guid>https://www.reuters.com/technology/microsoft-singles-out-googles-competitive-edge-generative-ai-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 17:41:46 GMT</pubDate>
-    </item>
-    <item>
       <title>拜登称美国钢铁公司必须保持本土化，这对新日铁来说是一个重大打击</title>
       <link>https://www.reuters.com/markets/us/biden-say-us-steel-must-remain-domestically-owned-operated-2024-03-14/</link>
-      <description><![CDATA[美国总统乔·拜登周四表示，已同意被日本新日铁以 149 亿美元收购的美国钢铁公司必须继续是一家美国本土企业，这是首次明确反对该交易。]]></description>
+      <description><![CDATA[美国总统乔·拜登周四表示，已同意被日本新日铁以 149 亿美元收购的美国钢铁公司必须继续是一家美国本土企业，首次明确反对该交易。]]></description>
       <guid>https://www.reuters.com/markets/us/biden-say-us-steel-must-remain-domestically-owned-operated-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 13:27:13 GMT</pubDate>
     </item>
