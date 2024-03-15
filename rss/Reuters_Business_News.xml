@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 15 Mar 2024 02:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 02:58:44 GMT</lastBuildDate>
     <item>
       <title>据 NHK 报道，本田与日产将签署全面电动汽车合作谅解备忘录</title>
       <link>https://www.reuters.com/business/autos-transportation/honda-nissan-sign-mou-comprehensive-ev-cooperation-nhk-reports-2024-03-15/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>通用汽车墨西哥子公司同意加薪 9.2% - 工会</title>
       <link>https://www.reuters.com/business/autos-transportation/general-motors-mexico-unit-agrees-92-wage-hike-union-2024-03-15/</link>
-      <description><![CDATA[美国汽车制造商通用汽车墨西哥分公司 Silao 工会周四在一份声明中表示，该公司已就工资上涨 9.2% 达成协议。]]></description>
+      <description><![CDATA[美国汽车制造商通用汽车墨西哥分公司 Silao 工会在周四的一份声明中表示，该公司已与工会达成协议，工资上涨 9.2%。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/general-motors-mexico-unit-agrees-92-wage-hike-union-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 01:41:10 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>拜登表示美国钢铁公司必须保持国内所有和经营</title>
       <link>https://www.reuters.com/markets/us/biden-say-us-steel-must-remain-domestically-owned-operated-2024-03-14/</link>
-      <description><![CDATA[美国总统乔·拜登周四表示，已同意被日本新日铁以 149 亿美元收购的美国钢铁公司必须继续是一家美国本土拥有和经营的公司，反对拟议的合并。]]></description>
+      <description><![CDATA[美国总统乔·拜登周四表示，美国钢铁公司已同意被日本新日铁以 149 亿美元收购，该公司必须继续是一家美国本土拥有和经营的公司，反对拟议的合并。]]></description>
       <guid>https://www.reuters.com/markets/us/biden-say-us-steel-must-remain-domestically-owned-operated-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 13:27:13 GMT</pubDate>
     </item>
