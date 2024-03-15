@@ -3,8 +3,50 @@
   <channel>
     <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 15 Mar 2024 14:52:41 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 15 Mar 2024 15:18:00 GMT</lastBuildDate>
+    <item>
+      <title>宝马在中国年度消费者权益日成为焦点</title>
+      <link>https://www.reuters.com/business/autos-transportation/bmw-spotlight-chinas-annual-consumer-rights-day-2024-03-15/</link>
+      <description><![CDATA[周五在中国举行的年度消费者日晚会上，德国汽车制造商宝马因其车辆传动轴发出“令人不安的”噪音而受到批评。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/bmw-spotlight-chinas-annual-consumer-rights-day-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 13:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>布林肯呼吁加强全球合作打击合成毒品</title>
+      <link>https://www.reuters.com/world/blinken-calls-closer-global-cooperation-tackling-synthetic-drugs-2024-03-15/</link>
+      <description><![CDATA[美国国务卿安东尼·布林肯周五呼吁加强国际合作，打击芬太尼等非法合成药物的猖獗贩运，芬太尼是美国服药过量死亡的主要原因。]]></description>
+      <guid>https://www.reuters.com/world/blinken-calls-closer-global-cooperation-tackling-synthetic-drugs-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 13:22:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国宁德时代公布2022年以来首次季度利润下滑，重新夺回市场份额</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinas-catl-posts-first-profit-fall-since-q2-2022-2024-03-15/</link>
+      <description><![CDATA[中国电动汽车电池制造商宁德时代周五公布季度净利润自 2022 年第二季度以来首次下降，该公司在全球最大汽车市场需求放缓的情况下与规模较小的竞争对手展开角力。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinas-catl-posts-first-profit-fall-since-q2-2022-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果就首席执行官库克的中国销售言论达成 4.9 亿美元和解</title>
+      <link>https://www.reuters.com/legal/apple-reaches-490-million-settlement-with-shareholders-over-china-sales-comments-2024-03-15/</link>
+      <description><![CDATA[苹果公司已达成 4.9 亿美元和解协议，以了结一项集体诉讼，该诉讼指控首席执行官蒂姆·库克隐瞒了中国 iPhone 需求下降的情况，欺骗了股东。]]></description>
+      <guid>https://www.reuters.com/legal/apple-reaches-490-million-settlement-with-shareholders-over-china-sales-comments-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>据英国《金融时报》报道，由于华盛顿威胁禁止TikTok，TikTok 在美国的收入达到 160 亿美元</title>
+      <link>https://www.reuters.com/technology/tiktoks-us-revenue-hits-16-bln-washington-threatens-ban-ft-reports-2024-03-15/</link>
+      <description><![CDATA[据英国《金融时报》周五报道，中国字节跳动旗下的 TikTok 去年在美国的收入约为 160 亿美元，这款吸引 Z 世代用户的病毒视频应用在美国面临被禁止的风险。]]></description>
+      <guid>https://www.reuters.com/technology/tiktoks-us-revenue-hits-16-bln-washington-threatens-ban-ft-reports-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:17:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国习近平愿意与安哥拉合作摆脱石油</title>
+      <link>https://www.reuters.com/world/chinas-xi-willing-work-with-angola-it-moves-oil-2024-03-15/</link>
+      <description><![CDATA[据官方媒体周五报道，中国国家主席习近平表示，随着非洲石油生产国寻求经济多元化帮助，他将支持中国企业投资安哥拉农业和制造业。]]></description>
+      <guid>https://www.reuters.com/world/chinas-xi-willing-work-with-angola-it-moves-oil-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:17:17 GMT</pubDate>
+    </item>
     <item>
       <title>TikTok 禁令法案：我们对 Tiktok 的中国所有者的了解</title>
       <link>https://www.reuters.com/technology/what-do-we-know-about-tiktoks-chinese-owner-bytedance-2024-03-15/</link>
@@ -41,9 +83,9 @@
       <pubDate>Fri, 15 Mar 2024 10:02:56 GMT</pubDate>
     </item>
     <item>
-      <title>麦当劳在多个国家遭遇技术故障，部分门店恢复营业</title>
+      <title>一些国家的技术中断后，一些麦当劳门店恢复营业</title>
       <link>https://www.reuters.com/business/retail-consumer/mcdonalds-battles-technical-woes-australia-hong-kong-japan-nyt-says-2024-03-15/</link>
-      <description><![CDATA[麦当劳周五表示，技术故障已扰乱其全球许多门店的运营，包括日本、英国和澳大利亚，但排除了网络安全事件的可能性。]]></description>
+      <description><![CDATA[周五，麦当劳连锁餐厅在全球范围内的许多门店因技术故障导致运营中断几个小时后，部分麦当劳门店已恢复营业。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/mcdonalds-battles-technical-woes-australia-hong-kong-japan-nyt-says-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 08:39:26 GMT</pubDate>
     </item>
@@ -95,48 +137,6 @@
       <description><![CDATA[一些美国参议员希望众议院花点时间决定是否支持众议院一项法案，该法案将迫使中国字节跳动在六个月内剥离短视频应用 TikTok，否则将面临禁令。]]></description>
       <guid>https://www.reuters.com/world/us/us-senate-not-moving-fast-track-house-bill-tiktok-divestiture-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 22:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>TikTok 法案引发美国宪法保护言论自由的斗争</title>
-      <link>https://www.reuters.com/legal/tiktok-bill-sets-up-fight-over-free-speech-protections-us-constitution-2024-03-14/</link>
-      <description><![CDATA[美国立法者希望强制其中国所有者出售 TikTok 或禁止其进入应用商店，法律专家表示，这将与这家社交媒体公司就美国宪法第一修正案的言论自由保护展开摊牌。]]></description>
-      <guid>https://www.reuters.com/legal/tiktok-bill-sets-up-fight-over-free-speech-protections-us-constitution-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 20:15:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国表示“立即”开设瓦努阿图大使馆，警告中国交易</title>
-      <link>https://www.reuters.com/world/asia-pacific/us-says-open-vanuatu-embassy-imminently-warns-china-deals-2024-03-14/</link>
-      <description><![CDATA[美国东亚事务高级外交官周四表示，美国将“立即”在瓦努阿图开设大使馆，并正在努力获得基里巴斯议会的批准，同时重申对太平洋岛国的危险发出警告。与中国的协议。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/us-says-open-vanuatu-embassy-imminently-warns-china-deals-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 19:34:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国立法者批准对快时尚实施处罚的法案</title>
-      <link>https://www.reuters.com/world/europe/french-lawmakers-approve-bill-apply-penalties-fast-fashion-2024-03-14/</link>
-      <description><![CDATA[法国议会下院周四批准了一项法案，要求对中国 Shein 等公司销售的超快时尚产品进行处罚，旨在帮助抵消其对环境的影响。]]></description>
-      <guid>https://www.reuters.com/world/europe/french-lawmakers-approve-bill-apply-penalties-fast-fashion-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 19:10:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>解说：TikTok 在美国会被禁止吗？该法案的下一步是什么？</title>
-      <link>https://www.reuters.com/world/us/will-tiktok-be-banned-us-what-is-next-bill-2024-03-14/</link>
-      <description><![CDATA[美国众议院周三以压倒性多数通过了一项法案，该法案将给予 TikTok 的中国所有者字节跳动大约六个月的时间剥离该短视频应用程序的美国资产，否则将面临全国范围的禁令。以下是禁止该应用程序的努力、它在美国参议院的机会以及这实际上意味着什么。]]></description>
-      <guid>https://www.reuters.com/world/us/will-tiktok-be-banned-us-what-is-next-bill-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 18:52:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>上汽名爵将于夏季开设第二个欧洲零部件中心</title>
-      <link>https://www.reuters.com/business/autos-transportation/saics-mg-open-second-europe-parts-centre-by-summer-2024-03-14/</link>
-      <description><![CDATA[中国汽车制造商上汽集团旗下的名爵汽车发言人周四告诉路透社，该公司将于 2024 年夏季在法国开设第二个欧洲零部件中心，以满足该国对其汽车不断增长的需求。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/saics-mg-open-second-europe-parts-centre-by-summer-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 15:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zara 母公司 Inditex 大幅削减中国门店 聚焦数字化</title>
-      <link>https://www.reuters.com/business/retail-consumer/zara-owner-inditex-slashes-china-stores-digital-focus-2024-03-14/</link>
-      <description><![CDATA[Zara 母公司 Inditex 去年在中国的税前利润增长了一倍多，尽管这家时尚零售商缩减了实体店规模，关闭了其在中国五分之一的门店，这表明其对在线销售的关注正在取得成果。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/zara-owner-inditex-slashes-china-stores-digital-focus-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 14:47:25 GMT</pubDate>
     </item>
     <item>
       <title>中国为支撑陷入困境的股市所做的努力</title>
