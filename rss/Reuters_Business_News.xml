@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 14 Mar 2024 23:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 00:29:44 GMT</lastBuildDate>
+    <item>
+      <title>中国网约车公司滴滴出行必须因首次公开募股面临美国投资者诉讼</title>
+      <link>https://www.reuters.com/technology/chinese-ride-hailing-company-didi-global-must-face-us-investor-lawsuit-over-ipo-2024-03-14/</link>
+      <description><![CDATA[中国网约车公司滴滴出行必须在美国法院面临诉讼，指控其隐瞒和违反中国政府的命令，欺骗投资者，该命令推迟了 2021 年首次公开募股，直至解决网络安全和隐私问题。]]></description>
+      <guid>https://www.reuters.com/technology/chinese-ride-hailing-company-didi-global-must-face-us-investor-lawsuit-over-ipo-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 22:15:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smartsheet 收入前景未达预期，股价下跌</title>
+      <link>https://www.reuters.com/technology/smartsheet-revenue-outlook-misses-estimates-stock-sinks-2024-03-14/</link>
+      <description><![CDATA[Smartsheet 周四公布的收入前景未达到分析师预期，导致其股价下跌 10%，尽管这家云软件销售商的季度收入超出了预期。]]></description>
+      <guid>https://www.reuters.com/technology/smartsheet-revenue-outlook-misses-estimates-stock-sinks-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 22:14:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国参议院不会快速推进众议院剥离 TikTok 的法案</title>
+      <link>https://www.reuters.com/world/us/us-senate-not-moving-fast-track-house-bill-tiktok-divestiture-2024-03-14/</link>
+      <description><![CDATA[一些美国参议员希望众议院花点时间决定是否支持众议院一项法案，该法案将迫使中国字节跳动在六个月内剥离短视频应用 TikTok，否则将面临禁令。]]></description>
+      <guid>https://www.reuters.com/world/us/us-senate-not-moving-fast-track-house-bill-tiktok-divestiture-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 22:09:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>利洁时 (Reckitt) 子公司因伊利诺伊州 Enfamil 婴儿配方奶粉案被判 6000 万美元赔偿</title>
+      <link>https://www.reuters.com/legal/reckitt-unit-hit-with-60-million-verdict-enfamil-baby-formula-case-illinois-2024-03-14/</link>
+      <description><![CDATA[伊利诺伊州陪审团已下令利洁时子公司美赞臣向一名早产儿的母亲支付 6000 万美元，这名早产儿在食用该公司的 Enfamil 婴儿配方奶粉后死于肠道疾病。]]></description>
+      <guid>https://www.reuters.com/legal/reckitt-unit-hit-with-60-million-verdict-enfamil-baby-formula-case-illinois-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 21:52:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘：市场承压，关注中国房价</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-14/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 21:50:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于成本上升，Ulta Beauty 的年度利润预测低于预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/ulta-beautys-annual-profit-forecast-misses-estimates-costs-climb-2024-03-14/</link>
+      <description><![CDATA[Ulta Beauty 周四预测全年利润低于华尔街预期，因为供应链成本上升和促销活动增加损害了利润率，导致其股价在盘后交易中下跌 4.5%。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/ulta-beautys-annual-profit-forecast-misses-estimates-costs-climb-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 21:49:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adobe 预测第二季度营收将低迷</title>
+      <link>https://www.reuters.com/technology/adobe-forecasts-downbeat-second-quarter-revenue-2024-03-14/</link>
+      <description><![CDATA[Adobe 周四预测第二季度收入低于分析师预期，原因是经济形势严峻，竞争激烈，人工智能集成摄影、插图和视频软件需求疲软。]]></description>
+      <guid>https://www.reuters.com/technology/adobe-forecasts-downbeat-second-quarter-revenue-2024-03-14/</guid>
+      <pubDate>Thu, 14 Mar 2024 21:12:38 GMT</pubDate>
+    </item>
     <item>
       <title>由于负利率结束的押注不断增加，外国人纷纷买入日本债券</title>
       <link>https://www.reuters.com/markets/rates-bonds/foreigners-pile-into-japanese-bonds-amid-rising-bets-end-negative-rates-2024-03-14/</link>
@@ -34,25 +83,11 @@
       <pubDate>Thu, 14 Mar 2024 18:52:36 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，Platinum Equity 正在探索价值超过 20 亿美元的 Club Car 销售</title>
-      <link>https://www.reuters.com/markets/deals/platinum-equity-explores-2-billion-plus-club-car-sale-sources-say-2024-03-14/</link>
-      <description><![CDATA[知情人士称，私募股权公司 Platinum Equity 已聘请顾问探讨出售 Club Car 的事宜，包括债务在内，这家高尔夫球车制造商的估值可能超过 20 亿美元。]]></description>
-      <guid>https://www.reuters.com/markets/deals/platinum-equity-explores-2-billion-plus-club-car-sale-sources-say-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 18:33:12 GMT</pubDate>
-    </item>
-    <item>
       <title>微软指出谷歌在生成人工智能领域的竞争优势</title>
       <link>https://www.reuters.com/technology/microsoft-singles-out-googles-competitive-edge-generative-ai-2024-03-14/</link>
       <description><![CDATA[微软告诉欧盟反垄断监管机构，Alphabet 旗下谷歌凭借其大量数据和人工智能优化芯片在生成人工智能方面享有竞争优势，这凸显了两家科技巨头之间的竞争。]]></description>
       <guid>https://www.reuters.com/technology/microsoft-singles-out-googles-competitive-edge-generative-ai-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 17:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>意大利电信部长表示业务重组计划是可持续的</title>
-      <link>https://www.reuters.com/business/media-telecom/kkr-working-finalise-telecom-italia-network-deal-this-summer-2024-03-14/</link>
-      <description><![CDATA[意大利工业部长阿道夫·乌尔索周四表示，意大利电信 (TIM) 通过出售前电话垄断企业固网网络而成立的新公司的业务计划是可持续的。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/kkr-working-finalise-telecom-italia-network-deal-this-summer-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 17:01:16 GMT</pubDate>
     </item>
     <item>
       <title>独家：花旗集团就欺凌指控调查高级 IPO 银行家</title>
@@ -76,23 +111,9 @@
       <pubDate>Thu, 14 Mar 2024 14:29:44 GMT</pubDate>
     </item>
     <item>
-      <title>NYCB 出售部分贷款以获取收益，旨在将签名添加到财务报告中</title>
-      <link>https://www.reuters.com/markets/us/nycb-files-annual-report-with-sec-after-missing-deadline-2024-03-14/</link>
-      <description><![CDATA[纽约社区银行在周四的年度报告中表示，该银行已经出售了一些贷款以获取收益，并正在努力将倒闭的贷款机构 Signature Bank 纳入其财务报告流程。]]></description>
-      <guid>https://www.reuters.com/markets/us/nycb-files-annual-report-with-sec-after-missing-deadline-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 14:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽油、食品提振美国二月份生产者价格</title>
-      <link>https://www.reuters.com/markets/us/gasoline-food-boost-us-producer-prices-february-2024-03-14/</link>
-      <description><![CDATA[由于汽油和食品等商品成本飙升，美国 2 月份生产者价格涨幅超出预期，这可能会引发人们对通胀再次抬头的担忧。]]></description>
-      <guid>https://www.reuters.com/markets/us/gasoline-food-boost-us-producer-prices-february-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 13:31:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登称美国钢铁公司必须保持国内所有和经营</title>
+      <title>拜登表示美国钢铁公司必须保持国内所有和经营</title>
       <link>https://www.reuters.com/markets/us/biden-say-us-steel-must-remain-domestically-owned-operated-2024-03-14/</link>
-      <description><![CDATA[美国总统乔·拜登周四表示，美国钢铁公司已同意被日本新日铁以 149 亿美元收购，该公司必须继续是一家美国本土拥有和经营的公司，反对拟议的合并。]]></description>
+      <description><![CDATA[美国总统乔·拜登周四表示，已同意被日本新日铁以 149 亿美元收购的美国钢铁公司必须继续是一家美国本土拥有和经营的公司，反对拟议的合并。]]></description>
       <guid>https://www.reuters.com/markets/us/biden-say-us-steel-must-remain-domestically-owned-operated-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 13:27:13 GMT</pubDate>
     </item>
@@ -104,7 +125,7 @@
       <pubDate>Thu, 14 Mar 2024 12:46:35 GMT</pubDate>
     </item>
     <item>
-      <title>PPI 数据公布和芯片制造商下跌后，华尔街收低</title>
+      <title>PPI 数据公布和芯片制造商下跌后，华尔街收跌</title>
       <link>https://www.reuters.com/markets/us/futures-rise-run-up-inflation-figures-retail-sales-data-2024-03-14/</link>
       <description><![CDATA[美国股市周四下跌，芯片制造商股票连续第二天下跌，生产者价格上涨让投资者怀疑美联储是否会比预期等待更长的时间降息。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-rise-run-up-inflation-figures-retail-sales-data-2024-03-14/</guid>
@@ -118,32 +139,11 @@
       <pubDate>Thu, 14 Mar 2024 11:04:04 GMT</pubDate>
     </item>
     <item>
-      <title>分析师表示，由于炼油厂停电导致供应减少，美国汽油价格将上涨</title>
-      <link>https://www.reuters.com/business/energy/us-pump-prices-set-jump-refinery-outages-nip-supply-analysts-say-2024-03-14/</link>
-      <description><![CDATA[分析师称，未来几周美国驾车者可能会看到汽油价格大幅上涨，因为主要炼油厂停运导致供应在需求季节性激增之前减少。]]></description>
-      <guid>https://www.reuters.com/business/energy/us-pump-prices-set-jump-refinery-outages-nip-supply-analysts-say-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 10:07:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>福特有向小型企业卡车车队销售软件的宏伟目标</title>
-      <link>https://www.reuters.com/business/autos-transportation/ford-has-big-goals-software-sales-small-business-truck-fleets-2024-03-14/</link>
-      <description><![CDATA[HomeTown Services 是一家位于俄克拉荷马州塔尔萨的供暖和制冷维修公司，正准备在其部分卡车上安装驾驶员监控摄像头，并已使用流数据提醒驾驶员不要在闲置车辆上坐太久，浪费汽油。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/ford-has-big-goals-software-sales-small-business-truck-fleets-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 10:04:02 GMT</pubDate>
-    </item>
-    <item>
       <title>SpaceX 星际飞船在完成第三次试飞大部分时间后解体</title>
       <link>https://www.reuters.com/technology/space/spacex-hoping-launch-starship-farther-third-test-flight-2024-03-14/</link>
       <description><![CDATA[SpaceX 的 Starship 火箭旨在最终将宇航员送上月球及更远的地方，周四在第三次尝试中完成了几乎整个太空试飞，比以往任何时候都更远，但在返回地球时解体。]]></description>
       <guid>https://www.reuters.com/technology/space/spacex-hoping-launch-starship-farther-third-test-flight-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 05:09:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合健康保险恢复了哪些内容以及重大黑客攻击后的下一步是什么？</title>
-      <link>https://www.reuters.com/technology/cybersecurity/who-what-is-hack-unitedhealths-tech-unit-affecting-2024-03-06/</link>
-      <description><![CDATA[继 2 月 21 日勒索软件黑客攻击扰乱美国医疗保健系统后，联合健康集团 (UnitedHealth Group) 已将其 Change Healthcare 技术部门的药房系统恢复上线。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/who-what-is-hack-unitedhealths-tech-unit-affecting-2024-03-06/</guid>
-      <pubDate>Wed, 06 Mar 2024 22:11:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
