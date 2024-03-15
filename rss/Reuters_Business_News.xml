@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 15 Mar 2024 05:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2024 05:31:37 GMT</lastBuildDate>
+    <item>
+      <title>路透调查：分析师表示，日本央行将于四月结束负利率，三月的可能性很大</title>
+      <link>https://www.reuters.com/markets/rates-bonds/boj-end-negative-rates-april-high-chance-march-analysts-say-2024-03-15/</link>
+      <description><![CDATA[据路透社调查的近三分之二的经济学家称，日本央行将在 4 月份放弃负利率政策，尽管现在越来越多的少数人预计日本央行将在 4 月份放弃负利率政策，而 2 月份接受调查的只有少数人。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/boj-end-negative-rates-april-high-chance-march-analysts-say-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 04:09:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>日产考虑与本田合作开发电动汽车——消息人士</title>
+      <link>https://www.reuters.com/business/autos-transportation/nissan-considering-partnership-with-honda-evs-sources-2024-03-15/</link>
+      <description><![CDATA[三名日产知情人士透露，日产汽车正在考虑与本田汽车就电动汽车关键零部件寻求业务合作，以降低生产成本。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/nissan-considering-partnership-with-honda-evs-sources-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 04:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本工会将公布工资谈判结果，预示央行将发生转变</title>
+      <link>https://www.reuters.com/markets/asia/japan-unions-will-unveil-results-wage-talks-presaging-shift-central-bank-2024-03-15/</link>
+      <description><![CDATA[日本最大的工会组织将于周五公布本周年度工资谈判的结果，预计涨幅将超过 4%，这将是 90 年代初以来的最大提振，并加强了央行转变的理由。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japan-unions-will-unveil-results-wage-talks-presaging-shift-central-bank-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 02:35:09 GMT</pubDate>
+    </item>
     <item>
       <title>据 NHK 报道，本田与日产将签署全面电动汽车合作谅解备忘录</title>
       <link>https://www.reuters.com/business/autos-transportation/honda-nissan-sign-mou-comprehensive-ev-cooperation-nhk-reports-2024-03-15/</link>
@@ -20,9 +41,9 @@
       <pubDate>Fri, 15 Mar 2024 02:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>中国2月份新建住宅价格延续跌势</title>
+      <title>尽管有支持措施，中国房价仍继续下跌</title>
       <link>https://www.reuters.com/world/china/chinas-feb-new-home-prices-extend-declines-2024-03-15/</link>
-      <description><![CDATA[周五官方数据显示，尽管采取了一系列措施支撑脆弱的房地产行业，中国2月份新房价格连续第八个月下跌。]]></description>
+      <description><![CDATA[周五公布的官方数据显示，中国2月份新建住宅价格连续第八个月下跌，这表明尽管采取了一系列措施支撑该行业，但脆弱的房地产市场仍在努力寻找底部。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-feb-new-home-prices-extend-declines-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 01:50:05 GMT</pubDate>
     </item>
@@ -62,27 +83,6 @@
       <pubDate>Fri, 15 Mar 2024 01:15:21 GMT</pubDate>
     </item>
     <item>
-      <title>据彭博社报道，三星准备从美国获得超过 60 亿美元的投资以扩大投资</title>
-      <link>https://www.reuters.com/technology/samsung-poised-win-over-6-bln-us-expanded-investment-bloomberg-news-reports-2024-03-15/</link>
-      <description><![CDATA[据彭博社周四援引知情人士的话报道，美国计划向三星电子公司拨款超过 60 亿美元，帮助这家芯片制造商扩大其已宣布的德克萨斯州项目的范围。]]></description>
-      <guid>https://www.reuters.com/technology/samsung-poised-win-over-6-bln-us-expanded-investment-bloomberg-news-reports-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 01:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国机构调查手持设备使用外国卫星的风险</title>
-      <link>https://www.reuters.com/technology/us-agency-probes-risks-foreign-satellite-use-by-handheld-devices-2024-03-15/</link>
-      <description><![CDATA[美国联邦通信委员会周四表示，正在调查美国手机和其他设备使用俄罗斯和中国外国卫星系统是否构成安全威胁。]]></description>
-      <guid>https://www.reuters.com/technology/us-agency-probes-risks-foreign-satellite-use-by-handheld-devices-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 00:55:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国商会就气候风险披露规则起诉美国证券交易委员会</title>
-      <link>https://www.reuters.com/legal/us-chamber-commerce-sues-sec-over-climate-risk-disclosure-rules-2024-03-14/</link>
-      <description><![CDATA[美国商会周四表示，已针对美国证券交易委员会要求上市公司报告气候相关风险的新规定提起诉讼。]]></description>
-      <guid>https://www.reuters.com/legal/us-chamber-commerce-sues-sec-over-climate-risk-disclosure-rules-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 23:16:21 GMT</pubDate>
-    </item>
-    <item>
       <title>美国参议院不会快速推进众议院剥离 TikTok 的法案</title>
       <link>https://www.reuters.com/world/us/us-senate-not-moving-fast-track-house-bill-tiktok-divestiture-2024-03-14/</link>
       <description><![CDATA[一些美国参议员希望众议院花点时间决定是否支持众议院一项法案，该法案将迫使中国字节跳动在六个月内剥离短视频应用 TikTok，否则将面临禁令。]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>由于成本上升，Ulta Beauty 的年度利润预测低于预期</title>
       <link>https://www.reuters.com/business/retail-consumer/ulta-beautys-annual-profit-forecast-misses-estimates-costs-climb-2024-03-14/</link>
-      <description><![CDATA[Ulta Beauty 周四预测全年利润低于华尔街预期，原因是供应链成本上升和促销活动增加损害了利润率，导致其股价在盘后交易中下跌 4.5%。]]></description>
+      <description><![CDATA[Ulta Beauty 周四预测全年利润低于华尔街预期，因为供应链成本上升和促销活动增加损害了利润率，导致其股价在盘后交易中下跌 4.5%。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/ulta-beautys-annual-profit-forecast-misses-estimates-costs-climb-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 21:49:11 GMT</pubDate>
     </item>
@@ -118,9 +118,9 @@
       <pubDate>Thu, 14 Mar 2024 15:05:49 GMT</pubDate>
     </item>
     <item>
-      <title>拜登称美国钢铁公司必须保持国内所有和经营</title>
+      <title>拜登称美国钢铁公司必须保持本土化，这对新日铁来说是一个重大打击</title>
       <link>https://www.reuters.com/markets/us/biden-say-us-steel-must-remain-domestically-owned-operated-2024-03-14/</link>
-      <description><![CDATA[美国总统乔·拜登周四表示，美国钢铁公司已同意被日本新日铁以 149 亿美元收购，该公司必须继续是一家美国本土拥有和经营的公司，反对拟议的合并。]]></description>
+      <description><![CDATA[美国总统乔·拜登周四表示，已同意被日本新日铁以 149 亿美元收购的美国钢铁公司必须继续是一家美国本土企业，这是首次明确反对该交易。]]></description>
       <guid>https://www.reuters.com/markets/us/biden-say-us-steel-must-remain-domestically-owned-operated-2024-03-14/</guid>
       <pubDate>Thu, 14 Mar 2024 13:27:13 GMT</pubDate>
     </item>
@@ -139,11 +139,11 @@
       <pubDate>Thu, 14 Mar 2024 11:32:30 GMT</pubDate>
     </item>
     <item>
-      <title>英伟达下周将向开发者展示新的人工智能芯片</title>
-      <link>https://www.reuters.com/technology/nvidia-offers-developers-peek-new-ai-chip-next-week-2024-03-14/</link>
-      <description><![CDATA[英伟达及其首席执行官黄仁勋作为科技界人工智能芯片主要供应商的桂冠还能维持多久？]]></description>
-      <guid>https://www.reuters.com/technology/nvidia-offers-developers-peek-new-ai-chip-next-week-2024-03-14/</guid>
-      <pubDate>Thu, 14 Mar 2024 11:04:04 GMT</pubDate>
+      <title>中国为支撑陷入困境的股市所做的努力</title>
+      <link>https://www.reuters.com/markets/asia/measures-china-has-taken-prop-up-its-stock-market-2024-01-23/</link>
+      <description><![CDATA[在中国证券监管机构加大力度恢复投资者信心后，中国蓝筹股沪深300指数已从2月初触及的五年低点反弹。]]></description>
+      <guid>https://www.reuters.com/markets/asia/measures-china-has-taken-prop-up-its-stock-market-2024-01-23/</guid>
+      <pubDate>Tue, 23 Jan 2024 07:15:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
