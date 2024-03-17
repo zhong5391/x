@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 17 Mar 2024 08:40:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 09:17:03 GMT</lastBuildDate>
     <item>
       <title>在中国激烈的价格竞争中，小鹏汽车将推出更便宜的电动汽车品牌</title>
       <link>https://www.reuters.com/business/autos-transportation/xpeng-launch-cheaper-ev-brand-amid-fierce-china-price-competition-2024-03-17/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>美国联邦航空管理局 (FAA) 调查联合航空波音 737 航班丢失面板</title>
       <link>https://www.reuters.com/business/aerospace-defense/united-operated-boeing-737-with-missing-external-panel-lands-safely-oregon-2024-03-15/</link>
-      <description><![CDATA[美国联邦航空管理局正在调查联合航空一架波音 737-800 飞机周五安全降落在俄勒冈州之前如何丢失外部面板。]]></description>
+      <description><![CDATA[美国联邦航空管理局正在调查联合航空一架波音 737-800 客机周五安全降落在俄勒冈州之前如何丢失外部面板。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/united-operated-boeing-737-with-missing-external-panel-lands-safely-oregon-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 23:03:55 GMT</pubDate>
     </item>
