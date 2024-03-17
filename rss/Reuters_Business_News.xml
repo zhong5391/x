@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 17 Mar 2024 21:03:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2024 21:20:43 GMT</lastBuildDate>
     <item>
       <title>独家：消息人士称，Reddit IPO 超额认购高达五倍</title>
       <link>https://www.reuters.com/markets/deals/reddits-ipo-much-five-times-oversubscribed-sources-say-2024-03-17/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>石油合并、清洁燃料在休斯顿能源会议上争夺关注</title>
       <link>https://www.reuters.com/sustainability/climate-energy/ceraweek-oil-mergers-clean-fuels-vie-attention-houston-energy-conference-2024-03-17/</link>
-      <description><![CDATA[石油高管和部长本周齐聚休斯敦，参加世界上最大的能源会议之一，这次会议受到了轰动一时的合并、稳定的油价以及大规模转向清洁燃料的压力的减轻的鼓舞。]]></description>
+      <description><![CDATA[石油行业高管和部长本周齐聚休斯敦，参加世界上最大的能源会议之一，这次会议受到了轰动一时的合并、稳定的油价以及大规模转向清洁燃料的压力的减轻的鼓舞。]]></description>
       <guid>https://www.reuters.com/sustainability/climate-energy/ceraweek-oil-mergers-clean-fuels-vie-attention-houston-energy-conference-2024-03-17/</guid>
       <pubDate>Sun, 17 Mar 2024 13:41:15 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>据《华尔街日报》报道，美国正在调查 Meta 在非法药品销售中的作用</title>
       <link>https://www.reuters.com/world/us/us-investigating-meta-role-drug-sales-wsj-reports-2024-03-16/</link>
-      <description><![CDATA[《华尔街日报》周六援引文件和知情人士的话报道称，弗吉尼亚州的美国检察官正在调查 Facebook 母公司 Meta 的社交媒体平台是否为非法毒品销售提供便利并从中获利。]]></description>
+      <description><![CDATA[《华尔街日报》周六援引文件和知情人士的话报道称，弗吉尼亚州的美国检察官正在调查 Facebook 母公司 Meta 的社交媒体平台是否为非法销售毒品提供便利并从中获利。]]></description>
       <guid>https://www.reuters.com/world/us/us-investigating-meta-role-drug-sales-wsj-reports-2024-03-16/</guid>
       <pubDate>Sat, 16 Mar 2024 09:54:02 GMT</pubDate>
     </item>
