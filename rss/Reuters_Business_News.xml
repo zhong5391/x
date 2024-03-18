@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 18 Mar 2024 08:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 08:27:32 GMT</lastBuildDate>
     <item>
       <title>辉瑞拟将舒适达牙膏制造商 Haleon 的股份削减至 24%</title>
       <link>https://www.reuters.com/markets/deals/consumer-healthcare-giant-haleon-says-pfizer-cut-stake-24-2024-03-18/</link>
@@ -15,12 +15,12 @@
     <item>
       <title>全球航运业二氧化碳排放收费压力增大</title>
       <link>https://www.reuters.com/sustainability/climate-energy/pressure-builds-charge-global-shipping-sectors-co2-emissions-2024-03-18/</link>
-      <description><![CDATA[路透社查阅的文件显示，欧盟、加拿大、日本和气候脆弱的太平洋岛国等47个国家联合起来支持对国际航运业的温室气体排放收费。]]></description>
+      <description><![CDATA[路透社查阅的文件显示，欧盟、加拿大、日本和气候脆弱的太平洋岛国等47个国家联合起来支持对国际航运业温室气体排放收费。]]></description>
       <guid>https://www.reuters.com/sustainability/climate-energy/pressure-builds-charge-global-shipping-sectors-co2-emissions-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 06:06:10 GMT</pubDate>
     </item>
     <item>
-      <title>彭博新闻社称，苹果公司正在与谷歌的 Gemini 进行谈判，让其为 iPhone 的人工智能功能提供支持</title>
+      <title>彭博新闻社称，苹果公司正在洽谈让谷歌的 Gemini 为 iPhone 的人工智能功能提供支持</title>
       <link>https://www.reuters.com/technology/apple-talks-let-googles-gemini-power-iphone-ai-features-bloomberg-news-says-2024-03-18/</link>
       <description><![CDATA[彭博社周一援引知情人士的话报道称，苹果公司正在就将谷歌的 Gemini 人工智能 (AI) 引擎内置到 iPhone 中进行谈判。]]></description>
       <guid>https://www.reuters.com/technology/apple-talks-let-googles-gemini-power-iphone-ai-features-bloomberg-news-says-2024-03-18/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>日本央行不会动摇日本数万亿海外投资</title>
       <link>https://www.reuters.com/markets/asia/boj-wont-sway-japans-trillions-investment-abroad-2024-03-18/</link>
-      <description><![CDATA[尽管日本央行正在为货币政策的关键改变做准备，但分析师表示，还需要采取更多措施来实质性改变日本投资者在全球债券市场和日元交易中存放的约 3 万亿美元日元。]]></description>
+      <description><![CDATA[尽管日本央行正在为货币政策的关键改变做准备，但分析师表示，还需要做更多的工作才能实质性地改变日本投资者在全球债券市场和日元交易中存放的约 3 万亿美元日元。]]></description>
       <guid>https://www.reuters.com/markets/asia/boj-wont-sway-japans-trillions-investment-abroad-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 05:14:58 GMT</pubDate>
     </item>
@@ -72,7 +72,7 @@
     <item>
       <title>日本银行对员工进行新情况培训：正利率</title>
       <link>https://www.reuters.com/markets/rates-bonds/japanese-bank-trains-staff-novel-scenario-positive-interest-rates-2024-03-18/</link>
-      <description><![CDATA[随着日本接近结束八年的负利率，京都的一家地区贷款机构正在提供电子学习，以培训没有在正利率环境下放贷或吸收存款经验的员工。]]></description>
+      <description><![CDATA[随着日本即将结束八年的负利率，京都的一家地区贷款机构正在提供电子学习，以培训没有在正利率环境下放贷或吸收存款经验的员工。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/japanese-bank-trains-staff-novel-scenario-positive-interest-rates-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 03:02:35 GMT</pubDate>
     </item>
@@ -128,7 +128,7 @@
     <item>
       <title>石油合并、清洁燃料在休斯顿能源会议上争夺关注</title>
       <link>https://www.reuters.com/sustainability/climate-energy/ceraweek-oil-mergers-clean-fuels-vie-attention-houston-energy-conference-2024-03-17/</link>
-      <description><![CDATA[石油高管和部长本周齐聚休斯敦，参加世界上最大的能源会议之一，这次会议受到了轰动一时的合并、稳定的油价以及大规模转向清洁燃料的压力的减轻的鼓舞。]]></description>
+      <description><![CDATA[石油行业高管和部长本周齐聚休斯敦，参加世界上最大的能源会议之一，这次会议受到了轰动一时的合并、稳定的油价以及大规模转向清洁燃料的压力的减轻的鼓舞。]]></description>
       <guid>https://www.reuters.com/sustainability/climate-energy/ceraweek-oil-mergers-clean-fuels-vie-attention-houston-energy-conference-2024-03-17/</guid>
       <pubDate>Sun, 17 Mar 2024 13:41:15 GMT</pubDate>
     </item>
