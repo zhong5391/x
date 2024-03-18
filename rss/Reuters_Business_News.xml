@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 18 Mar 2024 19:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 19:28:37 GMT</lastBuildDate>
+    <item>
+      <title>伯克希尔哈撒韦公司加速股票回购</title>
+      <link>https://www.reuters.com/markets/us/berkshire-hathaway-speeds-up-stock-buybacks-2024-03-18/</link>
+      <description><![CDATA[伯克希尔哈撒韦公司加快了回购自己股票的步伐，这表明长期担任董事长的沃伦·巴菲特认为这些股票被低估，是花费多余现金的好地方。]]></description>
+      <guid>https://www.reuters.com/markets/us/berkshire-hathaway-speeds-up-stock-buybacks-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 18:53:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>对冲基金行业组织就国债市场交易商规则起诉美国证券交易委员会</title>
+      <link>https://www.reuters.com/markets/us/hedge-fund-industry-groups-sue-us-sec-over-treasury-market-dealer-rule-2024-03-18/</link>
+      <description><![CDATA[代表私募基金管理行业的贸易团体周一起诉美国证券交易委员会（SEC），要求其规定经常交易政府债券和其他证券的公司必须注册为经纪自营商。]]></description>
+      <guid>https://www.reuters.com/markets/us/hedge-fund-industry-groups-sue-us-sec-over-treasury-market-dealer-rule-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 17:23:20 GMT</pubDate>
+    </item>
     <item>
       <title>日本央行将取消负利率并结束收益率曲线控制——日经指数</title>
       <link>https://www.reuters.com/markets/rates-bonds/boj-call-time-negative-interest-rates-end-yield-curve-control-nikkei-2024-03-18/</link>
-      <description><![CDATA[据《日经新闻》周一报道，日本央行将在周二召开的董事会会议上决定结束收益率曲线控制和购买风险资产，同时将在 17 年来首次引导利率走高。]]></description>
+      <description><![CDATA[据《日经新闻》周一报道，日本央行将在周二召开的董事会会议上决定结束负利率政策，并决定停止收益率曲线控制和购买风险资产。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/boj-call-time-negative-interest-rates-end-yield-curve-control-nikkei-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 17:14:05 GMT</pubDate>
     </item>
@@ -20,9 +34,9 @@
       <pubDate>Mon, 18 Mar 2024 17:03:02 GMT</pubDate>
     </item>
     <item>
-      <title>美国将于年底前将紧急石油储备恢复至之前水平</title>
+      <title>美国计划在年底前将紧急石油储备恢复到之前的水平</title>
       <link>https://www.reuters.com/business/energy/ceraweek-us-return-emergency-oil-reserve-prior-levels-by-year-end-2024-03-18/</link>
-      <description><![CDATA[美国能源部长詹妮弗·格兰霍姆周一表示，年底美国战略石油储备（SPR）中的石油库存将达到或超过两年前大规模销售之前的水平。]]></description>
+      <description><![CDATA[美国能源部长詹妮弗·格兰霍姆周一表示，年底美国战略石油储备（SPR）中的原油库存将达到或超过两年前大规模销售之前的水平。]]></description>
       <guid>https://www.reuters.com/business/energy/ceraweek-us-return-emergency-oil-reserve-prior-levels-by-year-end-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 16:42:53 GMT</pubDate>
     </item>
@@ -62,13 +76,6 @@
       <pubDate>Mon, 18 Mar 2024 14:32:35 GMT</pubDate>
     </item>
     <item>
-      <title>据 The Information 报道，政治资深人士 Chris Lehane 即将加入 OpeanAI</title>
-      <link>https://www.reuters.com/technology/political-veteran-chris-lehane-nearing-deal-join-opeanai-information-reports-2024-03-18/</link>
-      <description><![CDATA[据 The Information 周一援引知情人士的话报道，Airbnb 前政策主管、克林顿白宫成员 Chris Lehane 即将达成协议，加入 ChatGPT 制造商 OpenAI 担任高级管理人员。]]></description>
-      <guid>https://www.reuters.com/technology/political-veteran-chris-lehane-nearing-deal-join-opeanai-information-reports-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 14:28:22 GMT</pubDate>
-    </item>
-    <item>
       <title>NAHB 称美国房屋建筑商信心升至 7 月以来最高水平</title>
       <link>https://www.reuters.com/markets/us/us-homebuilder-confidence-highest-level-since-july-nahb-says-2024-03-18/</link>
       <description><![CDATA[美国房屋建筑商协会周一表示，由于抵押贷款利率下降以及现有房屋库存持续短缺的情况下定价环境改善，美国房屋建筑商信心在 3 月份升至 7 月份以来的最高水平。]]></description>
@@ -78,14 +85,14 @@
     <item>
       <title>UAW称大众田纳西工厂的工人申请工会选举</title>
       <link>https://www.reuters.com/business/autos-transportation/uaw-says-workers-vw-tennessee-plant-file-union-election-2024-03-18/</link>
-      <description><![CDATA[美国汽车工人联合会周一表示，大众田纳西州查塔努加装配厂的工人正在寻求选举成立工会，这对美国汽车工人联合会主席肖恩·费恩发起的史无前例的运动，将工会的影响力扩大到美国南部的外资汽车制造商来说，是一个严峻的考验。 。]]></description>
+      <description><![CDATA[大众汽车位于田纳西州查塔努加的装配厂的工人们正在寻求加入汽车工人联合会的选举，这对美国汽车工人联合会主席肖恩·费恩发起的史无前例的运动来说是一个关键的考验，该运动旨在将工会的影响力扩大到美国南部的外资汽车制造商。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/uaw-says-workers-vw-tennessee-plant-file-union-election-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 14:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>埃克森美孚首席执行官表示不会试图收购赫斯</title>
+      <title>埃克森美孚首席执行官表示不会试图收购赫斯，而是考虑其在圭亚那的股份</title>
       <link>https://www.reuters.com/markets/deals/ceraweek-exxon-mobil-ceo-says-not-trying-acquire-hess-2024-03-18/</link>
-      <description><![CDATA[埃克森美孚首席执行官达伦·伍兹周一表示，在与雪佛龙的纠纷中，埃克森美孚正试图确保对赫斯公司圭亚那资产的优先购买权，而不是收购该公司本身。]]></description>
+      <description><![CDATA[埃克森美孚首席执行官达伦·伍兹周一表示，在与雪佛龙的纠纷中，埃克森美孚公司正试图证明自己拥有赫斯公司圭亚那资产的权利，而不是收购该公司本身。]]></description>
       <guid>https://www.reuters.com/markets/deals/ceraweek-exxon-mobil-ceo-says-not-trying-acquire-hess-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 14:01:34 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>债券市场将通胀视为美联储会议宽松时间表的通配符</title>
       <link>https://www.reuters.com/markets/us/sticky-inflation-could-be-wild-card-easing-timetable-fed-meeting-2024-03-18/</link>
-      <description><![CDATA[尽管债券投资者预计美联储周三将维持利率不变，但市场反应可能取决于美联储官员对顽固通胀的看法，以及他们对今年宽松政策的时机和程度的信号是否变得更强硬。]]></description>
+      <description><![CDATA[尽管债券投资者预计美联储将在周三的政策声明中维持利率不变，但市场反应可能取决于美联储官员对顽固通胀的看法，以及他们对今年宽松政策的时机和程度的信号是否变得更强硬。]]></description>
       <guid>https://www.reuters.com/markets/us/sticky-inflation-could-be-wild-card-easing-timetable-fed-meeting-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 11:03:54 GMT</pubDate>
     </item>
@@ -111,13 +118,6 @@
       <pubDate>Mon, 18 Mar 2024 10:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>备受瞩目的对冲基金经理纷纷推出 2024 年产品</title>
-      <link>https://www.reuters.com/business/finance/high-profile-hedge-fund-managers-line-up-launches-2024-2024-03-18/</link>
-      <description><![CDATA[研究公司 PivotalPath 以及其他主要经纪商和行业消息人士表示，预计今年将有 40 只由价值数十亿美元的公司的前投资组合经理推出的备受瞩目的对冲基金大丰收。]]></description>
-      <guid>https://www.reuters.com/business/finance/high-profile-hedge-fund-managers-line-up-launches-2024-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 10:07:57 GMT</pubDate>
-    </item>
-    <item>
       <title>富有的美国人让高端房车公司不断发展</title>
       <link>https://www.reuters.com/business/autos-transportation/rich-americans-keep-high-end-rv-company-rolling-along-2024-03-18/</link>
       <description><![CDATA[大多数美国休闲车——这些道路上的庞然大物，通常类似于意外脱轨的棚车——从印第安纳州埃尔克哈特灰色环境中的砂砾工厂中推出，旨在满足大部分中等收入客户的旅行欲望。]]></description>
@@ -127,14 +127,14 @@
     <item>
       <title>英伟达人工智能开发者大会开幕，新芯片成为焦点</title>
       <link>https://www.reuters.com/technology/nvidia-ai-developer-conference-kicks-off-with-new-chips-focus-2024-03-18/</link>
-      <description><![CDATA[人工智能半导体巨头英伟达 (Nvidia) 于周一拉开了年度开发者大会的序幕，投资者重点关注首席执行官黄仁勋 (Jensen Huang) 在下午的主题演讲中宣布的新芯片。]]></description>
+      <description><![CDATA[人工智能半导体巨头英伟达周一拉开了年度开发者大会的序幕，投资者重点关注首席执行官黄仁勋在下午的主题演讲中宣布的新芯片。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-ai-developer-conference-kicks-off-with-new-chips-focus-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 10:02:59 GMT</pubDate>
     </item>
     <item>
-      <title>巨型股的反弹提振了以科技股为主的纳斯达克指数</title>
+      <title>巨型股的反弹提振了以科技股为主的纳斯达克指数，美联储成为焦点</title>
       <link>https://www.reuters.com/markets/us/sp-500-nasdaq-futures-tick-up-ahead-fed-meeting-ai-conference-2024-03-18/</link>
-      <description><![CDATA[华尔街主要股指周一上涨，Alphabet 和特斯拉等大型成长型股票的上涨支撑了科技股密集的纳斯达克指数在本周美联储会议之前的大幅复苏。]]></description>
+      <description><![CDATA[华尔街主要股指周一上涨，Alphabet和特斯拉等大型成长型股票的上涨支撑了以科技股为主的纳斯达克指数的反弹，同时投资者也在等待美联储本周的会议。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-500-nasdaq-futures-tick-up-ahead-fed-meeting-ai-conference-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 09:44:11 GMT</pubDate>
     </item>
