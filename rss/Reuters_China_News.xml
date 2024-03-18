@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 18 Mar 2024 00:31:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 01:36:16 GMT</lastBuildDate>
+    <item>
+      <title>亚洲股市闲置，美元坚挺，迎接央行大放异彩</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-18/</link>
+      <description><![CDATA[周一，亚洲股市低迷，美元坚挺，因为投资者希望在本周央行会议的雷区中前行，日本的自由资金可能会结束，美国降息的速度可能会放缓。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 00:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>普京警告西方俄罗斯与北约冲突距离第三次世界大战仅一步之遥</title>
+      <link>https://www.reuters.com/world/europe/putin-warns-west-russia-nato-conflict-is-just-one-step-ww3-2024-03-17/</link>
+      <description><![CDATA[俄罗斯总统弗拉基米尔·普京周一警告西方，俄罗斯与美国领导的北约军事联盟之间的直接冲突将意味着地球距离第三次世界大战仅一步之遥，但他表示几乎没有人希望出现这种情况。]]></description>
+      <guid>https://www.reuters.com/world/europe/putin-warns-west-russia-nato-conflict-is-just-one-step-ww3-2024-03-17/</guid>
+      <pubDate>Sun, 17 Mar 2024 23:44:49 GMT</pubDate>
+    </item>
     <item>
       <title>一线希望：老年人辅导在中国快速增长</title>
       <link>https://www.reuters.com/world/china/silver-lining-tutoring-elderly-is-growing-fast-china-2024-03-17/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[据英国《金融时报》周五报道，中国字节跳动旗下的 TikTok 去年在美国的收入约为 160 亿美元，这款吸引 Z 世代用户的病毒视频应用在美国面临被禁止的风险。]]></description>
       <guid>https://www.reuters.com/technology/tiktoks-us-revenue-hits-16-bln-washington-threatens-ban-ft-reports-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 12:17:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>崩盘后监管机构严厉打击中国“量化”基金</title>
-      <link>https://www.reuters.com/world/china/chinas-quant-funds-conform-regulators-crack-down-after-crash-2024-03-15/</link>
-      <description><![CDATA[随着监管机构为重振散户投资者信心而对这个价值 2600 亿美元的行业进行打压，中国的计算机驱动的“量化”对冲基金正在加强风险管理并重组其投资组合，以符合国家对公平竞争的定义。]]></description>
-      <guid>https://www.reuters.com/world/china/chinas-quant-funds-conform-regulators-crack-down-after-crash-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 04:54:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国银行维持关键政策利率不变，符合预期</title>
-      <link>https://www.reuters.com/markets/rates-bonds/china-cbank-leaves-key-policy-rate-unchanged-expected-2024-03-15/</link>
-      <description><![CDATA[中国央行周五维持关键政策利率不变，同时从中期政策性贷款操作中提取现金，因为在美联储降息预期时间存在不确定性的情况下，当局继续优先考虑货币稳定。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/china-cbank-leaves-key-policy-rate-unchanged-expected-2024-03-15/</guid>
-      <pubDate>Fri, 15 Mar 2024 01:31:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
