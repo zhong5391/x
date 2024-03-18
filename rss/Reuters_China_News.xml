@@ -1,49 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 18 Mar 2024 04:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 04:51:23 GMT</lastBuildDate>
     <item>
-      <title>中国乐观的工业产出和零售额因房地产疲软而受到影响</title>
-      <link>https://www.reuters.com/markets/asia/china-jan-feb-industrial-output-retail-sales-beat-expectations-2024-03-18/</link>
-      <description><![CDATA[中国 1 月至 2 月期间的工厂产出和零售销售超出预期，标志着 2024 年的良好开局，并为政策制定者带来了一些安慰，尽管房地产行业的疲软仍然拖累经济和信心。]]></description>
-      <guid>https://www.reuters.com/markets/asia/china-jan-feb-industrial-output-retail-sales-beat-expectations-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 02:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国外长将访华会见澳大利亚前总理基廷</title>
-      <link>https://www.reuters.com/world/asia-pacific/chinese-foreign-minister-meet-former-australia-pm-keating-visit-2024-03-18/</link>
-      <description><![CDATA[澳大利亚前总理保罗·基廷是中国的著名支持者，曾批评澳大利亚与美国的AUKUS核潜艇协议，他表示他将于本周会见中国外交部长王毅。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/chinese-foreign-minister-meet-former-australia-pm-keating-visit-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 02:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>1-2月我国房地产投资降幅收窄</title>
-      <link>https://www.reuters.com/world/asia-pacific/chinas-jan-feb-property-investment-falls-90-yy-2024-03-18/</link>
-      <description><![CDATA[周一官方数据显示，中国脆弱的房地产市场今年开局，房地产投资和销售下滑​​放缓，政府努力遏制该行业长期低迷，这推动了房地产投资和销售的下滑。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/chinas-jan-feb-property-investment-falls-90-yy-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 02:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国1-2月工业增加值增长7% 超预期</title>
-      <link>https://www.reuters.com/markets/asia/china-jan-feb-industrial-output-rises-7-beats-expectations-2024-03-18/</link>
-      <description><![CDATA[周一的数据显示，中国1-2月工业产出同比增长7.0%，较12月的6.8%有所加快，超出预期，标志着2024年的良好开局，并为政策制定者带来暂时的缓解。]]></description>
-      <guid>https://www.reuters.com/markets/asia/china-jan-feb-industrial-output-rises-7-beats-expectations-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 02:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行政策转变，美元稳定，日元疲软</title>
-      <link>https://www.reuters.com/markets/currencies/dollar-steady-yen-soft-boj-policy-shift-beckons-2024-03-18/</link>
-      <description><![CDATA[周一美元保持稳定，交易员展望了全球央行会议主导的一周，日本央行似乎即将结束负利率，焦点集中在美联储计划降息多少次上。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/dollar-steady-yen-soft-boj-policy-shift-beckons-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 01:39:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚洲分享中国数据，等待央行会议</title>
+      <title>亚洲股市闲置，美元坚挺，迎接央行大放异彩</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-18/</link>
-      <description><![CDATA[由于中国数据首次出现意外上涨，亚洲股市周一走强，而投资者则希望在本周央行会议的雷区中前行，这可能会导致日本自由资金的终结以及美国降息的放缓。]]></description>
+      <description><![CDATA[周一，亚洲股市低迷，美元坚挺，因为投资者希望在本周央行会议的雷区中穿行，日本的自由资金可能会结束，美国降息的速度可能会放缓。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 00:28:30 GMT</pubDate>
     </item>
@@ -71,7 +36,7 @@
     <item>
       <title>石油合并、清洁燃料在休斯顿能源会议上争夺关注</title>
       <link>https://www.reuters.com/sustainability/climate-energy/ceraweek-oil-mergers-clean-fuels-vie-attention-houston-energy-conference-2024-03-17/</link>
-      <description><![CDATA[石油高管和部长本周齐聚休斯敦，参加世界上最大的能源会议之一，这次会议受到了轰动一时的合并、稳定的油价以及大规模转向清洁燃料的压力的减轻的鼓舞。]]></description>
+      <description><![CDATA[石油行业高管和部长本周齐聚休斯敦，参加世界上最大的能源会议之一，这次会议受到了轰动一时的合并、稳定的油价以及大规模转向清洁燃料的压力的减轻的鼓舞。]]></description>
       <guid>https://www.reuters.com/sustainability/climate-energy/ceraweek-oil-mergers-clean-fuels-vie-attention-houston-energy-conference-2024-03-17/</guid>
       <pubDate>Sun, 17 Mar 2024 13:41:15 GMT</pubDate>
     </item>
@@ -127,16 +92,30 @@
     <item>
       <title>12名冲击香港立法会的人被判最高7年监禁</title>
       <link>https://www.reuters.com/world/asia-pacific/twelve-sentenced-jail-storming-hong-kong-legislature-2019-2024-03-16/</link>
-      <description><![CDATA[周六，香港一家法院对一起备受瞩目的骚乱案判处 12 人监禁，刑期从四年多到近七年不等，该案与 2019 年一场支持民主的抗议活动中冲击香港立法机关有关。]]></description>
+      <description><![CDATA[周六，香港一家法院对一起备受瞩目的骚乱案件判处 12 人监禁，刑期从四年多到近七年不等，该案与 2019 年一场支持民主的抗议活动中冲击香港立法机关的事件有关。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/twelve-sentenced-jail-storming-hong-kong-legislature-2019-2024-03-16/</guid>
       <pubDate>Sat, 16 Mar 2024 03:39:53 GMT</pubDate>
     </item>
     <item>
       <title>澳大利亚总理将与中国外交部长讨论葡萄酒关税</title>
       <link>https://www.reuters.com/world/asia-pacific/australia-pm-talk-wine-tariffs-with-china-foreign-minister-canberra-2024-03-16/</link>
-      <description><![CDATA[澳大利亚总理安东尼·艾博内塞周六表示，下周在堪培拉会见中国外交部长王毅时，取消中国对澳大利亚葡萄酒的关税将被列入议程。]]></description>
+      <description><![CDATA[澳大利亚总理安东尼·艾博内塞周六表示，下周在堪培拉会见中国外交部长王毅时，将讨论取消中国对澳大利亚葡萄酒的关税。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/australia-pm-talk-wine-tariffs-with-china-foreign-minister-canberra-2024-03-16/</guid>
       <pubDate>Sat, 16 Mar 2024 00:51:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 敦促美国用户致电参议员对 TikTok 禁令投反对票</title>
+      <link>https://www.reuters.com/technology/tiktok-urges-us-users-call-senators-vote-no-tiktok-ban-2024-03-15/</link>
+      <description><![CDATA[TikTok 周五向一些美国用户显示了一条通知，敦促他们致电参议员，要求他们对一项法案投反对票，该法案将禁止这款流行的短视频应用程序，如果它不从中国科技公司字节跳动剥离的话。]]></description>
+      <guid>https://www.reuters.com/technology/tiktok-urges-us-users-call-senators-vote-no-tiktok-ban-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 18:39:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国京东放弃对英国咖喱的报价</title>
+      <link>https://www.reuters.com/markets/deals/chinas-jdcom-walks-away-bidding-currys-2024-03-15/</link>
+      <description><![CDATA[在美国投资者 Elliott Advisors 退​​出几天后，中国在线零售商京东周五表示，不会向英国电器集团 Currys 提出收购要约。]]></description>
+      <guid>https://www.reuters.com/markets/deals/chinas-jdcom-walks-away-bidding-currys-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 14:11:32 GMT</pubDate>
     </item>
     <item>
       <title>宝马因年度中国消费者展的批评而道歉</title>
@@ -144,6 +123,27 @@
       <description><![CDATA[德国汽车制造商宝马周五向中国司机道歉，原因是其宝马 530Li 车型的传动轴在中国年度消费者日电视晚会上被点名产生“令人不安”的噪音。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/bmw-spotlight-chinas-annual-consumer-rights-day-2024-03-15/</guid>
       <pubDate>Fri, 15 Mar 2024 13:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国宁德时代公布2022年以来首次季度利润下滑，重新夺回市场份额</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinas-catl-posts-first-profit-fall-since-q2-2022-2024-03-15/</link>
+      <description><![CDATA[中国电动汽车电池制造商宁德时代周五公布季度净利润自 2022 年第二季度以来首次下降，该公司在全球最大汽车市场需求放缓的情况下与规模较小的竞争对手展开角力。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinas-catl-posts-first-profit-fall-since-q2-2022-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果就首席执行官库克的中国销售言论达成 4.9 亿美元和解</title>
+      <link>https://www.reuters.com/legal/apple-reaches-490-million-settlement-with-shareholders-over-china-sales-comments-2024-03-15/</link>
+      <description><![CDATA[苹果公司同意支付 4.9 亿美元来和解一项集体诉讼，该诉讼指控首席执行官蒂姆·库克隐瞒了中国 iPhone 需求下降的情况，欺骗了股东。]]></description>
+      <guid>https://www.reuters.com/legal/apple-reaches-490-million-settlement-with-shareholders-over-china-sales-comments-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>据英国《金融时报》报道，由于华盛顿威胁禁止TikTok，TikTok 在美国的收入达到 160 亿美元</title>
+      <link>https://www.reuters.com/technology/tiktoks-us-revenue-hits-16-bln-washington-threatens-ban-ft-reports-2024-03-15/</link>
+      <description><![CDATA[据英国《金融时报》周五报道，中国字节跳动旗下的 TikTok 去年在美国的收入约为 160 亿美元，这款吸引 Z 世代用户的病毒视频应用在美国面临被禁止的风险。]]></description>
+      <guid>https://www.reuters.com/technology/tiktoks-us-revenue-hits-16-bln-washington-threatens-ban-ft-reports-2024-03-15/</guid>
+      <pubDate>Fri, 15 Mar 2024 12:17:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
