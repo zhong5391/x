@@ -1,59 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 18 Mar 2024 18:08:10 GMT</lastBuildDate>
-    <item>
-      <title>日本央行将取消负利率并结束收益率曲线控制——日经指数</title>
-      <link>https://www.reuters.com/markets/rates-bonds/boj-call-time-negative-interest-rates-end-yield-curve-control-nikkei-2024-03-18/</link>
-      <description><![CDATA[据《日经新闻》周一报道，日本央行将在周二召开的董事会会议上决定结束收益率曲线控制和购买风险资产，同时将在 17 年来首次引导利率走高。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/boj-call-time-negative-interest-rates-end-yield-curve-control-nikkei-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 17:14:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约联储报告发现，二月份更多美国人尝试申请抵押贷款</title>
-      <link>https://www.reuters.com/markets/us/more-americans-tried-mortgage-loans-february-ny-fed-report-finds-2024-03-18/</link>
-      <description><![CDATA[纽约联邦储备银行周一公布的新数据称，近几个月来，美国人申请抵押贷款的数量有所增加，尽管他们在获得这些贷款方面面临更大的阻力。]]></description>
-      <guid>https://www.reuters.com/markets/us/more-americans-tried-mortgage-loans-february-ny-fed-report-finds-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 17:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国将于年底前将紧急石油储备恢复至之前水平</title>
-      <link>https://www.reuters.com/business/energy/ceraweek-us-return-emergency-oil-reserve-prior-levels-by-year-end-2024-03-18/</link>
-      <description><![CDATA[美国能源部长詹妮弗·格兰霍姆周一表示，年底美国战略石油储备（SPR）中的石油库存将达到或超过两年前大规模销售之前的水平。]]></description>
-      <guid>https://www.reuters.com/business/energy/ceraweek-us-return-emergency-oil-reserve-prior-levels-by-year-end-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 16:42:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Model Y 在美国和欧洲涨价后，特斯拉股价上涨</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-shares-gain-after-model-y-price-hike-us-europe-2024-03-18/</link>
-      <description><![CDATA[周一，特斯拉宣布其 Model Y 电动汽车在部分欧洲国家和美国提价，该公司股价上涨近 7%。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-gain-after-model-y-price-hike-us-europe-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 16:40:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克在新视频中捍卫他使用氯胺酮对投资者有利</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/musk-defends-his-ketamine-use-beneficial-investors-new-video-2024-03-18/</link>
-      <description><![CDATA[首席执行官埃隆·马斯克(Elon Musk)周一在网上发布的前美国有线电视新闻网(CNN)主播唐·莱蒙(Don Lemon)的视频采访中表示，他的氯胺酮处方对特斯拉的投资者有益。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/musk-defends-his-ketamine-use-beneficial-investors-new-video-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 16:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>摩根士丹利表示，美国国债收益率接近可能给股市带来压力的水平</title>
-      <link>https://www.reuters.com/markets/us/us-yields-nearing-level-that-could-pressure-stocks-morgan-stanley-says-2024-03-18/</link>
-      <description><![CDATA[摩根士丹利策略师周一表示，尽管美国国债收益率上升，但美国股市今年仍然上涨，但如果收益率从当前水平上升，股市可能会变得更加敏感。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-yields-nearing-level-that-could-pressure-stocks-morgan-stanley-says-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 15:49:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息人士称，CC Capital 是俱乐部运营商 Soho House 的追求者</title>
-      <link>https://www.reuters.com/business/finance/cc-capital-is-suitor-club-operator-soho-house-sources-say-2024-03-18/</link>
-      <description><![CDATA[据知情人士透露，黑石集团前高管 Chinh Chu 领导的投资公司 CC Capital 是正在洽谈将会员俱乐部运营商 Soho House 私有化的收购方之一。]]></description>
-      <guid>https://www.reuters.com/business/finance/cc-capital-is-suitor-club-operator-soho-house-sources-say-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 15:43:53 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 18 Mar 2024 18:27:03 GMT</lastBuildDate>
     <item>
       <title>UnitedHealth 表示已向提供商预付超过 20 亿美元的款项</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/unitedhealth-says-advanced-over-2-bln-payments-providers-2024-03-18/</link>
@@ -69,9 +20,9 @@
       <pubDate>Mon, 18 Mar 2024 14:28:22 GMT</pubDate>
     </item>
     <item>
-      <title>NAHB 称美国房屋建筑商信心升至 7 月以来最高水平</title>
+      <title>NAHB 称美国房屋建筑商信心达到 7 月以来最高水平</title>
       <link>https://www.reuters.com/markets/us/us-homebuilder-confidence-highest-level-since-july-nahb-says-2024-03-18/</link>
-      <description><![CDATA[美国房屋建筑商协会周一表示，由于抵押贷款利率下降以及现有房屋库存持续短缺的情况下定价环境改善，美国房屋建筑商信心在 3 月份升至 7 月份以来的最高水平。]]></description>
+      <description><![CDATA[美国房屋建筑商协会周一表示，由于抵押贷款利率的放松以及现有房屋库存持续短缺的情况下定价环境的改善，美国房屋建筑商的信心在 3 月份升至 7 月份以来的最高水平。]]></description>
       <guid>https://www.reuters.com/markets/us/us-homebuilder-confidence-highest-level-since-july-nahb-says-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 14:08:25 GMT</pubDate>
     </item>
@@ -90,6 +41,41 @@
       <pubDate>Mon, 18 Mar 2024 14:01:34 GMT</pubDate>
     </item>
     <item>
+      <title>摩根士丹利预计布伦特原油价格到 2024 年夏季将升至 90 美元/桶</title>
+      <link>https://www.reuters.com/markets/commodities/morgan-stanley-expects-brent-climb-90bbl-by-summer-2024-2024-03-18/</link>
+      <description><![CDATA[摩根士丹利将 2024 年第三季度布伦特原油价格预测上调 10 美元/桶，至 90 美元，理由是 OPEC+ 承诺导致供需平衡趋紧，以及俄罗斯炼油厂近期遭遇无人机袭击后削减石油产量。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/morgan-stanley-expects-brent-climb-90bbl-by-summer-2024-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 13:34:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>迪士尼在董事会之争中获得代理咨询公司的认可</title>
+      <link>https://www.reuters.com/business/glass-lewis-backs-disney-directors-boardroom-fight-with-hedge-funds-2024-03-18/</link>
+      <description><![CDATA[周一，当格拉斯·刘易斯敦促股东在本季度最激烈的董事会斗争之一中重新选举公司所有董事时，华特迪士尼获得了一家代理咨询公司的重要支持。]]></description>
+      <guid>https://www.reuters.com/business/glass-lewis-backs-disney-directors-boardroom-fight-with-hedge-funds-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 13:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>诺和诺德基金会将在丹麦境外提供更多赠款</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-foundation-place-more-grants-outside-denmark-2024-03-18/</link>
+      <description><![CDATA[诺和诺德基金会发言人周一表示，丹麦肥胖制药商诺和诺德的最大股东诺和诺德基金会计划将其大部分社会、科学和人道主义捐款捐献给丹麦以外的国家。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-foundation-place-more-grants-outside-denmark-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 13:13:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：消息人士称，美国探索在国防库存中添加更多钴</title>
+      <link>https://www.reuters.com/markets/commodities/us-explored-adding-more-cobalt-defence-stockpiles-sources-say-2024-03-18/</link>
+      <description><![CDATA[三名知情人士称，美国去年考虑购买钴用于国防储备，并补充说，国防后勤局（DLA）可能会考虑在未来购买钴，尽管在最新计划中决定反对。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/us-explored-adding-more-cobalt-defence-stockpiles-sources-say-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 13:04:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联航首席执行官誓言对最近的安全事件进行审查</title>
+      <link>https://www.reuters.com/business/aerospace-defense/united-airlines-ceo-vows-review-recent-safety-incidents-2024-03-18/</link>
+      <description><![CDATA[联合航空首席执行官斯科特·柯比周一表示，该公司正在审查最近发生的安全事件，并利用这些见解来更新员工的安全培训和程序。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/united-airlines-ceo-vows-review-recent-safety-incidents-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 12:07:45 GMT</pubDate>
+    </item>
+    <item>
       <title>利洁时称许多针对婴儿配方奶粉制造商的案件</title>
       <link>https://www.reuters.com/business/reckitt-says-numerous-cases-filed-generically-against-baby-formula-makers-2024-03-18/</link>
       <description><![CDATA[利洁时周一表示，总体上已针对婴儿配方奶粉制造商提起了许多案件，目前尚不清楚有多少案件与其子公司的 Enfamil 产品直接相关。]]></description>
@@ -104,16 +90,30 @@
       <pubDate>Mon, 18 Mar 2024 11:03:54 GMT</pubDate>
     </item>
     <item>
-      <title>美国最高法院似乎对限制美国政府与社交媒体平台的接触持谨慎态度</title>
+      <title>超微乘AI服务器热潮跻身标普500强</title>
+      <link>https://www.reuters.com/technology/super-micro-computer-rides-ai-server-boom-join-sp-500-2024-03-18/</link>
+      <description><![CDATA[周一加入标准普尔 500 指数的超微电脑公司在试图利用生成式人工智能热潮的服务器制造商中享有罕见的优势——与英伟达的密切联系，帮助其比竞争对手戴尔和惠普更快地推出产品。]]></description>
+      <guid>https://www.reuters.com/technology/super-micro-computer-rides-ai-server-boom-join-sp-500-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 10:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院关注政府与社交媒体平台的联系</title>
       <link>https://www.reuters.com/world/us/supreme-court-scrutinizes-us-government-contacts-with-social-media-platforms-2024-03-18/</link>
-      <description><![CDATA[美国最高法院法官周一似乎对以言论自由为由质疑乔·拜登总统政府如何鼓励社交媒体平台删除联邦官员认为错误信息的帖子（包括有关选举和 COVID-19 的帖子）持怀疑态度。]]></description>
+      <description><![CDATA[美国最高法院周一正在听取另一场关于社交媒体内容审核的争论，这是一项以言论自由为由对乔·拜登总统政府如何鼓励平台删除联邦官员认为错误信息的帖子（包括有关选举和 COVID-19 的帖子）的挑战。]]></description>
       <guid>https://www.reuters.com/world/us/supreme-court-scrutinizes-us-government-contacts-with-social-media-platforms-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 10:11:29 GMT</pubDate>
     </item>
     <item>
-      <title>备受瞩目的对冲基金经理纷纷推出 2024 年产品</title>
+      <title>早盘竞价：中国复苏萌芽提振利率和石油</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-18/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 10:09:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>备受瞩目的对冲基金经理排队 2024 年推出新产品</title>
       <link>https://www.reuters.com/business/finance/high-profile-hedge-fund-managers-line-up-launches-2024-2024-03-18/</link>
-      <description><![CDATA[研究公司 PivotalPath 以及其他主要经纪商和行业消息人士表示，预计今年将有 40 只由价值数十亿美元的公司的前投资组合经理推出的备受瞩目的对冲基金获得丰收。]]></description>
+      <description><![CDATA[研究公司 PivotalPath 以及其他主要经纪商和行业消息人士表示，预计今年将有 40 只由价值数十亿美元的公司的前投资组合经理推出的备受瞩目的对冲基金大丰收。]]></description>
       <guid>https://www.reuters.com/business/finance/high-profile-hedge-fund-managers-line-up-launches-2024-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 10:07:57 GMT</pubDate>
     </item>
@@ -132,9 +132,9 @@
       <pubDate>Mon, 18 Mar 2024 10:02:59 GMT</pubDate>
     </item>
     <item>
-      <title>巨型股的反弹提振了以科技股为主的纳斯达克指数</title>
+      <title>美联储会议前纳斯达克指数领先华尔街走高； Nvidia 拉开 AI 大会序幕</title>
       <link>https://www.reuters.com/markets/us/sp-500-nasdaq-futures-tick-up-ahead-fed-meeting-ai-conference-2024-03-18/</link>
-      <description><![CDATA[华尔街主要股指周一上涨，Alphabet 和特斯拉等大型成长型股票的上涨支撑了科技股密集的纳斯达克指数在本周美联储会议之前的大幅复苏。]]></description>
+      <description><![CDATA[周一，在美联储本周召开会议之前，以科技股为主的纳斯达克指数在华尔街同行中领涨，预计美联储将保持借贷成本稳定，并为其货币政策轨迹提供线索。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-500-nasdaq-futures-tick-up-ahead-fed-meeting-ai-conference-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 09:44:11 GMT</pubDate>
     </item>
