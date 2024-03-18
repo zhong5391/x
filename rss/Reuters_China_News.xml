@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 18 Mar 2024 22:17:52 GMT</lastBuildDate>
-    <item>
-      <title>美国标准机构称字节跳动研究员错误加入人工智能安全群聊</title>
-      <link>https://www.reuters.com/technology/us-standards-body-says-bytedance-researcher-wrongly-added-ai-safety-groupchat-2024-03-18/</link>
-      <description><![CDATA[美国国家标准与技术研究院 (NIST) 周一表示，TikTok 的中国所有者字节跳动的一名研究人员上周被错误地添加到了美国人工智能安全专家的群聊中。]]></description>
-      <guid>https://www.reuters.com/technology/us-standards-body-says-bytedance-researcher-wrongly-added-ai-safety-groupchat-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 20:28:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国官员周三将向参议员通报 TikTok 构成的威胁——助手</title>
-      <link>https://www.reuters.com/world/us/us-officials-brief-senators-wednesday-threats-posed-by-tiktok-aide-2024-03-18/</link>
-      <description><![CDATA[一名委员会助手周一告诉路透社，美国国家安全官员将于周三为商业和情报委员会的参议员举行简报会，介绍外国对手利用美国敏感数据（包括与中国拥有的 TikTok 相关的数据）所构成的威胁。]]></description>
-      <guid>https://www.reuters.com/world/us/us-officials-brief-senators-wednesday-threats-posed-by-tiktok-aide-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 20:12:23 GMT</pubDate>
-    </item>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 18 Mar 2024 22:30:29 GMT</lastBuildDate>
     <item>
       <title>中国对消费金融公司提出更高的标准</title>
       <link>https://www.reuters.com/business/finance/china-sets-higher-bar-consumer-finance-companies-2024-03-18/</link>
@@ -134,7 +120,7 @@
     <item>
       <title>随着各国央行排队，世界股市欢呼中国数据</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-18/</link>
-      <description><![CDATA[全球股市周一上涨，而美国国债收益率在本周召开的一系列央行会议之前攀升，这些会议可能会结束日本的零利率，并为美国今年的降息制定蓝图。]]></description>
+      <description><![CDATA[全球股市周一上涨，美国国债收益率小幅走高，因投资者期待本周将召开一系列央行会议，这些会议可能会看到日本自由资金的终结以及美国今年降息的蓝图。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 00:28:30 GMT</pubDate>
     </item>
@@ -144,6 +130,20 @@
       <description><![CDATA[俄罗斯总统弗拉基米尔·普京周一警告西方，俄罗斯与美国领导的北约军事联盟之间的直接冲突将意味着地球距离第三次世界大战仅一步之遥，但他表示几乎没有人希望出现这种情况。]]></description>
       <guid>https://www.reuters.com/world/europe/putin-warns-west-russia-nato-conflict-is-just-one-step-ww3-2024-03-17/</guid>
       <pubDate>Sun, 17 Mar 2024 23:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>一线希望：老年人辅导在中国快速增长</title>
+      <link>https://www.reuters.com/world/china/silver-lining-tutoring-elderly-is-growing-fast-china-2024-03-17/</link>
+      <description><![CDATA[中国人口迅速老龄化，为中老年中产阶级提供休闲课程和活动（从瑜伽到非洲鼓和智能手机摄影）的公司带来了一个前景光明且快速增长的市场。]]></description>
+      <guid>https://www.reuters.com/world/china/silver-lining-tutoring-elderly-is-growing-fast-china-2024-03-17/</guid>
+      <pubDate>Sun, 17 Mar 2024 23:06:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>石油合并、清洁燃料在 CERAWeek 上争夺关注</title>
+      <link>https://www.reuters.com/sustainability/climate-energy/ceraweek-oil-mergers-clean-fuels-vie-attention-houston-energy-conference-2024-03-17/</link>
+      <description><![CDATA[石油高管和部长本周齐聚休斯敦，参加世界上最大的能源会议之一，这次会议受到了轰动一时的合并、稳定的油价以及大规模转向清洁燃料的压力的减轻的鼓舞。]]></description>
+      <guid>https://www.reuters.com/sustainability/climate-energy/ceraweek-oil-mergers-clean-fuels-vie-attention-houston-energy-conference-2024-03-17/</guid>
+      <pubDate>Sun, 17 Mar 2024 13:41:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
