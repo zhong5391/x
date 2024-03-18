@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 18 Mar 2024 23:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 23:32:46 GMT</lastBuildDate>
+    <item>
+      <title>2023年欧洲专利申请量创历史新高</title>
+      <link>https://www.reuters.com/markets/europe/european-patent-applications-hit-record-high-2023-2024-03-18/</link>
+      <description><![CDATA[欧洲专利局（EPA）周二的登记册显示，该局去年收到的专利申请数量创历史新高，其中最大份额来自美国、德国、日本和中国。]]></description>
+      <guid>https://www.reuters.com/markets/europe/european-patent-applications-hit-record-high-2023-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 23:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚 Boral 敦促股东拒绝七号集团 13 亿美元的收购要约</title>
+      <link>https://www.reuters.com/markets/deals/australias-boral-urges-shareholders-reject-seven-groups-13-bln-offer-2024-03-18/</link>
+      <description><![CDATA[澳大利亚 Boral 周二建议投资者拒绝其最大股东七集团控股公司 (Seven Group Holdings) 提出的 19 亿澳元（合 12.5 亿美元）收购该公司的要约，称其低估了该建筑产品集团的价值。]]></description>
+      <guid>https://www.reuters.com/markets/deals/australias-boral-urges-shareholders-reject-seven-groups-13-bln-offer-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 22:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称，美国将最终确定修订后的电动汽车里程评级规则，这对汽车制造商来说是胜利</title>
+      <link>https://www.reuters.com/business/autos-transportation/us-finalize-revised-ev-mileage-rating-rule-win-automakers-sources-say-2024-03-18/</link>
+      <description><![CDATA[消息人士称，美国能源部 (DOE) 将于周二公布最终规则，该规则将大幅软化其提议，该提议将大幅削减电动汽车 (EV) 的里程评级，以满足政府 2027 年的燃油经济性要求。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/us-finalize-revised-ev-mileage-rating-rule-win-automakers-sources-say-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 22:31:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 添加生成式 AI 为人形机器人提供动力</title>
+      <link>https://www.reuters.com/technology/nvidia-adds-generative-ai-power-humanoid-robots-2024-03-18/</link>
+      <description><![CDATA[英伟达周一宣布推出一个硬件和软件平台，用于构建包含生成人工智能功能的类人机器人。]]></description>
+      <guid>https://www.reuters.com/technology/nvidia-adds-generative-ai-power-humanoid-robots-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 22:07:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着汽车人工智能竞赛的升温，英伟达扩大与中国电动汽车制造商的联系</title>
+      <link>https://www.reuters.com/technology/nvidia-expands-ties-with-chinese-ev-makers-auto-ai-race-heats-up-2024-03-18/</link>
+      <description><![CDATA[英伟达周一表示，正在扩大与比亚迪和其他中国汽车制造商的合作，这些制造商正在竞相制造自动驾驶汽车和人工智能增强信息娱乐技术，以在全球市场上竞争。]]></description>
+      <guid>https://www.reuters.com/technology/nvidia-expands-ties-with-chinese-ev-makers-auto-ai-race-heats-up-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 22:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 推出基于云的研究平台用于 6G 研究和测试</title>
+      <link>https://www.reuters.com/technology/nvidia-launches-cloud-based-research-platform-6g-research-testing-2024-03-18/</link>
+      <description><![CDATA[Nvidia 周一推出了一个人工智能驱动的软件平台，允许通过模拟云中的通信环境来研究 6G 技术。]]></description>
+      <guid>https://www.reuters.com/technology/nvidia-launches-cloud-based-research-platform-6g-research-testing-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 22:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：全球等待日本央行烟火的技术补剂</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-18/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 21:49:25 GMT</pubDate>
+    </item>
     <item>
       <title>传感器制造商 TE Con​​nectivity 将管辖权转移至爱尔兰</title>
       <link>https://www.reuters.com/technology/sensor-maker-te-connectivity-shifts-jurisdiction-ireland-2024-03-18/</link>
@@ -27,13 +76,6 @@
       <pubDate>Mon, 18 Mar 2024 20:43:18 GMT</pubDate>
     </item>
     <item>
-      <title>美国标准机构称字节跳动研究员错误加入人工智能安全群聊</title>
-      <link>https://www.reuters.com/technology/us-standards-body-says-bytedance-researcher-wrongly-added-ai-safety-groupchat-2024-03-18/</link>
-      <description><![CDATA[美国国家标准与技术研究院 (NIST) 周一表示，TikTok 的中国所有者字节跳动的一名研究人员上周被错误地添加到了美国人工智能安全专家的群聊中。]]></description>
-      <guid>https://www.reuters.com/technology/us-standards-body-says-bytedance-researcher-wrongly-added-ai-safety-groupchat-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 20:28:40 GMT</pubDate>
-    </item>
-    <item>
       <title>美国机构调查福特致命车祸中驾驶员辅助系统的使用情况</title>
       <link>https://www.reuters.com/business/autos-transportation/us-agency-probes-driver-assistance-system-use-fatal-ford-crash-2024-03-18/</link>
       <description><![CDATA[美国国家公路交通安全管理局周一表示，已对最近在德克萨斯州圣安东尼奥市发生的福特野马 Mach-E 致命车祸展开调查，当局怀疑该事故中使用了先进的驾驶员辅助系统。]]></description>
@@ -43,7 +85,7 @@
     <item>
       <title>助手称，美国官员周三将向参议员通报 TikTok 构成的威胁</title>
       <link>https://www.reuters.com/world/us/us-officials-brief-senators-wednesday-threats-posed-by-tiktok-aide-2024-03-18/</link>
-      <description><![CDATA[一名委员会助手周一告诉路透社，美国国家安全官员将于周三为商业和情报委员会参议员就中国短视频应用 TikTok 构成的威胁举行闭门简报会。]]></description>
+      <description><![CDATA[一名委员会助手周一对路透表示，美国国家安全官员将于周三为商业和情报委员会参议员就中国短视频应用 TikTok 构成的威胁举行闭门简报会。]]></description>
       <guid>https://www.reuters.com/world/us/us-officials-brief-senators-wednesday-threats-posed-by-tiktok-aide-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 20:12:23 GMT</pubDate>
     </item>
@@ -53,27 +95,6 @@
       <description><![CDATA[伯克希尔哈撒韦公司加快了回购自己股票的步伐，这表明长期担任董事长的沃伦·巴菲特认为这些股票被低估，是花费多余现金的好地方。]]></description>
       <guid>https://www.reuters.com/markets/us/berkshire-hathaway-speeds-up-stock-buybacks-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 18:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>对冲基金行业组织就国债市场交易商规则起诉美国证券交易委员会</title>
-      <link>https://www.reuters.com/markets/us/hedge-fund-industry-groups-sue-us-sec-over-treasury-market-dealer-rule-2024-03-18/</link>
-      <description><![CDATA[代表私募基金管理行业的贸易团体周一起诉美国证券交易委员会（SEC），要求其规定经常交易政府债券和其他证券的公司必须注册为经纪自营商。]]></description>
-      <guid>https://www.reuters.com/markets/us/hedge-fund-industry-groups-sue-us-sec-over-treasury-market-dealer-rule-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 17:23:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行将取消负利率并结束收益率曲线控制——日经指数</title>
-      <link>https://www.reuters.com/markets/rates-bonds/boj-call-time-negative-interest-rates-end-yield-curve-control-nikkei-2024-03-18/</link>
-      <description><![CDATA[据《日经新闻》周一报道，日本央行将在周二召开的董事会会议上决定结束负利率政策，并决定停止收益率曲线控制和购买风险资产。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/boj-call-time-negative-interest-rates-end-yield-curve-control-nikkei-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 17:14:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国计划在年底前将紧急石油储备恢复到之前的水平</title>
-      <link>https://www.reuters.com/business/energy/ceraweek-us-return-emergency-oil-reserve-prior-levels-by-year-end-2024-03-18/</link>
-      <description><![CDATA[美国能源部长詹妮弗·格兰霍姆(Jennifer Granholm)周一表示，年底美国战略石油储备(SPR)中的原油库存将达到或超过两年前大规模出售1.8亿桶之前的水平。]]></description>
-      <guid>https://www.reuters.com/business/energy/ceraweek-us-return-emergency-oil-reserve-prior-levels-by-year-end-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 16:42:53 GMT</pubDate>
     </item>
     <item>
       <title>Model Y 在美国和欧洲涨价后，特斯拉股价上涨</title>
@@ -99,51 +120,30 @@
     <item>
       <title>UAW称大众田纳西工厂的工人申请工会选举</title>
       <link>https://www.reuters.com/business/autos-transportation/uaw-says-workers-vw-tennessee-plant-file-union-election-2024-03-18/</link>
-      <description><![CDATA[大众汽车位于田纳西州查塔努加的装配厂的工人们正在寻求加入汽车工人联合会的选举，这对美国汽车工人联合会主席肖恩·费恩（Shawn Fain）发起的史无前例的运动来说是一个关键的考验，该运动旨在将工会的影响力扩大到美国南部的外资汽车制造商。]]></description>
+      <description><![CDATA[大众汽车位于田纳西州查塔努加的装配厂的工人们正在寻求加入汽车工人联合会的选举，这对美国汽车工人联合会主席肖恩·费恩发起的史无前例的运动来说是一个关键的考验，该运动旨在将工会的影响力扩大到美国南部的外资汽车制造商。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/uaw-says-workers-vw-tennessee-plant-file-union-election-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 14:05:21 GMT</pubDate>
     </item>
     <item>
       <title>债券市场将通胀视为美联储会议宽松时间表的通配符</title>
       <link>https://www.reuters.com/markets/us/sticky-inflation-could-be-wild-card-easing-timetable-fed-meeting-2024-03-18/</link>
-      <description><![CDATA[尽管债券投资者预计美联储周三将维持利率不变，但市场反应可能取决于美联储官员对顽固通胀的看法，以及他们对今年宽松政策的时机和程度的信号是否变得更强硬。]]></description>
+      <description><![CDATA[尽管债券投资者预计美联储将在周三的政策声明中维持利率不变，但市场反应可能取决于美联储官员对顽固通胀的看法，以及他们对今年宽松政策的时机和程度的信号是否变得更强硬。]]></description>
       <guid>https://www.reuters.com/markets/us/sticky-inflation-could-be-wild-card-easing-timetable-fed-meeting-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 11:03:54 GMT</pubDate>
     </item>
     <item>
-      <title>美国最高法院似乎对限制美国政府与社交媒体平台的接触持谨慎态度</title>
-      <link>https://www.reuters.com/world/us/supreme-court-scrutinizes-us-government-contacts-with-social-media-platforms-2024-03-18/</link>
-      <description><![CDATA[美国最高法院法官周一似乎对以言论自由为由质疑乔·拜登总统政府如何鼓励社交媒体平台删除联邦官员认为错误信息的帖子（包括有关选举和 COVID-19 的帖子）持怀疑态度。]]></description>
-      <guid>https://www.reuters.com/world/us/supreme-court-scrutinizes-us-government-contacts-with-social-media-platforms-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 10:11:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>富有的美国人让高端房车公司不断发展</title>
-      <link>https://www.reuters.com/business/autos-transportation/rich-americans-keep-high-end-rv-company-rolling-along-2024-03-18/</link>
-      <description><![CDATA[大多数美国休闲车——这些道路上的庞然大物，通常类似于意外脱轨的棚车——从印第安纳州埃尔克哈特灰色环境中的砂砾工厂中推出，旨在满足大部分中等收入客户的旅行欲望。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/rich-americans-keep-high-end-rv-company-rolling-along-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 10:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia推出全新旗舰AI芯片B200</title>
+      <title>Nvidia推出旗舰AI芯片B200，旨在扩大主导地位</title>
       <link>https://www.reuters.com/technology/nvidia-ai-developer-conference-kicks-off-with-new-chips-focus-2024-03-18/</link>
-      <description><![CDATA[人工智能半导体巨头英伟达周一拉开了年度开发者大会的序幕，首席执行官黄仁勋在下午的主题演讲中推出了新的旗舰人工智能芯片 Blackwell B200。]]></description>
+      <description><![CDATA[人工智能半导体巨头英伟达周一推出了一款旗舰人工智能芯片 Blackwell B200，称其速度比之前的芯片快了 30 倍。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-ai-developer-conference-kicks-off-with-new-chips-focus-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 10:02:59 GMT</pubDate>
     </item>
     <item>
       <title>华尔街收高，投资者用人工智能热情应对美联储的紧张情绪</title>
       <link>https://www.reuters.com/markets/us/sp-500-nasdaq-futures-tick-up-ahead-fed-meeting-ai-conference-2024-03-18/</link>
-      <description><![CDATA[华尔街主要股指周一收高，Alphabet、特斯拉等大型成长型股票支撑了以科技股为主的纳斯达克指数的反弹，同时投资者也在焦急地等待美联储本周的会议。]]></description>
+      <description><![CDATA[华尔街主要股指周一收高，Alphabet和特斯拉等大型成长股支撑着以科技股为主的纳斯达克指数反弹，同时投资者也在焦急等待本周美联储的会议。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-500-nasdaq-futures-tick-up-ahead-fed-meeting-ai-conference-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 09:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>彭博新闻社称，苹果公司正在洽谈让谷歌的 Gemini 为 iPhone 的人工智能功能提供支持</title>
-      <link>https://www.reuters.com/technology/apple-talks-let-googles-gemini-power-iphone-ai-features-bloomberg-news-says-2024-03-18/</link>
-      <description><![CDATA[彭博社周一援引知情人士的话报道称，苹果公司正在就将谷歌的 Gemini 人工智能引擎内置到 iPhone 中进行谈判。]]></description>
-      <guid>https://www.reuters.com/technology/apple-talks-let-googles-gemini-power-iphone-ai-features-bloomberg-news-says-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 05:43:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

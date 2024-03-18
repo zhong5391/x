@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 18 Mar 2024 23:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 23:32:52 GMT</lastBuildDate>
     <item>
       <title>美国标准机构称字节跳动研究员错误加入人工智能安全群聊</title>
       <link>https://www.reuters.com/technology/us-standards-body-says-bytedance-researcher-wrongly-added-ai-safety-groupchat-2024-03-18/</link>
@@ -15,21 +15,21 @@
     <item>
       <title>美国官员周三将向参议员通报 TikTok 构成的威胁——助手</title>
       <link>https://www.reuters.com/world/us/us-officials-brief-senators-wednesday-threats-posed-by-tiktok-aide-2024-03-18/</link>
-      <description><![CDATA[一名委员会助手周一告诉路透社，美国国家安全官员将于周三为商务和情报委员会的参议员举行简报会，介绍外国对手利用美国敏感数据（包括与中国拥有的 TikTok 相关的数据）所构成的威胁。]]></description>
+      <description><![CDATA[一名委员会助手周一告诉路透社，美国国家安全官员将于周三为商业和情报委员会的参议员举行简报会，介绍外国对手利用美国敏感数据（包括与中国拥有的 TikTok 相关的数据）所构成的威胁。]]></description>
       <guid>https://www.reuters.com/world/us/us-officials-brief-senators-wednesday-threats-posed-by-tiktok-aide-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 20:12:23 GMT</pubDate>
     </item>
     <item>
       <title>中国对消费金融公司提出更高的标准</title>
       <link>https://www.reuters.com/business/finance/china-sets-higher-bar-consumer-finance-companies-2024-03-18/</link>
-      <description><![CDATA[中国十年来首次修改了消费金融公司的规则，为在世界第二大经济体提供小额个人贷款的非银行金融企业设定了更高的门槛。]]></description>
+      <description><![CDATA[中国十年来首次改变了消费金融公司的规则，为在世界第二大经济体提供小额个人贷款的非银行金融企业设定了更高的门槛。]]></description>
       <guid>https://www.reuters.com/business/finance/china-sets-higher-bar-consumer-finance-companies-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 14:57:59 GMT</pubDate>
     </item>
     <item>
       <title>中国恒大旗舰公司创始人因证券欺诈被处罚</title>
       <link>https://www.reuters.com/business/chinas-regulator-ban-evergrande-chairman-entering-securities-market-life-2024-03-18/</link>
-      <description><![CDATA[中国恒大集团创始人许家印将被终身禁止进入证券市场，并被监管机构指控该集团的旗舰部门虚报业绩、证券欺诈和未能及时披露信息，并处以人民币 4700 万元（约合 653 万美元）的罚款。]]></description>
+      <description><![CDATA[中国恒大集团创始人许家印将被终身禁止进入证券市场，并被监管机构指控该集团的旗舰部门虚报业绩、证券欺诈和未能及时披露信息，并处以人民币 4700 万元（合 653 万美元）的罚款。]]></description>
       <guid>https://www.reuters.com/business/chinas-regulator-ban-evergrande-chairman-entering-securities-market-life-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 12:59:22 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>随着各国央行排队，世界股市欢呼中国数据</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-18/</link>
-      <description><![CDATA[全球股市周一上涨，而在本周举行的一系列央行会议之前，美国国债收益率小幅走高，这些会议可能会结束日本零下的利率，并为美国今年的降息制定蓝图。]]></description>
+      <description><![CDATA[全球股市周一上涨，而美国国债收益率在本周召开的一系列央行会议之前攀升，这些会议可能会结束日本的零利率，并为美国今年的降息制定蓝图。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 00:28:30 GMT</pubDate>
     </item>
