@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 18 Mar 2024 10:07:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 10:28:29 GMT</lastBuildDate>
+    <item>
+      <title>通胀受挫可能促使美联储下调降息前景</title>
+      <link>https://www.reuters.com/markets/us/inflation-frustration-may-prompt-fed-dial-back-rate-cut-outlook-2024-03-18/</link>
+      <description><![CDATA[预计美国央行行长本周不会削减借贷成本，但他们的新经济预测可能是一个不确定因素，可能表明降息幅度较小，而且政策宽松的开始时间比他们之前的预期要晚。]]></description>
+      <guid>https://www.reuters.com/markets/us/inflation-frustration-may-prompt-fed-dial-back-rate-cut-outlook-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 09:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>解释者：日本央行的鸽派和鹰派是谁？</title>
+      <link>https://www.reuters.com/markets/rates-bonds/who-are-bojs-doves-hawks-2024-03-18/</link>
+      <description><![CDATA[日本央行即将结束八年的负利率政策，历史性的工资上涨提高了通胀持续达到 2% 目标的前景。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/who-are-bojs-doves-hawks-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 07:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>土耳其就 Threads-Instagram 数据共享问题对 Meta 采取行动</title>
+      <link>https://www.reuters.com/technology/turkey-takes-measure-against-meta-over-threads-instagram-data-sharing-2024-03-18/</link>
+      <description><![CDATA[土耳其竞争主管机构周一对 Meta Platforms Inc 实施了一项临时措施，旨在阻止 Instagram 和 Threads 平台之间的数据共享，因为该机构正在调查该公司可能滥用市场支配地位的情况。]]></description>
+      <guid>https://www.reuters.com/technology/turkey-takes-measure-against-meta-over-threads-instagram-data-sharing-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 07:27:33 GMT</pubDate>
+    </item>
     <item>
       <title>辉瑞拟将舒适达牙膏制造商 Haleon 的股份削减至 24%</title>
       <link>https://www.reuters.com/markets/deals/consumer-healthcare-giant-haleon-says-pfizer-cut-stake-24-2024-03-18/</link>
-      <description><![CDATA[消费保健巨头Haleon周一表示，辉瑞将出售其在该公司的约6.3亿股股份，将这家美国制药商的持股比例减少至约24%。]]></description>
+      <description><![CDATA[消费者保健公司 Haleon 周一表示，其最大股东美国制药商辉瑞 (Pfizer) 将出售其在该公司的股份至约 24%。]]></description>
       <guid>https://www.reuters.com/markets/deals/consumer-healthcare-giant-haleon-says-pfizer-cut-stake-24-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 07:09:26 GMT</pubDate>
     </item>
@@ -62,14 +83,6 @@
       <pubDate>Mon, 18 Mar 2024 04:21:43 GMT</pubDate>
     </item>
     <item>
-      <title>Meta、波音、GE Vernova 本周加入美国商业代表团访问越南</title>
-      <link>https://www.reuters.com/markets/asia/meta-boeing-ge-vernova-join-us-business-delegation-vietnam-this-week-2024-03-18/</link>
-      <description><![CDATA[包括Meta、波音和风能公司GE Vernova在内的一个大型美国商业代表团将于本周访问越南，这表明在华盛顿去年升级关系后，企业对这个东南亚国家的兴趣持续存在。
-据组织者美国-东盟商业理事会称，约有 50 家公司将参加，该理事会去年派出了规模相似的商业代表团访问越南。]]></description>
-      <guid>https://www.reuters.com/markets/asia/meta-boeing-ge-vernova-join-us-business-delegation-vietnam-this-week-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 03:42:51 GMT</pubDate>
-    </item>
-    <item>
       <title>日本银行对员工进行新情况培训：正利率</title>
       <link>https://www.reuters.com/markets/rates-bonds/japanese-bank-trains-staff-novel-scenario-positive-interest-rates-2024-03-18/</link>
       <description><![CDATA[随着日本接近结束八年的负利率，京都的一家地区贷款机构正在提供电子学习，以培训没有在正利率环境下放贷或吸收存款经验的员工。]]></description>
@@ -91,16 +104,9 @@
       <pubDate>Mon, 18 Mar 2024 02:25:27 GMT</pubDate>
     </item>
     <item>
-      <title>中国房地产投资下降缓慢但行业仍不稳定</title>
-      <link>https://www.reuters.com/world/asia-pacific/chinas-jan-feb-property-investment-falls-90-yy-2024-03-18/</link>
-      <description><![CDATA[中国脆弱的房地产市场今年开局，受政府努力遏制该行业长期低迷的推动，房地产投资和销售下降放缓，但分析师对目前低迷结束的说法持谨慎态度。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/chinas-jan-feb-property-investment-falls-90-yy-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 02:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着各国央行排队，亚洲欢呼中国数据</title>
+      <title>随着各国央行排队，世界股市欢呼中国数据</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-18/</link>
-      <description><![CDATA[由于中国数据首次出现意外上涨，亚洲股市周一走强，而投资者则希望在本周央行会议的雷区中前行，这可能会导致日本自由资金的终结以及美国降息的放缓。]]></description>
+      <description><![CDATA[由于中国数据超出预期，全球股市周一走强，而投资者则希望在本周央行会议的雷区中前行，日本可能会看到自由资金的终结，而美国降息的下滑速度也会放缓。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 00:28:30 GMT</pubDate>
     </item>
@@ -128,23 +134,16 @@
     <item>
       <title>石油合并、清洁燃料在休斯顿能源会议上争夺关注</title>
       <link>https://www.reuters.com/sustainability/climate-energy/ceraweek-oil-mergers-clean-fuels-vie-attention-houston-energy-conference-2024-03-17/</link>
-      <description><![CDATA[石油行业高管和部长本周齐聚休斯敦，参加世界上最大的能源会议之一，这次会议受到了轰动一时的合并、稳定的油价以及大规模转向清洁燃料的压力的减轻的鼓舞。]]></description>
+      <description><![CDATA[石油高管和部长本周齐聚休斯敦，参加世界上最大的能源会议之一，这次会议受到了轰动一时的合并、稳定的油价以及大规模转向清洁燃料的压力的减轻的鼓舞。]]></description>
       <guid>https://www.reuters.com/sustainability/climate-energy/ceraweek-oil-mergers-clean-fuels-vie-attention-houston-energy-conference-2024-03-17/</guid>
       <pubDate>Sun, 17 Mar 2024 13:41:15 GMT</pubDate>
     </item>
     <item>
-      <title>瑞士银行瑞银集团董事长表示瞄准美国交易</title>
+      <title>瑞士银行瑞银董事长表示瞄准美国交易</title>
       <link>https://www.reuters.com/markets/deals/swiss-bank-ubs-targets-us-deals-says-chairman-2024-03-17/</link>
       <description><![CDATA[瑞士银行业巨头瑞银集团(UBS)董事长周日对《NZZ》表示，未来几年将在美国寻找并购机会。]]></description>
       <guid>https://www.reuters.com/markets/deals/swiss-bank-ubs-targets-us-deals-says-chairman-2024-03-17/</guid>
       <pubDate>Sun, 17 Mar 2024 10:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉将在欧洲部分地区提高 Model Y 电动汽车的价格</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-increase-model-y-prices-some-european-countries-2024-03-16/</link>
-      <description><![CDATA[特斯拉周六表示，将于 3 月 22 日将其 Model Y 电动汽车 (EV) 在多个欧洲国家的价格提高约 2,000 欧元（2,177 美元）或等值当地货币。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-increase-model-y-prices-some-european-countries-2024-03-16/</guid>
-      <pubDate>Sat, 16 Mar 2024 15:49:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
