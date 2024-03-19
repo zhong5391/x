@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 19 Mar 2024 15:19:34 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 19 Mar 2024 15:48:54 GMT</lastBuildDate>
+    <item>
+      <title>法拉利因刹车缺陷被美国车手起诉</title>
+      <link>https://www.reuters.com/business/autos-transportation/ferrari-is-sued-by-us-drivers-over-brake-defect-2024-03-19/</link>
+      <description><![CDATA[法拉利在美国被司机起诉，称这家意大利豪华跑车制造商未能修复可能部分或全部丧失制动能力的车辆。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ferrari-is-sued-by-us-drivers-over-brake-defect-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 14:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>首席财务官悲观前景导致西门子股价跌至一年低点</title>
+      <link>https://www.reuters.com/business/siemenss-share-slump-one-year-low-after-cfos-gloomy-outlook-2024-03-19/</link>
+      <description><![CDATA[西门子首席财务官拉尔夫·托马斯在周二的美国银行会议上表示，其旗舰数字产业部门第二季度的收入将持平，随后该公司股价跌至一年来的最低点。]]></description>
+      <guid>https://www.reuters.com/business/siemenss-share-slump-one-year-low-after-cfos-gloomy-outlook-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 13:35:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>第23条：香港新国安法你需要了解的事</title>
+      <link>https://www.reuters.com/world/asia-pacific/article-23-what-you-need-know-about-hong-kongs-new-national-security-laws-2024-03-19/</link>
+      <description><![CDATA[尽管西方政府担心香港这个金融中心的自由会受到进一步破坏，但香港90个席位的立法机关周二一致通过了一项新的国家安全法，该法在提出后仅11天。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/article-23-what-you-need-know-about-hong-kongs-new-national-security-laws-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 13:17:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>香港新国安法的范围有哪些？</title>
+      <link>https://www.reuters.com/world/china/scope-hong-kongs-new-national-security-laws-2024-03-19/</link>
+      <description><![CDATA[香港周二通过了新的国家安全法，该法案扩大了破坏、煽动叛乱和国家机密等犯罪的定义，并规定了最严厉的处罚，最高可达终身监禁。]]></description>
+      <guid>https://www.reuters.com/world/china/scope-hong-kongs-new-national-security-laws-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 13:15:14 GMT</pubDate>
+    </item>
     <item>
       <title>香港立法会一致通过新国安法</title>
       <link>https://www.reuters.com/world/china/hong-kong-legislature-unanimously-passes-new-national-security-law-2024-03-19/</link>
@@ -36,21 +64,21 @@
     <item>
       <title>中国小鹏汽车预计 2023 年结束后电动汽车交付量将增加，亏损将减少</title>
       <link>https://www.reuters.com/business/autos-transportation/xpeng-forecast-quarterly-revenue-below-estimates-2024-03-19/</link>
-      <description><![CDATA[电动汽车制造商小鹏汽车公布的季度亏损小于预期，并预测 1 月至 3 月期间的交付量将增加，这为担心中国汽车市场价格战造成影响的投资者提供了一些喘息的机会。]]></description>
+      <description><![CDATA[电动汽车制造商小鹏汽车公布的季度亏损小于预期，并预计 1 月至 3 月期间的交付量将增加，这为担心中国汽车市场价格战造成影响的投资者提供了一些喘息的机会。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/xpeng-forecast-quarterly-revenue-below-estimates-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 10:08:51 GMT</pubDate>
     </item>
     <item>
       <title>随着世界杯预赛的恢复，亚洲冠军卡塔尔队转移焦点</title>
       <link>https://www.reuters.com/sports/soccer/asian-champions-qatar-shift-focus-world-cup-preliminaries-resume-2024-03-19/</link>
-      <description><![CDATA[卡塔尔将于周四对阵科威特，恢复首次世界杯预选赛的资格，教练席保持稳定，但在本土卫冕亚洲杯六周后，球场上的情况发生了变化。]]></description>
+      <description><![CDATA[卡塔尔将于周四对阵科威特，恢复首次世界杯预选赛的资格，教练席稳定，但在本土卫冕亚洲杯六周后，球场上的情况发生了变化。]]></description>
       <guid>https://www.reuters.com/sports/soccer/asian-champions-qatar-shift-focus-world-cup-preliminaries-resume-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 09:58:35 GMT</pubDate>
     </item>
     <item>
       <title>行业高管表示，太阳能电池板价格将在两年内保持低位</title>
       <link>https://www.reuters.com/business/energy/solar-panel-prices-remain-low-up-two-years-says-industry-exec-2024-03-19/</link>
-      <description><![CDATA[马来西亚一位行业高管周二表示，太阳能电池板的价格在过去 12 个月内几乎下降了一半，并将在两年内保持在当前水平。]]></description>
+      <description><![CDATA[马来西亚一位行业高管周二表示，太阳能电池板的价格在过去 12 个月内几乎减半，并将在两年内保持在当前水平。]]></description>
       <guid>https://www.reuters.com/business/energy/solar-panel-prices-remain-low-up-two-years-says-industry-exec-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 09:41:51 GMT</pubDate>
     </item>
@@ -104,39 +132,11 @@
       <pubDate>Tue, 19 Mar 2024 06:52:15 GMT</pubDate>
     </item>
     <item>
-      <title>中国开发商万科的信贷追求因要求抵押品的呼声而蒙上阴影</title>
-      <link>https://www.reuters.com/markets/asia/chinese-developer-vankes-credit-pursuit-clouded-by-clamour-collateral-2024-03-19/</link>
-      <description><![CDATA[北京方面罕见地发布了一项旨在帮助万科应对流动性危机的指令，这使得贷款机构争先恐后地争夺这家国有开发商提议作为抵押品的资产，而各方则竭尽全力阻止房地产行业的恶化。]]></description>
-      <guid>https://www.reuters.com/markets/asia/chinese-developer-vankes-credit-pursuit-clouded-by-clamour-collateral-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 06:25:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>布林肯赞扬与菲律宾防务关系的“非凡”扩展</title>
-      <link>https://www.reuters.com/world/asia-pacific/philippines-foreign-minister-says-challenge-is-how-sustain-elevate-us-2024-03-19/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周二称赞最近与菲律宾加强的防务关系是“非同寻常的”，并表示这种关系只会进一步发展，尽管华盛顿扩大的联盟并不是针对中国。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/philippines-foreign-minister-says-challenge-is-how-sustain-elevate-us-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 06:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国预计3月份基准贷款利率保持不变</title>
-      <link>https://www.reuters.com/markets/rates-bonds/china-seen-leaving-benchmark-lending-rates-unchanged-march-2024-03-19/</link>
-      <description><![CDATA[路透调查显示，市场普遍预计中国将在周三维持基准贷款利率不变，因为在整体经济开始显示出一些改善迹象之际，央行上周维持了关键政策利率不变。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/china-seen-leaving-benchmark-lending-rates-unchanged-march-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 05:27:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>2023 年哪些国家的空气质量最差？</title>
-      <link>https://www.reuters.com/business/environment/bangladesh-pakistan-india-bottom-air-quality-rankings-2023-data-shows-2024-03-19/</link>
-      <description><![CDATA[周二公布的数据显示，随着孟加拉国和印度取代乍得和伊朗，巴基斯坦到2023年仍是世界上雾霾最严重的三个国家之一，其颗粒物浓度约为世界卫生组织建议水平的15倍。]]></description>
-      <guid>https://www.reuters.com/business/environment/bangladesh-pakistan-india-bottom-air-quality-rankings-2023-data-shows-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 04:04:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>台湾候任副总统访问捷克激怒中国</title>
-      <link>https://www.reuters.com/world/taiwans-vice-president-elect-makes-czech-visit-after-us-trip-2024-03-19/</link>
-      <description><![CDATA[外交部周二表示，台湾候任副总统、前驻华盛顿大使萧美琴在低调访问美国后正在访问捷克共和国，此举引发了中国的愤怒。]]></description>
-      <guid>https://www.reuters.com/world/taiwans-vice-president-elect-makes-czech-visit-after-us-trip-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 03:48:06 GMT</pubDate>
+      <title>日元不顾日本央行历史性转变而下跌；美元坚挺</title>
+      <link>https://www.reuters.com/markets/currencies/yen-holds-nerve-boj-decision-looms-dollar-resurgent-2024-03-19/</link>
+      <description><![CDATA[在日本央行作出重大但普遍预期的结束负利率政策的决定后，日元周二暴跌，而美元在美联储公布最新利率前景之前走强。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/yen-holds-nerve-boj-decision-looms-dollar-resurgent-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 00:50:48 GMT</pubDate>
     </item>
     <item>
       <title>2024 年的预期：美联储转向、通胀降温、增长放缓</title>
