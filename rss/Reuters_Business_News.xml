@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 19 Mar 2024 04:52:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 05:31:31 GMT</lastBuildDate>
     <item>
       <title>投资者面临“资产饥荒”，中国债券蓬勃发展</title>
       <link>https://www.reuters.com/markets/rates-bonds/chinas-bonds-boom-investors-face-asset-famine-2024-03-19/</link>
@@ -43,14 +43,14 @@
     <item>
       <title>新日铁承诺将美国总部迁至美国钢铁公司匹兹堡</title>
       <link>https://www.reuters.com/markets/deals/nippon-steel-pledges-move-us-hq-us-steels-pittsburgh-2024-03-19/</link>
-      <description><![CDATA[一位高管表示，如果交易成功，新日铁将把其美国总部迁至其收购目标美国钢铁公司所在地的匹兹堡，这进一步增强了这家日本钢铁制造商为确保交易达成的承诺。]]></description>
+      <description><![CDATA[一位高管表示，如果交易成功，新日铁将把其美国总部迁至其收购目标美国钢铁公司所在地的匹兹堡，这也是这家日本钢铁制造商为确保交易达成的承诺。]]></description>
       <guid>https://www.reuters.com/markets/deals/nippon-steel-pledges-move-us-hq-us-steels-pittsburgh-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 01:30:27 GMT</pubDate>
     </item>
     <item>
       <title>美国国税局局长预计劳动力将在三年内突破10万</title>
       <link>https://www.reuters.com/world/us/us-irs-chief-sees-workforce-topping-100000-within-three-years-2024-03-19/</link>
-      <description><![CDATA[美国国税局局长 Danny Werfel 周一表示，该税务机构需要在未来三年内将其员工数量增加到 10 万人以上，以实现其现代化、服务和执法目标，并且需要额外资金来维持这一额外能力。]]></description>
+      <description><![CDATA[美国国税局局长丹尼·沃费尔 (Danny Werfel) 周一表示，该税务机构需要在未来三年内将其员工数量增加到 10 万人以上，以实现其现代化、服务和执法目标，并且需要额外资金来维持这一额外能力。]]></description>
       <guid>https://www.reuters.com/world/us/us-irs-chief-sees-workforce-topping-100000-within-three-years-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 00:55:34 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>随着日本央行决定的临近，日元保持紧张；美元复苏</title>
       <link>https://www.reuters.com/markets/currencies/yen-holds-nerve-boj-decision-looms-dollar-resurgent-2024-03-19/</link>
-      <description><![CDATA[周二，日元兑美元汇率跌至接近 150 美元的水平，但在日本央行 (BOJ) 做出关键政策决定之前坚守阵地，而美元则因对日本提前降息的押注减少而高于其他货币。]]></description>
+      <description><![CDATA[周二日元兑美元汇率跌至接近 150 美元的水平，但在日本央行 (BOJ) 做出关键政策决定之前坚守阵地，而美元则因对日本提前降息的押注减少而高于其他货币。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-holds-nerve-boj-decision-looms-dollar-resurgent-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 00:50:48 GMT</pubDate>
     </item>

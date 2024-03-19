@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 19 Mar 2024 04:40:16 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 19 Mar 2024 05:31:38 GMT</lastBuildDate>
     <item>
       <title>独家：消息人士称富达国际计划削减中国基金部门16%的职位</title>
       <link>https://www.reuters.com/business/finance/fidelity-international-plan-cut-16-china-fund-unit-jobs-sources-say-2024-03-19/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>随着日本央行决定的临近，日元保持紧张；美元复苏</title>
       <link>https://www.reuters.com/markets/currencies/yen-holds-nerve-boj-decision-looms-dollar-resurgent-2024-03-19/</link>
-      <description><![CDATA[周二，日元兑美元汇率跌至接近 150 美元的水平，但在日本央行 (BOJ) 做出关键政策决定之前坚守阵地，而美元则因对日本提前降息的押注减少而高于其他货币。]]></description>
+      <description><![CDATA[周二日元兑美元汇率跌至接近 150 美元的水平，但在日本央行 (BOJ) 做出关键政策决定之前坚守阵地，而美元则因对日本提前降息的押注减少而高于其他货币。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-holds-nerve-boj-decision-looms-dollar-resurgent-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 00:50:48 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>助手称，美国官员周三将向参议员通报 TikTok 构成的威胁</title>
       <link>https://www.reuters.com/world/us/us-officials-brief-senators-wednesday-threats-posed-by-tiktok-aide-2024-03-18/</link>
-      <description><![CDATA[一名委员会助手周一告诉路透社，美国国家安全官员将于周三为商业和情报委员会参议员就中国短视频应用 TikTok 构成的威胁举行闭门简报会。]]></description>
+      <description><![CDATA[一名委员会助手周一对路透表示，美国国家安全官员将于周三为商业和情报委员会参议员就中国短视频应用 TikTok 构成的威胁举行闭门简报会。]]></description>
       <guid>https://www.reuters.com/world/us/us-officials-brief-senators-wednesday-threats-posed-by-tiktok-aide-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 20:12:23 GMT</pubDate>
     </item>
