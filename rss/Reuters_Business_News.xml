@@ -1,14 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 19 Mar 2024 09:58:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 10:22:18 GMT</lastBuildDate>
     <item>
-      <title>阿斯利康将以 20 亿美元现金收购 Fusion Pharma</title>
+      <title>纽约审计长称 2023 年华尔街奖金下降 2%</title>
+      <link>https://www.reuters.com/markets/us/wall-street-bonuses-fell-2-2023-new-york-comptroller-says-2024-03-19/</link>
+      <description><![CDATA[根据纽约州审计长托马斯·迪纳波利 (Thomas DiNapoli) 的估计，由于金融公司对薪酬采取更加谨慎的态度，去年华尔街的现金奖金下降了 2%，至平均 176,500 美元。]]></description>
+      <guid>https://www.reuters.com/markets/us/wall-street-bonuses-fell-2-2023-new-york-comptroller-says-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 09:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>印花税取消后，内地人涌入香港房地产</title>
+      <link>https://www.reuters.com/business/mainland-chinese-surge-into-hong-kong-property-after-stamp-duties-scrapped-2024-03-19/</link>
+      <description><![CDATA[在经历了三年多的大流行引发的平静之后，中国大陆人开始在香港抢购房屋，在香港取消对外国买家的所有额外印花税几周后，中国内地人在香港新房销售中占比高达三分之一。]]></description>
+      <guid>https://www.reuters.com/business/mainland-chinese-surge-into-hong-kong-property-after-stamp-duties-scrapped-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 09:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>辉瑞出售 39 亿美元的舒适达制造商 Haleon 股份</title>
+      <link>https://www.reuters.com/markets/deals/pfizer-offloads-39-bln-stake-sensodyne-maker-haleon-2024-03-19/</link>
+      <description><![CDATA[海伦 (Haleon) 周二表示，最大股东辉瑞 (Pfizer) 出售了这家消费者医疗保健公司价值约 39 亿美元的股份，将其在这家英国公司的持股比例降至 22.6%。]]></description>
+      <guid>https://www.reuters.com/markets/deals/pfizer-offloads-39-bln-stake-sensodyne-maker-haleon-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 08:24:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国银行调查显示，看涨投资者三月份涌入新兴市场和欧洲股市</title>
+      <link>https://www.reuters.com/markets/bullish-investors-pile-into-em-european-stocks-march-bofa-survey-shows-2024-03-19/</link>
+      <description><![CDATA[美国银行周二的基金经理调查显示，乐观的投资者在 3 月份以 2017 年 4 月以来最快的速度涌入新兴市场股票，并以 2020 年 6 月以来最快的速度涌入欧元区股票。]]></description>
+      <guid>https://www.reuters.com/markets/bullish-investors-pile-into-em-european-stocks-march-bofa-survey-shows-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 08:13:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞士央行呼吁采取更多资本监管行动</title>
+      <link>https://www.reuters.com/markets/europe/swiss-central-bank-calls-more-action-capital-regulation-2024-03-19/</link>
+      <description><![CDATA[瑞士国家银行周二呼吁对银行资本监管进行审查，称瑞士需要制定规则，承认瑞银集团在收购瑞士信贷银行后已成为一家更具系统重要性的银行。]]></description>
+      <guid>https://www.reuters.com/markets/europe/swiss-central-bank-calls-more-action-capital-regulation-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 07:30:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币下跌 5%，而山寨币却闪闪发光</title>
+      <link>https://www.reuters.com/technology/bitcoin-slides-5-profit-taking-sweeps-crypto-2024-03-19/</link>
+      <description><![CDATA[由于一波抛售浪潮袭击了加密货币和股票等其他风险资产，比特币周二下跌了 5.7%，有望创下两周来最大单日跌幅。]]></description>
+      <guid>https://www.reuters.com/technology/bitcoin-slides-5-profit-taking-sweeps-crypto-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 07:25:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>蒂森克虏伯评估凯雷收购海事业务的竞标</title>
+      <link>https://www.reuters.com/markets/deals/thyssenkrupp-evaluates-carlyles-bid-marine-unit-2024-03-19/</link>
+      <description><![CDATA[蒂森克虏伯周二表示，正在评估将其海事部门部分出售给投资公司凯雷的可能性。]]></description>
+      <guid>https://www.reuters.com/markets/deals/thyssenkrupp-evaluates-carlyles-bid-marine-unit-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 07:25:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合利华剥离冰淇淋部门 裁员 7,500 人以节省成本</title>
+      <link>https://www.reuters.com/markets/deals/unilever-spin-off-ben-jerrys-unit-launches-cost-savings-plan-2024-03-19/</link>
+      <description><![CDATA[联合利华周二表示，将剥离其冰淇淋部门，该部门是 Magnum 和 Ben &amp; 等受欢迎品牌的所在地。 Jerry&#39;s 成为一家独立企业，并在一项新的成本节约计划中裁员 7,500 人，导致股价在早盘交易中飙升。]]></description>
+      <guid>https://www.reuters.com/markets/deals/unilever-spin-off-ben-jerrys-unit-launches-cost-savings-plan-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 07:21:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿斯利康斥资 20 亿美元收购 Fusion Pharma，押注新的癌症治疗方法</title>
       <link>https://www.reuters.com/markets/deals/astrazeneca-buy-fusion-pharma-2-billion-cash-2024-03-19/</link>
-      <description><![CDATA[阿斯利康周二表示，将以约 20 亿美元现金收购临床阶段生物制药公司 Fusion Pharmaceuticals Inc，以增强其肿瘤产品组合。]]></description>
+      <description><![CDATA[阿斯利康周二表示，它将以约 20 亿美元现金收购临床阶段生物制药公司 Fusion Pharmaceuticals Inc，这家英瑞制药公司押注于下一代癌症治疗方法。]]></description>
       <guid>https://www.reuters.com/markets/deals/astrazeneca-buy-fusion-pharma-2-billion-cash-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 07:11:04 GMT</pubDate>
     </item>
@@ -34,13 +90,6 @@
       <pubDate>Tue, 19 Mar 2024 06:22:52 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：日本央行大举买入</title>
-      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-19/</link>
-      <description><![CDATA[Ankur Banerjee 对欧洲和全球市场未来一天的展望]]></description>
-      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 05:32:58 GMT</pubDate>
-    </item>
-    <item>
       <title>中国预计3月份基准贷款利率保持不变</title>
       <link>https://www.reuters.com/markets/rates-bonds/china-seen-leaving-benchmark-lending-rates-unchanged-march-2024-03-19/</link>
       <description><![CDATA[路透调查显示，市场普遍预计中国将在周三维持基准贷款利率不变，因为在整体经济开始显示出一些改善迹象之际，央行上周维持了关键政策利率不变。]]></description>
@@ -55,13 +104,6 @@
       <pubDate>Tue, 19 Mar 2024 05:05:46 GMT</pubDate>
     </item>
     <item>
-      <title>日元随日本国债收益率下跌，日本央行退出刺激措施后股市上涨</title>
-      <link>https://www.reuters.com/markets/asia/yen-weakens-japan-stocks-see-saw-after-boj-stimulus-exit-2024-03-19/</link>
-      <description><![CDATA[日本央行周二宣布退出多年的超宽松货币政策，标志着长达数十年的抗击通缩斗争的历史性转变，日元走软，日本国债收益率下跌。]]></description>
-      <guid>https://www.reuters.com/markets/asia/yen-weakens-japan-stocks-see-saw-after-boj-stimulus-exit-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 04:05:20 GMT</pubDate>
-    </item>
-    <item>
       <title>澳大利亚央行维持利率不变，淡化紧缩倾向</title>
       <link>https://www.reuters.com/business/finance/australias-central-bank-holds-rates-expected-waters-down-tightening-bias-2024-03-19/</link>
       <description><![CDATA[澳大利亚央行周二维持利率稳定，并淡化了紧缩倾向，表明随着经济放缓，人们对通胀回到目标的信心增强。]]></description>
@@ -69,25 +111,11 @@
       <pubDate>Tue, 19 Mar 2024 03:51:29 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行结束负利率政策</title>
-      <link>https://www.reuters.com/business/finance/boj-ends-negative-rate-policy-2024-03-19/</link>
-      <description><![CDATA[日本央行（BOJ）周二决定结束负利率政策，标志着其大规模刺激计划的重大转变。]]></description>
-      <guid>https://www.reuters.com/business/finance/boj-ends-negative-rate-policy-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 03:39:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia供应商SK海力士开始量产下一代存储芯片</title>
+      <title>Nvidia供应商SK Hynix开始量产下一代存储芯片</title>
       <link>https://www.reuters.com/technology/nvidia-supplier-sk-hynix-begins-mass-production-next-generation-memory-chip-2024-03-19/</link>
       <description><![CDATA[SK 海力士公司周二表示，该公司已开始批量生产用于人工智能芯片组的下一代高带宽内存（HBM）芯片，消息人士称首批出货量将于本月交付给 Nvidia。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-supplier-sk-hynix-begins-mass-production-next-generation-memory-chip-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 03:22:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资者面临“资产饥荒”，中国债券蓬勃发展</title>
-      <link>https://www.reuters.com/markets/rates-bonds/chinas-bonds-boom-investors-face-asset-famine-2024-03-19/</link>
-      <description><![CDATA[中国主权债务破纪录的上涨正达到高潮，这是中国金融体系信心不足、现金和银行存款过剩的另一个迹象。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/chinas-bonds-boom-investors-face-asset-famine-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 03:17:42 GMT</pubDate>
     </item>
     <item>
       <title>日本央行如预期做出里程碑式的政策转变，日本股市上涨，日元跌至 150</title>
@@ -99,51 +127,23 @@
     <item>
       <title>新日铁承诺将美国总部迁至美国钢铁公司匹兹堡</title>
       <link>https://www.reuters.com/markets/deals/nippon-steel-pledges-move-us-hq-us-steels-pittsburgh-2024-03-19/</link>
-      <description><![CDATA[一位高管表示，如果交易成功，新日铁将把其美国总部迁至其收购目标美国钢铁公司所在地的匹兹堡，这也是这家日本钢铁制造商为确保交易达成的承诺。]]></description>
+      <description><![CDATA[一位高管表示，如果交易成功，新日铁将把其美国总部迁至其收购目标美国钢铁公司所在地的匹兹堡，这进一步增强了这家日本钢铁制造商为确保交易达成的承诺。]]></description>
       <guid>https://www.reuters.com/markets/deals/nippon-steel-pledges-move-us-hq-us-steels-pittsburgh-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 01:30:27 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，美国将最终确定修订后的电动汽车里程评级规则，这对汽车制造商来说是胜利</title>
-      <link>https://www.reuters.com/business/autos-transportation/us-finalize-revised-ev-mileage-rating-rule-win-automakers-sources-say-2024-03-18/</link>
-      <description><![CDATA[消息人士称，美国能源部 (DOE) 周二将公布最终规则，大幅软化其提议，该提议将大幅削减电动汽车 (EV) 的里程评级，以满足政府 2027 年的燃油经济性要求。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/us-finalize-revised-ev-mileage-rating-rule-win-automakers-sources-say-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 22:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行结束负利率，退出激进政策时代</title>
+      <title>日本央行放弃激进政策 17 年来首次加息</title>
       <link>https://www.reuters.com/markets/asia/japan-poised-end-negative-rates-closing-era-radical-policy-2024-03-18/</link>
-      <description><![CDATA[日本央行周二结束了长达八年的负利率和其他非正统政策的残余，实现了历史性转变，不再以几十年来的大规模货币刺激来刺激经济增长。]]></description>
+      <description><![CDATA[日本央行结束了长达八年的负利率和其他非正统政策的残余，实现了历史性转变，不再试图通过数十年的大规模货币刺激来提振经济增长。]]></description>
       <guid>https://www.reuters.com/markets/asia/japan-poised-end-negative-rates-closing-era-radical-policy-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 22:13:04 GMT</pubDate>
     </item>
     <item>
-      <title>随着汽车人工智能竞赛的升温，英伟达扩大与中国电动汽车制造商的联系</title>
-      <link>https://www.reuters.com/technology/nvidia-expands-ties-with-chinese-ev-makers-auto-ai-race-heats-up-2024-03-18/</link>
-      <description><![CDATA[英伟达周一表示，正在扩大与比亚迪和其他中国汽车制造商的合作，这些制造商正在竞相制造自动驾驶汽车和人工智能增强信息娱乐技术，以在全球市场上竞争。]]></description>
-      <guid>https://www.reuters.com/technology/nvidia-expands-ties-with-chinese-ev-makers-auto-ai-race-heats-up-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 22:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国机构调查福特致命车祸中驾驶员辅助系统的使用情况</title>
-      <link>https://www.reuters.com/business/autos-transportation/us-agency-probes-driver-assistance-system-use-fatal-ford-crash-2024-03-18/</link>
-      <description><![CDATA[美国国家公路交通安全管理局周一表示，已对最近在德克萨斯州圣安东尼奥市发生的福特野马 Mach-E 致命车祸展开调查，当局怀疑该事故中使用了先进的驾驶员辅助系统。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/us-agency-probes-driver-assistance-system-use-fatal-ford-crash-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 20:27:21 GMT</pubDate>
-    </item>
-    <item>
       <title>UAW称大众田纳西工厂的工人申请工会选举</title>
       <link>https://www.reuters.com/business/autos-transportation/uaw-says-workers-vw-tennessee-plant-file-union-election-2024-03-18/</link>
-      <description><![CDATA[大众汽车位于田纳西州查塔努加的装配厂的工人们正在寻求加入汽车工人联合会的选举，这对美国汽车工人联合会主席肖恩·费恩（Shawn Fain）发起的史无前例的运动来说是一个关键的考验，该运动旨在将工会的影响力扩大到美国南部的外资汽车制造商。]]></description>
+      <description><![CDATA[大众汽车位于田纳西州查塔努加的装配厂的工人们正在寻求加入汽车工人联合会的选举，这对美国汽车工人联合会主席肖恩·费恩发起的史无前例的运动来说是一个关键的考验，该运动旨在将工会的影响力扩大到美国南部的外资汽车制造商。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/uaw-says-workers-vw-tennessee-plant-file-union-election-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 14:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia推出旗舰AI芯片B200，旨在扩大主导地位</title>
-      <link>https://www.reuters.com/technology/nvidia-ai-developer-conference-kicks-off-with-new-chips-focus-2024-03-18/</link>
-      <description><![CDATA[英伟达首席执行官黄仁勋周一在公司年度开发者大会上发布了一系列公告，旨在保持这家芯片制造商在人工智能行业的主导地位。]]></description>
-      <guid>https://www.reuters.com/technology/nvidia-ai-developer-conference-kicks-off-with-new-chips-focus-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 10:02:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
