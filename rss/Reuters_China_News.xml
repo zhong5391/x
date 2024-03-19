@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 19 Mar 2024 17:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 17:38:49 GMT</lastBuildDate>
+    <item>
+      <title>汽车老板德梅奥呼吁欧洲采取联合措施对抗中国电动汽车</title>
+      <link>https://www.reuters.com/business/autos-transportation/car-boss-de-meo-calls-joint-european-approach-counter-chinese-evs-2024-03-19/</link>
+      <description><![CDATA[雷诺首席执行官兼欧洲汽车制造商协会（ACEA）主席卢卡·德梅奥周二向欧洲政策制定者发出公开信，呼吁加强合作以与中国电动汽车制造商竞争。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/car-boss-de-meo-calls-joint-european-approach-counter-chinese-evs-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 15:48:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>卫冕冠军意大利将在戴维斯杯中迎战比利时、巴西和荷兰</title>
+      <link>https://www.reuters.com/sports/tennis/holders-italy-face-belgium-brazil-netherlands-davis-cup-2024-03-19/</link>
+      <description><![CDATA[冠军意大利队将在九月份的戴维斯杯决赛小组赛中迎战比利时、巴西和荷兰。]]></description>
+      <guid>https://www.reuters.com/sports/tennis/holders-italy-face-belgium-brazil-netherlands-davis-cup-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 15:30:19 GMT</pubDate>
+    </item>
     <item>
       <title>法拉利因刹车缺陷被美国车手起诉</title>
       <link>https://www.reuters.com/business/autos-transportation/ferrari-is-sued-by-us-drivers-over-brake-defect-2024-03-19/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>首席财务官悲观前景导致西门子股价跌至一年低点</title>
       <link>https://www.reuters.com/business/siemenss-share-slump-one-year-low-after-cfos-gloomy-outlook-2024-03-19/</link>
-      <description><![CDATA[西门子首席财务官拉尔夫·托马斯在周二的美国银行会议上表示，其旗舰数字工业部门第二季度的收入将持平，随后该公司股价跌至一年来的最低点。]]></description>
+      <description><![CDATA[西门子首席财务官拉尔夫·托马斯在周二的美国银行会议上表示，其旗舰数字产业部门第二季度的收入将持平，随后该公司股价跌至一年来的最低点。]]></description>
       <guid>https://www.reuters.com/business/siemenss-share-slump-one-year-low-after-cfos-gloomy-outlook-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 13:35:55 GMT</pubDate>
     </item>
@@ -69,7 +83,7 @@
       <pubDate>Tue, 19 Mar 2024 10:08:51 GMT</pubDate>
     </item>
     <item>
-      <title>世界杯预选赛恢复后，亚洲冠军卡塔尔队转移焦点</title>
+      <title>随着世界杯预赛的恢复，亚洲冠军卡塔尔队转移焦点</title>
       <link>https://www.reuters.com/sports/soccer/asian-champions-qatar-shift-focus-world-cup-preliminaries-resume-2024-03-19/</link>
       <description><![CDATA[卡塔尔将于周四对阵科威特，恢复首次世界杯预选赛的资格，教练席稳定，但在本土卫冕亚洲杯六周后，球场上的情况发生了变化。]]></description>
       <guid>https://www.reuters.com/sports/soccer/asian-champions-qatar-shift-focus-world-cup-preliminaries-resume-2024-03-19/</guid>
@@ -99,7 +113,7 @@
     <item>
       <title>印花税取消后，内地人涌入香港房地产</title>
       <link>https://www.reuters.com/business/mainland-chinese-surge-into-hong-kong-property-after-stamp-duties-scrapped-2024-03-19/</link>
-      <description><![CDATA[在经历了三年多大流行引发的平静之后，中国内地人开始在香港抢购房屋，在香港取消对外国买家的所有额外印花税几周后，内地人抢购了香港新房销售的三分之一。]]></description>
+      <description><![CDATA[在经历了三年多的大流行引发的平静之后，中国大陆人开始在香港抢购房屋，在香港取消对外国买家的所有额外印花税几周后，中国内地人在香港新房销售中占比高达三分之一。]]></description>
       <guid>https://www.reuters.com/business/mainland-chinese-surge-into-hong-kong-property-after-stamp-duties-scrapped-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 09:02:33 GMT</pubDate>
     </item>
@@ -111,25 +125,11 @@
       <pubDate>Tue, 19 Mar 2024 08:45:33 GMT</pubDate>
     </item>
     <item>
-      <title>印度称中国对阿鲁纳恰尔邦的主权主张“荒谬”</title>
-      <link>https://www.reuters.com/world/asia-pacific/india-calls-china-defence-ministrys-claims-over-arunachal-pradesh-state-absurd-2024-03-19/</link>
-      <description><![CDATA[印度外交部周二表示，中国对阿鲁纳恰尔邦提出“荒谬的主张”，并补充说，与中国接壤的东北部邦将永远是“印度不可分割的一部分”。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/india-calls-china-defence-ministrys-claims-over-arunachal-pradesh-state-absurd-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 08:30:34 GMT</pubDate>
-    </item>
-    <item>
       <title>随着出生率下降，中国许多医院停止新生儿接生服务</title>
       <link>https://www.reuters.com/world/china/many-hospitals-china-stop-newborn-delivery-services-birth-rate-drops-2024-03-19/</link>
       <description><![CDATA[据官方媒体《每日经济新闻》报道，中国许多医院今年已停止提供新生儿接生服务，行业专家警告称，由于新生儿数量创纪录下降，需求下降，将导致“产科寒冬”。]]></description>
       <guid>https://www.reuters.com/world/china/many-hospitals-china-stop-newborn-delivery-services-birth-rate-drops-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 07:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国青少年被杀事件让农民工“留守”子女成为焦点</title>
-      <link>https://www.reuters.com/world/china/killing-teen-china-puts-left-behind-children-migrant-workers-spotlight-2024-03-19/</link>
-      <description><![CDATA[上周，中国北方一名13岁男孩被杀，三名男孩被警方拘留，引发了媒体对青少年犯罪和农民工留守儿童困境的热议。]]></description>
-      <guid>https://www.reuters.com/world/china/killing-teen-china-puts-left-behind-children-migrant-workers-spotlight-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 06:52:15 GMT</pubDate>
     </item>
     <item>
       <title>日元不顾日本央行历史性转变而下跌；美元坚挺</title>
@@ -141,7 +141,7 @@
     <item>
       <title>2024 年的预期：美联储转向、通胀降温、增长放缓</title>
       <link>https://www.reuters.com/markets/what-expect-2024-fed-pivot-cooling-inflation-easing-growth-2024-01-15/</link>
-      <description><![CDATA[大型银行表示，今年全球经济增长可能会放缓，但美联储立场的鸽派倾斜给美国经济带来了希望，并提振了风险资产的前景。]]></description>
+      <description><![CDATA[大型银行表示，今年全球经济增长可能会放缓，但美联储立场的鸽派倾斜给美国经济带来了希望，并提亮了风险资产的前景。]]></description>
       <guid>https://www.reuters.com/markets/what-expect-2024-fed-pivot-cooling-inflation-easing-growth-2024-01-15/</guid>
       <pubDate>Mon, 15 Jan 2024 16:07:46 GMT</pubDate>
     </item>
