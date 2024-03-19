@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 19 Mar 2024 12:34:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 12:52:37 GMT</lastBuildDate>
     <item>
       <title>芝加哥人投票决定提高房地产税以应对无家可归问题</title>
       <link>https://www.reuters.com/world/us/chicagoans-vote-real-estate-tax-hike-fight-homelessness-2024-03-19/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>即将IPO的Reddit披露了诺基亚的专利侵权投诉</title>
       <link>https://www.reuters.com/technology/reddit-says-nokia-accused-it-patent-infringement-2024-03-19/</link>
-      <description><![CDATA[社交媒体平台 Reddit 周二表示，正在评估诺基亚技术公司的一封信，该信函指控其侵犯了这家电信和云网络公司的部分专利，随后本周晚些时候将进行备受瞩目的首次公开募股 (IPO)。]]></description>
+      <description><![CDATA[社交媒体平台 Reddit 周二表示，正在评估诺基亚科技公司的一封信，该信函指控其侵犯了这家电信和云网络公司的部分专利，随后本周晚些时候将进行高调的首次公开募股 (IPO)。]]></description>
       <guid>https://www.reuters.com/technology/reddit-says-nokia-accused-it-patent-infringement-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 10:21:32 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>Meta 提议将 Facebook、Instagram 月费几乎减半至 5.99 欧元</title>
       <link>https://www.reuters.com/technology/meta-offers-cut-facebook-instagram-monthly-fees-599-euros-2024-03-19/</link>
-      <description><![CDATA[Meta 的一位高级高管周二表示，在与隐私监管机构讨论后，Meta Platforms 已提出将 Facebook 和 Instagram 的每月订阅费从 9.99 欧元削减近一半至 5.99 欧元。]]></description>
+      <description><![CDATA[Meta 的一位高级高管周二表示，在与隐私监管机构讨论后，Meta Platforms 已提出将 Facebook 和 Instagram 的每月订阅费从 9.99 欧元减半至 5.99 欧元。]]></description>
       <guid>https://www.reuters.com/technology/meta-offers-cut-facebook-instagram-monthly-fees-599-euros-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 09:51:39 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Tue, 19 Mar 2024 01:30:27 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行放弃激进政策，17年来首次加息</title>
+      <title>日本央行放弃激进政策 17 年来首次加息</title>
       <link>https://www.reuters.com/markets/asia/japan-poised-end-negative-rates-closing-era-radical-policy-2024-03-18/</link>
       <description><![CDATA[日本央行结束了八年的负利率及其非正统政策的残余，实现了历史性转变，不再关注通过数十年的货币刺激来促进经济再通胀。]]></description>
       <guid>https://www.reuters.com/markets/asia/japan-poised-end-negative-rates-closing-era-radical-policy-2024-03-18/</guid>
