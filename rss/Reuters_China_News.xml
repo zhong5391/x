@@ -1,52 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 19 Mar 2024 07:43:33 GMT</lastBuildDate>
-    <item>
-      <title>随着出生率下降，中国许多医院停止新生儿接生服务</title>
-      <link>https://www.reuters.com/world/china/many-hospitals-china-stop-newborn-delivery-services-birth-rate-drops-2024-03-19/</link>
-      <description><![CDATA[据官方媒体《每日经济新闻》报道，中国许多医院今年已停止提供新生儿接生服务，行业专家警告称，由于新生儿数量创纪录下降，需求下降，将导致“产科寒冬”。]]></description>
-      <guid>https://www.reuters.com/world/china/many-hospitals-china-stop-newborn-delivery-services-birth-rate-drops-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 07:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国青少年被杀事件让农民工“留守”子女成为焦点</title>
-      <link>https://www.reuters.com/world/china/killing-teen-china-puts-left-behind-children-migrant-workers-spotlight-2024-03-19/</link>
-      <description><![CDATA[上周，中国北方一名13岁男孩被杀，三名男孩被警方拘留，引发了媒体对青少年犯罪和农民工留守儿童困境的热议。]]></description>
-      <guid>https://www.reuters.com/world/china/killing-teen-china-puts-left-behind-children-migrant-workers-spotlight-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 06:52:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国开发商万科的信贷追求因要求抵押品的呼声而蒙上阴影</title>
-      <link>https://www.reuters.com/markets/asia/chinese-developer-vankes-credit-pursuit-clouded-by-clamour-collateral-2024-03-19/</link>
-      <description><![CDATA[北京方面罕见地发布了一项旨在帮助万科应对流动性危机的指令，这使得贷款机构争先恐后地争夺这家国有开发商提议作为抵押品的资产，而各方则竭尽全力阻止房地产行业的恶化。]]></description>
-      <guid>https://www.reuters.com/markets/asia/chinese-developer-vankes-credit-pursuit-clouded-by-clamour-collateral-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 06:25:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲律宾预计未来5年赌场业投资高达60亿美元</title>
-      <link>https://www.reuters.com/world/asia-pacific/philippines-sees-up-6-bln-investments-casino-sector-next-5-years-2024-03-19/</link>
-      <description><![CDATA[菲律宾博彩监管机构负责人表示，未来五年，国内外公司预计将在菲律宾赌场业投资高达 60 亿美元，随着竞争的加剧，将巩固菲律宾在亚洲顶级博彩目的地中的地位。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/philippines-sees-up-6-bln-investments-casino-sector-next-5-years-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 06:10:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲律宾外长表示挑战是如何维持和提升美菲联盟</title>
-      <link>https://www.reuters.com/world/asia-pacific/philippines-foreign-minister-says-challenge-is-how-sustain-elevate-us-2024-03-19/</link>
-      <description><![CDATA[菲律宾外交部长周二表示，未来的挑战是如何维持并进一步提升菲律宾与长期盟友美国之间的关系。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/philippines-foreign-minister-says-challenge-is-how-sustain-elevate-us-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 06:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国预计3月份基准贷款利率保持不变</title>
-      <link>https://www.reuters.com/markets/rates-bonds/china-seen-leaving-benchmark-lending-rates-unchanged-march-2024-03-19/</link>
-      <description><![CDATA[路透调查显示，市场普遍预计中国将在周三维持基准贷款利率不变，因为在整体经济开始显示出一些改善迹象之际，央行上周维持了关键政策利率不变。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/china-seen-leaving-benchmark-lending-rates-unchanged-march-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 05:27:28 GMT</pubDate>
-    </item>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 19 Mar 2024 08:23:47 GMT</lastBuildDate>
     <item>
       <title>英伟达令人眼花缭乱的上涨刺激了人工智能主题 ETF 的涌入</title>
       <link>https://www.reuters.com/technology/nvidias-dizzying-rally-spurs-rush-into-ai-themed-etfs-2024-03-19/</link>
@@ -83,9 +41,9 @@
       <pubDate>Tue, 19 Mar 2024 02:36:58 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行如预期做出里程碑式的政策转变，日本股市上涨，日元跌至 150</title>
+      <title>日本央行如预期做出里程碑式的政策转变，日本股市震荡，日元接近 150</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-19/</link>
-      <description><![CDATA[日本股市周二收高，而日元兑美元汇率跌至 150 美元，此前日本央行一如普遍预期结束了八年的负利率，并迎来了该国自 2007 年以来的首次政策紧缩。]]></description>
+      <description><![CDATA[日本股市周二大幅波动，日元兑美元汇率跌至接近 150 美元，此前日本央行结束了八年的负利率，并迎来了该国自 2007 年以来的首次政策紧缩。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 02:20:12 GMT</pubDate>
     </item>
@@ -97,9 +55,9 @@
       <pubDate>Tue, 19 Mar 2024 02:03:19 GMT</pubDate>
     </item>
     <item>
-      <title>日元下跌，无视日本央行历史性转变；澳元暴跌</title>
+      <title>日本央行结束负利率后日元下跌；澳元下跌</title>
       <link>https://www.reuters.com/markets/currencies/yen-holds-nerve-boj-decision-looms-dollar-resurgent-2024-03-19/</link>
-      <description><![CDATA[在日本央行以一项具有里程碑意义但备受期待的决定结束负利率政策后，日元周二大幅下跌，而在国内利率保持稳定后，澳元也下跌。]]></description>
+      <description><![CDATA[日本央行(BOJ)以一项具有里程碑意义但备受期待的决定结束负利率政策后，日元周二下跌，而在央行维持利率稳定后，澳元也下跌。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-holds-nerve-boj-decision-looms-dollar-resurgent-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 00:50:48 GMT</pubDate>
     </item>
@@ -139,11 +97,53 @@
       <pubDate>Mon, 18 Mar 2024 20:28:40 GMT</pubDate>
     </item>
     <item>
+      <title>助手称，美国官员周三将向参议员通报 TikTok 构成的威胁</title>
+      <link>https://www.reuters.com/world/us/us-officials-brief-senators-wednesday-threats-posed-by-tiktok-aide-2024-03-18/</link>
+      <description><![CDATA[一名委员会助手周一对路透表示，美国国家安全官员将于周三为商业和情报委员会参议员就中国短视频应用 TikTok 构成的威胁举行闭门简报会。]]></description>
+      <guid>https://www.reuters.com/world/us/us-officials-brief-senators-wednesday-threats-posed-by-tiktok-aide-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 20:12:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国对消费金融公司提出更高的标准</title>
+      <link>https://www.reuters.com/business/finance/china-sets-higher-bar-consumer-finance-companies-2024-03-18/</link>
+      <description><![CDATA[中国十年来首次改变了消费金融公司的规则，为在世界第二大经济体提供小额个人贷款的非银行金融企业设定了更高的门槛。]]></description>
+      <guid>https://www.reuters.com/business/finance/china-sets-higher-bar-consumer-finance-companies-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 14:57:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国恒大旗舰公司创始人因证券欺诈被处罚</title>
+      <link>https://www.reuters.com/business/chinas-regulator-ban-evergrande-chairman-entering-securities-market-life-2024-03-18/</link>
+      <description><![CDATA[中国恒大集团创始人许家印将被终身禁止进入证券市场，并被监管机构指控该集团的旗舰部门虚报业绩、证券欺诈和未能及时披露信息，并处以人民币 4700 万元（合 653 万美元）的罚款。]]></description>
+      <guid>https://www.reuters.com/business/chinas-regulator-ban-evergrande-chairman-entering-securities-market-life-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 12:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国抗议台湾部长在美国支持的首尔峰会上扮演的角色</title>
+      <link>https://www.reuters.com/world/china-protests-taiwan-ministers-role-seoul-summit-backed-by-us-2024-03-18/</link>
+      <description><![CDATA[中国周一斥责韩国台湾参加美国支持的首尔民主峰会，台湾数字部长唐奥黛在峰会上发表了未经宣布的视频致辞。]]></description>
+      <guid>https://www.reuters.com/world/china-protests-taiwan-ministers-role-seoul-summit-backed-by-us-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 11:09:56 GMT</pubDate>
+    </item>
+    <item>
       <title>2023年更多中国人结婚，结婚率九年来首次上升</title>
       <link>https://www.reuters.com/world/china/more-chinese-tied-knot-2023-lifting-marriage-rates-first-time-nine-years-2024-03-18/</link>
       <description><![CDATA[2023年，中国新婚人数较上年增长12.4%，扭转了近十年来的下降趋势，因为越来越多的年轻人因COVID-19大流行而推迟了婚礼。]]></description>
       <guid>https://www.reuters.com/world/china/more-chinese-tied-knot-2023-lifting-marriage-rates-first-time-nine-years-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 07:04:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国比亚迪推出新版毁灭者07混合动力车，起售价更低</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinas-byd-launches-new-version-destroyer-07-hybrid-lower-starting-price-2024-03-18/</link>
+      <description><![CDATA[路透社计算显示，中国电动汽车巨头比亚迪周一推出了新版 Destroyer 07 混合动力汽车，起售价比前代车型低 11.3%。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-launches-new-version-destroyer-07-hybrid-lower-starting-price-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 05:19:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国警告新加坡公民远离赌博</title>
+      <link>https://www.reuters.com/world/asia-pacific/china-warns-citizens-singapore-stay-away-gambling-2024-03-18/</link>
+      <description><![CDATA[中国驻新加坡大使馆周一敦促新加坡公民远离一切形式的赌博，称海外赌博违反中国法律。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/china-warns-citizens-singapore-stay-away-gambling-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 04:45:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
