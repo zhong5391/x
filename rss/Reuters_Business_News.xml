@@ -4,7 +4,49 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 19 Mar 2024 05:31:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 05:48:36 GMT</lastBuildDate>
+    <item>
+      <title>英伟达令人眼花缭乱的上涨刺激了人工智能主题 ETF 的涌入</title>
+      <link>https://www.reuters.com/technology/nvidias-dizzying-rally-spurs-rush-into-ai-themed-etfs-2024-03-19/</link>
+      <description><![CDATA[围绕人工智能的热情引发了人工智能主题 ETF 的淘金热，在英伟达等市场宠儿的惊人反弹之后，投资者寻求新的方式来利用这一新兴技术。]]></description>
+      <guid>https://www.reuters.com/technology/nvidias-dizzying-rally-spurs-rush-into-ai-themed-etfs-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 05:05:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行里程碑式地退出宽松政策后，日元下跌，股市拉锯</title>
+      <link>https://www.reuters.com/markets/asia/yen-weakens-japan-stocks-see-saw-after-boj-stimulus-exit-2024-03-19/</link>
+      <description><![CDATA[日本央行周二宣布结束多年的超宽松货币政策，标志着长达数十年的抗击通缩斗争的历史性转变，日元走软，股市小幅上涨和下跌。]]></description>
+      <guid>https://www.reuters.com/markets/asia/yen-weakens-japan-stocks-see-saw-after-boj-stimulus-exit-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 04:05:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚央行按预期维持利率不变，淡化紧缩倾向</title>
+      <link>https://www.reuters.com/business/finance/australias-central-bank-holds-rates-expected-waters-down-tightening-bias-2024-03-19/</link>
+      <description><![CDATA[澳大利亚央行周二维持利率稳定，并淡化了紧缩倾向，表明随着经济放缓，人们对通胀回到目标的信心增强。]]></description>
+      <guid>https://www.reuters.com/business/finance/australias-central-bank-holds-rates-expected-waters-down-tightening-bias-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 03:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行结束负利率政策</title>
+      <link>https://www.reuters.com/business/finance/boj-ends-negative-rate-policy-2024-03-19/</link>
+      <description><![CDATA[日本央行（BOJ）周二决定结束负利率政策，标志着其大规模刺激计划的重大转变。]]></description>
+      <guid>https://www.reuters.com/business/finance/boj-ends-negative-rate-policy-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 03:39:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia供应商SK海力士开始量产下一代存储芯片</title>
+      <link>https://www.reuters.com/technology/nvidia-supplier-sk-hynix-begins-mass-production-next-generation-memory-chip-2024-03-19/</link>
+      <description><![CDATA[SK 海力士公司周二表示，该公司已开始批量生产用于人工智能芯片组的下一代高带宽内存（HBM）芯片，消息人士称首批出货量将于本月交付给 Nvidia。]]></description>
+      <guid>https://www.reuters.com/technology/nvidia-supplier-sk-hynix-begins-mass-production-next-generation-memory-chip-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 03:22:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行行长上田提议以董事会主席身份结束负利率 - NHK</title>
+      <link>https://www.reuters.com/markets/rates-bonds/boj-governor-ueda-proposes-ending-negative-rates-board-chair-nhk-2024-03-19/</link>
+      <description><![CDATA[据公共广播公司 NHK 报道，日本央行行长上田一夫 (Kazuo Ueda) 作为政策制定委员会主席提议终止负利率，该委员会将于周二召开会议，结束为期两天的会议。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/boj-governor-ueda-proposes-ending-negative-rates-board-chair-nhk-2024-03-19/</guid>
+      <pubDate>Tue, 19 Mar 2024 03:21:27 GMT</pubDate>
+    </item>
     <item>
       <title>投资者面临“资产饥荒”，中国债券蓬勃发展</title>
       <link>https://www.reuters.com/markets/rates-bonds/chinas-bonds-boom-investors-face-asset-famine-2024-03-19/</link>
@@ -13,32 +55,25 @@
       <pubDate>Tue, 19 Mar 2024 03:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯增加供应，航空燃油需求引发谨慎，油价小幅下跌</title>
+      <title>俄罗斯增加供应导致油价下滑，航空燃油需求引发谨慎</title>
       <link>https://www.reuters.com/business/energy/oil-prices-edge-down-russia-lifts-supplies-jet-fuel-demand-stirs-caution-2024-03-19/</link>
-      <description><![CDATA[油价在前一交易日上涨后，周二早盘小幅下跌，部分原因是俄罗斯供应增加的前景以及航空燃油等行业下游需求可能慢于预期。]]></description>
+      <description><![CDATA[周二油价下跌，部分原因是俄罗斯供应增加的前景、航空燃油等行业下游需求低于预期，以及美联储就美国利率做出决定之前交易谨慎。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-prices-edge-down-russia-lifts-supplies-jet-fuel-demand-stirs-caution-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 03:10:17 GMT</pubDate>
     </item>
     <item>
-      <title>独家：消息人士称富达国际计划削减中国基金部门16%的职位</title>
+      <title>独家：富达国际计划削减中国基金部门16%的职位</title>
       <link>https://www.reuters.com/business/finance/fidelity-international-plan-cut-16-china-fund-unit-jobs-sources-say-2024-03-19/</link>
-      <description><![CDATA[两位知情人士称，基金管理公司富达国际 (FIL) 计划在其主要的中国子公司裁员 20 人，此次裁员恰逢中国市场低迷以及该公司在全球范围内裁员。]]></description>
+      <description><![CDATA[两名知情人士称，基金管理公司富达国际 (FIL) 计划在其主要中国子公司裁员 20 人，此次裁员恰逢中国市场低迷以及该公司在全球范围内裁员。]]></description>
       <guid>https://www.reuters.com/business/finance/fidelity-international-plan-cut-16-china-fund-unit-jobs-sources-say-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 02:36:58 GMT</pubDate>
     </item>
     <item>
-      <title>日本股市下跌，日元稳定，市场为日本央行里程碑式的转变做好准备</title>
+      <title>日本央行如预期做出里程碑式的政策转变，日本股市震荡，日元接近 150</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-19/</link>
-      <description><![CDATA[日本股市周二随地区市场下跌，而日元则保持稳定，即将召开关键的日本央行会议，该会议可能会结束八年的负利率，并迎来该国自 2007 年以来的首次政策紧缩。]]></description>
+      <description><![CDATA[日本股市周二大幅波动，日元兑美元汇率跌至接近 150 美元，此前日本央行结束了八年的负利率，并迎来了该国自 2007 年以来的首次政策紧缩。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 02:20:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚商界领袖会见中国外交部长</title>
-      <link>https://www.reuters.com/world/asia-pacific/australian-business-leaders-meet-chinese-foreign-minister-2024-03-19/</link>
-      <description><![CDATA[澳大利亚商界领袖将在堪培拉会见中国外交部长，称他们的国家对其最大的贸易伙伴缺乏了解，他们将寻求了解北京如何看待华盛顿，这对贸易流动“至关重要”。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/australian-business-leaders-meet-chinese-foreign-minister-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 02:03:19 GMT</pubDate>
     </item>
     <item>
       <title>新日铁承诺将美国总部迁至美国钢铁公司匹兹堡</title>
@@ -55,20 +90,6 @@
       <pubDate>Tue, 19 Mar 2024 00:55:34 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 的新软件工具旨在帮助公司将人工智能融入业务</title>
-      <link>https://www.reuters.com/technology/nvidias-new-software-tools-meant-companies-adding-ai-business-2024-03-19/</link>
-      <description><![CDATA[英伟达周一推出了软件，旨在让企业更容易地将人工智能系统融入到他们的工作中，从而扩大该芯片制造商的产品范围。]]></description>
-      <guid>https://www.reuters.com/technology/nvidias-new-software-tools-meant-companies-adding-ai-business-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 00:53:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着日本央行决定的临近，日元保持紧张；美元复苏</title>
-      <link>https://www.reuters.com/markets/currencies/yen-holds-nerve-boj-decision-looms-dollar-resurgent-2024-03-19/</link>
-      <description><![CDATA[周二日元兑美元汇率跌至接近 150 美元的水平，但在日本央行 (BOJ) 做出关键政策决定之前坚守阵地，而美元则因对日本提前降息的押注减少而高于其他货币。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/yen-holds-nerve-boj-decision-looms-dollar-resurgent-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 00:50:48 GMT</pubDate>
-    </item>
-    <item>
       <title>消息人士称，美国将最终确定修订后的电动汽车里程评级规则，这对汽车制造商来说是胜利</title>
       <link>https://www.reuters.com/business/autos-transportation/us-finalize-revised-ev-mileage-rating-rule-win-automakers-sources-say-2024-03-18/</link>
       <description><![CDATA[消息人士称，美国能源部 (DOE) 周二将公布最终规则，大幅软化其提议，该提议将大幅削减电动汽车 (EV) 的里程评级，以满足政府 2027 年的燃油经济性要求。]]></description>
@@ -76,11 +97,11 @@
       <pubDate>Mon, 18 Mar 2024 22:31:26 GMT</pubDate>
     </item>
     <item>
-      <title>Nvidia 添加生成式 AI 为人形机器人提供动力</title>
-      <link>https://www.reuters.com/technology/nvidia-adds-generative-ai-power-humanoid-robots-2024-03-18/</link>
-      <description><![CDATA[英伟达周一宣布推出一个硬件和软件平台，用于构建包含生成人工智能功能的类人机器人。]]></description>
-      <guid>https://www.reuters.com/technology/nvidia-adds-generative-ai-power-humanoid-robots-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 22:07:18 GMT</pubDate>
+      <title>日本央行结束负利率，告别激进政策时代</title>
+      <link>https://www.reuters.com/markets/asia/japan-poised-end-negative-rates-closing-era-radical-policy-2024-03-18/</link>
+      <description><![CDATA[日本央行(BOJ)周二结束了长达八年的负利率和其他非正统政策的残余，实现了历史性转变，不再以几十年来的大规模货币刺激政策来促进经济再膨胀。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japan-poised-end-negative-rates-closing-era-radical-policy-2024-03-18/</guid>
+      <pubDate>Mon, 18 Mar 2024 22:13:04 GMT</pubDate>
     </item>
     <item>
       <title>随着汽车人工智能竞赛的升温，英伟达扩大与中国电动汽车制造商的联系</title>
@@ -111,13 +132,6 @@
       <pubDate>Mon, 18 Mar 2024 16:40:38 GMT</pubDate>
     </item>
     <item>
-      <title>NAHB 称美国房屋建筑商信心升至 7 月以来最高水平</title>
-      <link>https://www.reuters.com/markets/us/us-homebuilder-confidence-highest-level-since-july-nahb-says-2024-03-18/</link>
-      <description><![CDATA[美国房屋建筑商协会周一表示，由于抵押贷款利率下降以及现有房屋库存持续短缺的情况下定价环境改善，美国房屋建筑商信心在 3 月份升至 7 月份以来的最高水平。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-homebuilder-confidence-highest-level-since-july-nahb-says-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 14:08:25 GMT</pubDate>
-    </item>
-    <item>
       <title>UAW称大众田纳西工厂的工人申请工会选举</title>
       <link>https://www.reuters.com/business/autos-transportation/uaw-says-workers-vw-tennessee-plant-file-union-election-2024-03-18/</link>
       <description><![CDATA[大众汽车位于田纳西州查塔努加的装配厂的工人们正在寻求加入汽车工人联合会的选举，这对美国汽车工人联合会主席肖恩·费恩发起的史无前例的运动来说是一个关键的考验，该运动旨在将工会的影响力扩大到美国南部的外资汽车制造商。]]></description>
@@ -130,13 +144,6 @@
       <description><![CDATA[英伟达首席执行官黄仁勋周一在公司年度开发者大会上发布了一系列公告，旨在保持这家芯片制造商在人工智能行业的主导地位。]]></description>
       <guid>https://www.reuters.com/technology/nvidia-ai-developer-conference-kicks-off-with-new-chips-focus-2024-03-18/</guid>
       <pubDate>Mon, 18 Mar 2024 10:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街收高，投资者用人工智能热情应对美联储的紧张情绪</title>
-      <link>https://www.reuters.com/markets/us/sp-500-nasdaq-futures-tick-up-ahead-fed-meeting-ai-conference-2024-03-18/</link>
-      <description><![CDATA[华尔街主要股指周一收高，Alphabet和特斯拉等大型成长股支撑着以科技股为主的纳斯达克指数反弹，同时投资者也在焦急等待本周美联储的会议。]]></description>
-      <guid>https://www.reuters.com/markets/us/sp-500-nasdaq-futures-tick-up-ahead-fed-meeting-ai-conference-2024-03-18/</guid>
-      <pubDate>Mon, 18 Mar 2024 09:44:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
