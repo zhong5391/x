@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 20 Mar 2024 10:27:31 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 20 Mar 2024 10:40:37 GMT</lastBuildDate>
     <item>
       <title>台湾2月出口订单不及预期，中国、美国承压</title>
       <link>https://www.reuters.com/markets/asia/taiwan-feb-export-orders-miss-expectations-china-us-weigh-2024-03-20/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>印度海绵铁生产商寻求关税以遏制铁矿石出口</title>
       <link>https://www.reuters.com/markets/commodities/indias-sponge-iron-producers-seek-duties-curb-iron-ore-exports-2024-03-20/</link>
-      <description><![CDATA[印度海绵铁生产商敦促政府对低品位铁矿石出口征收关税，以避免世界第二大粗钢生产商的主要原材料短缺。]]></description>
+      <description><![CDATA[印度海绵铁生产商敦促政府对低品位铁矿石出口征收关税，以避免全球第二大粗钢生产商的主要原材料短缺。]]></description>
       <guid>https://www.reuters.com/markets/commodities/indias-sponge-iron-producers-seek-duties-curb-iron-ore-exports-2024-03-20/</guid>
       <pubDate>Wed, 20 Mar 2024 06:57:16 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>彭博新闻报道，美国考虑制裁华为的中国芯片网络</title>
       <link>https://www.reuters.com/technology/us-weighs-sanctioning-huaweis-chinese-chip-network-bloomberg-news-reports-2024-03-20/</link>
-      <description><![CDATA[彭博社周三援引知情人士的话报道称，拜登政府正在考虑将多家与华为技术有限公司（HWT.UL）有关联的中国半导体公司列入黑名单。]]></description>
+      <description><![CDATA[彭博新闻周三援引知情人士的话报道称，拜登政府正在考虑将多家与华为技术有限公司（HWT.UL）有关联的中国半导体公司列入黑名单。]]></description>
       <guid>https://www.reuters.com/technology/us-weighs-sanctioning-huaweis-chinese-chip-network-bloomberg-news-reports-2024-03-20/</guid>
       <pubDate>Wed, 20 Mar 2024 05:39:49 GMT</pubDate>
     </item>
