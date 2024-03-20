@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 20 Mar 2024 05:23:33 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 20 Mar 2024 05:38:49 GMT</lastBuildDate>
+    <item>
+      <title>苹果老板蒂姆·库克访问上海 中国销售面临压力</title>
+      <link>https://www.reuters.com/technology/apple-boss-tim-cook-visiting-shanghai-2024-03-20/</link>
+      <description><![CDATA[苹果首席执行官蒂姆·库克周三在其微博账户上发帖称，他目前正在上海访问。]]></description>
+      <guid>https://www.reuters.com/technology/apple-boss-tim-cook-visiting-shanghai-2024-03-20/</guid>
+      <pubDate>Wed, 20 Mar 2024 03:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚 AUKUS 潜艇基地抗议凸显安全协议面临的挑战</title>
+      <link>https://www.reuters.com/world/aukus-submarine-base-protests-australia-highlight-challenges-security-pact-2024-03-20/</link>
+      <description><![CDATA[澳大利亚工会对新潜艇基地计划的强烈抵制表明，与美国和英国合作的高风险国防项目面临着挑战，该项目旨在对抗中国在太平洋地区日益增长的影响力。]]></description>
+      <guid>https://www.reuters.com/world/aukus-submarine-base-protests-australia-highlight-challenges-security-pact-2024-03-20/</guid>
+      <pubDate>Wed, 20 Mar 2024 03:18:53 GMT</pubDate>
+    </item>
     <item>
       <title>华北客车撞隧道墙 14人死亡</title>
       <link>https://www.reuters.com/world/china/passenger-bus-crashes-into-tunnel-wall-north-china-killing-14-2024-03-20/</link>
@@ -48,9 +62,9 @@
       <pubDate>Wed, 20 Mar 2024 02:06:31 GMT</pubDate>
     </item>
     <item>
-      <title>日元徘徊在四个月低点附近，美联储成为焦点</title>
+      <title>日元接近四个月低点，美联储成为焦点</title>
       <link>https://www.reuters.com/markets/currencies/yen-flounders-near-four-month-low-fed-spotlight-2024-03-20/</link>
-      <description><![CDATA[周三，在日本央行决定结束负利率政策的第二天，日元兑美元汇率跌至近四个月低点，兑欧元汇率跌至 16 年来的低点。]]></description>
+      <description><![CDATA[周三，日元兑美元汇率跌至近四个月低点，兑欧元汇率跌至16年来的低点，因为交易员押注即使日本央行结束负利率政策，日本的货币环境仍将保持宽松。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-flounders-near-four-month-low-fed-spotlight-2024-03-20/</guid>
       <pubDate>Wed, 20 Mar 2024 01:27:58 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>中国外长称中澳经济“高度互补”</title>
       <link>https://www.reuters.com/world/asia-pacific/china-foreign-minister-says-china-australia-economies-highly-complementary-2024-03-20/</link>
-      <description><![CDATA[中国外交部周三发布的一份声明称，中国外交部长王毅在与澳大利亚外长会晤时表示，中国和澳大利亚经济“高度互补”，潜力巨大。]]></description>
+      <description><![CDATA[根据中国外交部周三发布的声明，中国外交部长王毅在与澳大利亚外长会晤时表示，中国和澳大利亚经济“高度互补”，潜力巨大。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-foreign-minister-says-china-australia-economies-highly-complementary-2024-03-20/</guid>
       <pubDate>Wed, 20 Mar 2024 00:18:34 GMT</pubDate>
     </item>
@@ -116,20 +130,6 @@
       <description><![CDATA[雷诺首席执行官兼欧洲汽车制造商协会（ACEA）主席卢卡·德梅奥周二向欧洲政策制定者发出公开信，呼吁加强合作以与中国电动汽车制造商竞争。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/car-boss-de-meo-calls-joint-european-approach-counter-chinese-evs-2024-03-19/</guid>
       <pubDate>Tue, 19 Mar 2024 15:48:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>第23条：香港新国安法你需要了解的事</title>
-      <link>https://www.reuters.com/world/asia-pacific/article-23-what-you-need-know-about-hong-kongs-new-national-security-laws-2024-03-19/</link>
-      <description><![CDATA[尽管西方政府担心香港这个金融中心的自由会受到进一步破坏，但香港90个席位的立法机关周二一致通过了一项新的国家安全法，该法在提出后仅11天。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/article-23-what-you-need-know-about-hong-kongs-new-national-security-laws-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 13:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港新国安法的范围有哪些？</title>
-      <link>https://www.reuters.com/world/china/scope-hong-kongs-new-national-security-laws-2024-03-19/</link>
-      <description><![CDATA[香港周二通过了新的国家安全法，该法案扩大了破坏、煽动叛乱和国家机密等犯罪的定义，并规定了最严厉的处罚，最高可达终身监禁。]]></description>
-      <guid>https://www.reuters.com/world/china/scope-hong-kongs-new-national-security-laws-2024-03-19/</guid>
-      <pubDate>Tue, 19 Mar 2024 13:15:14 GMT</pubDate>
     </item>
     <item>
       <title>印花税取消后，内地人涌入香港房地产</title>
