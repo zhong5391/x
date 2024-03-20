@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 20 Mar 2024 06:52:29 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 20 Mar 2024 07:31:09 GMT</lastBuildDate>
     <item>
       <title>苹果老板蒂姆·库克访问上海 中国销售面临压力</title>
       <link>https://www.reuters.com/technology/apple-boss-tim-cook-visiting-shanghai-2024-03-20/</link>
@@ -85,7 +85,7 @@
     <item>
       <title>中国外长称中澳经济“高度互补”</title>
       <link>https://www.reuters.com/world/asia-pacific/china-foreign-minister-says-china-australia-economies-highly-complementary-2024-03-20/</link>
-      <description><![CDATA[根据中国外交部周三发布的声明，中国外交部长王毅在与澳大利亚外长会晤时表示，中国和澳大利亚经济“高度互补”，潜力巨大。]]></description>
+      <description><![CDATA[中国外交部周三发布的一份声明称，中国外交部长王毅在与澳大利亚外长会晤时表示，中国和澳大利亚经济“高度互补”，潜力巨大。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-foreign-minister-says-china-australia-economies-highly-complementary-2024-03-20/</guid>
       <pubDate>Wed, 20 Mar 2024 00:18:34 GMT</pubDate>
     </item>
