@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 21 Mar 2024 19:41:47 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 21 Mar 2024 20:48:53 GMT</lastBuildDate>
+    <item>
+      <title>独家：乌克兰面临越来越大的压力，要求废除“战争赞助者”黑名单</title>
+      <link>https://www.reuters.com/world/europe/pressure-mounts-ukraine-scrap-sponsors-war-blacklist-2024-03-21/</link>
+      <description><![CDATA[两位知情人士表示，在中国和法国等国强烈反对后，乌克兰可能会在几天内取消其“战争赞助者”黑名单，这是基辅揭露与俄罗斯开展业务的公司运动的核心。]]></description>
+      <guid>https://www.reuters.com/world/europe/pressure-mounts-ukraine-scrap-sponsors-war-blacklist-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 17:52:30 GMT</pubDate>
+    </item>
     <item>
       <title>后克林斯曼时代首场比赛韩国队对阵泰国队</title>
       <link>https://www.reuters.com/sports/soccer/south-korea-held-by-thailand-first-game-post-klinsmann-era-2024-03-21/</link>
@@ -13,9 +20,9 @@
       <pubDate>Thu, 21 Mar 2024 17:11:14 GMT</pubDate>
     </item>
     <item>
-      <title>美国官员称中国中芯国际可能违反美国出口限制生产华为芯片</title>
+      <title>美国仍在评估中国中芯国际是否违反美国规定生产华为芯片</title>
       <link>https://www.reuters.com/technology/chinas-smic-may-have-violated-us-export-curbs-make-huawei-chip-official-2024-03-21/</link>
-      <description><![CDATA[美国商务部一位高级官员在周四的国会听证会上表示，受到美国制裁的中国最大芯片制造商中芯国际在生产为华为 Mate 60 Pro 手机供电的芯片时可能违反了美国出口法规，但目前尚不清楚。]]></description>
+      <description><![CDATA[美国商务部一位高级官员在周四的国会听证会上表示，拜登政府仍需确定中国最大芯片制造商中芯国际生产为华为 Mate 60 Pro 手机供电的芯片是否违反了美国出口规定。]]></description>
       <guid>https://www.reuters.com/technology/chinas-smic-may-have-violated-us-export-curbs-make-huawei-chip-official-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 15:17:51 GMT</pubDate>
     </item>
@@ -113,7 +120,7 @@
     <item>
       <title>阿里巴巴前首席执行官张勇加入首红资本担任管理合伙人</title>
       <link>https://www.reuters.com/business/alibabas-former-ceo-daniel-zhang-join-firstred-capital-managing-partner-2024-03-21/</link>
-      <description><![CDATA[首红资本周四表示，阿里巴巴集团前首席执行官张勇将加入首红资本，担任管理合伙人，此时距他离开这家中国电子商务巨头六个月。]]></description>
+      <description><![CDATA[首红资本周四表示，阿里巴巴集团前首席执行官张勇将加入首红资本担任管理合伙人，此时距他离开这家中国电子商务巨头六个月。]]></description>
       <guid>https://www.reuters.com/business/alibabas-former-ceo-daniel-zhang-join-firstred-capital-managing-partner-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 04:54:31 GMT</pubDate>
     </item>
@@ -132,16 +139,9 @@
       <pubDate>Thu, 21 Mar 2024 04:26:24 GMT</pubDate>
     </item>
     <item>
-      <title>随着移民数量创历史新高，澳大利亚收紧​​学生签证规定</title>
-      <link>https://www.reuters.com/world/asia-pacific/australia-tightens-student-visa-rules-migration-hits-record-high-2024-03-21/</link>
-      <description><![CDATA[澳大利亚将于本周开始对外国学生实施更严格的签证规定，因为官方数据显示移民人数再创新高，这可能会进一步加剧本已紧张的租赁市场。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/australia-tightens-student-visa-rules-migration-hits-record-high-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 03:59:17 GMT</pubDate>
-    </item>
-    <item>
       <title>中国银行称有进一步下调银行存款准备金率的空间</title>
       <link>https://www.reuters.com/world/china/china-cbank-has-room-cut-bank-reserves-ratio-further-deputy-governor-says-2024-03-21/</link>
-      <description><![CDATA[央行副行长周四表示，中国还有进一步降低银行存款准备金率（RRR）等政策工具的空间，这凸显了市场对采取更多宽松措施提振经济的预期。]]></description>
+      <description><![CDATA[央行副行长周四表示，中国有进一步降低银行存款准备金率（RRR）等政策工具的空间，这凸显了市场对采取更多宽松措施提振经济的预期。]]></description>
       <guid>https://www.reuters.com/world/china/china-cbank-has-room-cut-bank-reserves-ratio-further-deputy-governor-says-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 03:33:53 GMT</pubDate>
     </item>
