@@ -1,30 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 21 Mar 2024 15:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 15:35:10 GMT</lastBuildDate>
     <item>
-      <title>瑞银全球研究将美联储降息预期推迟至六月</title>
-      <link>https://www.reuters.com/markets/rates-bonds/ubs-global-research-pushes-back-fed-rate-cut-expectation-june-2024-03-21/</link>
-      <description><![CDATA[瑞银全球研究部周四表示，在美联储大体坚持其货币政策轨道后，目前预计美联储将从 6 月开始降息，比之前的预测晚了一个月，并且与其他券商的预测一致。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/ubs-global-research-pushes-back-fed-rate-cut-expectation-june-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 11:32:26 GMT</pubDate>
+      <title>瑞士意外降息，下一个是谁？</title>
+      <link>https://www.reuters.com/markets/rates-bonds/switzerland-surprises-with-rate-cut-whos-next-2024-03-21/</link>
+      <description><![CDATA[瑞士央行周四开始降息，这是继不墨守成规的日本央行 17 年来首次加息后，本周央行第二次重大决定。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/switzerland-surprises-with-rate-cut-whos-next-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:59:08 GMT</pubDate>
     </item>
     <item>
-      <title>苹果公司首席执行官库克在上海开设新店</title>
+      <title>Lyft 与 Nielsen 合作衡量应用内广告</title>
+      <link>https://www.reuters.com/markets/deals/lyft-inks-deal-with-nielsen-measure-in-app-ads-2024-03-21/</link>
+      <description><![CDATA[数据分析公司尼尔森和 Lyft 周四表示，该公司已签署一项协议，对这家叫车公司移动应用程序上的广告进行衡量。]]></description>
+      <guid>https://www.reuters.com/markets/deals/lyft-inks-deal-with-nielsen-measure-in-app-ads-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国3月商业活动稳定；通货膨胀加剧</title>
+      <link>https://www.reuters.com/markets/us/us-business-activity-stable-march-inflation-picks-up-2024-03-21/</link>
+      <description><![CDATA[3月份美国商业活动保持稳定，但物价全面上涨，表明通胀在年初回升后可能继续保持高位。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-business-activity-stable-march-inflation-picks-up-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:51:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>代理咨询公司 ISS 建议迪士尼股东选举纳尔逊·佩尔茨 (Nelson Peltz) 担任董事会成员</title>
+      <link>https://www.reuters.com/business/media-telecom/proxy-advisory-firm-iss-recommends-disney-shareholders-elect-nelson-peltz-board-2024-03-21/</link>
+      <description><![CDATA[代理咨询公司机构股东服务（ISS）周四建议迪士尼股东选举 Trian Fund Management 的纳尔逊·佩尔茨（Nelson Peltz）进入这家娱乐巨头的董事会。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/proxy-advisory-firm-iss-recommends-disney-shareholders-elect-nelson-peltz-board-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:47:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于美国施压银行放弃俄罗斯交易，Raiffeisen 股价和债券再次下跌</title>
+      <link>https://www.reuters.com/markets/deals/raiffeisen-shares-bonds-fall-again-us-presses-bank-drop-russia-deal-2024-03-21/</link>
+      <description><![CDATA[路透社本周早些时候报道称，华盛顿正在向这家奥地利银行施压，要求其取消与一位受制裁的俄罗斯大亨的交易，此后，Raiffeisen 的股价和债券周四再次下跌。]]></description>
+      <guid>https://www.reuters.com/markets/deals/raiffeisen-shares-bonds-fall-again-us-presses-bank-drop-russia-deal-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:37:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>CalPERS 表示埃克森美孚应该放弃对具有气候意识的投资者的诉讼</title>
+      <link>https://www.reuters.com/legal/calpers-says-exxon-should-drop-lawsuit-against-climate-conscious-investors-2024-03-21/</link>
+      <description><![CDATA[美国最大的公共养老基金计划要求埃克森美孚放弃对投资者提起的诉讼，这些投资者提交了股东决议，要求美国石油巨头更快地遏制温室气体排放。]]></description>
+      <guid>https://www.reuters.com/legal/calpers-says-exxon-should-drop-lawsuit-against-climate-conscious-investors-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>报告显示美国三月份新车销量将上升</title>
+      <link>https://www.reuters.com/business/autos-transportation/us-new-vehicles-sales-set-rise-march-report-shows-2024-03-21/</link>
+      <description><![CDATA[行业咨询公司 J.D. Power 和 GlobalData 周四发布的联合报告显示，在强劲需求和车辆供应的推动下，美国 3 月份新车销量预计将增长 12.1%。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/us-new-vehicles-sales-set-rise-march-report-shows-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:20:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国第四季度经常账户赤字收窄</title>
+      <link>https://www.reuters.com/markets/us/us-current-account-deficit-narrows-fourth-quarter-2024-03-21/</link>
+      <description><![CDATA[周四政府数据显示，由于二次收入增加，美国第四季度经常账户赤字收窄至近三年来的最低水平。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-current-account-deficit-narrows-fourth-quarter-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 13:18:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shake Shack 任命棒约翰首席执行长为首席执行官</title>
+      <link>https://www.reuters.com/business/retail-consumer/shake-shack-names-papa-johns-chief-its-ceo-2024-03-21/</link>
+      <description><![CDATA[Shake Shack 周四表示，已任命棒约翰国际公司 (Papa John&#39;s International) 首席执行官罗布·林奇 (Rob Lynch) 为首席执行官，接替兰迪·加鲁蒂 (Randy Garutti)。兰迪·加鲁蒂在这家汉堡连锁店工作了二十多年，即将退休。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/shake-shack-names-papa-johns-chief-its-ceo-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 12:51:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>据《华尔街日报》报道，美国航空公司首席执行官要求与波音董事会会面解决生产问题</title>
+      <link>https://www.reuters.com/business/aerospace-defense/us-airline-ceos-request-meeting-with-boeing-board-address-production-problems-2024-03-21/</link>
+      <description><![CDATA[据《华尔街日报》周四援引知情人士的话报道，美国主要航空公司的负责人已要求与波音公司董事会举行会议，表达对阿拉斯加航空公司事故和生产问题的担忧。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/us-airline-ceos-request-meeting-with-boeing-board-address-production-problems-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 12:45:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国每周申请失业救济人数意外下降；劳动力市场逐渐降温</title>
+      <link>https://www.reuters.com/markets/us/us-weekly-jobless-claims-unexpectedly-fall-2024-03-21/</link>
+      <description><![CDATA[上周美国初请失业金人数意外下降，表明三月份就业增长依然强劲。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-weekly-jobless-claims-unexpectedly-fall-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 12:41:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果库克在上海开设新店，迎合中国销量下滑</title>
       <link>https://www.reuters.com/technology/apples-ceo-cook-opens-new-store-shanghai-2024-03-21/</link>
-      <description><![CDATA[据中国社交媒体上的帖子显示，苹果公司首席执行官蒂姆·库克周四在上海开设了苹果新店，吸引了大量人群，有些人连夜排队。]]></description>
+      <description><![CDATA[苹果公司首席执行官蒂姆·库克周四在上海开设了最新的苹果店，在一大群人面前开业，其中一些人连夜排队。]]></description>
       <guid>https://www.reuters.com/technology/apples-ceo-cook-opens-new-store-shanghai-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 11:19:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>ETFS Capital 批评 WisdomTree 策略，发起针对董事会的“扣留行动”</title>
-      <link>https://www.reuters.com/business/finance/etfs-capital-criticizes-wisdomtree-strategy-launches-withhold-campaign-vs-board-2024-03-21/</link>
-      <description><![CDATA[据路透社看到的一封信函，ETFS Capital 要求 WisdomTree 股东放弃重新选举这家美国资产管理公司的部分董事会成员，并表示如果经营得更好，其股价可能会上涨至少 70%。]]></description>
-      <guid>https://www.reuters.com/business/finance/etfs-capital-criticizes-wisdomtree-strategy-launches-withhold-campaign-vs-board-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 11:08:52 GMT</pubDate>
     </item>
     <item>
       <title>焦点：哥伦比亚政策导致投资降温，经济增长面临风险</title>
@@ -34,30 +97,9 @@
       <pubDate>Thu, 21 Mar 2024 11:07:10 GMT</pubDate>
     </item>
     <item>
-      <title>埃森哲下调年度营收预期</title>
-      <link>https://www.reuters.com/technology/accenture-cuts-annual-revenue-forecast-2024-03-21/</link>
-      <description><![CDATA[IT 服务提供商埃森哲周四下调了 2024 财年的收入预期，原因是经济的不确定性促使客户削减其咨询服务支出。]]></description>
-      <guid>https://www.reuters.com/technology/accenture-cuts-annual-revenue-forecast-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴西咖啡产量将迎来罕见的增长</title>
-      <link>https://www.reuters.com/markets/commodities/brazil-heading-rare-sequence-rising-coffee-crops-2024-03-21/</link>
-      <description><![CDATA[据路透社汇编的数据显示，巴西今年的咖啡产量预计将实现第三次年度增长，这一罕见的序列在全球最大的咖啡豆种植国和出口国 144 年的咖啡历史中仅出现过七次。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/brazil-heading-rare-sequence-rising-coffee-crops-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>大多数券商坚持美联储六月开始降息的预测</title>
-      <link>https://www.reuters.com/markets/rates-bonds/most-brokerages-stick-by-forecast-fed-rate-cuts-starting-june-2024-03-21/</link>
-      <description><![CDATA[美联储在3月19日至20日的会议上维持利率不变，并维持今年三次降息的预测后，大多数主要券商仍坚持认为美联储将从6月开始降息。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/most-brokerages-stick-by-forecast-fed-rate-cuts-starting-june-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:38:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Reddit 首次公开募股定价为区间最高价后，将迎来备受期待的首次亮相</title>
       <link>https://www.reuters.com/markets/deals/reddit-set-hotly-anticipated-debut-after-pricing-ipo-top-range-2024-03-21/</link>
-      <description><![CDATA[社交媒体平台 Reddit 准备周四在纽约证券交易所高调上市，为其他寻求今年上市的公司奠定基础，同时测试投资者对新股的兴趣。]]></description>
+      <description><![CDATA[社交媒体平台 Reddit 准备周四在纽约证券交易所高调上市，以测试投资者对今年寻求上市的公司的兴趣。]]></description>
       <guid>https://www.reuters.com/markets/deals/reddit-set-hotly-anticipated-debut-after-pricing-ipo-top-range-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 10:34:42 GMT</pubDate>
     </item>
@@ -69,13 +111,6 @@
       <pubDate>Thu, 21 Mar 2024 10:28:59 GMT</pubDate>
     </item>
     <item>
-      <title>对新国安法保持警惕，在港外国公司加强应急计划</title>
-      <link>https://www.reuters.com/markets/asia/wary-new-security-law-foreign-firms-hong-kong-bolster-contingency-plans-2024-03-21/</link>
-      <description><![CDATA[香港新的国家安全法中关于国家机密和与外国实体的联系的模糊规定让这个金融中心的许多全球企业感到紧张，一些顾问和对冲基金更新了应急计划并寻求法律建议，以应对这种政治风险。]]></description>
-      <guid>https://www.reuters.com/markets/asia/wary-new-security-law-foreign-firms-hong-kong-bolster-contingency-plans-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:09:22 GMT</pubDate>
-    </item>
-    <item>
       <title>美国最高银行监管者将公布合并政策提案</title>
       <link>https://www.reuters.com/markets/deals/top-us-bank-overseer-unveil-merger-policy-proposal-2024-03-21/</link>
       <description><![CDATA[美国联邦存款保险公司周四将成为最新一家在持续困扰中型银行的不稳定局势中提出银行间合并新政策的美国监管机构。]]></description>
@@ -85,21 +120,14 @@
     <item>
       <title>独家：CapOne 告诉监管机构 Discover 交易将促进竞争和稳定</title>
       <link>https://www.reuters.com/markets/deals/capone-tells-regulators-discover-deal-will-boost-competition-stability-sources-2024-03-21/</link>
-      <description><![CDATA[据知情人士透露，Capital One 在监管申请中表示，Capital One 与 Discover Financial 斥资 353 亿美元的合并将促进竞争，有利于金融稳定。]]></description>
+      <description><![CDATA[据知情人士透露，Capital One 在隔夜提交的监管申请中表示，该银行与 Discover Financial 斥资 353 亿美元的合并将促进竞争，有利于金融稳定。]]></description>
       <guid>https://www.reuters.com/markets/deals/capone-tells-regulators-discover-deal-will-boost-competition-stability-sources-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 10:05:30 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：市场因美联储和瑞士央行的不紧张而行动</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-graphic-2024-03-21/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-graphic-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能需求强劲预测，美光创下历史新高，利润令人意外</title>
+      <title>人工智能需求推动强劲预测，美光创历史新高</title>
       <link>https://www.reuters.com/technology/micron-set-record-high-after-ai-demand-steers-strong-forecast-surprise-profit-2024-03-21/</link>
-      <description><![CDATA[美光科技 (Micron Technology) 周四盘前交易中股价飙升 15.7%，此前该公司公布了令人意外的利润，并预计本季度收入将高于华尔街对人工智能计算中使用的内存芯片需求飙升的预期。]]></description>
+      <description><![CDATA[内存芯片制造商美光科技 (Micron Technology) 周四飙升至历史新高，此前其强劲的收入预测引发了乐观情绪，认为人工智能硬件需求的飙升将使这家 Nvidia 供应商达到新的峰值。]]></description>
       <guid>https://www.reuters.com/technology/micron-set-record-high-after-ai-demand-steers-strong-forecast-surprise-profit-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 09:56:01 GMT</pubDate>
     </item>
@@ -111,39 +139,11 @@
       <pubDate>Thu, 21 Mar 2024 09:49:19 GMT</pubDate>
     </item>
     <item>
-      <title>美联储增强降息希望后期货上涨；美光科技的上涨提振了芯片制造商</title>
+      <title>快照 随着芯片制造商上涨，华尔街上涨，美联储加强降息押注</title>
       <link>https://www.reuters.com/markets/us/futures-gain-fed-sticks-rate-cut-projections-micron-rally-lifts-chipmakers-2024-03-21/</link>
-      <description><![CDATA[追踪华尔街主要股指的期货周四上涨，因美光科技的乐观预测后芯片股上涨，而投资者对美联储坚持今年三次降息的观点感到安慰。]]></description>
+      <description><![CDATA[周四，科技股占主导地位的纳斯达克指数引领华尔街走高，因美光科技的乐观预测后芯片股上涨，而投资者对美联储坚持今年三次降息的观点感到安慰。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-gain-fed-sticks-rate-cut-projections-micron-rally-lifts-chipmakers-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 09:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>NHTSA 表示，现代、起亚因充电装置损坏而召回美国车辆</title>
-      <link>https://www.reuters.com/business/autos-transportation/hyundai-kia-recall-us-vehicles-over-damaged-charging-unit-nhtsa-says-2024-03-21/</link>
-      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 周四表示，现代汽车美国公司和起亚美国公司因充电装置损坏而总共召回 147,100 辆美国汽车。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/hyundai-kia-recall-us-vehicles-over-damaged-charging-unit-nhtsa-says-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 09:37:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Z/日元金融中心调查显示纽约稳居榜首，伦敦位居第二</title>
-      <link>https://www.reuters.com/business/finance/new-york-keeps-top-spot-london-second-zyen-financial-centre-survey-2024-03-21/</link>
-      <description><![CDATA[周四公布的最新全球金融中心 Z/日元排名显示，纽约轻而易举地保持了全球顶级金融中心的地位，在超越伦敦之后，在过去六年中巩固了其地位，自此之后，纽约排名第二，领先于新加坡。]]></description>
-      <guid>https://www.reuters.com/business/finance/new-york-keeps-top-spot-london-second-zyen-financial-centre-survey-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 09:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>稳定的美联储前景提振股市“软着陆”的希望</title>
-      <link>https://www.reuters.com/markets/us/steady-fed-outlook-boosts-stock-markets-hopes-coveted-soft-landing-2024-03-21/</link>
-      <description><![CDATA[尽管经济增长强于预期，但美联储仍坚持 2024 年降息预期，美国股市创下历史新高，收到了来自美联储的令人鼓舞的消息。]]></description>
-      <guid>https://www.reuters.com/markets/us/steady-fed-outlook-boosts-stock-markets-hopes-coveted-soft-landing-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 06:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>迫在眉睫的美国股市变化可能令国际基金头疼</title>
-      <link>https://www.reuters.com/markets/us/looming-us-stock-changes-could-cause-headaches-international-funds-2024-03-21/</link>
-      <description><![CDATA[迫在眉睫的美国证券结算周期缩短令国际基金经理感到头疼，他们在准备遵守规定时面临着人员配置问题、持有更多现金的前景以及增加的外汇风险。]]></description>
-      <guid>https://www.reuters.com/markets/us/looming-us-stock-changes-could-cause-headaches-international-funds-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 05:02:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
