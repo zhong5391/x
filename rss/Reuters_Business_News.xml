@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 22 Mar 2024 08:27:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 09:20:27 GMT</lastBuildDate>
+    <item>
+      <title>悉尼赌场调查中澳大利亚星娱乐高层辞职</title>
+      <link>https://www.reuters.com/business/australias-star-entertainment-top-brass-steps-down-amid-sydney-casino-inquiry-2024-03-22/</link>
+      <description><![CDATA[陷入困境的赌场运营商澳大利亚星娱乐公司周五表示，其首席执行官和财务官即将离职，该公司面临对其悉尼业务的第二次调查。]]></description>
+      <guid>https://www.reuters.com/business/australias-star-entertainment-top-brass-steps-down-amid-sydney-casino-inquiry-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 07:52:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：消息人士称，英国法律总局搁置中国营业执照计划并裁员</title>
+      <link>https://www.reuters.com/business/finance/uks-legal-general-shelves-china-business-licence-plan-cuts-headcount-sources-say-2024-03-22/</link>
+      <description><![CDATA[英国保险公司和资产管理公司 Legal &amp;两名消息人士称，通用汽车已搁置了获得中国营业执照的计划，并将在岸员工人数减少了一半以上，加入了在不确定的市场中缩减规模的全球金融公司行列。]]></description>
+      <guid>https://www.reuters.com/business/finance/uks-legal-general-shelves-china-business-licence-plan-cuts-headcount-sources-say-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 06:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>央行政策大逆转拉开序幕</title>
+      <link>https://www.reuters.com/markets/rates-bonds/great-central-bank-policy-reversal-kicks-off-2024-03-22/</link>
+      <description><![CDATA[全球最大的央行正处于扭转创纪录的一系列加息的起跑线上，但借贷成本的下降趋势将与上升趋势截然不同。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/great-central-bank-policy-reversal-kicks-off-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 06:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>更多投资者敦促嘉能可在泰克交易后保留煤炭</title>
+      <link>https://www.reuters.com/markets/commodities/more-investors-push-glencore-keep-coal-post-teck-deal-2024-03-22/</link>
+      <description><![CDATA[越来越多的嘉能可投资者热衷于继续开采煤炭，而不是分拆即将扩大的部门，一方面关注其财务前景，另一方面关注保留燃料内部的环境效益。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/more-investors-push-glencore-keep-coal-post-teck-deal-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 06:07:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>意大利监管机构的人工智能员工斗争凸显全球挑战</title>
+      <link>https://www.reuters.com/technology/italian-watchdogs-ai-staff-struggle-spotlights-global-challenge-2024-03-22/</link>
+      <description><![CDATA[意大利监管机构 Garante 去年在当地暂时关闭 ChatGPT 后不久，就试图通过聘请四名人工智能 (AI) 专家来加强其团队。]]></description>
+      <guid>https://www.reuters.com/technology/italian-watchdogs-ai-staff-struggle-spotlights-global-challenge-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 06:04:35 GMT</pubDate>
+    </item>
     <item>
       <title>据彭博社报道，中国正在审查普华永道在恒大 780 亿美元欺诈案中所扮演的角色</title>
       <link>https://www.reuters.com/business/china-scrutinises-pwc-role-78-bln-evergrande-fraud-case-bloomberg-news-reports-2024-03-22/</link>
-      <description><![CDATA[据彭博社周五报道，在中国恒大集团被指控欺诈 780 亿美元后，中国当局正在审查普华永道 (PwC) 在该开发商会计实践中所扮演的角色。]]></description>
+      <description><![CDATA[据彭博社周五报道，在中国恒大集团被指控欺诈 780 亿美元后，中国当局正在审查普华永道 (PwC) 在该集团会计实践中所扮演的角色。]]></description>
       <guid>https://www.reuters.com/business/china-scrutinises-pwc-role-78-bln-evergrande-fraud-case-bloomberg-news-reports-2024-03-22/</guid>
       <pubDate>Fri, 22 Mar 2024 05:48:30 GMT</pubDate>
     </item>
@@ -48,16 +83,9 @@
       <pubDate>Fri, 22 Mar 2024 05:06:09 GMT</pubDate>
     </item>
     <item>
-      <title>百事公司将再投资 4 亿美元在越南建设两家新工厂</title>
-      <link>https://www.reuters.com/business/retail-consumer/pepsico-invest-400-mln-more-two-new-plants-vietnam-2024-03-22/</link>
-      <description><![CDATA[越南政府周五表示，美国食品和饮料制造商百事可乐公司已承诺在越南追加投资 4 亿美元，在该国建设两座由可再生能源驱动的新工厂。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/pepsico-invest-400-mln-more-two-new-plants-vietnam-2024-03-22/</guid>
-      <pubDate>Fri, 22 Mar 2024 04:42:48 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：消息人士称，英国法律总局搁置中国营业执照计划并裁员</title>
       <link>https://www.reuters.com/business/finance/uks-legal-general-shelves-china-business-license-plan-cuts-headcount-sources-say-2024-03-22/</link>
-      <description><![CDATA[英国保险公司和资产管理公司 Legal &amp;两位消息人士称，通用汽车已搁置了获得中国营业执照的计划，并将在岸员工人数减少了一半以上，加入了在不确定的市场中缩减规模的全球金融公司行列。]]></description>
+      <description><![CDATA[英国保险公司和资产管理公司 Legal &amp;两名消息人士称，通用汽车已搁置了获得中国营业执照的计划，并将在岸员工人数减少了一半以上，加入了在不确定的市场中缩减规模的全球金融公司行列。]]></description>
       <guid>https://www.reuters.com/business/finance/uks-legal-general-shelves-china-business-license-plan-cuts-headcount-sources-say-2024-03-22/</guid>
       <pubDate>Fri, 22 Mar 2024 04:32:22 GMT</pubDate>
     </item>
@@ -71,7 +99,7 @@
     <item>
       <title>中国的悲观情绪让亚洲降息的欢呼失去了活力</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-22/</link>
-      <description><![CDATA[中国股市周五暴跌，人民币下跌，拖累亚洲市场普遍下跌，并破坏了瑞士意外降息引发的股市涨势，投资者押注谁将下一个放宽政策。]]></description>
+      <description><![CDATA[人民币周五大幅下跌，中国股市下滑，拖累亚洲市场普遍下跌，并抑制了瑞士意外降息引发的股市上涨，投资者押注谁将放松政策。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-22/</guid>
       <pubDate>Fri, 22 Mar 2024 02:25:05 GMT</pubDate>
     </item>
@@ -83,23 +111,9 @@
       <pubDate>Fri, 22 Mar 2024 01:48:57 GMT</pubDate>
     </item>
     <item>
-      <title>联邦快递因削减成本收紧2024年盈利预期 股价大涨13%</title>
-      <link>https://www.reuters.com/business/fedex-raises-2024-profit-forecast-cost-cuts-2024-03-21/</link>
-      <description><![CDATA[联邦快递周四缩小了 2024 财年利润预期，上调了下限，下调了上限，原因是成本削减和股票回购有助于抵消其最大客户美国邮政服务业务的减少。]]></description>
-      <guid>https://www.reuters.com/business/fedex-raises-2024-profit-forecast-cost-cuts-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 20:22:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>耐克警告称，由于削减关键产品，收入将下降</title>
-      <link>https://www.reuters.com/business/retail-consumer/nike-beats-quarterly-revenue-estimates-discounts-draw-demand-2024-03-21/</link>
-      <description><![CDATA[耐克周四警告称，由于全球最大的运动服装制造商缩减特许经营规模以节省成本，其 2025 财年上半年的收入将出现低个位数百分比的萎缩。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/nike-beats-quarterly-revenue-estimates-discounts-draw-demand-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 20:19:23 GMT</pubDate>
-    </item>
-    <item>
       <title>美国上诉法院称元平台必须面对广告商的集体诉讼</title>
       <link>https://www.reuters.com/legal/meta-platforms-must-face-advertisers-class-action-us-appeals-court-says-2024-03-21/</link>
-      <description><![CDATA[美国上诉法院意见分歧，表示 Meta Platforms 必须面临广告商的集体诉讼，广告商指控 Facebook 和 Instagram 所有者通过欺诈性地夸大其广告可能覆盖的人数，向他们收取过高的费用。]]></description>
+      <description><![CDATA[美国一个意见分歧的上诉法院表示，Meta Platforms 必须面临广告商的集体诉讼，广告商指控 Facebook 和 Instagram 所有者通过欺诈性地夸大其广告可能覆盖的人数，向他们收取过高的费用。]]></description>
       <guid>https://www.reuters.com/legal/meta-platforms-must-face-advertisers-class-action-us-appeals-court-says-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 18:31:45 GMT</pubDate>
     </item>
@@ -109,13 +123,6 @@
       <description><![CDATA[联合国大会周四一致通过了第一个关于人工智能的全球决议，鼓励各国保障人权、保护个人数据并监控人工智能风险。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/un-adopts-first-global-artificial-intelligence-resolution-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 16:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>航空公司、信用卡首席执行官拒绝在美国参议院听证会上作证</title>
-      <link>https://www.reuters.com/legal/airline-credit-card-ceos-refuse-testify-us-senate-hearing-2024-03-21/</link>
-      <description><![CDATA[参议院司法委员会主席周四表示，美国航空、联合航空、Visa 和万事达卡的首席执行官将不会在 4 月 9 日举行的信用卡竞争听证会上作证。]]></description>
-      <guid>https://www.reuters.com/legal/airline-credit-card-ceos-refuse-testify-us-senate-hearing-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 16:29:24 GMT</pubDate>
     </item>
     <item>
       <title>苹果在美国反垄断诉讼中被指垄断智能手机市场</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[上周美国新申请失业救济人数意外下降，而 2 月份二手房销售量出现一年来最大增幅，这表明第一季度经济仍保持稳固基础。]]></description>
       <guid>https://www.reuters.com/markets/us/us-weekly-jobless-claims-unexpectedly-fall-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 12:41:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 股价首日上涨 48%</title>
-      <link>https://www.reuters.com/markets/deals/reddit-set-hotly-anticipated-debut-after-pricing-ipo-top-range-2024-03-21/</link>
-      <description><![CDATA[社交媒体平台 Reddit 的股价在纽约首日交易中上涨 48%，这表明投资者对有前途但亏损的公司首次公开募股的兴趣可能会回归。]]></description>
-      <guid>https://www.reuters.com/markets/deals/reddit-set-hotly-anticipated-debut-after-pricing-ipo-top-range-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:34:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
