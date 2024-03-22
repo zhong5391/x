@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 22 Mar 2024 04:26:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 04:39:31 GMT</lastBuildDate>
+    <item>
+      <title>人民币跌至四个月低点，国有银行介入</title>
+      <link>https://www.reuters.com/markets/currencies/china-yuan-drops-four-month-low-state-banks-step-2024-03-22/</link>
+      <description><![CDATA[周五，人民币兑美元汇率跌至四个月低点，突破关键门槛，促使国有银行介入捍卫人民币。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/china-yuan-drops-four-month-low-state-banks-step-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 03:30:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国的悲观情绪让亚洲降息的欢呼失去了活力</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-22/</link>
+      <description><![CDATA[周五，中国股市一片红海，人民币大幅下跌，拖累了亚洲整体情绪，并削弱了瑞士央行出人意料的降息举措，令投资者押注谁可能是下一个降息者。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 02:25:05 GMT</pubDate>
+    </item>
     <item>
       <title>日本在历史性变革后以利率迎接生活</title>
       <link>https://www.reuters.com/world/japan/japan-braces-life-with-interest-rates-after-historic-change-2024-03-22/</link>
@@ -20,16 +34,16 @@
       <pubDate>Fri, 22 Mar 2024 01:20:19 GMT</pubDate>
     </item>
     <item>
-      <title>香港新秀丽国际计划寻求双重上市</title>
+      <title>香港上市公司新秀丽计划双重上市以寻找投资者</title>
       <link>https://www.reuters.com/business/retail-consumer/hong-kongs-samsonite-international-plans-pursue-dual-listing-2024-03-22/</link>
-      <description><![CDATA[箱包制造商新秀丽国际周五表示，除了在香港联交所上市外，还计划寻求双重上市，以增加股票的流动性并吸引更多市场的投资者。]]></description>
+      <description><![CDATA[箱包制造商新秀丽国际周五表示，除在香港联交所上市外，还计划寻求双重上市，以增加股票的流动性并吸引更多市场的投资者。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/hong-kongs-samsonite-international-plans-pursue-dual-listing-2024-03-22/</guid>
       <pubDate>Fri, 22 Mar 2024 01:01:28 GMT</pubDate>
     </item>
     <item>
-      <title>加沙停火可能性和美元走强导致油价下跌</title>
+      <title>加沙可能停火、美元走强，油价下跌</title>
       <link>https://www.reuters.com/business/energy/oil-prices-ease-gaza-ceasefire-possibility-dollar-strength-2024-03-22/</link>
-      <description><![CDATA[周五亚洲早盘油价下跌，原因是加沙停火可能接近，这可能会放松全球供应，同时美元走强和汽油疲弱抑制了需求情绪。]]></description>
+      <description><![CDATA[由于加沙停火可能会缓解中东地缘政治担忧，周五油价下跌，而美元走强和美国汽油需求疲软也打压了油价。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-prices-ease-gaza-ceasefire-possibility-dollar-strength-2024-03-22/</guid>
       <pubDate>Fri, 22 Mar 2024 00:51:29 GMT</pubDate>
     </item>
@@ -41,25 +55,11 @@
       <pubDate>Fri, 22 Mar 2024 00:47:52 GMT</pubDate>
     </item>
     <item>
-      <title>日本核心通胀上升，物价趋势放缓令日本央行前景混乱</title>
+      <title>日本整体物价趋势温和，令日本央行前景复杂化</title>
       <link>https://www.reuters.com/markets/asia/japans-feb-inflation-accelerates-effects-fuel-subsidies-fade-2024-03-21/</link>
-      <description><![CDATA[数据显示，日本核心通胀在 2 月份加速，但衡量整体物价趋势的指数大幅放缓，凸显了日本央行何时再次加息的不确定性。]]></description>
+      <description><![CDATA[数据显示，日本2月份核心通胀加速，但衡量更广泛物价趋势的指数大幅放缓，凸显了日本央行何时再次加息的不确定性。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-feb-inflation-accelerates-effects-fuel-subsidies-fade-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 23:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>早间出价：股市反弹略有放缓</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-21/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 21:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝莱德表示，美联储的鸽派转向“惯性”可能会给长期债券带来麻烦</title>
-      <link>https://www.reuters.com/markets/rates-bonds/feds-dovish-pivot-inertia-may-spell-trouble-long-term-bonds-blackrock-says-2024-03-21/</link>
-      <description><![CDATA[资产管理巨头贝莱德的投资组合经理周四表示，如果美联储的降息前景受到顽固的通货膨胀的挑战，长期美国国债可能会变得脆弱。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/feds-dovish-pivot-inertia-may-spell-trouble-long-term-bonds-blackrock-says-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 20:39:27 GMT</pubDate>
     </item>
     <item>
       <title>联邦快递因削减成本收紧2024年盈利预期 股价大涨13%</title>
@@ -78,7 +78,7 @@
     <item>
       <title>耐克警告称，由于削减关键产品，收入将下降</title>
       <link>https://www.reuters.com/business/retail-consumer/nike-beats-quarterly-revenue-estimates-discounts-draw-demand-2024-03-21/</link>
-      <description><![CDATA[耐克周四警告称，由于全球最大的运动服装制造商缩减特许经营规模以节省成本，其 2025 财年上半年的收入将出现低个位数百分比的萎缩。]]></description>
+      <description><![CDATA[耐克周四警告称，由于这家全球最大的运动服装制造商缩减特许经营规模以节省成本，其 2025 财年上半年的收入将出现低个位数百分比的萎缩。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/nike-beats-quarterly-revenue-estimates-discounts-draw-demand-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 20:19:23 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>美国上诉法院称元平台必须面对广告商的集体诉讼</title>
       <link>https://www.reuters.com/legal/meta-platforms-must-face-advertisers-class-action-us-appeals-court-says-2024-03-21/</link>
-      <description><![CDATA[美国上诉法院意见分歧，表示 Meta Platforms 必须面临广告商的集体诉讼，广告商指控 Facebook 和 Instagram 所有者通过欺诈性地夸大其广告可能覆盖的人数，向他们收取过高的费用。]]></description>
+      <description><![CDATA[美国一个意见分歧的上诉法院表示，Meta Platforms 必须面临广告商的集体诉讼，广告商指控 Facebook 和 Instagram 所有者通过欺诈性地夸大其广告可能覆盖的人数，向他们收取过高的费用。]]></description>
       <guid>https://www.reuters.com/legal/meta-platforms-must-face-advertisers-class-action-us-appeals-court-says-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 18:31:45 GMT</pubDate>
     </item>
     <item>
       <title>联合国通过首个全球人工智能决议</title>
       <link>https://www.reuters.com/technology/cybersecurity/un-adopts-first-global-artificial-intelligence-resolution-2024-03-21/</link>
-      <description><![CDATA[联合国大会周四一致通过第一个关于人工智能的全球决议，鼓励各国保障人权、保护个人数据并监控人工智能风险。]]></description>
+      <description><![CDATA[联合国大会周四一致通过了第一个关于人工智能的全球决议，鼓励各国保障人权、保护个人数据并监控人工智能风险。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/un-adopts-first-global-artificial-intelligence-resolution-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 16:38:18 GMT</pubDate>
     </item>
