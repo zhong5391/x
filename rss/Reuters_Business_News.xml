@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 22 Mar 2024 02:51:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 03:32:19 GMT</lastBuildDate>
     <item>
-      <title>随着燃料补贴效应消退，日本 2 月份通胀加速</title>
+      <title>日本在历史性变革后以利率迎接生活</title>
+      <link>https://www.reuters.com/world/japan/japan-braces-life-with-interest-rates-after-historic-change-2024-03-22/</link>
+      <description><![CDATA[未来几年，Satoaki Kanoh 需要更换他位于东京的亚克力面板制造商的近十二台老化机器，他担心这项重大工程将变得更加昂贵。]]></description>
+      <guid>https://www.reuters.com/world/japan/japan-braces-life-with-interest-rates-after-historic-change-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 01:48:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者寻求“套利”，美元坚挺</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-steadfast-investors-seek-carry-2024-03-22/</link>
+      <description><![CDATA[美元周五将连续第二周大幅上涨，即使日本加息也无法撼动美元的走势，因为投资者认为美国利率处于高位且尚未下跌。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-steadfast-investors-seek-carry-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 01:20:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>香港新秀丽国际计划寻求双重上市</title>
+      <link>https://www.reuters.com/business/retail-consumer/hong-kongs-samsonite-international-plans-pursue-dual-listing-2024-03-22/</link>
+      <description><![CDATA[箱包制造商新秀丽国际周五表示，除了在香港联交所上市外，还计划寻求双重上市，以增加股票的流动性并吸引更多市场的投资者。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/hong-kongs-samsonite-international-plans-pursue-dual-listing-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 01:01:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>加沙停火可能性和美元走强导致油价下跌</title>
+      <link>https://www.reuters.com/business/energy/oil-prices-ease-gaza-ceasefire-possibility-dollar-strength-2024-03-22/</link>
+      <description><![CDATA[周五亚洲早盘油价下跌，原因是加沙停火可能接近，这可能会放松全球供应，同时美元走强和汽油疲弱抑制了需求情绪。]]></description>
+      <guid>https://www.reuters.com/business/energy/oil-prices-ease-gaza-ceasefire-possibility-dollar-strength-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 00:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>DownDetector 显示，Meta 的 Instagram 在美国有数千人宕机</title>
+      <link>https://www.reuters.com/technology/metas-instagram-down-thousands-downdetector-shows-2024-03-22/</link>
+      <description><![CDATA[据宕机跟踪网站 DownDetector.com 称，周四，Meta Platforms 的 Instagram 出现了数千名用户宕机的情况。]]></description>
+      <guid>https://www.reuters.com/technology/metas-instagram-down-thousands-downdetector-shows-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 00:47:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本核心通胀上升，物价趋势放缓令日本央行前景混乱</title>
       <link>https://www.reuters.com/markets/asia/japans-feb-inflation-accelerates-effects-fuel-subsidies-fade-2024-03-21/</link>
-      <description><![CDATA[周五的数据显示，随着政府燃料补贴的影响消退，日本2月份核心通胀加速，这表明经济正在将物价增长持续保持在央行2%的目标附近。]]></description>
+      <description><![CDATA[数据显示，日本2月份核心通胀加速，但衡量更广泛物价趋势的指数大幅放缓，凸显了日本央行何时再次加息的不确定性。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-feb-inflation-accelerates-effects-fuel-subsidies-fade-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 23:56:55 GMT</pubDate>
     </item>
@@ -22,7 +57,7 @@
     <item>
       <title>贝莱德表示，美联储的鸽派转向“惯性”可能会给长期债券带来麻烦</title>
       <link>https://www.reuters.com/markets/rates-bonds/feds-dovish-pivot-inertia-may-spell-trouble-long-term-bonds-blackrock-says-2024-03-21/</link>
-      <description><![CDATA[资产管理巨头贝莱德的投资组合经理周四表示，如果美联储的降息前景受到顽固的通货膨胀的挑战，长期美国国债可能会变得脆弱。]]></description>
+      <description><![CDATA[资产管理巨头贝莱德的投资组合经理周四表示，如果美联储的降息前景受到顽固通胀的挑战，长期美国国债可能会变得脆弱。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/feds-dovish-pivot-inertia-may-spell-trouble-long-term-bonds-blackrock-says-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 20:39:27 GMT</pubDate>
     </item>
@@ -43,30 +78,9 @@
     <item>
       <title>耐克警告称，由于削减关键产品，收入将下降</title>
       <link>https://www.reuters.com/business/retail-consumer/nike-beats-quarterly-revenue-estimates-discounts-draw-demand-2024-03-21/</link>
-      <description><![CDATA[耐克周四警告称，由于全球最大的运动服装制造商缩减特许经营规模以节省成本，其 2025 财年上半年的收入将出现低个位数百分比的萎缩。]]></description>
+      <description><![CDATA[耐克周四警告称，由于这家全球最大的运动服装制造商缩减特许经营规模以节省成本，其 2025 财年上半年的收入将出现低个位数百分比的萎缩。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/nike-beats-quarterly-revenue-estimates-discounts-draw-demand-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 20:19:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lululemon 警告北美销售因支出下滑而放缓</title>
-      <link>https://www.reuters.com/business/retail-consumer/lululemon-sees-annual-revenue-below-estimates-weaker-demand-2024-03-21/</link>
-      <description><![CDATA[Lululemon Athletica 周四预测年度收入和利润低于预期，原因是该服装零售商主要在北美地区的高端运动休闲需求减弱，导致其股价在盘后交易中下跌近 11%。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/lululemon-sees-annual-revenue-below-estimates-weaker-demand-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 20:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTX预计美国破产索赔额将减少至30亿至50亿美元</title>
-      <link>https://www.reuters.com/technology/ftx-expects-us-reduce-bankruptcy-claim-3-billion-5-billion-2024-03-21/</link>
-      <description><![CDATA[加密货币交易所 FTX 表示，预计将通过谈判将美国政府的破产索赔额降至 30 亿至 50 亿美元，这样股东就不会剩下任何钱，这与创始人 Sam Bankman-Fried 声称 FTX 的倒闭没有造成任何损害的“鲁莽且虚假”的说法相矛盾。]]></description>
-      <guid>https://www.reuters.com/technology/ftx-expects-us-reduce-bankruptcy-claim-3-billion-5-billion-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 19:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝莱德敦促德克萨斯州基金经理在撤资 85 亿美元后重新考虑</title>
-      <link>https://www.reuters.com/sustainability/sustainable-finance-reporting/blackrock-dismayed-by-85-bln-texas-divestment-urges-rethink-2024-03-21/</link>
-      <description><![CDATA[贝莱德的一位高级管理人员周四表示，这家全球最大的资产管理公司对德克萨斯州一家基金撤回 85 亿美元资产的举动感到“沮丧”，并敦促该基金的管理人员重新考虑。]]></description>
-      <guid>https://www.reuters.com/sustainability/sustainable-finance-reporting/blackrock-dismayed-by-85-bln-texas-divestment-urges-rethink-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 19:43:06 GMT</pubDate>
     </item>
     <item>
       <title>随着耐克市场份额的流失，投资者担心相关性</title>
@@ -76,25 +90,25 @@
       <pubDate>Thu, 21 Mar 2024 19:21:31 GMT</pubDate>
     </item>
     <item>
-      <title>西南航空运输工人批准新劳动合同</title>
-      <link>https://www.reuters.com/business/aerospace-defense/southwest-airlines-transport-workers-approve-new-labor-contract-2024-03-21/</link>
-      <description><![CDATA[西南航空周四表示，机坪、运营、供应和货运代理批准了一份新的五年期劳动合同。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/southwest-airlines-transport-workers-approve-new-labor-contract-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 19:10:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>内容创作者担心在没有 TikTok 的世界中受到错误教育</title>
-      <link>https://www.reuters.com/lifestyle/content-creators-worry-about-miseducation-world-without-tiktok-2024-03-21/</link>
-      <description><![CDATA[2020 年 12 月，新冠肺炎 (COVID-19) 大流行最严重时，南部乡村小镇的公立学校教师“詹姆斯女士”意识到，她的虚拟学生没有观看她布置给他们的语法课。直到她将它们发布到 TikTok 上。]]></description>
-      <guid>https://www.reuters.com/lifestyle/content-creators-worry-about-miseducation-world-without-tiktok-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 18:49:27 GMT</pubDate>
+      <title>美国机构称 SpaceX 强迫员工签署非法遣散协议</title>
+      <link>https://www.reuters.com/business/spacex-forced-workers-sign-illegal-severance-agreements-us-agency-claims-2024-03-21/</link>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的 SpaceX 被美国一家劳工机构指控，要求火箭和卫星制造商被解雇或解雇的员工签署非法协议，禁止他们诋毁该公司并加入针对该公司的集体诉讼。]]></description>
+      <guid>https://www.reuters.com/business/spacex-forced-workers-sign-illegal-severance-agreements-us-agency-claims-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 18:36:53 GMT</pubDate>
     </item>
     <item>
       <title>美国上诉法院称元平台必须面对广告商的集体诉讼</title>
       <link>https://www.reuters.com/legal/meta-platforms-must-face-advertisers-class-action-us-appeals-court-says-2024-03-21/</link>
-      <description><![CDATA[美国上诉法院意见分歧，表示 Meta Platforms 必须面临广告商的集体诉讼，广告商指控 Facebook 和 Instagram 所有者通过欺诈性地夸大其广告可能覆盖的人数，向他们收取过高的费用。]]></description>
+      <description><![CDATA[美国一个意见分歧的上诉法院表示，Meta Platforms 必须面临广告商的集体诉讼，广告商指控 Facebook 和 Instagram 所有者通过欺诈性地夸大其广告可能覆盖的人数，向他们收取过高的费用。]]></description>
       <guid>https://www.reuters.com/legal/meta-platforms-must-face-advertisers-class-action-us-appeals-court-says-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 18:31:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合国通过首个全球人工智能决议</title>
+      <link>https://www.reuters.com/technology/cybersecurity/un-adopts-first-global-artificial-intelligence-resolution-2024-03-21/</link>
+      <description><![CDATA[联合国大会周四一致通过第一个关于人工智能的全球决议，鼓励各国保障人权、保护个人数据并监控人工智能风险。]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/un-adopts-first-global-artificial-intelligence-resolution-2024-03-21/</guid>
+      <pubDate>Thu, 21 Mar 2024 16:38:18 GMT</pubDate>
     </item>
     <item>
       <title>航空公司、信用卡首席执行官拒绝在美国参议院听证会上作证</title>
@@ -111,13 +125,6 @@
       <pubDate>Thu, 21 Mar 2024 14:33:09 GMT</pubDate>
     </item>
     <item>
-      <title>美国二月份成屋销售升至一年高位</title>
-      <link>https://www.reuters.com/markets/us/us-existing-home-sales-rise-one-year-high-february-2024-03-21/</link>
-      <description><![CDATA[随着供应改善，美国现房销售在 2 月份增至一年高点，这一趋势加上抵押贷款利率回落可能会支持春季销售季节的活动。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-existing-home-sales-rise-one-year-high-february-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 14:03:23 GMT</pubDate>
-    </item>
-    <item>
       <title>由于每周申请失业救济人数下降、房屋销售激增，美国经济基础稳固</title>
       <link>https://www.reuters.com/markets/us/us-weekly-jobless-claims-unexpectedly-fall-2024-03-21/</link>
       <description><![CDATA[上周美国新申请失业救济人数意外下降，而 2 月份二手房销售量出现一年来最大增幅，这表明第一季度经济仍保持稳固基础。]]></description>
@@ -130,13 +137,6 @@
       <description><![CDATA[社交媒体平台 Reddit 的股价在纽约首日交易中上涨 48%，这表明投资者对有前途但亏损的公司首次公开募股的兴趣可能会回归。]]></description>
       <guid>https://www.reuters.com/markets/deals/reddit-set-hotly-anticipated-debut-after-pricing-ipo-top-range-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 10:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：CapOne 告诉监管机构 Discover 交易将促进竞争和稳定</title>
-      <link>https://www.reuters.com/markets/deals/capone-tells-regulators-discover-deal-will-boost-competition-stability-sources-2024-03-21/</link>
-      <description><![CDATA[据知情人士透露，Capital One 在隔夜提交的监管申请中表示，该银行与 Discover Financial 斥资 353 亿美元的合并将促进竞争，有利于金融稳定。]]></description>
-      <guid>https://www.reuters.com/markets/deals/capone-tells-regulators-discover-deal-will-boost-competition-stability-sources-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 10:05:30 GMT</pubDate>
     </item>
     <item>
       <title>降息乐观情绪推动华尔街创下收盘新高；芯片板块反弹</title>
