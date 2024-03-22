@@ -3,8 +3,15 @@
   <channel>
     <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 22 Mar 2024 01:57:32 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 22 Mar 2024 02:38:45 GMT</lastBuildDate>
+    <item>
+      <title>投资者寻求“套利”，美元坚挺</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-steadfast-investors-seek-carry-2024-03-22/</link>
+      <description><![CDATA[美元周五将连续第二周大幅上涨，即使日本加息也无法撼动美元的走势，因为投资者认为美国利率处于高位且尚未下跌。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-steadfast-investors-seek-carry-2024-03-22/</guid>
+      <pubDate>Fri, 22 Mar 2024 01:20:19 GMT</pubDate>
+    </item>
     <item>
       <title>朝中社称，朝鲜派遣代表团访问中国、越南、老挝</title>
       <link>https://www.reuters.com/world/asia-pacific/north-korea-sends-delegation-china-vietnam-laos-kcna-says-2024-03-21/</link>
@@ -106,7 +113,7 @@
     <item>
       <title>阿里巴巴前首席执行官张勇加入首红资本担任管理合伙人</title>
       <link>https://www.reuters.com/business/alibabas-former-ceo-daniel-zhang-join-firstred-capital-managing-partner-2024-03-21/</link>
-      <description><![CDATA[首红资本周四表示，阿里巴巴集团前首席执行官张勇将加入首红资本，担任管理合伙人，此时距他离开这家中国电子商务巨头六个月。]]></description>
+      <description><![CDATA[首红资本周四表示，阿里巴巴集团前首席执行官张勇将加入首红资本担任管理合伙人，此时距他离开这家中国电子商务巨头六个月。]]></description>
       <guid>https://www.reuters.com/business/alibabas-former-ceo-daniel-zhang-join-firstred-capital-managing-partner-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 04:54:31 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>中国银行称有进一步下调银行存款准备金率的空间</title>
       <link>https://www.reuters.com/world/china/china-cbank-has-room-cut-bank-reserves-ratio-further-deputy-governor-says-2024-03-21/</link>
-      <description><![CDATA[央行副行长周四表示，中国还有进一步降低银行存款准备金率（RRR）等政策工具的空间，这凸显了市场对采取更多宽松措施提振经济的预期。]]></description>
+      <description><![CDATA[央行副行长周四表示，中国有进一步降低银行存款准备金率（RRR）等政策工具的空间，这凸显了市场对采取更多宽松措施提振经济的预期。]]></description>
       <guid>https://www.reuters.com/world/china/china-cbank-has-room-cut-bank-reserves-ratio-further-deputy-governor-says-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 03:33:53 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[台湾最高安全官员周四表示，鉴于中国在南海的军事存在，他目前不建议蔡英文总统访问南海，因为她的飞行可能面临“相关国家干涉”的风险。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/citing-safety-risk-taiwan-recommends-president-does-not-visit-schina-sea-2024-03-21/</guid>
       <pubDate>Thu, 21 Mar 2024 02:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>据《华尔街日报》报道，Shein 将向全球品牌推销供应链基础设施</title>
-      <link>https://www.reuters.com/business/retail-consumer/shein-market-supply-chain-infrastructure-global-brands-wsj-reports-2024-03-21/</link>
-      <description><![CDATA[《华尔街日报》周三援引执行主席唐唐致投资者的一封信报道称，中国成立的快时尚公司 Shein 将向全球品牌提供其供应链基础设施和技术。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/shein-market-supply-chain-infrastructure-global-brands-wsj-reports-2024-03-21/</guid>
-      <pubDate>Thu, 21 Mar 2024 01:48:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
