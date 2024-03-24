@@ -3,8 +3,15 @@
   <channel>
     <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 24 Mar 2024 22:39:47 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sun, 24 Mar 2024 22:52:49 GMT</lastBuildDate>
+    <item>
+      <title>朝鲜金正恩视察坦克部队，呼吁做好严密战备</title>
+      <link>https://www.reuters.com/world/asia-pacific/north-koreas-kim-visits-tank-unit-calls-airtight-combat-readiness-2024-03-24/</link>
+      <description><![CDATA[朝鲜官方媒体朝中社周一称，朝鲜领导人金正恩视察了一支坦克部队，并呼吁加强战备，包括增强“意识形态和精神力量”。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/north-koreas-kim-visits-tank-unit-calls-airtight-combat-readiness-2024-03-24/</guid>
+      <pubDate>Sun, 24 Mar 2024 22:01:49 GMT</pubDate>
+    </item>
     <item>
       <title>英国副首相将就中国网络安全威胁向议员发表讲话</title>
       <link>https://www.reuters.com/world/uk/uk-deputy-pm-set-address-lawmakers-chinese-cyber-security-threat-2024-03-24/</link>
@@ -55,16 +62,16 @@
       <pubDate>Sat, 23 Mar 2024 20:34:39 GMT</pubDate>
     </item>
     <item>
-      <title>秘鲁“纠正错误”，赋予中远集团在大型港口的独家经营权</title>
+      <title>秘鲁“纠正错误”赋予中远集团在大型港口的独家经营权</title>
       <link>https://www.reuters.com/business/peru-correct-error-that-gave-cosco-exclusivity-megaport-2024-03-23/</link>
-      <description><![CDATA[秘鲁港务局表示，希望纠正一个“行政错误”，该错误导致中国中远海运集团获得了新钱凯巨型港口的独家经营权。]]></description>
+      <description><![CDATA[秘鲁港务局表示，希望纠正一个“行政错误”，该错误导致中国中远海运集团获得了新钱凯大型港口的独家经营权。]]></description>
       <guid>https://www.reuters.com/business/peru-correct-error-that-gave-cosco-exclusivity-megaport-2024-03-23/</guid>
       <pubDate>Sat, 23 Mar 2024 14:23:00 GMT</pubDate>
     </item>
     <item>
       <title>印度活动人士绝食争取拉达克自治吸引了数千名支持者</title>
       <link>https://www.reuters.com/world/india/indian-activists-hunger-strike-ladakh-autonomy-draws-thousands-supporters-2024-03-23/</link>
-      <description><![CDATA[著名印度活动人士索南·旺楚克 (Sonam Wangchuk) 为喜马拉雅山拉达克地区实现自治而进行绝食，他周六表示，禁食已持续到第 18 天，他感到很虚弱，但尽管支持者恳求停止，他仍将按计划继续绝食三天。 。]]></description>
+      <description><![CDATA[著名印度活动家索南·旺楚克 (Sonam Wangchuk) 为喜马拉雅山拉达克地区实现自治而进行绝食，他周六表示，禁食已持续到第 18 天，他感到很虚弱，但尽管支持者恳求停止，他仍将按计划继续绝食三天。 。]]></description>
       <guid>https://www.reuters.com/world/india/indian-activists-hunger-strike-ladakh-autonomy-draws-thousands-supporters-2024-03-23/</guid>
       <pubDate>Sat, 23 Mar 2024 09:55:30 GMT</pubDate>
     </item>
@@ -104,13 +111,6 @@
       <pubDate>Fri, 22 Mar 2024 23:34:47 GMT</pubDate>
     </item>
     <item>
-      <title>朝鲜和中国承诺在北京高层会谈中加强关系</title>
-      <link>https://www.reuters.com/world/asia-pacific/north-korea-china-held-talks-beijing-kcna-says-2024-03-22/</link>
-      <description><![CDATA[朝鲜媒体周日称，朝鲜和中国官员在北京会面，承诺进一步发展双边关系，平壤在因新冠肺炎 (COVID-19) 封锁后寻求扩大外交接触。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/north-korea-china-held-talks-beijing-kcna-says-2024-03-22/</guid>
-      <pubDate>Fri, 22 Mar 2024 21:35:33 GMT</pubDate>
-    </item>
-    <item>
       <title>荷兰首相因对 ASML 工具许可证存疑而会见中国习近平</title>
       <link>https://www.reuters.com/world/dutch-pm-meet-chinas-xi-chip-export-policy-strains-ties-2024-03-22/</link>
       <description><![CDATA[知情人士告诉路透社，荷兰首相马克·吕特和中国国家主席习近平将于下周讨论 ASML 是否可以继续为其向中国客户出售的价值数十亿欧元的计算机芯片设备提供服务。]]></description>
@@ -127,7 +127,7 @@
     <item>
       <title>联合国人权机构向已故中国异见人士致敬暴露分歧</title>
       <link>https://www.reuters.com/world/tribute-deceased-chinese-dissident-exposes-fractures-un-rights-body-2024-03-22/</link>
-      <description><![CDATA[周五，在联合国人权机构发生的一场紧张事件中，中国打断了几个非政府组织向已故中国人权活动家致敬的企图，该事件暴露了西方国家与北京支持者之间的分歧。]]></description>
+      <description><![CDATA[周五，在联合国人权机构发生的一场紧张事件中，中国打断了几个非政府组织向已故中国人权活动人士致敬的企图，该事件暴露了西方国家与北京支持者之间的分歧。]]></description>
       <guid>https://www.reuters.com/world/tribute-deceased-chinese-dissident-exposes-fractures-un-rights-body-2024-03-22/</guid>
       <pubDate>Fri, 22 Mar 2024 11:30:41 GMT</pubDate>
     </item>
