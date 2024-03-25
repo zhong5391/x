@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 25 Mar 2024 02:33:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 03:09:03 GMT</lastBuildDate>
     <item>
-      <title>亚洲央行敏感股面临本周数据</title>
+      <title>比亚迪下调新版海豹电动轿车起售价</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinas-byd-lowers-starting-price-new-version-seal-electric-sedan-2024-03-25/</link>
+      <description><![CDATA[中国电动汽车 (EV) 制造商比亚迪周一将其新版 Seal 电动轿车的起价降至 179,800 元人民币（24,978.12 美元）。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-lowers-starting-price-new-version-seal-electric-sedan-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 02:13:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国将保障外资企业国民待遇</title>
+      <link>https://www.reuters.com/world/china/china-safeguard-national-treatment-foreign-funded-firms-2024-03-25/</link>
+      <description><![CDATA[商务部副部长郭婷婷周一在北京的一个论坛上表示，中国将维护外资企业的国民待遇，让更多外资企业放心、安心地在中国投资。]]></description>
+      <guid>https://www.reuters.com/world/china/china-safeguard-national-treatment-foreign-funded-firms-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 01:34:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚洲股市持平，美元因日本谨慎态度而受到抑制</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-25/</link>
+      <description><![CDATA[亚洲股市周一出现波动，原因是投资者担心本周美国通胀数据可能会破坏降息前景，而日本货币干预的风险暂时阻止了日元的跌势。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 00:27:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：对央行敏感的股票面临本周的数据</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-24/</link>
       <description><![CDATA[展望未来一天的亚洲市场。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-24/</guid>
@@ -69,7 +90,7 @@
       <pubDate>Sat, 23 Mar 2024 20:34:39 GMT</pubDate>
     </item>
     <item>
-      <title>秘鲁“纠正错误”赋予中远集团在大型港口的独家经营权</title>
+      <title>秘鲁“纠正错误”，赋予中远集团在大型港口的独家经营权</title>
       <link>https://www.reuters.com/business/peru-correct-error-that-gave-cosco-exclusivity-megaport-2024-03-23/</link>
       <description><![CDATA[秘鲁港务局表示，希望纠正一个“行政错误”，该错误导致中国中远海运集团获得了新钱凯巨型港口的独家经营权。]]></description>
       <guid>https://www.reuters.com/business/peru-correct-error-that-gave-cosco-exclusivity-megaport-2024-03-23/</guid>
@@ -104,20 +125,6 @@
       <pubDate>Sat, 23 Mar 2024 02:21:41 GMT</pubDate>
     </item>
     <item>
-      <title>天齐锂业在智利SQM-Codelco锂矿交易中寻求股东投票权</title>
-      <link>https://www.reuters.com/markets/commodities/tianqi-seeks-shareholder-voting-power-chiles-sqm-codelco-lithium-deal-2024-03-23/</link>
-      <description><![CDATA[中国天齐锂业周五敦促智利SQM就与国营铜矿商Codelco讨论的锂交易举行股东投票，并批评谈判缺乏明确性。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/tianqi-seeks-shareholder-voting-power-chiles-sqm-codelco-lithium-deal-2024-03-23/</guid>
-      <pubDate>Sat, 23 Mar 2024 01:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>秘鲁授予中国金照价值4.05亿美元的港口建设合同</title>
-      <link>https://www.reuters.com/world/peru-awards-chinas-jinzhao-405-million-port-construction-contract-2024-03-22/</link>
-      <description><![CDATA[秘鲁政府周五表示，已授予中国金照公司子公司一份在安第斯国家南部建设港口的合同，预计需要 4.05 亿美元的投资。]]></description>
-      <guid>https://www.reuters.com/world/peru-awards-chinas-jinzhao-405-million-port-construction-contract-2024-03-22/</guid>
-      <pubDate>Fri, 22 Mar 2024 23:34:47 GMT</pubDate>
-    </item>
-    <item>
       <title>荷兰首相因对 ASML 工具许可证存疑而会见中国习近平</title>
       <link>https://www.reuters.com/world/dutch-pm-meet-chinas-xi-chip-export-policy-strains-ties-2024-03-22/</link>
       <description><![CDATA[知情人士告诉路透社，荷兰首相马克·吕特和中国国家主席习近平将于下周讨论 ASML 是否可以继续为其向中国客户出售的价值数十亿欧元的计算机芯片设备提供服务。]]></description>
@@ -137,13 +144,6 @@
       <description><![CDATA[周五，在联合国人权机构发生的一场紧张事件中，中国打断了几个非政府组织向已故中国人权活动人士致敬的企图，该事件暴露了西方国家与北京支持者之间的分歧。]]></description>
       <guid>https://www.reuters.com/world/tribute-deceased-chinese-dissident-exposes-fractures-un-rights-body-2024-03-22/</guid>
       <pubDate>Fri, 22 Mar 2024 11:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国特使表示，俄罗斯和乌克兰认为危机最终通过谈判解决</title>
-      <link>https://www.reuters.com/world/europe/russia-ukraine-see-crisis-eventually-resolved-through-talks-chinas-special-envoy-2024-03-22/</link>
-      <description><![CDATA[中国欧亚事务特使周五表示，俄罗斯和乌克兰都相信冲突将通过谈判结束，尽管交战国对和谈前景的看法截然不同，而且立场坚定。]]></description>
-      <guid>https://www.reuters.com/world/europe/russia-ukraine-see-crisis-eventually-resolved-through-talks-chinas-special-envoy-2024-03-22/</guid>
-      <pubDate>Fri, 22 Mar 2024 03:35:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
