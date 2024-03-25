@@ -3,8 +3,15 @@
   <channel>
     <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 25 Mar 2024 00:32:02 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 25 Mar 2024 01:37:45 GMT</lastBuildDate>
+    <item>
+      <title>亚洲央行敏感股面临本周数据</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-24/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-24/</guid>
+      <pubDate>Sun, 24 Mar 2024 23:10:19 GMT</pubDate>
+    </item>
     <item>
       <title>朝鲜金正恩视察坦克部队，呼吁做好严密战备</title>
       <link>https://www.reuters.com/world/asia-pacific/north-koreas-kim-visits-tank-unit-calls-airtight-combat-readiness-2024-03-24/</link>
@@ -27,7 +34,7 @@
       <pubDate>Sun, 24 Mar 2024 11:21:10 GMT</pubDate>
     </item>
     <item>
-      <title>中国官员与首席执行官会面，称其面临“岔路口”</title>
+      <title>中国称官员与首席执行官会面时面临“岔路口”</title>
       <link>https://www.reuters.com/world/china/china-told-it-faces-fork-road-officials-meet-ceos-2024-03-24/</link>
       <description><![CDATA[国际货币基金组织(IMF)总裁克里斯塔利娜·格奥尔基耶娃(Kristalina Georgieva)周日表示，中国需要通过经济政策“重塑自身”，以加快解决房地产市场危机并提振国内消费和生产力。]]></description>
       <guid>https://www.reuters.com/world/china/china-told-it-faces-fork-road-officials-meet-ceos-2024-03-24/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>印度活动人士绝食争取拉达克自治吸引了数千名支持者</title>
       <link>https://www.reuters.com/world/india/indian-activists-hunger-strike-ladakh-autonomy-draws-thousands-supporters-2024-03-23/</link>
-      <description><![CDATA[著名印度活动人士索南·旺楚克 (Sonam Wangchuk) 为喜马拉雅山拉达克地区实现自治而进行绝食，他周六表示，禁食已持续到第 18 天，他感到很虚弱，但尽管支持者恳求停止，他仍将按计划继续绝食三天。 。]]></description>
+      <description><![CDATA[著名印度活动家索南·旺楚克 (Sonam Wangchuk) 为喜马拉雅山拉达克地区实现自治而进行绝食，他周六表示，禁食已持续到第 18 天，他感到很虚弱，但尽管支持者恳求停止，他仍将按计划继续绝食三天。 。]]></description>
       <guid>https://www.reuters.com/world/india/indian-activists-hunger-strike-ladakh-autonomy-draws-thousands-supporters-2024-03-23/</guid>
       <pubDate>Sat, 23 Mar 2024 09:55:30 GMT</pubDate>
     </item>
@@ -127,16 +134,9 @@
     <item>
       <title>联合国人权机构向已故中国异见人士致敬暴露分歧</title>
       <link>https://www.reuters.com/world/tribute-deceased-chinese-dissident-exposes-fractures-un-rights-body-2024-03-22/</link>
-      <description><![CDATA[周五，在联合国人权机构发生的一场紧张事件中，中国打断了几个非政府组织向已故中国人权活动家致敬的企图，该事件暴露了西方国家与北京支持者之间的分歧。]]></description>
+      <description><![CDATA[周五，在联合国人权机构发生的一场紧张事件中，中国打断了几个非政府组织向已故中国人权活动人士致敬的企图，该事件暴露了西方国家与北京支持者之间的分歧。]]></description>
       <guid>https://www.reuters.com/world/tribute-deceased-chinese-dissident-exposes-fractures-un-rights-body-2024-03-22/</guid>
       <pubDate>Fri, 22 Mar 2024 11:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>在大型中国芯片展上，企业纷纷呼吁购买国产芯片</title>
-      <link>https://www.reuters.com/technology/major-china-chip-fair-firms-ramp-up-call-buy-domestic-2024-03-22/</link>
-      <description><![CDATA[中国半导体相关公司本周在该国最大的芯片行业展会之一上竭尽全力推销国内采购，呼应了北京方面为面临日益加剧的地缘政治压力的行业提供支持的呼吁。]]></description>
-      <guid>https://www.reuters.com/technology/major-china-chip-fair-firms-ramp-up-call-buy-domestic-2024-03-22/</guid>
-      <pubDate>Fri, 22 Mar 2024 08:52:27 GMT</pubDate>
     </item>
     <item>
       <title>中国特使表示，俄罗斯和乌克兰认为危机最终通过谈判解决</title>
