@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 25 Mar 2024 16:29:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 16:42:27 GMT</lastBuildDate>
     <item>
       <title>复活节假期前阿根廷市场充满庆祝气氛</title>
       <link>https://www.reuters.com/markets/argentine-markets-celebratory-mood-ahead-easter-break-2024-03-25/</link>
@@ -36,14 +36,14 @@
     <item>
       <title>VIEW 波音公司首席执行官将在管理层改组中辞职</title>
       <link>https://www.reuters.com/business/aerospace-defense/view-boeing-ceo-step-down-management-shakeup-2024-03-25/</link>
-      <description><![CDATA[波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 将于年底前辞职，这是由于 1 月份 737 MAX 飞机空中面板爆炸而引发的广泛安全危机，引发了广泛的管理层改组。]]></description>
+      <description><![CDATA[波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 将于年底辞职，这是由于 1 月份 737 MAX 飞机空中面板爆炸而引发的广泛安全危机，引发了广泛的管理层改组。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/view-boeing-ceo-step-down-management-shakeup-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 12:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>艾伯维 (AbbVie) 与 Landos 交易加强免疫疾病药物管道</title>
+      <title>艾伯维（AbbVie）与兰多斯（Landos）交易加强免疫疾病药物管道</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/abbvie-buy-landos-expand-pipeline-immunity-related-illnesses-2024-03-25/</link>
-      <description><![CDATA[艾伯维 (AbbVie) 周一表示，将以高达 2.12 亿美元的价格收购药物开发商 Landos Biopharma，这家修美乐 (Humira) 制造商旨在扩大其治疗免疫系统相关疾病的药物管道。]]></description>
+      <description><![CDATA[艾伯维 (AbbVie) 周一表示，将以高达 2.12 亿美元的价格收购药物开发商 Landos Biopharma，这家 Humira 制造商旨在扩大其治疗免疫系统相关疾病的药物管道。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/abbvie-buy-landos-expand-pipeline-immunity-related-illnesses-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 12:39:37 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>美联储预计降息，提振拜登前景</title>
       <link>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</link>
-      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民意调查显示美国人不喜欢他对经济的处理方式。]]></description>
+      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民调显示美国人不喜欢他对经济的处理方式。]]></description>
       <guid>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 10:12:39 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>Terraform Labs 的民事欺诈审判将于纽约开始</title>
       <link>https://www.reuters.com/technology/terraform-labs-civil-fraud-trial-set-begin-new-york-2024-03-25/</link>
-      <description><![CDATA[Terraform Labs 及其创始人 Do Kwon 将于周一在曼哈顿接受审判，监管机构指控他们在该公司的两种加密货币崩溃之前向投资者撒谎，这在 2022 年扰乱了市场。]]></description>
+      <description><![CDATA[Terraform Labs 及其创始人 Do Kwon 将于周一在曼哈顿接受审判，监管机构称他们在该公司的两种加密货币崩溃之前对投资者撒了谎，这在 2022 年扰乱了市场。]]></description>
       <guid>https://www.reuters.com/technology/terraform-labs-civil-fraud-trial-set-begin-new-york-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 10:05:57 GMT</pubDate>
     </item>
