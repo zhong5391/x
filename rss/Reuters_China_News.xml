@@ -3,26 +3,12 @@
   <channel>
     <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 25 Mar 2024 15:33:23 GMT</lastBuildDate>
-    <item>
-      <title>德国工业界对中国平等对待外国公司的承诺持怀疑态度</title>
-      <link>https://www.reuters.com/business/german-industry-sceptical-chinas-vow-treat-foreign-firms-equally-2024-03-25/</link>
-      <description><![CDATA[北京方面新承诺将外国公司视为国内竞争对手，但遭到其最大贸易伙伴之一德国的冷淡回应，德国各行业呼吁采取具体行动而不是空谈来创造一个真正的公平竞争环境。]]></description>
-      <guid>https://www.reuters.com/business/german-industry-sceptical-chinas-vow-treat-foreign-firms-equally-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 14:01:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国国务院总理刘建超将于3月25日至28日访问新加坡</title>
-      <link>https://www.reuters.com/world/asia-pacific/chinas-liu-jianchao-visit-singapore-march-25-28-2024-03-25/</link>
-      <description><![CDATA[新加坡外交部周一晚间发表声明称，应新加坡外交部长维文的邀请，中共中央对外联络部部长刘建超将于3月25日至28日访问新加坡。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/chinas-liu-jianchao-visit-singapore-march-25-28-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 13:25:08 GMT</pubDate>
-    </item>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 25 Mar 2024 15:48:52 GMT</lastBuildDate>
     <item>
       <title>佳士得将在香港开设新总部，亚洲 Z 世代兴趣日益浓厚</title>
       <link>https://www.reuters.com/lifestyle/christies-open-new-hong-kong-hq-sees-growing-asian-gen-z-interest-2024-03-25/</link>
-      <description><![CDATA[佳士得拍卖行希望其 9 月在香港开设的占地 50,000 平方英尺的新亚洲总部能够在 2024 年提高销售额，因为该地区新一代文化敏锐的千禧一代和年轻人的兴趣日益浓厚。]]></description>
+      <description><![CDATA[佳士得拍卖行希望其 9 月在香港开设的占地 50,000 平方英尺的亚洲新总部能够在 2024 年提高销售额，因为该地区新一代文化敏锐的千禧一代和年轻人的兴趣日益浓厚。]]></description>
       <guid>https://www.reuters.com/lifestyle/christies-open-new-hong-kong-hq-sees-growing-asian-gen-z-interest-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 11:46:13 GMT</pubDate>
     </item>
@@ -57,12 +43,12 @@
     <item>
       <title>朝鲜高级官员在北京会见中国国家主席王毅</title>
       <link>https://www.reuters.com/world/asia-pacific/senior-north-korean-official-meets-chinas-wang-yi-beijing-2024-03-25/</link>
-      <description><![CDATA[官方媒体朝中社周一称，率领代表团访问中国的朝鲜高级官员周六会见了中国外交部长王毅，并呼吁加强两个邻国之间的关系。]]></description>
+      <description><![CDATA[官方媒体朝中社周一称，朝鲜高级官员率领代表团访问中国，周六会见了中国外交部长王毅，并呼吁加强两个邻国之间的关系。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/senior-north-korean-official-meets-chinas-wang-yi-beijing-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 09:07:07 GMT</pubDate>
     </item>
     <item>
-      <title>中国电动汽车制造商在曼谷车展上成为焦点，推出新车型</title>
+      <title>中国电动汽车制造商在曼谷车展上亮相，推出新车型</title>
       <link>https://www.reuters.com/business/autos-transportation/chinese-ev-makers-take-centre-stage-bangkok-motor-show-unveil-new-models-2024-03-25/</link>
       <description><![CDATA[受强劲电动汽车销量的推动，中国汽车制造商将在本周的曼谷国际汽车展上成为众人瞩目的焦点，突显出长期主导泰国汽车市场的日本汽车巨头面临的日益严峻的挑战。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinese-ev-makers-take-centre-stage-bangkok-motor-show-unveil-new-models-2024-03-25/</guid>
@@ -99,9 +85,16 @@
     <item>
       <title>台湾前总统马英九将第二次访华</title>
       <link>https://www.reuters.com/world/asia-pacific/former-taiwan-president-ma-make-second-trip-china-2024-03-25/</link>
-      <description><![CDATA[台湾前总统马英九将于下月第二次访问中国，他的办公室周一表示，在台海局势持续紧张之际，他将率领学生团队进行为期 11 天的访问，访问北京等地。 。]]></description>
+      <description><![CDATA[台湾前总统马英九将于下个月第二次访问中国，他的办公室周一表示，在台海局势持续紧张之际，他将率领学生团队进行为期 11 天的访问，访问北京等地。 。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/former-taiwan-president-ma-make-second-trip-china-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 03:21:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国称中菲关系正处于海上事件的“十字路口”</title>
+      <link>https://www.reuters.com/world/asia-pacific/philippines-defence-minister-dares-china-put-maritime-sovereignty-claim-2024-03-25/</link>
+      <description><![CDATA[中国周一警告菲律宾要谨慎行事并寻求对话，称两国关系正处于“十字路口”，两国海岸警卫队之间因海事主张而发生的新对抗加剧了紧张局势。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/philippines-defence-minister-dares-china-put-maritime-sovereignty-claim-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 02:47:07 GMT</pubDate>
     </item>
     <item>
       <title>中国誓言在产业升级过程中平等对待外国企业</title>
@@ -111,11 +104,18 @@
       <pubDate>Mon, 25 Mar 2024 01:34:12 GMT</pubDate>
     </item>
     <item>
-      <title>干预警告后日元上涨，美元下跌</title>
+      <title>日本和中国强化本币，美元下跌</title>
       <link>https://www.reuters.com/markets/currencies/intervention-threat-curbs-dollars-ascent-towards-new-high-yen-2024-03-25/</link>
-      <description><![CDATA[在日本最高货币外交官警告投机者试图削弱日元汇率后，日元周一走强，而人民币则因国有银行涉嫌抛售美元而上涨。]]></description>
+      <description><![CDATA[由于日本当局威胁进行货币干预以及政府推动的人民币升值，美元周一下跌，打压美元。]]></description>
       <guid>https://www.reuters.com/markets/currencies/intervention-threat-curbs-dollars-ascent-towards-new-high-yen-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 01:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国将提出中国网络安全威胁</title>
+      <link>https://www.reuters.com/world/uk/uk-deputy-pm-set-address-lawmakers-chinese-cyber-security-threat-2024-03-24/</link>
+      <description><![CDATA[英国将于周一详细说明其所称的中国构成的网络安全威胁，并可能指责北京对其选举监管机构进行黑客攻击，因为在预计今年晚些时候举行的选举之前，对干扰的担忧日益加剧。]]></description>
+      <guid>https://www.reuters.com/world/uk/uk-deputy-pm-set-address-lawmakers-chinese-cyber-security-threat-2024-03-24/</guid>
+      <pubDate>Sun, 24 Mar 2024 19:10:52 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，随着中国威胁迫在眉睫，美国将目光转向在日本的军事指挥</title>
@@ -127,7 +127,7 @@
     <item>
       <title>恒大清算人称公司、SJ和天际撤回在美国的第15章申请</title>
       <link>https://www.reuters.com/business/evergrandes-liquidators-say-company-sj-tianji-withdraw-chapter-15-applications-2024-03-24/</link>
-      <description><![CDATA[恒大地产在向香港证券交易所提交的文件中表示，该公司、SJ和天脊集团周五向美国法院提交了文件，要求撤回第15章破产保护申请。]]></description>
+      <description><![CDATA[这家中国房地产公司在向香港证券交易所提交的文件中表示，该公司、SJ和天脊集团周五向美国法院提交文件，撤回第15章破产保护申请，该公司清算人表示。]]></description>
       <guid>https://www.reuters.com/business/evergrandes-liquidators-say-company-sj-tianji-withdraw-chapter-15-applications-2024-03-24/</guid>
       <pubDate>Sun, 24 Mar 2024 11:21:10 GMT</pubDate>
     </item>
