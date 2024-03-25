@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 25 Mar 2024 20:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 20:48:44 GMT</lastBuildDate>
     <item>
       <title>首席法律官称，美国 SEC 向 Ripple Labs 寻求 20 亿美元资金</title>
       <link>https://www.reuters.com/markets/us/sec-seeking-2-billion-ripple-labs-chief-legal-officer-says-2024-03-25/</link>
@@ -48,7 +48,7 @@
       <pubDate>Mon, 25 Mar 2024 16:36:59 GMT</pubDate>
     </item>
     <item>
-      <title>路透调查显示，阿根廷经济活动在 Milei 首个完整月份可能下滑 5.5%</title>
+      <title>路透调查显示阿根廷经济活动在 Milei 首个完整月份可能下滑 5.5%</title>
       <link>https://www.reuters.com/world/americas/argentina-economic-activity-likely-slid-55-mileis-first-full-month-2024-03-25/</link>
       <description><![CDATA[路透社周一的一项分析师调查显示，阿根廷1月份经济活动可能按年率下降5.5%，这将是自总统哈维尔·米莱(Javier Milei)于12月10日上任以来的第一个完整月数据大幅下降。]]></description>
       <guid>https://www.reuters.com/world/americas/argentina-economic-activity-likely-slid-55-mileis-first-full-month-2024-03-25/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>田纳西州的大众工人将于四月投票决定是否加入 UAW</title>
       <link>https://www.reuters.com/business/autos-transportation/vw-workers-tennessee-will-vote-april-whether-join-uaw-2024-03-25/</link>
-      <description><![CDATA[大众汽车位于田纳西州查塔努加的装配厂的工人们将于四月投票决定是否加入美国汽车工人联合会，这是对美国汽车工人联合会主席肖恩·费恩(Shawn Fain)将工会影响力扩大到外资汽车制造商的运动的一次考验。]]></description>
+      <description><![CDATA[大众汽车位于田纳西州查塔努加的装配厂的工人将于四月投票决定是否加入美国汽车工人联合会，这是对美国汽车工人联合会主席肖恩·费恩(Shawn Fain)将工会影响力扩大到外资汽车制造商的运动的一次考验。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/vw-workers-tennessee-will-vote-april-whether-join-uaw-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 15:14:38 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>波音公司首席执行官戴夫·卡尔霍恩在安全危机中因人事变动而辞职</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeing-ceo-calhoun-step-down-2024-03-25/</link>
-      <description><![CDATA[波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 将在年底前辞职，此次管理层变动是由于 1 月份一架 737 MAX 飞机在空中发生面板爆炸事件而加剧的严重安全危机，这引发了该公司的广泛安全危机。]]></description>
+      <description><![CDATA[波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 将在年底前辞职，此次管理层变动是由于 1 月份 737 MAX 飞机空中面板爆炸而引发的广泛安全危机而引发的。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeing-ceo-calhoun-step-down-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 12:05:21 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>美联储预计降息，提振拜登前景</title>
       <link>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</link>
-      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民调显示美国人不喜欢他对经济的处理方式。]]></description>
+      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民意调查显示美国人不喜欢他对经济的处理方式。]]></description>
       <guid>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 10:12:39 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>股市在强劲的一周后下跌，投资者评估美联储的利率路径</title>
       <link>https://www.reuters.com/markets/us/futures-ease-start-holiday-shortened-week-2024-03-25/</link>
-      <description><![CDATA[道琼斯指数和标准普尔 500 指数周一下跌，这是该指数今年最大周百分比涨幅后的首个交易日，因为投资者在假期晚些时候发布的关键通胀数据之前评估了美联储可能的利率走势。缩短了一周。]]></description>
+      <description><![CDATA[道琼斯指数和标准普尔 500 指数周一下跌，这是该指数今年最大周百分比涨幅后的第一个交易日，因为投资者在假期晚些时候公布的关键通胀数据之前评估了美联储可能的利率走势。缩短了一周。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-start-holiday-shortened-week-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 09:58:00 GMT</pubDate>
     </item>
