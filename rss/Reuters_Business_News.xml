@@ -1,45 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 25 Mar 2024 19:16:02 GMT</lastBuildDate>
-    <item>
-      <title>花旗集团表示首席执行官的全面重组已完成</title>
-      <link>https://www.reuters.com/business/finance/citigroup-says-reorganization-has-concluded-2024-03-25/</link>
-      <description><![CDATA[花旗集团周一表示，旨在简化这家最具全球性的华尔街银行并提高其盈利能力的全面重组已经结束。]]></description>
-      <guid>https://www.reuters.com/business/finance/citigroup-says-reorganization-has-concluded-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 17:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 期权推出吸引多头，股价扩大涨幅</title>
-      <link>https://www.reuters.com/technology/reddit-options-launch-draws-bulls-shares-extend-gains-2024-03-25/</link>
-      <description><![CDATA[周一，Reddit 上的期权吸引了一系列看涨押注，该社交媒体平台的股价在上周强劲上市后上涨了 16%。]]></description>
-      <guid>https://www.reuters.com/technology/reddit-options-launch-draws-bulls-shares-extend-gains-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 17:41:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>据《华尔街日报》报道，宁德时代正在与特斯拉等全球汽车制造商就美国许可进行谈判</title>
-      <link>https://www.reuters.com/business/autos-transportation/catl-talks-with-tesla-global-automakers-us-licensing-wsj-reports-2024-03-25/</link>
-      <description><![CDATA[据《华尔街日报》周一报道，中国电动汽车电池制造商宁德时代正在与特斯拉和其他未具名的汽车制造商进行谈判，以在美国许可其电池技术，而不是在美国建造自己的工厂。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/catl-talks-with-tesla-global-automakers-us-licensing-wsj-reports-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 16:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟为何根据《数字市场法》调查大型科技公司？</title>
-      <link>https://www.reuters.com/technology/why-is-eu-probing-big-tech-under-digital-markets-act-2024-03-25/</link>
-      <description><![CDATA[欧盟周一对 Alphabet、苹果和 Meta 展开调查，理由是它们可能违反了一项具有里程碑意义的新法律，该法律旨在防止大型科技公司相对于竞争对手拥有不公平的优势。]]></description>
-      <guid>https://www.reuters.com/technology/why-is-eu-probing-big-tech-under-digital-markets-act-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 16:36:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>路透调查显示阿根廷经济活动在 Milei 首个完整月份可能下滑 5.5%</title>
-      <link>https://www.reuters.com/world/americas/argentina-economic-activity-likely-slid-55-mileis-first-full-month-2024-03-25/</link>
-      <description><![CDATA[路透社周一的一项分析师调查显示，阿根廷1月份经济活动可能按年率下降5.5%，这将是自总统哈维尔·米莱(Javier Milei)于12月10日上任以来的第一个完整月数据大幅下降。]]></description>
-      <guid>https://www.reuters.com/world/americas/argentina-economic-activity-likely-slid-55-mileis-first-full-month-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 16:36:18 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 25 Mar 2024 19:29:36 GMT</lastBuildDate>
     <item>
       <title>即将卸任首席执行官卡尔霍恩领导下的波音公司经历了动荡的四年</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeings-tumultuous-four-years-under-outgoing-ceo-calhoun-2024-03-25/</link>
@@ -48,16 +13,9 @@
       <pubDate>Mon, 25 Mar 2024 15:32:42 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克的 X Corp 在针对仇恨言论监管机构的诉讼中败诉</title>
-      <link>https://www.reuters.com/technology/musks-x-corp-loses-lawsuit-against-hate-speech-watchdog-2024-03-25/</link>
-      <description><![CDATA[周一，一名美国法官驳回了埃隆·马斯克 (Elon Musk) 对一家非营利组织的诉讼，该组织指责马斯克允许其社交媒体平台 X（前身为 Twitter）上仇恨言论增多。]]></description>
-      <guid>https://www.reuters.com/technology/musks-x-corp-loses-lawsuit-against-hate-speech-watchdog-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 15:28:13 GMT</pubDate>
-    </item>
-    <item>
       <title>田纳西州的大众工人将于四月投票决定是否加入 UAW</title>
       <link>https://www.reuters.com/business/autos-transportation/vw-workers-tennessee-will-vote-april-whether-join-uaw-2024-03-25/</link>
-      <description><![CDATA[大众汽车位于田纳西州查塔努加的装配厂的工人将于四月投票决定是否加入美国汽车工人联合会，这是对美国汽车工人联合会主席肖恩·费恩(Shawn Fain)将工会影响力扩大到外资汽车制造商的运动的一次考验。]]></description>
+      <description><![CDATA[大众汽车田纳西州查塔努加装配厂的工人们将于 4 月 17 日至 4 月 19 日投票决定是否加入美国汽车工人联合会，这是对 UAW 主席肖恩·费恩 (Shawn Fain) 史无前例的将工会影响力扩大到外资汽车制造商的运动的一次关键考验。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/vw-workers-tennessee-will-vote-april-whether-join-uaw-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 15:14:38 GMT</pubDate>
     </item>
@@ -76,9 +34,16 @@
       <pubDate>Mon, 25 Mar 2024 15:07:56 GMT</pubDate>
     </item>
     <item>
+      <title>美联储古尔斯比表示，他预计今年将降息三次</title>
+      <link>https://www.reuters.com/markets/us/feds-goolsbee-says-he-sees-three-rate-cuts-this-year-2024-03-25/</link>
+      <description><![CDATA[芝加哥联邦储备银行行长奥斯坦·古尔斯比周一表示，在上周的美联储政策会议上，他预计今年将降息三次。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-goolsbee-says-he-sees-three-rate-cuts-this-year-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 14:56:49 GMT</pubDate>
+    </item>
+    <item>
       <title>美联储库克表示宽松政策需谨慎</title>
       <link>https://www.reuters.com/markets/us/feds-cook-says-cautious-approach-needed-policy-easing-2024-03-25/</link>
-      <description><![CDATA[美联储理事丽莎·库克周一表示，美联储在决定何时开始降息时需要谨慎行事，并指出，正如她的许多同事所说，目前过早放松货币政策的危险与那些移动太慢的人。]]></description>
+      <description><![CDATA[美联储理事丽莎·库克周一表示，美联储在决定何时开始降息时需要谨慎行事，并指出，正如她的许多同事所说，目前过早放松货币政策的危险与过早放松货币政策的危险之间存在着大致的平衡。那些移动太慢的人。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-cook-says-cautious-approach-needed-policy-easing-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 14:53:04 GMT</pubDate>
     </item>
@@ -88,6 +53,13 @@
       <description><![CDATA[2 月份抵押贷款利率上升后，美国新单户住宅销量意外下降，但由于市场上二手房长期短缺，基本趋势依然强劲。]]></description>
       <guid>https://www.reuters.com/markets/us/us-new-home-sales-unexpectedly-fall-february-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 14:19:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>复活节假期前阿根廷市场充满庆祝气氛</title>
+      <link>https://www.reuters.com/markets/argentine-markets-celebratory-mood-ahead-easter-break-2024-03-25/</link>
+      <description><![CDATA[阿根廷市场在复活节长假之前陷入庆祝模式，在自由主义总统哈维尔·米雷采取的财政紧缩和有利于投资者的措施的推动下，主权债券和股票长期上涨。]]></description>
+      <guid>https://www.reuters.com/markets/argentine-markets-celebratory-mood-ahead-easter-break-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 13:59:07 GMT</pubDate>
     </item>
     <item>
       <title>Equinix 开始调查卖空者 Hindenburg 的报告</title>
@@ -104,6 +76,13 @@
       <pubDate>Mon, 25 Mar 2024 13:29:32 GMT</pubDate>
     </item>
     <item>
+      <title>艾伯维（AbbVie）与兰多斯（Landos）交易加强免疫疾病药物管道</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/abbvie-buy-landos-expand-pipeline-immunity-related-illnesses-2024-03-25/</link>
+      <description><![CDATA[艾伯维 (AbbVie) 周一表示，将以高达 2.12 亿美元的价格收购药物开发商 Landos Biopharma，这家修美乐 (Humira) 制造商旨在扩大其治疗免疫系统相关疾病的药物管道。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/abbvie-buy-landos-expand-pipeline-immunity-related-illnesses-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 12:39:37 GMT</pubDate>
+    </item>
+    <item>
       <title>由于5G支出放缓，爱立信将在瑞典裁员1,200人</title>
       <link>https://www.reuters.com/business/media-telecom/ericsson-lay-off-1200-people-sweden-2024-03-25/</link>
       <description><![CDATA[爱立信周一表示，由于客户减少了 5G 设备支出，作为今年早些时候宣布的成本削减措施的一部分，该公司将在瑞典裁员约 1,200 名员工。]]></description>
@@ -118,6 +97,13 @@
       <pubDate>Mon, 25 Mar 2024 12:05:21 GMT</pubDate>
     </item>
     <item>
+      <title>美国联邦航空管理局加强监管后，联合航空股价暴跌</title>
+      <link>https://www.reuters.com/business/aerospace-defense/united-airlines-shares-fall-after-us-faas-increases-oversight-2024-03-25/</link>
+      <description><![CDATA[美国联邦航空管理局 (FAA) 在最近发生一系列安全事件后决定加强对联合航空的监管，周一该公司股价下跌约 6%。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/united-airlines-shares-fall-after-us-faas-increases-oversight-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 11:20:15 GMT</pubDate>
+    </item>
+    <item>
       <title>独家：通过瞄准软件来打破英伟达对人工智能控制的阴谋背后</title>
       <link>https://www.reuters.com/technology/behind-plot-break-nvidias-grip-ai-by-targeting-software-2024-03-25/</link>
       <description><![CDATA[英伟达通过生产人工智能芯片赢得了 2.2 万亿美元的市值，这些芯片已成为从初创公司到微软、OpenAI 和谷歌母公司 Alphabet 等生成式 AI 开发人员新时代的命脉。]]></description>
@@ -127,7 +113,7 @@
     <item>
       <title>美联储预计降息，提振拜登前景</title>
       <link>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</link>
-      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民意调查显示美国人不喜欢他对经济的处理方式。]]></description>
+      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民调显示美国人不喜欢他对经济的处理方式。]]></description>
       <guid>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 10:12:39 GMT</pubDate>
     </item>
@@ -144,6 +130,20 @@
       <description><![CDATA[华盛顿使美国成为全球主要锂生产国的努力因一系列令人困惑的国家法规而受阻，这些法规阻碍了开发商，并阻碍了打破中国对关键矿产行业控制的努力。]]></description>
       <guid>https://www.reuters.com/markets/commodities/americas-lithium-laws-fail-keep-pace-with-rapid-development-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 10:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Northvolt首席执行官表示，电动汽车增长速度放缓，但趋势依然存在</title>
+      <link>https://www.reuters.com/business/autos-transportation/some-decline-ev-development-trend-remains-northvolt-ceo-says-2024-03-25/</link>
+      <description><![CDATA[Northvolt 首席执行官周一在介绍这家瑞典电池制造商在德国建立新工厂的投资计划时表示，尽管最近增长速度放缓，但向电动汽车的根本转变仍在继续。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/some-decline-ev-development-trend-remains-northvolt-ceo-says-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 09:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>航空公司、监管机构对波音 737 MAX 9 喷气式飞机采取了哪些措施</title>
+      <link>https://www.reuters.com/business/aerospace-defense/what-airlines-regulators-are-doing-about-boeing-737-max-jets-2024-01-07/</link>
+      <description><![CDATA[波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 和商用飞机业务负责人斯坦·迪尔 (Stan Deal) 将在管理层改组中辞职，此前该公司最畅销的 737 MAX 喷气式飞机的安全问题受到了严格的监管审查。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/what-airlines-regulators-are-doing-about-boeing-737-max-jets-2024-01-07/</guid>
+      <pubDate>Sun, 07 Jan 2024 23:03:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
