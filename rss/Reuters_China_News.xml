@@ -3,22 +3,8 @@
   <channel>
     <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 25 Mar 2024 22:31:18 GMT</lastBuildDate>
-    <item>
-      <title>早盘买盘：人民币波动，日元脆弱，市场情绪降温</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-25/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 21:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>新西兰和澳大利亚谴责中国国家支持的行为者的网络攻击</title>
-      <link>https://www.reuters.com/technology/cybersecurity/new-zealand-says-parliamentarian-entities-hit-2021-by-malicious-cyber-activity-2024-03-25/</link>
-      <description><![CDATA[新西兰和澳大利亚政府周二与英国和其他国际合作伙伴一起表达了对中国国家支持的行为者恶意网络活动的担忧，新西兰补充说，其 2021 年的议会实体是受害者。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/new-zealand-says-parliamentarian-entities-hit-2021-by-malicious-cyber-activity-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 20:31:22 GMT</pubDate>
-    </item>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 25 Mar 2024 22:48:45 GMT</lastBuildDate>
     <item>
       <title>SWIFT 计划在 12-24 个月内推出新的央行数字货币平台</title>
       <link>https://www.reuters.com/business/finance/swift-planning-launch-new-central-bank-digital-currency-platform-12-24-months-2024-03-25/</link>
@@ -76,7 +62,7 @@
       <pubDate>Mon, 25 Mar 2024 11:26:16 GMT</pubDate>
     </item>
     <item>
-      <title>独家：中国敦促银行加快审批私人开发商新贷款</title>
+      <title>独家：中国敦促银行加快批准私人开发商的新贷款</title>
       <link>https://www.reuters.com/world/china/china-pushes-banks-speed-approvals-new-loans-private-developers-say-sources-2024-03-25/</link>
       <description><![CDATA[知情人士表示，中国监管机构正在敦促银行加快审批向现金匮乏的私人房地产开发商发放的新贷款，此举旨在重振购房者的信心，而购房者的情绪可能会削弱贷款机构的资产质量。]]></description>
       <guid>https://www.reuters.com/world/china/china-pushes-banks-speed-approvals-new-loans-private-developers-say-sources-2024-03-25/</guid>
@@ -97,7 +83,7 @@
       <pubDate>Mon, 25 Mar 2024 09:07:07 GMT</pubDate>
     </item>
     <item>
-      <title>中国电动汽车制造商在曼谷车展上亮相，推出新车型</title>
+      <title>中国电动汽车制造商在曼谷车展上成为焦点，推出新车型</title>
       <link>https://www.reuters.com/business/autos-transportation/chinese-ev-makers-take-centre-stage-bangkok-motor-show-unveil-new-models-2024-03-25/</link>
       <description><![CDATA[受强劲电动汽车销量的推动，中国汽车制造商将在本周的曼谷国际汽车展上成为众人瞩目的焦点，突显出长期主导泰国汽车市场的日本汽车巨头面临的日益严峻的挑战。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinese-ev-makers-take-centre-stage-bangkok-motor-show-unveil-new-models-2024-03-25/</guid>
@@ -111,9 +97,23 @@
       <pubDate>Mon, 25 Mar 2024 05:02:50 GMT</pubDate>
     </item>
     <item>
+      <title>小米首席执行官调侃即将推出的汽车的价格，展厅开始展示车辆</title>
+      <link>https://www.reuters.com/technology/xiaomi-car-app-launched-apples-app-store-china-2024-03-25/</link>
+      <description><![CDATA[小米首席执行官周一表示，该公司的首款电动汽车旨在成为价格低于 50 万元（69,424 美元）的“最漂亮、最容易驾驶和最智能的汽车”，这家中国电子制造商本周正在准备接受订单。]]></description>
+      <guid>https://www.reuters.com/technology/xiaomi-car-app-launched-apples-app-store-china-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 04:17:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>台湾前总统马英九将第二次访华</title>
+      <link>https://www.reuters.com/world/asia-pacific/former-taiwan-president-ma-make-second-trip-china-2024-03-25/</link>
+      <description><![CDATA[台湾前总统马英九将于下月第二次访问中国，他的办公室周一表示，在台海局势持续紧张之际，他将率领学生团队进行为期 11 天的访问，访问北京等地。 。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/former-taiwan-president-ma-make-second-trip-china-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 03:21:21 GMT</pubDate>
+    </item>
+    <item>
       <title>中国誓言在产业升级过程中平等对待外国企业</title>
       <link>https://www.reuters.com/world/china/china-safeguard-national-treatment-foreign-funded-firms-2024-03-25/</link>
-      <description><![CDATA[随着亚洲最大经济体升级和强化其产业链，中国周一承诺将给予外国企业与国内企业同等的待遇，以吸引更多的外国投资、合作和专业知识。]]></description>
+      <description><![CDATA[随着亚洲最大经济体升级和强化产业链，中国周一承诺将给予外国企业与国内企业同等的待遇，以吸引更多的外国投资、合作和专业知识。]]></description>
       <guid>https://www.reuters.com/world/china/china-safeguard-national-treatment-foreign-funded-firms-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 01:34:12 GMT</pubDate>
     </item>
@@ -127,14 +127,14 @@
     <item>
       <title>消息人士称，随着中国威胁迫在眉睫，美国将目光转向在日本的军事指挥</title>
       <link>https://www.reuters.com/world/us-japan-plan-biggest-upgrade-security-pact-more-than-60-years-ft-reports-2024-03-24/</link>
-      <description><![CDATA[两位消息人士称，美国总统乔·拜登和日本首相岸田文雄将于下个月同意加强军事合作，包括就华盛顿东亚指挥结构数十年来最大的潜在变化进行会谈。]]></description>
+      <description><![CDATA[两名消息人士称，美国总统乔·拜登和日本首相岸田文雄将于下个月同意加强军事合作，包括就华盛顿东亚指挥结构数十年来最大的潜在变化进行会谈。]]></description>
       <guid>https://www.reuters.com/world/us-japan-plan-biggest-upgrade-security-pact-more-than-60-years-ft-reports-2024-03-24/</guid>
       <pubDate>Sun, 24 Mar 2024 18:25:50 GMT</pubDate>
     </item>
     <item>
       <title>恒大清算人称公司、SJ和天际撤回在美国的第15章申请</title>
       <link>https://www.reuters.com/business/evergrandes-liquidators-say-company-sj-tianji-withdraw-chapter-15-applications-2024-03-24/</link>
-      <description><![CDATA[这家中国房地产公司在向香港证券交易所提交的文件中表示，该公司、SJ和天脊集团周五向美国法院提交文件，撤回第15章破产保护申请，该公司清算人表示。]]></description>
+      <description><![CDATA[恒大地产在向香港证券交易所提交的文件中表示，该公司、SJ和天脊集团周五向美国法院提交了文件，要求撤回第15章破产保护申请。]]></description>
       <guid>https://www.reuters.com/business/evergrandes-liquidators-say-company-sj-tianji-withdraw-chapter-15-applications-2024-03-24/</guid>
       <pubDate>Sun, 24 Mar 2024 11:21:10 GMT</pubDate>
     </item>
