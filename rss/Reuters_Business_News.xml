@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 25 Mar 2024 23:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 23:38:44 GMT</lastBuildDate>
+    <item>
+      <title>早盘买盘：人民币波动，日元脆弱，市场情绪降温</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-25/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 21:47:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>戴尔裁员作为更广泛成本削减的一部分</title>
+      <link>https://www.reuters.com/technology/dell-lays-off-workforce-part-broader-cost-cuts-2024-03-25/</link>
+      <description><![CDATA[戴尔科技集团周一表示，作为更广泛的降低成本计划的一部分，该公司将裁员。]]></description>
+      <guid>https://www.reuters.com/technology/dell-lays-off-workforce-part-broader-cost-cuts-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 20:54:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>对冲基金抛弃美国股票涌向欧洲</title>
+      <link>https://www.reuters.com/markets/hedge-flow-hedge-funds-flock-europe-ditch-us-stocks-2024-03-25/</link>
+      <description><![CDATA[摩根士丹利的专有数据显示，全球对冲基金今年一直在投资组合中增加欧洲股票，同时削减对北美的投资，因为有关美国股市有多贵的争论仍在继续。]]></description>
+      <guid>https://www.reuters.com/markets/hedge-flow-hedge-funds-flock-europe-ditch-us-stocks-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 20:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币上涨 7.15% 至 70,900 美元</title>
+      <link>https://www.reuters.com/technology/bitcoin-rises-1163-70900-2024-03-25/</link>
+      <description><![CDATA[截至 2010 年格林尼治标准时间，周一比特币上涨 7.15% 至 70,900 美元。]]></description>
+      <guid>https://www.reuters.com/technology/bitcoin-rises-1163-70900-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 20:19:44 GMT</pubDate>
+    </item>
     <item>
       <title>首席法律官称，美国 SEC 向 Ripple Labs 寻求 20 亿美元资金</title>
       <link>https://www.reuters.com/markets/us/sec-seeking-2-billion-ripple-labs-chief-legal-officer-says-2024-03-25/</link>
@@ -20,16 +48,16 @@
       <pubDate>Mon, 25 Mar 2024 18:44:59 GMT</pubDate>
     </item>
     <item>
-      <title>花旗集团裁员 5000 人后将于本周完成全面重组</title>
+      <title>花旗集团裁员 5000 人后将于本周结束全面改革</title>
       <link>https://www.reuters.com/business/finance/citigroup-says-reorganization-has-concluded-2024-03-25/</link>
-      <description><![CDATA[花旗集团周一表示，自 9 月份以来已裁员 5,000 人，该行正处于旨在简化结构并提高利润的全面改革的最后阶段。]]></description>
+      <description><![CDATA[花旗集团表示，自去年 9 月以来已裁减了 5,000 名员工，该行表示，该行正处于简化结构和提高业绩的全面改革的最后阶段。]]></description>
       <guid>https://www.reuters.com/business/finance/citigroup-says-reorganization-has-concluded-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 17:46:14 GMT</pubDate>
     </item>
     <item>
-      <title>Reddit 期权推出吸引多头，股价扩大涨幅</title>
+      <title>Reddit 期权推出吸引多头，股价飙升</title>
       <link>https://www.reuters.com/technology/reddit-options-launch-draws-bulls-shares-extend-gains-2024-03-25/</link>
-      <description><![CDATA[周一，Reddit 上的期权吸引了一系列看涨押注，该社交媒体平台的股价在上周强劲上市后上涨了 16%。]]></description>
+      <description><![CDATA[周一在 Reddit 上推出的期权吸引了一系列看涨押注，一些分析师表示，继上周强势上市后，这有助于提振该社交媒体平台的股价。]]></description>
       <guid>https://www.reuters.com/technology/reddit-options-launch-draws-bulls-shares-extend-gains-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 17:41:36 GMT</pubDate>
     </item>
@@ -48,13 +76,6 @@
       <pubDate>Mon, 25 Mar 2024 16:36:59 GMT</pubDate>
     </item>
     <item>
-      <title>路透调查显示，阿根廷经济活动在 Milei 首个完整月份可能下滑 5.5%</title>
-      <link>https://www.reuters.com/world/americas/argentina-economic-activity-likely-slid-55-mileis-first-full-month-2024-03-25/</link>
-      <description><![CDATA[路透社周一的一项分析师调查显示，阿根廷1月份经济活动可能按年率下降5.5%，这将是自总统哈维尔·米莱(Javier Milei)于12月10日上任以来的第一个完整月数据大幅下降。]]></description>
-      <guid>https://www.reuters.com/world/americas/argentina-economic-activity-likely-slid-55-mileis-first-full-month-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 16:36:18 GMT</pubDate>
-    </item>
-    <item>
       <title>即将卸任首席执行官卡尔霍恩领导下的波音公司经历了动荡的四年</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeings-tumultuous-four-years-under-outgoing-ceo-calhoun-2024-03-25/</link>
       <description><![CDATA[波音公司的戴维·卡尔霍恩 (David Calhoun) 将于 2024 年底辞去首席执行官一职，结束执掌公司的四年动荡岁月。这家标志性飞机制造商正寻求解决 1 月份 737 MAX 飞机空中面板爆炸事件后不断加剧的安全危机。]]></description>
@@ -69,25 +90,11 @@
       <pubDate>Mon, 25 Mar 2024 15:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>田纳西州的大众工人将于四月投票决定是否加入 UAW</title>
-      <link>https://www.reuters.com/business/autos-transportation/vw-workers-tennessee-will-vote-april-whether-join-uaw-2024-03-25/</link>
-      <description><![CDATA[大众汽车位于田纳西州查塔努加的装配厂的工人们将于四月投票决定是否加入美国汽车工人联合会，这是对美国汽车工人联合会主席肖恩·费恩(Shawn Fain)将工会影响力扩大到外资汽车制造商的运动的一次考验。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/vw-workers-tennessee-will-vote-april-whether-join-uaw-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 15:14:38 GMT</pubDate>
-    </item>
-    <item>
       <title>消费者效仿美国司法部诉讼起诉苹果</title>
       <link>https://www.reuters.com/technology/consumers-sue-apple-taking-page-us-justice-department-lawsuit-2024-03-25/</link>
       <description><![CDATA[苹果公司因美国司法部和 15 个州上周提起的大规模反垄断诉讼而受到一系列新的消费者诉讼，指控这家 iPhone 制造商垄断智能手机市场。]]></description>
       <guid>https://www.reuters.com/technology/consumers-sue-apple-taking-page-us-justice-department-lawsuit-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 15:10:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管经济复苏，意大利贫困率仍创新高</title>
-      <link>https://www.reuters.com/markets/europe/poverty-italy-hits-new-high-despite-economic-recovery-2024-03-25/</link>
-      <description><![CDATA[周一的数据显示，尽管自新冠相关限制放松以来经济出现反弹，但意大利的贫困人口数量在 2023 年仍升至约十年来的最高水平。]]></description>
-      <guid>https://www.reuters.com/markets/europe/poverty-italy-hits-new-high-despite-economic-recovery-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 15:07:56 GMT</pubDate>
     </item>
     <item>
       <title>美国新屋销售下降；中位价格为 2-1/2 年来最低</title>
@@ -97,9 +104,9 @@
       <pubDate>Mon, 25 Mar 2024 14:19:54 GMT</pubDate>
     </item>
     <item>
-      <title>与大型汽车制造商的交易谈判破裂后，菲斯克股票暂停</title>
+      <title>菲斯克与大型汽车制造商的交易谈判失败，纽约证券交易所将股票退市</title>
       <link>https://www.reuters.com/business/autos-transportation/ev-startup-fiskers-deal-talks-with-large-automaker-ends-2024-03-25/</link>
-      <description><![CDATA[菲斯克周一表示，由于这家资金短缺的初创公司上周暂停了电动汽车生产，其不确定性越来越大，与一家大型汽车制造商的潜在交易谈判已经破裂。]]></description>
+      <description><![CDATA[资金短缺的菲斯克与一家大型汽车制造商的潜在交易谈判破裂，纽约证券交易所计划因价格水平“异常低”而将这家电动汽车初创公司的股票摘牌。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ev-startup-fiskers-deal-talks-with-large-automaker-ends-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 13:29:32 GMT</pubDate>
     </item>
@@ -111,16 +118,9 @@
       <pubDate>Mon, 25 Mar 2024 12:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>独家：通过瞄准软件来打破英伟达对人工智能控制的阴谋背后</title>
-      <link>https://www.reuters.com/technology/behind-plot-break-nvidias-grip-ai-by-targeting-software-2024-03-25/</link>
-      <description><![CDATA[英伟达通过生产人工智能芯片赢得了 2.2 万亿美元的市值，这些芯片已成为从初创公司到微软、OpenAI 和谷歌母公司 Alphabet 等生成式 AI 开发人员新时代的命脉。]]></description>
-      <guid>https://www.reuters.com/technology/behind-plot-break-nvidias-grip-ai-by-targeting-software-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 11:04:20 GMT</pubDate>
-    </item>
-    <item>
       <title>美联储预计降息，提振拜登前景</title>
       <link>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</link>
-      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民调显示美国人不喜欢他对经济的处理方式。]]></description>
+      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民意调查显示美国人不喜欢他对经济的处理方式。]]></description>
       <guid>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 10:12:39 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>股市在强劲的一周后下跌，投资者评估美联储的利率路径</title>
       <link>https://www.reuters.com/markets/us/futures-ease-start-holiday-shortened-week-2024-03-25/</link>
-      <description><![CDATA[道琼斯指数和标准普尔 500 指数周一下跌，这是该指数今年最大周百分比涨幅后的首个交易日，因为投资者在假期晚些时候发布的关键通胀数据之前评估了美联储可能的利率走势。缩短了一周。]]></description>
+      <description><![CDATA[道琼斯指数和标准普尔 500 指数周一下跌，这是该指数今年最大周百分比涨幅后的第一个交易日，因为投资者在假期晚些时候公布的关键通胀数据之前评估了美联储可能的利率走势。缩短了一周。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-start-holiday-shortened-week-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 09:58:00 GMT</pubDate>
     </item>
