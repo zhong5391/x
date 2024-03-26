@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 26 Mar 2024 14:40:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 14:53:44 GMT</lastBuildDate>
+    <item>
+      <title>智利锂矿商 SQM 与中国合作伙伴就 Codelco 交易发生争执</title>
+      <link>https://www.reuters.com/markets/commodities/chile-lithium-miner-sqm-spars-with-china-partner-over-codelco-deal-2024-03-26/</link>
+      <description><![CDATA[智利矿业公司 SQM 董事会主席对他所说的大股东中国天齐锂业有限公司的可疑动机提出了质疑，这是针对 SQM 计划与国有铜生产商 Codelco 合作的日益公开的争执的最新一击。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/chile-lithium-miner-sqm-spars-with-china-partner-over-codelco-deal-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 14:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canada Goose 将削减 17% 的企业员工以削减成本</title>
+      <link>https://www.reuters.com/business/retail-consumer/canada-goose-reduce-17-corporate-workforce-2024-03-26/</link>
+      <description><![CDATA[豪华派克大衣制造商加拿大鹅 (Canada Goose) 周二表示，该公司将在全球裁员约 17%，这是在美国对高端商品的需求仍然面临压力之际控制成本的努力的一部分。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/canada-goose-reduce-17-corporate-workforce-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 13:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国就网络争端召见中国临时代办</title>
+      <link>https://www.reuters.com/world/uk/britain-summons-chinese-charge-daffaires-over-cyber-row-2024-03-26/</link>
+      <description><![CDATA[英国周二召见中国驻伦敦大使馆临时代办，谴责中国政府附属机构涉嫌针对英国民主制度的网络活动。]]></description>
+      <guid>https://www.reuters.com/world/uk/britain-summons-chinese-charge-daffaires-over-cyber-row-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 13:22:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国电动汽车巨头比亚迪公布两年来最慢季度利润增长</title>
+      <link>https://www.reuters.com/business/autos-transportation/china-ev-giant-byd-posts-slowest-quarterly-profit-growth-2-years-2024-03-26/</link>
+      <description><![CDATA[中国电动汽车巨头比亚迪周二公布，第四季度利润增长 18.6%，为 2022 年第一季度以来的最低增幅，原因是电动汽车销售在全球最大汽车市场因残酷的价格战而失去动力。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/china-ev-giant-byd-posts-slowest-quarterly-profit-growth-2-years-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 12:58:04 GMT</pubDate>
+    </item>
     <item>
       <title>香港寻求亚洲艺术中心地位；批评者担心自由</title>
       <link>https://www.reuters.com/world/china/hong-kong-seeks-asian-arts-hub-status-critics-worry-about-freedoms-2024-03-26/</link>
@@ -20,9 +48,9 @@
       <pubDate>Tue, 26 Mar 2024 10:49:03 GMT</pubDate>
     </item>
     <item>
-      <title>中国在世贸组织就“歧视性补贴”向美国提起争端</title>
+      <title>中国向世贸组织提起针对美国补贴的争端以保护其电动汽车产业</title>
       <link>https://www.reuters.com/world/china-opens-dispute-against-us-wto-over-discriminatory-subsidies-2024-03-26/</link>
-      <description><![CDATA[中国常驻世贸组织代表团周二表示，中国已向世界贸易组织（WTO）启动针对美国的争端解决程序，以维护其在电动汽车行业的利益。]]></description>
+      <description><![CDATA[中国代表团周二表示，中国已在世界贸易组织启动针对美国的争端解决程序，以维护其在电动汽车行业的利益，世界贸易组织也证实了这一点。]]></description>
       <guid>https://www.reuters.com/world/china-opens-dispute-against-us-wto-over-discriminatory-subsidies-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 10:45:36 GMT</pubDate>
     </item>
@@ -43,7 +71,7 @@
     <item>
       <title>金正恩的妹妹表示，朝鲜没有兴趣与日本举行峰会或会谈</title>
       <link>https://www.reuters.com/world/europe/north-korea-says-no-interest-summit-with-japan-rejects-more-talks-2024-03-26/</link>
-      <description><![CDATA[据朝鲜官方媒体朝中社报道，朝鲜周二表示无意与日本举行峰会，并将拒绝任何会谈，这可能会使两国之间本已敌对的关系进一步恶化。]]></description>
+      <description><![CDATA[据官方媒体朝中社报道，朝鲜周二表示无意与日本举行峰会，并将拒绝任何会谈，这可能会使两国之间本已敌对的关系进一步恶化。]]></description>
       <guid>https://www.reuters.com/world/europe/north-korea-says-no-interest-summit-with-japan-rejects-more-talks-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 09:36:14 GMT</pubDate>
     </item>
@@ -62,7 +90,7 @@
       <pubDate>Tue, 26 Mar 2024 09:08:32 GMT</pubDate>
     </item>
     <item>
-      <title>瑞银将提振亚洲资产，看好财富和资产管理业务的增长</title>
+      <title>瑞银将增加亚洲资产，看好财富和资产管理业务的增长</title>
       <link>https://www.reuters.com/business/finance/ubs-boost-asia-sourced-assets-20-five-six-years-ceo-says-2024-03-26/</link>
       <description><![CDATA[瑞银首席执行官塞尔吉奥·埃尔莫蒂(Sergio Ermotti)周二表示，瑞银计划通过财富和资产管理来增加来自亚洲客户的资产，以维持其增长模式。]]></description>
       <guid>https://www.reuters.com/business/finance/ubs-boost-asia-sourced-assets-20-five-six-years-ceo-says-2024-03-26/</guid>
@@ -78,7 +106,7 @@
     <item>
       <title>APT31：全球网络间谍活动背后的中国黑客组织</title>
       <link>https://www.reuters.com/technology/cybersecurity/apt31-chinese-hacking-group-behind-global-cyberespionage-campaign-2024-03-26/</link>
-      <description><![CDATA[美国和英国对一家与中国国家支持的名为 APT31 的黑客组织有关联的公司和个人提出指控并实施制裁，称该组织参与了大规模的网络间谍活动。]]></description>
+      <description><![CDATA[美国和英国对一家与中国政府支持的名为 APT31 的黑客组织有关联的公司和个人提出指控并实施制裁，称该组织参与了大规模的网络间谍活动。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/apt31-chinese-hacking-group-behind-global-cyberespionage-campaign-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 08:36:26 GMT</pubDate>
     </item>
@@ -97,20 +125,6 @@
       <pubDate>Tue, 26 Mar 2024 07:54:43 GMT</pubDate>
     </item>
     <item>
-      <title>金砖国家开发银行计划2024年贷款50亿美元</title>
-      <link>https://www.reuters.com/business/finance/brics-development-bank-aims-make-5-bln-loans-2024-2024-03-26/</link>
-      <description><![CDATA[由新兴经济体金砖国家集团设立的金砖国家新开发银行(NDB)副行长周强武周二表示，今年的目标是发放约50亿美元的贷款。]]></description>
-      <guid>https://www.reuters.com/business/finance/brics-development-bank-aims-make-5-bln-loans-2024-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 06:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>官员称，武装分子袭击巴基斯坦海军基地造成六人死亡</title>
-      <link>https://www.reuters.com/world/asia-pacific/six-killed-militant-attack-pakistan-naval-base-say-officials-2024-03-26/</link>
-      <description><![CDATA[官员周二表示，武装分子袭击了巴基斯坦海军空军基地，造成至少一名准军事士兵死亡，安全部队在报复性开火中击毙了所有五名袭击者。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/six-killed-militant-attack-pakistan-naval-base-say-officials-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 05:47:02 GMT</pubDate>
-    </item>
-    <item>
       <title>中国为应对低出生率和高成本，鼓励节俭婚礼</title>
       <link>https://www.reuters.com/world/china/china-battling-low-birth-rates-high-costs-encourages-frugal-weddings-2024-03-26/</link>
       <description><![CDATA[在负责妇女权利的政府机构发表了一篇敦促婚礼更加节俭的文章后，中国的年轻夫妇计划举办“简单”的婚礼，而不是传统的数百名宾客的宴会，成为网上最热门的话题之一。]]></description>
@@ -118,32 +132,18 @@
       <pubDate>Tue, 26 Mar 2024 05:43:21 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，中国国家主席习近平将于周三会见美国高管</title>
-      <link>https://www.reuters.com/business/chinas-xi-jinping-meet-with-american-executives-wednesday-sources-say-2024-03-26/</link>
-      <description><![CDATA[据三位知情人士透露，中国国家主席习近平将于周三在北京会见美国商界领袖，这是他 11 月份在旧金山与美国投资者共进晚餐的后续行动。]]></description>
-      <guid>https://www.reuters.com/business/chinas-xi-jinping-meet-with-american-executives-wednesday-sources-say-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 04:41:04 GMT</pubDate>
-    </item>
-    <item>
       <title>前中国足协主席因腐败被判无期徒刑</title>
       <link>https://www.reuters.com/sports/soccer/ex-head-china-football-association-sentenced-life-prison-state-media-report-2024-03-26/</link>
-      <description><![CDATA[据官方媒体周二报道，中国足协一名前主席因收受超过 1000 万美元的贿赂而被判处无期徒刑，此前这是足坛多年来最大规模的反腐败调查之一。]]></description>
+      <description><![CDATA[据官方媒体周二报道，中国足协一名前主席因收受超过 1000 万美元的贿赂而被判处无期徒刑，此前这是该运动领域多年来最大规模的反腐败调查之一。]]></description>
       <guid>https://www.reuters.com/sports/soccer/ex-head-china-football-association-sentenced-life-prison-state-media-report-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 02:30:52 GMT</pubDate>
     </item>
     <item>
-      <title>财政部长发表言论后日元企稳，美元下跌</title>
+      <title>外汇 财政部长发表言论后日元企稳，美元下跌</title>
       <link>https://www.reuters.com/markets/currencies/dollar-dips-yen-draws-support-tokyos-jawboning-2024-03-26/</link>
       <description><![CDATA[由于日本官员继续进行口头干预，日元周二企稳，略低于 34 年来的最低水平，而美元则处于不利地位。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-dips-yen-draws-support-tokyos-jawboning-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 01:09:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国、英国指责中国进行网络间谍活动，影响数百万人</title>
-      <link>https://www.reuters.com/technology/cybersecurity/us-sanctions-chinese-cyberespionage-firm-saying-it-hacked-us-energy-industry-2024-03-25/</link>
-      <description><![CDATA[美国和英国官员周一提出指控，实施制裁，并指责北京开展广泛的网络间谍活动，据称该活动影响了数百万人，包括立法者、学者和记者，以及包括国防承包商在内的公司。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/us-sanctions-chinese-cyberespionage-firm-saying-it-hacked-us-energy-industry-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 15:50:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
