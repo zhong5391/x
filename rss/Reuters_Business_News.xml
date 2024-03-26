@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 26 Mar 2024 04:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 05:17:21 GMT</lastBuildDate>
+    <item>
+      <title>泰国汽车 2 月份产量因电动汽车进口同比下降 19.3%，皮卡车产量下降</title>
+      <link>https://www.reuters.com/business/autos-transportation/thai-car-feb-production-drops-193-yy-ev-imports-lower-pickup-truck-output-2024-03-26/</link>
+      <description><![CDATA[泰国工业联合会周二表示，2 月份泰国汽车产量同比下降 19.28%，至 133,690 辆，主要原因是皮卡车和更多进口电动汽车 (EV) 产量下降。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/thai-car-feb-production-drops-193-yy-ev-imports-lower-pickup-truck-output-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 03:48:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>股市受到利率风险的困扰；人民币波动</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-26/</link>
+      <description><![CDATA[亚洲股市周二上涨，但未能突破本月高点，因为美联储政策制定者的喜忧参半的信息使人们对降息时机产生了疑虑。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 02:32:58 GMT</pubDate>
+    </item>
     <item>
       <title>供应紧张预期推动油价延续上涨势头</title>
       <link>https://www.reuters.com/markets/commodities/oil-prices-extend-upward-momentum-expectations-tighter-supply-2024-03-26/</link>
@@ -27,9 +41,9 @@
       <pubDate>Tue, 26 Mar 2024 01:04:31 GMT</pubDate>
     </item>
     <item>
-      <title>韩国消费者信心因食品通胀担忧而下降</title>
+      <title>由于食品通胀成为首要选举问题，韩国消费者信心下降</title>
       <link>https://www.reuters.com/markets/asia/south-korea-consumer-sentiment-drops-worries-about-food-inflation-2024-03-26/</link>
-      <description><![CDATA[距离韩国立法选举还有两周，央行周二的一项调查显示，由于对农产品价格上涨的担忧日益加剧，韩国 3 月份消费者信心下降。]]></description>
+      <description><![CDATA[韩国央行周二的一项调查显示，由于对农产品价格上涨的担忧日益加剧，韩国 3 月份消费者信心大幅下降，通胀问题将成为下个月选举的一个主要政策问题。]]></description>
       <guid>https://www.reuters.com/markets/asia/south-korea-consumer-sentiment-drops-worries-about-food-inflation-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 00:39:35 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>日本2月份企业服务通胀稳定</title>
       <link>https://www.reuters.com/markets/asia/japans-corporate-service-inflation-steady-february-2024-03-26/</link>
-      <description><![CDATA[日本 2 月份企业对企业服务年度通胀率稳定在 2.1%，这表明企业由于工资持续增长的前景而继续转嫁劳动力成本上涨。]]></description>
+      <description><![CDATA[日本 2 月份企业对企业服务年度通胀率稳定在 2.1%，这表明企业由于工资持续上涨的前景而继续转嫁劳动力成本上涨。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-corporate-service-inflation-steady-february-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 00:12:45 GMT</pubDate>
     </item>
@@ -53,20 +67,6 @@
       <description><![CDATA[据 The Verge 周一援引一份内部备忘录报道，微软已任命 Pavan Davuluri 为 Windows 和 Surface 的新任主管。]]></description>
       <guid>https://www.reuters.com/technology/microsoft-names-new-windows-surface-chief-verge-reports-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 00:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本表示不排除采取任何措施遏制日元贬值</title>
-      <link>https://www.reuters.com/markets/asia/japan-finance-minister-says-he-wont-rule-out-any-steps-stem-weak-yen-2024-03-26/</link>
-      <description><![CDATA[日本财务大臣铃木俊一周二表示，他不排除采取任何措施遏制日元疲软，呼应了该国最高货币外交官前一天的警告。]]></description>
-      <guid>https://www.reuters.com/markets/asia/japan-finance-minister-says-he-wont-rule-out-any-steps-stem-weak-yen-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 00:04:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blackstone 旗下的 Crown Resorts 适合持有墨尔本赌场牌照</title>
-      <link>https://www.reuters.com/business/blackstone-owned-crown-resorts-found-fit-hold-melbourne-casino-license-2024-03-25/</link>
-      <description><![CDATA[博彩监管机构周二表示，黑石集团旗下的皇冠度假村可以保留其墨尔本旗舰赌场的经营许可证，距离该赌场因违反反洗钱法而受到政府监管已有两年多。]]></description>
-      <guid>https://www.reuters.com/business/blackstone-owned-crown-resorts-found-fit-hold-melbourne-casino-license-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 23:47:39 GMT</pubDate>
     </item>
     <item>
       <title>科罗拉多州阻止 Kroger-Albertsons 合并的提议将于 8 月举行听证会</title>
@@ -106,14 +106,14 @@
     <item>
       <title>菲斯克与大型汽车制造商的交易谈判失败，纽约证券交易所将股票退市</title>
       <link>https://www.reuters.com/business/autos-transportation/ev-startup-fiskers-deal-talks-with-large-automaker-ends-2024-03-25/</link>
-      <description><![CDATA[资金短缺的菲斯克与一家大型汽车制造商的潜在交易谈判破裂，纽约证券交易所计划因价格水平“异常低”而将这家电动汽车初创公司的股票摘牌。]]></description>
+      <description><![CDATA[资金短缺的菲斯克与一家大型汽车制造商的潜在交易谈判破裂，纽约证券交易所计划因价格水平“异常低”而将这家电动汽车初创公司的股票退市。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ev-startup-fiskers-deal-talks-with-large-automaker-ends-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 13:29:32 GMT</pubDate>
     </item>
     <item>
       <title>波音公司首席执行官戴夫·卡尔霍恩在安全危机中因人事变动而辞职</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeing-ceo-calhoun-step-down-2024-03-25/</link>
-      <description><![CDATA[波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 将在年底前辞职，此次管理层变动是由于 1 月份 737 MAX 飞机空中面板爆炸而引发的广泛安全危机而引发的。]]></description>
+      <description><![CDATA[波音公司首席执行官戴夫·卡尔霍恩 (Dave Calhoun) 将在年底前辞职，此次管理层变动是由于 1 月份一架 737 MAX 飞机在空中发生面板爆炸事件而加剧的严重安全危机，这引发了该公司的广泛安全危机。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeing-ceo-calhoun-step-down-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 12:05:21 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>美联储预计降息，提振拜登前景</title>
       <link>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</link>
-      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民意调查显示美国人不喜欢他对经济的处理方式。]]></description>
+      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民调显示美国人不喜欢他对经济的处理方式。]]></description>
       <guid>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 10:12:39 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>股市在强劲的一周后下跌，投资者评估美联储的利率路径</title>
       <link>https://www.reuters.com/markets/us/futures-ease-start-holiday-shortened-week-2024-03-25/</link>
-      <description><![CDATA[道琼斯指数和标准普尔 500 指数周一下跌，这是该指数今年最大周百分比涨幅后的第一个交易日，因为投资者在假期晚些时候公布的关键通胀数据之前评估了美联储可能的利率走势。缩短了一周。]]></description>
+      <description><![CDATA[道琼斯指数和标准普尔 500 指数周一下跌，这是该指数今年最大周百分比涨幅后的首个交易日，因为投资者在假期晚些时候发布的关键通胀数据之前评估了美联储可能的利率走势。缩短了一周。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-start-holiday-shortened-week-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 09:58:00 GMT</pubDate>
     </item>
