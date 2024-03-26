@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 26 Mar 2024 08:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 09:49:34 GMT</lastBuildDate>
+    <item>
+      <title>韩国对中国对菲律宾船只使用高压水枪表示“严重关切”</title>
+      <link>https://www.reuters.com/world/asia-pacific/south-korea-has-grave-concerns-over-china-using-water-cannons-against-philippine-2024-03-26/</link>
+      <description><![CDATA[韩国外交部周二对中国最近对菲律宾船只使用水炮表示“严重关切”，称这加剧了南海紧张局势并破坏了海上秩序。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/south-korea-has-grave-concerns-over-china-using-water-cannons-against-philippine-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 07:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国外交部称英方就黑客指控提供的证据不充分</title>
+      <link>https://www.reuters.com/technology/cybersecurity/evidence-britain-provided-hacking-allegations-was-insufficient-says-chinese-2024-03-26/</link>
+      <description><![CDATA[中国外交部发言人周二表示，中国已对英国的黑客指控作出回应，称中方提供的证据不足。]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/evidence-britain-provided-hacking-allegations-was-insufficient-says-chinese-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 07:54:43 GMT</pubDate>
+    </item>
     <item>
       <title>金砖国家开发银行计划2024年贷款50亿美元</title>
       <link>https://www.reuters.com/business/finance/brics-development-bank-aims-make-5-bln-loans-2024-2024-03-26/</link>
@@ -29,12 +43,12 @@
     <item>
       <title>中国为应对低出生率和高成本，鼓励节俭婚礼</title>
       <link>https://www.reuters.com/world/china/china-battling-low-birth-rates-high-costs-encourages-frugal-weddings-2024-03-26/</link>
-      <description><![CDATA[在负责妇女权利的政府机构发表了一篇敦促婚礼更加节俭的文章后，中国的年轻夫妇计划举办“简单”的婚礼，而不是传统的数百名宾客的宴会，成为网上最热门的话题之一。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.reuters.com/world/china/china-battling-low-birth-rates-high-costs-encourages-frugal-weddings-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 05:43:21 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，中国国家主席习近平将于周三会见美国高管</title>
+      <title></title>
       <link>https://www.reuters.com/business/chinas-xi-jinping-meet-with-american-executives-wednesday-sources-say-2024-03-26/</link>
       <description><![CDATA[据三位知情人士透露，中国国家主席习近平将于周三在北京会见美国商界领袖，这是他 11 月份在旧金山与美国投资者共进晚餐的后续行动。]]></description>
       <guid>https://www.reuters.com/business/chinas-xi-jinping-meet-with-american-executives-wednesday-sources-say-2024-03-26/</guid>
@@ -50,21 +64,21 @@
     <item>
       <title>渣打银行首席执行官温特斯会见中国外汇监管机构并成立投资银行部门</title>
       <link>https://www.reuters.com/business/finance/stanchart-ceo-winters-meets-china-fx-regulator-launches-investment-banking-unit-2024-03-26/</link>
-      <description><![CDATA[渣打银行首席执行官比尔·温特斯(Bill Winters)周一会见了中国外汇监管机构负责人，一个月前，渣打银行暂停了中国客户通过配额渠道对离岸产品的新投资。]]></description>
+      <description><![CDATA[渣打银行首席执行官比尔·温特斯(Bill Winters)周一会见了中国外汇监管机构负责人。一个月前，渣打银行暂停了中国客户通过配额渠道对离岸产品的新投资。]]></description>
       <guid>https://www.reuters.com/business/finance/stanchart-ceo-winters-meets-china-fx-regulator-launches-investment-banking-unit-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 03:33:34 GMT</pubDate>
     </item>
     <item>
-      <title>股市受到利率风险的困扰；人民币波动</title>
+      <title>亚洲股市因人民币贬值而下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-26/</link>
-      <description><![CDATA[亚洲股市周二上涨，但未能突破本月高点，因为美联储政策制定者的喜忧参半的信息使人们对降息时机产生了疑虑。]]></description>
+      <description><![CDATA[由于美国货币政策制定者发出的喜忧参半的信息以及人民币的波动，周五公布的美国通胀数据给前景带来了不确定性，交易员们感到不安和犹豫，亚洲股市周二难以获得牵引力。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 02:32:58 GMT</pubDate>
     </item>
     <item>
-      <title>前中国足协主席在全面打击腐败后被判无期徒刑</title>
+      <title>前中国足协主席因腐败被判无期徒刑</title>
       <link>https://www.reuters.com/sports/soccer/ex-head-china-football-association-sentenced-life-prison-state-media-report-2024-03-26/</link>
-      <description><![CDATA[据官方媒体周二报道，中国国家足球协会前主席陈戌源因受贿被判处无期徒刑，此前这是足球界多年来最大规模的反腐败调查之一。]]></description>
+      <description><![CDATA[据官方媒体周二报道，中国足协一名前主席因收受超过 1000 万美元的贿赂而被判处无期徒刑，此前这是该运动领域多年来最大规模的反腐败调查之一。]]></description>
       <guid>https://www.reuters.com/sports/soccer/ex-head-china-football-association-sentenced-life-prison-state-media-report-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 02:30:52 GMT</pubDate>
     </item>
@@ -83,9 +97,9 @@
       <pubDate>Tue, 26 Mar 2024 01:30:35 GMT</pubDate>
     </item>
     <item>
-      <title>美元下跌，日元从东京的言论中获得支撑</title>
+      <title>美元走软，日元因东京的喋喋不休而触底</title>
       <link>https://www.reuters.com/markets/currencies/dollar-dips-yen-draws-support-tokyos-jawboning-2024-03-26/</link>
-      <description><![CDATA[由于获利回吐以及日元小幅走强的压力，美元周二处于不利地位，因为日本政府官员继续大肆宣扬捍卫日元。]]></description>
+      <description><![CDATA[由于获利回吐以及日元小幅走强的压力，美元周二处于不利地位，日本政府官员继续大肆宣扬捍卫日元。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-dips-yen-draws-support-tokyos-jawboning-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 01:09:59 GMT</pubDate>
     </item>
@@ -111,20 +125,6 @@
       <pubDate>Mon, 25 Mar 2024 21:47:56 GMT</pubDate>
     </item>
     <item>
-      <title>新西兰指责中国黑客攻击议会并谴责活动</title>
-      <link>https://www.reuters.com/technology/cybersecurity/new-zealand-says-parliamentarian-entities-hit-2021-by-malicious-cyber-activity-2024-03-25/</link>
-      <description><![CDATA[新西兰政府表示，周二已就中国政府参与 2021 年新西兰议会遭受国家支持的网络黑客攻击一事向中国政府表示担忧，此次黑客攻击是由该国情报部门发现的。]]></description>
-      <guid>https://www.reuters.com/technology/cybersecurity/new-zealand-says-parliamentarian-entities-hit-2021-by-malicious-cyber-activity-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 20:31:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>SWIFT 计划在 12-24 个月内推出新的央行数字货币平台</title>
-      <link>https://www.reuters.com/business/finance/swift-planning-launch-new-central-bank-digital-currency-platform-12-24-months-2024-03-25/</link>
-      <description><![CDATA[全球银行信息网络 SWIFT 告诉路透社，该网络正计划在未来一到两年内建立一个新平台，将目前正在开发的央行数字货币浪潮与现有金融系统连接起来。]]></description>
-      <guid>https://www.reuters.com/business/finance/swift-planning-launch-new-central-bank-digital-currency-platform-12-24-months-2024-03-25/</guid>
-      <pubDate>Mon, 25 Mar 2024 18:44:59 GMT</pubDate>
-    </item>
-    <item>
       <title>美国、英国指责中国进行网络间谍活动，影响数百万人</title>
       <link>https://www.reuters.com/technology/cybersecurity/us-sanctions-chinese-cyberespionage-firm-saying-it-hacked-us-energy-industry-2024-03-25/</link>
       <description><![CDATA[美国和英国官员周一提出指控，实施制裁，并指责北京开展广泛的网络间谍活动，据称该活动影响了数百万人，包括立法者、学者和记者，以及包括国防承包商在内的公司。]]></description>
@@ -134,14 +134,14 @@
     <item>
       <title>中国誓言在产业升级过程中平等对待外国企业</title>
       <link>https://www.reuters.com/world/china/china-safeguard-national-treatment-foreign-funded-firms-2024-03-25/</link>
-      <description><![CDATA[随着亚洲最大经济体升级和强化产业链，中国周一承诺将给予外国企业与国内企业同等的待遇，以吸引更多的外国投资、合作和专业知识。]]></description>
+      <description><![CDATA[随着亚洲最大经济体升级和强化其产业链，中国周一承诺将给予外国企业与国内企业同等的待遇，以吸引更多的外国投资、合作和专业知识。]]></description>
       <guid>https://www.reuters.com/world/china/china-safeguard-national-treatment-foreign-funded-firms-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 01:34:12 GMT</pubDate>
     </item>
     <item>
       <title>英国称中国黑客攻击了选举监管机构，针对议员电子邮件</title>
       <link>https://www.reuters.com/world/uk/uk-deputy-pm-set-address-lawmakers-chinese-cyber-security-threat-2024-03-24/</link>
-      <description><![CDATA[英国周一指责中国黑客试图闯入批评中国的英国议员的电子邮件帐户，并表示一个单独的中国实体幕后黑手攻击了其选举监管机构，导致数百万人的数据泄露。]]></description>
+      <description><![CDATA[英国周一指责中国黑客试图闯入批评中国的英国议员的电子邮件帐户，并表示，一个单独的中国实体幕后黑手攻击了其选举监管机构，导致数百万人的数据泄露。]]></description>
       <guid>https://www.reuters.com/world/uk/uk-deputy-pm-set-address-lawmakers-chinese-cyber-security-threat-2024-03-24/</guid>
       <pubDate>Sun, 24 Mar 2024 19:10:52 GMT</pubDate>
     </item>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 26 Mar 2024 08:23:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 09:45:06 GMT</lastBuildDate>
     <item>
       <title>特斯拉将为客户提供为期一个月的驾驶辅助技术试用</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-give-one-month-driver-assist-technology-trial-customers-2024-03-26/</link>
@@ -29,12 +29,12 @@
     <item>
       <title>受电动汽车进口影响，泰国 2 月份汽车产量同比下降 19.3%，皮卡车销量下降</title>
       <link>https://www.reuters.com/business/autos-transportation/thai-car-feb-production-drops-193-yy-ev-imports-lower-pickup-truck-output-2024-03-26/</link>
-      <description><![CDATA[泰国工业联合会周二表示，2 月份泰国汽车产量同比下降 19.28%，至 133,690 辆，主要原因是皮卡车和更多进口电动汽车 (EV) 产量下降。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/thai-car-feb-production-drops-193-yy-ev-imports-lower-pickup-truck-output-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 03:48:50 GMT</pubDate>
     </item>
     <item>
-      <title>股市受到利率风险的困扰；人民币波动</title>
+      <title></title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-26/</link>
       <description><![CDATA[亚洲股市周二上涨，但未能突破本月高点，因为美联储政策制定者的喜忧参半的信息使人们对降息时机产生了疑虑。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-26/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>菲斯克与大型汽车制造商的交易谈判失败，纽约证券交易所将股票退市</title>
       <link>https://www.reuters.com/business/autos-transportation/ev-startup-fiskers-deal-talks-with-large-automaker-ends-2024-03-25/</link>
-      <description><![CDATA[资金短缺的菲斯克与一家大型汽车制造商的潜在交易谈判破裂，纽约证券交易所计划因价格水平“异常低”而将这家电动汽车初创公司的股票摘牌。]]></description>
+      <description><![CDATA[资金短缺的菲斯克与一家大型汽车制造商的潜在交易谈判破裂，纽约证券交易所计划因价格水平“异常低”而将这家电动汽车初创公司的股票退市。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ev-startup-fiskers-deal-talks-with-large-automaker-ends-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 13:29:32 GMT</pubDate>
     </item>
@@ -120,19 +120,19 @@
     <item>
       <title>独家：通过瞄准软件来打破英伟达对人工智能控制的阴谋背后</title>
       <link>https://www.reuters.com/technology/behind-plot-break-nvidias-grip-ai-by-targeting-software-2024-03-25/</link>
-      <description><![CDATA[英伟达通过生产人工智能芯片赢得了 2.2 万亿美元的市值，这些芯片已成为从初创公司到微软、OpenAI 和谷歌母公司 Alphabet 等生成式 AI 开发人员新时代的命脉。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.reuters.com/technology/behind-plot-break-nvidias-grip-ai-by-targeting-software-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 11:04:20 GMT</pubDate>
     </item>
     <item>
       <title>美联储预计降息，提振拜登前景</title>
       <link>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</link>
-      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民意调查显示美国人不喜欢他对经济的处理方式。]]></description>
+      <description><![CDATA[随着总统竞选季的升温，美联储有望降息，这可能会给总统乔·拜登带来提振，因为民调显示美国人不喜欢他对经济的处理方式。]]></description>
       <guid>https://www.reuters.com/markets/us/federal-reserve-expected-cut-rates-lift-bidens-prospects-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 10:12:39 GMT</pubDate>
     </item>
     <item>
-      <title>苹果、谷歌、Meta 成为欧盟首次《数字市场法案》调查的目标</title>
+      <title></title>
       <link>https://www.reuters.com/business/media-telecom/eu-investigate-apple-google-meta-potential-digital-markets-act-breaches-2024-03-25/</link>
       <description><![CDATA[欧洲反垄断监管机构周一表示，苹果、Alphabet 旗下谷歌和 Meta Platforms 将因可能违反欧盟新《数字市场法》而接受调查，这可能导致这些公司面临巨额罚款。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/eu-investigate-apple-google-meta-potential-digital-markets-act-breaches-2024-03-25/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>股市在强劲的一周后下跌，投资者评估美联储的利率路径</title>
       <link>https://www.reuters.com/markets/us/futures-ease-start-holiday-shortened-week-2024-03-25/</link>
-      <description><![CDATA[道琼斯指数和标准普尔 500 指数周一下跌，这是该指数今年最大周百分比涨幅后的第一个交易日，因为投资者在假期晚些时候公布的关键通胀数据之前评估了美联储可能的利率走势。缩短了一周。]]></description>
+      <description><![CDATA[道琼斯指数和标准普尔 500 指数周一下跌，这是该指数今年最大周百分比涨幅后的首个交易日，因为投资者在假期晚些时候发布的关键通胀数据之前评估了美联储可能的利率走势。缩短了一周。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-start-holiday-shortened-week-2024-03-25/</guid>
       <pubDate>Mon, 25 Mar 2024 09:58:00 GMT</pubDate>
     </item>
