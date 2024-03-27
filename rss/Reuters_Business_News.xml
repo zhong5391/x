@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 26 Mar 2024 23:51:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 01:15:40 GMT</lastBuildDate>
+    <item>
+      <title>NBC 新闻推翻了聘用共和党全国委员会前主席罗娜·麦克丹尼尔的决定</title>
+      <link>https://www.reuters.com/business/media-telecom/nbc-news-reverses-decision-hire-former-rnc-chair-ronna-mcdaniel-2024-03-27/</link>
+      <description><![CDATA[NBC新闻台周二撤销了聘请前共和党全国委员会主席罗娜·麦克丹尼尔(Ronna McDaniel)作为付费撰稿人的决定，该公司的一名高级官员告诉员工，此前该网络许多人对她的聘用提出了高调的异议。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/nbc-news-reverses-decision-hire-former-rnc-chair-ronna-mcdaniel-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 00:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>标准普尔全球将五家美国地区银行的前景下调至“负面”</title>
+      <link>https://www.reuters.com/business/finance/sp-global-downgrades-outlooks-five-regional-us-banks-negative-2024-03-26/</link>
+      <description><![CDATA[由于商业房地产（CRE）风险敞口，评级机构标普全球周二将五家美国地区性银行的评级下调至 5 级，此举可能会重新引发投资者对该行业健康状况的担忧。]]></description>
+      <guid>https://www.reuters.com/business/finance/sp-global-downgrades-outlooks-five-regional-us-banks-negative-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 23:22:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Robinhood 使用新信用卡进一步拓展交易范围</title>
+      <link>https://www.reuters.com/business/finance/robinhood-ventures-further-beyond-trading-with-new-credit-card-2024-03-26/</link>
+      <description><![CDATA[在线交易应用程序 Robinhood Markets 周二推出了一款新信用卡，旨在扩大其在个人理财市场的立足点并提高其高级会员的订阅量。]]></description>
+      <guid>https://www.reuters.com/business/finance/robinhood-ventures-further-beyond-trading-with-new-credit-card-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 23:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：习近平会见美国商业领袖，着眼于中国利润</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-26/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 21:48:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>彭博新闻社称，美国证券交易委员会加大了对科技、电信公司的黑客调查力度</title>
+      <link>https://www.reuters.com/technology/cybersecurity/sec-ramps-up-hack-probe-with-focus-tech-telecom-companies-bloomberg-news-says-2024-03-26/</link>
+      <description><![CDATA[据彭博社周二援引知情人士的话报道，美国证券交易委员会正在询问科技和电信公司如何应对 2020 年 SolarWinds 网络攻击。]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/sec-ramps-up-hack-probe-with-focus-tech-telecom-companies-bloomberg-news-says-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 21:22:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克的 xAI 将为 X 的所有高级订阅者启用聊天机器人 Grok</title>
+      <link>https://www.reuters.com/technology/musks-xai-enable-chatbot-grok-all-premium-subscribers-x-2024-03-26/</link>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 周二表示，人工智能初创公司 xAI 的聊天机器人 Grok 将为社交媒体平台 X（以前称为 Twitter）的所有高级订阅者启用。]]></description>
+      <guid>https://www.reuters.com/technology/musks-xai-enable-chatbot-grok-all-premium-subscribers-x-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 21:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国 FDA 批准默克公司治疗罕见肺部疾病的疗法</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-mercks-blood-pressure-therapy-2024-03-26/</link>
+      <description><![CDATA[美国食品和药物管理局周二批准了默克公司用于治疗因肺动脉收缩而导致的成人高血压的药物，为这家制药巨头的产品组合中增加了另一种潜在的重磅药物。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/us-fda-approves-mercks-blood-pressure-therapy-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 21:11:46 GMT</pubDate>
+    </item>
     <item>
       <title>Li-Cycle因电池回收面临困境而裁员17%</title>
       <link>https://www.reuters.com/sustainability/li-cycle-cut-17-staff-amid-battery-recycling-growing-pains-2024-03-26/</link>
@@ -13,9 +62,9 @@
       <pubDate>Tue, 26 Mar 2024 20:19:08 GMT</pubDate>
     </item>
     <item>
-      <title>GameStop季度收入下降，股价下跌19%</title>
+      <title>GameStop 面临“不可持续”的销售下滑，裁员以控制成本</title>
       <link>https://www.reuters.com/technology/gamestop-q4-revenue-falls-2024-03-26/</link>
-      <description><![CDATA[GameStop 周二公布第四季度收入下降，原因是这家视频游戏零售商面临电子商务公司的竞争以及经济不确定性下消费者支出疲软的局面。]]></description>
+      <description><![CDATA[电子游戏零售商 GameStop 周二表示，由于电子商务公司的竞争加剧以及经济不确定性下消费者支出疲软，该公司已裁员，但具体数量不详，以降低成本，并公布第四季度收入下降。]]></description>
       <guid>https://www.reuters.com/technology/gamestop-q4-revenue-falls-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 20:13:28 GMT</pubDate>
     </item>
@@ -27,7 +76,7 @@
       <pubDate>Tue, 26 Mar 2024 20:02:31 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，Phillips 66 正在考虑出售价值超过 10 亿美元的 REX 州际管道股权</title>
+      <title>消息人士称，Phillips 66 正在考虑出售价值超过 10 亿美元的管道股权</title>
       <link>https://www.reuters.com/markets/deals/phillips-66-explores-sale-rex-interstate-pipeline-stake-worth-over-1-billion-2024-03-26/</link>
       <description><![CDATA[知情人士周二表示，美国炼油商 Phillips 66 正在考虑出售其在落基山脉快速管道 (Rockies Express Pipeline) 25% 的股份，希望这些股份（包括债务）价值超过 10 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/deals/phillips-66-explores-sale-rex-interstate-pipeline-stake-worth-over-1-billion-2024-03-26/</guid>
@@ -39,48 +88,6 @@
       <description><![CDATA[一名联邦法官周二裁定，沃尔玛可以提前终止与第一资本的信用卡合作关系，因为该银行未能提供所需水平的客户服务。]]></description>
       <guid>https://www.reuters.com/legal/walmart-can-end-capital-one-credit-card-partnership-early-us-judge-rules-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 19:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>穆迪将波音评级列入下调审查名单</title>
-      <link>https://www.reuters.com/business/aerospace-defense/moodys-places-boeing-ratings-review-downgrade-2024-03-26/</link>
-      <description><![CDATA[穆迪投资者服务公司周二表示，正在考虑下调波音公司的“Baa2”高级无担保评级和“Prime-2”短期评级。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/moodys-places-boeing-ratings-review-downgrade-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 18:57:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>首席执行官拉希尔 (Lashier) 表示，活动人士埃利奥特 (Elliott) 已接受 Phillips 66 的绩效目标</title>
-      <link>https://www.reuters.com/markets/commodities/activist-elliott-has-accepted-phillips-66s-performance-goals-ceo-lashier-2024-03-26/</link>
-      <description><![CDATA[埃利奥特投资管理公司(Elliott Investment Management)首席执行官马克·拉希尔(Mark Lashier)周二在接受采访时表示，激进投资者埃利奥特投资管理公司(Elliott Investment Management)已接受美国炼油商Phillips 66为提高股东回报和股价而制定的业绩改善计划。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/activist-elliott-has-accepted-phillips-66s-performance-goals-ceo-lashier-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 18:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>航运业减排面临燃料困境</title>
-      <link>https://www.reuters.com/sustainability/boards-policy-regulation/shipping-industry-faces-fuel-dilemma-bid-cut-emissions-2024-03-26/</link>
-      <description><![CDATA[高管们表示，航运业面临着越来越大的脱碳压力，但监管指导方针不明确，包括大型船舶应使用哪种清洁燃料，使得实现净零排放的道路变得更加复杂。]]></description>
-      <guid>https://www.reuters.com/sustainability/boards-policy-regulation/shipping-industry-faces-fuel-dilemma-bid-cut-emissions-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 18:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>据《华尔街日报》报道，强生正在洽谈收购 Shockwave Medical</title>
-      <link>https://www.reuters.com/markets/deals/johnson-johnson-considers-deal-buy-shockwave-medical-wsj-reports-2024-03-26/</link>
-      <description><![CDATA[强生公司据《华尔街日报》周二报道，约翰逊正在就收购医疗设备制造商 Shockwave Medical 进行谈判，因为这家医疗保健巨头可能希望扩大其在心血管设备领域的业务。]]></description>
-      <guid>https://www.reuters.com/markets/deals/johnson-johnson-considers-deal-buy-shockwave-medical-wsj-reports-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 18:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>康卡斯特 Peacock 和 Amazon Prime Video 串流独家 NFL 比赛</title>
-      <link>https://www.reuters.com/sports/nfl/comcasts-peacock-amazon-prime-video-stream-exclusive-nfl-games-2024-03-26/</link>
-      <description><![CDATA[NFL 周二表示，康卡斯特的流媒体服务 Peacock 将独家播放国家橄榄球联盟第一周的比赛，作为其 2024 赛季更新的媒体发行协议的一部分。]]></description>
-      <guid>https://www.reuters.com/sports/nfl/comcasts-peacock-amazon-prime-video-stream-exclusive-nfl-games-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 18:05:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国消费者监管机构将审查信用卡奖励和“先买后付”公司</title>
-      <link>https://www.reuters.com/markets/us/us-consumer-watchdog-examine-credit-card-rewards-director-says-2024-03-26/</link>
-      <description><![CDATA[美国最高消费者金融保护机构负责人周二表示，在客户投诉激增后，该机构将审查信用卡奖励计划。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-consumer-watchdog-examine-credit-card-rewards-director-says-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 17:54:43 GMT</pubDate>
     </item>
     <item>
       <title>马斯克向美国客户提供全自动驾驶软件试用，特斯拉股价上涨</title>
@@ -125,16 +132,16 @@
       <pubDate>Tue, 26 Mar 2024 12:46:27 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普旗下媒体公司在华尔街首秀股价飙升50%</title>
+      <title>特朗普的媒体公司在华尔街首秀表现强劲，估值近 80 亿美元</title>
       <link>https://www.reuters.com/markets/us/trumps-media-company-shares-jump-ahead-backdoor-nasdaq-debut-2024-03-26/</link>
-      <description><![CDATA[唐纳德·特朗普的特朗普媒体和公司的股票周二，科技集团在纳斯达克首次亮相，股价飙升近 50%，受到这位美国前总统支持者的提振，并为他在处理几起法律案件的费用之际提供了潜在的意外之财。]]></description>
+      <description><![CDATA[唐纳德·特朗普的特朗普媒体和公司的股票周二，在这位美国前总统的支持者的推动下，科技集团在纳斯达克首次亮相时股价飙升了 59%，并为他在处理几起法律案件的费用之际提供了潜在的意外之财。]]></description>
       <guid>https://www.reuters.com/markets/us/trumps-media-company-shares-jump-ahead-backdoor-nasdaq-debut-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 12:02:05 GMT</pubDate>
     </item>
     <item>
-      <title>投资者关注通胀数据，华尔街变化不大</title>
+      <title>道指、标普指数连续第三个交易日下跌，关注通胀数据</title>
       <link>https://www.reuters.com/business/futures-rise-megacap-chip-stocks-bounce-2024-03-26/</link>
-      <description><![CDATA[美国股市周二变化不大，回吐尾盘小幅涨幅，因投资者等待假期缩短的一周内的经济数据，以评估美联储的政策路径。]]></description>
+      <description><![CDATA[美国股市周二下跌，回吐尾盘小幅涨幅，导致道指和标准普尔 500 指数连续第三次下跌，因投资者等待假期缩短的一周内的经济数据，以衡量美联储的政策路径。]]></description>
       <guid>https://www.reuters.com/business/futures-rise-megacap-chip-stocks-bounce-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 09:54:02 GMT</pubDate>
     </item>
