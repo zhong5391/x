@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 27 Mar 2024 22:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 22:58:40 GMT</lastBuildDate>
+    <item>
+      <title>早盘竞价：日元大坝已决口，但并未决堤</title>
+      <link>https://www.reuters.com/markets/global-markets-view-asia-graphic-pix-2024-03-27/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-view-asia-graphic-pix-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 21:47:21 GMT</pubDate>
+    </item>
     <item>
       <title>美国朝鲜制裁针对个人、俄罗斯、中国和阿联酋公司</title>
       <link>https://www.reuters.com/world/us-north-korea-sanctions-target-individuals-russia-china-uae-based-firms-2024-03-27/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>智利矿业部长敦促SQM和天齐解决争端</title>
       <link>https://www.reuters.com/markets/commodities/chiles-mining-minister-urges-sqm-tianqi-resolve-spat-2024-03-27/</link>
-      <description><![CDATA[智利矿业部长周三敦促智利矿商SQM和该公司大股东中国天齐锂业解决持续的争端，但没有介入他们的私人问题。]]></description>
+      <description><![CDATA[智利矿业部长周三敦促智利矿业公司 SQM 和该公司主要股东中国天齐锂业解决持续的争端，但没有介入他们的私人问题。]]></description>
       <guid>https://www.reuters.com/markets/commodities/chiles-mining-minister-urges-sqm-tianqi-resolve-spat-2024-03-27/</guid>
       <pubDate>Wed, 27 Mar 2024 13:08:37 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>债券持有人团体“坚决反对”中国开发商世茂的债务重组提议</title>
       <link>https://www.reuters.com/business/bondholder-group-firmly-opposes-china-developer-shimaos-debt-revamp-proposal-2024-03-27/</link>
-      <description><![CDATA[违约的中国开发商世茂集团的一群主要债券持有人周三表示，“坚决反对”该公司重组115亿美元离岸债务的提议，在房地产行业危机不断加深的情况下，这给该公司的前景蒙上阴影。]]></description>
+      <description><![CDATA[违约的中国开发商世茂集团的一群主要债券持有人周三表示，“坚决反对”该公司重组115亿美元离岸债务的提议，在房地产行业危机不断加深的情况下，这给该公司的前景蒙上了阴影。]]></description>
       <guid>https://www.reuters.com/business/bondholder-group-firmly-opposes-china-developer-shimaos-debt-revamp-proposal-2024-03-27/</guid>
       <pubDate>Wed, 27 Mar 2024 11:01:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[据俄罗斯国家通讯社塔斯社周三报道，俄罗斯远东一座金矿的大部分救援工作已暂停，3月18日，由于存在再次倒塌的风险，该金矿有13名矿工被困。]]></description>
       <guid>https://www.reuters.com/world/europe/most-rescue-efforts-russian-gold-mine-have-been-suspended-due-risk-another-2024-03-27/</guid>
       <pubDate>Wed, 27 Mar 2024 06:28:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：中国、阿联酋、土耳其加强银行审查，俄罗斯难以收取石油付款</title>
-      <link>https://www.reuters.com/markets/commodities/russia-struggles-collect-oil-payments-china-uae-turkey-raise-bank-scrutiny-2024-03-27/</link>
-      <description><![CDATA[八位知情人士称，由于中国、土耳其和阿联酋的银行对美国的二级制裁变得更加谨慎，俄罗斯石油公司的原油和燃料付款面临长达几个月的延迟。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/russia-struggles-collect-oil-payments-china-uae-turkey-raise-bank-scrutiny-2024-03-27/</guid>
-      <pubDate>Wed, 27 Mar 2024 06:04:24 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，中国碧桂园聘请克罗尔进行清算分析</title>
