@@ -1,16 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 27 Mar 2024 08:52:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 10:07:29 GMT</lastBuildDate>
     <item>
-      <title>独家：软件行业呼吁英国政府提供更多支持</title>
-      <link>https://www.reuters.com/technology/software-industry-calls-more-uk-government-support-2024-03-27/</link>
-      <description><![CDATA[英国政府被敦促通过税收优惠和人才签证等措施为软件行业提供更多支持。]]></description>
-      <guid>https://www.reuters.com/technology/software-industry-calls-more-uk-government-support-2024-03-27/</guid>
-      <pubDate>Wed, 27 Mar 2024 06:10:34 GMT</pubDate>
+      <title>随着人民币贬值，市场押注人民币将进一步贬值</title>
+      <link>https://www.reuters.com/markets/currencies/yuan-skids-markets-bet-more-depreciation-is-store-2024-03-27/</link>
+      <description><![CDATA[中国的人民币正在下滑，市场参与者怀疑当局正在故意但缓慢地让人民币小幅贬值，以补充宽松的货币政策并支持出口。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/yuan-skids-markets-bet-more-depreciation-is-store-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 08:24:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>雷诺将以高达 3.62 亿欧元的价格出售约 2.5% 的日产股份</title>
+      <link>https://www.reuters.com/business/autos-transportation/renault-sell-about-25-nissan-shares-up-362-million-euros-2024-03-27/</link>
+      <description><![CDATA[法国汽车制造商雷诺在一份声明中表示，计划将日产约 2.5% 的股份出售给这家日本汽车制造商，这笔交易可能带来高达 3.62 亿欧元（3.9176 亿美元）的现金流入。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/renault-sell-about-25-nissan-shares-up-362-million-euros-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 08:15:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>国际纸业提出收购建议后 DS Smith 股价上涨 7%</title>
+      <link>https://www.reuters.com/markets/deals/ds-smith-shares-jump-7-after-international-paper-buyout-proposal-2024-03-27/</link>
+      <description><![CDATA[DS Smith 的股价周三开盘上涨 7.7%，此前该公司表示正在与国际纸业就其在美国上市的竞争对手提出的全股票收购要约进行谈判。]]></description>
+      <guid>https://www.reuters.com/markets/deals/ds-smith-shares-jump-7-after-international-paper-buyout-proposal-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 08:14:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称，作为全球重组的一部分，花旗在亚太地区解雇了 10 名研究人员</title>
+      <link>https://www.reuters.com/business/finance/citi-lays-off-10-research-staff-asia-pacific-part-global-revamp-sources-say-2024-03-27/</link>
+      <description><![CDATA[两位知情人士称，花旗集团本周已在亚太地区股票研究部门解雇了至少 10 名员工，该行正在推进全面的全球改革的最后阶段。]]></description>
+      <guid>https://www.reuters.com/business/finance/citi-lays-off-10-research-staff-asia-pacific-part-global-revamp-sources-say-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 07:46:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>H&M 提议 Helena Saxon 接替 Niklas Zennstrom 加入董事会</title>
+      <link>https://www.reuters.com/business/retail-consumer/hm-proposes-helena-saxon-replaces-niklas-zennstrom-its-board-2024-03-27/</link>
+      <description><![CDATA[瑞典时装零售商 H&amp;M 周三表示，其提名委员会提名 Helena Saxon 为新董事会成员。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/hm-proposes-helena-saxon-replaces-niklas-zennstrom-its-board-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 07:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>时尚零售商 H&M 春季复苏超出预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/fashion-retailer-hms-q1-operating-profit-rises-more-than-expected-2024-03-27/</link>
+      <description><![CDATA[全球第二大上市时装零售商 H&amp;M 周三第一季度营业利润超出预期，新任首席执行官 Daniel Erver 表示春季系列深受好评，销售显示复苏迹象。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/fashion-retailer-hms-q1-operating-profit-rises-more-than-expected-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 07:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者称大型石油公司的气候规划不够好</title>
+      <link>https://www.reuters.com/business/energy/big-oils-climate-planning-not-good-enough-investors-say-2024-03-27/</link>
+      <description><![CDATA[全球领先的投资者气候行动组织周三表示，欧洲和北美 10 家最大的上市石油和天然气公司目前的低碳转型计划不足以评估所涉及的风险。]]></description>
+      <guid>https://www.reuters.com/business/energy/big-oils-climate-planning-not-good-enough-investors-say-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 07:04:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>报纸称，裕信银行和 Nexi 已同意重新谈判支付协议的广泛条款</title>
+      <link>https://www.reuters.com/business/finance/unicredit-nexi-have-agreed-broad-terms-renegotiate-payments-accord-newspaper-2024-03-27/</link>
+      <description><![CDATA[据 Il Sole 24 Ore 报纸周三报道，意大利联合信贷银行和支付公司 Nexi 已就重新谈判现有协议的总体原则达成一致。]]></description>
+      <guid>https://www.reuters.com/business/finance/unicredit-nexi-have-agreed-broad-terms-renegotiate-payments-accord-newspaper-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 06:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>种族紧张局势导致德国公司失去熟练的外国劳动力</title>
+      <link>https://www.reuters.com/markets/europe/racial-tensions-cost-germany-inc-skilled-foreign-labour-2024-03-27/</link>
+      <description><![CDATA[经理约尔格·恩格尔曼 (Joerg Engelmann) 表示，他已竭尽全力吸引熟练的外国工人到他位于东德开姆尼茨的化学工程公司。但当他们抵达后，他们在镇上经历的种族歧视和排斥已经驱赶了他们中的一些人。]]></description>
+      <guid>https://www.reuters.com/markets/europe/racial-tensions-cost-germany-inc-skilled-foreign-labour-2024-03-27/</guid>
+      <pubDate>Wed, 27 Mar 2024 06:36:04 GMT</pubDate>
     </item>
     <item>
       <title>独家：中国、阿联酋、土耳其加强银行审查，俄罗斯难以收取石油付款</title>
@@ -20,53 +76,11 @@
       <pubDate>Wed, 27 Mar 2024 06:04:24 GMT</pubDate>
     </item>
     <item>
-      <title>据《商报》报道，多达 10 家公司竞购德国铁路信可运输公司 (Deutsche Bahn's Schenker)</title>
-      <link>https://www.reuters.com/markets/deals/up-10-companies-bid-deutsche-bahns-schenker-handelsblatt-reports-2024-03-27/</link>
-      <description><![CDATA[德国商报周三援引知情人士的话报道称，已有 7 到 10 家公司向德国国家铁路公司 Deutsche Bahn 的物流子公司 Schenker 提出了不具约束力的收购要约。]]></description>
-      <guid>https://www.reuters.com/markets/deals/up-10-companies-bid-deutsche-bahns-schenker-handelsblatt-reports-2024-03-27/</guid>
-      <pubDate>Wed, 27 Mar 2024 06:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>上田行长表示，日本央行必须通过宽松政策支持经济</title>
-      <link>https://www.reuters.com/markets/asia/boj-must-support-economy-with-easy-policy-says-governor-ueda-2024-03-27/</link>
-      <description><![CDATA[日本央行行长上田一夫周三表示，目前以宽松的货币政策支持经济非常重要。]]></description>
-      <guid>https://www.reuters.com/markets/asia/boj-must-support-economy-with-easy-policy-says-governor-ueda-2024-03-27/</guid>
-      <pubDate>Wed, 27 Mar 2024 05:50:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>泰国总理表示经济需要提振，权衡 137 亿美元救助计划的融资方案</title>
-      <link>https://www.reuters.com/world/asia-pacific/thai-pm-says-economy-needs-boost-weighs-funding-options-137-bln-handout-plan-2024-03-27/</link>
-      <description><![CDATA[泰国总理斯雷塔·塔维信 (Srettha Thavisin) 周三表示，经济存在问题，需要一项价值 5000 亿泰铢（137 亿美元）的标志性救济计划来提振，他正在权衡融资方案。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/thai-pm-says-economy-needs-boost-weighs-funding-options-137-bln-handout-plan-2024-03-27/</guid>
-      <pubDate>Wed, 27 Mar 2024 05:38:23 GMT</pubDate>
-    </item>
-    <item>
       <title>早盘竞价：日元处于干预观察中，瑞典央行等待</title>
       <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-27/</link>
       <description><![CDATA[凯文·巴克兰 (Kevin Buckland) 对欧洲和全球市场未来一天的展望]]></description>
       <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-03-27/</guid>
       <pubDate>Wed, 27 Mar 2024 05:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国推动货币互换，加强货币合作</title>
-      <link>https://www.reuters.com/world/china/china-promote-currency-swaps-strengthen-monetary-cooperation-2024-03-27/</link>
-      <description><![CDATA[中国央行行长周三表示，中国央行将继续推动本币互换，加强与亚洲经济体的货币合作，维护地区金融稳定。]]></description>
-      <guid>https://www.reuters.com/world/china/china-promote-currency-swaps-strengthen-monetary-cooperation-2024-03-27/</guid>
-      <pubDate>Wed, 27 Mar 2024 05:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>韩国准备为小企业和建筑商提供财政支持</title>
-      <link>https://www.reuters.com/markets/asia/south-korea-prepares-financial-support-small-businesses-builders-2024-03-27/</link>
-      <description><![CDATA[韩国政府周三表示，由于对内需和房地产行业的担忧日益加剧，韩国已为受高利率打击的小企业和建筑公司准备了财政支持措施。]]></description>
-      <guid>https://www.reuters.com/markets/asia/south-korea-prepares-financial-support-small-businesses-builders-2024-03-27/</guid>
-      <pubDate>Wed, 27 Mar 2024 05:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>低波动性维持外汇交易利润丰厚</title>
-      <link>https://www.reuters.com/markets/currencies/lucrative-foreign-exchange-trade-sustained-by-low-volatility-2024-03-27/</link>
-      <description><![CDATA[外汇市场异常平静，利润丰厚的交易的寿命超出了许多人的预期。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/lucrative-foreign-exchange-trade-sustained-by-low-volatility-2024-03-27/</guid>
-      <pubDate>Wed, 27 Mar 2024 05:04:43 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，中国碧桂园聘请克罗尔进行清算分析</title>
@@ -83,16 +97,16 @@
       <pubDate>Wed, 27 Mar 2024 03:43:54 GMT</pubDate>
     </item>
     <item>
-      <title>中国国家主席习近平在北京会见美国高管和学者</title>
+      <title>中国国家主席习近平在北京会见美国高管</title>
       <link>https://www.reuters.com/world/chinas-president-xi-met-us-executives-academics-beijing-state-media-say-2024-03-27/</link>
-      <description><![CDATA[据官方媒体报道，中国国家主席习近平周三在北京人民大会堂会见了美国高管和学者，此前他于 11 月在旧金山与美国高管共进晚餐。]]></description>
+      <description><![CDATA[中国国家主席习近平周三在北京人民大会堂会见美国商界领袖，政府试图吸引外国投资者重返中国，国际公司则寻求对新规定的保证。]]></description>
       <guid>https://www.reuters.com/world/chinas-president-xi-met-us-executives-academics-beijing-state-media-say-2024-03-27/</guid>
       <pubDate>Wed, 27 Mar 2024 03:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市涨跌互现，日元接近干预区</title>
+      <title>日元跌至 1990 年低点提振日经指数；中国股市下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-27/</link>
-      <description><![CDATA[周三，日本股市因日元走弱而上涨，而中国股市则下跌，在假期缩短的一周中，整体区域交易缺乏强劲的方向，而美国通胀数据的关键数据则结束了这一周。]]></description>
+      <description><![CDATA[日本股市周三上涨，日元跌至 1990 年以来的最低水平，但中国市场下滑，地区股市整体缺乏强劲方向，因假期而缩短，美国通胀数据公布。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-03-27/</guid>
       <pubDate>Wed, 27 Mar 2024 03:05:07 GMT</pubDate>
     </item>
@@ -102,13 +116,6 @@
       <description><![CDATA[希望在美国通过 TikTok Shop 销售产品以替代亚马逊的中国电子商务供应商对这些短视频应用加强执行海外卖家在该平台开店规定的举措感到不满。]]></description>
       <guid>https://www.reuters.com/technology/chinese-tiktok-sellers-complain-under-fire-platform-tightening-us-rule-2024-03-27/</guid>
       <pubDate>Wed, 27 Mar 2024 02:19:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>LG集团未来5年投资744亿美元</title>
-      <link>https://www.reuters.com/business/autos-transportation/lg-group-invest-744-bln-over-next-5-years-2024-03-27/</link>
-      <description><![CDATA[韩国企业集团 LG 集团控股公司 LG Corp 周三表示，未来五年将在韩国投资 100 万亿韩元（744.2 亿美元）。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/lg-group-invest-744-bln-over-next-5-years-2024-03-27/</guid>
-      <pubDate>Wed, 27 Mar 2024 01:24:48 GMT</pubDate>
     </item>
     <item>
       <title>Robinhood 使用新信用卡进一步拓展交易范围</title>
@@ -130,13 +137,6 @@
       <description><![CDATA[Visa 和万事达卡达成了估计 300 亿美元的和解，以限制商户的信用卡和借记卡费用，部分节省可能会通过较低的价格转嫁给消费者。]]></description>
       <guid>https://www.reuters.com/business/finance/mastercard-visa-reach-30-bln-settlement-over-credit-card-fees-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 13:58:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国制造业出现初步复苏迹象；消费者信心稳定</title>
-      <link>https://www.reuters.com/markets/us/us-durable-goods-orders-rebound-february-2024-03-26/</link>
-      <description><![CDATA[2月份美国耐用制成品订单增幅超过预期，而随着第一季度经济增长前景依然乐观，企业设备支出出现初步复苏迹象。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-durable-goods-orders-rebound-february-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 12:46:27 GMT</pubDate>
     </item>
     <item>
       <title>特朗普的媒体公司在华尔街首秀表现强劲，估值近 80 亿美元</title>
