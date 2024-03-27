@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 27 Mar 2024 01:15:48 GMT</lastBuildDate>
-    <item>
-      <title>印尼队失利后越南队解雇了特鲁西埃</title>
-      <link>https://www.reuters.com/sports/soccer/vietnam-axe-troussier-after-indonesia-loss-hits-world-cup-bid-2024-03-26/</link>
-      <description><![CDATA[越南足协宣布，越南队在2026年世界杯亚洲区预选赛第三轮比赛中0-3不敌印度尼西亚队，越南队主教练菲利普·特鲁西埃被解职。]]></description>
-      <guid>https://www.reuters.com/sports/soccer/vietnam-axe-troussier-after-indonesia-loss-hits-world-cup-bid-2024-03-26/</guid>
-      <pubDate>Tue, 26 Mar 2024 23:46:21 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 27 Mar 2024 01:59:10 GMT</lastBuildDate>
     <item>
       <title>朝中社称朝鲜代表团访问越南</title>
       <link>https://www.reuters.com/world/asia-pacific/north-korean-delegation-visits-vietnam-kcna-says-2024-03-26/</link>
@@ -118,6 +111,13 @@
       <pubDate>Tue, 26 Mar 2024 08:39:48 GMT</pubDate>
     </item>
     <item>
+      <title>APT31：全球网络间谍活动背后的中国黑客组织</title>
+      <link>https://www.reuters.com/technology/cybersecurity/apt31-chinese-hacking-group-behind-global-cyberespionage-campaign-2024-03-26/</link>
+      <description><![CDATA[美国和英国对一家与中国政府支持的名为 APT31 的黑客组织有关联的公司和个人提出指控并实施制裁，称该组织参与了大规模的网络间谍活动。]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/apt31-chinese-hacking-group-behind-global-cyberespionage-campaign-2024-03-26/</guid>
+      <pubDate>Tue, 26 Mar 2024 08:36:26 GMT</pubDate>
+    </item>
+    <item>
       <title>中国称美英黑客指控是“政治操纵”</title>
       <link>https://www.reuters.com/technology/cybersecurity/evidence-britain-provided-hacking-allegations-was-insufficient-says-chinese-2024-03-26/</link>
       <description><![CDATA[中方周二敦促美英停止将网络安全问题政治化，停止污蔑抹黑中国，停止对中国实施单边制裁。]]></description>
@@ -141,7 +141,7 @@
     <item>
       <title>前中国足协主席因腐败被判无期徒刑</title>
       <link>https://www.reuters.com/sports/soccer/ex-head-china-football-association-sentenced-life-prison-state-media-report-2024-03-26/</link>
-      <description><![CDATA[据官方媒体周二报道，中国足协一名前主席因收受超过 1000 万美元的贿赂而被判处无期徒刑，此前这是足坛多年来最大规模的反腐败调查之一。]]></description>
+      <description><![CDATA[据官方媒体周二报道，中国足协一名前主席因收受超过 1000 万美元的贿赂而被判处无期徒刑，此前这是该运动领域多年来最大规模的反腐败调查之一。]]></description>
       <guid>https://www.reuters.com/sports/soccer/ex-head-china-football-association-sentenced-life-prison-state-media-report-2024-03-26/</guid>
       <pubDate>Tue, 26 Mar 2024 02:30:52 GMT</pubDate>
     </item>
