@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 28 Mar 2024 18:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 18:52:42 GMT</lastBuildDate>
     <item>
-      <title>希腊DEPA就俄罗斯天然气工业股份公司交易价格提起仲裁</title>
+      <title>希腊环保局就俄罗斯天然气工业股份公司交易价格提起仲裁</title>
       <link>https://www.reuters.com/markets/commodities/greeces-depa-files-arbitration-over-prices-gazprom-deal-2024-03-28/</link>
       <description><![CDATA[希腊天然气供应商 DEPA Commercial 已提起仲裁，寻求修改其与俄罗斯天然气工业股份公司的天然气供应合同价格，DEPA 首席执行官康斯坦丁诺斯·西法拉斯 (Constantinos Xifaras) 周四表示。]]></description>
       <guid>https://www.reuters.com/markets/commodities/greeces-depa-files-arbitration-over-prices-gazprom-deal-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 16:26:00 GMT</pubDate>
     </item>
     <item>
-      <title>花旗表示 42% 的能源客户缺乏气候转型计划</title>
+      <title>花旗称 42% 的能源客户缺乏气候转型计划</title>
       <link>https://www.reuters.com/business/finance/citi-says-42-energy-clients-lack-climate-transition-plans-2024-03-28/</link>
       <description><![CDATA[美国第四大银行花旗在周四发布的气候报告中表示，花旗贷款的能源公司中近一半缺乏减少温室气体排放的计划。]]></description>
       <guid>https://www.reuters.com/business/finance/citi-says-42-energy-clients-lack-climate-transition-plans-2024-03-28/</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>世贸组织：中国对美国电动汽车和可再生能源税收抵免发起争议</title>
       <link>https://www.reuters.com/business/autos-transportation/wto-china-initiates-dispute-over-us-tax-credits-evs-renewables-2024-03-28/</link>
-      <description><![CDATA[世界贸易组织周四表示，中国已就《通货膨胀削减法案》下的税收抵免启动与美国的争端磋商，以促进电动汽车和可再生能源的生产。]]></description>
+      <description><![CDATA[世界贸易组织周四表示，中国已与美国就《通胀削减法案》下的税收抵免启动争端磋商，以促进电动汽车和可再生能源的生产。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/wto-china-initiates-dispute-over-us-tax-credits-evs-renewables-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 15:59:12 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>EIA称巴尔的摩港口关闭可能会削弱美国煤炭出口量</title>
       <link>https://www.reuters.com/world/us/baltimore-port-closure-could-dent-us-coal-export-volumes-eia-says-2024-03-28/</link>
-      <description><![CDATA[美国能源信息署（EIA）周四表示，美国第二大煤炭出口枢纽巴尔的摩港的航运中断将减缓美国煤炭出口的增长并减少船用燃料的使用。]]></description>
+      <description><![CDATA[美国能源信息管理局（EIA）周四表示，美国第二大煤炭出口枢纽巴尔的摩港的航运中断将减缓美国煤炭出口的增长并减少船用燃料的使用。]]></description>
       <guid>https://www.reuters.com/world/us/baltimore-port-closure-could-dent-us-coal-export-volumes-eia-says-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 14:56:37 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>报告称全球智能手机市场将于 2024 年反弹</title>
       <link>https://www.reuters.com/technology/global-smartphone-market-set-rebound-2024-report-says-2024-03-28/</link>
-      <description><![CDATA[Counterpoint Research 周四发布的一份报告称，由于通胀缓解有助于新兴市场需求复苏，加上生成式人工智能的集成吸引买家购买高端设备，全球智能手机出货量预计今年将反弹 3%。]]></description>
+      <description><![CDATA[Counterpoint Research 周四发布的一份报告称，由于通胀缓解有助于新兴市场的需求复苏，加上生成式人工智能的集成吸引买家购买高端设备，全球智能手机出货量预计今年将反弹 3%。]]></description>
       <guid>https://www.reuters.com/technology/global-smartphone-market-set-rebound-2024-report-says-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 11:14:02 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>Sam Bankman-Fried：哪些事件导致 FTX 创始人被定罪？</title>
       <link>https://www.reuters.com/technology/events-leading-up-ftx-founder-sam-bankman-frieds-conviction-2024-03-28/</link>
-      <description><![CDATA[山姆·班克曼·弗里德 (Sam Bankman-Fried) 将于周四被判刑，罪名是他创立的 FTX 加密货币交易所急剧崩溃，并被指控犯有欺诈罪。]]></description>
+      <description><![CDATA[Sam Bankman-Fried 将于周四因他创立的 FTX 加密货币交易所急剧崩溃而被指控欺诈而被判刑。]]></description>
       <guid>https://www.reuters.com/technology/events-leading-up-ftx-founder-sam-bankman-frieds-conviction-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 10:09:50 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>萨姆·班克曼·弗里德 (Sam Bankman-Fried) 是谁？这位曾经面临数十年监禁的加密货币大亨？</title>
       <link>https://www.reuters.com/technology/who-is-sam-bankman-fried-onetime-crypto-mogul-facing-decades-prison-2024-03-28/</link>
-      <description><![CDATA[大学毕业几年后，山姆·班克曼·弗里德 (Sam Bankman-Fried) 开始担心自己没有承担足够的风险。]]></description>
+      <description><![CDATA[大学毕业几年后，萨姆·班克曼-弗里德开始担心自己没有承担足够的风险。]]></description>
       <guid>https://www.reuters.com/technology/who-is-sam-bankman-fried-onetime-crypto-mogul-facing-decades-prison-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 10:03:01 GMT</pubDate>
     </item>
