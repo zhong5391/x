@@ -1,23 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 28 Mar 2024 17:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 17:51:56 GMT</lastBuildDate>
+    <item>
+      <title>希腊环保局就俄罗斯天然气工业股份公司交易价格提起仲裁</title>
+      <link>https://www.reuters.com/markets/commodities/greeces-depa-files-arbitration-over-prices-gazprom-deal-2024-03-28/</link>
+      <description><![CDATA[希腊天然气供应商 DEPA Commercial 已提起仲裁，寻求修改其与俄罗斯天然气工业股份公司的天然气供应合同价格，DEPA 首席执行官康斯坦丁诺斯·西法拉斯 (Constantinos Xifaras) 周四表示。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/greeces-depa-files-arbitration-over-prices-gazprom-deal-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 16:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>花旗称 42% 的能源客户缺乏气候转型计划</title>
+      <link>https://www.reuters.com/business/finance/citi-says-42-energy-clients-lack-climate-transition-plans-2024-03-28/</link>
+      <description><![CDATA[美国第四大银行花旗在周四发布的气候报告中表示，花旗贷款的能源公司中近一半缺乏减少温室气体排放的计划。]]></description>
+      <guid>https://www.reuters.com/business/finance/citi-says-42-energy-clients-lack-climate-transition-plans-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 16:04:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>世贸组织：中国对美国电动汽车和可再生能源税收抵免发起争议</title>
+      <link>https://www.reuters.com/business/autos-transportation/wto-china-initiates-dispute-over-us-tax-credits-evs-renewables-2024-03-28/</link>
+      <description><![CDATA[世界贸易组织周四表示，中国已就《通货膨胀削减法案》下的税收抵免启动与美国的争端磋商，以促进电动汽车和可再生能源的生产。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/wto-china-initiates-dispute-over-us-tax-credits-evs-renewables-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 15:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞士央行施莱格尔认为有必要分析瑞银的资本要求</title>
+      <link>https://www.reuters.com/business/finance/snbs-schlegel-sees-need-analysis-ubss-capital-requirements-2024-03-28/</link>
+      <description><![CDATA[瑞士央行副主席周四在接受瑞士报纸《金融与经济》采访时呼吁对瑞银的资本要求进行深入审查。]]></description>
+      <guid>https://www.reuters.com/business/finance/snbs-schlegel-sees-need-analysis-ubss-capital-requirements-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 15:36:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>新飞机制造商负责人表示波音面临“关键时刻”</title>
+      <link>https://www.reuters.com/business/aerospace-defense/new-planemaker-chief-says-boeing-faces-pivotal-moment-2024-03-28/</link>
+      <description><![CDATA[波音公司陷入困境的商用飞机部门的新任负责人表示，这家美国飞机制造商面临着一个“关键时刻”，在 1 月份 737 MAX 9 喷气式飞机的一块面板发生故障后，该公司正在努力提高质量并解决监管机构和航空公司客户的重大担忧。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/new-planemaker-chief-says-boeing-faces-pivotal-moment-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 15:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>统计局称乌克兰经济2023年增长5.3%</title>
+      <link>https://www.reuters.com/markets/europe/ukraines-economy-grew-53-2023-statistics-service-says-2024-03-28/</link>
+      <description><![CDATA[统计局周四表示，乌克兰经济在俄罗斯全面入侵的第一年收缩了近三分之一后，到 2023 年将增长 5.3%。]]></description>
+      <guid>https://www.reuters.com/markets/europe/ukraines-economy-grew-53-2023-statistics-service-says-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 14:58:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>EIA称巴尔的摩港口关闭可能会削弱美国煤炭出口量</title>
+      <link>https://www.reuters.com/world/us/baltimore-port-closure-could-dent-us-coal-export-volumes-eia-says-2024-03-28/</link>
+      <description><![CDATA[美国能源信息管理局（EIA）周四表示，美国第二大煤炭出口枢纽巴尔的摩港的航运中断将减缓美国煤炭出口的增长并减少船用燃料的使用。]]></description>
+      <guid>https://www.reuters.com/world/us/baltimore-port-closure-could-dent-us-coal-export-volumes-eia-says-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 14:56:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>公司对巴尔的摩大桥倒塌做出反应</title>
+      <link>https://www.reuters.com/world/us/companies-react-baltimore-bridge-collapse-2024-03-28/</link>
+      <description><![CDATA[周二，美国巴尔的摩港的一座大桥被一艘集装箱船撞倒，导致汽车坠入河中。]]></description>
+      <guid>https://www.reuters.com/world/us/companies-react-baltimore-bridge-collapse-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 14:44:14 GMT</pubDate>
+    </item>
     <item>
       <title>密歇根大学表示，3月份美国消费者信心高于预期，触及近三年来的新高</title>
       <link>https://www.reuters.com/markets/us/us-consumer-sentiment-tops-estimates-march-hit-nearly-3-yr-high-umich-says-2024-03-28/</link>
       <description><![CDATA[3月份美国消费者信心意外上升至近三年来的最高水平，部分原因是人们对通胀将持续疲软的信心不断增强。]]></description>
       <guid>https://www.reuters.com/markets/us/us-consumer-sentiment-tops-estimates-march-hit-nearly-3-yr-high-umich-says-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 14:27:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>福特表示将在瓦伦西亚生产新款SUV</title>
-      <link>https://www.reuters.com/business/autos-transportation/ford-says-it-will-make-new-suv-valencia-2024-03-28/</link>
-      <description><![CDATA[福特周四表示，该公司计划在西班牙巴伦西亚工厂生产一款新型运动型多用途车（SUV）。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/ford-says-it-will-make-new-suv-valencia-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 14:22:56 GMT</pubDate>
     </item>
     <item>
       <title>NAR 表示，美国待售房屋销售温和增长</title>
@@ -27,20 +76,6 @@
       <pubDate>Thu, 28 Mar 2024 14:02:08 GMT</pubDate>
     </item>
     <item>
-      <title>公司出售其在俄罗斯的业务</title>
-      <link>https://www.reuters.com/business/companies-sell-their-businesses-russia-2024-03-28/</link>
-      <description><![CDATA[一些西方公司已出售其俄罗斯资产或将其移交给当地管理人员，以遵守对乌克兰战争的制裁，并回应克里姆林宫可能扣押外资资产的威胁。]]></description>
-      <guid>https://www.reuters.com/business/companies-sell-their-businesses-russia-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 13:58:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>据彭博社报道，美国和英国正在调查向俄罗斯交易所转移 200 亿美元的加密货币</title>
-      <link>https://www.reuters.com/markets/currencies/us-uk-probe-20-bln-crypto-transfers-russian-exchange-bloomberg-reports-2024-03-28/</link>
-      <description><![CDATA[彭博新闻社周四援引知情人士的话报道称，美国和英国正在审查通过俄罗斯虚拟交易所 Garantex 进行的超过 200 亿美元的加密货币交易。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/us-uk-probe-20-bln-crypto-transfers-russian-exchange-bloomberg-reports-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 13:24:59 GMT</pubDate>
-    </item>
-    <item>
       <title>洞察：随着西非可可危机的加深，巧克力价格将继续上涨</title>
       <link>https://www.reuters.com/markets/commodities/chocolate-prices-keep-rising-west-africas-cocoa-crisis-deepens-2024-03-28/</link>
       <description><![CDATA[审视她农场的荒芜景观——散布着非法金矿开采者留下的受氰化物污染、呈茶色的废水池——足以让珍妮特·贾姆菲崩溃。]]></description>
@@ -48,39 +83,11 @@
       <pubDate>Thu, 28 Mar 2024 13:21:07 GMT</pubDate>
     </item>
     <item>
-      <title>独家：中国商务部长将前往欧洲阐述电动汽车案例</title>
-      <link>https://www.reuters.com/business/autos-transportation/china-commerce-minister-head-europe-make-ev-case-2024-03-28/</link>
-      <description><![CDATA[四名了解该计划的人士告诉路透社，中国商务部长将于四月前往欧洲，讨论欧盟委员会对中国电动汽车行业是否受益于不公平补贴的调查。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/china-commerce-minister-head-europe-make-ev-case-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 12:56:31 GMT</pubDate>
-    </item>
-    <item>
       <title>美国第四季度经济增速上修；劳动力市场依然强劲</title>
       <link>https://www.reuters.com/markets/us/us-fourth-quarter-growth-revised-up-weekly-jobless-claims-fall-2024-03-28/</link>
       <description><![CDATA[在强劲的消费者支出以及对工厂和医疗设施等非住宅建筑的商业投资的推动下，美国第四季度经济增长速度快于此前的预期。]]></description>
       <guid>https://www.reuters.com/markets/us/us-fourth-quarter-growth-revised-up-weekly-jobless-claims-fall-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 12:50:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国法院决定价值100亿美元的喷气式飞机纠纷在伦敦而非莫斯科审理</title>
-      <link>https://www.reuters.com/business/aerospace-defense/uk-court-decides-10-billion-jet-dispute-be-heard-london-not-moscow-2024-03-28/</link>
-      <description><![CDATA[伦敦高等法院周四裁定，再保险公司和飞机租赁公司之间为寻求200多架滞留在俄罗斯的飞机赔偿而展开的100亿美元之争应该在伦敦而不是莫斯科进行审理。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/uk-court-decides-10-billion-jet-dispute-be-heard-london-not-moscow-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 12:39:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞银将商业房地产低迷列为首要风险</title>
-      <link>https://www.reuters.com/markets/europe/ubs-flags-commercial-real-estate-downturn-top-risk-2024-03-28/</link>
-      <description><![CDATA[瑞银周四表示，商业房地产市场的低迷是该瑞士银行面临的“首要和新兴风险”之一，因为借贷成本上升和疫情后办公空间需求下降对该行业造成了打击。]]></description>
-      <guid>https://www.reuters.com/markets/europe/ubs-flags-commercial-real-estate-downturn-top-risk-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 12:28:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅赛德斯在柴油失效装置集体诉讼案中部分败诉</title>
-      <link>https://www.reuters.com/business/autos-transportation/mercedes-partly-loses-class-action-case-over-diesel-defeat-devices-2024-03-28/</link>
-      <description><![CDATA[德国一家法院周四在针对梅赛德斯奔驰柴油排放消除装置的集体诉讼中做出了部分有利于消费者的裁决。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/mercedes-partly-loses-class-action-case-over-diesel-defeat-devices-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 11:23:40 GMT</pubDate>
     </item>
     <item>
       <title>报告称全球智能手机市场将于 2024 年反弹</title>
@@ -92,7 +99,7 @@
     <item>
       <title>Home Depot 以 182.5 亿美元收购建筑产品供应商 SRS，扩大 Pro-business 规模</title>
       <link>https://www.reuters.com/markets/deals/home-depot-buy-srs-distribution-1825-bln-deal-2024-03-28/</link>
-      <description><![CDATA[家得宝 (Home Depot) 将以 182.5 亿美元的价格收购建筑材料供应商 SRS Distribution，这是美国顶级家居装修连锁店最大的一笔交易，因为它希望扩大其专业客户群，以更好地应对不温不火的需求。]]></description>
+      <description><![CDATA[家得宝 (Home Depot) 将以 182.5 亿美元的价格收购建筑材料供应商 SRS Distribution，这是美国顶级家居装修连锁店最大的一笔收购，因为它希望扩大其专业客户群，以更好地应对不温不火的需求。]]></description>
       <guid>https://www.reuters.com/markets/deals/home-depot-buy-srs-distribution-1825-bln-deal-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 10:14:40 GMT</pubDate>
     </item>
@@ -104,9 +111,9 @@
       <pubDate>Thu, 28 Mar 2024 10:09:50 GMT</pubDate>
     </item>
     <item>
-      <title>辩护律师在宣判时表示，萨姆·班克曼-弗里德不是“金融连环杀手”</title>
+      <title>Bankman-Fried 因 FTX 数十亿美元欺诈被判 25 年监禁</title>
       <link>https://www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/</link>
-      <description><![CDATA[这位前亿万富翁神童的辩护律师在周四的量刑听证会上表示，山姆·班克曼·弗里德 (Sam Bankman-Fried) 对其创立的 FTX 加密货币交易所的客户没有任何伤害的意思，试图让他的客户与伯尼·麦道夫 (Bernie Madoff) 等臭名昭著的欺诈者保持距离。]]></description>
+      <description><![CDATA[Sam Bankman-Fried 周四被法官判处 25 年监禁，罪名是从他创立的现已破产的 FTX 加密货币交易所的客户那里窃取 80 亿美元，这是这位前亿万富翁神童戏剧性垮台的最后一步。]]></description>
       <guid>https://www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 10:08:01 GMT</pubDate>
     </item>
@@ -120,30 +127,23 @@
     <item>
       <title>萨姆·班克曼·弗里德 (Sam Bankman-Fried) 是谁？这位曾经面临数十年监禁的加密货币大亨？</title>
       <link>https://www.reuters.com/technology/who-is-sam-bankman-fried-onetime-crypto-mogul-facing-decades-prison-2024-03-28/</link>
-      <description><![CDATA[大学毕业几年后，山姆·班克曼·弗里德 (Sam Bankman-Fried) 开始担心自己没有承担足够的风险。]]></description>
+      <description><![CDATA[大学毕业几年后，萨姆·班克曼-弗里德开始担心自己没有承担足够的风险。]]></description>
       <guid>https://www.reuters.com/technology/who-is-sam-bankman-fried-onetime-crypto-mogul-facing-decades-prison-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 10:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街在复活节假期前上涨，预计第一季度大幅上涨</title>
+      <title>复活节假期前华尔街表现平淡，第一季度涨幅强劲</title>
       <link>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</link>
-      <description><![CDATA[周四，华尔街在复活节假期前交投清淡中小幅走高，而投资者则等待数据来衡量美联储在强劲的第一季度最后一个工作日的政策路径。]]></description>
+      <description><![CDATA[周四，华尔街主要股指在复活节假期前的清淡交易中苦苦寻找方向，而投资者则等待数据来衡量美联储在强劲的第一季度最后一个工作日的政策路径。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 09:45:52 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉交付量面临中国经济放缓和需求疲软的打击</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-deliveries-face-hit-china-slowdown-soft-demand-2024-03-28/</link>
-      <description><![CDATA[预计特斯拉下周将报告第一季度交付量低迷，原因是其降价带来的提振作用减弱，且美国汽车制造商在电动汽车市场放缓的情况下应对买家的激烈竞争。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-deliveries-face-hit-china-slowdown-soft-demand-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 09:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴尔的摩大桥倒塌可能导致数十亿美元的保险索赔——伦敦劳合社</title>
-      <link>https://www.reuters.com/business/finance/lloyds-london-sees-multi-billion-dollar-insurance-loss-baltimore-bridge-collapse-2024-03-28/</link>
-      <description><![CDATA[商业保险市场伦敦劳合社 (SOLYD.UL) 主席周四表示，巴尔的摩弗朗西斯·斯科特大桥的倒塌可能会导致数十亿美元的保险损失。]]></description>
-      <guid>https://www.reuters.com/business/finance/lloyds-london-sees-multi-billion-dollar-insurance-loss-baltimore-bridge-collapse-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 08:39:44 GMT</pubDate>
+      <title>芬兰劳工改革罢工对企业有何影响</title>
+      <link>https://www.reuters.com/world/europe/how-strikes-over-finnish-labour-reforms-hit-companies-2024-03-11/</link>
+      <description><![CDATA[工会罢工扰乱了港口和铁路系统，对芬兰的进出口产生了影响。]]></description>
+      <guid>https://www.reuters.com/world/europe/how-strikes-over-finnish-labour-reforms-hit-companies-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 14:24:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
