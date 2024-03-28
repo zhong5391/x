@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 28 Mar 2024 20:51:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 21:16:50 GMT</lastBuildDate>
+    <item>
+      <title>美国可能很快公布禁止接收技术的中国芯片工厂名单</title>
+      <link>https://www.reuters.com/technology/us-may-soon-unveil-list-chinese-chip-factories-barred-receiving-tech-2024-03-28/</link>
+      <description><![CDATA[三名知情人士表示，拜登政府正在制定一份禁止接收关键工具的先进中国芯片制造工厂名单，以便企业更容易阻止技术流入中国。]]></description>
+      <guid>https://www.reuters.com/technology/us-may-soon-unveil-list-chinese-chip-factories-barred-receiving-tech-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 20:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>汽车电脑芯片制造商恩智浦推出新平台</title>
+      <link>https://www.reuters.com/technology/automotive-computer-chip-maker-nxp-rolls-out-new-platform-2024-03-28/</link>
+      <description><![CDATA[最大的汽车计算机芯片制造商恩智浦半导体公司周四表示，该公司推出了一个新平台，该平台将简化并加快客户的软件开发。]]></description>
+      <guid>https://www.reuters.com/technology/automotive-computer-chip-maker-nxp-rolls-out-new-platform-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 20:15:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国和墨西哥将合作开发半导体供应链</title>
+      <link>https://www.reuters.com/technology/us-mexico-partner-semiconductor-supply-chain-development-2024-03-28/</link>
+      <description><![CDATA[美国国务院周四表示，随着拜登政府努力减少对中国和台湾的技术依赖，美国将与墨西哥合作探索半导体供应链机会。]]></description>
+      <guid>https://www.reuters.com/technology/us-mexico-partner-semiconductor-supply-chain-development-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 19:33:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blackwells 起诉迪士尼披露与 ValueAct 的关系</title>
+      <link>https://www.reuters.com/legal/blackwells-sues-disney-delaware-over-disclosure-relationship-with-valueact-2024-03-28/</link>
+      <description><![CDATA[Blackwells Capital 于周四起诉这家娱乐巨头，要求其提供可能表明与对冲基金 ValueAct Capital 交易时可能存在披露违规行为的信息，从而在一场长期的董事会斗争中加大了对华特迪士尼的压力。]]></description>
+      <guid>https://www.reuters.com/legal/blackwells-sues-disney-delaware-over-disclosure-relationship-with-valueact-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 19:21:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>据彭博社报道，苹果新款 iPad Pro 可能将于 5 月推出，并加大海外产量</title>
+      <link>https://www.reuters.com/technology/apples-new-ipad-pro-likely-launch-may-ramps-up-overseas-production-bloomberg-2024-03-28/</link>
+      <description><![CDATA[彭博社周四援引知情人士的话报道称，苹果的海外供应商已增加了该公司新款 iPad 的产量，并计划于 5 月初推出。]]></description>
+      <guid>https://www.reuters.com/technology/apples-new-ipad-pro-likely-launch-may-ramps-up-overseas-production-bloomberg-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 19:15:57 GMT</pubDate>
+    </item>
     <item>
       <title>消息人士称，厨房海绵制造商Scrub Daddy正在考虑出售</title>
       <link>https://www.reuters.com/markets/deals/kitchen-sponge-maker-scrub-daddy-explores-sale-sources-say-2024-03-28/</link>
@@ -15,14 +50,14 @@
     <item>
       <title>纽约市退休系统支持迪士尼与特里安、布莱克韦尔斯的董事会斗争</title>
       <link>https://www.reuters.com/business/media-telecom/new-york-city-retirement-system-back-disney-boardroom-battle-with-trian-2024-03-28/</link>
-      <description><![CDATA[纽约市退休系统计划在与两家对冲基金的激烈董事会斗争中投票给所有华特迪士尼董事，这两家对冲基金都在为自己争取董事会席位。]]></description>
+      <description><![CDATA[纽约市退休系统计划投票支持华特迪士尼首席执行​​官鲍勃·艾格和公司董事会，在激烈的董事会斗争中拒绝了包括纳尔逊·佩尔茨的特里安在内的两家对冲基金的提名。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/new-york-city-retirement-system-back-disney-boardroom-battle-with-trian-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 18:44:47 GMT</pubDate>
     </item>
     <item>
       <title>班克曼·弗里德案的一些受害者希望得到更严厉的判决，这让他们感到沮丧</title>
       <link>https://www.reuters.com/legal/frustration-some-bankman-frieds-victims-who-hoped-stiffer-sentence-2024-03-28/</link>
-      <description><![CDATA[周四，加密货币交易所前亿万富翁老板 Sam Bankman-Fried 因盗窃客户 80 亿美元而被判处 25 年监禁后，一些前 FTX 客户表达了愤怒和失望。]]></description>
+      <description><![CDATA[周四，加密货币交易所前亿万富翁老板萨姆·班克曼·弗里德 (Sam Bankman-Fried) 因盗窃客户 80 亿美元而被判处 25 年监禁后，一些前 FTX 客户表达了愤怒和失望。]]></description>
       <guid>https://www.reuters.com/legal/frustration-some-bankman-frieds-victims-who-hoped-stiffer-sentence-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 18:40:56 GMT</pubDate>
     </item>
@@ -55,34 +90,6 @@
       <pubDate>Thu, 28 Mar 2024 17:08:45 GMT</pubDate>
     </item>
     <item>
-      <title>希腊环保局就俄罗斯天然气工业股份公司交易价格提起仲裁</title>
-      <link>https://www.reuters.com/markets/commodities/greeces-depa-files-arbitration-over-prices-gazprom-deal-2024-03-28/</link>
-      <description><![CDATA[希腊天然气供应商 DEPA Commercial 已提起仲裁，寻求修改其与俄罗斯天然气工业股份公司的天然气供应合同价格，DEPA 首席执行官康斯坦丁诺斯·西法拉斯 (Constantinos Xifaras) 周四表示。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/greeces-depa-files-arbitration-over-prices-gazprom-deal-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 16:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>花旗称 42% 的能源客户缺乏气候转型计划</title>
-      <link>https://www.reuters.com/business/finance/citi-says-42-energy-clients-lack-climate-transition-plans-2024-03-28/</link>
-      <description><![CDATA[美国第四大银行花旗在周四发布的气候报告中表示，花旗贷款的能源公司中近一半缺乏减少温室气体排放的计划。]]></description>
-      <guid>https://www.reuters.com/business/finance/citi-says-42-energy-clients-lack-climate-transition-plans-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 16:04:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>瑞士央行施莱格尔认为有必要分析瑞银的资本要求</title>
-      <link>https://www.reuters.com/business/finance/snbs-schlegel-sees-need-analysis-ubss-capital-requirements-2024-03-28/</link>
-      <description><![CDATA[瑞士央行副主席周四在接受瑞士报纸《金融与经济》采访时呼吁对瑞银的资本要求进行深入审查。]]></description>
-      <guid>https://www.reuters.com/business/finance/snbs-schlegel-sees-need-analysis-ubss-capital-requirements-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 15:36:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>新飞机制造商负责人表示波音面临“关键时刻”</title>
-      <link>https://www.reuters.com/business/aerospace-defense/new-planemaker-chief-says-boeing-faces-pivotal-moment-2024-03-28/</link>
-      <description><![CDATA[陷入困境的波音商用飞机部门的新任负责人表示，这家美国飞机制造商面临着一个“关键时刻”，在 1 月份 737 MAX 9 喷气式飞机的一块面板发生故障后，该公司正在努力提高质量并解决监管机构和航空公司客户的重大担忧。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/new-planemaker-chief-says-boeing-faces-pivotal-moment-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 15:23:09 GMT</pubDate>
-    </item>
-    <item>
       <title>洞察：随着西非可可危机的加深，巧克力价格将继续上涨</title>
       <link>https://www.reuters.com/markets/commodities/chocolate-prices-keep-rising-west-africas-cocoa-crisis-deepens-2024-03-28/</link>
       <description><![CDATA[审视她农场的荒芜景观——散布着非法金矿开采者留下的受氰化物污染、呈茶色的废水池——足以让珍妮特·贾姆菲崩溃。]]></description>
@@ -99,7 +106,7 @@
     <item>
       <title>报告称全球智能手机市场将于 2024 年反弹</title>
       <link>https://www.reuters.com/technology/global-smartphone-market-set-rebound-2024-report-says-2024-03-28/</link>
-      <description><![CDATA[Counterpoint Research 周四发布的一份报告称，由于通胀缓解有助于新兴市场的需求复苏，加上生成式人工智能的集成吸引买家购买高端设备，全球智能手机出货量预计今年将反弹 3%。]]></description>
+      <description><![CDATA[Counterpoint Research 周四发布的一份报告称，由于通胀缓解有助于新兴市场需求复苏，加上生成式人工智能的集成吸引买家购买高端设备，全球智能手机出货量预计今年将反弹 3%。]]></description>
       <guid>https://www.reuters.com/technology/global-smartphone-market-set-rebound-2024-report-says-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 11:14:02 GMT</pubDate>
     </item>
@@ -127,14 +134,14 @@
     <item>
       <title>Sam Bankman-Fried 是谁，这位曾经的加密货币大亨被判处 25 年监禁？</title>
       <link>https://www.reuters.com/technology/who-is-sam-bankman-fried-onetime-crypto-mogul-facing-decades-prison-2024-03-28/</link>
-      <description><![CDATA[大学毕业几年后，萨姆·班克曼-弗里德开始担心自己没有承担足够的风险。]]></description>
+      <description><![CDATA[大学毕业几年后，山姆·班克曼·弗里德 (Sam Bankman-Fried) 开始担心自己没有承担足够的风险。]]></description>
       <guid>https://www.reuters.com/technology/who-is-sam-bankman-fried-onetime-crypto-mogul-facing-decades-prison-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 10:03:01 GMT</pubDate>
     </item>
     <item>
-      <title>复活节假期前华尔街表现平淡，第一季度涨幅强劲</title>
+      <title>标准普尔 500 指数收高，创下 2019 年以来最强劲的第一季度表现</title>
       <link>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</link>
-      <description><![CDATA[周四，华尔街主要股指在复活节假期前的清淡交易中苦苦寻找方向，而投资者则等待数据来衡量美联储在强劲的第一季度最后一个工作日的政策路径。]]></description>
+      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也期待下一个通胀数据。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 09:45:52 GMT</pubDate>
     </item>
