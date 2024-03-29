@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Mar 2024 15:48:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 16:07:12 GMT</lastBuildDate>
+    <item>
+      <title>由于通胀仍然粘性，鲍威尔将更新政策观点</title>
+      <link>https://www.reuters.com/markets/us/powell-update-views-policy-inflation-remains-sticky-2024-03-29/</link>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔周五将更新他对美国通胀和经济的看法，此前公布的数据显示物价上涨速度快于美联储主席上周的预期。]]></description>
+      <guid>https://www.reuters.com/markets/us/powell-update-views-policy-inflation-remains-sticky-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 13:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>智利 Codelco 公布 2023 年利润因产量下降而下滑</title>
+      <link>https://www.reuters.com/markets/commodities/chiles-codelco-posts-2023-profit-dip-production-falls-2024-03-29/</link>
+      <description><![CDATA[智利铜业巨头 Codelco (COBRE.UL) 周四在一份文件中表示，该国有生​​产商在面临运营和生产挑战后，报告 2023 年毛利润为 31.2 亿美元，较上年同期下降 34%。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/chiles-codelco-posts-2023-profit-dip-production-falls-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 13:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国敲定对重型车辆更严格的新尾气排放限制</title>
+      <link>https://www.reuters.com/business/autos-transportation/us-finalizes-tougher-new-tailpipe-emissions-limits-heavy-duty-vehicles-2024-03-29/</link>
+      <description><![CDATA[美国环境保护署周五表示，正在最终确定针对半挂卡车和公共汽车等重型车辆的严格的新尾气排放标准。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/us-finalizes-tougher-new-tailpipe-emissions-limits-heavy-duty-vehicles-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 13:08:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国月度通胀放缓；消费者支出激增</title>
+      <link>https://www.reuters.com/markets/us/us-inflation-increases-moderately-february-consumer-spending-surges-2024-03-29/</link>
+      <description><![CDATA[美国2月份物价涨幅低于预期，住房和能源以外的服务成本大幅放缓，使得美联储6月份降息的可能性得以保留。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-inflation-increases-moderately-february-consumer-spending-surges-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 12:51:39 GMT</pubDate>
+    </item>
     <item>
       <title>随着中国电动汽车的推出，小米的“雷神”挑战埃隆·马斯克</title>
       <link>https://www.reuters.com/business/autos-transportation/with-china-ev-launch-xiaomis-thor-takes-elon-musk-2024-03-29/</link>
-      <description><![CDATA[他被称为中国版的史蒂夫·乔布斯，带领小米从斗志旺盛的初创公司发展成为以智能手机闻名的电子巨头。]]></description>
+      <description><![CDATA[他被称为中国版的史蒂夫·乔布斯，因为他带领小米从斗志旺盛的初创公司发展成为以智能手机闻名的电子巨头。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/with-china-ev-launch-xiaomis-thor-takes-elon-musk-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 11:19:40 GMT</pubDate>
     </item>
@@ -29,7 +57,7 @@
     <item>
       <title>即使通胀粘性，美联储的平衡行动也可能导致 6 月降息</title>
       <link>https://www.reuters.com/markets/rates-bonds/feds-balancing-act-could-see-june-rate-cut-play-even-with-sticky-inflation-2024-03-29/</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔表示，尽管政策制定者的最新预测提高了今年的通胀前景，但没有引发更严厉的货币政策反应，但美联储并未对通胀上升更加容忍。]]></description>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔表示，尽管政策制定者的最新预测提高了今年的通胀前景，但没有引发更严厉的货币政策反应，但美联储对通胀上升的容忍度并未提高。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/feds-balancing-act-could-see-june-rate-cut-play-even-with-sticky-inflation-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 10:08:23 GMT</pubDate>
     </item>
@@ -55,25 +83,11 @@
       <pubDate>Fri, 29 Mar 2024 08:56:48 GMT</pubDate>
     </item>
     <item>
-      <title>习近平旧讲话引发中国货币宽松猜测</title>
-      <link>https://www.reuters.com/markets/asia/old-xi-jinping-speech-sparks-china-monetary-easing-speculation-2024-03-29/</link>
-      <description><![CDATA[中国国家主席习近平几个月前的讲话中的一句话引发了人们的猜测，即央行可能会开始大举购买政府债券以支持经济，而这是中国长期以来一直回避的刺激措施。]]></description>
-      <guid>https://www.reuters.com/markets/asia/old-xi-jinping-speech-sparks-china-monetary-easing-speculation-2024-03-29/</guid>
-      <pubDate>Fri, 29 Mar 2024 08:50:29 GMT</pubDate>
-    </item>
-    <item>
       <title>日本日经指数创本财年最大涨幅</title>
       <link>https://www.reuters.com/markets/asia/japans-nikkei-posts-biggest-point-gain-fiscal-year-2024-03-29/</link>
       <description><![CDATA[在芯片相关权重股的推动下，日本日经平均指数周五收高，并在外国大量买盘的推动下创下了财年创纪录的涨幅。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-nikkei-posts-biggest-point-gain-fiscal-year-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 08:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>马自达与松下能源部门签署汽车电池供应协议</title>
-      <link>https://www.reuters.com/business/autos-transportation/mazda-panasonics-energy-unit-sign-auto-battery-supply-agreement-2024-03-29/</link>
-      <description><![CDATA[日本汽车制造商马自达汽车和松下控股的能源部门周五表示，他们已经签署了一份汽车电池供应协议。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/mazda-panasonics-energy-unit-sign-auto-battery-supply-agreement-2024-03-29/</guid>
-      <pubDate>Fri, 29 Mar 2024 07:10:27 GMT</pubDate>
     </item>
     <item>
       <title>首席执行官表示，减肥药物交易将推动 Gerresheimer 每年约 4% 的增长</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[周五政府数据显示，尽管红海动荡导致运输成本上升，但由于出口蓬勃发展，越南第一季度国内生产总值同比增长5.66%。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/vietnam-reports-q1-gdp-growth-566-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 02:19:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>德克萨斯州总检察长对波音零部件供应商展开调查</title>
-      <link>https://www.reuters.com/business/aerospace-defense/texas-attorney-general-opens-investigation-into-parts-supplier-boeing-2024-03-29/</link>
-      <description><![CDATA[得克萨斯州总检察长肯·帕克斯顿 (Ken Paxton) 办公室周四表示，已对波音零部件供应商 Spirit AeroSystems Holdings Inc 展开调查，此前他表示，某些零部件反复出现问题。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/texas-attorney-general-opens-investigation-into-parts-supplier-boeing-2024-03-29/</guid>
-      <pubDate>Fri, 29 Mar 2024 00:57:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>高盛和摩根士丹利赢得驳回Archegos倒闭诉讼</title>
-      <link>https://www.reuters.com/legal/goldman-morgan-stanley-win-dismissal-lawsuits-over-archegos-collapse-2024-03-28/</link>
-      <description><![CDATA[周四，一名美国法官驳回了投资者的七项诉讼，这些投资者指控高盛集团和摩根士丹利不当行为，导致比尔·黄 (Bill Hwang) 的 360 亿美元公司 Archegos Capital Management 在 2021 年 3 月迅速倒闭。]]></description>
-      <guid>https://www.reuters.com/legal/goldman-morgan-stanley-win-dismissal-lawsuits-over-archegos-collapse-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 21:30:29 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉似乎不太可能驳回美国指控对黑人工人存在偏见的诉讼</title>
@@ -139,11 +139,11 @@
       <pubDate>Thu, 28 Mar 2024 10:08:01 GMT</pubDate>
     </item>
     <item>
-      <title>标准普尔 500 指数收高，创下 2019 年以来最强劲的第一季度表现</title>
-      <link>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</link>
-      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也在展望下一个通胀数据。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 09:45:52 GMT</pubDate>
+      <title>解释者：绘制美联储经济数据流图</title>
+      <link>https://www.reuters.com/markets/us/charting-feds-economic-data-flow-2024-02-02/</link>
+      <description><![CDATA[美联储在 3 月份政策会议上将基准利率稳定在 5.25% 至 5.5% 的区间，官员们继续预计在 2024 年底前批准降息 3 个基点。]]></description>
+      <guid>https://www.reuters.com/markets/us/charting-feds-economic-data-flow-2024-02-02/</guid>
+      <pubDate>Fri, 02 Feb 2024 14:29:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
