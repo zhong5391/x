@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Mar 2024 06:29:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 06:58:20 GMT</lastBuildDate>
+    <item>
+      <title>首席执行官表示，减肥药物交易将推动 Gerresheimer 每年约 4% 的增长</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/weight-loss-drug-deals-drive-around-4-gerresheimer-yearly-growth-ceo-says-2024-03-29/</link>
+      <description><![CDATA[Gerresheimer 首席执行官 Dietmar Siemssen 表示，他预计公司每年约 4% 的收入增长来自向减肥和糖尿病药物制造商提供小瓶、药筒、注射器和自动注射器的交易。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/weight-loss-drug-deals-drive-around-4-gerresheimer-yearly-growth-ceo-says-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 06:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称，日本提前召开日元紧急会议，以最大限度地发挥市场影响</title>
+      <link>https://www.reuters.com/markets/currencies/japan-brought-forward-emergency-yen-meeting-maximise-market-impact-source-2024-03-29/</link>
+      <description><![CDATA[一位知情人士告诉路透社，日本货币当局在最后一刻决定将原定于周四举行的日元疲软紧急会议提前至周三，以最大限度地发挥阻止日元大幅下跌的作用。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/japan-brought-forward-emergency-yen-meeting-maximise-market-impact-source-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 04:55:33 GMT</pubDate>
+    </item>
     <item>
       <title>越南第一季度经济增长5.66%，出口繁荣</title>
       <link>https://www.reuters.com/world/asia-pacific/vietnam-reports-q1-gdp-growth-566-2024-03-29/</link>
@@ -83,13 +97,6 @@
       <pubDate>Thu, 28 Mar 2024 20:27:45 GMT</pubDate>
     </item>
     <item>
-      <title>美国和墨西哥将合作开发半导体供应链</title>
-      <link>https://www.reuters.com/technology/us-mexico-partner-semiconductor-supply-chain-development-2024-03-28/</link>
-      <description><![CDATA[美国国务院周四表示，随着拜登政府努力减少对中国和台湾的技术依赖，美国将与墨西哥合作探索半导体供应链机会。]]></description>
-      <guid>https://www.reuters.com/technology/us-mexico-partner-semiconductor-supply-chain-development-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 19:33:54 GMT</pubDate>
-    </item>
-    <item>
       <title>布莱克威尔斯在与迪士尼的代理权争夺战中起诉迪士尼披露对冲基金关系</title>
       <link>https://www.reuters.com/legal/blackwells-sues-disney-delaware-over-disclosure-relationship-with-valueact-2024-03-28/</link>
       <description><![CDATA[Blackwells Capital 在一场长期的董事会斗争中加大了对华特迪士尼的压力，周四起诉这家娱乐巨头，要求提供可能表明在与对冲基金 ValueAct Capital 的交易中可能存在披露违规行为的信息。]]></description>
@@ -99,16 +106,9 @@
     <item>
       <title>消息人士称，厨房海绵制造商Scrub Daddy正在考虑出售</title>
       <link>https://www.reuters.com/markets/deals/kitchen-sponge-maker-scrub-daddy-explores-sale-sources-say-2024-03-28/</link>
-      <description><![CDATA[据知情人士透露，厨房海绵制造商 Scrub Daddy 因获得美国电视节目《Shark Tank》的投资而广受欢迎，该公司正在探索包括出售该公司在内的选择。]]></description>
+      <description><![CDATA[据知情人士透露，厨房海绵制造商 Scrub Daddy 在获得美国电视节目《Shark Tank》的投资后广受欢迎，该公司正在探索包括出售该公司在内的选择。]]></description>
       <guid>https://www.reuters.com/markets/deals/kitchen-sponge-maker-scrub-daddy-explores-sale-sources-say-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 18:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着投票的进行，迪士尼董事会席位之争愈演愈烈，布莱克韦尔提起诉讼</title>
-      <link>https://www.reuters.com/business/media-telecom/new-york-city-retirement-system-back-disney-boardroom-battle-with-trian-2024-03-28/</link>
-      <description><![CDATA[距离股东选举华特迪士尼董事会还有不到一周的时间，周四的投票竞争愈演愈烈，一位机构投资者支持首席执行官鲍勃·艾格(Bob Iger)和公司董事，而另一位机构投资者则支持对冲基金经理纳尔逊·佩尔茨(Nelson Peltz)的特里安基金管理公司(Trian Fund Management)。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/new-york-city-retirement-system-back-disney-boardroom-battle-with-trian-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 18:44:47 GMT</pubDate>
     </item>
     <item>
       <title>班克曼·弗里德案的一些受害者希望得到更严厉的判决，这让他们感到沮丧</title>
@@ -141,7 +141,7 @@
     <item>
       <title>标准普尔 500 指数收高，创下 2019 年以来最强劲的第一季度表现</title>
       <link>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</link>
-      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也期待下一个通胀数据。]]></description>
+      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也在展望下一个通胀数据。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 09:45:52 GMT</pubDate>
     </item>
