@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Mar 2024 09:29:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 09:43:12 GMT</lastBuildDate>
+    <item>
+      <title>日本日经指数创本财年最大涨幅</title>
+      <link>https://www.reuters.com/markets/asia/japans-nikkei-posts-biggest-point-gain-fiscal-year-2024-03-29/</link>
+      <description><![CDATA[在芯片相关权重股的推动下，日本日经平均指数周五收高，并在外国大量买盘的推动下创下了财年创纪录的涨幅。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japans-nikkei-posts-biggest-point-gain-fiscal-year-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 08:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>马自达与松下能源部门签署汽车电池供应协议</title>
+      <link>https://www.reuters.com/business/autos-transportation/mazda-panasonics-energy-unit-sign-auto-battery-supply-agreement-2024-03-29/</link>
+      <description><![CDATA[日本汽车制造商马自达汽车和松下控股的能源部门周五表示，他们已经签署了一份汽车电池供应协议。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/mazda-panasonics-energy-unit-sign-auto-battery-supply-agreement-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 07:10:27 GMT</pubDate>
+    </item>
     <item>
       <title>首席执行官表示，减肥药物交易将推动 Gerresheimer 每年约 4% 的增长</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/weight-loss-drug-deals-drive-around-4-gerresheimer-yearly-growth-ceo-says-2024-03-29/</link>
@@ -20,9 +34,9 @@
       <pubDate>Fri, 29 Mar 2024 04:55:33 GMT</pubDate>
     </item>
     <item>
-      <title>越南第一季度经济增长5.66%，出口繁荣</title>
+      <title>出口繁荣，越南第一季度经济增长5.66%</title>
       <link>https://www.reuters.com/world/asia-pacific/vietnam-reports-q1-gdp-growth-566-2024-03-29/</link>
-      <description><![CDATA[周五公布的政府数据显示，尽管红海动荡导致运输成本上升，但由于出口蓬勃发展，越南第一季度国内生产总值同比增长5.66%。]]></description>
+      <description><![CDATA[周五政府数据显示，尽管红海动荡导致运输成本上升，但由于出口蓬勃发展，越南第一季度国内生产总值同比增长5.66%。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/vietnam-reports-q1-gdp-growth-566-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 02:19:39 GMT</pubDate>
     </item>
@@ -104,20 +118,6 @@
       <pubDate>Thu, 28 Mar 2024 19:21:16 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，厨房海绵制造商Scrub Daddy正在考虑出售</title>
-      <link>https://www.reuters.com/markets/deals/kitchen-sponge-maker-scrub-daddy-explores-sale-sources-say-2024-03-28/</link>
-      <description><![CDATA[据知情人士透露，厨房海绵制造商 Scrub Daddy 在获得美国电视节目《Shark Tank》的投资后广受欢迎，该公司正在探索包括出售该公司在内的选择。]]></description>
-      <guid>https://www.reuters.com/markets/deals/kitchen-sponge-maker-scrub-daddy-explores-sale-sources-say-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 18:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>班克曼·弗里德案的一些受害者希望得到更严厉的判决，这让他们感到沮丧</title>
-      <link>https://www.reuters.com/legal/frustration-some-bankman-frieds-victims-who-hoped-stiffer-sentence-2024-03-28/</link>
-      <description><![CDATA[周四，加密货币交易所前亿万富翁老板萨姆·班克曼·弗里德 (Sam Bankman-Fried) 因盗窃客户 80 亿美元而被判处 25 年监禁后，一些前 FTX 客户表达了愤怒和失望。]]></description>
-      <guid>https://www.reuters.com/legal/frustration-some-bankman-frieds-victims-who-hoped-stiffer-sentence-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 18:40:56 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：Nutrien 在亏损和管理层外流后考虑撤资拉丁美洲</title>
       <link>https://www.reuters.com/markets/commodities/nutrien-mulls-latam-divestments-after-losses-management-exodus-2024-03-28/</link>
       <description><![CDATA[据直接了解情况的消息人士透露，全球最大的钾肥生产商 Nutrien Ltd. 正在考虑在南美洲撤资，更换管理层，并在巴西遭受严重亏损后停止在巴西的收购热潮。]]></description>
@@ -141,7 +141,7 @@
     <item>
       <title>标准普尔 500 指数收高，创下 2019 年以来最强劲的第一季度表现</title>
       <link>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</link>
-      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也在展望下一个通胀数据。]]></description>
+      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也期待下一个通胀数据。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 09:45:52 GMT</pubDate>
     </item>
