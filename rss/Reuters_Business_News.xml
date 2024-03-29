@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Mar 2024 10:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 10:38:51 GMT</lastBuildDate>
     <item>
       <title>日本日经指数创本财年最大涨幅</title>
       <link>https://www.reuters.com/markets/asia/japans-nikkei-posts-biggest-point-gain-fiscal-year-2024-03-29/</link>
@@ -141,7 +141,7 @@
     <item>
       <title>标准普尔 500 指数收高，创下 2019 年以来最强劲的第一季度表现</title>
       <link>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</link>
-      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也在展望下一个通胀数据。]]></description>
+      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也期待下一个通胀数据。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 09:45:52 GMT</pubDate>
     </item>
