@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Mar 2024 23:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 23:42:54 GMT</lastBuildDate>
     <item>
-      <title>美国上诉法院不会阻止 FTC 重新审理 Meta 隐私案</title>
+      <title>官员表示，美国将限制一些经济适用房的租金上涨</title>
+      <link>https://www.reuters.com/markets/us/us-cap-rent-raise-some-affordable-housing-units-official-says-2024-03-29/</link>
+      <description><![CDATA[一位高级政府官员周五表示，美国总统乔·拜登政府将很快宣布对联邦政府补贴的某些经济适用住房单元的年租金涨幅设定上限 10%。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-cap-rent-raise-some-affordable-housing-units-official-says-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 21:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国商务部更新对华人工智能芯片出口限制</title>
+      <link>https://www.reuters.com/technology/us-commerce-updates-export-curbs-ai-chips-china-2024-03-29/</link>
+      <description><![CDATA[拜登政府周五修改了五个月前的规则，旨在让中国更难获得美国人工智能芯片。]]></description>
+      <guid>https://www.reuters.com/technology/us-commerce-updates-export-curbs-ai-chips-china-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 20:56:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>法院称 Meta 无法阻止美国联邦贸易委员会重新启动隐私调查</title>
       <link>https://www.reuters.com/legal/us-appeals-court-will-not-block-ftc-reopening-meta-privacy-case-2024-03-29/</link>
-      <description><![CDATA[美国上诉法院的一个小组周五驳回了 Meta 的请求，阻止美国联邦贸易委员会在上诉期间重新对其 Facebook 部门展开调查。]]></description>
+      <description><![CDATA[美国一家法院周五裁定，在该公司提起诉讼挑战该机构权威的同时，Meta Platforms 不能拖延美国联邦贸易委员会对其 Facebook 部门涉嫌隐私问题重新启动调查。]]></description>
       <guid>https://www.reuters.com/legal/us-appeals-court-will-not-block-ftc-reopening-meta-privacy-case-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 20:32:31 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>美国联邦航空局认证湾流 G700 公务机</title>
       <link>https://www.reuters.com/business/aerospace-defense/us-faa-certifies-gulfstream-g700-business-jet-2024-03-29/</link>
-      <description><![CDATA[美国联邦航空管理局 (FAA) 周五表示，已对通用动力公司的湾流旗舰 G700 商务飞机进行了认证，从而推动豪华喷气机高端市场的新竞争。]]></description>
+      <description><![CDATA[美国联邦航空管理局 (FAA) 周五表示，已对通用动力公司的湾流旗舰 G700 商务飞机进行了认证，从而推动了豪华喷气机高端市场的新竞争。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/us-faa-certifies-gulfstream-g700-business-jet-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 15:58:42 GMT</pubDate>
     </item>
@@ -62,16 +76,9 @@
       <pubDate>Fri, 29 Mar 2024 13:51:18 GMT</pubDate>
     </item>
     <item>
-      <title>智利 Codelco 公布 2023 年利润因产量下降而下滑</title>
-      <link>https://www.reuters.com/markets/commodities/chiles-codelco-posts-2023-profit-dip-production-falls-2024-03-29/</link>
-      <description><![CDATA[智利铜业巨头 Codelco (COBRE.UL) 周四在一份文件中表示，国有生产商报告 2023 年毛利润为 31.2 亿美元，较上年同期下降 34%，此前该国营公司面临运营和生产挑战。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/chiles-codelco-posts-2023-profit-dip-production-falls-2024-03-29/</guid>
-      <pubDate>Fri, 29 Mar 2024 13:28:46 GMT</pubDate>
-    </item>
-    <item>
       <title>美国最终确定重型车辆新的尾气排放限制</title>
       <link>https://www.reuters.com/business/autos-transportation/us-finalizes-tougher-new-tailpipe-emissions-limits-heavy-duty-vehicles-2024-03-29/</link>
-      <description><![CDATA[美国政府周五表示，正在最终确定半挂卡车和公共汽车等重型车辆的更严格尾气排放标准，但新规则不会像 2023 年最初提出的那样严格。]]></description>
+      <description><![CDATA[美国政府周五表示，正在最终确定半挂卡车和公共汽车等重型车辆的更严格的尾气排放标准，但新规则不会像 2023 年最初提出的那样严格。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-finalizes-tougher-new-tailpipe-emissions-limits-heavy-duty-vehicles-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 13:08:10 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>随着中国电动汽车的推出，小米的“雷神”挑战埃隆·马斯克</title>
       <link>https://www.reuters.com/business/autos-transportation/with-china-ev-launch-xiaomis-thor-takes-elon-musk-2024-03-29/</link>
-      <description><![CDATA[他被称为中国版的史蒂夫·乔布斯，带领小米从斗志旺盛的初创公司发展成为以智能手机闻名的电子巨头。]]></description>
+      <description><![CDATA[他被称为中国版的史蒂夫·乔布斯，因为他带领小米从斗志旺盛的初创公司发展成为以智能手机闻名的电子巨头。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/with-china-ev-launch-xiaomis-thor-takes-elon-musk-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 11:19:40 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>即使通胀粘性，美联储的平衡行动也可能导致 6 月降息</title>
       <link>https://www.reuters.com/markets/rates-bonds/feds-balancing-act-could-see-june-rate-cut-play-even-with-sticky-inflation-2024-03-29/</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔表示，尽管政策制定者的最新预测提高了今年的通胀前景，但没有引发更严厉的货币政策反应，但美联储并未对通胀上升更加容忍。]]></description>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔表示，尽管政策制定者的最新预测提高了今年的通胀前景，但没有引发更严厉的货币政策反应，但美联储对通胀上升的容忍度并未提高。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/feds-balancing-act-could-see-june-rate-cut-play-even-with-sticky-inflation-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 10:08:23 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[Sam Bankman-Fried 周四被法官判处 25 年监禁，罪名是从他创立的现已破产的 FTX 加密货币交易所的客户那里窃取 80 亿美元，这是这位前亿万富翁神童戏剧性垮台的最后一步。]]></description>
       <guid>https://www.reuters.com/technology/sam-bankman-fried-be-sentenced-multi-billion-dollar-ftx-fraud-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 10:08:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>解释者：绘制美联储经济数据流图</title>
-      <link>https://www.reuters.com/markets/us/charting-feds-economic-data-flow-2024-02-02/</link>
-      <description><![CDATA[美联储在 3 月份政策会议上将基准利率稳定在 5.25% 至 5.5% 的区间，官员们继续预计在 2024 年底前批准降息 3 个基点。]]></description>
-      <guid>https://www.reuters.com/markets/us/charting-feds-economic-data-flow-2024-02-02/</guid>
-      <pubDate>Fri, 02 Feb 2024 14:29:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
