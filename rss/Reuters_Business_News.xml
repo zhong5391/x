@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Mar 2024 11:30:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 11:43:33 GMT</lastBuildDate>
+    <item>
+      <title>马斯克的 Grok-1.5 人工智能聊天机器人将于下周推出</title>
+      <link>https://www.reuters.com/technology/musks-grok-15-ai-chatbot-be-available-next-week-2024-03-29/</link>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的人工智能初创公司 xAI 的最新 Grok-1.5 聊天机器人将于下周在他的社交媒体平台 X 上发布，这位亿万富翁周五在 X 上发帖表示。]]></description>
+      <guid>https://www.reuters.com/technology/musks-grok-15-ai-chatbot-be-available-next-week-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 10:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者将美联储降息和盈利视为维持市场反弹的关键</title>
+      <link>https://www.reuters.com/markets/us/wall-st-week-ahead-investors-eye-fed-rate-cut-earnings-key-sustaining-market-2024-03-29/</link>
+      <description><![CDATA[在今年股市开局良好之后，投资者对第二季度的潜在波动保持警惕，因为他们评估美联储是否能在 6 月之前实现预期的降息，并将注意力转向即将到来的盈利状况。]]></description>
+      <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-investors-eye-fed-rate-cut-earnings-key-sustaining-market-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 10:10:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>即使通胀粘性，美联储的平衡行动也可能导致 6 月降息</title>
+      <link>https://www.reuters.com/markets/rates-bonds/feds-balancing-act-could-see-june-rate-cut-play-even-with-sticky-inflation-2024-03-29/</link>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔表示，尽管政策制定者的最新预测提高了今年的通胀前景，但没有引发更严厉的货币政策反应，但美联储对通胀上升的容忍度并未提高。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/feds-balancing-act-could-see-june-rate-cut-play-even-with-sticky-inflation-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 10:08:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国对 Stellantis 2022 RAM 卡车型号进行 K1 卡环变速箱故障调查</title>
+      <link>https://www.reuters.com/business/autos-transportation/us-probes-stellantis-2022-ram-truck-models-over-k1-snap-ring-transmission-2024-03-29/</link>
+      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 表示，美国缺陷调查办公室 (ODI) 已对克莱斯勒母公司 Stellantis 的 2022 年 RAM 3500、4500 和 5500 卡车中的 K1 卡环故障展开初步评估。星期五。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/us-probes-stellantis-2022-ram-truck-models-over-k1-snap-ring-transmission-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 09:57:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国的红地毯吸引了首席执行官，但很少有人指望他们的钱会随之而来</title>
+      <link>https://www.reuters.com/world/china/chinas-red-carpet-draws-ceos-few-expect-their-money-follow-2024-03-29/</link>
+      <description><![CDATA[中国政府本周用红地毯欢迎外国高管，试图阻止企业投资从曾经被视为全球增长引擎的市场撤退。]]></description>
+      <guid>https://www.reuters.com/world/china/chinas-red-carpet-draws-ceos-few-expect-their-money-follow-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 09:12:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>松下将把汽车业务的全部股份出售给阿波罗全球管理基金</title>
+      <link>https://www.reuters.com/markets/deals/panasonic-sell-entire-stake-autos-business-apollo-global-managed-funds-2024-03-29/</link>
+      <description><![CDATA[日本松下控股公司周五表示，将把其在松下汽车系统公司（PAS）的全部股份出售给美国私募股权公司阿波罗全球管理公司管理的基金。]]></description>
+      <guid>https://www.reuters.com/markets/deals/panasonic-sell-entire-stake-autos-business-apollo-global-managed-funds-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 08:56:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>习近平旧讲话引发中国货币宽松猜测</title>
+      <link>https://www.reuters.com/markets/asia/old-xi-jinping-speech-sparks-china-monetary-easing-speculation-2024-03-29/</link>
+      <description><![CDATA[中国国家主席习近平几个月前的讲话中的一句话引发了人们的猜测，即央行可能会开始大举购买政府债券以支持经济，而这是中国长期以来一直回避的刺激措施。]]></description>
+      <guid>https://www.reuters.com/markets/asia/old-xi-jinping-speech-sparks-china-monetary-easing-speculation-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 08:50:29 GMT</pubDate>
+    </item>
     <item>
       <title>日本日经指数创本财年最大涨幅</title>
       <link>https://www.reuters.com/markets/asia/japans-nikkei-posts-biggest-point-gain-fiscal-year-2024-03-29/</link>
-      <description><![CDATA[在芯片相关权重股的推动下，日本日经指数周五收高，并在外国大量买盘的推动下创下了财年创纪录的涨幅。]]></description>
+      <description><![CDATA[在芯片相关权重股的推动下，日本日经平均指数周五收高，并在外国大量买盘的推动下创下了财年创纪录的涨幅。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-nikkei-posts-biggest-point-gain-fiscal-year-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 08:28:00 GMT</pubDate>
     </item>
@@ -48,46 +97,11 @@
       <pubDate>Fri, 29 Mar 2024 00:57:42 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克的 xAI 将推出改进版聊天机器人</title>
-      <link>https://www.reuters.com/technology/musks-xai-launch-improved-version-chatbot-2024-03-29/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 旗下的人工智能初创公司 xAI 周四表示，将推出聊天机器人 Grok 的增强版。]]></description>
-      <guid>https://www.reuters.com/technology/musks-xai-launch-improved-version-chatbot-2024-03-29/</guid>
-      <pubDate>Fri, 29 Mar 2024 00:51:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴西交易所运营商 B3 将于四月提供比特币期货</title>
-      <link>https://www.reuters.com/business/finance/brazil-exchange-operator-b3-offer-bitcoin-futures-april-2024-03-28/</link>
-      <description><![CDATA[巴西交易所运营商 B3 周四表示，已获得该国证券监管机构的批准，可以提供比特币期货，交易将于 4 月 17 日开始。]]></description>
-      <guid>https://www.reuters.com/business/finance/brazil-exchange-operator-b3-offer-bitcoin-futures-april-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 23:48:57 GMT</pubDate>
-    </item>
-    <item>
       <title>东京通胀放缓、产出下滑给日本央行加息前景蒙上阴影</title>
       <link>https://www.reuters.com/markets/asia/tokyo-inflation-slows-march-clouding-rate-hike-outlook-2024-03-28/</link>
       <description><![CDATA[日本首都3月份核心通胀放缓，上个月工厂产出意外下滑，加剧了日本央行退出激进货币刺激措施后多久才能再次加息的不确定性。]]></description>
       <guid>https://www.reuters.com/markets/asia/tokyo-inflation-slows-march-clouding-rate-hike-outlook-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 23:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿拉斯加航空集团表示 737 Max 9 停飞可能会影响长期利润增长</title>
-      <link>https://www.reuters.com/business/aerospace-defense/alaska-air-group-says-737-max-9-grounding-may-hit-long-term-profit-growth-2024-03-28/</link>
-      <description><![CDATA[阿拉斯加航空集团周四表示，波音 737 Max 9 机队暂时停飞造成的运力损失可能导致该公司的长期利润增长低于 4% 至 8% 的目标范围。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/alaska-air-group-says-737-max-9-grounding-may-hit-long-term-profit-growth-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 22:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着销售工作的继续，Rite Aid 继续推进重组</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/rite-aid-moves-ahead-restructuring-sale-efforts-continue-2024-03-28/</link>
-      <description><![CDATA[美国最大的连锁药店之一 Rite Aid 周四获得美国法官的许可，开始就破产重组计划进行投票，该计划将把该公司的大部分股权​​移交给债券持有人，同时仍保留出售的可能性。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/rite-aid-moves-ahead-restructuring-sale-efforts-continue-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 21:50:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：随着第一季度的落幕，日元对假期平静持谨慎态度</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-28/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 21:49:36 GMT</pubDate>
     </item>
     <item>
       <title>高盛和摩根士丹利赢得驳回Archegos倒闭诉讼</title>
@@ -111,25 +125,11 @@
       <pubDate>Thu, 28 Mar 2024 20:27:45 GMT</pubDate>
     </item>
     <item>
-      <title>布莱克韦尔斯在与迪士尼的代理权争夺战中起诉迪士尼披露对冲基金关系</title>
+      <title>布莱克威尔斯在与迪士尼的代理权争夺战中起诉迪士尼披露对冲基金关系</title>
       <link>https://www.reuters.com/legal/blackwells-sues-disney-delaware-over-disclosure-relationship-with-valueact-2024-03-28/</link>
-      <description><![CDATA[Blackwells Capital 在一场长期的董事会斗争中加大了对华特迪士尼的压力，周四起诉这家娱乐巨头，要求提供可能表明与对冲基金 ValueAct Capital 交易时可能存在披露违规行为的信息。]]></description>
+      <description><![CDATA[Blackwells Capital 在一场长期的董事会斗争中加大了对华特迪士尼的压力，周四起诉这家娱乐巨头，要求提供可能表明在与对冲基金 ValueAct Capital 的交易中可能存在披露违规行为的信息。]]></description>
       <guid>https://www.reuters.com/legal/blackwells-sues-disney-delaware-over-disclosure-relationship-with-valueact-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 19:21:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：Nutrien 在亏损和管理层外流后考虑撤资拉丁美洲</title>
-      <link>https://www.reuters.com/markets/commodities/nutrien-mulls-latam-divestments-after-losses-management-exodus-2024-03-28/</link>
-      <description><![CDATA[据直接了解情况的消息人士透露，全球最大的钾肥生产商 Nutrien Ltd. 正在考虑在南美洲撤资，更换管理层，并在巴西遭受严重亏损后停止在巴西的收购热潮。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/nutrien-mulls-latam-divestments-after-losses-management-exodus-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 17:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>在消费者和劳动力市场的帮助下，美国经济继续闪耀</title>
-      <link>https://www.reuters.com/markets/us/us-fourth-quarter-growth-revised-up-weekly-jobless-claims-fall-2024-03-28/</link>
-      <description><![CDATA[在强劲的消费者支出以及对工厂和医疗设施等非住宅建筑的商业投资的推动下，美国第四季度经济增长速度快于此前的预期。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-fourth-quarter-growth-revised-up-weekly-jobless-claims-fall-2024-03-28/</guid>
-      <pubDate>Thu, 28 Mar 2024 12:50:54 GMT</pubDate>
     </item>
     <item>
       <title>Bankman-Fried 因 FTX 数十亿美元欺诈被判 25 年监禁</title>
@@ -141,7 +141,7 @@
     <item>
       <title>标准普尔 500 指数收高，创下 2019 年以来最强劲的第一季度表现</title>
       <link>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</link>
-      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也在展望下一个通胀数据。]]></description>
+      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也期待下一个通胀数据。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 09:45:52 GMT</pubDate>
     </item>
