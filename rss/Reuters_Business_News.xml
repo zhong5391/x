@@ -1,42 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Mar 2024 17:19:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 17:32:50 GMT</lastBuildDate>
     <item>
-      <title>由于通胀仍然粘性，鲍威尔将更新政策观点</title>
+      <title>2023 年 UAW 会员人数减少 3.3% 至 37 万名</title>
+      <link>https://www.reuters.com/business/autos-transportation/uaw-membership-fell-33-2023-370000-workers-2024-03-29/</link>
+      <description><![CDATA[根据周五向美国劳工部提交的一份报告，美国汽车工人联合会的会员人数在 2023 年下降了 3.3%，至 37 万人，为 2009 年以来的最低水平。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/uaw-membership-fell-33-2023-370000-workers-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 16:30:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国联邦航空局认证湾流 G700 公务机</title>
+      <link>https://www.reuters.com/business/aerospace-defense/us-faa-certifies-gulfstream-g700-business-jet-2024-03-29/</link>
+      <description><![CDATA[美国联邦航空管理局 (FAA) 周五表示，已对通用动力公司的湾流旗舰 G700 商务飞机进行了认证，从而推动豪华喷气机高端市场的新竞争。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/us-faa-certifies-gulfstream-g700-business-jet-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 15:58:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>鲍威尔表示，美国最新通胀数据“符合”美联储的预期</title>
       <link>https://www.reuters.com/markets/us/powell-update-views-policy-inflation-remains-sticky-2024-03-29/</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔周五将更新他对美国通胀和经济的看法，此前公布的数据显示物价上涨速度快于美联储主席上周的预期。]]></description>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔周五在评论中表示，美国最新的通胀数据“符合我们希望看到的情况”，这似乎保持了央行今年降息的基准不变。]]></description>
       <guid>https://www.reuters.com/markets/us/powell-update-views-policy-inflation-remains-sticky-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 13:51:18 GMT</pubDate>
     </item>
     <item>
       <title>智利 Codelco 公布 2023 年利润因产量下降而下滑</title>
       <link>https://www.reuters.com/markets/commodities/chiles-codelco-posts-2023-profit-dip-production-falls-2024-03-29/</link>
-      <description><![CDATA[智利铜业巨头 Codelco (COBRE.UL) 周四在一份文件中表示，该国有生​​产商在面临运营和生产挑战后，报告 2023 年毛利润为 31.2 亿美元，较上年同期下降 34%。]]></description>
+      <description><![CDATA[智利铜业巨头 Codelco (COBRE.UL) 周四在一份文件中表示，国有生产商报告 2023 年毛利润为 31.2 亿美元，较上年同期下降 34%，此前该国营公司面临运营和生产挑战。]]></description>
       <guid>https://www.reuters.com/markets/commodities/chiles-codelco-posts-2023-profit-dip-production-falls-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 13:28:46 GMT</pubDate>
     </item>
     <item>
       <title>美国敲定对重型车辆更严格的新尾气排放限制</title>
       <link>https://www.reuters.com/business/autos-transportation/us-finalizes-tougher-new-tailpipe-emissions-limits-heavy-duty-vehicles-2024-03-29/</link>
-      <description><![CDATA[美国环境保护署周五表示，正在最终确定针对半挂卡车和公共汽车等重型车辆的严格的新尾气排放标准。]]></description>
+      <description><![CDATA[美国环境保护署周五表示，正在最终确定针对半卡车和公共汽车等重型车辆的严格的新尾气排放标准。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-finalizes-tougher-new-tailpipe-emissions-limits-heavy-duty-vehicles-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 13:08:10 GMT</pubDate>
     </item>
     <item>
-      <title>美国月度通胀放缓；消费者支出激增</title>
+      <title>美国通胀放缓；消费支出支撑经济</title>
       <link>https://www.reuters.com/markets/us/us-inflation-increases-moderately-february-consumer-spending-surges-2024-03-29/</link>
-      <description><![CDATA[美国2月份物价涨幅低于预期，住房和能源以外的服务成本大幅放缓，使得美联储6月份降息的可能性得以保留。]]></description>
+      <description><![CDATA[2 月份美国物价有所回落，住房和能源以外的服务成本大幅放缓，使得美联储 6 月份的降息计划得以保留。]]></description>
       <guid>https://www.reuters.com/markets/us/us-inflation-increases-moderately-february-consumer-spending-surges-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 12:51:39 GMT</pubDate>
     </item>
     <item>
       <title>随着中国电动汽车的推出，小米的“雷神”挑战埃隆·马斯克</title>
       <link>https://www.reuters.com/business/autos-transportation/with-china-ev-launch-xiaomis-thor-takes-elon-musk-2024-03-29/</link>
-      <description><![CDATA[他被称为中国版的史蒂夫·乔布斯，因为他带领小米从斗志旺盛的初创公司发展成为以智能手机闻名的电子巨头。]]></description>
+      <description><![CDATA[他被称为中国版的史蒂夫·乔布斯，带领小米从斗志旺盛的初创公司发展成为以智能手机闻名的电子巨头。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/with-china-ev-launch-xiaomis-thor-takes-elon-musk-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 11:19:40 GMT</pubDate>
     </item>
@@ -57,7 +71,7 @@
     <item>
       <title>即使通胀粘性，美联储的平衡行动也可能导致 6 月降息</title>
       <link>https://www.reuters.com/markets/rates-bonds/feds-balancing-act-could-see-june-rate-cut-play-even-with-sticky-inflation-2024-03-29/</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔表示，尽管政策制定者的最新预测提高了今年的通胀前景，但没有引发更严厉的货币政策反应，但美联储对通胀上升的容忍度并未提高。]]></description>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔表示，尽管政策制定者的最新预测提高了今年的通胀前景，但没有引发更严厉的货币政策反应，但美联储并未对通胀上升更加容忍。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/feds-balancing-act-could-see-june-rate-cut-play-even-with-sticky-inflation-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 10:08:23 GMT</pubDate>
     </item>
@@ -76,18 +90,11 @@
       <pubDate>Fri, 29 Mar 2024 09:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>松下将把汽车业务的全部股份出售给阿波罗全球管理基金</title>
+      <title>松下将向阿波罗全球管理基金出售汽车业务</title>
       <link>https://www.reuters.com/markets/deals/panasonic-sell-entire-stake-autos-business-apollo-global-managed-funds-2024-03-29/</link>
-      <description><![CDATA[日本松下控股公司周五表示，将把其在松下汽车系统公司（PAS）的全部股份出售给美国私募股权公司阿波罗全球管理公司管理的基金。]]></description>
+      <description><![CDATA[日本松下控股周五表示，将把松下汽车系统（PAS）的全部股份出售给美国私募股权公司阿波罗全球管理公司管理的基金，然后对新控股实体进行投资。]]></description>
       <guid>https://www.reuters.com/markets/deals/panasonic-sell-entire-stake-autos-business-apollo-global-managed-funds-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 08:56:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本日经指数创本财年最大涨幅</title>
-      <link>https://www.reuters.com/markets/asia/japans-nikkei-posts-biggest-point-gain-fiscal-year-2024-03-29/</link>
-      <description><![CDATA[在芯片相关权重股的推动下，日本日经平均指数周五收高，并在外国大量买盘的推动下创下了财年创纪录的涨幅。]]></description>
-      <guid>https://www.reuters.com/markets/asia/japans-nikkei-posts-biggest-point-gain-fiscal-year-2024-03-29/</guid>
-      <pubDate>Fri, 29 Mar 2024 08:28:00 GMT</pubDate>
     </item>
     <item>
       <title>首席执行官表示，减肥药物交易将推动 Gerresheimer 每年约 4% 的增长</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[一位知情人士告诉路透社，日本货币当局在最后一刻决定将原定于周四举行的日元疲软紧急会议提前至周三，以最大限度地发挥阻止日元大幅下跌的作用。]]></description>
       <guid>https://www.reuters.com/markets/currencies/japan-brought-forward-emergency-yen-meeting-maximise-market-impact-source-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 04:55:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>出口繁荣，越南第一季度经济增长5.66%</title>
-      <link>https://www.reuters.com/world/asia-pacific/vietnam-reports-q1-gdp-growth-566-2024-03-29/</link>
-      <description><![CDATA[周五政府数据显示，尽管红海动荡导致运输成本上升，但由于出口蓬勃发展，越南第一季度国内生产总值同比增长5.66%。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/vietnam-reports-q1-gdp-growth-566-2024-03-29/</guid>
-      <pubDate>Fri, 29 Mar 2024 02:19:39 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉似乎不太可能驳回美国指控对黑人工人存在偏见的诉讼</title>
