@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Mar 2024 04:28:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 04:41:38 GMT</lastBuildDate>
     <item>
       <title>德克萨斯州总检察长对波音零部件供应商展开调查</title>
       <link>https://www.reuters.com/business/aerospace-defense/texas-attorney-general-opens-investigation-into-parts-supplier-boeing-2024-03-29/</link>
@@ -71,7 +71,7 @@
     <item>
       <title>美国和墨西哥将合作开发半导体供应链</title>
       <link>https://www.reuters.com/technology/us-mexico-partner-semiconductor-supply-chain-development-2024-03-28/</link>
-      <description><![CDATA[美国国务院周四表示，随着拜登政府努力减少对中国和台湾的技术依赖，美国将与墨西哥合作探索半导体供应链机会。]]></description>
+      <description><![CDATA[美国国务院周四表示，随着拜登政府努力减少对中国和台湾技术的依赖，美国将与墨西哥合作探索半导体供应链机会。]]></description>
       <guid>https://www.reuters.com/technology/us-mexico-partner-semiconductor-supply-chain-development-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 19:33:54 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>消息人士称，厨房海绵制造商Scrub Daddy正在考虑出售</title>
       <link>https://www.reuters.com/markets/deals/kitchen-sponge-maker-scrub-daddy-explores-sale-sources-say-2024-03-28/</link>
-      <description><![CDATA[据知情人士透露，厨房海绵制造商 Scrub Daddy 因获得美国电视节目《Shark Tank》的投资而广受欢迎，该公司正在探索包括出售该公司在内的选择。]]></description>
+      <description><![CDATA[据知情人士透露，厨房海绵制造商 Scrub Daddy 在获得美国电视节目《Shark Tank》的投资后广受欢迎，该公司正在探索包括出售该公司在内的选择。]]></description>
       <guid>https://www.reuters.com/markets/deals/kitchen-sponge-maker-scrub-daddy-explores-sale-sources-say-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 18:47:14 GMT</pubDate>
     </item>
@@ -134,14 +134,14 @@
     <item>
       <title>Sam Bankman-Fried 是谁，这位曾经的加密货币大亨被判处 25 年监禁？</title>
       <link>https://www.reuters.com/technology/who-is-sam-bankman-fried-onetime-crypto-mogul-facing-decades-prison-2024-03-28/</link>
-      <description><![CDATA[大学毕业几年后，山姆·班克曼·弗里德 (Sam Bankman-Fried) 开始担心自己没有承担足够的风险。]]></description>
+      <description><![CDATA[大学毕业几年后，萨姆·班克曼-弗里德开始担心自己没有承担足够的风险。]]></description>
       <guid>https://www.reuters.com/technology/who-is-sam-bankman-fried-onetime-crypto-mogul-facing-decades-prison-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 10:03:01 GMT</pubDate>
     </item>
     <item>
       <title>标准普尔 500 指数收高，创下 2019 年以来最强劲的第一季度表现</title>
       <link>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</link>
-      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也期待下一个通胀数据。]]></description>
+      <description><![CDATA[标准普尔 500 指数周四收盘小幅上涨，基准指数创下五年来最强劲的第一季度表现，投资者在消化最新一批经济数据的同时，也在展望下一个通胀数据。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-range-bound-ahead-long-weekend-break-2024-03-28/</guid>
       <pubDate>Thu, 28 Mar 2024 09:45:52 GMT</pubDate>
     </item>
