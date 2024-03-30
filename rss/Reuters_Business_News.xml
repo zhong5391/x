@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 30 Mar 2024 08:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 08:38:38 GMT</lastBuildDate>
+    <item>
+      <title>中国开发商万达以83亿美元的交易出售购物中心60%的股份</title>
+      <link>https://www.reuters.com/business/china-developer-wanda-sells-60-mall-unit-83-bln-deal-2024-03-30/</link>
+      <description><![CDATA[周六，以私募股权公司 PAG 为首的一群投资者宣布投资 83 亿美元，收购中国房地产巨头大连万达旗下购物中心部门 60% 的股份。]]></description>
+      <guid>https://www.reuters.com/business/china-developer-wanda-sells-60-mall-unit-83-bln-deal-2024-03-30/</guid>
+      <pubDate>Sat, 30 Mar 2024 06:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>华为表示奇瑞豪华S7豪华电动汽车开始批量交付</title>
       <link>https://www.reuters.com/business/autos-transportation/huawei-says-cherys-luxeed-s7-premium-ev-starts-mass-delivery-2024-03-30/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>朝日称，美国和日本呼吁在人工智能、半导体领域深化合作</title>
       <link>https://www.reuters.com/technology/us-japan-call-deeper-cooperation-ai-semiconductors-asahi-says-2024-03-29/</link>
-      <description><![CDATA[据《朝日新闻》周六报道，日本首相岸田文雄下个月会见美国总统乔·拜登时，日本和美国将在联合声明中宣布在人工智能等高科技领域加强合作。]]></description>
+      <description><![CDATA[据《朝日新闻》周六报道，日本首相岸田文雄下个月与美国总统乔·拜登会面时，日本和美国将在联合声明中宣布在人工智能等高科技领域加强合作。]]></description>
       <guid>https://www.reuters.com/technology/us-japan-call-deeper-cooperation-ai-semiconductors-asahi-says-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 23:38:27 GMT</pubDate>
     </item>
@@ -99,7 +106,7 @@
     <item>
       <title>美国最终确定重型车辆新的尾气排放限制</title>
       <link>https://www.reuters.com/business/autos-transportation/us-finalizes-tougher-new-tailpipe-emissions-limits-heavy-duty-vehicles-2024-03-29/</link>
-      <description><![CDATA[美国政府周五表示，正在最终确定半卡车和公共汽车等重型车辆的更严格的尾气排放标准，但新规则不会像 2023 年最初提出的那样严格。]]></description>
+      <description><![CDATA[美国政府周五表示，正在最终确定半挂卡车和公共汽车等重型车辆的更严格尾气排放标准，但新规则不会像 2023 年最初提出的那样严格。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-finalizes-tougher-new-tailpipe-emissions-limits-heavy-duty-vehicles-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 13:08:10 GMT</pubDate>
     </item>
@@ -111,13 +118,6 @@
       <pubDate>Fri, 29 Mar 2024 12:51:39 GMT</pubDate>
     </item>
     <item>
-      <title>随着中国电动汽车的推出，小米的“雷神”挑战埃隆·马斯克</title>
-      <link>https://www.reuters.com/business/autos-transportation/with-china-ev-launch-xiaomis-thor-takes-elon-musk-2024-03-29/</link>
-      <description><![CDATA[他被称为中国版的史蒂夫·乔布斯，因为他带领小米从斗志旺盛的初创公司发展成为以智能手机闻名的电子巨头。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/with-china-ev-launch-xiaomis-thor-takes-elon-musk-2024-03-29/</guid>
-      <pubDate>Fri, 29 Mar 2024 11:19:40 GMT</pubDate>
-    </item>
-    <item>
       <title>投资者将美联储降息和盈利视为维持市场反弹的关键</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-investors-eye-fed-rate-cut-earnings-key-sustaining-market-2024-03-29/</link>
       <description><![CDATA[在今年股市开局良好之后，投资者对第二季度的潜在波动保持警惕，因为他们评估美联储是否能在 6 月之前实现预期的降息，并将注意力转向即将到来的盈利状况。]]></description>
@@ -127,7 +127,7 @@
     <item>
       <title>即使通胀粘性，美联储的平衡行动也可能导致 6 月降息</title>
       <link>https://www.reuters.com/markets/rates-bonds/feds-balancing-act-could-see-june-rate-cut-play-even-with-sticky-inflation-2024-03-29/</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔表示，尽管政策制定者的最新预测提高了今年的通胀前景，但没有引发更严厉的货币政策反应，但美联储对通胀上升的容忍度并未提高。]]></description>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔表示，尽管政策制定者的最新预测提高了今年的通胀前景，但没有引发更严厉的货币政策反应，但美联储并未对通胀上升更加容忍。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/feds-balancing-act-could-see-june-rate-cut-play-even-with-sticky-inflation-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 10:08:23 GMT</pubDate>
     </item>
