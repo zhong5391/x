@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 30 Mar 2024 11:59:16 GMT</lastBuildDate>
-    <item>
-      <title>飓风队在超级太平洋橄榄球赛中前进，十字军队获得首场胜利</title>
-      <link>https://www.reuters.com/sports/crusaders-bag-first-win-hurricanes-march-super-rugby-pacific-2024-03-30/</link>
-      <description><![CDATA[周六，惠灵顿飓风队以六连胜继续其超级太平洋橄榄球赛季的完美开局，而坎特伯雷十字军队则取得了本赛季的首场胜利，将卫冕冠军从积分榜上移开。]]></description>
-      <guid>https://www.reuters.com/sports/crusaders-bag-first-win-hurricanes-march-super-rugby-pacific-2024-03-30/</guid>
-      <pubDate>Sat, 30 Mar 2024 11:04:47 GMT</pubDate>
-    </item>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sat, 30 Mar 2024 12:32:06 GMT</lastBuildDate>
     <item>
       <title>日经新闻称，日本和欧盟将讨论技术材料合作，以减少对中国的依赖</title>
       <link>https://www.reuters.com/technology/japan-eu-discuss-cooperation-tech-materials-cut-reliance-china-nikkei-says-2024-03-30/</link>
@@ -22,7 +15,7 @@
     <item>
       <title>伊兰昆达创造帽子戏法新纪录后，维尔特呼吁保持耐心</title>
       <link>https://www.reuters.com/sports/soccer/veart-calls-patience-after-irankunda-sets-new-hat-trick-record-2024-03-30/</link>
-      <description><![CDATA[阿德莱德联队主教练卡尔·维尔特敦促澳大利亚球迷对新晋天才内斯托里·伊兰昆达保持耐心，因为这名即将前往拜仁慕尼黑的前锋成为澳大利亚联赛有史以来最年轻的帽子戏法球员。]]></description>
+      <description><![CDATA[阿德莱德联队主教练卡尔·维尔特敦促澳大利亚球迷对新晋天才内斯托里·伊兰昆达保持耐心，因为这位即将前往拜仁慕尼黑的前锋成为澳大利亚联赛有史以来最年轻的帽子戏法球员。]]></description>
       <guid>https://www.reuters.com/sports/soccer/veart-calls-patience-after-irankunda-sets-new-hat-trick-record-2024-03-30/</guid>
       <pubDate>Sat, 30 Mar 2024 07:23:10 GMT</pubDate>
     </item>
@@ -50,7 +43,7 @@
     <item>
       <title>朝日称，美国和日本呼吁在人工智能、半导体领域深化合作</title>
       <link>https://www.reuters.com/technology/us-japan-call-deeper-cooperation-ai-semiconductors-asahi-says-2024-03-29/</link>
-      <description><![CDATA[据《朝日新闻》周六报道，日本首相岸田文雄下个月会见美国总统乔·拜登时，日本和美国将在联合声明中宣布在人工智能等高科技领域加强合作。]]></description>
+      <description><![CDATA[据《朝日新闻》周六报道，日本首相岸田文雄下个月与美国总统乔·拜登会面时，日本和美国将在联合声明中宣布在人工智能等高科技领域加强合作。]]></description>
       <guid>https://www.reuters.com/technology/us-japan-call-deeper-cooperation-ai-semiconductors-asahi-says-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 23:38:27 GMT</pubDate>
     </item>
@@ -85,7 +78,7 @@
     <item>
       <title>随着中国电动汽车的推出，小米的“雷神”挑战埃隆·马斯克</title>
       <link>https://www.reuters.com/business/autos-transportation/with-china-ev-launch-xiaomis-thor-takes-elon-musk-2024-03-29/</link>
-      <description><![CDATA[他被称为中国版的史蒂夫·乔布斯，因为他带领小米从斗志旺盛的初创公司发展成为以智能手机闻名的电子巨头。]]></description>
+      <description><![CDATA[他被称为中国版的史蒂夫·乔布斯，带领小米从斗志旺盛的初创公司发展成为以智能手机闻名的电子巨头。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/with-china-ev-launch-xiaomis-thor-takes-elon-musk-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 11:19:40 GMT</pubDate>
     </item>
@@ -144,6 +137,13 @@
       <description><![CDATA[六名知情人士透露，台湾海军司令唐华将从下周开始访问美国，参加军事仪式，并讨论在中国对台湾提出威胁之际如何加强双边海军合作。]]></description>
       <guid>https://www.reuters.com/world/taiwans-navy-chief-visit-us-next-week-sources-say-2024-03-29/</guid>
       <pubDate>Fri, 29 Mar 2024 04:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>外汇官员称中国将进一步扩大资本账户开放</title>
+      <link>https://www.reuters.com/business/finance/china-will-further-enhance-capital-account-opening-fx-official-says-2024-03-29/</link>
+      <description><![CDATA[一位高级外汇监管机构周五表示，随着北京在地缘政治紧张局势加剧之际寻求吸引外国投资者，中国将让资本更容易地进出中国，并促进金融市场放松管制。]]></description>
+      <guid>https://www.reuters.com/business/finance/china-will-further-enhance-capital-account-opening-fx-official-says-2024-03-29/</guid>
+      <pubDate>Fri, 29 Mar 2024 03:21:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
