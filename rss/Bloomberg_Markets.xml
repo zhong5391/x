@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 05 Apr 2024 18:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 18:28:22 GMT</lastBuildDate>
     <item>
       <title>彭博实际收益率 04/05/2024</title>
       <link>https://www.bloomberg.com/news/videos/2024-04-05/bloomberg-real-yield-04-05-2024-video</link>
@@ -15,33 +15,40 @@
     <item>
       <title>对冲基金猎头称人才之战不仅仅是金钱</title>
       <link>https://www.bloomberg.com/news/videos/2024-04-05/hedge-fund-headhunter-says-talent-war-is-more-than-money-video</link>
-      <description><![CDATA[IDW集团创始人伊拉娜·韦恩斯坦(Ilana Weinstein)表示，在寻找和留住华尔街顶尖人才的斗争中，赢家往往是那些年复一年表现良好的对冲基金，而不是那些采取“大赢/大输”策略的对冲基金。她与彭博社的索纳利·巴萨克进行了交谈。 （来源：彭博社）]]></description>
+      <description><![CDATA[IDW 集团创始人伊拉娜·韦恩斯坦 (Ilana Weinstein) 表示，在寻找和留住华尔街顶尖人才的斗争中，赢家往往是年复一年表现良好的对冲基金，而不是那些采取“大赢/大输”策略的对冲基金。她与彭博社的索纳利·巴萨克进行了交谈。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-04-05/hedge-fund-headhunter-says-talent-war-is-more-than-money-video</guid>
       <pubDate>Fri, 05 Apr 2024 17:57:50 GMT</pubDate>
     </item>
     <item>
+      <title>监狱电话公司 ViaPath 正在洽谈 14 亿美元债务再融资</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-05/prison-phone-firm-viapath-in-talks-to-refinance-1-4-billion-of-debt</link>
+      <description><![CDATA[据知情人士透露，为囚犯提供电话服务的 ViaPath Technologies 公司聘请德克萨斯资本银行帮助其为约 14 亿美元的债务进行再融资。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-05/prison-phone-firm-viapath-in-talks-to-refinance-1-4-billion-of-debt</guid>
+      <pubDate>Fri, 05 Apr 2024 17:57:48 GMT</pubDate>
+    </item>
+    <item>
       <title>6% 的房地产佣金如何濒临崩溃</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-05/why-us-real-estate-agents-make-6-commissions-but-not-for-long</link>
-      <description><![CDATA[6% 的房地产佣金作为美国房屋销售的支柱，正面临着前所未有的威胁。全国房地产经纪人协会在法律压力下同意对其长期规则进行修改，这些规则可能会改变向买家和卖家代理人分摊费用的方式——批评者称，这一制度使得美国的佣金比其他地方高得多。在密苏里州陪审团发现该组织与其他人串通收取费用后，该组织达成了结束集体诉讼的和解协议。]]></description>
+      <description><![CDATA[6% 的房地产佣金作为美国房屋销售的支柱，正面临着前所未有的威胁。全国房地产经纪人协会在法律压力下同意修改其长期规则，这可能会改变向买家和卖家代理人分配费用的方式——批评者称，这一制度使得美国的佣金比其他地方高得多。在密苏里州陪审团发现该组织与其他人串通收取费用后，该组织达成了结束集体诉讼的和解协议。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-05/why-us-real-estate-agents-make-6-commissions-but-not-for-long</guid>
       <pubDate>Fri, 05 Apr 2024 17:48:47 GMT</pubDate>
     </item>
     <item>
       <title>铀股因高盛看涨和哈萨克斯坦洪水而飙升</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-05/uranium-stocks-soar-on-bullish-goldman-call-kazakhstan-flooding</link>
-      <description><![CDATA[由于全球最大核燃料生产国哈萨克斯坦的洪灾，以及高盛集团等银行的大量看涨报道，铀股正创下数月来的最佳表现。]]></description>
+      <description><![CDATA[受全球最大核燃料生产国哈萨克斯坦洪水的影响，以及高盛集团等银行的大量看涨报道，铀股正创下数月来的最佳表现。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-05/uranium-stocks-soar-on-bullish-goldman-call-kazakhstan-flooding</guid>
       <pubDate>Fri, 05 Apr 2024 17:39:21 GMT</pubDate>
     </item>
     <item>
       <title>Cloudflare CEO：拥抱脸​​是人工智能的 GitHub</title>
       <link>https://www.bloomberg.com/news/videos/2024-04-05/cloudflare-ceo-hugging-face-is-the-github-for-ai-video</link>
-      <description><![CDATA[Cloudflare 现在允许更多开发人员将他们的 AI 应用程序从 Hugging Face 带到其平台上，并且还全面推出其无服务器 GPU 驱动的推理（称为 Workers AI）。 Cloudflare 首席执行官 Matthew Prince 与 Caroline Hyde 和 Ed Ludlow 一起参与“彭博科技”节目。 （来源：彭博社）]]></description>
+      <description><![CDATA[Cloudflare 现在允许更多开发人员将他们的 AI 应用程序从 Hugging Face 引入其平台，并且还全面推出其无服务器 GPU 驱动的推理（称为 Workers AI）。 Cloudflare 首席执行官 Matthew Prince 与 Caroline Hyde 和 Ed Ludlow 一起参与“彭博科技”节目。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-04-05/cloudflare-ceo-hugging-face-is-the-github-for-ai-video</guid>
       <pubDate>Fri, 05 Apr 2024 17:31:20 GMT</pubDate>
     </item>
     <item>
-      <title>李维斯首席执行官：尊敬的碧昂丝将以我们的名字命名一首歌</title>
+      <title>李维斯首席执行官：尊敬的碧昂斯将以我们的名字命名一首歌</title>
       <link>https://www.bloomberg.com/news/videos/2024-04-05/levi-s-ceo-honored-beyonce-would-name-a-song-after-us-video</link>
       <description><![CDATA[在公司公布财报几天后，李维斯 (Levi&#39;s) 总裁兼首席执行官米歇尔·加斯 (Michelle Gass) 加入了卡罗琳·海德 (Caroline Hyde) 和埃德·勒德洛 (Ed Ludlow) 的行列。她讨论了碧昂丝以李维斯 (Levi&#39;s) 命名一首歌的影响，以及该公司不打算很快离开旧金山。她在“彭博科技”节目中发表演讲。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-04-05/levi-s-ceo-honored-beyonce-would-name-a-song-after-us-video</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>奇数时事通讯：这是长期的繁荣</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-04-05/odd-lots-newsletter-it-s-the-long-boom</link>
-      <description><![CDATA[您好，欢迎来到每周的 Odd Lot 时事通讯，Joe Weisenthal 和 Tracy Alloway 为您带来他们对市场、金融和经济最有趣发展的看法。]]></description>
+      <description><![CDATA[您好，欢迎来到每周的《Odd Lot》时事通讯，乔·韦森塔尔和特雷西·阿洛韦为您带来他们对市场、金融和经济最有趣发展的看法。]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2024-04-05/odd-lots-newsletter-it-s-the-long-boom</guid>
       <pubDate>Fri, 05 Apr 2024 16:42:40 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>彭博社监测 04/05/2024</title>
       <link>https://www.bloomberg.com/news/videos/2024-04-05/bloomberg-surveillance-04-05-2024</link>
-      <description><![CDATA[乔纳森·费罗、丽莎·阿布拉莫维奇和安玛丽·霍登将经济和全球市场置于“监视之下”。他们与华尔街、华盛顿及其他地区的领导人和决策者的日常对话涵盖商业、投资和地缘政治的最新动态。没有其他计划可以更好地为投资者和高管在交易日提供定位。 （来源：彭博社）]]></description>
+      <description><![CDATA[乔纳森·费罗、丽莎·阿布拉莫维奇和安玛丽·霍登将经济和全球市场置于“监视之下”。他们与华尔街、华盛顿及其他地区的领导人和决策者的日常对话涵盖商业、投资和地缘政治的最新动态。没有其他计划可以更好地为投资者和高管提供交易日的定位。 （来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-04-05/bloomberg-surveillance-04-05-2024</guid>
       <pubDate>Fri, 05 Apr 2024 16:05:35 GMT</pubDate>
     </item>
@@ -160,25 +167,18 @@
       <pubDate>Fri, 05 Apr 2024 15:39:48 GMT</pubDate>
     </item>
     <item>
-      <title>德国铁路公司就价值 150 亿欧元的物流部门进行新的投标</title>
+      <title>德国铁路公司就价值 150 亿欧元的物流部门进行新投标</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-05/deutsche-bahn-invites-fresh-bids-for-15-billion-logistics-arm</link>
       <description><![CDATA[据知情人士透露，德国铁路公司正在要求一组选定的竞标者为其德铁信可物流部门提交另一轮不具约束力的报价，该部门的估值可能高达 150 亿欧元（160 亿美元）。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-05/deutsche-bahn-invites-fresh-bids-for-15-billion-logistics-arm</guid>
       <pubDate>Fri, 05 Apr 2024 15:34:09 GMT</pubDate>
     </item>
     <item>
-      <title>法国将援助欧洲太阳能电池板制造商以削弱中国的主导地位</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-05/france-to-aid-europe-s-solar-panel-makers-to-reduce-china-s-dominance</link>
-      <description><![CDATA[法国政府将修改法规并提供补贴，支持安装国产太阳能电池板，这是其能源转型的关键，以削弱中国设备制造商的主导地位。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-05/france-to-aid-europe-s-solar-panel-makers-to-reduce-china-s-dominance</guid>
-      <pubDate>Fri, 05 Apr 2024 15:19:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃尔莫蒂表示欧洲不能依靠危机来促进银行合并</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-05/ermotti-says-europe-can-t-rely-on-crises-to-prompt-bank-mergers</link>
-      <description><![CDATA[瑞银集团的塞尔吉奥·埃尔莫蒂表示，除非欧盟完成统一银行和资本市场的工作，否则欧洲银行将无法与华尔街竞争。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-05/ermotti-says-europe-can-t-rely-on-crises-to-prompt-bank-mergers</guid>
-      <pubDate>Fri, 05 Apr 2024 15:19:10 GMT</pubDate>
+      <title>最大的黄金矿商错过了金价创纪录的上涨</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-05/biggest-gold-miners-are-missing-out-on-bullion-s-record-run</link>
+      <description><![CDATA[全球最大的黄金矿商斥资数十亿美元成为以黄金为重点的投资者的明显家园，因此面临着错失黄金创纪录涨幅的风险。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-05/biggest-gold-miners-are-missing-out-on-bullion-s-record-run</guid>
+      <pubDate>Fri, 05 Apr 2024 15:18:26 GMT</pubDate>
     </item>
     <item>
       <title>法院规则司法部可以重新审理房地产经纪人案件</title>
