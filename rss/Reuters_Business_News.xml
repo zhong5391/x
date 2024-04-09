@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 09 Apr 2024 23:35:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 23:48:46 GMT</lastBuildDate>
+    <item>
+      <title>早间竞价：聚焦利率决策、中国贷款</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-09/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-09/</guid>
+      <pubDate>Tue, 09 Apr 2024 21:48:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>汇丰银行交易后，阿根廷加利西亚银行押注通胀率和利率下降</title>
+      <link>https://www.reuters.com/business/finance/argentinas-banco-galicia-bets-lower-inflation-rates-after-hsbc-deal-2024-04-09/</link>
+      <description><![CDATA[阿根廷加利西亚银行以近 5 亿美元的价格收购了汇丰银行的当地资产，该银行押注新自由主义总统哈维尔·米雷将降低飙升的通货膨胀并放松利率，以提振这个南美国家的贷款。]]></description>
+      <guid>https://www.reuters.com/business/finance/argentinas-banco-galicia-bets-lower-inflation-rates-after-hsbc-deal-2024-04-09/</guid>
+      <pubDate>Tue, 09 Apr 2024 21:46:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑客声称拥有联合健康保险的被盗数据 - 这是虚张声势吗？</title>
+      <link>https://www.reuters.com/technology/hackers-claim-have-unitedhealths-stolen-data-is-it-bluff-2024-04-09/</link>
+      <description><![CDATA[一个新成立的黑客团伙声称已获得从美国最大的健康保险公司联合健康集团窃取的大量数据，但由于缺乏证据，尚不清楚他们是否说的是实话。]]></description>
+      <guid>https://www.reuters.com/technology/hackers-claim-have-unitedhealths-stolen-data-is-it-bluff-2024-04-09/</guid>
+      <pubDate>Tue, 09 Apr 2024 21:27:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：消息人士称，平台火灾后墨西哥国家石油公司原油产量减少 2 万桶/日</title>
+      <link>https://www.reuters.com/markets/commodities/mexican-pemex-crude-output-reduced-by-20000-bpd-after-platform-fire-source-says-2024-04-09/</link>
+      <description><![CDATA[墨西哥国家能源公司的一位消息人士称，周六，墨西哥国家石油公司一座海上平台发生火灾，造成多人受伤、至少一人死亡，该公司原油产量每天减少约 20,000 桶。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/mexican-pemex-crude-output-reduced-by-20000-bpd-after-platform-fire-source-says-2024-04-09/</guid>
+      <pubDate>Tue, 09 Apr 2024 20:57:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>《神奇四侠》女演员杰西卡·阿尔芭将辞去 Honest Company 创意总监一职</title>
+      <link>https://www.reuters.com/business/retail-consumer/fantastic-four-actress-jessica-alba-step-down-creative-chief-honest-company-2024-04-09/</link>
+      <description><![CDATA[个人护理和婴儿产品制造商 Honest Company 周二表示，其创始人、女演员杰西卡·阿尔芭 (Jessica Alba) 将辞去首席创意官一职。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/fantastic-four-actress-jessica-alba-step-down-creative-chief-honest-company-2024-04-09/</guid>
+      <pubDate>Tue, 09 Apr 2024 20:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>前首席执行官表示，壳牌相对于美国上市的竞争对手处于不利地位</title>
+      <link>https://www.reuters.com/markets/commodities/shell-disadvantage-us-listed-rivals-says-former-ceo-2024-04-09/</link>
+      <description><![CDATA[壳牌前首席执行官本·范伯登周二表示，欧洲石油和天然气公司将发现与美国上市竞争对手竞争越来越困难。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/shell-disadvantage-us-listed-rivals-says-former-ceo-2024-04-09/</guid>
+      <pubDate>Tue, 09 Apr 2024 20:50:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Illumina 首席财务官 Goswami 离职，Summit Therapeutics 前高管 Dhingra 接任</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/illumina-cfo-goswami-depart-summit-therapeutics-dhingra-named-successor-2024-04-09/</link>
+      <description><![CDATA[Illumina 周二表示，首席财务官 Joydeep Goswami 将离开该基因测序公司，并由前 Summit Therapeutics 高管 Ankur Dhingra 接任。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/illumina-cfo-goswami-depart-summit-therapeutics-dhingra-named-successor-2024-04-09/</guid>
+      <pubDate>Tue, 09 Apr 2024 20:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国邮政服务寻求将邮票价格提高至 73 美分</title>
       <link>https://www.reuters.com/markets/us/us-postal-service-seeks-hike-stamp-prices-73-cents-2024-04-09/</link>
@@ -13,14 +62,7 @@
       <pubDate>Tue, 09 Apr 2024 18:32:36 GMT</pubDate>
     </item>
     <item>
-      <title>丰业银行首席执行官指出美国和墨西哥的选举破坏了决策</title>
-      <link>https://www.reuters.com/business/finance/scotiabank-ceo-flags-elections-us-mexico-undermining-decision-making-2024-04-09/</link>
-      <description><![CDATA[加拿大丰业银行周二警告称，美国和墨西哥即将举行的选举正在造成政治不确定性，对该行的长期业务决策能力构成挑战。]]></description>
-      <guid>https://www.reuters.com/business/finance/scotiabank-ceo-flags-elections-us-mexico-undermining-decision-making-2024-04-09/</guid>
-      <pubDate>Tue, 09 Apr 2024 17:46:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>FAA 调查波音举报人对 787、777 喷气式飞机的质量要求</title>
+      <title>波音公司遭遇举报人指控，加剧了安全担忧</title>
       <link>https://www.reuters.com/business/aerospace-defense/faa-probing-boeing-whistleblowers-quality-claims-787-777-jets-2024-04-09/</link>
       <description><![CDATA[美国联邦航空管理局 (FAA) 发言人周二表示，该机构正在调查一名波音举报人的指控，该举报人称该公司否认了该飞机制造商 787 和 777 喷气式飞机生产过程中存在的安全和质量问题。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/faa-probing-boeing-whistleblowers-quality-claims-787-777-jets-2024-04-09/</guid>
@@ -34,20 +76,6 @@
       <pubDate>Tue, 09 Apr 2024 16:20:26 GMT</pubDate>
     </item>
     <item>
-      <title>通用汽车的机器人出租车部门 Cruise 将在亚利桑那州恢复小型人力驾驶车队的运营</title>
-      <link>https://www.reuters.com/business/autos-transportation/cruise-reintroduce-human-driven-vehicle-fleet-phoenix-2024-04-09/</link>
-      <description><![CDATA[通用汽车旗下的 Cruise 自动驾驶汽车部门在旧金山发生事故后暂停运营约六个月，该公司将在亚利桑那州凤凰城恢复其在美国的一小支人类驾驶汽车车队的运营。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/cruise-reintroduce-human-driven-vehicle-fleet-phoenix-2024-04-09/</guid>
-      <pubDate>Tue, 09 Apr 2024 16:14:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>World Steel称全球钢铁需求将于2024年恢复增长</title>
-      <link>https://www.reuters.com/markets/commodities/global-steel-demand-rise-by-17-2024-says-world-steel-2024-04-09/</link>
-      <description><![CDATA[世界钢铁协会周二表示，预计 2024 年全球钢铁需求将增长 1.7%，达到 17.93 亿吨，2025 年将进一步增长。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/global-steel-demand-rise-by-17-2024-says-world-steel-2024-04-09/</guid>
-      <pubDate>Tue, 09 Apr 2024 15:57:49 GMT</pubDate>
-    </item>
-    <item>
       <title>疫情过后，巴黎奥运会有望创下 NBC 广告销售纪录</title>
       <link>https://www.reuters.com/business/media-telecom/paris-olympics-track-hit-nbc-ad-sales-record-after-pandemic-2024-04-09/</link>
       <description><![CDATA[随着 2024 年巴黎奥运会 7 月开幕式的临近，美国广播公司 NBCUniversal 发现主要企业赞助商对这一全球顶级体育赛事重新产生了兴趣，因为预计球迷将在新型冠状病毒 (COVID-19) 大流行以来首次挤满奥林匹克体育场。]]></description>
@@ -57,30 +85,9 @@
     <item>
       <title>英特尔公布新人工智能芯片细节，对抗英伟达主导地位</title>
       <link>https://www.reuters.com/technology/intel-reveals-details-new-ai-chip-fight-nvidia-dominance-2024-04-09/</link>
-      <description><![CDATA[英特尔在周二的 Vision 活动上详细介绍了其人工智能芯片的新版本，旨在挑战英伟达在人工智能半导体领域的主导地位。]]></description>
+      <description><![CDATA[英特尔在周二的 Vision 活动上详细介绍了其人工智能芯片的新版本，旨在瞄准英伟达在人工智能半导体领域的主导地位。]]></description>
       <guid>https://www.reuters.com/technology/intel-reveals-details-new-ai-chip-fight-nvidia-dominance-2024-04-09/</guid>
       <pubDate>Tue, 09 Apr 2024 15:39:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>早期研究显示疫苗对头颈癌有益，Moderna 股价上涨</title>
-      <link>https://www.reuters.com/markets/us/moderna-jumps-personalized-cancer-vaccine-shows-benefit-early-study-2024-04-09/</link>
-      <description><![CDATA[周二，Moderna 股价上涨 8% 至三个月高点，此前该公司与默克公司合作开发的个体化癌症疫苗在针对一种头颈癌患者的早期试验中显示出积极的反应。]]></description>
-      <guid>https://www.reuters.com/markets/us/moderna-jumps-personalized-cancer-vaccine-shows-benefit-early-study-2024-04-09/</guid>
-      <pubDate>Tue, 09 Apr 2024 15:26:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于质量检查加强，波音 3 月份交付量下降一半</title>
-      <link>https://www.reuters.com/business/aerospace-defense/boeing-deliveries-drop-by-half-march-due-increased-quality-checks-2024-04-09/</link>
-      <description><![CDATA[波音公司周二表示，由于监管机构加强了质量检查和审计，737 MAX 产量下滑，该公司 3 月份交付了 29 架飞机，比去年同期的 64 架减少了一半以上。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/boeing-deliveries-drop-by-half-march-due-increased-quality-checks-2024-04-09/</guid>
-      <pubDate>Tue, 09 Apr 2024 15:08:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑莓与 AMD 在机器人系统领域建立合作伙伴关系</title>
-      <link>https://www.reuters.com/markets/us/blackberry-gains-partnership-with-amd-robotics-systems-2024-04-09/</link>
-      <description><![CDATA[周二，加拿大公司黑莓 (BlackBerry) 与 Advanced Micro Devices 合作推出了一个平台，该平台将为工业和医疗保健行业提供更好的机器人技术，该公司股价上涨超过 7%。]]></description>
-      <guid>https://www.reuters.com/markets/us/blackberry-gains-partnership-with-amd-robotics-systems-2024-04-09/</guid>
-      <pubDate>Tue, 09 Apr 2024 14:51:48 GMT</pubDate>
     </item>
     <item>
       <title>国际货币基金组织表示，二十国集团新兴经济体的冲击打击了富裕国家的增长</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[国际货币基金组织周二发布的一份报告称，二十国集团新兴经济体的国内冲击日益影响富裕国家的增长。]]></description>
       <guid>https://www.reuters.com/business/shocks-g20-emerging-economies-hit-rich-world-growth-imf-says-2024-04-09/</guid>
       <pubDate>Tue, 09 Apr 2024 14:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>降价提振需求，电动汽车制造商 Lucid 超出第一季度交付预期</title>
-      <link>https://www.reuters.com/business/autos-transportation/ev-maker-lucid-beats-first-quarter-delivery-estimates-2024-04-09/</link>
-      <description><![CDATA[Lucid 周二公布第一季度交付量高于市场预期，因降价有助于提振其豪华电动轿车的需求，导致其股价上涨约 3%。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/ev-maker-lucid-beats-first-quarter-delivery-estimates-2024-04-09/</guid>
-      <pubDate>Tue, 09 Apr 2024 13:08:44 GMT</pubDate>
     </item>
     <item>
       <title>微软将投资 29 亿美元在日本扩展人工智能和云基础设施</title>
@@ -106,7 +106,7 @@
     <item>
       <title>焦点：由于改革令员工不安，花旗集团首席执行官面临增长挑战</title>
       <link>https://www.reuters.com/markets/us/citigroup-ceo-faces-growth-challenge-overhaul-rattles-employees-2024-04-09/</link>
-      <description><![CDATA[花旗集团首席执行官简·弗雷泽 (Jane Fraser) 在 9 月份宣布对花旗庞大的结构进行全面改革，通过裁员 5,000 名员工来削减成本后，花旗集团投资者奖励了其股价上涨。接下来，他们希望看到财富管理和投资银行业务的增长。]]></description>
+      <description><![CDATA[花旗集团首席执行官简·弗雷泽 (Jane Fraser) 在 9 月份宣布对花旗庞大的结构进行全面改革，通过裁员 5,000 名员工来削减成本后，花旗集团投资者奖励了首席执行官简·弗雷泽 (Jane Fraser) 股价上涨。接下来，他们希望看到财富管理和投资银行业务的增长。]]></description>
       <guid>https://www.reuters.com/markets/us/citigroup-ceo-faces-growth-challenge-overhaul-rattles-employees-2024-04-09/</guid>
       <pubDate>Tue, 09 Apr 2024 10:33:35 GMT</pubDate>
     </item>
@@ -125,9 +125,9 @@
       <pubDate>Tue, 09 Apr 2024 10:14:36 GMT</pubDate>
     </item>
     <item>
-      <title>标普 500 指数小幅收高，因市场为通胀数据和盈利做好准备</title>
+      <title>随着市场为消费者物价指数（CPI）数据和盈利做好准备，美国股市小幅收高</title>
       <link>https://www.reuters.com/markets/us/futures-flat-lead-up-inflation-data-2024-04-09/</link>
-      <description><![CDATA[标准普尔 500 指数周二名义上涨，领先于主要通胀数据的一天，因投资者准备迎接美国主要银行周五开始财报季，金融股拖累该指数。]]></description>
+      <description><![CDATA[周二，主要通胀数据公布前一天，纳斯达克指数和标准普尔 500 指数小幅上涨，因投资者等待美国主要银行周五开始财报季，金融股拖累金融股。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-flat-lead-up-inflation-data-2024-04-09/</guid>
       <pubDate>Tue, 09 Apr 2024 10:10:06 GMT</pubDate>
     </item>
