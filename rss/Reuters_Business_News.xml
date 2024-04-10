@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 10 Apr 2024 14:29:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 14:43:00 GMT</lastBuildDate>
     <item>
       <title>美国3月消费者物价涨幅超预期</title>
       <link>https://www.reuters.com/markets/us/us-consumer-prices-rise-more-than-expected-march-2024-04-10/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>空客股东在喷气式飞机需求强劲之际召开会议</title>
       <link>https://www.reuters.com/business/aerospace-defense/airbus-shareholders-meet-amid-strong-jet-demand-2024-04-10/</link>
-      <description><![CDATA[空中客车公司周三开始召开年度股东大会，其竞争对手波音公司正在努力应对近期的一系列危机，但面临着“供应链挑战”，空中客车公司面临着强劲的需求。]]></description>
+      <description><![CDATA[空中客车公司周三开始召开年度股东大会，其竞争对手波音公司正在努力应对近期的一系列危机，但面临着“供应链挑战”，空客公司的需求强劲。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/airbus-shareholders-meet-amid-strong-jet-demand-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 12:25:19 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>瑞士信贷银行倒闭后瑞士计划让银行更安全</title>
       <link>https://www.reuters.com/business/finance/swiss-plans-make-banks-safer-after-credit-suisse-collapse-2024-04-10/</link>
-      <description><![CDATA[瑞士周三向瑞银和其他三家系统相关银行提出提案，旨在保护该国免受去年瑞士信贷崩溃的重演。]]></description>
+      <description><![CDATA[瑞士周三向瑞银和其他三家系统相关银行提出了建议，旨在保护该国免受去年瑞信崩溃的重演。]]></description>
       <guid>https://www.reuters.com/business/finance/swiss-plans-make-banks-safer-after-credit-suisse-collapse-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 12:22:28 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>达美航空预计夏季旅行需求强劲将提振季度收益</title>
       <link>https://www.reuters.com/business/aerospace-defense/delta-offers-bullish-outlook-record-travel-demand-2024-04-10/</link>
-      <description><![CDATA[由于旅行需求旺盛，达美航空第一季度盈利超过华尔街预期，周三达美航空对本季度前景表示乐观，导致其股价在盘前交易中上涨近 5%。]]></description>
+      <description><![CDATA[达美航空周三对当前季度的前景表示乐观，因旅游需求旺盛，该公司第一季度盈利超出了华尔街的预期，导致其股价在盘前交易中上涨近 5%。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/delta-offers-bullish-outlook-record-travel-demand-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 10:39:30 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 10 Apr 2024 10:23:55 GMT</pubDate>
     </item>
     <item>
-      <title>三月份通胀数据公布后期货转负</title>
+      <title>快照 3 月份通胀数据公布后期货转负</title>
       <link>https://www.reuters.com/markets/us/futures-tread-higher-ahead-latest-inflation-test-2024-04-10/</link>
       <description><![CDATA[强于预期的通胀数据削弱了市场对美联储降息的预期，周三美国股指期货转为负值。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-tread-higher-ahead-latest-inflation-test-2024-04-10/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>通胀数据表现不佳，美联储降息信心动摇</title>
       <link>https://www.reuters.com/markets/rates-bonds/feds-rate-cut-confidence-wobbles-inflation-data-misbehaves-2024-04-10/</link>
-      <description><![CDATA[当美联储官员去年开始指导世界在 2024 年可能降息时，他们对数据显示数月来的通胀率已跌至美联储 2% 的目标感到振奋，这证明他们的政策正在遏制仍然过热的经济。]]></description>
+      <description><![CDATA[随着美联储官员去年开始指导世界在 2024 年可能降息，他们对数据显示数月来的通胀率已跌至美联储 2% 的目标感到振奋，这证明他们的政策正在遏制仍然过热的经济。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/feds-rate-cut-confidence-wobbles-inflation-data-misbehaves-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 10:04:27 GMT</pubDate>
     </item>
