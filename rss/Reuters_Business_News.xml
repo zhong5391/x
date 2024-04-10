@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 10 Apr 2024 00:30:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 01:34:40 GMT</lastBuildDate>
+    <item>
+      <title>世界银行推出新的记分卡来衡量问责制</title>
+      <link>https://www.reuters.com/business/world-bank-unveils-new-scorecard-measure-accountability-2024-04-09/</link>
+      <description><![CDATA[世界银行集团周二公布了一个框架，用于衡量其发展工作的成果，其中包括 22 项指标，一位高级官员称这是该银行在提高透明度和问责制方面取得的重要进展。]]></description>
+      <guid>https://www.reuters.com/business/world-bank-unveils-new-scorecard-measure-accountability-2024-04-09/</guid>
+      <pubDate>Tue, 09 Apr 2024 22:26:00 GMT</pubDate>
+    </item>
     <item>
       <title>早间竞价：聚焦利率决策、中国贷款</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-09/</link>
@@ -118,14 +125,7 @@
       <pubDate>Tue, 09 Apr 2024 10:17:06 GMT</pubDate>
     </item>
     <item>
-      <title>汇丰银行加速中国财富扩张，有望实现招聘目标</title>
-      <link>https://www.reuters.com/business/finance/hsbc-accelerate-china-wealth-expansion-track-meet-hiring-target-2024-04-09/</link>
-      <description><![CDATA[汇丰银行全球财富主管表示，尽管面临经济逆风，汇丰银行仍计划加速在中国扩张财富业务，并有望在明年将其员工人数增加近一倍，同时推进其亚洲支点战略。]]></description>
-      <guid>https://www.reuters.com/business/finance/hsbc-accelerate-china-wealth-expansion-track-meet-hiring-target-2024-04-09/</guid>
-      <pubDate>Tue, 09 Apr 2024 10:14:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着市场为消费者物价指数（CPI）数据和盈利做好准备，美国股市小幅收高</title>
+      <title>随着市场为消费者物价指数 (CPI) 数据和盈利做好准备，美国股市小幅收高</title>
       <link>https://www.reuters.com/markets/us/futures-flat-lead-up-inflation-data-2024-04-09/</link>
       <description><![CDATA[周二，主要通胀数据公布前一天，纳斯达克指数和标准普尔 500 指数小幅上涨，因投资者等待美国主要银行周五开始财报季，金融股拖累金融股。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-flat-lead-up-inflation-data-2024-04-09/</guid>
