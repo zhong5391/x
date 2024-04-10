@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 10 Apr 2024 22:34:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 22:48:41 GMT</lastBuildDate>
     <item>
       <title>SEC 警告 Uniswap 实验室可能采取执法行动</title>
       <link>https://www.reuters.com/technology/sec-warns-uniswap-labs-potential-enforcement-action-2024-04-10/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>NTSB称西南航空发动机盖损坏是由于维护问题造成的</title>
       <link>https://www.reuters.com/business/aerospace-defense/ntsb-says-southwest-engine-cover-loss-caused-by-maintenance-issue-2024-04-10/</link>
-      <description><![CDATA[美国国家运输安全委员会 (NTSB) 主席周三表示，西南航空一架波音 737-800 客机周日在丹佛起飞时发动机盖脱落并撞到襟翼，原因是维护问题。 。]]></description>
+      <description><![CDATA[美国国家运输安全委员会 (NTSB) 主席周三表示，周日西南航空一架波音 737-800 飞机在丹佛起飞时发动机盖脱落并撞到襟翼，原因是维护问题。 。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/ntsb-says-southwest-engine-cover-loss-caused-by-maintenance-issue-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 18:59:16 GMT</pubDate>
     </item>
