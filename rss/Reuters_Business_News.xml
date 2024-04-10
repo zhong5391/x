@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 10 Apr 2024 04:22:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 04:38:40 GMT</lastBuildDate>
     <item>
       <title>中国电动汽车出口热潮推动新载车船舶需求激增</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-ev-export-boom-fuels-surge-demand-new-car-carrying-ships-2024-04-10/</link>
-      <description><![CDATA[数据显示，中国汽车制造商和托运人正在订购创纪录数量的汽车运载船，以支持电动汽车出口的繁荣，这将使中国有望在 2028 年之前积累世界第四大船队。]]></description>
+      <description><![CDATA[数据显示，中国汽车制造商和托运商正在订购创纪录数量的汽车运载船，以支持电动汽车出口的繁荣，这将使中国有望在 2028 年之前积累世界第四大船队。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinas-ev-export-boom-fuels-surge-demand-new-car-carrying-ships-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 02:30:11 GMT</pubDate>
     </item>
     <item>
       <title>亚洲股市因日元谨慎而下跌，美国通胀成为焦点</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-10/</link>
-      <description><![CDATA[由于投资者密切关注日本当局可能采取干预措施以阻止日元贬值，并等待周三晚些时候的美国通胀数据，以寻找未来利率走势的线索，亚洲股市表现平淡。]]></description>
+      <description><![CDATA[亚洲股市表现平淡，投资者密切关注日本当局可能采取干预措施以阻止日元贬值，并等待周三晚些时候公布的美国通胀数据，以寻找未来利率走势的线索。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 02:12:59 GMT</pubDate>
     </item>
@@ -125,7 +125,7 @@
       <pubDate>Tue, 09 Apr 2024 10:17:06 GMT</pubDate>
     </item>
     <item>
-      <title>随着市场为消费者物价指数 (CPI) 数据和盈利做好准备，美国股市小幅收高</title>
+      <title>随着市场为消费者物价指数（CPI）数据和盈利做好准备，美国股市小幅收高</title>
       <link>https://www.reuters.com/markets/us/futures-flat-lead-up-inflation-data-2024-04-09/</link>
       <description><![CDATA[周二，主要通胀数据公布前一天，纳斯达克指数和标准普尔 500 指数小幅上涨，因投资者等待美国主要银行周五开始财报季，金融股拖累金融股。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-flat-lead-up-inflation-data-2024-04-09/</guid>
