@@ -1,16 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 10 Apr 2024 11:30:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 11:48:39 GMT</lastBuildDate>
     <item>
-      <title>梅赛德斯-奔驰第一季度销量因亚洲供应瓶颈而下降</title>
-      <link>https://www.reuters.com/business/autos-transportation/mercedes-benz-q1-sales-drop-supply-bottlenecks-asia-2024-04-10/</link>
-      <description><![CDATA[德国高端汽车制造商梅赛德斯·奔驰 (Mercedes Benz) 周三表示，受亚洲供应瓶颈及其豪华车型系列转换的影响，第一季度销量下降 6%。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/mercedes-benz-q1-sales-drop-supply-bottlenecks-asia-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 08:33:51 GMT</pubDate>
+      <title>达美航空对创纪录的旅行需求提出乐观前景</title>
+      <link>https://www.reuters.com/business/aerospace-defense/delta-offers-bullish-outlook-record-travel-demand-2024-04-10/</link>
+      <description><![CDATA[达美航空周三对当前季度的前景表示乐观，因旅行需求旺盛，该公司第一季度收益超出了华尔街的预期。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/delta-offers-bullish-outlook-record-travel-demand-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:39:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着美国银行利润下降，焦点转向利息收入前景</title>
+      <link>https://www.reuters.com/business/finance/us-bank-profits-drop-focus-shifts-interest-income-outlook-2024-04-10/</link>
+      <description><![CDATA[随着美国银行业巨头准备公布略低的第一季度利润，投资者将关注高管预计今年利息支付的收入会增加多少。]]></description>
+      <guid>https://www.reuters.com/business/finance/us-bank-profits-drop-focus-shifts-interest-income-outlook-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:36:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>泰国央行维持关键利率，无视政府降息的呼吁</title>
+      <link>https://www.reuters.com/markets/rates-bonds/thai-central-bank-holds-key-rate-defies-government-calls-cuts-2024-04-10/</link>
+      <description><![CDATA[泰国央行周三连续第三次会议维持关键利率不变，拒绝政府一再呼吁降低借贷成本以帮助振兴东南亚第二大经济体的呼吁。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/thai-central-bank-holds-key-rate-defies-government-calls-cuts-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>经济不景气，欧洲企业纷纷裁员</title>
+      <link>https://www.reuters.com/business/european-companies-cut-jobs-economy-sputters-2024-04-10/</link>
+      <description><![CDATA[几十年来最高的通货膨胀率和乌克兰战争的影响迫使欧洲各地的公司裁员或冻结招聘。]]></description>
+      <guid>https://www.reuters.com/business/european-companies-cut-jobs-economy-sputters-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>2023年雪佛龙首席执行官薪酬上涨12%至2650万美元</title>
+      <link>https://www.reuters.com/business/energy/chevron-ceos-pay-rose-12-265-million-2023-2024-04-10/</link>
+      <description><![CDATA[周三的一份证券备案文件显示，美国石油巨头雪佛龙首席执行官迈克尔·沃斯 (Michael Wirth) 2023 年的薪酬为 2650 万美元，比上年增长 12.2%。]]></description>
+      <guid>https://www.reuters.com/business/energy/chevron-ceos-pay-rose-12-265-million-2023-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>在最新的通胀测试之前，期货走高</title>
+      <link>https://www.reuters.com/markets/us/futures-tread-higher-ahead-latest-inflation-test-2024-04-10/</link>
+      <description><![CDATA[美国股指期货周三小幅走高，公布了可能影响美联储今年货币政策路径的关键通胀数据。]]></description>
+      <guid>https://www.reuters.com/markets/us/futures-tread-higher-ahead-latest-inflation-test-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:17:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国国家运输安全委员会主席誓言在新任期内成为安全的“有力倡导者”</title>
+      <link>https://www.reuters.com/world/us/us-ntsb-chair-vows-be-fierce-advocate-safety-new-term-2024-04-10/</link>
+      <description><![CDATA[国家运输安全委员会主席詹妮弗·霍曼迪将告诉立法者，她致力于赢得安全建议的批准并审查联邦机构。]]></description>
+      <guid>https://www.reuters.com/world/us/us-ntsb-chair-vows-be-fierce-advocate-safety-new-term-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:10:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>通胀数据表现不佳，美联储降息信心动摇</title>
+      <link>https://www.reuters.com/markets/rates-bonds/feds-rate-cut-confidence-wobbles-inflation-data-misbehaves-2024-04-10/</link>
+      <description><![CDATA[随着美联储官员去年开始指导世界在 2024 年可能降息，他们对数据显示数月来的通胀率已跌至美联储 2% 的目标感到振奋，这证明他们的政策正在遏制仍然过热的经济。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/feds-rate-cut-confidence-wobbles-inflation-data-misbehaves-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：CPI守夜、加拿大决定、中国信用警告</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-10/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>NHTSA 称福特将在美国召回 40,000 多辆汽车</title>
+      <link>https://www.reuters.com/business/autos-transportation/ford-recall-over-40000-vehicles-us-nhtsa-says-2024-04-10/</link>
+      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 周三表示，由于燃油喷射器破裂可能泄漏并引发火灾，福特将在美国召回 42,652 辆 Bronco Sport 和 Escape 车辆。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ford-recall-over-40000-vehicles-us-nhtsa-says-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 09:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯法院驳回谷歌针对乌克兰内容罚款 5000 万美元的上诉</title>
+      <link>https://www.reuters.com/technology/russian-court-rejects-googles-appeal-against-50-mln-fine-over-ukraine-content-2024-04-10/</link>
+      <description><![CDATA[俄罗斯一家法院表示，已驳回 Alphabet 旗下谷歌针对未能删除俄罗斯认为的有关乌克兰战争的虚假信息而被处以 46 亿卢布（4940 万美元）罚款的上诉。]]></description>
+      <guid>https://www.reuters.com/technology/russian-court-rejects-googles-appeal-against-50-mln-fine-over-ukraine-content-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 09:34:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>保时捷报告第一季度交付量下降 4%</title>
+      <link>https://www.reuters.com/business/autos-transportation/porsche-reports-4-fall-q1-deliveries-2024-04-10/</link>
+      <description><![CDATA[总部位于斯图加特的跑车制造商保时捷周三表示，2024 年第一季度全球汽车交付量比 2023 年减少了 4%，原因是中国市场充满挑战，以及北美因海关原因导致交付延迟。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/porsche-reports-4-fall-q1-deliveries-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 09:07:39 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，香港将于四月批准首个现货比特币 ETF</title>
@@ -18,48 +95,6 @@
       <description><![CDATA[两位知情人士表示，现货比特币交易所交易基金可能于本月在香港推出，首批批准可能会在下周公布。]]></description>
       <guid>https://www.reuters.com/business/finance/hong-kong-set-approve-its-first-spot-bitcoin-etfs-april-sources-say-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 08:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>行业机构表示，中国一直在关闭闲置的汽车产能</title>
-      <link>https://www.reuters.com/business/autos-transportation/chinas-auto-factory-capacity-is-not-growing-fast-industry-group-says-2024-04-10/</link>
-      <description><![CDATA[中国汽车工业协会(CAAM)一位高级官员周三表示，2023年中国汽车工厂产能利用率将超过70%，闲置产能正在关闭。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/chinas-auto-factory-capacity-is-not-growing-fast-industry-group-says-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 07:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>彭博社称字节跳动全年利润增长 60%</title>
-      <link>https://www.reuters.com/technology/bytedance-full-year-profit-jumps-60-bloomberg-news-says-2024-04-10/</link>
-      <description><![CDATA[彭博新闻周三援引知情人士的话报道称，TikTok 母公司字节跳动的利润在 2023 年增长了约 60%。]]></description>
-      <guid>https://www.reuters.com/technology/bytedance-full-year-profit-jumps-60-bloomberg-news-says-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 07:11:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着汽车制造商实现电动里程碑，宝马第一季度销量小幅增长</title>
-      <link>https://www.reuters.com/business/autos-transportation/bmw-group-sales-up-slightly-q1-2024-04-10/</link>
-      <description><![CDATA[德国汽车制造商宝马周三报告称，第一季度销量略有增长，部分原因是电动汽车需求的推动，该公司庆祝其交付的第 100 万辆全电动汽车具有里程碑意义。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/bmw-group-sales-up-slightly-q1-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 07:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本的 Seven & i 表示正在考虑出售超市业务</title>
-      <link>https://www.reuters.com/business/retail-consumer/japans-seven-i-says-it-is-considering-sale-superstore-operations-2024-04-10/</link>
-      <description><![CDATA[日本零售商七&amp; i Holdings周三表示，正在考虑将其主要由超市组成的超市业务上市，作为企业价值最大化计划的一部分。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/japans-seven-i-says-it-is-considering-sale-superstore-operations-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 06:32:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国特易购预计在建立“强劲势头”后利润将增长</title>
-      <link>https://www.reuters.com/world/uk/britains-tesco-expects-profit-rise-202425-year-2024-04-10/</link>
-      <description><![CDATA[英国最大零售商乐购 (Tesco) 预计新财年利润将进一步增长，强劲需求和新客户帮助其 2023/24 年利润增长 11%。]]></description>
-      <guid>https://www.reuters.com/world/uk/britains-tesco-expects-profit-rise-202425-year-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 06:08:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>百乐嘉利宝营业利润因转型计划而下降</title>
-      <link>https://www.reuters.com/business/retail-consumer/barry-callebaut-operating-profit-falls-due-transformation-plan-2024-04-10/</link>
-      <description><![CDATA[巧克力制造商百乐嘉利宝 (Barry Callebaut) 周三公布的半年营业利润低于预期，受到转型计划造成的一次性费用的打击。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/barry-callebaut-operating-profit-falls-due-transformation-plan-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 05:20:59 GMT</pubDate>
     </item>
     <item>
       <title>向中国发出工厂产能警告后，耶伦面临关税决定</title>
@@ -76,18 +111,11 @@
       <pubDate>Wed, 10 Apr 2024 05:04:39 GMT</pubDate>
     </item>
     <item>
-      <title>独家：欧盟新技术法正在发挥作用——小型浏览器获得市场份额</title>
+      <title>独家：欧盟新技术法正在发挥作用；小型浏览器获得市场份额</title>
       <link>https://www.reuters.com/technology/eus-new-tech-laws-are-working-small-browsers-gain-market-share-2024-04-10/</link>
       <description><![CDATA[根据六家公司向路透社提供的数据，在欧盟立法迫使 Alphabet 旗下的谷歌、微软和苹果让用户更容易转向竞争对手后，欧盟独立浏览器公司的用户在第一个月出现激增。]]></description>
       <guid>https://www.reuters.com/technology/eus-new-tech-laws-are-working-small-browsers-gain-market-share-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 04:48:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>彪马在与阿迪达斯和耐克的奥运争夺战中注重速度</title>
-      <link>https://www.reuters.com/business/retail-consumer/puma-hones-focus-speed-olympic-battle-with-adidas-nike-2024-04-10/</link>
-      <description><![CDATA[德国运动服装品牌彪马利用今年的奥运会及其与短跑冠军牙买加的合作伙伴关系，将重点放在速度上，与阿迪达斯和耐克竞争，在竞争日益激烈的跑步和生活方式市场中开拓空间。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/puma-hones-focus-speed-olympic-battle-with-adidas-nike-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 04:07:14 GMT</pubDate>
     </item>
     <item>
       <title>阿里巴巴马云从阴影中走出来，发表鼓舞士气的帖子</title>
@@ -106,37 +134,16 @@
     <item>
       <title>中国电动汽车出口热潮推动新载车船舶需求激增</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-ev-export-boom-fuels-surge-demand-new-car-carrying-ships-2024-04-10/</link>
-      <description><![CDATA[数据显示，中国汽车制造商和托运商正在订购创纪录数量的汽车运载船，以支持电动汽车出口的繁荣，这将使中国有望在 2028 年之前积累世界第四大船队。]]></description>
+      <description><![CDATA[数据显示，中国汽车制造商和托运人正在订购创纪录数量的汽车运载船，以支持电动汽车出口的繁荣，这将使中国有望在 2028 年之前积累世界第四大船队。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinas-ev-export-boom-fuels-surge-demand-new-car-carrying-ships-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 02:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市公司从容应对惠誉下调中国评级</title>
+      <title>在最重要的美国通胀到来之前，股市上涨，国债稳定</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-10/</link>
-      <description><![CDATA[亚洲股市周三走高，并未受到惠誉下调中国评级的影响，惠誉下调中国评级引发了温和的国内抛售，因为世界第二大经济体在新冠疫情后难以实现稳健复苏。]]></description>
+      <description><![CDATA[周三，世界股市走高，债券和货币企稳，基本上没有受到评级机构惠誉下调中国前景的影响，而交易员则等待当天晚些时候公布的重要美国通胀数据。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 02:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行上田排除加息应对日元疲软的可能性</title>
-      <link>https://www.reuters.com/markets/asia/boj-will-scrutinise-trend-inflation-adjusting-monetary-support-says-gov-ueda-2024-04-10/</link>
-      <description><![CDATA[日本央行行长上田一夫表示，央行在制定货币政策时不会直接对汇率变动做出反应，否认了市场关于日元大幅贬值可能迫使其加息的猜测。]]></description>
-      <guid>https://www.reuters.com/markets/asia/boj-will-scrutinise-trend-inflation-adjusting-monetary-support-says-gov-ueda-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 00:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司遭遇举报人指控，加剧了安全担忧</title>
-      <link>https://www.reuters.com/business/aerospace-defense/faa-probing-boeing-whistleblowers-quality-claims-787-777-jets-2024-04-09/</link>
-      <description><![CDATA[美国联邦航空管理局 (FAA) 发言人周二表示，该机构正在调查一名波音举报人的指控，该举报人称该公司否认了该飞机制造商 787 和 777 喷气式飞机生产过程中存在的安全和质量问题。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/faa-probing-boeing-whistleblowers-quality-claims-787-777-jets-2024-04-09/</guid>
-      <pubDate>Tue, 09 Apr 2024 16:23:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于改革令员工不安，花旗集团首席执行官面临增长挑战</title>
-      <link>https://www.reuters.com/markets/us/citigroup-ceo-faces-growth-challenge-overhaul-rattles-employees-2024-04-09/</link>
-      <description><![CDATA[花旗集团首席执行官简·弗雷泽 (Jane Fraser) 在 9 月份宣布对花旗庞大的结构进行全面改革，通过裁员 5,000 名员工来削减成本后，花旗集团投资者奖励了其股价上涨。接下来，他们希望看到财富管理和投资银行业务的增长。]]></description>
-      <guid>https://www.reuters.com/markets/us/citigroup-ceo-faces-growth-challenge-overhaul-rattles-employees-2024-04-09/</guid>
-      <pubDate>Tue, 09 Apr 2024 10:33:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
