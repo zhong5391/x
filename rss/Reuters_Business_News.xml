@@ -1,23 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 11 Apr 2024 18:27:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 18:40:26 GMT</lastBuildDate>
+    <item>
+      <title>阿斯利康股东批准 2024 年薪酬政策，提振首席执行官 Soriot</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-shareholders-approve-2024-pay-policy-boost-ceo-soriot-2024-04-11/</link>
+      <description><![CDATA[阿斯利康股东周四批准了 2024 年薪酬政策，这将使首席执行官帕斯卡·索里奥特今年的薪酬方案提高至 1890 万英镑（2370 万美元）。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-shareholders-approve-2024-pay-policy-boost-ceo-soriot-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 17:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：美国航空公司、工会敦促拜登不要批准更多中国航班</title>
+      <link>https://www.reuters.com/business/aerospace-defense/us-airlines-unions-urge-biden-not-approve-more-china-flights-2024-04-11/</link>
+      <description><![CDATA[美国主要航空公司和航空工会周四敦促拜登政府暂停批准中美之间增加航班，理由是“中国政府持续实施反竞争政策”。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/us-airlines-unions-urge-biden-not-approve-more-china-flights-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析师表示，瑞银可能需要 100 亿至 150 亿美元的额外资本来满足瑞士新规定</title>
+      <link>https://www.reuters.com/business/finance/ubs-could-need-10-bln-15-bln-extra-capital-meet-new-swiss-rules-analyst-says-2024-04-11/</link>
+      <description><![CDATA[Autonomous Research 周四估计，在瑞士政府本周制定了对扩大后的银行实施更严格资本要求的计划后，瑞银可能需要保留 100 亿至 150 亿美元的超额资本。]]></description>
+      <guid>https://www.reuters.com/business/finance/ubs-could-need-10-bln-15-bln-extra-capital-meet-new-swiss-rules-analyst-says-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:51:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>裕信银行 (UniCredit) 获得欧洲央行 (ECB) 批准 31 亿欧元股票回购</title>
+      <link>https://www.reuters.com/business/finance/unicredit-gets-ecb-approval-31-bln-euro-share-buyback-2024-04-11/</link>
+      <description><![CDATA[裕信银行表示，欧洲央行已授权其以 30.85 亿欧元（合 33 亿美元）回购自己的股票，批准了这家意大利银行 2023 年收益总体回购计划的第二期。]]></description>
+      <guid>https://www.reuters.com/business/finance/unicredit-gets-ecb-approval-31-bln-euro-share-buyback-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:36:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>国际货币基金组织总裁表示，如果美国利率持续上升可能会成为担忧</title>
+      <link>https://www.reuters.com/markets/imf-head-says-higher-us-rates-could-become-worry-if-they-persist-2024-04-11/</link>
+      <description><![CDATA[国际货币基金组织总裁克里斯塔利娜·格奥尔基耶娃周四表示，美国加息对世界其他国家来说并不是好消息，如果持续很长时间可能会成为担忧，但她认为美联储正在谨慎行事。]]></description>
+      <guid>https://www.reuters.com/markets/imf-head-says-higher-us-rates-could-become-worry-if-they-persist-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能押注带来乐观收入预测后，Rent the Runway 股价翻了三倍</title>
+      <link>https://www.reuters.com/markets/us/rent-runway-shares-triple-after-upbeat-revenue-forecast-ai-bet-2024-04-11/</link>
+      <description><![CDATA[周四，服装租赁公司 Rent the Runway 的股价上涨了两倍多，这家服装租赁公司在经历了惨淡的 2023 年之后，大力投资人工智能工具，以推动其今年的增长。]]></description>
+      <guid>https://www.reuters.com/markets/us/rent-runway-shares-triple-after-upbeat-revenue-forecast-ai-bet-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储柯林斯认为降息并不紧迫</title>
+      <link>https://www.reuters.com/markets/rates-bonds/feds-collins-sees-no-urgency-cut-rates-2024-04-11/</link>
+      <description><![CDATA[波士顿联邦储备银行行长苏珊·柯林斯周四表示，经济的强劲和通胀的不平衡回落不利于央行近期推动降息。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/feds-collins-sees-no-urgency-cut-rates-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>卡车制造商沃尔沃将在墨西哥建造新工厂</title>
+      <link>https://www.reuters.com/business/autos-transportation/truck-maker-volvo-build-new-plant-mexico-2024-04-11/</link>
+      <description><![CDATA[瑞典卡车制造商沃尔沃集团周四表示，将在墨西哥建造一座新的重型卡车制造厂，以补充该集团在美国的生产。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/truck-maker-volvo-build-new-plant-mexico-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>福特向北美经销商发送了 144,000 辆卡车</title>
+      <link>https://www.reuters.com/business/autos-transportation/ford-sends-144000-trucks-toward-north-american-dealers-2024-04-11/</link>
+      <description><![CDATA[福特周四表示，将开始向北美经销商运送 144,000 辆重新设计的 F-150 和 Ranger 皮卡车，这些卡车是福特制造的，但为了避免质量问题而推迟至今。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ford-sends-144000-trucks-toward-north-american-dealers-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 16:03:49 GMT</pubDate>
+    </item>
     <item>
       <title>面对抛售，投资者将新资金转向美国 20 年以上国债 ETF</title>
       <link>https://www.reuters.com/markets/rates-bonds/investors-steer-new-money-into-us-20-year-treasury-etf-face-selloff-2024-04-11/</link>
       <description><![CDATA[周四的数据显示，投资者周三通过抢购领头羊 iShares 20+ 年期国债交易所交易基金 (ETF) 来应对美国固定收益市场的抛售。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/investors-steer-new-money-into-us-20-year-treasury-etf-face-selloff-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 15:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国机构调查费城福特致命车祸</title>
-      <link>https://www.reuters.com/business/autos-transportation/us-agency-probes-fatal-ford-crash-philadelphia-2024-04-11/</link>
-      <description><![CDATA[美国国家公路交通安全管理局周四表示，正在调查 3 月 3 日发生在费城的一辆福特野马 Mach-E 与两辆静止汽车之间发生的致命车祸，事故中可能使用了先进的驾驶员辅助系统。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/us-agency-probes-fatal-ford-crash-philadelphia-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 14:43:49 GMT</pubDate>
     </item>
     <item>
       <title>惠普因“Wex”软件商标侵权被 Wex 起诉</title>
@@ -34,47 +90,11 @@
       <pubDate>Thu, 11 Apr 2024 14:01:26 GMT</pubDate>
     </item>
     <item>
-      <title>美国财政部对发展中国家面临的金融压力发出警报</title>
-      <link>https://www.reuters.com/markets/us-treasury-sounds-alarm-financial-strains-facing-developing-countries-2024-04-11/</link>
-      <description><![CDATA[美国财政部高级官员周四将呼吁官方双边债权人采取果断、协调的行动，以解决低收入和中等收入国家面临的日益恶化的金融挑战，并在需要时加快债务减免。]]></description>
-      <guid>https://www.reuters.com/markets/us-treasury-sounds-alarm-financial-strains-facing-developing-countries-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 13:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃塞俄比亚面临艰难的货币贬值决定以确保国际货币基金组织的救助</title>
-      <link>https://www.reuters.com/world/africa/ethiopia-faces-tough-devaluation-decision-secure-imf-bailout-2024-04-11/</link>
-      <description><![CDATA[埃塞俄比亚可能不得不尽快决定大幅货币贬值，以获得国际货币基金组织（IMF）的救援贷款，国际货币基金组织上周没有与当局达成急需的协议就离开了该国。]]></description>
-      <guid>https://www.reuters.com/world/africa/ethiopia-faces-tough-devaluation-decision-secure-imf-bailout-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 13:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据公布后美联储7月份开始降息</title>
-      <link>https://www.reuters.com/markets/rates-bonds/july-start-fed-rate-cuts-back-view-after-data-2024-04-11/</link>
-      <description><![CDATA[在政府报告显示 3 月份生产者价格涨幅略低于预期后，交易员周四押注美联储最早可能在 7 月底的会议上开始降息。
-周三，3 月份消费者价格指数高于预期，这是月度通胀数据连续第三次上行，促使交易员放弃了对第一个季度的预期。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/july-start-fed-rate-cuts-back-view-after-data-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 13:37:25 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：空客首席执行官表示“不太可能”将收购 Spirit Aero 的一些工厂</title>
       <link>https://www.reuters.com/business/aerospace-defense/airbus-ceo-says-not-unlikely-it-will-take-some-spirit-aero-plants-2024-04-11/</link>
-      <description><![CDATA[空中客车公司负责人告诉路透社，如果波音继续执行收购该行业主要供应商之一的计划，那么这家欧洲飞机制造商“不太可能”控制Spirit Aerosystems运营的两家美国和英国工厂。]]></description>
+      <description><![CDATA[空中客车公司负责人告诉路透社，如果波音继续实施收购该行业主要供应商之一的计划，那么这家欧洲飞机制造商“不太可能”控制Spirit Aerosystems运营的两家美国和英国工厂。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/airbus-ceo-says-not-unlikely-it-will-take-some-spirit-aero-plants-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 13:32:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>韩国被责令就 2015 年三星合并案向茂宸资本支付约 3200 万美元</title>
-      <link>https://www.reuters.com/markets/deals/south-korea-ordered-pay-mason-capital-about-32-mln-over-2015-samsung-merger-2024-04-11/</link>
-      <description><![CDATA[司法部周四表示，在因 2015 年两家三星子公司合并引发的纠纷中，韩国已被勒令向纽约对冲基金梅森资本管理公司 (Mason Capital Management) 支付超过 3200 万美元。]]></description>
-      <guid>https://www.reuters.com/markets/deals/south-korea-ordered-pay-mason-capital-about-32-mln-over-2015-samsung-merger-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 13:29:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储威廉姆斯：如有需要，银行应准备好使用贴现窗口</title>
-      <link>https://www.reuters.com/business/finance/feds-williams-banks-should-be-prepared-use-discount-window-if-needed-2024-04-11/</link>
-      <description><![CDATA[纽约联邦储备银行行长约翰·威廉姆斯周四表示，银行需要在麻烦到来之前做好利用美联储贴现窗口的准备。]]></description>
-      <guid>https://www.reuters.com/business/finance/feds-williams-banks-should-be-prepared-use-discount-window-if-needed-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 13:28:17 GMT</pubDate>
     </item>
     <item>
       <title>通知显示，美国联邦航空管理局针对某些波音 747-400F 飞机提出了适航指令</title>
@@ -86,49 +106,35 @@
     <item>
       <title>IMF总裁预计2024年通胀将进一步下降，但尚未完全被击败</title>
       <link>https://www.reuters.com/markets/imf-chief-sees-inflation-dropping-further-2024-not-yet-fully-defeated-2024-04-11/</link>
-      <description><![CDATA[国际货币基金组织(IMF)总裁克里斯塔利娜·格奥尔基耶娃(Kristalina Georgieva)周四表示，通胀放缓速度快于预期，但尚未完全被击败，敦促各国央行根据即将公布的数据仔细调整降息决定。]]></description>
+      <description><![CDATA[国际货币基金组织总裁克里斯塔利娜·格奥尔基耶娃周四表示，通胀放缓速度快于预期，但尚未完全被击败，敦促各国央行根据即将公布的数据仔细调整降息决定。]]></description>
       <guid>https://www.reuters.com/markets/imf-chief-sees-inflation-dropping-further-2024-not-yet-fully-defeated-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 13:09:41 GMT</pubDate>
     </item>
     <item>
-      <title>美国每周申请失业救济人数降幅超出预期；持续索赔上升</title>
+      <title>美国生产者价格温和上涨；每周申请失业救济人数下降</title>
       <link>https://www.reuters.com/markets/us/us-weekly-jobless-claims-fall-more-than-expected-continuing-claims-rise-2024-04-11/</link>
-      <description><![CDATA[上周美国新申请失业救济人数下降幅度超过预期，表明劳动力市场仍然相当紧张，尽管一些下岗工人可能需要更长的时间才能找到新工作。]]></description>
+      <description><![CDATA[由于商品价格下跌削弱了服务成本的上涨，美国生产者价格在 3 月份温和上涨，这可能有助于平息人们对通胀重新加速的担忧。]]></description>
       <guid>https://www.reuters.com/markets/us/us-weekly-jobless-claims-fall-more-than-expected-continuing-claims-rise-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 13:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>美联储威廉姆斯表示，目前看来不会立即降息</title>
+      <title>不急于降息的美联储官员人数持续增加</title>
       <link>https://www.reuters.com/markets/us/feds-williams-said-outlook-uncertain-data-will-drive-rate-decisions-2024-04-11/</link>
-      <description><![CDATA[纽约联邦储备银行行长约翰·威廉姆斯周四表示，尽管美联储在降低通胀方面取得了相当大的进展，但在近期物价压力波动不平衡的情况下，尚未需要采取更宽松的货币政策。]]></description>
+      <description><![CDATA[表示不急于降息的美联储官员人数继续增加，纽约联储行长周四表示“短期内”不需要降低借贷成本。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-williams-said-outlook-uncertain-data-will-drive-rate-decisions-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 12:49:14 GMT</pubDate>
     </item>
     <item>
-      <title>科罗娜啤酒制造商 Constellation Brands 预测年度利润高于预期</title>
-      <link>https://www.reuters.com/business/corona-beer-maker-constellation-brands-forecasts-annual-profit-above-estimates-2024-04-11/</link>
-      <description><![CDATA[星座品牌周四预计年度利润将高于华尔街预期，尽管通货膨胀严重，但其核心啤酒品牌的需求仍保持弹性。]]></description>
-      <guid>https://www.reuters.com/business/corona-beer-maker-constellation-brands-forecasts-annual-profit-above-estimates-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 12:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>新调查发现 2024 年全球信贷前景恶化</title>
-      <link>https://www.reuters.com/markets/us/global-credit-outlook-2024-worsens-new-survey-finds-2024-04-11/</link>
-      <description><![CDATA[国际信贷投资组合经理协会的一项调查显示，一些最大金融机构的投资组合和资产经理对全球信贷状况持负面看法。]]></description>
-      <guid>https://www.reuters.com/markets/us/global-credit-outlook-2024-worsens-new-survey-finds-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 12:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉投资者或将在年度股东大会上提出集体谈判动议</title>
+      <title>挪威KLP可能会在年会上推动特斯拉进行集体谈判</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-investor-may-table-collective-bargaining-motion-agm-2024-04-11/</link>
-      <description><![CDATA[挪威养老基金周四表示，特斯拉投资者 KLP 可能会要求该汽车制造商召开年度股东大会，以解决首席执行官埃隆·马斯克 (Elon Musk) 不愿参与集体谈判的问题。]]></description>
+      <description><![CDATA[挪威最大的养老基金和特斯拉投资者 KLP 周四表示，该基金可能会要求这家电动汽车制造商召开年度股东大会，以解决首席执行官埃隆·马斯克 (Elon Musk) 不愿参与集体谈判的问题。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-investor-may-table-collective-bargaining-motion-agm-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 11:40:17 GMT</pubDate>
     </item>
     <item>
-      <title>新通胀数据缓解利率担忧，标普和纳斯达克指数上涨</title>
+      <title>债券收益率反弹后标普 500 指数和道琼斯指数下跌</title>
       <link>https://www.reuters.com/markets/us/futures-slip-rate-cut-hopes-ebb-2024-04-11/</link>
-      <description><![CDATA[基准标准普尔 500 指数和纳斯达克指数周四上涨，此前低于预期的生产者价格数据缓解了投资者对粘性通胀的担忧，使美联储今年降息的希望依然存在。]]></description>
+      <description><![CDATA[周四中午，基准标准普尔 500 指数和道指走低，因最新经济数据以及美联储政策制定者的评论导致长期国债收益率保持高位。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-slip-rate-cut-hopes-ebb-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 10:21:31 GMT</pubDate>
     </item>
@@ -138,13 +144,6 @@
       <description><![CDATA[一种新形式的价格冲击对像达林·戴维斯这样的美国汽车购买者造成了打击。]]></description>
       <guid>https://www.reuters.com/markets/us/soaring-insurance-costs-hit-us-buyers-finally-get-break-car-prices-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 10:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲央行“不依赖美联储”考虑降息</title>
-      <link>https://www.reuters.com/markets/europe/ecb-set-up-june-rate-cut-after-rapid-inflation-fall-2024-04-10/</link>
-      <description><![CDATA[欧洲央行周四如预期将利率维持在历史高位，但暗示可能很快就会开始降息，尽管投资者质疑美国顽固的通胀是否会阻止美联储紧随其后。]]></description>
-      <guid>https://www.reuters.com/markets/europe/ecb-set-up-june-rate-cut-after-rapid-inflation-fall-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 22:02:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
