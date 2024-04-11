@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 11 Apr 2024 06:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 07:18:56 GMT</lastBuildDate>
+    <item>
+      <title>中国第一季度GDP增速将放缓至4.6%，加大刺激力度仍面临压力 - 路透调查</title>
+      <link>https://www.reuters.com/markets/asia/chinas-q1-gdp-growth-set-slow-46-keeps-pressure-more-stimulus-2024-04-11/</link>
+      <description><![CDATA[路透周四的一项民意调查显示，尽管有初步企稳迹象，中国第一季度经济可能较上年同期增长 4.6%，为一年来最慢增速，这给政策制定者带来了出台更多刺激措施的压力。]]></description>
+      <guid>https://www.reuters.com/markets/asia/chinas-q1-gdp-growth-set-slow-46-keeps-pressure-more-stimulus-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 06:48:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞士银行业计划让“如释重负”的瑞银集团脱离了直接打击范围</title>
+      <link>https://www.reuters.com/business/finance/swiss-banking-plan-leaves-relieved-ubs-out-immediate-firing-line-2024-04-11/</link>
+      <description><![CDATA[在瑞士政府制定了旨在让这家“怪物银行”保持一致的计划后，瑞银可能需要数年时间才能感受到新法规的影响，但这些计划缺乏细节，并预示着将通过曲折的政治程序将其纳入法律。]]></description>
+      <guid>https://www.reuters.com/business/finance/swiss-banking-plan-leaves-relieved-ubs-out-immediate-firing-line-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 05:10:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国降息押注的揭晓刺激投资者投资组合的转变</title>
+      <link>https://www.reuters.com/markets/us/unraveling-us-rate-cut-bets-spur-investor-portfolio-shifts-2024-04-11/</link>
+      <description><![CDATA[对通胀反弹的担忧迫使投资者为 2024 年很少有人预计会遇到的情况做好准备：美国没有降息的一年。]]></description>
+      <guid>https://www.reuters.com/markets/us/unraveling-us-rate-cut-bets-spur-investor-portfolio-shifts-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 05:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>耐克寄希望于奥运会夺回市场份额</title>
+      <link>https://www.reuters.com/business/retail-consumer/nike-pins-hopes-olympics-race-take-back-market-share-2024-04-11/</link>
+      <description><![CDATA[耐克将为其赞助的美国和肯尼亚等奥运国家队推出新球衣，旨在增强其作为顶级运动员和日常消费者的高性能装备品牌的信誉。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/nike-pins-hopes-olympics-race-take-back-market-share-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 05:03:29 GMT</pubDate>
+    </item>
     <item>
       <title>早间竞标：夏季减产渐行渐远？</title>
       <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-04-11/</link>
@@ -34,32 +62,18 @@
       <pubDate>Thu, 11 Apr 2024 02:39:38 GMT</pubDate>
     </item>
     <item>
-      <title>全球利率恐慌导致亚洲股市下跌，日元跌至 34 年低点</title>
+      <title>亚洲股市因美国利率恐慌而下跌，日元跌至 34 年低点</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-11/</link>
-      <description><![CDATA[亚洲股市周四跟随华尔街走低，原因是美国通胀高企，迫使市场大幅削减对美联储今年可能出台多少宽松政策的押注，导致美元兑日元汇率飙升至 34 年来的新高。]]></description>
+      <description><![CDATA[亚洲股市周四跟随华尔街走低，因美国通胀率高，迫使市场大幅削减对美联储今年可能放松货币政策的押注，美元兑日元汇率飙升至 34 年来的高点。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 02:15:31 GMT</pubDate>
     </item>
     <item>
-      <title>中国疲软的消费者和生产者价格预示着更多刺激措施</title>
+      <title>中国疲软的CPI和工厂通货紧缩预示着更多刺激措施</title>
       <link>https://www.reuters.com/world/china/chinas-consumer-prices-rise-2nd-month-factory-deflation-persists-2024-04-11/</link>
       <description><![CDATA[3月份中国消费者通胀降温幅度超出预期，而生产者价格通缩持续存在，在需求依然疲软的情况下，政策制定者面临着推出更多刺激措施的压力。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-consumer-prices-rise-2nd-month-factory-deflation-persists-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 01:43:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>中东紧张局势升级，油价延续涨势</title>
-      <link>https://www.reuters.com/markets/commodities/oil-consolidates-gains-amid-concerns-worsening-middle-east-crisis-2024-04-11/</link>
-      <description><![CDATA[继前一交易日每桶上涨一美元后，周四油价延续涨势，因投资者为中东危机恶化做好准备，其中可能涉及欧佩克第三大石油生产国伊朗。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/oil-consolidates-gains-amid-concerns-worsening-middle-east-crisis-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 01:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>美元坚挺，日元下滑，因美联储削减押注而崩溃</title>
-      <link>https://www.reuters.com/markets/currencies/dollar-firms-yen-skids-fed-cut-wagers-crumble-2024-04-11/</link>
-      <description><![CDATA[周四，美国通胀数据高于预期，打压了人们对美联储将于 6 月开始降息周期的预期，美元周四坚挺，而日元则徘徊在 1990 年中期的水平。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/dollar-firms-yen-skids-fed-cut-wagers-crumble-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 01:27:57 GMT</pubDate>
     </item>
     <item>
       <title>美国陪审团称亚马逊在云存储专利诉讼中欠下 5.25 亿美元</title>
@@ -83,13 +97,6 @@
       <pubDate>Wed, 10 Apr 2024 23:31:01 GMT</pubDate>
     </item>
     <item>
-      <title>Politico 报道，美国司法部对新日铁与美国钢铁公司的交易展开调查</title>
-      <link>https://www.reuters.com/markets/deals/us-justice-department-opens-in-depth-probe-into-nippon-steels-us-steel-deal-2024-04-10/</link>
-      <description><![CDATA[据《Politico》周三援引两名直接知情人士的消息称，美国司法部已对新日铁以 141 亿美元收购美国钢铁公司展开深入的反垄断调查。]]></description>
-      <guid>https://www.reuters.com/markets/deals/us-justice-department-opens-in-depth-probe-into-nippon-steels-us-steel-deal-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 21:36:16 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：富士康考虑在管理层改组中轮换首席执行官</title>
       <link>https://www.reuters.com/technology/foxconn-considers-rotating-ceos-management-reshuffle-2024-04-10/</link>
       <description><![CDATA[三名知情人士告诉路透社，苹果供应商富士康正在考虑引入轮值首席执行官制度，对其管理结构进行重大改革，旨在培养未来人才。]]></description>
@@ -104,9 +111,9 @@
       <pubDate>Wed, 10 Apr 2024 16:03:58 GMT</pubDate>
     </item>
     <item>
-      <title>NTSB 对波音公司就 737 MAX 9 门塞探针进行了新的采访</title>
+      <title>NTSB 对波音公司就 737 MAX 9 门塞探测器进行了新的采访</title>
       <link>https://www.reuters.com/business/aerospace-defense/ntsb-conducting-new-interviews-with-boeing-737-max-9-door-plug-probe-2024-04-10/</link>
-      <description><![CDATA[美国国家运输安全委员会本周正在对波音公司和联邦航空管理局人员进行新一轮约谈，以调查 1 月份阿拉斯加航空 737 MAX 9 飞行中的紧急情况。]]></description>
+      <description><![CDATA[美国国家运输安全委员会本周正在对波音公司和联邦航空管理局人员进行新一轮约谈，以调查 1 月份阿拉斯加航空 737 MAX 9 的飞行中紧急情况。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/ntsb-conducting-new-interviews-with-boeing-737-max-9-door-plug-probe-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 14:43:33 GMT</pubDate>
     </item>
@@ -125,11 +132,18 @@
       <pubDate>Wed, 10 Apr 2024 12:21:29 GMT</pubDate>
     </item>
     <item>
-      <title>由于粘性通胀削弱降息希望，华尔街收盘大幅下跌</title>
-      <link>https://www.reuters.com/markets/us/futures-tread-higher-ahead-latest-inflation-test-2024-04-10/</link>
-      <description><![CDATA[好于预期的通胀数据给美联储最早于 6 月开始降息的希望泼了一盆冷水，周三美国股市收盘下跌。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-tread-higher-ahead-latest-inflation-test-2024-04-10/</guid>
-      <pubDate>Wed, 10 Apr 2024 10:17:54 GMT</pubDate>
+      <title>唯一的孩子？作为年迈父母的照顾者做好准备的四种方法</title>
+      <link>https://www.reuters.com/markets/wealth/only-child-four-ways-prepare-caregiver-aging-parents-2024-04-10/</link>
+      <description><![CDATA[当有多个兄弟姐妹需要帮助时，照顾年迈的父母已经够困难的了。]]></description>
+      <guid>https://www.reuters.com/markets/wealth/only-child-four-ways-prepare-caregiver-aging-parents-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 10:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>解说：日元为何如此疲软？</title>
+      <link>https://www.reuters.com/markets/currencies/japan-hiked-interest-rates-why-is-yen-falling-2024-03-25/</link>
+      <description><![CDATA[日本日元正处于三个十年来的低点，承受着足够的压力，促使官方发出强烈的干预警告以支撑日元。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/japan-hiked-interest-rates-why-is-yen-falling-2024-03-25/</guid>
+      <pubDate>Mon, 25 Mar 2024 07:31:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
