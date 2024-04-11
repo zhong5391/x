@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 11 Apr 2024 09:23:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 09:38:20 GMT</lastBuildDate>
     <item>
       <title>Orange 退出法国银行业并出售 20 亿美元贷款</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-11/orange-markets-2-billion-of-loans-as-it-exits-banking-in-france</link>
@@ -20,9 +20,9 @@
       <pubDate>Thu, 11 Apr 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>越南大亨兰因120亿美元诈骗案被判处死刑</title>
+      <title>越南大亨兰因诈骗120亿美元被判处死刑</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-11/vietnam-tycoon-lan-sentenced-to-death-in-12-billion-fraud-case</link>
-      <description><![CDATA[越南一家法院因参与 120 亿美元欺诈案而判处房地产大亨张美兰死刑，这是自共产党开始打击腐败以来最严厉的惩罚之一。]]></description>
+      <description><![CDATA[越南一家法院因参与 120 亿美元诈骗案而判处房地产大亨张美兰死刑，突显了共产党打击腐败的决心。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-11/vietnam-tycoon-lan-sentenced-to-death-in-12-billion-fraud-case</guid>
       <pubDate>Thu, 11 Apr 2024 08:54:59 GMT</pubDate>
     </item>
@@ -160,20 +160,6 @@
       <pubDate>Thu, 11 Apr 2024 06:40:22 GMT</pubDate>
     </item>
     <item>
-      <title>兄弟成为市场主管后，中国顶级银行家辞职</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-11/top-china-banker-steps-down-after-brother-becomes-markets-chief</link>
-      <description><![CDATA[在他的兄弟被任命为中国最高市场监管机构负责人两个月后，中国国际金融有限公司总裁辞职。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-11/top-china-banker-steps-down-after-brother-becomes-markets-chief</guid>
-      <pubDate>Thu, 11 Apr 2024 06:24:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>平安信托延迟偿还显示房地产困境挥之不去</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-11/ping-an-s-delayed-trust-repayment-shows-lingering-property-woes</link>
-      <description><![CDATA[平安保险（集团）股份有限公司的信托业务推迟了一款与房地产挂钩的投资产品的还款，这表明这家金融巨头的资产管理业务仍受到中国房地产长期低迷的影响。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-11/ping-an-s-delayed-trust-repayment-shows-lingering-property-woes</guid>
-      <pubDate>Thu, 11 Apr 2024 06:19:51 GMT</pubDate>
-    </item>
-    <item>
       <title>富时 100 指数实时：随着交易员推迟押注，英国央行降息的希望逐渐减弱</title>
       <link>https://www.bloomberg.com/news/live-blog/2024-04-11/what-s-moving-uk-markets-right-now-markets-today</link>
       <description><![CDATA[伦敦证券交易所。摄影师：克里斯·拉特克利夫/彭博社]]></description>
@@ -188,11 +174,25 @@
       <pubDate>Thu, 11 Apr 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>受美国通胀弹性影响，金价企稳</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-11/gold-xauusd-resumes-gains-as-middle-east-tensions-offset-hot-inflation</link>
+      <description><![CDATA[周四，金价大幅上涨，但被美国通胀报告打断，该报告引发了人们对美联储今年降息幅度低于预期的担忧。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-11/gold-xauusd-resumes-gains-as-middle-east-tensions-offset-hot-inflation</guid>
+      <pubDate>Thu, 11 Apr 2024 01:57:24 GMT</pubDate>
+    </item>
+    <item>
       <title>由于选举影响转瞬即逝，韩国股市消除了早期跌幅</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-11/korean-stocks-fall-as-ruling-party-suffers-major-election-loss</link>
       <description><![CDATA[韩国股市周四收复早盘跌幅，因投资者表示总统尹锡烈领导的政党在议会选举中受挫的影响将是短暂的。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-11/korean-stocks-fall-as-ruling-party-suffers-major-election-loss</guid>
       <pubDate>Thu, 11 Apr 2024 00:07:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>交易商为伊朗袭击以色列做好准备，油价上涨</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-10/latest-oil-market-news-and-analysis-for-april-11</link>
+      <description><![CDATA[由于交易员关注伊朗或其代理人对以色列的潜在袭击，这可能引发中东敌对行动的大幅升级，石油价格在三个交易日中首次上涨。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-10/latest-oil-market-news-and-analysis-for-april-11</guid>
+      <pubDate>Wed, 10 Apr 2024 23:30:25 GMT</pubDate>
     </item>
     <item>
       <title>疗养院公司 PACS Group 在 IPO 中筹集 4.5 亿美元</title>
