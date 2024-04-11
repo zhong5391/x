@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 11 Apr 2024 10:49:06 GMT</lastBuildDate>
-    <item>
-      <title>早盘竞价：市场因美联储消除疑虑而动摇，欧洲央行接下来上涨</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-11/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 10:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>评级下调和政府调查后万科股价、债券下跌</title>
-      <link>https://www.reuters.com/markets/asia/china-vanke-shares-bonds-fall-after-rating-cut-government-probe-2024-04-11/</link>
-      <description><![CDATA[在标准普尔取消其投资级地位以及该开发商证实一名高管正在接受调查的报道后，万科的股价和美元债券周四下跌，加剧了陷入困境的房地产行业的困境。]]></description>
-      <guid>https://www.reuters.com/markets/asia/china-vanke-shares-bonds-fall-after-rating-cut-government-probe-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 09:37:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登将在菲律宾-日本峰会上对北京在南海的举动发出警告</title>
-      <link>https://www.reuters.com/world/biden-warn-beijings-south-china-sea-moves-philippines-japan-summit-2024-04-11/</link>
-      <description><![CDATA[随着美国、日本和菲律宾领导人齐聚白宫，反击北京在有争议的南海问题上对马尼拉加大施压，周四，中国与其邻国之间长期存在的紧张关系将成为人们关注的焦点。]]></description>
-      <guid>https://www.reuters.com/world/biden-warn-beijings-south-china-sea-moves-philippines-japan-summit-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 09:09:19 GMT</pubDate>
-    </item>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 11 Apr 2024 11:04:40 GMT</lastBuildDate>
     <item>
       <title>选举失败后，妥协可能会更好地服务好斗的韩国总统</title>
       <link>https://www.reuters.com/world/asia-pacific/after-election-rout-compromise-may-better-serve-south-koreas-combative-president-2024-04-11/</link>
@@ -83,11 +62,11 @@
       <pubDate>Thu, 11 Apr 2024 02:39:38 GMT</pubDate>
     </item>
     <item>
-      <title>美国通胀抛售后欧洲转向欧洲央行</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-11/</link>
-      <description><![CDATA[在周四欧洲央行会议之前，股市和欧元保持稳定，此前美国顽强的通胀数据引发了数月来最大规模的全球市场抛售，并导致日元跌至 34 年来的新低。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 02:15:31 GMT</pubDate>
+      <title>香港拘留并驱逐新闻自由团体工作人员</title>
+      <link>https://www.reuters.com/world/china/hong-kong-detains-deports-press-freedom-group-staffer-city-2024-04-11/</link>
+      <description><![CDATA[该新闻自由倡导组织周三表示，无国界记者组织（RSF）的一名代表被拘留并被驱逐出香港，称这是中国控制领土新闻自由的“新下降”。]]></description>
+      <guid>https://www.reuters.com/world/china/hong-kong-detains-deports-press-freedom-group-staffer-city-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 01:57:06 GMT</pubDate>
     </item>
     <item>
       <title>中国疲软的CPI和工厂通货紧缩预示着更多刺激措施</title>
@@ -95,13 +74,6 @@
       <description><![CDATA[3月份中国消费者通胀降温幅度超出预期，而生产者价格通缩持续存在，在需求依然疲软的情况下，政策制定者面临着推出更多刺激措施的压力。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-consumer-prices-rise-2nd-month-factory-deflation-persists-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 01:43:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>通胀数据公布后美元走强打压欧元、日元创34年新低</title>
-      <link>https://www.reuters.com/markets/currencies/dollar-firms-yen-skids-fed-cut-wagers-crumble-2024-04-11/</link>
-      <description><![CDATA[周四，美元兑一篮子货币升至 11 月以来最高水平，前一天公布的美国通胀数据超出预期，打压了 6 月降息的预期，导致日元跌至 34 年来的低点。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/dollar-firms-yen-skids-fed-cut-wagers-crumble-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 01:27:57 GMT</pubDate>
     </item>
     <item>
       <title>中国称欧盟补贴调查干扰中欧合作</title>
@@ -125,6 +97,13 @@
       <pubDate>Wed, 10 Apr 2024 23:31:01 GMT</pubDate>
     </item>
     <item>
+      <title>特鲁多总理表示，中国试图干预，但加拿大人决定了最近两次选举</title>
+      <link>https://www.reuters.com/world/americas/china-tried-meddle-canadians-decided-last-two-elections-says-pm-trudeau-2024-04-10/</link>
+      <description><![CDATA[加拿大总理贾斯汀·特鲁多周三在一项官方调查中表示，中国试图干预加拿大最近两次选举，但结果并未受到影响，而且北京“不可能”偏爱任何一个政党而不是另一个政党。]]></description>
+      <guid>https://www.reuters.com/world/americas/china-tried-meddle-canadians-decided-last-two-elections-says-pm-trudeau-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 23:21:54 GMT</pubDate>
+    </item>
+    <item>
       <title>着眼于中国，美国和日本誓言开展新的安全合作</title>
       <link>https://www.reuters.com/world/with-eyes-china-us-japan-vow-new-security-collaboration-2024-04-10/</link>
       <description><![CDATA[美国总统拜登和日本首相岸田文雄周三承诺开启美日战略合作“新时代”，制定了从共同开发导弹到载人登月等一系列项目，同时谴责中国在该地区的升级行为。]]></description>
@@ -144,6 +123,27 @@
       <description><![CDATA[惠誉周三将中国主权信用评级展望下调至负面，理由是中国经济在向新增长模式转变过程中面临越来越大的不确定性，从而给公共财政带来风险。]]></description>
       <guid>https://www.reuters.com/world/china/fitch-downgrades-outlook-china-negative-affirms-a-rating-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 03:50:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国电动汽车出口热潮推动新载车船舶需求激增</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinas-ev-export-boom-fuels-surge-demand-new-car-carrying-ships-2024-04-10/</link>
+      <description><![CDATA[数据显示，中国汽车制造商和托运人正在订购创纪录数量的汽车运载船，以支持电动汽车出口的繁荣，这将使中国有望在 2028 年之前积累世界第四大船队。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinas-ev-export-boom-fuels-surge-demand-new-car-carrying-ships-2024-04-10/</guid>
+      <pubDate>Wed, 10 Apr 2024 02:30:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国考虑放松对前往中国的美国人的警告</title>
+      <link>https://www.reuters.com/world/us-considers-easing-warnings-americans-traveling-china-2024-04-09/</link>
+      <description><![CDATA[美国副国务卿库尔特·坎贝尔周二表示，美国正在考虑放松针对其公民前往中国的警告，承认这些警告可能会限制美国人与中国人民之间的交流。]]></description>
+      <guid>https://www.reuters.com/world/us-considers-easing-warnings-americans-traveling-china-2024-04-09/</guid>
+      <pubDate>Tue, 09 Apr 2024 23:40:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>聚焦：快时尚Shein、Temu的崛起搅动全球航空货运业</title>
+      <link>https://www.reuters.com/business/retail-consumer/rise-fast-fashion-shein-temu-roils-global-air-cargo-industry-2024-02-21/</link>
+      <description><![CDATA[十多名行业消息人士称，Shein 和 Temu 等快时尚电子商务零售商的迅速崛起正在颠覆全球航空货运业，因为它们越来越多地争夺有限的航空货运空间，以快速的运输时间吸引消费者。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/rise-fast-fashion-shein-temu-roils-global-air-cargo-industry-2024-02-21/</guid>
+      <pubDate>Wed, 21 Feb 2024 06:05:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
