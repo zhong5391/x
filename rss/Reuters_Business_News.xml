@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 11 Apr 2024 15:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 15:32:13 GMT</lastBuildDate>
     <item>
       <title>IMF总裁预计2024年通胀将进一步下降，但尚未完全被击败</title>
       <link>https://www.reuters.com/markets/imf-chief-sees-inflation-dropping-further-2024-not-yet-fully-defeated-2024-04-11/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>科罗娜啤酒制造商 Constellation Brands 预测年度利润高于预期</title>
       <link>https://www.reuters.com/business/corona-beer-maker-constellation-brands-forecasts-annual-profit-above-estimates-2024-04-11/</link>
-      <description><![CDATA[周四，星座品牌公司预计年度利润将高于华尔街预期，尽管通胀形势严峻，但其核心啤酒品牌的需求依然强劲。]]></description>
+      <description><![CDATA[星座品牌周四预计年度利润将高于华尔街预期，尽管通货膨胀严重，但其核心啤酒品牌的需求仍保持弹性。]]></description>
       <guid>https://www.reuters.com/business/corona-beer-maker-constellation-brands-forecasts-annual-profit-above-estimates-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 12:36:04 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Thu, 11 Apr 2024 10:08:56 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：市场因美联储消除疑虑而动摇，欧洲央行下一步上涨</title>
+      <title>早盘竞价：市场因美联储消除疑虑而动摇，欧洲央行接下来上涨</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-11/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-11/</guid>
