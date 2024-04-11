@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 11 Apr 2024 14:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 14:39:23 GMT</lastBuildDate>
     <item>
       <title>大众汽车将投资27亿美元在中国生产基地</title>
       <link>https://www.reuters.com/business/autos-transportation/volkswagen-invest-27-billion-chinese-production-site-2024-04-11/</link>
-      <description><![CDATA[大众汽车周四宣布，计划在中国投资 25 亿欧元（26.8 亿美元），扩大其位于安徽省合肥市的生产和创新中心。]]></description>
+      <description><![CDATA[大众汽车周四宣布，计划在中国投资 25 亿欧元（26.8 亿美元），扩建其位于安徽省合肥市的生产和创新中心。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/volkswagen-invest-27-billion-chinese-production-site-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 11:35:03 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：市场因美联储消除疑虑而动摇，欧洲央行接下来上涨</title>
+      <title>早盘竞价：市场因美联储消除疑虑而动摇，欧洲央行下一步上涨</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-11/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-11/</guid>
@@ -113,7 +113,7 @@
     <item>
       <title>欧洲央行前欧元承压，日元创34年新低</title>
       <link>https://www.reuters.com/markets/currencies/dollar-firms-yen-skids-fed-cut-wagers-crumble-2024-04-11/</link>
-      <description><![CDATA[周四，美元兑一篮子主要货币创下11月以来最高水平，此前一天公布的美国通胀数据超出预期，打压了6月降息的预期，导致日元跌至34年低点。]]></description>
+      <description><![CDATA[周四，美元兑一篮子主要货币创下11月以来最高水平，此前一天公布的美国通胀数据超出预期，打压了6月份降息的预期，导致日元跌至34年低点。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-firms-yen-skids-fed-cut-wagers-crumble-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 01:27:57 GMT</pubDate>
     </item>
