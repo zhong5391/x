@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 11 Apr 2024 08:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 08:48:32 GMT</lastBuildDate>
     <item>
       <title>汉莎航空与空乘人员达成工资协议，避免罢工</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-11/lufthansa-reaches-wage-accord-with-cabin-crew-averting-strikes</link>
@@ -50,7 +50,7 @@
     <item>
       <title>交易员下调英国央行宽松预期，预计 2024 年降息将少于两次</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-11/traders-trim-boe-easing-bets-to-see-less-than-two-cuts-in-2024</link>
-      <description><![CDATA[随着全球市场在美国通胀数据公布后调整预期，投资者削减了对英国央行货币宽松的押注，并不再完全消化今年两次降息的预期。]]></description>
+      <description><![CDATA[随着全球市场在美国通胀数据公布后调整预期，投资者减少了对英国央行货币宽松的押注，并不再完全消化今年两次降息的预期。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-11/traders-trim-boe-easing-bets-to-see-less-than-two-cuts-in-2024</guid>
       <pubDate>Thu, 11 Apr 2024 07:42:02 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>油价飙升拖累韩元兑美元汇率跌至 1,400 韩元</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-11/surging-oil-prices-seen-dragging-down-won-to-1-400-per-dollar</link>
-      <description><![CDATA[韩元周四跌至 17 个月低点后，远未触底，因为预计油价将触及每桶 100 美元，韩元面临的压力越来越大。]]></description>
+      <description><![CDATA[韩元周四跌至 17 个月低点后，远未触底，因为预计油价将达到每桶 100 美元，韩元面临的压力越来越大。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-11/surging-oil-prices-seen-dragging-down-won-to-1-400-per-dollar</guid>
       <pubDate>Thu, 11 Apr 2024 07:16:28 GMT</pubDate>
     </item>
@@ -95,6 +95,13 @@
       <description><![CDATA[Transaction Capital Ltd. 的二手车业务 WeBuyCars 在约翰内斯堡证券交易所首次亮相，标志着资本市场活动在多年沉寂后开始潜在复苏。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-11/webuycars-debuts-in-johannesburg-after-416-million-ipo</guid>
       <pubDate>Thu, 11 Apr 2024 07:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>莱利银行希望在新任首席执行官的领导下实现投资银行业务的增长</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-11/nedbank-looks-to-investment-banking-for-growth-under-new-ceo</link>
+      <description><![CDATA[南非莱利银行集团有限公司(Nedbank Group Ltd.)希望聘用更多投资银行家，以利用非洲最发达经济体可再生能源、水务和物流交易激增的机会。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-11/nedbank-looks-to-investment-banking-for-growth-under-new-ceo</guid>
+      <pubDate>Thu, 11 Apr 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
       <title>津巴布韦 ZiG 货币涨势进入第三天，兑美元上涨 0.4%</title>
@@ -167,13 +174,6 @@
       <pubDate>Thu, 11 Apr 2024 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>东京办公室空缺率创三年新低，抵御全球经济低迷</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-11/tokyo-office-vacancies-hit-three-year-low-bucking-global-slump</link>
-      <description><![CDATA[3月份，东京写字楼空置率降至三年来的最低点，这表明日本首都的商业房地产市场正在承受全球主要城市的低迷影响。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-11/tokyo-office-vacancies-hit-three-year-low-bucking-global-slump</guid>
-      <pubDate>Thu, 11 Apr 2024 04:58:57 GMT</pubDate>
-    </item>
-    <item>
       <title>欧洲央行将按兵不动，锁定六月首次降息</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-11/ecb-interest-rates-to-stay-on-hold-before-cut-in-june</link>
       <description><![CDATA[欧洲央行将在第五次会议上维持借贷成本不变，同时为 6 月份开始的降息做进一步准备。]]></description>
@@ -202,9 +202,9 @@
       <pubDate>Wed, 10 Apr 2024 23:07:16 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲央行将注意力从美联储转移开来，股票和债券保持稳定：市场总结</title>
+      <title>美国通胀震荡后，股票和债券转向欧洲央行：市场总结</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-10/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[股市和债券市场恢复平静，美国通胀数据超出预期，迫使投资者缩减对美联储降息的押注，注意力转向周四的欧洲政策决定。]]></description>
+      <description><![CDATA[由于美国通胀数据超出预期，迫使投资者缩减对美联储降息的押注，股市和美国国债市场恢复了相对平静。现在注意力转向周四的欧洲政策决定。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-10/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 10 Apr 2024 22:45:34 GMT</pubDate>
     </item>
