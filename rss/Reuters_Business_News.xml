@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 11 Apr 2024 04:20:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 04:40:24 GMT</lastBuildDate>
     <item>
       <title>全球利率恐慌导致亚洲股市下跌，日元跌至 34 年低点</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-11/</link>
-      <description><![CDATA[亚洲股市周四跟随华尔街走低，原因是美国通胀高企，迫使市场大幅削减对美联储今年可能出台多少宽松政策的押注，这一结果导致美元兑日元汇率飙升至 34 年来的新高。]]></description>
+      <description><![CDATA[亚洲股市周四跟随华尔街走低，原因是美国通胀高企，迫使市场大幅削减对美联储今年可能出台多少宽松政策的押注，导致美元兑日元汇率飙升至 34 年来的新高。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 02:15:31 GMT</pubDate>
     </item>
     <item>
       <title>中国消费者价格连续第二个月上涨，工厂通缩持续存在</title>
       <link>https://www.reuters.com/world/china/chinas-consumer-prices-rise-2nd-month-factory-deflation-persists-2024-04-11/</link>
-      <description><![CDATA[3月份中国消费者价格连续第二个月上涨，而生产者价格通缩持续存在，表明尽管有迹象表明陷入困境的经济正在恢复一些动力，但需求仍然疲软。]]></description>
+      <description><![CDATA[3月份中国消费者价格连续第二个月上涨，而生产者价格通缩持续存在，表明尽管有迹象表明陷入困境的经济正在恢复一些动力，但需求仍然疲弱。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-consumer-prices-rise-2nd-month-factory-deflation-persists-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 01:43:19 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>GE航空航天公司的斯莱特里将于六月辞职，但仍担任顾问</title>
       <link>https://www.reuters.com/business/aerospace-defense/ge-aerospaces-slattery-step-down-june-remain-adviser-2024-04-11/</link>
-      <description><![CDATA[GE航空航天公司首席执行官拉里·卡尔普周三表示，其首席商务官约翰·斯拉特里将于六月辞去这家喷气发动机制造商的职务，并将继续担任顾问。]]></description>
+      <description><![CDATA[GE航空航天公司首席执行官拉里·卡尔普(Larry Culp)周三表示，GE航空航天公司首席商务官约翰·斯拉特里(John Slattery)将于6月辞去这家喷气发动机制造商的职务，并将继续担任顾问。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/ge-aerospaces-slattery-step-down-june-remain-adviser-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 00:19:45 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Wed, 10 Apr 2024 21:49:19 GMT</pubDate>
     </item>
     <item>
-      <title>Politico 报道，美国司法部对新日铁与美国钢铁公司的交易展开调查</title>
+      <title>据 Politico 报道，美国司法部对新日铁与美国钢铁公司的交易展开调查</title>
       <link>https://www.reuters.com/markets/deals/us-justice-department-opens-in-depth-probe-into-nippon-steels-us-steel-deal-2024-04-10/</link>
       <description><![CDATA[据《Politico》周三援引两名直接知情人士的消息称，美国司法部已对新日铁以 141 亿美元收购美国钢铁公司展开深入的反垄断调查。]]></description>
       <guid>https://www.reuters.com/markets/deals/us-justice-department-opens-in-depth-probe-into-nippon-steels-us-steel-deal-2024-04-10/</guid>
