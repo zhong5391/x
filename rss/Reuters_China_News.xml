@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 11 Apr 2024 04:40:31 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 11 Apr 2024 05:18:34 GMT</lastBuildDate>
     <item>
       <title>全球利率恐慌导致亚洲股市下跌，日元跌至 34 年低点</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-11/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>中国消费者价格连续第二个月上涨，工厂通缩持续存在</title>
       <link>https://www.reuters.com/world/china/chinas-consumer-prices-rise-2nd-month-factory-deflation-persists-2024-04-11/</link>
-      <description><![CDATA[3月份中国消费者价格连续第二个月上涨，而生产者价格通缩持续存在，表明尽管有迹象表明陷入困境的经济正在恢复一些动力，但需求仍然疲弱。]]></description>
+      <description><![CDATA[3月份中国消费者价格连续第二个月上涨，而生产者价格通缩持续存在，表明尽管有迹象表明陷入困境的经济正在恢复一些动力，但需求仍然疲软。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-consumer-prices-rise-2nd-month-factory-deflation-persists-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 01:43:19 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>特鲁多总理表示，中国试图干预，但加拿大人决定了最近两次选举</title>
       <link>https://www.reuters.com/world/americas/china-tried-meddle-canadians-decided-last-two-elections-says-pm-trudeau-2024-04-10/</link>
-      <description><![CDATA[加拿大总理贾斯汀·特鲁多周三在一项官方调查中表示，中国试图干预加拿大最近两次选举，但结果并未受到影响，而且北京“不可能”偏爱任何一个政党而不是另一个政党。]]></description>
+      <description><![CDATA[加拿大总理贾斯汀·特鲁多周三在一项官方调查中表示，中国试图干预加拿大最近两次选举，但结果没有受到影响，而且北京“不可能”偏爱任何一个政党而不是另一个政党。]]></description>
       <guid>https://www.reuters.com/world/americas/china-tried-meddle-canadians-decided-last-two-elections-says-pm-trudeau-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 23:21:54 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Wed, 10 Apr 2024 17:05:39 GMT</pubDate>
     </item>
     <item>
-      <title>莫迪表示，印度和中国应紧急解决边境“长期局势”</title>
+      <title>莫迪表示，印度和中国应紧急解决边界“长期局势”</title>
       <link>https://www.reuters.com/world/india/india-china-should-urgently-address-prolonged-situation-borders-modi-says-2024-04-10/</link>
       <description><![CDATA[印度总理纳伦德拉·莫迪在周三发表的讲话中表示，印度和中国应紧急解决两国边境“长期局势”，这明显软化了这两个核武器邻国之间在双边问题上的语气。]]></description>
       <guid>https://www.reuters.com/world/india/india-china-should-urgently-address-prolonged-situation-borders-modi-says-2024-04-10/</guid>
@@ -127,7 +127,7 @@
     <item>
       <title>中国电动汽车出口热潮推动新载车船舶需求激增</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-ev-export-boom-fuels-surge-demand-new-car-carrying-ships-2024-04-10/</link>
-      <description><![CDATA[数据显示，中国汽车制造商和托运商正在订购创纪录数量的汽车运载船，以支持电动汽车出口的繁荣，这将使中国有望在 2028 年之前积累世界第四大船队。]]></description>
+      <description><![CDATA[数据显示，中国汽车制造商和托运人正在订购创纪录数量的汽车运载船，以支持电动汽车出口的繁荣，这将使中国有望在 2028 年之前积累世界第四大船队。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinas-ev-export-boom-fuels-surge-demand-new-car-carrying-ships-2024-04-10/</guid>
       <pubDate>Wed, 10 Apr 2024 02:30:11 GMT</pubDate>
     </item>
