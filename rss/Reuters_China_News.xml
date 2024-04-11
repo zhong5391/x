@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 11 Apr 2024 23:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 23:52:22 GMT</lastBuildDate>
+    <item>
+      <title>早盘竞价：外汇担忧加剧，韩国设定利率</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-11/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 21:50:46 GMT</pubDate>
+    </item>
     <item>
       <title>俄亥俄州参议员希望拜登永久禁止中国电动汽车进入美国</title>
       <link>https://www.reuters.com/business/autos-transportation/ohio-senator-wants-biden-permanently-ban-chinese-evs-us-2024-04-11/</link>
-      <description><![CDATA[参议院银行委员会主席周四敦促总统乔·拜登阻​​止中国制造的汽车进入美国汽车市场。]]></description>
+      <description><![CDATA[参议院银行委员会主席周四敦促总统乔·拜登阻​​止中国制造的汽车进入美国汽车市场，这是美国议员迄今为止对中国汽车制造商采取行动的最强烈呼吁。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ohio-senator-wants-biden-permanently-ban-chinese-evs-us-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 20:27:47 GMT</pubDate>
     </item>
@@ -36,14 +43,14 @@
     <item>
       <title>中国表示愿与朝鲜密切合作，推动两国关系迈上更高水平</title>
       <link>https://www.reuters.com/world/asia-pacific/china-says-it-is-ready-work-closely-with-north-korea-help-relations-reach-higher-2024-04-11/</link>
-      <description><![CDATA[中国外交部周四援引中国最高立法委员赵乐际的话说，中国愿意与朝鲜立法机构密切合作，帮助朝鲜关系达到“更高水平”。]]></description>
+      <description><![CDATA[中国外交部周四援引全国人大常委会委员长赵乐际的话说，中国愿与朝鲜立法机关密切合作，推动两国关系达到“更高水平”。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-says-it-is-ready-work-closely-with-north-korea-help-relations-reach-higher-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 14:28:31 GMT</pubDate>
     </item>
     <item>
       <title>大众汽车将投资27亿美元在中国生产基地</title>
       <link>https://www.reuters.com/business/autos-transportation/volkswagen-invest-27-billion-chinese-production-site-2024-04-11/</link>
-      <description><![CDATA[大众汽车周四宣布，计划在中国投资 25 亿欧元（26.8 亿美元），扩大其位于安徽省合肥市的生产和创新中心。]]></description>
+      <description><![CDATA[大众汽车周四宣布，计划在中国投资 25 亿欧元（26.8 亿美元），扩建其位于安徽省合肥市的生产和创新中心。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/volkswagen-invest-27-billion-chinese-production-site-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 11:35:03 GMT</pubDate>
     </item>
@@ -55,9 +62,9 @@
       <pubDate>Thu, 11 Apr 2024 09:37:16 GMT</pubDate>
     </item>
     <item>
-      <title>拜登将在菲律宾-日本峰会上对北京在南海的举动发出警告</title>
+      <title>拜登在菲律宾-日本峰会上对北京在南海的举动发出警告</title>
       <link>https://www.reuters.com/world/biden-warn-beijings-south-china-sea-moves-philippines-japan-summit-2024-04-11/</link>
-      <description><![CDATA[随着美国、日本和菲律宾领导人齐聚白宫，反击北京在有争议的南海问题上对马尼拉加大施压，周四，中国与其邻国之间长期存在的紧张关系将成为人们关注的焦点。]]></description>
+      <description><![CDATA[周四，中国与其邻国之间长期存在的紧张关系成为焦点，美国、日本和菲律宾领导人齐聚白宫，反击北京在有争议的南海问题上对马尼拉加大施压。]]></description>
       <guid>https://www.reuters.com/world/biden-warn-beijings-south-china-sea-moves-philippines-japan-summit-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 09:09:19 GMT</pubDate>
     </item>
@@ -116,13 +123,6 @@
       <description><![CDATA[3月份中国消费者通胀降温幅度超出预期，而生产者价格通缩持续存在，在需求依然疲软的情况下，政策制定者面临着推出更多刺激措施的压力。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-consumer-prices-rise-2nd-month-factory-deflation-persists-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 01:43:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>南海：中菲紧张局势为何升温？</title>
-      <link>https://www.reuters.com/world/asia-pacific/south-china-sea-why-are-china-philippines-tensions-heating-up-2024-04-11/</link>
-      <description><![CDATA[中国和美国的条约盟友菲律宾之间不断升级的外交争端和最近的海上冲突，使具有高度战略意义的南海成为华盛顿和北京之间的潜在爆发点。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/south-china-sea-why-are-china-philippines-tensions-heating-up-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 00:03:32 GMT</pubDate>
     </item>
     <item>
       <title>什么产能过剩？中国称其产业更具竞争力</title>

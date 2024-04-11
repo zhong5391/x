@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 11 Apr 2024 23:39:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 23:52:15 GMT</lastBuildDate>
+    <item>
+      <title>Rho Motion 表示 3 月份全球电动汽车销量增长 12%，欧洲下降 9%</title>
+      <link>https://www.reuters.com/business/autos-transportation/global-ev-sales-up-12-march-down-9-europe-rho-motion-says-2024-04-11/</link>
+      <description><![CDATA[市场研究公司 Rho Motion 表示，3 月份全电动和插电式混合动力汽车 (PHEV) 的全球销量较 2023 年同月增长 12%，其中中国和美国市场的增长被欧洲 9% 的下降部分抵消在周五。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/global-ev-sales-up-12-march-down-9-europe-rho-motion-says-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 23:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>派拉蒙股东对 Skydance Media 可能合并的呼声越来越高</title>
+      <link>https://www.reuters.com/markets/deals/paramount-shareholders-grow-increasingly-vocal-about-possible-skydance-media-2024-04-11/</link>
+      <description><![CDATA[一些派拉蒙全球投资者正在谈论与 Skydance Media 的可能合并，呼吁这家美国媒体集团考虑其他选择，并在签署这笔交易时公平对待股东。]]></description>
+      <guid>https://www.reuters.com/markets/deals/paramount-shareholders-grow-increasingly-vocal-about-possible-skydance-media-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 23:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：外汇担忧加剧，韩国设定利率</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-11/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 21:50:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：消息人士称西南航空预计 2024 年波音飞机交付量持续萎缩</title>
+      <link>https://www.reuters.com/business/aerospace-defense/southwests-expected-2024-boeing-jet-deliveries-keep-shrinking-sources-say-2024-04-11/</link>
+      <description><![CDATA[三名知情人士表示，西南航空预计波音公司今年的飞机交付量仅为该公司 46 年 3 月预估的一半左右，这给这家美国廉价航空公司的增长计划带来了进一步压力。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/southwests-expected-2024-boeing-jet-deliveries-keep-shrinking-sources-say-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 21:47:10 GMT</pubDate>
+    </item>
     <item>
       <title>派拉蒙计划在 Skydance 交易谈判中将董事会缩减至七名董事</title>
       <link>https://www.reuters.com/business/media-telecom/paramount-plans-shrink-board-seven-directors-amid-skydance-deal-talks-2024-04-11/</link>
-      <description><![CDATA[周四，派拉蒙全球公司披露，计划将董事会董事人数从目前的 11 名减少至 7 名，因为有报道称，莎莉·雷石东 (Shari Redstone) 控制的娱乐巨头正在与 Skydance Media 讨论合并。]]></description>
+      <description><![CDATA[周四，派拉蒙全球公司在其代理文件中披露，有报道称，派拉蒙全球公司的四名董事会成员将辞职，因为有报道称，莎莉·雷石东控制的这家娱乐巨头正在讨论与 Skydance Media 合并。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/paramount-plans-shrink-board-seven-directors-amid-skydance-deal-talks-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 21:12:51 GMT</pubDate>
     </item>
@@ -22,7 +50,7 @@
     <item>
       <title>俄亥俄州参议员希望拜登永久禁止中国电动汽车进入美国</title>
       <link>https://www.reuters.com/business/autos-transportation/ohio-senator-wants-biden-permanently-ban-chinese-evs-us-2024-04-11/</link>
-      <description><![CDATA[参议院银行委员会主席周四敦促总统乔·拜登阻​​止中国制造的汽车进入美国汽车市场。]]></description>
+      <description><![CDATA[参议院银行委员会主席周四敦促总统乔·拜登阻​​止中国制造的汽车进入美国汽车市场，这是美国议员迄今为止对中国汽车制造商采取行动的最强烈呼吁。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ohio-senator-wants-biden-permanently-ban-chinese-evs-us-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 20:27:47 GMT</pubDate>
     </item>
@@ -34,11 +62,11 @@
       <pubDate>Thu, 11 Apr 2024 20:12:57 GMT</pubDate>
     </item>
     <item>
-      <title>通胀加剧可能导致美联储在大选季最激烈的时候降息</title>
-      <link>https://www.reuters.com/world/us/hot-inflation-may-put-fed-rate-cut-thick-election-season-2024-04-11/</link>
-      <description><![CDATA[美国炙手可热的通胀数据使得美联储关于首次降息的争论可能与总统选举日程发生冲突，尽管众多关注美联储的顶级经济学家也预测，美联储要等到总统大选之后才会采取行动。美国人去投票。]]></description>
-      <guid>https://www.reuters.com/world/us/hot-inflation-may-put-fed-rate-cut-thick-election-season-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 19:36:04 GMT</pubDate>
+      <title>美国网络机构称俄罗斯黑客利用微软访问权限窃取政府电子邮件</title>
+      <link>https://www.reuters.com/technology/cybersecurity/us-cyber-agency-says-russian-hackers-use-microsoft-access-steal-government-2024-04-11/</link>
+      <description><![CDATA[美国网络安全和基础设施安全局周四发布的紧急指令显示，俄罗斯政府支持的黑客利用其对微软电子邮件系统的访问权限窃取了官员与这家科技巨头之间的通信。]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/us-cyber-agency-says-russian-hackers-use-microsoft-access-steal-government-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 19:16:04 GMT</pubDate>
     </item>
     <item>
       <title>据英国《金融时报》报道，尽管与环球音乐发生争执，泰勒·斯威夫特的音乐仍重返 TikTok</title>
@@ -57,16 +85,9 @@
     <item>
       <title>Bankman-Fried 对 FTX 欺诈定罪 25 年徒刑提出上诉</title>
       <link>https://www.reuters.com/legal/bankman-fried-appeals-ftx-fraud-conviction-25-year-sentence-2024-04-11/</link>
-      <description><![CDATA[Sam Bankman-Fried 面临着在监狱中度过大部分成年生活的前景，周四，他对自己创立的现已破产的 FTX 加密货币交易所的客户盗窃 80 亿美元的定罪和 25 年监禁提出上诉。]]></description>
+      <description><![CDATA[萨姆·班克曼-弗里德 (Sam Bankman-Fried) 面临着在监狱中度过大部分成年生活的前景，周四，他对自己创立的现已破产的 FTX 加密货币交易所的客户盗窃 80 亿美元的定罪和 25 年监禁提出上诉。]]></description>
       <guid>https://www.reuters.com/legal/bankman-fried-appeals-ftx-fraud-conviction-25-year-sentence-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 18:38:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球首席执行官改组后，波音专注于在拉丁美洲“建立信任”</title>
-      <link>https://www.reuters.com/business/aerospace-defense/boeing-focused-trust-building-latin-america-after-global-ceo-shake-up-2024-04-11/</link>
-      <description><![CDATA[波音公司拉丁美洲总裁兰登·卢米斯表示，在一系列安全事件动摇了对该公司的信任并导致首席执行官戴夫·卡尔霍恩宣布他将在年底前辞职后，这家陷入困境的飞机制造商正在专注于重建信任。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/boeing-focused-trust-building-latin-america-after-global-ceo-shake-up-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 18:27:28 GMT</pubDate>
     </item>
     <item>
       <title>据《华尔街日报》报道，摩根士丹利的财富部门正接受多个监管机构的调查</title>
@@ -78,30 +99,9 @@
     <item>
       <title>独家：消息人士称，阿联酋阿布扎比国家石油公司最近将英国石油公司视为收购目标</title>
       <link>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</link>
-      <description><![CDATA[知情人士告诉路透社，阿联酋国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
+      <description><![CDATA[知情人士告诉路透社，阿拉伯联合酋长国国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
       <guid>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 17:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>福特降低 F-150 Lightning XLT、Flash 和 Lariat 型号的价格</title>
-      <link>https://www.reuters.com/business/autos-transportation/ford-cuts-prices-f-150-lightning-xlt-flash-lariat-variants-2024-04-11/</link>
-      <description><![CDATA[底特律汽车制造商福特汽车公司周四表示，为了应对竞争激烈的电动汽车市场，福特公司将部分 F-150 Lightning 电动皮卡车的价格下调了 5,500 美元。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/ford-cuts-prices-f-150-lightning-xlt-flash-lariat-variants-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 17:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：美国航空公司、工会敦促拜登政府不要批准更多中国航班</title>
-      <link>https://www.reuters.com/business/aerospace-defense/us-airlines-unions-urge-biden-not-approve-more-china-flights-2024-04-11/</link>
-      <description><![CDATA[美国主要航空公司和航空工会周四敦促拜登政府暂停批准中美之间增加航班，理由是“中国政府持续实施反竞争政策”。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/us-airlines-unions-urge-biden-not-approve-more-china-flights-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 16:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>分析师表示，瑞银可能需要 100 亿至 150 亿美元的额外资本来满足瑞士新规定</title>
-      <link>https://www.reuters.com/business/finance/ubs-could-need-10-bln-15-bln-extra-capital-meet-new-swiss-rules-analyst-says-2024-04-11/</link>
-      <description><![CDATA[Autonomous Research 周四估计，在瑞士政府本周制定了对扩大后的银行实施更严格资本要求的计划后，瑞银可能需要保留 100 亿至 150 亿美元的超额资本。]]></description>
-      <guid>https://www.reuters.com/business/finance/ubs-could-need-10-bln-15-bln-extra-capital-meet-new-swiss-rules-analyst-says-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 16:51:06 GMT</pubDate>
     </item>
     <item>
       <title>福特将向北美经销商发送 144,000 辆卡车</title>
@@ -109,6 +109,13 @@
       <description><![CDATA[福特周四表示，将开始向北美经销商运送 144,000 辆重新设计的 F-150 和 Ranger 皮卡车，这些卡车是福特制造的，但为了避免质量问题而推迟至今。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ford-sends-144000-trucks-toward-north-american-dealers-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 16:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国称福特在德克萨斯州致命车祸中使用了驾驶员辅助</title>
+      <link>https://www.reuters.com/business/autos-transportation/us-agency-probes-fatal-ford-crash-philadelphia-2024-04-11/</link>
+      <description><![CDATA[美国安全调查人员周四表示，2 月 24 日，在得克萨斯州圣安东尼奥市 10 号州际公路上，一辆福特野马 Mach-E 车在使用先进驾驶员辅助系统的情况下撞上一辆静止的本田 CR-V 车尾。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/us-agency-probes-fatal-ford-crash-philadelphia-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 14:43:49 GMT</pubDate>
     </item>
     <item>
       <title>独家：空客首席执行官表示“不太可能”将收购 Spirit Aero 的一些工厂</title>
@@ -120,19 +127,12 @@
     <item>
       <title>温和的美国生产者价格数据缓解了通胀担忧</title>
       <link>https://www.reuters.com/markets/us/us-weekly-jobless-claims-fall-more-than-expected-continuing-claims-rise-2024-04-11/</link>
-      <description><![CDATA[由于商品价格下跌削弱了服务成本的上涨，美国 3 月份生产者价格温和上涨，缓解了人们对通胀卷土重来的担忧。]]></description>
+      <description><![CDATA[由于商品价格下跌削弱了服务成本的上涨，美国生产者价格在 3 月份温和上涨，缓解了人们对通胀卷土重来的担忧。]]></description>
       <guid>https://www.reuters.com/markets/us/us-weekly-jobless-claims-fall-more-than-expected-continuing-claims-rise-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 13:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>随着通胀担忧加剧，美联储官员并不急于降息</title>
-      <link>https://www.reuters.com/markets/us/feds-williams-said-outlook-uncertain-data-will-drive-rate-decisions-2024-04-11/</link>
-      <description><![CDATA[表示不急于降息的美联储官员人数继续增加，美国通胀仍然令人不安，国内担忧日益加剧，也给国外宽松政策的预期蒙上阴影。]]></description>
-      <guid>https://www.reuters.com/markets/us/feds-williams-said-outlook-uncertain-data-will-drive-rate-decisions-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 12:49:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>标准普尔 500 指数和纳斯达克指数因通胀数据疲弱而大幅收高，关注盈利</title>
+      <title>标准普尔 500 指数和纳斯达克指数因疲软通胀数据大幅收高，关注盈利</title>
       <link>https://www.reuters.com/markets/us/futures-slip-rate-cut-hopes-ebb-2024-04-11/</link>
       <description><![CDATA[美国股市周四收高，其中科技相关动能股领涨，因为新的经济数据重新点燃了通胀仍处于降温趋势的希望。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-slip-rate-cut-hopes-ebb-2024-04-11/</guid>
