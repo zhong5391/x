@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 11 Apr 2024 12:33:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 12:55:00 GMT</lastBuildDate>
     <item>
       <title>CarMax第四季度利润下降近27%</title>
       <link>https://www.reuters.com/business/autos-transportation/carmaxs-fourth-quarter-profit-falls-nearly-27-2024-04-11/</link>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 11 Apr 2024 11:02:25 GMT</pubDate>
     </item>
     <item>
-      <title>首席执行官表示，亚马逊看到了降低配送网络成本的机会</title>
+      <title>首席执行官表示，亚马逊看到了降低履行网络成本的机会</title>
       <link>https://www.reuters.com/business/retail-consumer/amazon-sees-opportunity-lower-costs-fulfillment-network-ceo-says-2024-04-11/</link>
       <description><![CDATA[亚马逊首席执行官安迪·贾西 (Andy Jassy) 表示，在近几个月裁减多个部门的员工后，该电子商务公司看到了降低其配送网络成本的机会。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/amazon-sees-opportunity-lower-costs-fulfillment-network-ceo-says-2024-04-11/</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>随着降息希望消退，期货下跌</title>
       <link>https://www.reuters.com/markets/us/futures-slip-rate-cut-hopes-ebb-2024-04-11/</link>
-      <description><![CDATA[美国股指期货周四下跌，因美国国债收益率在一天后仍处于高位，此前通胀数据引发了华尔街的严重抛售，削弱了美联储六月降息的希望。]]></description>
+      <description><![CDATA[美国股指期货周四下跌，因美国国债收益率在一天后仍处于高位，此前一天，通胀数据引发了华尔街的严重抛售，美联储六月降息的希望减弱。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-slip-rate-cut-hopes-ebb-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 10:21:31 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>与越南房地产公司相关的顶级资产被指控数十亿美元的欺诈</title>
       <link>https://www.reuters.com/world/asia-pacific/top-assets-linked-vietnam-property-firm-accused-multibillion-dollar-fraud-2024-04-11/</link>
-      <description><![CDATA[越南有史以来最大的金融诈骗案的主谋、万盛发控股集团董事长张美兰在经过一个月的审判后于周四被判处死刑。]]></description>
+      <description><![CDATA[越南有史以来最大的金融诈骗案的策划者、万盛发控股集团董事长张美兰，经过一个月的审判后于周四被判处死刑。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/top-assets-linked-vietnam-property-firm-accused-multibillion-dollar-fraud-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 10:10:43 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Thu, 11 Apr 2024 10:07:10 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：市场因美联储消除疑虑而动摇，欧洲央行接下来上涨</title>
+      <title>早盘竞价：市场因美联储消除疑虑而动摇，欧洲央行下一步上涨</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-11/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-11/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>外国投资者逢低抢购日本股票</title>
       <link>https://www.reuters.com/markets/asia/foreign-investors-snap-up-japanese-stocks-bargains-2024-04-11/</link>
-      <description><![CDATA[截至 4 月 5 日当周，外国投资者纷纷抢购日本股市，他们在 3 月底大幅下跌、国内机构获利了结的情况下寻找价值机会。]]></description>
+      <description><![CDATA[截至 4 月 5 日当周，外国投资者抢购日本股市，因国内机构获利了结，继 3 月底大幅下跌后寻求价值机会。]]></description>
       <guid>https://www.reuters.com/markets/asia/foreign-investors-snap-up-japanese-stocks-bargains-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 08:29:33 GMT</pubDate>
     </item>
