@@ -1,23 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 12:10:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 13:21:56 GMT</lastBuildDate>
     <item>
-      <title>大型银行盈利前期货稳定</title>
-      <link>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</link>
-      <description><![CDATA[周五美国股指期货窄幅波动，投资者等待美国大型银行的盈利报告，以衡量美国企业在当前高利率环境下的表现。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 09:04:29 GMT</pubDate>
+      <title>苹果未能驳回英国有关应用程序商店费用的诉讼</title>
+      <link>https://www.reuters.com/technology/apple-loses-bid-throw-out-uk-lawsuit-over-app-store-fees-2024-04-12/</link>
+      <description><![CDATA[周五，苹果公司在伦敦代表 1,500 多家应用程序开发商就其 App Store 收费问题提起了价值近 10 亿美元的大规模诉讼，但最终败诉。]]></description>
+      <guid>https://www.reuters.com/technology/apple-loses-bid-throw-out-uk-lawsuit-over-app-store-fees-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 11:16:47 GMT</pubDate>
     </item>
     <item>
-      <title>中国3月铁矿石进口量小幅增长，​​钢材出口量创8年新高</title>
-      <link>https://www.reuters.com/markets/commodities/china-march-iron-ore-imports-edge-up-steel-exports-near-8-year-high-2024-04-12/</link>
-      <description><![CDATA[周五海关数据显示，中国3月份铁矿石进口量同比增长约0.5%，因预计春节假期后需求将回升，因为钢铁制造商通常会提高产量。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/china-march-iron-ore-imports-edge-up-steel-exports-near-8-year-high-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 08:41:12 GMT</pubDate>
+      <title>阿根廷政府（和机器人）表示通货膨胀正在缓解。购物者不太确定</title>
+      <link>https://www.reuters.com/markets/rates-bonds/argentinas-government-bot-say-inflation-is-easing-shoppers-arent-so-sure-2024-04-12/</link>
+      <description><![CDATA[阿根廷政府乐观地认为，其降温措施正在发挥作用，该国是世界上通货膨胀率最高的国家之一。然而，购物者尚未完全相信。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/argentinas-government-bot-say-inflation-is-easing-shoppers-arent-so-sure-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 11:11:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国加强股票市场交易、上市监管</title>
+      <link>https://www.reuters.com/markets/asia/china-strengthens-stock-market-trading-listing-regulations-2024-04-12/</link>
+      <description><![CDATA[中国证券监管机构周五发布了加强公司上市、退市和量化交易监管的规则草案，以改善股票市场，保护投资者利益。]]></description>
+      <guid>https://www.reuters.com/markets/asia/china-strengthens-stock-market-trading-listing-regulations-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 11:04:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于利息收入下降，富国银行利润缩水逾 7%</title>
+      <link>https://www.reuters.com/markets/us/wells-fargo-profit-shrinks-lower-interest-income-2024-04-12/</link>
+      <description><![CDATA[富国银行第一季度从客户利息支付中获得的收入减少，其利润下降了 7% 以上，导致其股价在盘前交易中下跌 3%。]]></description>
+      <guid>https://www.reuters.com/markets/us/wells-fargo-profit-shrinks-lower-interest-income-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:53:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通利润因利息收入强劲而增长</title>
+      <link>https://www.reuters.com/markets/us/jpmorgans-profit-rises-interest-income-strength-2024-04-12/</link>
+      <description><![CDATA[摩根大通周五表示，由于利息支付收入增加，第一季度利润有所增长。]]></description>
+      <guid>https://www.reuters.com/markets/us/jpmorgans-profit-rises-interest-income-strength-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:50:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国电动汽车品牌Hyper表示将于2026年在其汽车中使用全固态电池</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinese-ev-brand-hyper-says-will-use-all-solid-state-batteries-its-cars-2026-2024-04-12/</link>
+      <description><![CDATA[中国电动汽车制造商广汽艾安旗下Hyper品牌周五表示，已完成全固态电池的研发，将​​于2026年首次应用于Hyper汽车。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinese-ev-brand-hyper-says-will-use-all-solid-state-batteries-its-cars-2026-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:36:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：美联储柯林斯今年考虑两次降息</title>
+      <link>https://www.reuters.com/markets/rates-bonds/feds-collins-eyes-about-two-rate-cuts-this-year-2024-04-12/</link>
+      <description><![CDATA[波士顿联邦储备银行行长苏珊·柯林斯(Susan Collins)预计今年将进行几次降息，因为预计通胀仍需要一段时间才能恢复到目标水平。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/feds-collins-eyes-about-two-rate-cuts-this-year-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>NHTSA 对部分福特 SUV 因燃油泄漏而召回展开调查</title>
+      <link>https://www.reuters.com/business/autos-transportation/nhtsa-opens-investigation-into-certain-ford-suv-recall-over-fuel-leaks-2024-04-12/</link>
+      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 周五表示，由于担心燃油泄漏可能导致火灾隐患，正在对 42,652 辆福特 SUV 的召回展开调查。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/nhtsa-opens-investigation-into-certain-ford-suv-recall-over-fuel-leaks-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:16:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果特朗普获胜，他计划将华尔街从“繁重的监管”中解放出来</title>
+      <link>https://www.reuters.com/markets/us/if-trump-wins-he-plans-free-wall-street-burdensome-regulations-2024-04-12/</link>
+      <description><![CDATA[根据对公开文件的审查以及对前总统盟友的采访，特朗普第二任白宫将寻求大幅削弱美国金融监管机构的权力。]]></description>
+      <guid>https://www.reuters.com/markets/us/if-trump-wins-he-plans-free-wall-street-burdensome-regulations-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:13:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普媒体股票在五张图表中狂飙</title>
+      <link>https://www.reuters.com/markets/us/trump-media-stocks-wild-ride-five-charts-2024-04-12/</link>
+      <description><![CDATA[特朗普媒体与公司的混乱首秀科技集团吸引了市场参与者，其股价大幅上涨，估值飙升至 90 亿美元，随后暴跌。]]></description>
+      <guid>https://www.reuters.com/markets/us/trump-media-stocks-wild-ride-five-charts-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:11:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着电力存储的蓬勃发展，加州电池厂跻身世界最大电池厂之列</title>
+      <link>https://www.reuters.com/business/energy/california-battery-plant-is-among-worlds-largest-power-storage-booms-2024-04-12/</link>
+      <description><![CDATA[洛杉矶附近的一家大型电池厂将于今年晚些时候上线，成为世界上最大的电池厂之一，承诺在夏季用电高峰季节支撑加州的电网，并帮助该州实现雄心勃勃的气候目标。]]></description>
+      <guid>https://www.reuters.com/business/energy/california-battery-plant-is-among-worlds-largest-power-storage-booms-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:09:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：目光转向盈利、中国贸易失误、中东紧张局势</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-12/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>贝莱德管理资产达到创纪录的10.5万亿美元，利润大幅增长</title>
+      <link>https://www.reuters.com/markets/us/blackrocks-first-quarter-profit-rises-higher-fee-income-2024-04-12/</link>
+      <description><![CDATA[贝莱德公布第一季度管理资产规模 (AUM) 创历史新高，约为 10.5 万亿美元，并于周五公布利润增长 36%，原因是全球股市反弹推高了其投资咨询和管理费用。]]></description>
+      <guid>https://www.reuters.com/markets/us/blackrocks-first-quarter-profit-rises-higher-fee-income-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 10:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>政府称挪威财富基金不会投资私募股权</title>
+      <link>https://www.reuters.com/business/finance/norway-wealth-fund-should-not-invest-private-equity-government-says-2024-04-12/</link>
+      <description><![CDATA[挪威政府周五表示，目前不应允许全球规模最大、规模达 1.6 万亿美元的挪威主权财富基金将私募股权投资纳入其投资组合，这对该基金的管理造成了挫折。]]></description>
+      <guid>https://www.reuters.com/business/finance/norway-wealth-fund-should-not-invest-private-equity-government-says-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 09:49:07 GMT</pubDate>
     </item>
     <item>
       <title>中国最大贸易展上的关键词是“低价”</title>
@@ -27,53 +111,11 @@
       <pubDate>Fri, 12 Apr 2024 08:19:13 GMT</pubDate>
     </item>
     <item>
-      <title>中国3月进出口萎缩 大幅低于预期</title>
-      <link>https://www.reuters.com/markets/asia/chinas-march-exports-imports-shrink-miss-forecasts-by-big-margins-2024-04-12/</link>
-      <description><![CDATA[周五海关数据显示，中国3月份出口大幅萎缩，进口也意外萎缩，均大幅低于市场预期，突显政策制定者在试图支撑摇摇欲坠的经济复苏时面临的艰巨任务。]]></description>
-      <guid>https://www.reuters.com/markets/asia/chinas-march-exports-imports-shrink-miss-forecasts-by-big-margins-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 07:43:00 GMT</pubDate>
-    </item>
-    <item>
       <title>美国银行报告称，美国大盘股出现 16 个月来最大单周资金流出</title>
       <link>https://www.reuters.com/markets/us/global-markets-flows-bofa-urgent-2024-04-12/</link>
       <description><![CDATA[美国银行表示，截至周三的一周，美国大盘股遭遇了自 2022 年 12 月以来最大单周资金流出，交易员担心粘性通胀将推动进一步降息，而地缘政治紧张局势也加剧了谨慎情绪。]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-flows-bofa-urgent-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 07:21:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epic Games 在反垄断胜诉后提议对谷歌应用商店进行改革</title>
-      <link>https://www.reuters.com/legal/epic-games-proposes-google-app-store-reforms-after-antitrust-win-2024-04-12/</link>
-      <description><![CDATA[在陪审团发现这家美国科技巨头滥用其作为 Android 移动平台应用程序看门人的权力后，《堡垒之夜》视频游戏制造商 Epic Games 敦促加州联邦法官迫使谷歌开放其 Play 商店，以迎接更激烈的竞争。]]></description>
-      <guid>https://www.reuters.com/legal/epic-games-proposes-google-app-store-reforms-after-antitrust-win-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 07:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国银行将维持政策利率不变，排出部分流动性</title>
-      <link>https://www.reuters.com/markets/asia/china-cbank-set-leave-policy-rate-unchanged-drain-some-liquidity-2024-04-12/</link>
-      <description><![CDATA[路透调查显示，中国央行周一在展期到期中期贷款时将维持关键政策利率不变，而绝大多数受访者也预计部分流动性将通过债券工具流失。]]></description>
-      <guid>https://www.reuters.com/markets/asia/china-cbank-set-leave-policy-rate-unchanged-drain-some-liquidity-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 06:19:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚检察官撤销亿万富翁福雷斯特对梅塔的指控</title>
-      <link>https://www.reuters.com/technology/australian-prosecutors-drop-billionaire-forrests-case-against-meta-2024-04-12/</link>
-      <description><![CDATA[澳大利亚检察官已终止对矿业巨头安德鲁·福雷斯特 (Andrew Forrest) 对 Meta 的刑事起诉，他称 Facebook 上有数千个以他的头像为特征的诈骗加密货币广告。]]></description>
-      <guid>https://www.reuters.com/technology/australian-prosecutors-drop-billionaire-forrests-case-against-meta-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 06:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于通胀担忧，全球投资者撤出股票基金</title>
-      <link>https://www.reuters.com/markets/global-markets-flows-graphic-2024-04-12/</link>
-      <description><![CDATA[截至 4 月 10 日当周，全球投资者连续第二周抛售股票基金，原因是通胀担忧持续存在以及美联储 6 月降息的预期减弱。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-flows-graphic-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 05:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本通胀小幅放缓，但成本推动压力拖累消费</title>
-      <link>https://www.reuters.com/markets/asia/japan-inflation-slow-slightly-cost-push-pressures-drag-consumption-2024-04-12/</link>
-      <description><![CDATA[路透调查显示，日本年度核心消费者价格增速预计将略有放缓，但持续的成本推动压力使通胀率在两年内保持在央行2%的目标或之上，并仍然拖累家庭消费。]]></description>
-      <guid>https://www.reuters.com/markets/asia/japan-inflation-slow-slightly-cost-push-pressures-drag-consumption-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 05:21:47 GMT</pubDate>
     </item>
     <item>
       <title>市场上：回购利率神秘的单日下跌</title>
@@ -83,67 +125,18 @@
       <pubDate>Fri, 12 Apr 2024 05:03:34 GMT</pubDate>
     </item>
     <item>
-      <title>日本家庭通胀预期上升，加息空间打开</title>
-      <link>https://www.reuters.com/markets/asia/about-83-japan-households-see-price-rises-1-year-now-survey-shows-2024-04-12/</link>
-      <description><![CDATA[日本央行周五的一项调查显示，截至 3 月初的三个月内，日本家庭的通胀预期有所上升，为今年再次加息留下了空间。]]></description>
-      <guid>https://www.reuters.com/markets/asia/about-83-japan-households-see-price-rises-1-year-now-survey-shows-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 04:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Uber 和 Lyft 推迟离开明尼阿波利斯的计划</title>
-      <link>https://www.reuters.com/business/autos-transportation/uber-lyft-delay-their-plans-leave-minneapolis-2024-04-12/</link>
-      <description><![CDATA[周四，网约车公司 Lyft 和 Uber 表示，将把在明尼阿波利斯的服务延长至 7 月 1 日，此前一天，明尼阿波利斯市官员投票决定将司机加薪的开始时间推迟两个月。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/uber-lyft-delay-their-plans-leave-minneapolis-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 03:34:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于交易员削减美联储宽松押注，欧洲股市上涨，美元走高</title>
+      <title>交易员削减美联储宽松押注，欧洲股市上涨，美元走强</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-12/</link>
-      <description><![CDATA[欧洲股市周五有望领先于华尔街，由于欧洲大陆主要货币兑美元汇率下跌，因押注美联储将维持高利率，出口商股票需求旺盛。]]></description>
+      <description><![CDATA[周五，欧洲股市有望领先于华尔街，由于押注美联储将维持高利率，欧洲大陆主要货币兑美元汇率下跌，出口商股票需求旺盛。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 02:59:21 GMT</pubDate>
     </item>
     <item>
-      <title>美国参议院委员会将就波音安全文化报告举行听证会</title>
-      <link>https://www.reuters.com/business/aerospace-defense/us-senate-committee-hold-hearing-boeing-safety-culture-report-2024-04-12/</link>
-      <description><![CDATA[美国参议院商务委员会周四表示，将于下周与专家小组成员举行听证会，该小组在 2 月份发布了一份报告，批评波音公司的安全文化并呼吁进行重大改进。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/us-senate-committee-hold-hearing-boeing-safety-culture-report-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 01:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>越南电动汽车制造商 VinFast 面临的挑战加剧了母公司 Vingroup 的风险</title>
-      <link>https://www.reuters.com/business/autos-transportation/vietnam-ev-maker-vinfasts-challenges-escalate-risk-parent-vingroup-2024-04-12/</link>
-      <description><![CDATA[随着越南最大的企业集团 Vingroup 制定雄心勃勃的全球扩张计划，加大电动汽车业务力度，该公司面临着亏损部门 VinFast Auto 带来的日益严重的财务风险。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/vietnam-ev-maker-vinfasts-challenges-escalate-risk-parent-vingroup-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 00:05:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：消息人士称西南航空预计 2024 年波音飞机交付量持续萎缩</title>
-      <link>https://www.reuters.com/business/aerospace-defense/southwests-expected-2024-boeing-jet-deliveries-keep-shrinking-sources-say-2024-04-11/</link>
-      <description><![CDATA[三名知情人士表示，西南航空预计波音公司今年的飞机交付量仅为该公司 46 年 3 月预估的一半左右，这给这家美国廉价航空公司的增长计划带来了进一步压力。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/southwests-expected-2024-boeing-jet-deliveries-keep-shrinking-sources-say-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 21:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国季度收益将体现科技相关公司的大幅增长</title>
-      <link>https://www.reuters.com/markets/us/us-quarterly-earnings-feature-big-growth-tech-related-companies-2024-04-11/</link>
-      <description><![CDATA[大型科技相关公司的盈利预计将在即将到来的美国报告期内再次引领标准普尔 500 指数的利润增长，这可能会在 4 月份开局疲弱后重新点燃股市的乐观情绪。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-quarterly-earnings-feature-big-growth-tech-related-companies-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 20:12:57 GMT</pubDate>
-    </item>
-    <item>
       <title>独家：消息人士称，阿联酋阿布扎比国家石油公司最近将英国石油公司视为收购目标</title>
       <link>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</link>
-      <description><![CDATA[知情人士告诉路透社，阿联酋国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
+      <description><![CDATA[知情人士告诉路透社，阿拉伯联合酋长国国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
       <guid>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 17:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国称福特在德克萨斯州致命车祸中使用了驾驶员辅助</title>
-      <link>https://www.reuters.com/business/autos-transportation/us-agency-probes-fatal-ford-crash-philadelphia-2024-04-11/</link>
-      <description><![CDATA[美国安全调查人员周四表示，2 月 24 日，在得克萨斯州圣安东尼奥市 10 号州际公路上，一辆福特野马 Mach-E 车在使用先进驾驶员辅助系统的情况下撞上一辆静止的本田 CR-V 车尾。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/us-agency-probes-fatal-ford-crash-philadelphia-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 14:43:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
