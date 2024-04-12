@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 11 Apr 2024 23:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 01:17:35 GMT</lastBuildDate>
+    <item>
+      <title>美元和美国国债收益率高涨导致日元崩溃</title>
+      <link>https://www.reuters.com/markets/currencies/yen-crumbles-under-towering-dollar-us-treasury-yields-2024-04-12/</link>
+      <description><![CDATA[日元周五艰难摆脱 34 年低点，并有望每周下跌，而美元与美国国债收益率一起徘徊在五个月高点附近，因为交易员大幅缩减了对美国今年一系列降息的押注。年。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/yen-crumbles-under-towering-dollar-us-treasury-yields-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 01:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>中东局势紧张导致油价回升</title>
+      <link>https://www.reuters.com/markets/commodities/oil-prices-head-back-up-middle-east-jitters-2024-04-12/</link>
+      <description><![CDATA[由于中东紧张局势加剧，周五早盘油价上涨，伊朗承诺对其驻叙利亚大使馆疑似遭到以色列空袭进行报复，这可能会导致产油地区的供应中断。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/oil-prices-head-back-up-middle-east-jitters-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 00:41:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>焦点：越南电动汽车制造商 VinFast 面临的挑战加剧了母公司 Vingroup 的风险</title>
+      <link>https://www.reuters.com/business/autos-transportation/vietnam-ev-maker-vinfasts-challenges-escalate-risk-parent-vingroup-2024-04-12/</link>
+      <description><![CDATA[随着越南最大的企业集团 Vingroup 制定雄心勃勃的全球扩张计划，加大电动汽车业务力度，该公司面临着亏损部门 VinFast Auto 带来的日益严重的财务风险。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/vietnam-ev-maker-vinfasts-challenges-escalate-risk-parent-vingroup-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 00:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛克希德公司赢得美国政府价值 41 亿美元的战斗指挥系统合同</title>
+      <link>https://www.reuters.com/business/aerospace-defense/lockheed-wins-41-bln-battle-command-system-contract-us-govt-2024-04-11/</link>
+      <description><![CDATA[洛克希德·马丁公司周四表示，它已从美国政府导弹防御局获得了一份价值高达 41 亿美元的合同，以继续开发其战斗指挥系统。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/lockheed-wins-41-bln-battle-command-system-contract-us-govt-2024-04-11/</guid>
+      <pubDate>Thu, 11 Apr 2024 23:24:58 GMT</pubDate>
+    </item>
     <item>
       <title>Rho Motion 表示 3 月份全球电动汽车销量增长 12%，欧洲下降 9%</title>
       <link>https://www.reuters.com/business/autos-transportation/global-ev-sales-up-12-march-down-9-europe-rho-motion-says-2024-04-11/</link>
@@ -29,23 +57,9 @@
     <item>
       <title>独家：消息人士称西南航空预计 2024 年波音飞机交付量持续萎缩</title>
       <link>https://www.reuters.com/business/aerospace-defense/southwests-expected-2024-boeing-jet-deliveries-keep-shrinking-sources-say-2024-04-11/</link>
-      <description><![CDATA[三名知情人士表示，西南航空预计波音公司今年的飞机交付量仅为该公司 46 年 3 月预估的一半左右，这给这家美国廉价航空公司的增长计划带来了进一步压力。]]></description>
+      <description><![CDATA[三名知情人士称，西南航空预计波音公司今年的飞机交付量仅为该公司 46 年 3 月预估的一半左右，这给这家美国廉价航空公司的增长计划带来了进一步压力。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/southwests-expected-2024-boeing-jet-deliveries-keep-shrinking-sources-say-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 21:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>派拉蒙计划在 Skydance 交易谈判中将董事会缩减至七名董事</title>
-      <link>https://www.reuters.com/business/media-telecom/paramount-plans-shrink-board-seven-directors-amid-skydance-deal-talks-2024-04-11/</link>
-      <description><![CDATA[周四，派拉蒙全球公司在其代理文件中披露，有报道称，派拉蒙全球公司的四名董事会成员将辞职，因为有报道称，莎莉·雷石东控制的这家娱乐巨头正在讨论与 Skydance Media 合并。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/paramount-plans-shrink-board-seven-directors-amid-skydance-deal-talks-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 21:12:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>ADM 部门扩大召回范围，纳入其他动物饲料产品</title>
-      <link>https://www.reuters.com/markets/us/adm-division-expands-recall-include-additional-animal-feed-products-2024-04-11/</link>
-      <description><![CDATA[阿彻-丹尼尔斯-米德兰公司周四表示，由于镁、钠、钙和/或磷含量过高，可能对动物造成伤害，该部门正在扩大召回范围，新增 17 批鸡肉、猪和兔子饲料产品。]]></description>
-      <guid>https://www.reuters.com/markets/us/adm-division-expands-recall-include-additional-animal-feed-products-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 20:32:15 GMT</pubDate>
     </item>
     <item>
       <title>俄亥俄州参议员希望拜登永久禁止中国电动汽车进入美国</title>
@@ -57,7 +71,7 @@
     <item>
       <title>美国季度收益将体现科技相关公司的大幅增长</title>
       <link>https://www.reuters.com/markets/us/us-quarterly-earnings-feature-big-growth-tech-related-companies-2024-04-11/</link>
-      <description><![CDATA[大型科技相关公司的盈利预计将在即将到来的美国报告期内再次引领标准普尔 500 指数的利润增长，这可能会在 4 月份开局疲弱后重新点燃股市的乐观情绪。]]></description>
+      <description><![CDATA[预计在即将到来的美国报告期内，大型科技相关公司的盈利将再次引领标准普尔 500 指数的利润增长，这可能会在 4 月份开局疲弱后重新点燃股市的乐观情绪。]]></description>
       <guid>https://www.reuters.com/markets/us/us-quarterly-earnings-feature-big-growth-tech-related-companies-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 20:12:57 GMT</pubDate>
     </item>
@@ -67,20 +81,6 @@
       <description><![CDATA[美国网络安全和基础设施安全局周四发布的紧急指令显示，俄罗斯政府支持的黑客利用其对微软电子邮件系统的访问权限窃取了官员与这家科技巨头之间的通信。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/us-cyber-agency-says-russian-hackers-use-microsoft-access-steal-government-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 19:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>据英国《金融时报》报道，尽管与环球音乐发生争执，泰勒·斯威夫特的音乐仍重返 TikTok</title>
-      <link>https://www.reuters.com/business/media-telecom/taylor-swift-music-back-tiktok-despite-fight-with-universal-music-ft-reports-2024-04-11/</link>
-      <description><![CDATA[据英国《金融时报》周四报道，尽管中国短视频应用程序和歌手唱片公司环球音乐存在争执，泰勒·斯威夫特的音乐又回到了 TikTok。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/taylor-swift-music-back-tiktok-despite-fight-with-universal-music-ft-reports-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 19:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲央行不能忽视美联储的降息路径</title>
-      <link>https://www.reuters.com/markets/europe/solo-minded-ecb-may-find-itself-singing-feds-hymn-sheet-after-all-2024-04-11/</link>
-      <description><![CDATA[欧洲央行可能会抗议它不“依赖美联储”，但无论它愿意与否，它很可能会发现自己在唱一首主要由美联储撰写的赞美诗。]]></description>
-      <guid>https://www.reuters.com/markets/europe/solo-minded-ecb-may-find-itself-singing-feds-hymn-sheet-after-all-2024-04-11/</guid>
-      <pubDate>Thu, 11 Apr 2024 18:48:53 GMT</pubDate>
     </item>
     <item>
       <title>Bankman-Fried 对 FTX 欺诈定罪 25 年徒刑提出上诉</title>
@@ -99,14 +99,14 @@
     <item>
       <title>独家：消息人士称，阿联酋阿布扎比国家石油公司最近将英国石油公司视为收购目标</title>
       <link>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</link>
-      <description><![CDATA[知情人士告诉路透社，阿拉伯联合酋长国国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
+      <description><![CDATA[知情人士告诉路透社，阿联酋国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
       <guid>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 17:58:10 GMT</pubDate>
     </item>
     <item>
       <title>福特将向北美经销商发送 144,000 辆卡车</title>
       <link>https://www.reuters.com/business/autos-transportation/ford-sends-144000-trucks-toward-north-american-dealers-2024-04-11/</link>
-      <description><![CDATA[福特周四表示，将开始向北美经销商运送 144,000 辆重新设计的 F-150 和 Ranger 皮卡车，这些卡车是福特制造的，但为了避免质量问题而推迟至今。]]></description>
+      <description><![CDATA[福特周四表示，将开始向北美经销商运送 144,000 辆重新设计的 F-150 和 Ranger 皮卡车，这些卡车是福特制造的，但为了避免质量问题而一直推迟。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ford-sends-144000-trucks-toward-north-american-dealers-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 16:03:49 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>独家：空客首席执行官表示“不太可能”将收购 Spirit Aero 的一些工厂</title>
       <link>https://www.reuters.com/business/aerospace-defense/airbus-ceo-says-not-unlikely-it-will-take-some-spirit-aero-plants-2024-04-11/</link>
-      <description><![CDATA[空中客车公司负责人告诉路透社，如果波音继续实施收购该行业主要供应商之一的计划，那么这家欧洲飞机制造商“不太可能”控制Spirit Aerosystems运营的两家美国和英国工厂。]]></description>
+      <description><![CDATA[空中客车公司负责人告诉路透社，如果波音继续执行收购该行业主要供应商之一的计划，那么这家欧洲飞机制造商“不太可能”控制Spirit Aerosystems运营的两家美国和英国工厂。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/airbus-ceo-says-not-unlikely-it-will-take-some-spirit-aero-plants-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 13:32:39 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Thu, 11 Apr 2024 13:02:02 GMT</pubDate>
     </item>
     <item>
-      <title>标准普尔 500 指数和纳斯达克指数因疲软通胀数据大幅收高，关注盈利</title>
+      <title>标准普尔 500 指数和纳斯达克指数因通胀数据疲弱而大幅收高，关注盈利</title>
       <link>https://www.reuters.com/markets/us/futures-slip-rate-cut-hopes-ebb-2024-04-11/</link>
       <description><![CDATA[美国股市周四收高，其中科技相关动能股领涨，因为新的经济数据重新点燃了通胀仍处于降温趋势的希望。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-slip-rate-cut-hopes-ebb-2024-04-11/</guid>
