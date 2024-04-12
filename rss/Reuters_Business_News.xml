@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 21:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 21:31:59 GMT</lastBuildDate>
+    <item>
+      <title>美联储戴利：美国绝对没有降息的紧迫性</title>
+      <link>https://www.reuters.com/markets/us/feds-daly-absolutely-no-urgency-cut-us-interest-rates-2024-04-12/</link>
+      <description><![CDATA[旧金山联邦储备银行行长玛丽戴利周五表示，为了确保通胀率达到美联储2%的目标，仍有“大量工作要做”，而且“绝对”没有降息的紧迫性。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-daly-absolutely-no-urgency-cut-us-interest-rates-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 20:37:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街未来一周 美国能源股飙升反映出强劲增长和通胀担忧</title>
+      <link>https://www.reuters.com/markets/us/wall-st-week-ahead-surging-us-energy-shares-reflect-robust-growth-inflation-2024-04-12/</link>
+      <description><![CDATA[美国能源股正在飙升，投资者受益于油价上涨和强于预期的经济，同时寻求保护其投资组合免受令人担忧的通胀卷土重来的影响。]]></description>
+      <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-surging-us-energy-shares-reflect-robust-growth-inflation-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 19:50:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：随着波音 737 产量下降，Spirit AeroSystems 限制加班和招聘</title>
+      <link>https://www.reuters.com/business/aerospace-defense/spirit-aerosystems-limits-overtime-hiring-boeing-737-output-drops-2024-04-12/</link>
+      <description><![CDATA[Spirit 周五告诉路透社，由于 737 MAX 喷气式飞机产量下降导致产量下降，波音的主要供应商 Spirit AeroSystems 正在限制加班和招聘。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/spirit-aerosystems-limits-overtime-hiring-boeing-737-output-drops-2024-04-12/</guid>
+      <pubDate>Fri, 12 Apr 2024 19:48:47 GMT</pubDate>
+    </item>
     <item>
       <title>对冲基金巴林顿敦促派拉蒙取消与 Skydance 的谈判</title>
       <link>https://www.reuters.com/markets/deals/hedge-fund-barington-urges-paramount-scrap-talks-with-skydance-2024-04-12/</link>
@@ -20,9 +41,9 @@
       <pubDate>Fri, 12 Apr 2024 18:50:47 GMT</pubDate>
     </item>
     <item>
-      <title>美国自1月1日起向汽车经销商提前发放超过5.8亿美元电动汽车退税</title>
+      <title>美国今年向汽车经销商提前发放超过5.8亿美元的电动汽车退税</title>
       <link>https://www.reuters.com/business/autos-transportation/us-issues-over-580-million-advance-ev-tax-rebates-auto-dealers-since-jan-1-2024-04-12/</link>
-      <description><![CDATA[美国财政部周五表示，自 1 月 1 日起，美国政府已向汽车经销商偿还了超过 5.8 亿美元的预售消费电动汽车税收抵免款项。]]></description>
+      <description><![CDATA[美国财政部周五表示，自 1 月 1 日起，美国政府已向汽车经销商预付超过 5.8 亿美元的销售点消费电动汽车 (EV) 税收抵免款项。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-issues-over-580-million-advance-ev-tax-rebates-auto-dealers-since-jan-1-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 18:43:53 GMT</pubDate>
     </item>
@@ -62,27 +83,6 @@
       <pubDate>Fri, 12 Apr 2024 17:01:07 GMT</pubDate>
     </item>
     <item>
-      <title>UAW 对沃尔沃墨西哥工厂的决定“非常失望”</title>
-      <link>https://www.reuters.com/business/autos-transportation/uaw-extremely-disappointed-with-volvos-mexico-plant-decision-2024-04-12/</link>
-      <description><![CDATA[美国汽车工人联合会（UAW）周五表示，对卡车制造商沃尔沃集团决定在墨西哥建立新的卡车工厂“极其失望”，该公司表示这将有助于补充其在美国的产量。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/uaw-extremely-disappointed-with-volvos-mexico-plant-decision-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 15:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>裕信银行投资者支持 Orcel 新任期并支持加薪</title>
-      <link>https://www.reuters.com/business/finance/unicredit-investors-back-new-term-orcel-support-pay-rise-2024-04-12/</link>
-      <description><![CDATA[联合信贷银行股东周五投票决定授予首席执行官安德里亚·奥塞尔（Andrea Orcel）另一个三年任期，并支持使他成为欧洲薪酬最高银行家之一的薪酬政策。]]></description>
-      <guid>https://www.reuters.com/business/finance/unicredit-investors-back-new-term-orcel-support-pay-rise-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 15:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国最高法院允许广泛的运输工人回避仲裁</title>
-      <link>https://www.reuters.com/legal/us-supreme-court-throws-out-ruling-arbitration-job-disputes-2024-04-12/</link>
-      <description><![CDATA[美国最高法院周五为更多卡车司机和其他运输工人在法庭而不是私人仲裁提起就业相关诉讼铺平了道路，裁定仲裁豁免适用于运输行业以外的工人。]]></description>
-      <guid>https://www.reuters.com/legal/us-supreme-court-throws-out-ruling-arbitration-job-disputes-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 14:30:37 GMT</pubDate>
-    </item>
-    <item>
       <title>美国消费者信心下滑；通胀预期上升</title>
       <link>https://www.reuters.com/world/us/us-import-prices-post-third-straight-monthly-gain-march-2024-04-12/</link>
       <description><![CDATA[美国 4 月份消费者信心下降，家庭预计未来 12 个月及以后通胀将上升，这可能为美联储将降息推迟到 9 月份提供更多弹药。]]></description>
@@ -106,7 +106,7 @@
     <item>
       <title>尽管利息收入未达到预期，摩根大通的利润仍超出预期</title>
       <link>https://www.reuters.com/markets/us/jpmorgans-profit-rises-interest-income-strength-2024-04-12/</link>
-      <description><![CDATA[摩根大通第一季度利润超出预期，但该行对利息支付收入的预期低于分析师预期后，股价下跌。]]></description>
+      <description><![CDATA[摩根大通第一季度利润超出预期，但周五利息收入预期低于分析师预期后，其股价下跌 6%。]]></description>
       <guid>https://www.reuters.com/markets/us/jpmorgans-profit-rises-interest-income-strength-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 10:50:59 GMT</pubDate>
     </item>
@@ -132,9 +132,9 @@
       <pubDate>Fri, 12 Apr 2024 10:02:51 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街因盈利好坏、通胀高企和地缘政治担忧而扩大亏损</title>
+      <title>华尔街收盘大幅走低，因盈利好坏参半、通胀高企、地缘政治担忧</title>
       <link>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</link>
-      <description><![CDATA[周五，美国主要银行公布的业绩好坏参半，影响市场的通胀数据、对美联储政策的预期不断变化以及地缘政治紧张局势迫在眉睫，这为本周画上了句号。]]></description>
+      <description><![CDATA[由于美国主要银行的业绩未能给人留下深刻印象，周五美国股市遭到抛售，这为影响市场的通胀数据、对美联储政策的预期不断变化以及地缘政治紧张局势迫在眉睫的一周画上了句号。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 09:04:29 GMT</pubDate>
     </item>
