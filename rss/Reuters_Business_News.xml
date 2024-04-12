@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 11:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 11:32:18 GMT</lastBuildDate>
     <item>
       <title>大型银行盈利前期货稳定</title>
       <link>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</link>
@@ -71,7 +71,7 @@
     <item>
       <title>日本通胀小幅放缓，但成本推动压力拖累消费</title>
       <link>https://www.reuters.com/markets/asia/japan-inflation-slow-slightly-cost-push-pressures-drag-consumption-2024-04-12/</link>
-      <description><![CDATA[路透调查显示，日本年度核心消费者价格增速预计将略有放缓，但持续的成本推动压力使通胀率在两年内保持在央行2%的目标或之上，并仍然拖累家庭消费。]]></description>
+      <description><![CDATA[路透调查显示，日本年度核心消费者价格增长预计将略有放缓，但持续的成本推动压力使通胀率在两年内保持在央行2%的目标或之上，并仍然拖累家庭消费。]]></description>
       <guid>https://www.reuters.com/markets/asia/japan-inflation-slow-slightly-cost-push-pressures-drag-consumption-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 05:21:47 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>由于交易员削减美联储宽松押注，欧洲股市上涨，美元走高</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-12/</link>
-      <description><![CDATA[欧洲股市周五有望领先于华尔街，由于欧洲大陆主要货币兑美元汇率下跌，因押注美联储将维持高利率，出口商股票需求旺盛。]]></description>
+      <description><![CDATA[周五，欧洲股市有望领先于华尔街，出口商股票需求旺盛，因押注美联储将维持高利率，欧洲大陆主要货币兑美元汇率下跌。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 02:59:21 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>独家：消息人士称，阿联酋阿布扎比国家石油公司最近将英国石油公司视为收购目标</title>
       <link>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</link>
-      <description><![CDATA[知情人士告诉路透社，阿联酋国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
+      <description><![CDATA[知情人士告诉路透社，阿拉伯联合酋长国国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
       <guid>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 17:58:10 GMT</pubDate>
     </item>
