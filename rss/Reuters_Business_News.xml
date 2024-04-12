@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 13:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 13:38:47 GMT</lastBuildDate>
     <item>
       <title>苹果未能驳回英国有关应用程序商店费用的诉讼</title>
       <link>https://www.reuters.com/technology/apple-loses-bid-throw-out-uk-lawsuit-over-app-store-fees-2024-04-12/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>阿根廷政府（和机器人）表示通货膨胀正在缓解。购物者不太确定</title>
       <link>https://www.reuters.com/markets/rates-bonds/argentinas-government-bot-say-inflation-is-easing-shoppers-arent-so-sure-2024-04-12/</link>
-      <description><![CDATA[阿根廷政府乐观地认为，其降温措施正在发挥作用，该国是世界上通货膨胀率最高的国家之一。然而，购物者尚未完全相信。]]></description>
+      <description><![CDATA[阿根廷政府乐观地认为，其降低通货膨胀率世界最高国家之一的措施正在发挥作用。然而，购物者尚未完全相信。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/argentinas-government-bot-say-inflation-is-easing-shoppers-arent-so-sure-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 11:11:31 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Fri, 12 Apr 2024 10:53:19 GMT</pubDate>
     </item>
     <item>
-      <title>摩根大通利润因利息收入强劲而增长</title>
+      <title>利息收入强劲，摩根大通利润增长</title>
       <link>https://www.reuters.com/markets/us/jpmorgans-profit-rises-interest-income-strength-2024-04-12/</link>
       <description><![CDATA[摩根大通周五表示，由于利息支付收入增加，第一季度利润有所增长。]]></description>
       <guid>https://www.reuters.com/markets/us/jpmorgans-profit-rises-interest-income-strength-2024-04-12/</guid>
@@ -134,7 +134,7 @@
     <item>
       <title>独家：消息人士称，阿联酋阿布扎比国家石油公司最近将英国石油公司视为收购目标</title>
       <link>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</link>
-      <description><![CDATA[知情人士告诉路透社，阿拉伯联合酋长国国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
+      <description><![CDATA[知情人士告诉路透社，阿联酋国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
       <guid>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 17:58:10 GMT</pubDate>
     </item>

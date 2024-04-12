@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 12 Apr 2024 13:21:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 13:38:40 GMT</lastBuildDate>
+    <item>
+      <title>美联储柯林斯：CPI不是转折点，需要耐心</title>
+      <link>https://www.bloomberg.com/news/videos/2024-04-12/fed-s-collins-cpi-not-a-turning-point-patience-needed-video</link>
+      <description><![CDATA[波士顿联邦储备银行行长苏珊·柯林斯表示，3 月份通胀数据处于预期的高端，但这并没有改变她认为通胀将继续下降的观点。她在彭博电视台接受了迈克·麦基的采访。]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-04-12/fed-s-collins-cpi-not-a-turning-point-patience-needed-video</guid>
+      <pubDate>Fri, 12 Apr 2024 13:29:23 GMT</pubDate>
+    </item>
     <item>
       <title>Crypto 的 Berachain 表示融资轮增至 1 亿美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-12/crypto-s-berachain-says-funding-round-increases-to-100-million</link>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 12 Apr 2024 12:13:37 GMT</pubDate>
     </item>
     <item>
-      <title>随着公司和消费者继续借贷狂欢，花旗利润大幅增长</title>
+      <title>随着公司和消费者借贷狂欢，花旗利润大幅增长</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-12/citi-profit-beats-as-companies-consumers-go-on-borrowing-binge</link>
       <description><![CDATA[随着企业开拓融资市场以及消费者依赖信用卡，花旗集团的利润超过了分析师的预期——有迹象表明，长期加息将使大银行受益。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-12/citi-profit-beats-as-companies-consumers-go-on-borrowing-binge</guid>
@@ -111,7 +118,7 @@
       <pubDate>Fri, 12 Apr 2024 11:19:14 GMT</pubDate>
     </item>
     <item>
-      <title>推动“共同繁荣”的中国基金薪酬上限为415,000美元</title>
+      <title>中国基金在“共同繁荣”驱动中的薪酬上限为415,000美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-12/china-funds-weigh-415-000-pay-cap-in-common-prosperity-drive</link>
       <description><![CDATA[据知情人士透露，几家中国共同基金经理提议将员工工资上限限制在 300 万元人民币（41.5 万美元）左右，以响应习近平主席“共同富裕”的倡议。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-12/china-funds-weigh-415-000-pay-cap-in-common-prosperity-drive</guid>
@@ -146,20 +153,6 @@
       <pubDate>Fri, 12 Apr 2024 10:55:00 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟贷款部门批准改革以增加国防资金</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-12/eu-s-lending-arm-to-approve-change-to-boost-defense-funding</link>
-      <description><![CDATA[欧洲投资银行提出了一项计划，该计划将使国防项目的融资变得更加容易和快捷，以加强对欧洲安全和国防工业的支持。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-12/eu-s-lending-arm-to-approve-change-to-boost-defense-funding</guid>
-      <pubDate>Fri, 12 Apr 2024 10:40:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>高盛表示，欧洲银行享有“长期更好”的背景</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-12/europe-s-banks-enjoy-better-for-longer-backdrop-goldman-says</link>
-      <description><![CDATA[欧洲银行股将受益于高盛集团分析师所说的“长期表现更好”的背景。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-12/europe-s-banks-enjoy-better-for-longer-backdrop-goldman-says</guid>
-      <pubDate>Fri, 12 Apr 2024 10:35:37 GMT</pubDate>
-    </item>
-    <item>
       <title>英国即将在债券销售浪潮中选出新债务负责人</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-12/uk-nears-pick-for-new-debt-chief-ahead-of-bond-sales-wave</link>
       <description><![CDATA[英国政府即将任命罗伯特·史蒂曼的继任者为债务管理办公室首席执行官，而该机构正准备发行大量新债券。]]></description>
@@ -181,11 +174,18 @@
       <pubDate>Fri, 12 Apr 2024 08:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>1987 年式崩溃的风险引发了鲁弗创纪录的现金押注</title>
+      <title>1987 年式崩溃的风险引发了鲁弗创纪录的现金赌注</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-12/risk-of-1987-style-meltdown-prompts-ruffer-s-record-bet-on-cash</link>
       <description><![CDATA[随着美国流动性萎缩增加了市场剧烈逆转的可能性，总部位于英国的资产管理公司 Ruffer LLP 正在对现金进行有史以来最大的押注，这家资产管理公司资产规模达 220 亿英镑（合 276 亿美元）。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-12/risk-of-1987-style-meltdown-prompts-ruffer-s-record-bet-on-cash</guid>
       <pubDate>Fri, 12 Apr 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>富时 100 指数徘徊在历史最高点附近，英镑跌至五个月低点</title>
+      <link>https://www.bloomberg.com/news/live-blog/2024-04-12/what-s-moving-uk-markets-right-now-markets-today</link>
+      <description><![CDATA[2016 年 5 月 13 日星期五，英国伦敦 Brompton Bicycle Ltd. 工厂内，一名佩戴英国国旗徽章的员工正在焊接 Brompton 折叠自行车的张力管。 Brompton 于 1975 年由剑桥大学毕业生 Andrew Ritchie 发明。工程师。摄影师：西蒙·道森]]></description>
+      <guid>https://www.bloomberg.com/news/live-blog/2024-04-12/what-s-moving-uk-markets-right-now-markets-today</guid>
+      <pubDate>Fri, 12 Apr 2024 05:41:46 GMT</pubDate>
     </item>
     <item>
       <title>波兰的转变显示了匈牙利落后之际民粹主义的代价</title>
