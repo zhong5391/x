@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 03:51:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 04:22:41 GMT</lastBuildDate>
     <item>
       <title>市场权衡美联储降息时机，股市低迷，金价创新高</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-12/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>巴西法官因利益冲突暂停巴西国家石油公司主席职务</title>
       <link>https://www.reuters.com/sustainability/boards-policy-regulation/brazil-judge-suspends-petrobras-chair-over-conflict-interest-2024-04-12/</link>
-      <description><![CDATA[根据路透社周四看到的法院判决，一名巴西法官因巴西国家石油公司董事会主席彼得罗·桑帕约·门德斯 (Pietro Sampaio Mendes) 在能源部的角色存在利益冲突而暂停了其职务。]]></description>
+      <description><![CDATA[根据路透社周四看到的法院判决，一名巴西法官因巴西国家石油公司董事会主席彼得罗·桑帕约·门德斯 (Pietro Sampaio Mendes) 在能源部的角色存在利益冲突而暂停了他的职务。]]></description>
       <guid>https://www.reuters.com/sustainability/boards-policy-regulation/brazil-judge-suspends-petrobras-chair-over-conflict-interest-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 02:47:59 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Fri, 12 Apr 2024 01:37:01 GMT</pubDate>
     </item>
     <item>
-      <title>美元和美国国债收益率高企导致日元崩溃</title>
+      <title>美元和美国国债收益率高涨导致日元崩溃</title>
       <link>https://www.reuters.com/markets/currencies/yen-crumbles-under-towering-dollar-us-treasury-yields-2024-04-12/</link>
       <description><![CDATA[日元周五艰难摆脱 34 年低点，并有望每周下跌，而美元与美国国债收益率一起徘徊在五个月高点附近，因为交易员大幅缩减了对美国今年一系列降息的押注。年。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-crumbles-under-towering-dollar-us-treasury-yields-2024-04-12/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>日本再次警告日元过度疲软</title>
       <link>https://www.reuters.com/markets/asia/japans-finance-minister-says-authorities-are-looking-factors-behind-yen-moves-2024-04-12/</link>
-      <description><![CDATA[日本财务大臣铃木俊一表示，当局不仅在分析近期日元贬值，还在分析推动日元走势的因素，并重申东京已准备好应对任何过度的货币波动。]]></description>
+      <description><![CDATA[日本财务大臣铃木俊一表示，当局不仅在分析近期日元下跌，还在分析推动日元走势的因素，并重申东京已准备好应对任何过度的货币波动。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-finance-minister-says-authorities-are-looking-factors-behind-yen-moves-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 00:19:14 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>Bankman-Fried 对 FTX 欺诈定罪 25 年徒刑提出上诉</title>
       <link>https://www.reuters.com/legal/bankman-fried-appeals-ftx-fraud-conviction-25-year-sentence-2024-04-11/</link>
-      <description><![CDATA[Sam Bankman-Fried 面临着在监狱中度过大部分成年生活的前景，周四，他对自己创立的现已破产的 FTX 加密货币交易所的客户盗窃 80 亿美元的定罪和 25 年监禁提出上诉。]]></description>
+      <description><![CDATA[萨姆·班克曼-弗里德 (Sam Bankman-Fried) 面临着在监狱中度过大部分成年生活的前景，周四，他对自己创立的现已破产的 FTX 加密货币交易所的客户盗窃 80 亿美元的定罪和 25 年监禁提出上诉。]]></description>
       <guid>https://www.reuters.com/legal/bankman-fried-appeals-ftx-fraud-conviction-25-year-sentence-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 18:38:32 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>独家：消息人士称，阿联酋阿布扎比国家石油公司最近将英国石油公司视为收购目标</title>
       <link>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</link>
-      <description><![CDATA[知情人士告诉路透社，阿联酋国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
+      <description><![CDATA[知情人士告诉路透社，阿拉伯联合酋长国国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
       <guid>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 17:58:10 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>温和的美国生产者价格数据缓解了通胀担忧</title>
       <link>https://www.reuters.com/markets/us/us-weekly-jobless-claims-fall-more-than-expected-continuing-claims-rise-2024-04-11/</link>
-      <description><![CDATA[由于商品价格下跌削弱了服务成本的上涨，美国 3 月份生产者价格温和上涨，缓解了人们对通胀卷土重来的担忧。]]></description>
+      <description><![CDATA[由于商品价格下跌削弱了服务成本的上涨，美国生产者价格在 3 月份温和上涨，缓解了人们对通胀卷土重来的担忧。]]></description>
       <guid>https://www.reuters.com/markets/us/us-weekly-jobless-claims-fall-more-than-expected-continuing-claims-rise-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 13:02:02 GMT</pubDate>
     </item>
