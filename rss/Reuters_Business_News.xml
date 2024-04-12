@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 09:32:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 09:48:41 GMT</lastBuildDate>
     <item>
       <title>中国银行将维持政策利率不变，排出部分流动性</title>
       <link>https://www.reuters.com/markets/asia/china-cbank-set-leave-policy-rate-unchanged-drain-some-liquidity-2024-04-12/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>日本通胀小幅放缓，但成本推动压力拖累消费</title>
       <link>https://www.reuters.com/markets/asia/japan-inflation-slow-slightly-cost-push-pressures-drag-consumption-2024-04-12/</link>
-      <description><![CDATA[路透调查显示，日本年度核心消费者价格增长预计将略有放缓，但持续的成本推动压力使通胀率在两年内保持在央行2%的目标或之上，并仍然拖累家庭消费。]]></description>
+      <description><![CDATA[路透调查显示，日本年度核心消费者价格增速预计将略有放缓，但持续的成本推动压力使通胀率在两年内保持在央行2%的目标或之上，并仍然拖累家庭消费。]]></description>
       <guid>https://www.reuters.com/markets/asia/japan-inflation-slow-slightly-cost-push-pressures-drag-consumption-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 05:21:47 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Fri, 12 Apr 2024 04:40:53 GMT</pubDate>
     </item>
     <item>
-      <title>调查显示，更多日本家庭一年后会面临更高的价格</title>
+      <title>调查显示，更多日本家庭一年后会面临更高的物价上涨</title>
       <link>https://www.reuters.com/markets/asia/about-83-japan-households-see-price-rises-1-year-now-survey-shows-2024-04-12/</link>
       <description><![CDATA[日本央行周五的一项调查显示，截至 3 月初的三个月内，日本家庭的通胀预期有所上升。]]></description>
       <guid>https://www.reuters.com/markets/asia/about-83-japan-households-see-price-rises-1-year-now-survey-shows-2024-04-12/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>日本再次警告日元过度疲软</title>
       <link>https://www.reuters.com/markets/asia/japans-finance-minister-says-authorities-are-looking-factors-behind-yen-moves-2024-04-12/</link>
-      <description><![CDATA[日本财务大臣铃木俊一表示，当局不仅在分析近期日元下跌，还在分析推动日元走势的因素，并重申东京已准备好应对任何过度的货币波动。]]></description>
+      <description><![CDATA[日本财务大臣铃木俊一表示，当局不仅在分析近期日元贬值，还在分析推动日元走势的因素，并重申东京已准备好应对任何过度的货币波动。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-finance-minister-says-authorities-are-looking-factors-behind-yen-moves-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 00:19:14 GMT</pubDate>
     </item>
