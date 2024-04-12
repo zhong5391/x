@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 12 Apr 2024 14:30:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 14:43:24 GMT</lastBuildDate>
     <item>
       <title>随着营销力度的加大，耐克老板计划在奥运会上支出“最大”一笔</title>
       <link>https://www.reuters.com/business/retail-consumer/nike-bosses-plan-biggest-olympics-spend-marketing-ramps-up-2024-04-12/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>独家：OpenAI 的 Altman 向大公司推销 ChatGPT Enterprise，其中包括一些微软客户</title>
       <link>https://www.reuters.com/technology/openais-altman-pitches-chatgpt-enterprise-large-firms-including-some-microsoft-2024-04-12/</link>
-      <description><![CDATA[与会者表示，OpenAI 首席执行官 Sam Altman 本月在旧金山、纽约和伦敦接待了数百名《财富》500 强公司高管，他和其他 OpenAI 高管在会上推销了供企业使用的人工智能服务，在某些情况下还与财务支持者微软进行了正面交锋。路透社。]]></description>
+      <description><![CDATA[与会者告诉我们，OpenAI 首席执行官 Sam Altman 本月在旧金山、纽约和伦敦接待了数百名《财富》500 强公司高管，他和其他 OpenAI 高管在会上推销了供企业使用的人工智能服务，在某些情况下还与财务支持者微软进行了正面交锋。路透社。]]></description>
       <guid>https://www.reuters.com/technology/openais-altman-pitches-chatgpt-enterprise-large-firms-including-some-microsoft-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 12:33:42 GMT</pubDate>
     </item>
@@ -50,14 +50,14 @@
     <item>
       <title>苹果未能驳回英国有关应用商店费用的诉讼</title>
       <link>https://www.reuters.com/technology/apple-loses-bid-throw-out-uk-lawsuit-over-app-store-fees-2024-04-12/</link>
-      <description><![CDATA[苹果公司驳回一项价值近 10 亿美元诉讼的请求于周五被驳回，法官裁定苹果公司必须面对针对 1,500 多家英国开发商在购买应用程序和其他内容时收取不公平佣金的指控。]]></description>
+      <description><![CDATA[苹果公司驳回一项价值近 10 亿美元诉讼的请求于周五被驳回，法官裁定苹果公司必须面对指控，称其向超过 1,500 家英国开发商在购买应用程序和其他内容时收取不公平的佣金。]]></description>
       <guid>https://www.reuters.com/technology/apple-loses-bid-throw-out-uk-lawsuit-over-app-store-fees-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 11:16:47 GMT</pubDate>
     </item>
     <item>
       <title>阿根廷政府（和机器人）表示通货膨胀正在缓解。购物者不太确定</title>
       <link>https://www.reuters.com/markets/rates-bonds/argentinas-government-bot-say-inflation-is-easing-shoppers-arent-so-sure-2024-04-12/</link>
-      <description><![CDATA[阿根廷政府乐观地认为，其降低通货膨胀率世界最高国家之一的措施正在发挥作用。然而，购物者尚未完全相信。]]></description>
+      <description><![CDATA[阿根廷政府乐观地认为，其降温措施正在发挥作用，该国是世界上通货膨胀率最高的国家之一。然而，购物者尚未完全相信。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/argentinas-government-bot-say-inflation-is-easing-shoppers-arent-so-sure-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 11:11:31 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>独家：消息人士称，阿联酋阿布扎比国家石油公司最近将英国石油公司视为收购目标</title>
       <link>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</link>
-      <description><![CDATA[知情人士告诉路透社，阿联酋国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
+      <description><![CDATA[知情人士告诉路透社，阿拉伯联合酋长国国有石油公司最近考虑收购英国英国石油公司，但审议并未超出初步讨论范围。]]></description>
       <guid>https://www.reuters.com/markets/deals/uaes-adnoc-recently-eyed-bp-takeover-target-sources-say-2024-04-11/</guid>
       <pubDate>Thu, 11 Apr 2024 17:58:10 GMT</pubDate>
     </item>
