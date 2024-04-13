@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 13 Apr 2024 22:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 22:38:46 GMT</lastBuildDate>
     <item>
       <title>比特币下跌 7.9% 至 61,842 美元</title>
       <link>https://www.reuters.com/technology/bitcoin-down-by-71-62346-2024-04-13/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>维勒罗伊表示，欧洲央行对抗通胀的信心增强</title>
       <link>https://www.reuters.com/markets/europe/ecbs-confidence-fight-against-inflation-growing-villeroy-says-2024-04-13/</link>
-      <description><![CDATA[欧洲央行政策制定者弗朗索瓦·维勒鲁瓦·德加豪 (Francois Villeroy de Galhau) 周六表示，欧洲央行 (ECB) 越来越有信心赢得对抗通胀的斗争，这使得 6 月份降息的可能性很大。]]></description>
+      <description><![CDATA[欧洲央行政策制定者弗朗索瓦·维勒鲁瓦·德加豪 (Francois Villeroy de Galhau) 周六表示，欧洲央行 (ECB) 对赢得对抗通胀的斗争越来越有信心，这使得 6 月份降息的可能性很大。]]></description>
       <guid>https://www.reuters.com/markets/europe/ecbs-confidence-fight-against-inflation-growing-villeroy-says-2024-04-13/</guid>
       <pubDate>Sat, 13 Apr 2024 19:05:08 GMT</pubDate>
     </item>
@@ -71,21 +71,21 @@
     <item>
       <title>特斯拉降低美国和加拿大的全自动驾驶订阅价格</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-cuts-full-self-driving-subscription-prices-us-canada-2024-04-12/</link>
-      <description><![CDATA[埃隆·马斯克(Elon Musk)旗下的特斯拉周五表示，该公司已降低了美国和加拿大的全自动驾驶(FSD)订阅价格，以期在需求疲软和价格竞争加剧的情况下推动采用。]]></description>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 旗下的特斯拉 (Tesla) 周五表示，该公司已降低了美国和加拿大的全自动驾驶 (FSD) 订阅价格，以期在需求疲软和价格竞争加剧的情况下推动采用。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-cuts-full-self-driving-subscription-prices-us-canada-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 22:51:03 GMT</pubDate>
     </item>
     <item>
       <title>华尔街未来一周 美国能源股飙升反映出强劲增长和通胀担忧</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-surging-us-energy-shares-reflect-robust-growth-inflation-2024-04-12/</link>
-      <description><![CDATA[美国能源股正在飙升，投资者受益于油价上涨和强于预期的经济，同时寻求保护其投资组合免受令人担忧的通胀卷土重来的影响。]]></description>
+      <description><![CDATA[美国能源股正在飙升，因为投资者受益于油价上涨和强于预期的经济，同时寻求保护其投资组合免受令人担忧的通胀卷土重来的影响。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-surging-us-energy-shares-reflect-robust-growth-inflation-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 19:50:23 GMT</pubDate>
     </item>
     <item>
       <title>独家：随着波音 737 产量下降，Spirit AeroSystems 限制加班和招聘</title>
       <link>https://www.reuters.com/business/aerospace-defense/spirit-aerosystems-limits-overtime-hiring-boeing-737-output-drops-2024-04-12/</link>
-      <description><![CDATA[Spirit 周五告诉路透社，由于 737 MAX 喷气式飞机产量下降导致产量下降，波音的主要供应商 Spirit AeroSystems 正在限制加班和招聘。]]></description>
+      <description><![CDATA[Spirit 周五告诉路透社，由于 737 MAX 喷气式飞机产量下降，产量下降，波音的主要供应商 Spirit AeroSystems 正在限制加班和招聘。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/spirit-aerosystems-limits-overtime-hiring-boeing-737-output-drops-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 19:48:47 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>不到一半的美国银行准备向美联储紧急借款</title>
       <link>https://www.reuters.com/business/finance/less-than-half-us-banks-ready-borrow-fed-emergency-2024-04-12/</link>
-      <description><![CDATA[根据美联储周五公布的数据，在硅谷银行倒闭一年后，只有不到一半的美国银行通过在美联储紧急贷款机构质押抵押品来建立借贷能力。]]></description>
+      <description><![CDATA[美联储周五公布的数据显示，在硅谷银行倒闭一年后，只有不到一半的美国银行通过在美联储紧急贷款机构质押抵押品来建立借贷能力。]]></description>
       <guid>https://www.reuters.com/business/finance/less-than-half-us-banks-ready-borrow-fed-emergency-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 18:50:47 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>华尔街收盘大幅走低，因盈利好坏参半、通胀高企、地缘政治担忧</title>
       <link>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</link>
-      <description><![CDATA[由于美国主要银行的业绩未能给人留下深刻印象，周五美国股市遭到抛售，这为影响市场的通胀数据、对美联储政策的预期不断变化以及地缘政治紧张局势迫在眉睫的一周画上了句号。]]></description>
+      <description><![CDATA[由于美国主要银行的业绩未能给人留下深刻印象，周五美国股市遭到抛售，这为影响市场的通胀数据、对美联储政策的预期不断变化以及地缘政治紧张局势迫在眉睫的一周画上句号。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 09:04:29 GMT</pubDate>
     </item>
