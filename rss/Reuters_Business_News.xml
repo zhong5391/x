@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 13 Apr 2024 17:28:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 17:41:27 GMT</lastBuildDate>
     <item>
       <title>瑞士财政部长表示，瑞士银行的新资本要求将减缓瑞银的增长</title>
       <link>https://www.reuters.com/business/finance/new-capital-requirements-swiss-banks-will-slow-growth-ubs-says-finance-minister-2024-04-13/</link>
@@ -13,7 +13,7 @@
       <pubDate>Sat, 13 Apr 2024 10:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>巴基斯坦央行表示巴基斯坦偿还了10亿美元的欧洲债券</title>
+      <title>央行称巴基斯坦偿还10亿美元欧洲债券</title>
       <link>https://www.reuters.com/markets/rates-bonds/pakistan-repays-1-bln-eurobonds-says-central-bank-2024-04-13/</link>
       <description><![CDATA[巴基斯坦央行周六表示，已偿还了 10 亿美元的欧洲债券，这是在这个南亚国家寻求国际货币基金组织长期救助之前预定的付款。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/pakistan-repays-1-bln-eurobonds-says-central-bank-2024-04-13/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>特斯拉降低美国和加拿大的全自动驾驶订阅价格</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-cuts-full-self-driving-subscription-prices-us-canada-2024-04-12/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 旗下的特斯拉 (Tesla) 周五表示，该公司已降低了美国和加拿大的全自动驾驶 (FSD) 订阅价格，以期在需求疲软和价格竞争加剧的情况下推动采用。]]></description>
+      <description><![CDATA[埃隆·马斯克(Elon Musk)旗下的特斯拉周五表示，该公司已降低了美国和加拿大的全自动驾驶(FSD)订阅价格，以期在需求疲软和价格竞争加剧的情况下推动采用。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-cuts-full-self-driving-subscription-prices-us-canada-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 22:51:03 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>独家：随着波音 737 产量下降，Spirit AeroSystems 限制加班和招聘</title>
       <link>https://www.reuters.com/business/aerospace-defense/spirit-aerosystems-limits-overtime-hiring-boeing-737-output-drops-2024-04-12/</link>
-      <description><![CDATA[Spirit 周五告诉路透社，由于 737 MAX 喷气式飞机产量下降，产量下降，波音的主要供应商 Spirit AeroSystems 正在限制加班和招聘。]]></description>
+      <description><![CDATA[Spirit 周五告诉路透社，由于 737 MAX 喷气式飞机产量下降导致产量下降，波音的主要供应商 Spirit AeroSystems 正在限制加班和招聘。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/spirit-aerosystems-limits-overtime-hiring-boeing-737-output-drops-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 19:48:47 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>华尔街收盘大幅走低，因盈利好坏参半、通胀高企、地缘政治担忧</title>
       <link>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</link>
-      <description><![CDATA[由于美国主要银行的业绩未能给人留下深刻印象，周五美国股市遭到抛售，这为影响市场的通胀数据、对美联储政策的预期不断变化以及地缘政治紧张局势迫在眉睫的一周画上句号。]]></description>
+      <description><![CDATA[由于美国主要银行的业绩未能给人留下深刻印象，周五美国股市遭到抛售，这为影响市场的通胀数据、对美联储政策的预期不断变化以及地缘政治紧张局势迫在眉睫的一周画上了句号。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 09:04:29 GMT</pubDate>
     </item>
