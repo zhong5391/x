@@ -4,7 +4,14 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 13 Apr 2024 03:42:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 03:58:22 GMT</lastBuildDate>
+    <item>
+      <title>据《华尔街日报》报道，Salesforce 正在就收购 Informatica 进行高级谈判</title>
+      <link>https://www.reuters.com/technology/salesforce-is-advanced-talks-buy-informatica-wsj-reports-2024-04-13/</link>
+      <description><![CDATA[据《华尔街日报》周五援引知情人士的话报道，Salesforce 正在就收购数据管理软件提供商 Informatica 进行深入谈判。]]></description>
+      <guid>https://www.reuters.com/technology/salesforce-is-advanced-talks-buy-informatica-wsj-reports-2024-04-13/</guid>
+      <pubDate>Sat, 13 Apr 2024 01:29:11 GMT</pubDate>
+    </item>
     <item>
       <title>Coinbase 要求对针对美国 SEC 的部分案件提出上诉</title>
       <link>https://www.reuters.com/legal/coinbase-asks-appeal-part-case-against-us-sec-2024-04-13/</link>
@@ -76,13 +83,6 @@
       <pubDate>Fri, 12 Apr 2024 18:50:47 GMT</pubDate>
     </item>
     <item>
-      <title>美国今年向汽车经销商提前发放超过5.8亿美元的电动汽车退税</title>
-      <link>https://www.reuters.com/business/autos-transportation/us-issues-over-580-million-advance-ev-tax-rebates-auto-dealers-since-jan-1-2024-04-12/</link>
-      <description><![CDATA[美国财政部周五表示，自 1 月 1 日起，美国政府已向汽车经销商预付了超过 5.8 亿美元的销售点消费电动汽车 (EV) 税收抵免款项。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/us-issues-over-580-million-advance-ev-tax-rebates-auto-dealers-since-jan-1-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 18:43:53 GMT</pubDate>
-    </item>
-    <item>
       <title>由于利率轨迹阴云密布，美国银行的利润前景不太明朗</title>
       <link>https://www.reuters.com/business/finance/us-banks-profit-picture-less-clear-with-cloudy-rates-trajectory-2024-04-12/</link>
       <description><![CDATA[利率轨迹的不确定性使得美国银行很难预测利润，并导致一些银行在今年剩余时间内采取谨慎立场。]]></description>
@@ -92,7 +92,7 @@
     <item>
       <title>美国钢铁公司股东批准新日铁公司以 149 亿美元收购</title>
       <link>https://www.reuters.com/markets/deals/us-steel-shareholders-approve-149-bln-buyout-by-nippon-steel-bloomberg-reports-2024-04-12/</link>
-      <description><![CDATA[美国钢铁公司股东周五批准了日本新日铁公司以 149 亿美元收购的提议，尽管政治上对该交易的反对声音不断增加，但该交易仍距离完成又近了一步。]]></description>
+      <description><![CDATA[美国钢铁公司股东周五批准了日本新日铁公司以 149 亿美元收购的提议，正如预期的那样，尽管政治上对该交易的反对声音不断增加，但该交易仍距离完成又近了一步。]]></description>
       <guid>https://www.reuters.com/markets/deals/us-steel-shareholders-approve-149-bln-buyout-by-nippon-steel-bloomberg-reports-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 17:34:40 GMT</pubDate>
     </item>
