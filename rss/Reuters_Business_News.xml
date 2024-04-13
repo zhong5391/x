@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 13 Apr 2024 11:58:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 12:30:33 GMT</lastBuildDate>
+    <item>
+      <title>瑞士财政部长表示，瑞士银行的新资本要求将减缓瑞银的增长</title>
+      <link>https://www.reuters.com/business/finance/new-capital-requirements-swiss-banks-will-slow-growth-ubs-says-finance-minister-2024-04-13/</link>
+      <description><![CDATA[瑞士财政部长在周六发表的采访中表示，瑞士政府提出的对银行业更严格的资本要求将影响瑞银的增长能力。]]></description>
+      <guid>https://www.reuters.com/business/finance/new-capital-requirements-swiss-banks-will-slow-growth-ubs-says-finance-minister-2024-04-13/</guid>
+      <pubDate>Sat, 13 Apr 2024 10:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴基斯坦央行表示巴基斯坦偿还了10亿美元的欧洲债券</title>
+      <link>https://www.reuters.com/markets/rates-bonds/pakistan-repays-1-bln-eurobonds-says-central-bank-2024-04-13/</link>
+      <description><![CDATA[巴基斯坦央行周六表示，已偿还了 10 亿美元的欧洲债券，这是在这个南亚国家寻求国际货币基金组织长期救助之前预定的付款。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/pakistan-repays-1-bln-eurobonds-says-central-bank-2024-04-13/</guid>
+      <pubDate>Sat, 13 Apr 2024 10:10:25 GMT</pubDate>
+    </item>
     <item>
       <title>消息人士称，Salesforce 正在就收购 Informatica 进行高级谈判</title>
       <link>https://www.reuters.com/technology/salesforce-is-advanced-talks-buy-informatica-wsj-reports-2024-04-13/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>特斯拉降低美国和加拿大的全自动驾驶订阅价格</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-cuts-full-self-driving-subscription-prices-us-canada-2024-04-12/</link>
-      <description><![CDATA[埃隆·马斯克(Elon Musk)旗下的特斯拉周五表示，该公司已降低了美国和加拿大的全自动驾驶(FSD)订阅价格，以期在需求疲软和价格竞争加剧的情况下推动采用。]]></description>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 旗下的特斯拉 (Tesla) 周五表示，该公司已降低了美国和加拿大的全自动驾驶 (FSD) 订阅价格，以期在需求疲软和价格竞争加剧的情况下推动采用。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-cuts-full-self-driving-subscription-prices-us-canada-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 22:51:03 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>独家：随着波音 737 产量下降，Spirit AeroSystems 限制加班和招聘</title>
       <link>https://www.reuters.com/business/aerospace-defense/spirit-aerosystems-limits-overtime-hiring-boeing-737-output-drops-2024-04-12/</link>
-      <description><![CDATA[Spirit 周五告诉路透社，由于 737 MAX 喷气式飞机产量下降导致产量下降，波音的主要供应商 Spirit AeroSystems 正在限制加班和招聘。]]></description>
+      <description><![CDATA[Spirit 周五告诉路透社，由于 737 MAX 喷气式飞机产量下降，产量下降，波音的主要供应商 Spirit AeroSystems 正在限制加班和招聘。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/spirit-aerosystems-limits-overtime-hiring-boeing-737-output-drops-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 19:48:47 GMT</pubDate>
     </item>
@@ -97,25 +111,11 @@
       <pubDate>Fri, 12 Apr 2024 17:34:40 GMT</pubDate>
     </item>
     <item>
-      <title>美国最高法院裁定，企业对有影响力的趋势保持沉默，而不是证券欺诈</title>
-      <link>https://www.reuters.com/legal/corporate-silence-impactful-trends-not-securities-fraud-us-supreme-court-rules-2024-04-12/</link>
-      <description><![CDATA[美国最高法院周五裁定，如果公司藐视要求披露预计会影响其利润的趋势的规则，股东就不能起诉公司欺诈，除非这一遗漏导致另一项声明具有误导性。]]></description>
-      <guid>https://www.reuters.com/legal/corporate-silence-impactful-trends-not-securities-fraud-us-supreme-court-rules-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 17:01:07 GMT</pubDate>
-    </item>
-    <item>
       <title>美国消费者信心下滑；通胀预期上升</title>
       <link>https://www.reuters.com/world/us/us-import-prices-post-third-straight-monthly-gain-march-2024-04-12/</link>
       <description><![CDATA[美国 4 月份消费者信心下降，家庭预计未来 12 个月及以后通胀将上升，这可能为美联储将降息推迟到 9 月份提供更多弹药。]]></description>
       <guid>https://www.reuters.com/world/us/us-import-prices-post-third-straight-monthly-gain-march-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 13:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：OpenAI 的 Altman 向大公司推销 ChatGPT Enterprise，其中包括一些微软客户</title>
-      <link>https://www.reuters.com/technology/openais-altman-pitches-chatgpt-enterprise-large-firms-including-some-microsoft-2024-04-12/</link>
-      <description><![CDATA[与会者告诉我们，OpenAI 首席执行官 Sam Altman 本月在旧金山、纽约和伦敦接待了数百名《财富》500 强公司高管，他和其他 OpenAI 高管在会上推销了供企业使用的人工智能服务，在某些情况下还与财务支持者微软进行了正面交锋。路透社。]]></description>
-      <guid>https://www.reuters.com/technology/openais-altman-pitches-chatgpt-enterprise-large-firms-including-some-microsoft-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 12:33:42 GMT</pubDate>
     </item>
     <item>
       <title>如果特朗普获胜，他计划将华尔街从“繁重的监管”中解放出来</title>
@@ -134,16 +134,9 @@
     <item>
       <title>华尔街收盘大幅走低，因盈利好坏参半、通胀高企、地缘政治担忧</title>
       <link>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</link>
-      <description><![CDATA[由于美国主要银行的业绩未能给人留下深刻印象，周五美国股市遭到抛售，这为影响市场的通胀数据、对美联储政策的预期不断变化以及地缘政治紧张局势迫在眉睫的一周画上了句号。]]></description>
+      <description><![CDATA[由于美国主要银行的业绩未能给人留下深刻印象，周五美国股市遭到抛售，这为影响市场的通胀数据、对美联储政策的预期不断变化以及地缘政治紧张局势迫在眉睫的一周画上句号。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 09:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国钢铁公司股东批准新日铁149亿美元的收购要约</title>
-      <link>https://www.reuters.com/markets/deals/road-nippons-149-billion-acquisition-us-steel-2023-12-18/</link>
-      <description><![CDATA[美国钢铁公司股东投票支持日本新日铁公司拟议的 149 亿美元收购计划，使合并更接近完成，但该交易面临监管审查和政治反对。]]></description>
-      <guid>https://www.reuters.com/markets/deals/road-nippons-149-billion-acquisition-us-steel-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 16:46:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
