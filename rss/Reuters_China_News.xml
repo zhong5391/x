@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 13 Apr 2024 07:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 07:41:23 GMT</lastBuildDate>
+    <item>
+      <title>警方称，枪手在巴基斯坦西南部绑架后杀害了 9 名男子</title>
+      <link>https://www.reuters.com/world/asia-pacific/gunmen-kill-9-men-after-abduction-southwest-pakistan-say-police-2024-04-13/</link>
+      <description><![CDATA[官员周六表示，枪手在巴基斯坦西南部与阿富汗和伊朗接壤的一个陷入困境的省份从一辆公共汽车上绑架了九名男子后开枪打死。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/gunmen-kill-9-men-after-abduction-southwest-pakistan-say-police-2024-04-13/</guid>
+      <pubDate>Sat, 13 Apr 2024 06:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>GFZ称中国西藏发生5.7级地震</title>
+      <link>https://www.reuters.com/world/china/earthquake-magnitude-57-strikes-chinas-xizang-says-gfz-2024-04-13/</link>
+      <description><![CDATA[德国地球科学研究中心（GFZ）表示，中国西藏地区周六发生了 5.7 级地震。据称，地震深度为 10 公里（6.2 英里）。]]></description>
+      <guid>https://www.reuters.com/world/china/earthquake-magnitude-57-strikes-chinas-xizang-says-gfz-2024-04-13/</guid>
+      <pubDate>Sat, 13 Apr 2024 06:02:35 GMT</pubDate>
+    </item>
     <item>
       <title>政府称第一季度中国自然灾害损失达33亿美元</title>
       <link>https://www.reuters.com/world/china/china-natural-disasters-cost-33-billion-first-quarter-government-says-2024-04-13/</link>
@@ -85,23 +99,9 @@
     <item>
       <title>俄罗斯城市被洪水淹没的动物收容所称“我们就像诺亚方舟”</title>
       <link>https://www.reuters.com/world/europe/were-like-noahs-ark-says-animal-shelter-flooded-russian-city-2024-04-12/</link>
-      <description><![CDATA[周五，遭受洪灾的俄罗斯城市奥伦堡空荡荡的街道上充满了水泵的轰鸣声，人们听从官方的逃生警告。]]></description>
+      <description><![CDATA[周五，遭受洪水袭击的俄罗斯奥伦堡市荒凉的街道上充满了水泵的轰鸣声，人们听从了官方的逃生警告。]]></description>
       <guid>https://www.reuters.com/world/europe/were-like-noahs-ark-says-animal-shelter-flooded-russian-city-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 12:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国起草更严格的股票交易和上市规则</title>
-      <link>https://www.reuters.com/markets/asia/china-strengthens-stock-market-trading-listing-regulations-2024-04-12/</link>
-      <description><![CDATA[中国证监会周五发布规则草案，加强对公司上市、退市和计算机程序交易的监管，以完善股票市场，保护投资者利益。]]></description>
-      <guid>https://www.reuters.com/markets/asia/china-strengthens-stock-market-trading-listing-regulations-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 11:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国电动汽车品牌Hyper表示将于2026年在其汽车中使用全固态电池</title>
-      <link>https://www.reuters.com/business/autos-transportation/chinese-ev-brand-hyper-says-will-use-all-solid-state-batteries-its-cars-2026-2024-04-12/</link>
-      <description><![CDATA[中国电动汽车制造商广汽艾安旗下Hyper品牌周五表示，已完成全固态电池的研发，将​​于2026年首次应用于Hyper汽车。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/chinese-ev-brand-hyper-says-will-use-all-solid-state-batteries-its-cars-2026-2024-04-12/</guid>
-      <pubDate>Fri, 12 Apr 2024 10:36:47 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，由于兄弟的监管职责，顶级银行家退出中金公司</title>
