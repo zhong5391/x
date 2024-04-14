@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 14 Apr 2024 02:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 03:45:42 GMT</lastBuildDate>
     <item>
       <title>比特币下跌 7.9% 至 61,842 美元</title>
       <link>https://www.reuters.com/technology/bitcoin-down-by-71-62346-2024-04-13/</link>
@@ -34,7 +34,7 @@
       <pubDate>Sat, 13 Apr 2024 10:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>巴基斯坦央行表示巴基斯坦偿还了10亿美元的欧洲债券</title>
+      <title>央行称巴基斯坦偿还10亿美元欧洲债券</title>
       <link>https://www.reuters.com/markets/rates-bonds/pakistan-repays-1-bln-eurobonds-says-central-bank-2024-04-13/</link>
       <description><![CDATA[巴基斯坦央行周六表示，已偿还了 10 亿美元的欧洲债券，这是在这个南亚国家寻求国际货币基金组织长期救助之前预定的付款。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/pakistan-repays-1-bln-eurobonds-says-central-bank-2024-04-13/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>华尔街收盘大幅走低，因盈利好坏参半、通胀高企、地缘政治担忧</title>
       <link>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</link>
-      <description><![CDATA[由于美国主要银行的业绩未能给人留下深刻印象，周五美国股市遭到抛售，这为影响市场的通胀数据、对美联储政策的预期不断变化以及地缘政治紧张局势迫在眉睫的一周画上了句号。]]></description>
+      <description><![CDATA[由于美国主要银行的业绩未能给人留下深刻印象，周五美国股市遭到抛售，这为影响市场的通胀数据、对美联储政策的预期不断变化以及地缘政治紧张局势迫在眉睫的一周画上句号。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-steady-ahead-big-bank-earnings-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 09:04:29 GMT</pubDate>
     </item>
