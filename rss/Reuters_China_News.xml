@@ -1,45 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 15 Apr 2024 09:38:37 GMT</lastBuildDate>
-    <item>
-      <title>由于中东紧张局势，航空公司暂停航班</title>
-      <link>https://www.reuters.com/world/airlines-suspend-flights-due-middle-east-tensions-2024-04-15/</link>
-      <description><![CDATA[伊朗周五对以色列的导弹和无人机袭击进一步缩小了欧洲和亚洲之间航线的航空公司的选择范围。]]></description>
-      <guid>https://www.reuters.com/world/airlines-suspend-flights-due-middle-east-tensions-2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 09:22:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络视频显示中国跑者在北京半程马拉松赛中天赋异禀</title>
-      <link>https://www.reuters.com/sports/athletics/online-videos-show-chinese-runner-being-gifted-win-beijing-half-marathon-2024-04-15/</link>
-      <description><![CDATA[北京当局正在调查周日举行的北京半程马拉松比赛，此前网上分享的视频显示，三名非洲选手在接近终点线时似乎放慢了速度，以便中国选手何洁超越他们并获胜。]]></description>
-      <guid>https://www.reuters.com/sports/athletics/online-videos-show-chinese-runner-being-gifted-win-beijing-half-marathon-2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 08:58:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国驻联合国特使表示，盟友正在寻求新的方式来执行朝鲜制裁</title>
-      <link>https://www.reuters.com/world/allies-seeking-new-ways-enforce-north-korea-sanctions-us-envoy-un-says-2024-04-15/</link>
-      <description><![CDATA[美国驻联合国大使琳达·托马斯·格林菲尔德周一表示，由于担心平壤现在可能更有底气推进其武器计划，华盛顿及其盟国正在寻找新的途径来执行安理会对朝鲜的制裁。]]></description>
-      <guid>https://www.reuters.com/world/allies-seeking-new-ways-enforce-north-korea-sanctions-us-envoy-un-says-2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 08:24:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>肖尔茨向中国学生保证，我们在德国并不都吸大麻</title>
-      <link>https://www.reuters.com/world/we-dont-all-smoke-weed-germany-scholz-assures-chinese-students-2024-04-15/</link>
-      <description><![CDATA[德国总理奥拉夫·舒尔茨周一向上海的中国学生保证，如果他们在德国学习，就不必吸食大麻，而且德国已将大麻合法化，希望大麻消费量会下降。]]></description>
-      <guid>https://www.reuters.com/world/we-dont-all-smoke-weed-germany-scholz-assures-chinese-students-2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 08:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于与中国相关的延误，印度钢铁制造商未能实现投资目标</title>
-      <link>https://www.reuters.com/markets/commodities/indias-steelmakers-fall-short-investment-target-due-delays-linked-china-2024-04-15/</link>
-      <description><![CDATA[路透社和消息人士查阅的一份政府文件显示，由于从中国进口机械和为中国专家获得签证的延迟，印度领先钢铁制造商未能实现截至 2024 年 3 月的财年投资目标。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/indias-steelmakers-fall-short-investment-target-due-delays-linked-china-2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 08:05:29 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 15 Apr 2024 09:51:43 GMT</lastBuildDate>
     <item>
       <title>中国第一季度GDP增速可能放缓，或将出台更多刺激措施</title>
       <link>https://www.reuters.com/world/china/chinas-q1-gdp-growth-likely-slow-more-stimulus-cards-2024-04-15/</link>
@@ -55,9 +20,9 @@
       <pubDate>Mon, 15 Apr 2024 06:46:17 GMT</pubDate>
     </item>
     <item>
-      <title>菲律宾马科斯没有计划允许美国使用更多基地</title>
+      <title>菲律宾总统：与美国、日本的三边协议不针对任何人</title>
       <link>https://www.reuters.com/world/asia-pacific/philippine-president-trilateral-agreement-with-us-japan-not-directed-anyone-2024-04-15/</link>
-      <description><![CDATA[菲律宾总统小费迪南德·马科斯周一表示，菲律宾没有计划允许美国使用更多军事基地，去年根据联合防御协议，军事基地数量几乎翻了一番。]]></description>
+      <description><![CDATA[菲律宾总统小费迪南德·马科斯周一表示，菲律宾与美国和日本签署的三边协议不针对任何人，而只是为了加强三国之间的关系。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/philippine-president-trilateral-agreement-with-us-japan-not-directed-anyone-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 06:42:53 GMT</pubDate>
     </item>
@@ -78,7 +43,7 @@
     <item>
       <title>解释者：所罗门群岛举行全国大选之际，中国、卫生系统成为首要问题</title>
       <link>https://www.reuters.com/world/asia-pacific/china-health-system-top-issues-solomon-islands-holds-national-election-2024-04-15/</link>
-      <description><![CDATA[所罗门群岛将于 4 月 17 日举行全国选举，这是自总理索加瓦雷与中国签署安全协议以来的首次选举，该协议引发了美国和南太平洋邻国的担忧。]]></description>
+      <description><![CDATA[所罗门群岛将于 4 月 17 日举行全国选举，这是自总理玛纳西·索加瓦雷与中国签署安全协议以来的首次选举，该协议引发了美国和南太平洋邻国的担忧。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-health-system-top-issues-solomon-islands-holds-national-election-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 04:04:16 GMT</pubDate>
     </item>
@@ -118,16 +83,16 @@
       <pubDate>Mon, 15 Apr 2024 01:34:26 GMT</pubDate>
     </item>
     <item>
-      <title>警方称悉尼持刀袭击者似乎以女性为目标</title>
+      <title>警方称悉尼持刀袭击者可能以女性为目标</title>
       <link>https://www.reuters.com/world/asia-pacific/australian-police-say-sydney-knife-attacker-may-have-targeted-women-2024-04-15/</link>
-      <description><![CDATA[警方表示，在悉尼海滨郊区邦迪的一家购物中心刺死六人的男子似乎以女性为目标，袭击者的父亲公开讲述了儿子长期以来的精神疾病史以及对女性的不满。]]></description>
+      <description><![CDATA[警方周一表示，在悉尼海滨郊区邦迪的一家购物中心刺死六人的男子可能以女性为目标，袭击者的父亲公开讲述了儿子长期以来的精神疾病史以及对女性的不满。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/australian-police-say-sydney-knife-attacker-may-have-targeted-women-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 00:27:45 GMT</pubDate>
     </item>
     <item>
-      <title>美元持稳，日元跌至34年低点，因美国降息预期减弱</title>
+      <title>美元坚挺，日元下滑，因美国降息预期减弱</title>
       <link>https://www.reuters.com/markets/currencies/dollar-stands-tall-us-rate-cut-bets-recede-2024-04-15/</link>
-      <description><![CDATA[美元周一持稳，守住2022年以来最大单周涨幅，因美国利率居高不下以及中东冲突升级的前景提供支撑。]]></description>
+      <description><![CDATA[美元周一企稳，守住2022年以来最大单周涨幅，因中东冲突升级以及美国利率居高不下的前景提供支撑。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-stands-tall-us-rate-cut-bets-recede-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 00:25:19 GMT</pubDate>
     </item>
@@ -144,6 +109,41 @@
       <description><![CDATA[周一，亚洲股市下跌，金价上涨，因伊朗对以色列的报复性袭击引发了对更广泛地区冲突的担忧，令交易员紧张不安，风险情绪受到打击。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-14/</guid>
       <pubDate>Sun, 14 Apr 2024 23:58:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：随着中东紧张局势升级，去风险、寻求安全</title>
+      <link>https://www.reuters.com/markets/global-markets-view-asia-graphic-pix-2024-04-14/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-view-asia-graphic-pix-2024-04-14/</guid>
+      <pubDate>Sun, 14 Apr 2024 21:47:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>西班牙制药商 Grifols 董事长告诉报纸，将聘请独立董事</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/spanish-drug-maker-grifols-will-bring-independent-directors-chairman-tells-2024-04-14/</link>
+      <description><![CDATA[西班牙制药商 Grifols 董事长在周日发表的报纸采访中表示，该公司正与今年股价暴跌作斗争，计划在其审计和薪酬委员会中增加独立董事，以改善其治理。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/spanish-drug-maker-grifols-will-bring-independent-directors-chairman-tells-2024-04-14/</guid>
+      <pubDate>Sun, 14 Apr 2024 11:16:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>佩雷拉击败希尔卫冕UFC轻重量级冠军</title>
+      <link>https://www.reuters.com/sports/pereira-knocks-out-hill-retain-ufc-light-heavyweight-title-2024-04-14/</link>
+      <description><![CDATA[周六晚，巴西选手亚历克斯·佩雷拉在首轮淘汰赛中击败贾马哈·希尔，卫冕 UFC 轻重量级冠军，而张伟丽则在周六晚的 UFC 300 比赛中击败严晓楠，卫冕平量级腰带。]]></description>
+      <guid>https://www.reuters.com/sports/pereira-knocks-out-hill-retain-ufc-light-heavyweight-title-2024-04-14/</guid>
+      <pubDate>Sun, 14 Apr 2024 06:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国对伊朗袭击以色列后局势升级“深感担忧”</title>
+      <link>https://www.reuters.com/world/middle-east/china-deeply-concerned-about-escalation-after-iran-strikes-israel-2024-04-14/</link>
+      <description><![CDATA[外交部发言人周日表示，伊朗发射无人机和导弹对以色列进行报复性打击后，中东紧张局势升级“深表关切”。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/china-deeply-concerned-about-escalation-after-iran-strikes-israel-2024-04-14/</guid>
+      <pubDate>Sun, 14 Apr 2024 04:19:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国电动汽车制造商蔚来敦促在紧张局势中开放美国言论</title>
+      <link>https://www.reuters.com/business/autos-transportation/china-ev-maker-nio-urges-openness-us-speech-amid-tensions-2024-04-14/</link>
+      <description><![CDATA[中国电动汽车（EV）制造商蔚来创始人在美国罕见的一次演讲中呼吁开放，美国政界人士一直在寻求进一步限制中国进入全球第二大汽车市场。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/china-ev-maker-nio-urges-openness-us-speech-amid-tensions-2024-04-14/</guid>
+      <pubDate>Sun, 14 Apr 2024 03:59:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
