@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 15 Apr 2024 10:30:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 10:43:31 GMT</lastBuildDate>
     <item>
       <title>由于中东紧张局势，航空公司暂停航班</title>
       <link>https://www.reuters.com/world/airlines-suspend-flights-due-middle-east-tensions-2024-04-15/</link>
@@ -78,7 +78,7 @@
     <item>
       <title>解释者：所罗门群岛举行全国大选之际，中国、卫生系统成为首要问题</title>
       <link>https://www.reuters.com/world/asia-pacific/china-health-system-top-issues-solomon-islands-holds-national-election-2024-04-15/</link>
-      <description><![CDATA[所罗门群岛将于 4 月 17 日举行全国选举，这是自总理索加瓦雷与中国签署安全协议以来的首次选举，该协议引发了美国和南太平洋邻国的担忧。]]></description>
+      <description><![CDATA[所罗门群岛将于 4 月 17 日举行全国选举，这是自总理玛纳西·索加瓦雷与中国签署安全协议以来的首次选举，该协议引发了美国和南太平洋邻国的担忧。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-health-system-top-issues-solomon-islands-holds-national-election-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 04:04:16 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>美元持稳，日元跌至34年低点，因美国降息预期减弱</title>
       <link>https://www.reuters.com/markets/currencies/dollar-stands-tall-us-rate-cut-bets-recede-2024-04-15/</link>
-      <description><![CDATA[美元周一持稳，守住2022年以来最大单周涨幅，因美国利率居高不下以及中东冲突升级的前景提供支撑。]]></description>
+      <description><![CDATA[美元周一持稳，守住2022年以来最大单周涨幅，因美国利率居高不下和中东冲突升级的前景提供支撑。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-stands-tall-us-rate-cut-bets-recede-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 00:25:19 GMT</pubDate>
     </item>
