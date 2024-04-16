@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 21:05:51 GMT</lastBuildDate>
-    <item>
-      <title>BMO总裁表示美国经济正在改善，称加州为“具有重要战略意义的市场”</title>
-      <link>https://www.reuters.com/markets/us/bmo-chief-says-us-economy-improving-calls-california-a-strategically-important-2024-04-16/</link>
-      <description><![CDATA[在其南部邻国迅速扩张的蒙特利尔银行行长表示，美国经济显示出强于预期的增长迹象，加州是一个具有重要战略意义的市场。]]></description>
-      <guid>https://www.reuters.com/markets/us/bmo-chief-says-us-economy-improving-calls-california-a-strategically-important-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 19:22:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smartmatic 与 One America News 就选举诽谤诉讼达成和解</title>
-      <link>https://www.reuters.com/legal/smartmatic-one-america-news-settle-election-defamation-lawsuit-2024-04-16/</link>
-      <description><![CDATA[Smartmatic 已就一项指控右翼电视网络 One America News 诽谤的诉讼达成和解，该公司谎称该投票技术公司操纵 2020 年美国总统选举，以帮助乔·拜登击败唐纳德·特朗普。]]></description>
-      <guid>https://www.reuters.com/legal/smartmatic-one-america-news-settle-election-defamation-lawsuit-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 18:58:57 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 16 Apr 2024 21:21:13 GMT</lastBuildDate>
     <item>
       <title>由于税收流出和国债供应，美国融资利率小幅上升</title>
       <link>https://www.reuters.com/markets/us/us-funding-rates-rise-modestly-tax-outflows-treasury-supply-2024-04-16/</link>
@@ -27,7 +13,7 @@
       <pubDate>Tue, 16 Apr 2024 17:50:10 GMT</pubDate>
     </item>
     <item>
-      <title>耶伦称释放俄罗斯资产价值对援助乌克兰至关重要</title>
+      <title>耶伦表示，释放俄罗斯资产的价值来援助乌克兰非常重要</title>
       <link>https://www.reuters.com/world/europe/yellen-says-its-important-unlock-value-russian-assets-aid-ukraine-2024-04-16/</link>
       <description><![CDATA[美国财政部长珍妮特·耶伦周二表示，美国及其七国集团 (G7) 盟国正在继续探索一系列可能性，以释放价值近 3000 亿美元的俄罗斯冻结资产，以援助乌克兰。]]></description>
       <guid>https://www.reuters.com/world/europe/yellen-says-its-important-unlock-value-russian-assets-aid-ukraine-2024-04-16/</guid>
@@ -41,14 +27,14 @@
       <pubDate>Tue, 16 Apr 2024 17:02:38 GMT</pubDate>
     </item>
     <item>
-      <title>以花旗为首的大银行继续裁员以削减成本</title>
+      <title>花旗集团等大型银行在削减成本的压力下继续裁员</title>
       <link>https://www.reuters.com/markets/us/big-banks-led-by-citi-continue-layoffs-amid-pressure-cut-costs-2024-04-16/</link>
       <description><![CDATA[美国银行业巨头第一季度继续裁员，其中花旗集团降幅最大。]]></description>
       <guid>https://www.reuters.com/markets/us/big-banks-led-by-citi-continue-layoffs-amid-pressure-cut-costs-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 16:47:56 GMT</pubDate>
     </item>
     <item>
-      <title>穆迪：2023 年美国企业违约中 40% 为屡犯者</title>
+      <title>穆迪表示，2023 年，重犯占美国企业违约的 40%</title>
       <link>https://www.reuters.com/markets/us/repeat-offenders-made-up-40-us-corporate-defaults-2023-moodys-says-2024-04-16/</link>
       <description><![CDATA[信用评级机构穆迪的一份新报告显示，在 2023 年拖欠债务的美国公司中，约有 40% 此前曾发生过拖欠债务的情况。]]></description>
       <guid>https://www.reuters.com/markets/us/repeat-offenders-made-up-40-us-corporate-defaults-2023-moodys-says-2024-04-16/</guid>
@@ -69,11 +55,25 @@
       <pubDate>Tue, 16 Apr 2024 16:05:42 GMT</pubDate>
     </item>
     <item>
+      <title>独家：消息人士称，汉莎航空的新 ITA 补救措施与之前并无太大不同</title>
+      <link>https://www.reuters.com/business/aerospace-defense/lufthansas-new-ita-remedies-not-too-different-earlier-sources-say-2024-04-16/</link>
+      <description><![CDATA[知情人士称，汉莎航空针对其收购 ITA 航空股份的新补救措施与之前被欧盟反垄断监管机构拒绝的一揽子计划没有明显不同，欧盟反垄断监管机构在审查该交易时也将瑞安航空视为竞争对手。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/lufthansas-new-ita-remedies-not-too-different-earlier-sources-say-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 16:02:50 GMT</pubDate>
+    </item>
+    <item>
       <title>耶伦表示，中国清洁能源产品生产过剩的问题需要缓解</title>
       <link>https://www.reuters.com/sustainability/climate-energy/yellen-says-chinas-overproduction-clean-energy-goods-needs-mitigation-2024-04-16/</link>
       <description><![CDATA[美国财政部长珍妮特·耶伦周二表示，中国对清洁能源产品先进制造业的大规模投资造成了不公平的竞争环境，使美国工人和企业面临风险，需要加以缓解。]]></description>
       <guid>https://www.reuters.com/sustainability/climate-energy/yellen-says-chinas-overproduction-clean-energy-goods-needs-mitigation-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 15:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>唐纳德·特朗普的债券提供商为其提供的帮助辩护</title>
+      <link>https://www.reuters.com/markets/us/donald-trumps-bond-provider-defends-its-help-2024-04-16/</link>
+      <description><![CDATA[在唐纳德·特朗普的纽约民事欺诈案中向其提供 1.75 亿美元保证金的公司表示，其拥有“相当大的财务信誉”，并拒绝了该州总检察长关于其没有资格提供帮助的建议。]]></description>
+      <guid>https://www.reuters.com/markets/us/donald-trumps-bond-provider-defends-its-help-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 15:16:58 GMT</pubDate>
     </item>
     <item>
       <title>美国3月份制造业产出增长； 2月数据修正上调</title>
@@ -90,7 +90,7 @@
       <pubDate>Tue, 16 Apr 2024 14:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>IMF 预计 2024 年全球增长将缓慢而稳定；中国，战争升级带来风险</title>
+      <title>IMF 预计 2024 年全球增长将缓慢而稳定；中国通胀构成风险</title>
       <link>https://www.reuters.com/world/imf-sees-slow-steady-2024-global-growth-china-inflation-pose-risks-2024-04-16/</link>
       <description><![CDATA[国际货币基金组织周二表示，全球经济将迎来又一个缓慢但稳定增长的一年，美国的强势推动世界产出克服持续高通胀、中国和欧洲需求疲软以及两场地区战争溢出效应等不利因素。]]></description>
       <guid>https://www.reuters.com/world/imf-sees-slow-steady-2024-global-growth-china-inflation-pose-risks-2024-04-16/</guid>
@@ -99,14 +99,14 @@
     <item>
       <title>摩根士丹利利润超出预期，投资银行业务和财富收入增加</title>
       <link>https://www.reuters.com/business/finance/morgan-stanleys-profit-rises-investment-banking-recovers-2024-04-16/</link>
-      <description><![CDATA[受投资银行业务复苏和财富管理业务增长的推动，摩根士丹利周二第一季度利润超出预期，股价上涨 3.7%。]]></description>
+      <description><![CDATA[受投行业务复苏和财富管理业务增长的推动，摩根士丹利周二第一季度利润超出预期，股价上涨 3.7%。]]></description>
       <guid>https://www.reuters.com/business/finance/morgan-stanleys-profit-rises-investment-banking-recovers-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 11:34:16 GMT</pubDate>
     </item>
     <item>
       <title>美国银行利润因信用卡和办公贷款损失而受损</title>
       <link>https://www.reuters.com/business/finance/bank-america-profit-falls-lower-customer-interest-payments-2024-04-16/</link>
-      <description><![CDATA[美国银行(Bank of America)第一季度利润萎缩，且该银行拨出更多资金来支付财务状况恶化的消费者的不良贷款，周二该银行股价下跌逾3%。]]></description>
+      <description><![CDATA[美国银行(Bank of America)第一季度利润萎缩，且该行拨出更多资金来支付财务状况恶化的消费者的不良贷款，周二该银行股价下跌逾3%。]]></description>
       <guid>https://www.reuters.com/business/finance/bank-america-profit-falls-lower-customer-interest-payments-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 10:49:21 GMT</pubDate>
     </item>
@@ -118,9 +118,9 @@
       <pubDate>Tue, 16 Apr 2024 10:38:49 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街股市因国债收益率和利率预期上升而涨跌互现</title>
+      <title>标普、纳斯达克指数因债券收益率上升而低迷；联合健康集团提振道琼斯指数</title>
       <link>https://www.reuters.com/markets/us/futures-ease-bond-yields-stay-elevated-amid-middle-east-tensions-2024-04-16/</link>
-      <description><![CDATA[周二，随着美国国债收益率攀升，华尔街股市涨跌互现，投资者正在权衡美国经济弹性和通胀持续的情况下利率的可能走向。]]></description>
+      <description><![CDATA[由于美国国债收益率上升给股市带来压力，纳斯达克指数和标准普尔 500 指数周二表现平淡，不过蓝筹股道琼斯指数因健康保险重量级联合健康集团的强劲业绩而逆势上扬。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-bond-yields-stay-elevated-amid-middle-east-tensions-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 10:13:50 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Tue, 16 Apr 2024 08:50:21 GMT</pubDate>
     </item>
     <item>
-      <title>法官驳回针对 Meta 创始人扎克伯格的社交媒体损害指控</title>
+      <title>法官驳回针对 Meta 扎克伯格的社交媒体损害指控</title>
       <link>https://www.reuters.com/legal/judge-dismisses-some-claims-against-metas-zuckerberg-over-social-media-harm-2024-04-16/</link>
       <description><![CDATA[Meta Platforms 首席执行官马克·扎克伯格 (Mark Zuckerberg) 周一赢得了十几起诉讼中的部分诉讼，这些诉讼指控他向公众隐瞒 Facebook 和 Instagram 对儿童有害的事实。]]></description>
       <guid>https://www.reuters.com/legal/judge-dismisses-some-claims-against-metas-zuckerberg-over-social-media-harm-2024-04-16/</guid>
