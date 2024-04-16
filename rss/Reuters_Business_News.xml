@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 21:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 21:51:44 GMT</lastBuildDate>
     <item>
       <title>BMO总裁表示美国经济正在改善，称加州为“具有重要战略意义的市场”</title>
       <link>https://www.reuters.com/markets/us/bmo-chief-says-us-economy-improving-calls-california-a-strategically-important-2024-04-16/</link>
@@ -99,14 +99,14 @@
     <item>
       <title>摩根士丹利利润超出预期，投资银行业务和财富收入增加</title>
       <link>https://www.reuters.com/business/finance/morgan-stanleys-profit-rises-investment-banking-recovers-2024-04-16/</link>
-      <description><![CDATA[受投行业务复苏和财富管理业务增长的推动，摩根士丹利周二第一季度利润超出预期，股价上涨 3.7%。]]></description>
+      <description><![CDATA[受投资银行业务复苏和财富管理业务增长的推动，摩根士丹利周二第一季度利润超出预期，股价上涨 3.7%。]]></description>
       <guid>https://www.reuters.com/business/finance/morgan-stanleys-profit-rises-investment-banking-recovers-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 11:34:16 GMT</pubDate>
     </item>
     <item>
       <title>美国银行利润因信用卡和办公贷款损失而受损</title>
       <link>https://www.reuters.com/business/finance/bank-america-profit-falls-lower-customer-interest-payments-2024-04-16/</link>
-      <description><![CDATA[美国银行(Bank of America)第一季度利润萎缩，且该行拨出更多资金来支付财务状况恶化的消费者的不良贷款，周二该银行股价下跌逾3%。]]></description>
+      <description><![CDATA[美国银行(Bank of America)第一季度利润萎缩，且该银行拨出更多资金来支付财务状况恶化的消费者的不良贷款，周二该银行股价下跌逾3%。]]></description>
       <guid>https://www.reuters.com/business/finance/bank-america-profit-falls-lower-customer-interest-payments-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 10:49:21 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>华尔街股市因国债收益率和利率预期上升而涨跌互现</title>
       <link>https://www.reuters.com/markets/us/futures-ease-bond-yields-stay-elevated-amid-middle-east-tensions-2024-04-16/</link>
-      <description><![CDATA[周二，随着美国国债收益率攀升，华尔街股市涨跌互现，投资者正在权衡美国经济弹性和通胀持续的情况下利率的可能走势。]]></description>
+      <description><![CDATA[周二，随着美国国债收益率攀升，华尔街股市涨跌互现，投资者正在权衡美国经济弹性和通胀持续的情况下利率的可能走向。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-bond-yields-stay-elevated-amid-middle-east-tensions-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 10:13:50 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Tue, 16 Apr 2024 08:50:21 GMT</pubDate>
     </item>
     <item>
-      <title>法官驳回针对 Meta 扎克伯格的社交媒体损害指控</title>
+      <title>法官驳回针对 Meta 创始人扎克伯格的社交媒体损害指控</title>
       <link>https://www.reuters.com/legal/judge-dismisses-some-claims-against-metas-zuckerberg-over-social-media-harm-2024-04-16/</link>
       <description><![CDATA[Meta Platforms 首席执行官马克·扎克伯格 (Mark Zuckerberg) 周一赢得了十几起诉讼中的部分诉讼，这些诉讼指控他向公众隐瞒 Facebook 和 Instagram 对儿童有害的事实。]]></description>
       <guid>https://www.reuters.com/legal/judge-dismisses-some-claims-against-metas-zuckerberg-over-social-media-harm-2024-04-16/</guid>
