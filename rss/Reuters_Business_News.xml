@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 06:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 06:29:04 GMT</lastBuildDate>
     <item>
-      <title>法官驳回针对 Meta 扎克伯格的社交媒体损害指控</title>
+      <title>法官驳回针对 Meta 创始人扎克伯格的社交媒体损害指控</title>
       <link>https://www.reuters.com/legal/judge-dismisses-some-claims-against-metas-zuckerberg-over-social-media-harm-2024-04-16/</link>
       <description><![CDATA[Meta Platforms 首席执行官马克·扎克伯格 (Mark Zuckerberg) 周一赢得了十几起诉讼中的部分诉讼，这些诉讼指控他向公众隐瞒 Facebook 和 Instagram 对儿童有害的事实。]]></description>
       <guid>https://www.reuters.com/legal/judge-dismisses-some-claims-against-metas-zuckerberg-over-social-media-harm-2024-04-16/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>《全球外汇市场》 美元触及 5 个月高位，令日元受热； GDP助力人民币</title>
       <link>https://www.reuters.com/markets/currencies/dollar-firms-after-hot-retail-sales-yen-languishes-china-data-awaited-2024-04-16/</link>
-      <description><![CDATA[由于美国零售销售数据高于预期，周二美元兑主要同侪货币触及五个月高点，引发干预担忧，日元跌至1990年以来的最低水平。]]></description>
+      <description><![CDATA[由于美国零售销售数据高于预期，周二美元兑主要同侪货币触及五个月高位，引发干预担忧，而日元则跌至1990年以来的最低水平。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-firms-after-hot-retail-sales-yen-languishes-china-data-awaited-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 01:12:31 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>华纳兄弟探索频道关闭新闻编辑室后，新西兰 Stuff Group 将制作新闻节目</title>
       <link>https://www.reuters.com/business/media-telecom/new-zealands-stuff-group-produce-news-programme-after-warner-bros-discovery-2024-04-16/</link>
-      <description><![CDATA[新西兰媒体网站 Stuff Group 周二表示，已与华纳兄弟探索频道签署协议，为华纳兄弟探索频道的新西兰电视频道提供下午 6 点的节目。每日新闻节目。]]></description>
+      <description><![CDATA[新西兰媒体网站 Stuff Group 周二表示，它已与华纳兄弟探索频道签署协议，为华纳兄弟探索频道的新西兰电视频道提供下午 6 点的节目。每日新闻节目。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/new-zealands-stuff-group-produce-news-programme-after-warner-bros-discovery-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 00:47:03 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>宝洁公司提价导致消费者钱包紧缩</title>
       <link>https://www.reuters.com/business/retail-consumer/procter-gamble-price-hikes-thin-shoppers-wallets-2024-04-15/</link>
-      <description><![CDATA[个人护理产品价格上涨可能会消除美国人为家庭食品购买大品牌产品的习惯，从而对宝洁公司构成威胁。甘布尔（Gamble），世界上最大的包装商品制造商之一。]]></description>
+      <description><![CDATA[个人护理产品价格上涨可能会消除美国人为家庭食品储藏室购买大品牌产品的习惯，从而对宝洁公司构成威胁。甘布尔（Gamble），全球最大的包装商品制造商之一。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/procter-gamble-price-hikes-thin-shoppers-wallets-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 10:05:45 GMT</pubDate>
     </item>
