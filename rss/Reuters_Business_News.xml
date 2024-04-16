@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 06:29:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 06:41:59 GMT</lastBuildDate>
     <item>
-      <title>法官驳回针对 Meta 创始人扎克伯格的社交媒体损害指控</title>
+      <title>Cryptoverse：持有减半</title>
+      <link>https://www.reuters.com/markets/currencies/cryptoverse-hold-halving-2024-04-16/</link>
+      <description><![CDATA[比特币的大涨今年才刚刚开始吗？]]></description>
+      <guid>https://www.reuters.com/markets/currencies/cryptoverse-hold-halving-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 05:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲银行希望欧盟将其指定为“战略”部门</title>
+      <link>https://www.reuters.com/business/finance/european-banks-want-eu-designate-them-strategic-sector-2024-04-16/</link>
+      <description><![CDATA[根据周二发布的一份报告，欧洲银行呼吁欧盟将它们指定为至关重要的“战略”部门，并警告称它们的竞争力和欧盟的未来受到威胁。]]></description>
+      <guid>https://www.reuters.com/business/finance/european-banks-want-eu-designate-them-strategic-sector-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 05:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞士部长表示，瑞银补充称，15-250亿美元的资本需求是现实的</title>
+      <link>https://www.reuters.com/business/finance/ubs-added-capital-needs-15-25-bln-are-realistic-swiss-minister-says-2024-04-16/</link>
+      <description><![CDATA[瑞士财政部长周二表示，根据旨在增强银行业实力的政府提案，瑞士银行瑞银集团将需要另外 150 亿至 250 亿美元的资本，这一估计基本正确。]]></description>
+      <guid>https://www.reuters.com/business/finance/ubs-added-capital-needs-15-25-bln-are-realistic-swiss-minister-says-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 04:40:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软将向阿联酋人工智能公司 G42 投资 15 亿美元并取得少数股权</title>
+      <link>https://www.reuters.com/markets/deals/microsoft-invest-15-bln-emirati-ai-firm-g42-new-york-times-reports-2024-04-16/</link>
+      <description><![CDATA[两家公司周二在一份声明中表示，微软将向总部位于阿拉伯联合酋长国的人工智能公司 G42 投资 15 亿美元，使这家美国科技巨头获得少数股权和董事会席位。]]></description>
+      <guid>https://www.reuters.com/markets/deals/microsoft-invest-15-bln-emirati-ai-firm-g42-new-york-times-reports-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 04:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：市场情绪依然低迷</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-04-16/</link>
+      <description><![CDATA[Ankur Banerjee 对欧洲和全球市场未来一天的展望]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 04:32:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国新建住宅价格跌幅创2015年以来最快</title>
+      <link>https://www.reuters.com/world/china/chinas-new-home-prices-decline-fastest-pace-since-2015-2024-04-16/</link>
+      <description><![CDATA[由于主要房地产开发商的债务困境继续拖累需求和经济前景，中国三月份新房价格以八年多以来的最快速度下跌。]]></description>
+      <guid>https://www.reuters.com/world/china/chinas-new-home-prices-decline-fastest-pace-since-2015-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 04:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官驳回针对 Meta 扎克伯格的社交媒体损害指控</title>
       <link>https://www.reuters.com/legal/judge-dismisses-some-claims-against-metas-zuckerberg-over-social-media-harm-2024-04-16/</link>
       <description><![CDATA[Meta Platforms 首席执行官马克·扎克伯格 (Mark Zuckerberg) 周一赢得了十几起诉讼中的部分诉讼，这些诉讼指控他向公众隐瞒 Facebook 和 Instagram 对儿童有害的事实。]]></description>
       <guid>https://www.reuters.com/legal/judge-dismisses-some-claims-against-metas-zuckerberg-over-social-media-harm-2024-04-16/</guid>
@@ -20,7 +62,7 @@
       <pubDate>Tue, 16 Apr 2024 02:30:37 GMT</pubDate>
     </item>
     <item>
-      <title>政策支持 中国一季度GDP增速超预期</title>
+      <title>中国一季度GDP增长稳健，但3月份数据显示需求依然疲软</title>
       <link>https://www.reuters.com/world/china/chinas-q1-gdp-grows-faster-than-expected-policy-support-2024-04-16/</link>
       <description><![CDATA[周二的数据显示，中国第一季度经济增长快于预期，这让官员们在房地产行业长期疲软和地方政府债务不断增加的情况下努力提振经济增长时松了一口气。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-q1-gdp-grows-faster-than-expected-policy-support-2024-04-16/</guid>
@@ -34,25 +76,18 @@
       <pubDate>Tue, 16 Apr 2024 02:11:47 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市因美国重新考虑降息而下滑；中国GDP超预期</title>
+      <title>亚洲股市因美国降息重新考虑而下滑，中东担忧</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-16/</link>
-      <description><![CDATA[亚洲股市周二下跌，美元攀升至五个多月高点，原因是美国3月份零售销售强于预期，进一步强化了美联储今年不太可能急于降息的预期。]]></description>
+      <description><![CDATA[亚洲股市周二下跌，美元攀升至五个多月高位，原因是美国 3 月份零售销售强于预期，进一步强化了美联储今年不太可能急于降息的预期。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 01:29:58 GMT</pubDate>
     </item>
     <item>
-      <title>《全球外汇市场》 美元触及 5 个月高位，令日元受热； GDP助力人民币</title>
+      <title>美元升至5个月高位，令日元受热； GDP数据提振人民币</title>
       <link>https://www.reuters.com/markets/currencies/dollar-firms-after-hot-retail-sales-yen-languishes-china-data-awaited-2024-04-16/</link>
-      <description><![CDATA[由于美国零售销售数据高于预期，周二美元兑主要同侪货币触及五个月高位，引发干预担忧，而日元则跌至1990年以来的最低水平。]]></description>
+      <description><![CDATA[由于美国零售销售数据好于预期，周二美元兑主要同侪货币升至五个月高点，引发人们对东京干预的担忧，日元跌至1990年以来的最低水平。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-firms-after-hot-retail-sales-yen-languishes-china-data-awaited-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 01:12:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>戴利表示，除非有必要，否则美联储不应采取紧急降息行动</title>
-      <link>https://www.reuters.com/markets/us/us-fed-should-not-act-urgently-when-its-not-required-daly-says-2024-04-16/</link>
-      <description><![CDATA[旧金山联邦储备银行行长玛丽·戴利周一表示，美国“不急于”降息，因为经济和劳动力市场强劲，通胀率仍高于美联储 2% 的目标。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-fed-should-not-act-urgently-when-its-not-required-daly-says-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:54:47 GMT</pubDate>
     </item>
     <item>
       <title>AI芯片需求强劲，台积电第一季度利润预计增长5%</title>
@@ -62,23 +97,9 @@
       <pubDate>Tue, 16 Apr 2024 00:53:31 GMT</pubDate>
     </item>
     <item>
-      <title>华纳兄弟探索频道关闭新闻编辑室后，新西兰 Stuff Group 将制作新闻节目</title>
-      <link>https://www.reuters.com/business/media-telecom/new-zealands-stuff-group-produce-news-programme-after-warner-bros-discovery-2024-04-16/</link>
-      <description><![CDATA[新西兰媒体网站 Stuff Group 周二表示，它已与华纳兄弟探索频道签署协议，为华纳兄弟探索频道的新西兰电视频道提供下午 6 点的节目。每日新闻节目。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/new-zealands-stuff-group-produce-news-programme-after-warner-bros-discovery-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:47:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本财务大臣表示正在密切关注外汇走势</title>
-      <link>https://www.reuters.com/markets/currencies/japans-finance-minister-says-hes-closely-watching-fx-2024-04-16/</link>
-      <description><![CDATA[日本财务大臣铃木俊一周二表示，在美元飙升至 34 年来的新高后，他正在密切关注汇率走势，并将根据需要提供“彻底的应对措施”。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/japans-finance-minister-says-hes-closely-watching-fx-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:35:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列考虑如何应对伊朗袭击，油价上涨</title>
+      <title>中国经济稳健增长和中东紧张局势导致油价上涨</title>
       <link>https://www.reuters.com/business/energy/oil-prices-rise-israel-weighs-response-iran-attack-2024-04-16/</link>
-      <description><![CDATA[周二，在中东紧张局势加剧之际，以色列军事首脑表示，在盟国呼吁克制的情况下，以色列将对伊朗周末的导弹和无人机袭击做出回应，油价上涨。]]></description>
+      <description><![CDATA[由于中国经济增长快于预期，油价周二上涨，而以色列表示将对伊朗周末的导弹和无人机袭击做出回应后，中东紧张局势加剧也令市场紧张。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-prices-rise-israel-weighs-response-iran-attack-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 00:30:22 GMT</pubDate>
     </item>
@@ -97,25 +118,11 @@
       <pubDate>Mon, 15 Apr 2024 22:04:52 GMT</pubDate>
     </item>
     <item>
-      <title>据《华尔街日报》报道，美国司法部将对 Live Nation 提起反垄断诉讼</title>
-      <link>https://www.reuters.com/business/media-telecom/us-justice-department-file-antitrust-suit-against-live-nation-wsj-reports-2024-04-15/</link>
-      <description><![CDATA[据《华尔街日报》周一援引知情人士的话报道，美国司法部预计最早将于下个月对 Live Nation Entertainment 提起反垄断诉讼。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/us-justice-department-file-antitrust-suit-against-live-nation-wsj-reports-2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 21:43:57 GMT</pubDate>
-    </item>
-    <item>
       <title>洛克希德公司赢得美国价值170亿美元的导弹防御合同</title>
       <link>https://www.reuters.com/business/aerospace-defense/lockheed-wins-us-missile-defense-contract-worth-17-bln-sources-say-2024-04-15/</link>
       <description><![CDATA[美国导弹防御局周一表示，洛克希德·马丁公司已赢得价值 170 亿美元的合同，开发下一代拦截器，以保护美国免受洲际弹道导弹攻击。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/lockheed-wins-us-missile-defense-contract-worth-17-bln-sources-say-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 18:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>强劲的美国零售销售提振第一季度增长预期</title>
-      <link>https://www.reuters.com/markets/us/us-retail-sales-beat-expectations-march-2024-04-15/</link>
-      <description><![CDATA[由于在线零售商收入激增，美国 3 月份零售额增幅超过预期，进一步证明第一季度经济以坚实的基础结束。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-retail-sales-beat-expectations-march-2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 12:51:25 GMT</pubDate>
     </item>
     <item>
       <title>高盛利润超预期，投资银行业务盈利创下2021年以来新高</title>
@@ -125,25 +132,11 @@
       <pubDate>Mon, 15 Apr 2024 11:30:24 GMT</pubDate>
     </item>
     <item>
-      <title>宝洁公司提价导致消费者钱包紧缩</title>
-      <link>https://www.reuters.com/business/retail-consumer/procter-gamble-price-hikes-thin-shoppers-wallets-2024-04-15/</link>
-      <description><![CDATA[个人护理产品价格上涨可能会消除美国人为家庭食品储藏室购买大品牌产品的习惯，从而对宝洁公司构成威胁。甘布尔（Gamble），全球最大的包装商品制造商之一。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/procter-gamble-price-hikes-thin-shoppers-wallets-2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 10:05:45 GMT</pubDate>
-    </item>
-    <item>
       <title>销量下滑特斯拉全球裁员10%以上</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/</link>
       <description><![CDATA[路透社周一看到的一份内部备忘录显示，特斯拉正在裁员超过 10% 的全球员工，以应对销量下降和电动汽车 (EV) 价格战加剧的问题。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-10-its-staff-electrek-reports-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 09:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于中东紧张局势、美国国债收益率承压，股市收低</title>
-      <link>https://www.reuters.com/markets/us/futures-bounce-back-last-sessions-battering-amid-middle-east-jitters-2024-04-15/</link>
-      <description><![CDATA[美国股市周一大幅收低，因强劲的零售销售报告带来的早盘提振最终被美国国债收益率的上涨以及对伊朗和以色列之间地缘政治紧张局势加剧的担忧所抵消。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-bounce-back-last-sessions-battering-amid-middle-east-jitters-2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 09:35:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
