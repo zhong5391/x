@@ -1,63 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 02:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 03:09:00 GMT</lastBuildDate>
     <item>
-      <title>亚洲股市因美联储重新考虑降息而下滑；中国GDP成为焦点</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-16/</link>
-      <description><![CDATA[亚洲股市周二下跌，美元攀升至五个多月高点，原因是美国3月份零售销售强于预期，进一步强化了美联储今年不太可能急于降息的预期。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 01:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>零售销售火爆后美元坚挺，日元疲软；等待中国数据</title>
-      <link>https://www.reuters.com/markets/currencies/dollar-firms-after-hot-retail-sales-yen-languishes-china-data-awaited-2024-04-16/</link>
-      <description><![CDATA[周二，美元兑几种同类货币的汇率略低于11月初以来的最高水平，引发了人们对干预的担忧，因美国零售销售高于预期，日元跌至1990年以来的最低水平。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/dollar-firms-after-hot-retail-sales-yen-languishes-china-data-awaited-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 01:12:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>戴利表示，除非有必要，否则美联储不应采取紧急降息行动</title>
-      <link>https://www.reuters.com/markets/us/us-fed-should-not-act-urgently-when-its-not-required-daly-says-2024-04-16/</link>
-      <description><![CDATA[旧金山联邦储备银行行长玛丽·戴利周一表示，美国“不急于”降息，因为经济和劳动力市场强劲，通胀率仍高于美联储 2% 的目标。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-fed-should-not-act-urgently-when-its-not-required-daly-says-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:54:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI芯片需求强劲，台积电第一季度利润预计增长5%</title>
-      <link>https://www.reuters.com/technology/tsmc-first-quarter-profit-expected-rise-5-strong-ai-chip-demand-2024-04-16/</link>
-      <description><![CDATA[台积电是人工智能应用先进芯片的主要生产商，由于需求强劲，预计周四第一季度利润将增长 5%。]]></description>
-      <guid>https://www.reuters.com/technology/tsmc-first-quarter-profit-expected-rise-5-strong-ai-chip-demand-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:53:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>华纳兄弟探索频道关闭新闻编辑室后，新西兰 Stuff Group 将制作新闻节目</title>
-      <link>https://www.reuters.com/business/media-telecom/new-zealands-stuff-group-produce-news-programme-after-warner-bros-discovery-2024-04-16/</link>
-      <description><![CDATA[新西兰媒体网站 Stuff Group 周二表示，已与华纳兄弟探索频道签署协议，为华纳兄弟探索频道的新西兰电视频道提供下午 6 点的节目。每日新闻节目。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/new-zealands-stuff-group-produce-news-programme-after-warner-bros-discovery-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:47:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本财务大臣表示正在密切关注外汇走势</title>
-      <link>https://www.reuters.com/markets/currencies/japans-finance-minister-says-hes-closely-watching-fx-2024-04-16/</link>
-      <description><![CDATA[日本财务大臣铃木俊一周二表示，在美元飙升至 34 年来的新高后，他正在密切关注汇率走势，并将根据需要提供“彻底的应对措施”。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/japans-finance-minister-says-hes-closely-watching-fx-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:35:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列考虑如何应对伊朗袭击，油价上涨</title>
-      <link>https://www.reuters.com/business/energy/oil-prices-rise-israel-weighs-response-iran-attack-2024-04-16/</link>
-      <description><![CDATA[周二，在中东紧张局势加剧之际，以色列军事首脑表示，在盟国呼吁克制的情况下，以色列将对伊朗周末的导弹和无人机袭击做出回应，油价上涨。]]></description>
-      <guid>https://www.reuters.com/business/energy/oil-prices-rise-israel-weighs-response-iran-attack-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 00:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>再生元公司针对美国司法部关于药品价格操纵的投诉进行辩护</title>
+      <title>再生元公司为美国司法部关于药品定价操纵的投诉进行辩护</title>
       <link>https://www.reuters.com/legal/regeneron-defend-us-justice-departments-complaint-drug-pricing-manipulation-2024-04-15/</link>
-      <description><![CDATA[再生元制药公司周一表示，美国司法部指控该公司误报黄斑变性药物 Eylea 的平均销售价格，该公司将寻求对此进行辩护。]]></description>
+      <description><![CDATA[再生元制药公司周一表示，美国司法部对该公司谎报黄斑变性药物 Eylea 平均销售价格的投诉“毫无根据”，并计划在法庭上对此案进行辩护。]]></description>
       <guid>https://www.reuters.com/legal/regeneron-defend-us-justice-departments-complaint-drug-pricing-manipulation-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 23:24:18 GMT</pubDate>
     </item>
@@ -90,11 +41,53 @@
       <pubDate>Mon, 15 Apr 2024 21:43:57 GMT</pubDate>
     </item>
     <item>
+      <title>高盛表示，趋势对冲基金可能会出售高达 420 亿美元的美国股票</title>
+      <link>https://www.reuters.com/business/finance/hedge-flow-trend-hedge-funds-could-sell-up-42-bln-us-shares-says-goldman-2024-04-15/</link>
+      <description><![CDATA[高盛的一份报告显示，如果股市继续下跌，趋势跟踪对冲基金可能会在下个月出售 200 亿至 420 亿美元的美国股票。]]></description>
+      <guid>https://www.reuters.com/business/finance/hedge-flow-trend-hedge-funds-could-sell-up-42-bln-us-shares-says-goldman-2024-04-15/</guid>
+      <pubDate>Mon, 15 Apr 2024 20:38:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>花旗财富部门CIO Bailin在工作15年后离职</title>
+      <link>https://www.reuters.com/business/finance/citi-wealth-divisions-cio-bailin-depart-2024-04-15/</link>
+      <description><![CDATA[花旗集团全球财富部门首席投资官 (CIO) 大卫·贝林 (David Bailin) 周一在 LinkedIn 上发帖称，他将于 5 月 15 日离职，此前他已在该行工作了 15 年。]]></description>
+      <guid>https://www.reuters.com/business/finance/citi-wealth-divisions-cio-bailin-depart-2024-04-15/</guid>
+      <pubDate>Mon, 15 Apr 2024 19:01:49 GMT</pubDate>
+    </item>
+    <item>
       <title>洛克希德公司赢得美国价值170亿美元的导弹防御合同</title>
       <link>https://www.reuters.com/business/aerospace-defense/lockheed-wins-us-missile-defense-contract-worth-17-bln-sources-say-2024-04-15/</link>
       <description><![CDATA[美国导弹防御局周一表示，洛克希德·马丁公司已获得价值 170 亿美元的合同，用于开发下一代拦截器，以保护美国免受洲际弹道导弹攻击。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/lockheed-wins-us-missile-defense-contract-worth-17-bln-sources-say-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 18:40:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源组织表示更多软件项目可能成为破坏目标</title>
+      <link>https://www.reuters.com/technology/cybersecurity/open-source-groups-say-more-software-projects-may-have-been-targeted-sabotage-2024-04-15/</link>
+      <description><![CDATA[两个开源组织在周一发布的警报中表示，一名身份不明的行为者最近试图破坏一个广泛使用的软件程序，这可能是颠覆互联网数字基础设施关键部分的数次尝试之一。]]></description>
+      <guid>https://www.reuters.com/technology/cybersecurity/open-source-groups-say-more-software-projects-may-have-been-targeted-sabotage-2024-04-15/</guid>
+      <pubDate>Mon, 15 Apr 2024 17:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储逆回购工具跌至近三年来最低水平</title>
+      <link>https://www.reuters.com/markets/us/feds-reverse-repo-facility-shrinks-rapidly-lowest-nearly-three-years-2024-04-15/</link>
+      <description><![CDATA[美联储从货币市场基金和其他基金中获取现金的一项重要工具周一资金流入大幅下降。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-reverse-repo-facility-shrinks-rapidly-lowest-nearly-three-years-2024-04-15/</guid>
+      <pubDate>Mon, 15 Apr 2024 17:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>赌场运营商米高梅起诉 FTC 阻止对 2023 年黑客事件的调查</title>
+      <link>https://www.reuters.com/legal/casino-operator-mgm-sues-ftc-block-probe-into-2023-hack-2024-04-15/</link>
+      <description><![CDATA[米高梅国际酒店集团正在起诉美国联邦贸易委员会，以阻止对去年困扰该赌场运营商的大规模黑客攻击对数据安全影响的调查。]]></description>
+      <guid>https://www.reuters.com/legal/casino-operator-mgm-sues-ftc-block-probe-into-2023-hack-2024-04-15/</guid>
+      <pubDate>Mon, 15 Apr 2024 17:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tapestry 与 Versace 母公司 Capri 的合并获得欧盟和日本批准</title>
+      <link>https://www.reuters.com/markets/deals/tapestry-merger-with-versace-owner-capri-gets-eu-japan-approval-2024-04-15/</link>
+      <description><![CDATA[Coach 母公司 Tapestry 周一表示，以 85 亿美元收购 Michael Kors 所有者 Capri Holdings 的交易已获得欧盟和日本的监管批准。]]></description>
+      <guid>https://www.reuters.com/markets/deals/tapestry-merger-with-versace-owner-capri-gets-eu-japan-approval-2024-04-15/</guid>
+      <pubDate>Mon, 15 Apr 2024 14:59:09 GMT</pubDate>
     </item>
     <item>
       <title>文件显示可能会出售更多股票后，特朗普媒体股价暴跌</title>
@@ -141,9 +134,16 @@
     <item>
       <title>由于中东紧张局势、美国国债收益率承压，股市收低</title>
       <link>https://www.reuters.com/markets/us/futures-bounce-back-last-sessions-battering-amid-middle-east-jitters-2024-04-15/</link>
-      <description><![CDATA[美国股市周一大幅收低，因强劲的零售销售报告带来的早盘提振最终被美国国债收益率的上涨以及对伊朗和以色列之间地缘政治紧张局势加剧的担忧所抵消。]]></description>
+      <description><![CDATA[美国股市周一收盘大幅走低，因强劲的零售销售报告带来的早盘提振最终被美国国债收益率的上涨以及对伊朗和以色列之间地缘政治紧张局势加剧的担忧所抵消。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-bounce-back-last-sessions-battering-amid-middle-east-jitters-2024-04-15/</guid>
       <pubDate>Mon, 15 Apr 2024 09:35:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国向三星提供 64 亿美元补助，以提高德克萨斯州芯片产量</title>
+      <link>https://www.reuters.com/technology/us-award-samsung-64-bln-grants-texas-chip-production-complex-2024-04-15/</link>
+      <description><![CDATA[美国商务部周一表示，拜登政府将向韩国三星公司提供高达 64 亿美元的赠款，以扩大其在德克萨斯州中部的芯片生产，作为促进美国芯片制造的更广泛努力的一部分。]]></description>
+      <guid>https://www.reuters.com/technology/us-award-samsung-64-bln-grants-texas-chip-production-complex-2024-04-15/</guid>
+      <pubDate>Mon, 15 Apr 2024 09:01:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
