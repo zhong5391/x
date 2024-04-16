@@ -1,14 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 14:52:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 15:18:39 GMT</lastBuildDate>
     <item>
-      <title>投行业务反弹，摩根士丹利利润上升</title>
+      <title>杰斐逊表示，如果需要，美联储可能会在更长时间内维持紧缩货币政策</title>
+      <link>https://www.reuters.com/markets/us/fed-could-keep-monetary-policy-tight-longer-if-needed-jefferson-says-2024-04-16/</link>
+      <description><![CDATA[美联储副主席菲利普·杰斐逊周二在讲话中没有提及降息，他表示，如果通胀未能按预期放缓，“在更长时间内维持当前的限制性政策立场将是适当的”。]]></description>
+      <guid>https://www.reuters.com/markets/us/fed-could-keep-monetary-policy-tight-longer-if-needed-jefferson-says-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:45:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stellantis 股东批准首席执行官塔瓦雷斯 2023 年薪酬方案</title>
+      <link>https://www.reuters.com/business/autos-transportation/stellantis-shareholders-approve-ceo-tavares-2023-pay-package-2024-04-16/</link>
+      <description><![CDATA[Stellantis 股东周二批准了向该汽车制造商最高管理层支付的薪酬，其中包括为首席执行官卡洛斯·塔瓦雷斯 (Carlos Tavares) 提供的价值高达 3650 万欧元（合 3880 万美元）的薪酬。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/stellantis-shareholders-approve-ceo-tavares-2023-pay-package-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>耶伦表示美国正在努力减轻全球经济风险</title>
+      <link>https://www.reuters.com/markets/us/yellen-says-us-working-mitigate-risks-global-economy-2024-04-16/</link>
+      <description><![CDATA[美国财政部长珍妮特·耶伦周二表示，强于预期的美国经济增长为全球经济提供了动力，华盛顿正在努力减轻全球前景面临的剩余风险，并确保可持续的长期增长。]]></description>
+      <guid>https://www.reuters.com/markets/us/yellen-says-us-working-mitigate-risks-global-economy-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:32:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 推出适用于商用笔记本电脑和台式机的 AI 芯片</title>
+      <link>https://www.reuters.com/technology/amd-introduces-ai-chips-business-laptops-desktops-2024-04-16/</link>
+      <description><![CDATA[Advanced Micro Devices 周二推出了一系列用于人工智能个人电脑的新芯片，希望扩大其在利润丰厚的“AI PC”市场的份额。]]></description>
+      <guid>https://www.reuters.com/technology/amd-introduces-ai-chips-business-laptops-desktops-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:32:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>北方信托利润因债务投资出售而下降</title>
+      <link>https://www.reuters.com/business/finance/northern-trust-profit-falls-hit-debt-investment-sale-2024-04-16/</link>
+      <description><![CDATA[资产和财富管理公司 Northern Trust 周二公布第一季度利润下降 38%，原因是出售部分债务投资的亏损抵消了服务和管理客户资产的费用收入增加带来的收益。]]></description>
+      <guid>https://www.reuters.com/business/finance/northern-trust-profit-falls-hit-debt-investment-sale-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:26:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>初创公司 Rivos 融资 2.5 亿美元用于开发 RISC-V AI 芯片</title>
+      <link>https://www.reuters.com/technology/startup-rivos-raises-250-million-develop-risc-v-ai-chips-2024-04-16/</link>
+      <description><![CDATA[芯片初创公司 Rivos 周二表示，它在一轮融资中筹集了 2.5 亿美元，这将使其能够制造首款用于人工智能的服务器芯片。]]></description>
+      <guid>https://www.reuters.com/technology/startup-rivos-raises-250-million-develop-risc-v-ai-chips-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 13:14:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国单户住宅开工大幅下降；建筑许可下降</title>
+      <link>https://www.reuters.com/markets/us/us-single-family-housing-starts-plunge-march-2024-04-16/</link>
+      <description><![CDATA[美国单户住宅建设在三月份大幅下滑，尽管待售二手房严重短缺仍然支撑着新建筑，但抵押贷款利率的回升正迫使潜在买家观望。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-single-family-housing-starts-plunge-march-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 12:47:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于政府拒绝债券持有人的提议，斯里兰卡债务重组陷入困境</title>
+      <link>https://www.reuters.com/markets/asia/sri-lanka-fails-agree-restructuring-terms-with-bondholders-2024-04-16/</link>
+      <description><![CDATA[斯里兰卡周二拒绝了国际债券持有人重组超过120亿美元债务的提议，这使得国际货币基金组织(IMF)的关键支持面临风险，并推迟了解决长达两年的债务危机的努力。]]></description>
+      <guid>https://www.reuters.com/markets/asia/sri-lanka-fails-agree-restructuring-terms-with-bondholders-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 12:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>调查显示，美国小型制造商对拜登的大型工业计划表现出热情</title>
+      <link>https://www.reuters.com/markets/us/smaller-us-manufacturers-warm-bidens-big-industrial-plan-survey-shows-2024-04-16/</link>
+      <description><![CDATA[美国的中小型制造商可能正在对拜登政府推动的积极的产业政策有所升温。]]></description>
+      <guid>https://www.reuters.com/markets/us/smaller-us-manufacturers-warm-bidens-big-industrial-plan-survey-shows-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 12:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着投资银行业务反弹和财富增长，摩根士丹利利润超出预期</title>
       <link>https://www.reuters.com/business/finance/morgan-stanleys-profit-rises-investment-banking-recovers-2024-04-16/</link>
-      <description><![CDATA[摩根士丹利第一季度利润增长，主要得益于股票承销带动的投资银行业复苏，收入增长了一倍以上。]]></description>
+      <description><![CDATA[受投资银行业务复苏和财富管理业务增长的推动，摩根士丹利周二第一季度利润超出预期，股价上涨 1.8%。]]></description>
       <guid>https://www.reuters.com/business/finance/morgan-stanleys-profit-rises-investment-banking-recovers-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 11:34:16 GMT</pubDate>
     </item>
@@ -20,32 +83,11 @@
       <pubDate>Tue, 16 Apr 2024 10:57:33 GMT</pubDate>
     </item>
     <item>
-      <title>美国银行利润因客户利息支付减少而下降</title>
+      <title>美国银行利润因准备金增加而下降，但超出了投资银行业务激增的预期</title>
       <link>https://www.reuters.com/business/finance/bank-america-profit-falls-lower-customer-interest-payments-2024-04-16/</link>
-      <description><![CDATA[美国银行第一季度利润下降，原因是其消费者部门疲软，且该银行注销了更多贷款，尤其是信用卡贷款。]]></description>
+      <description><![CDATA[美国银行公布第一季度利润下降，因为该银行拨出更多资金来支付不良贷款，但仍超出了投资银行费用飙升的预期。]]></description>
       <guid>https://www.reuters.com/business/finance/bank-america-profit-falls-lower-customer-interest-payments-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 10:49:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本日产押注固态电池，为下一代电动汽车提供千兆广播</title>
-      <link>https://www.reuters.com/business/autos-transportation/japans-nissan-bets-solid-state-batteries-gigacasting-next-gen-evs-2024-04-16/</link>
-      <description><![CDATA[日本日产汽车周二表示，该公司将于 2029 年初开始大规模生产电动汽车固态电池，并使用大型铸造机，以提高未来车型的效率并降低成本。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/japans-nissan-bets-solid-state-batteries-gigacasting-next-gen-evs-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:43:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>据英国《金融时报》报道，亿滋国际因阻止跨境销售而被欧盟处以罚款</title>
-      <link>https://www.reuters.com/business/retail-consumer/eu-fine-mondelez-blocking-cross-border-sales-ft-reports-2024-04-16/</link>
-      <description><![CDATA[英国《金融时报》周二援引知情人士的话报道称，欧盟将因奥利奥制造商亿滋国际 (Mondelez International) 阻止跨境销售而对其处以罚款。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/eu-fine-mondelez-blocking-cross-border-sales-ft-reports-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:41:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国政府消息人士称，世界经济将摆脱衰退，但增长过低</title>
-      <link>https://www.reuters.com/markets/world-economy-skirt-recession-growth-too-low-german-government-sources-say-2024-04-16/</link>
-      <description><![CDATA[德国政府消息人士称，全球经济衰退的危险已基本避免，但增长将微乎其微，他指的是国际货币基金组织将于周二晚些时候发布的预测。]]></description>
-      <guid>https://www.reuters.com/markets/world-economy-skirt-recession-growth-too-low-german-government-sources-say-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:39:37 GMT</pubDate>
     </item>
     <item>
       <title>纽约梅隆银行季度业绩因服务费上涨而超过华尔街预期</title>
@@ -55,13 +97,6 @@
       <pubDate>Tue, 16 Apr 2024 10:38:49 GMT</pubDate>
     </item>
     <item>
-      <title>由于 Stelara 销售令人失望，强生第一季度收入低于预期</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/jj-beats-first-quarter-profit-estimates-cancer-drugs-strength-2024-04-16/</link>
-      <description><![CDATA[强生公司强生公司公布的季度收入低于分析师的预期，因为其重磅牛皮癣药物 Stelara 的销售额预计将在今年晚些时候在一些市场面临来自生物仿制药版本的竞争，但其销售额未达到预期。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/jj-beats-first-quarter-profit-estimates-cancer-drugs-strength-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:22:57 GMT</pubDate>
-    </item>
-    <item>
       <title>唐纳德·特朗普的媒体公司将分阶段推出流媒体平台</title>
       <link>https://www.reuters.com/business/media-telecom/donald-trumps-media-firm-roll-out-streaming-platform-phases-2024-04-16/</link>
       <description><![CDATA[特朗普媒体与经过六个月的测试后，Truth Social 母公司周二表示，科技集团计划分阶段推出直播电视流媒体平台。]]></description>
@@ -69,16 +104,9 @@
       <pubDate>Tue, 16 Apr 2024 10:21:18 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔玛支持的 Ibotta 计划在美国 IPO 规模扩大中筹集 5.51 亿美元</title>
-      <link>https://www.reuters.com/markets/deals/walmart-backed-ibotta-looks-raise-551-mln-upsized-us-ipo-2024-04-16/</link>
-      <description><![CDATA[沃尔玛支持的数字营销公司 Ibotta 周二表示，计划在美国进行大规模首次公开募股，筹集约 5.51 亿美元资金。]]></description>
-      <guid>https://www.reuters.com/markets/deals/walmart-backed-ibotta-looks-raise-551-mln-upsized-us-ipo-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>联合健康保健提振道琼斯指数期货上涨；债券收益率、中东紧张局势承压</title>
+      <title>快照 道琼斯指数和标准普尔指数开盘走高，乐观的盈利掩盖了中东的不安情绪</title>
       <link>https://www.reuters.com/markets/us/futures-ease-bond-yields-stay-elevated-amid-middle-east-tensions-2024-04-16/</link>
-      <description><![CDATA[周二，由于联合健康集团的强劲业绩，追踪道琼斯指数的期货表现优于同业，而中东紧张局势加剧导致美国国债收益率上升，限制了涨幅。]]></description>
+      <description><![CDATA[道指和标准普尔 500 指数周二开盘走高，医疗保险公司在行业巨头联合健康 (UnitedHealth) 的乐观业绩带动下领涨，而投资者则密切关注中东冲突。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-bond-yields-stay-elevated-amid-middle-east-tensions-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 10:13:50 GMT</pubDate>
     </item>
@@ -90,13 +118,6 @@
       <pubDate>Tue, 16 Apr 2024 10:10:29 GMT</pubDate>
     </item>
     <item>
-      <title>元监督委员会审查人工智能制作的名人色情内容的处理</title>
-      <link>https://www.reuters.com/technology/meta-oversight-board-reviews-handling-ai-created-celebrity-porn-2024-04-16/</link>
-      <description><![CDATA[Meta Platforms 监督委员会周二表示，该公司正在审查该公司对两张由人工智能生成的女性名人色情图片的处理情况，这些图片在其 Facebook 和 Instagram 服务上流传。]]></description>
-      <guid>https://www.reuters.com/technology/meta-oversight-board-reviews-handling-ai-created-celebrity-porn-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:04:07 GMT</pubDate>
-    </item>
-    <item>
       <title>早盘竞价：炙手可热的零售数据推动美国经济和美元</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-16/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
@@ -104,18 +125,11 @@
       <pubDate>Tue, 16 Apr 2024 10:03:37 GMT</pubDate>
     </item>
     <item>
-      <title>UnitedHealth 因 Change Healthcare 黑客攻击而损失 8.72 亿美元</title>
+      <title>UnitedHealth 今年将承担 Change Healthcare 黑客攻击造成的高达 16 亿美元的损失</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/unitedhealth-warns-115-135share-hit-this-year-hack-2024-04-16/</link>
-      <description><![CDATA[联合健康集团 (UnitedHealth Group) 预计，今年 2 月份其 Change Healthcare 部门遭受的网络攻击造成的中断将造成高达 16 亿美元的损失。]]></description>
+      <description><![CDATA[联合健康集团 (UnitedHealth Group) 周二表示，预计其 Change Healthcare 部门遭到黑客攻击将导致该公司今年损失高达 16 亿美元，但维持 2024 年盈利预测不变，这表明网络攻击的影响没有华尔街许多人担心的那么严重。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/unitedhealth-warns-115-135share-hit-this-year-hack-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 10:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国贸易主管戴秉国表示正在“认真研究”与中国打交道的工具</title>
-      <link>https://www.reuters.com/world/us-trade-chief-tai-says-taking-serious-look-tools-deal-with-china-2024-04-16/</link>
-      <description><![CDATA[美国贸易代表凯瑟琳·戴将于周二告诉议员，拜登政府正在“认真研究”美国的贸易防御工具，以应对中国贸易和经济政策构成的威胁，包括审查特朗普时代对中国进口商品征收的关税。]]></description>
-      <guid>https://www.reuters.com/world/us-trade-chief-tai-says-taking-serious-look-tools-deal-with-china-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 09:06:02 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉全球裁员包括主要市场美国和中国</title>
@@ -125,25 +139,11 @@
       <pubDate>Tue, 16 Apr 2024 08:50:21 GMT</pubDate>
     </item>
     <item>
-      <title>中国囤积美元和人民币贬值的恶性循环</title>
-      <link>https://www.reuters.com/markets/currencies/chinas-cycle-dollar-hoarding-weakening-yuan-gets-vicious-2024-04-16/</link>
-      <description><![CDATA[中国企业囤积美元是因为他们预计本国货币会贬值，而这反过来又加剧了人民币因股市波动和世界第二大经济体增长乏力而贬值。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/chinas-cycle-dollar-hoarding-weakening-yuan-gets-vicious-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 08:05:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官驳回针对 Meta 创始人扎克伯格的社交媒体损害指控</title>
+      <title>法官驳回针对 Meta 扎克伯格的社交媒体损害指控</title>
       <link>https://www.reuters.com/legal/judge-dismisses-some-claims-against-metas-zuckerberg-over-social-media-harm-2024-04-16/</link>
       <description><![CDATA[Meta Platforms 首席执行官马克·扎克伯格 (Mark Zuckerberg) 周一赢得了十几起诉讼中的部分诉讼，这些诉讼指控他向公众隐瞒 Facebook 和 Instagram 对儿童有害的事实。]]></description>
       <guid>https://www.reuters.com/legal/judge-dismisses-some-claims-against-metas-zuckerberg-over-social-media-harm-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 03:43:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>三月份季度中国经济增长快于预期</title>
-      <link>https://www.reuters.com/world/china/chinas-q1-gdp-grows-faster-than-expected-policy-support-2024-04-16/</link>
-      <description><![CDATA[周二公布的数据显示，中国第一季度经济增长快于预期，这让官员们在房地产行业长期疲软和地方政府债务不断增加的情况下努力提振经济增长时松了口气。]]></description>
-      <guid>https://www.reuters.com/world/china/chinas-q1-gdp-grows-faster-than-expected-policy-support-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 02:23:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
