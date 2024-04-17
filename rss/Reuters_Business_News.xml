@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 17 Apr 2024 07:39:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 07:53:10 GMT</lastBuildDate>
     <item>
       <title>ASML公布第一季度盈利13亿美元，新订单差于预期</title>
       <link>https://www.reuters.com/technology/asml-reports-q1-earnings-13-billion-worse-than-expected-new-bookings-2024-04-17/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>美联储鲍威尔重新考虑降息，亚洲股市涨跌互现，收益率飙升</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-17/</link>
-      <description><![CDATA[亚洲股市周三涨跌互现，全球最有权势的央行行长对美国今年降息的态度发生了改变，推动美国国债收益率创五个月新高，美元兑其他货币飙升。]]></description>
+      <description><![CDATA[亚洲股市周三涨跌互现，因为全球最有权势的央行行长对美国今年降息的态度发生了改变，推动美国国债收益率创五个月新高，美元兑其他货币飙升。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 02:11:13 GMT</pubDate>
     </item>
@@ -92,14 +92,14 @@
     <item>
       <title>日元疲软提振日本出口，但进口费用上涨损害商业情绪</title>
       <link>https://www.reuters.com/markets/asia/japans-exports-grow-amid-weak-yen-higher-import-bills-hurt-business-mood-2024-04-17/</link>
-      <description><![CDATA[受运往美国的汽车出口的推动，日本3月份出口连续第四个月增长，尽管大公司的商业信心因日元贬值而恶化，并表明经济稳步复苏尚需时日。]]></description>
+      <description><![CDATA[受运往美国的汽车出口的推动，日本3月份出口连续第四个月增长，尽管大公司的商业信心因日元贬值而恶化，并表明经济的稳步复苏尚需时日。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-exports-grow-amid-weak-yen-higher-import-bills-hurt-business-mood-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 00:22:50 GMT</pubDate>
     </item>
     <item>
       <title>在中国的贸易展览会上，出口商对他们的商品“像卷心菜一样便宜”感到绝望</title>
       <link>https://www.reuters.com/markets/commodities/chinese-trade-fair-exporters-despair-their-goods-are-as-cheap-cabbage-2024-04-16/</link>
-      <description><![CDATA[吴华占的中国电视工厂过去常常实行最低订单，以有效管理生产。现在时代如此惨淡，任何命令都可以。]]></description>
+      <description><![CDATA[吴华占的中国电视机厂过去常常实行最低订单，以有效管理生产。现在形势如此严峻，工厂会接受任何订单。]]></description>
       <guid>https://www.reuters.com/markets/commodities/chinese-trade-fair-exporters-despair-their-goods-are-as-cheap-cabbage-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 23:06:32 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>摩根士丹利利润超出预期，投资银行业务和财富收入增加</title>
       <link>https://www.reuters.com/business/finance/morgan-stanleys-profit-rises-investment-banking-recovers-2024-04-16/</link>
-      <description><![CDATA[受投行业务复苏和财富管理业务增长的推动，摩根士丹利周二第一季度利润超出预期，股价上涨 3.7%。]]></description>
+      <description><![CDATA[受投资银行业务复苏和财富管理业务增长的推动，摩根士丹利周二第一季度利润超出预期，股价上涨 3.7%。]]></description>
       <guid>https://www.reuters.com/business/finance/morgan-stanleys-profit-rises-investment-banking-recovers-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 11:34:16 GMT</pubDate>
     </item>
