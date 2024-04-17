@@ -1,21 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 17 Apr 2024 06:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 06:48:39 GMT</lastBuildDate>
     <item>
-      <title>苹果首席执行官表示正在研究在印度尼西亚建立制造工厂的可能性</title>
+      <title>ASML公布第一季度盈利13亿美元，新订单差于预期</title>
+      <link>https://www.reuters.com/technology/asml-reports-q1-earnings-13-billion-worse-than-expected-new-bookings-2024-04-17/</link>
+      <description><![CDATA[计算机芯片制造商最大的设备供应商 ASML 周三公布第一季度盈利 12.2 亿欧元（13 亿美元），新订单流入 36 亿欧元，低于预期。]]></description>
+      <guid>https://www.reuters.com/technology/asml-reports-q1-earnings-13-billion-worse-than-expected-new-bookings-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 05:07:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GQG、Fidelity 收购印度 Vodafone Idea 价值 2.61 亿美元的股票</title>
+      <link>https://www.reuters.com/business/media-telecom/gqg-fidelity-pick-up-shares-worth-261-mln-indias-vodafone-idea-2024-04-17/</link>
+      <description><![CDATA[印度 Vodafone Idea 表示，投资公司 GQG 和 Fidelity 购买了价值 2.61 亿美元的股票，这是这家负债累累的电信运营商计划出售 21.6 亿美元股票的一部分。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/gqg-fidelity-pick-up-shares-worth-261-mln-indias-vodafone-idea-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 04:59:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：美元多头进入中国市场</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-04-17/</link>
+      <description><![CDATA[汤姆·威斯布鲁克 (Tom Westbrook) 对欧洲和全球市场未来一天的展望]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 04:33:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Telegram 平台创始人称年内用户数将突破 10 亿</title>
+      <link>https://www.reuters.com/technology/telegram-platform-hit-1-bln-users-within-year-founder-says-2024-04-17/</link>
+      <description><![CDATA[Telegram 消息应用程序是乌克兰和俄罗斯最受欢迎的社交媒体平台之一，其创始人在周二发表的讲话中表示，一年内月活跃用户数可能会突破 10 亿。]]></description>
+      <guid>https://www.reuters.com/technology/telegram-platform-hit-1-bln-users-within-year-founder-says-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 04:33:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果首席执行官表示正在考虑在印度尼西亚设立制造工厂</title>
       <link>https://www.reuters.com/technology/apple-ceo-says-looking-into-possibility-building-manufacturing-facility-2024-04-17/</link>
-      <description><![CDATA[苹果公司首席执行官周三在会见总统佐科维多多后表示，将研究在印度尼西亚建立制造工厂的可能性。]]></description>
+      <description><![CDATA[苹果公司首席执行官周三在会见总统佐科·维多多后表示，将考虑在印度尼西亚建立一家制造工厂，佐科·维多多希望这家科技巨头通过与国内公司合作来增加其本地含量。]]></description>
       <guid>https://www.reuters.com/technology/apple-ceo-says-looking-into-possibility-building-manufacturing-facility-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 03:46:25 GMT</pubDate>
     </item>
     <item>
       <title>中国比亚迪推出三款越野防城宝新车型</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-byd-unveils-three-new-models-its-off-road-fangchengbao-lineup-2024-04-17/</link>
-      <description><![CDATA[随着中国电动汽车巨头比亚迪加大力度向高价细分市场销售，比亚迪以其高端品牌方成宝推出了三款新车型，其中包括两款概念车。]]></description>
+      <description><![CDATA[随着中国电动汽车巨头比亚迪加大力度进军高价细分市场，比亚迪以其高端品牌方成宝推出了三款新车型，其中包括两款概念车。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-unveils-three-new-models-its-off-road-fangchengbao-lineup-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 03:31:34 GMT</pubDate>
     </item>
@@ -29,7 +57,7 @@
     <item>
       <title>消息人士称，摩根士丹利在亚太地区削减了数十个投资银行职位</title>
       <link>https://www.reuters.com/business/finance/morgan-stanley-cut-around-50-investment-banking-jobs-asia-pacific-sources-say-2024-04-17/</link>
-      <description><![CDATA[两位知情人士称，由于交易量下滑，摩根士丹利将在亚太地区裁员至少 50 个投行职位。]]></description>
+      <description><![CDATA[三名消息人士称，摩根士丹利将在亚太地区裁员至少 50 个投资银行职位，成为最新一家因中国市场低迷而缩减在该地区业务的全球银行。]]></description>
       <guid>https://www.reuters.com/business/finance/morgan-stanley-cut-around-50-investment-banking-jobs-asia-pacific-sources-say-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 02:58:15 GMT</pubDate>
     </item>
@@ -41,7 +69,7 @@
       <pubDate>Wed, 17 Apr 2024 02:11:13 GMT</pubDate>
     </item>
     <item>
-      <title>美联储言论挫败降息押注后美元稳定，日元脆弱</title>
+      <title>美联储言论挫败降息押注后美元稳定，日元疲软</title>
       <link>https://www.reuters.com/markets/currencies/dollar-steady-yen-fragile-after-fed-comments-dash-rate-cut-bets-2024-04-17/</link>
       <description><![CDATA[包括主席杰罗姆·鲍威尔在内的美联储官员表示，美国利率可能会在更长时间内保持较高水平，周三美元基本稳定，日元汇率维持在34年低点附近。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-steady-yen-fragile-after-fed-comments-dash-rate-cut-bets-2024-04-17/</guid>
@@ -55,18 +83,18 @@
       <pubDate>Wed, 17 Apr 2024 01:20:37 GMT</pubDate>
     </item>
     <item>
-      <title>独家：越南“史无前例”240亿美元救助陷入巨额欺诈的银行</title>
+      <title>独家：越南“史无前例”地救助陷入巨额欺诈的银行240亿美元</title>
       <link>https://www.reuters.com/business/finance/vietnam-mounts-unprecedented-24-billion-rescue-bank-engulfed-giant-fraud-2024-04-17/</link>
       <description><![CDATA[根据三份银行文件和一位知情人士向路透社提供的新官方信息，越南对西贡股份商业银行（SCB）进行了“史无前例”的救援，这家银行卷入了该国最大的金融欺诈案。]]></description>
       <guid>https://www.reuters.com/business/finance/vietnam-mounts-unprecedented-24-billion-rescue-bank-engulfed-giant-fraud-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 01:03:05 GMT</pubDate>
     </item>
     <item>
-      <title>力拓高管称力拓计划将Resolution的铜留在美国</title>
-      <link>https://www.reuters.com/markets/commodities/rio-tinto-aims-keep-resolutions-copper-us-executive-says-2024-04-16/</link>
-      <description><![CDATA[一位高级管理人员周二表示，如果这个长期拖延且有争议的项目获得监管部门的批准，力拓的目标是将其决议矿的所有铜保留在美国境内。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/rio-tinto-aims-keep-resolutions-copper-us-executive-says-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 23:21:18 GMT</pubDate>
+      <title>日元疲软提振日本出口，但进口费用上涨损害商业情绪</title>
+      <link>https://www.reuters.com/markets/asia/japans-exports-grow-amid-weak-yen-higher-import-bills-hurt-business-mood-2024-04-17/</link>
+      <description><![CDATA[受运往美国的汽车出口的推动，日本3月份出口连续第四个月增长，尽管大公司的商业信心因日元贬值而恶化，并表明经济稳步复苏尚需时日。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japans-exports-grow-amid-weak-yen-higher-import-bills-hurt-business-mood-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 00:22:50 GMT</pubDate>
     </item>
     <item>
       <title>在中国的贸易展览会上，出口商对他们的商品“像卷心菜一样便宜”感到绝望</title>
@@ -74,20 +102,6 @@
       <description><![CDATA[吴华占的中国电视工厂过去常常实行最低订单，以有效管理生产。现在时代如此惨淡，任何命令都可以。]]></description>
       <guid>https://www.reuters.com/markets/commodities/chinese-trade-fair-exporters-despair-their-goods-are-as-cheap-cabbage-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 23:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>两名美国议员对迪士尼、福克斯和华纳体育流媒体企业表示担忧</title>
-      <link>https://www.reuters.com/business/media-telecom/two-us-lawmakers-raise-concerns-over-disney-fox-warner-sports-streaming-venture-2024-04-16/</link>
-      <description><![CDATA[美国议员杰里·纳德勒和华金·卡斯特罗周二对华特迪士尼、福克斯和华纳兄弟探索频道计划成立的体育流媒体合资企业提出了竞争担忧。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/two-us-lawmakers-raise-concerns-over-disney-fox-warner-sports-streaming-venture-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 22:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>早间买盘：鲍威尔的宽松希望破灭，市场再次下跌</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-16/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 21:48:10 GMT</pubDate>
     </item>
     <item>
       <title>《侠盗猎车手》制作商 Take-Two 将裁掉 5% 的员工并取消部分项目</title>
@@ -125,25 +139,11 @@
       <pubDate>Tue, 16 Apr 2024 11:34:16 GMT</pubDate>
     </item>
     <item>
-      <title>美国银行利润因信用卡和办公贷款损失而受损</title>
-      <link>https://www.reuters.com/business/finance/bank-america-profit-falls-lower-customer-interest-payments-2024-04-16/</link>
-      <description><![CDATA[美国银行(Bank of America)第一季度利润萎缩，且该行拨出更多资金来支付财务状况恶化的消费者的不良贷款，周二该银行股价下跌逾3%。]]></description>
-      <guid>https://www.reuters.com/business/finance/bank-america-profit-falls-lower-customer-interest-payments-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:49:21 GMT</pubDate>
-    </item>
-    <item>
       <title>由于国债收益率和利率预期上升，华尔街股市收低</title>
       <link>https://www.reuters.com/markets/us/futures-ease-bond-yields-stay-elevated-amid-middle-east-tensions-2024-04-16/</link>
-      <description><![CDATA[由于美国国债收益率攀升，华尔街股市周二在震荡交易中收低，投资者正在权衡美国经济弹性和通胀持续的情况下利率的可能走向。]]></description>
+      <description><![CDATA[由于美国国债收益率攀升，华尔街股市周二在震荡交易中收低，投资者正在权衡美国经济弹性和通胀持续的情况下可能的利率走势。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-ease-bond-yields-stay-elevated-amid-middle-east-tensions-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 10:13:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉全球裁员包括主要市场美国和中国</title>
-      <link>https://www.reuters.com/business/autos-transportation/teslas-global-job-cuts-include-leading-markets-us-china-2024-04-16/</link>
-      <description><![CDATA[五位知情人士表示，特斯拉的全球裁员计划包括在美国和中国这两个汽车制造商最大的销售、技术和工程市场裁员。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/teslas-global-job-cuts-include-leading-markets-us-china-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 08:50:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
