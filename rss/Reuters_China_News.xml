@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 16 Apr 2024 23:51:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 01:17:46 GMT</lastBuildDate>
     <item>
-      <title>早间买盘：鲍威尔的宽松希望破灭，市场再次下跌</title>
+      <title>所罗门群岛选举投票受到中美关注，以影响地区安全</title>
+      <link>https://www.reuters.com/world/asia-pacific/solomon-islands-votes-election-watched-by-china-us-regional-security-impact-2024-04-16/</link>
+      <description><![CDATA[所罗门群岛于周三开始全国选举投票，这是自 2022 年总理玛纳西·索加瓦雷 (Manasseh Sogavare) 与中国达成安全协议以来的首次选举，拉近了这个太平洋岛国与北京的距离。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/solomon-islands-votes-election-watched-by-china-us-regional-security-impact-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 23:11:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>在中国的贸易展览会上，出口商对他们的商品“像卷心菜一样便宜”感到绝望</title>
+      <link>https://www.reuters.com/markets/commodities/chinese-trade-fair-exporters-despair-their-goods-are-as-cheap-cabbage-2024-04-16/</link>
+      <description><![CDATA[吴华占的中国电视工厂过去常常实行最低订单，以有效管理生产。现在时代如此惨淡，任何命令都可以。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/chinese-trade-fair-exporters-despair-their-goods-are-as-cheap-cabbage-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 23:06:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于日元疲软给家庭带来压力，日本企业商业情绪下滑</title>
+      <link>https://www.reuters.com/markets/asia/japan-firms-business-mood-slips-weak-yen-squeezes-households-2024-04-16/</link>
+      <description><![CDATA[路透月度调查显示，受生活成本压力和主要市场中国经济状况不稳定的拖累，日本大型制造商和服务业公司四月份的商业信心较上月下滑。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japan-firms-business-mood-slips-weak-yen-squeezes-households-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 23:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘买盘：鲍威尔的宽松希望破灭，市场再次下跌</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-16/</link>
       <description><![CDATA[展望未来一天的亚洲市场。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-16/</guid>
@@ -22,7 +43,7 @@
     <item>
       <title>布林肯访问期间表示中国对俄罗斯国防工业基地的支持</title>
       <link>https://www.reuters.com/world/blinken-raise-chinas-support-russias-defense-industrial-base-during-visit-2024-04-16/</link>
-      <description><![CDATA[美国国务院发言人马修·米勒周二表示，美国国务卿安东尼·布林肯即将对中国进行的访问预计将引起美国的担忧，北京正在帮助俄罗斯建立国防工业基础以应对乌克兰战争。]]></description>
+      <description><![CDATA[美国国务院发言人马修·米勒周二表示，美国国务卿安东尼·布林肯即将对中国进行的访问预计将引起美国对北京帮助俄罗斯建立国防工业基础以应对乌克兰战争的担忧。]]></description>
       <guid>https://www.reuters.com/world/blinken-raise-chinas-support-russias-defense-industrial-base-during-visit-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 19:08:46 GMT</pubDate>
     </item>
@@ -113,7 +134,7 @@
     <item>
       <title>德国肖尔茨：我要求中国习近平向俄罗斯施压，要求其停止战争</title>
       <link>https://www.reuters.com/world/europe/germanys-scholz-i-asked-chinas-xi-pressure-russia-stop-war-2024-04-16/</link>
-      <description><![CDATA[德国总理奥拉夫·肖尔茨周二表示，他已要求中国国家主席习近平对俄罗斯施加影响，以结束乌克兰战争，并补充说，两位领导人都拒绝袭击核设施。]]></description>
+      <description><![CDATA[德国总理奥拉夫·肖尔茨周二表示，他已要求中国国家主席习近平对俄罗斯施加影响，以结束乌克兰战争，并补充说，两位领导人都拒绝对核设施发动袭击。]]></description>
       <guid>https://www.reuters.com/world/europe/germanys-scholz-i-asked-chinas-xi-pressure-russia-stop-war-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 11:33:35 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[德国总理奥拉夫·肖尔茨周二表示，德国不想与中国“脱钩”，但呼吁在结构性问题上取得进展并提高合作质量。]]></description>
       <guid>https://www.reuters.com/world/europe/germanys-scholz-no-decoupling-china-need-progress-structural-issues-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 10:23:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：消息人士称，盛宝银行正在探索包括出售在内的战略选择</title>
-      <link>https://www.reuters.com/business/finance/saxo-bank-explores-strategic-options-including-sale-sources-say-2024-04-16/</link>
-      <description><![CDATA[四位知情人士告诉路透社，在与一家空白支票公司的合并谈判破裂 18 个月后，丹麦盛宝银行正在考虑出售的可能性。]]></description>
-      <guid>https://www.reuters.com/business/finance/saxo-bank-explores-strategic-options-including-sale-sources-say-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：炙手可热的零售数据推动美国经济和美元</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-16/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列战时内阁将有关伊朗袭击的第三次会议推迟至周三</title>
-      <link>https://www.reuters.com/world/middle-east/iaea-chief-worried-israel-could-strike-iran-nuclear-facilities-2024-04-15/</link>
-      <description><![CDATA[以色列战时内阁第三次会议定于周二举行，决定如何应对伊朗首次直接袭击，但会议被推迟到周三，因为西方盟国希望迅速对德黑兰实施新的制裁，以帮助阻止以色列的重大升级。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/iaea-chief-worried-israel-could-strike-iran-nuclear-facilities-2024-04-15/</guid>
-      <pubDate>Mon, 15 Apr 2024 22:10:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
