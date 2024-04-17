@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 17 Apr 2024 11:44:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 11:58:40 GMT</lastBuildDate>
     <item>
       <title>美国国家公路交通安全管理局 (NHTSA) 对 300 万辆本田汽车的制动问题展开调查</title>
       <link>https://www.reuters.com/business/autos-transportation/us-nhtsa-opens-probe-into-braking-issues-3-mln-honda-vehicles-2024-04-17/</link>
@@ -48,9 +48,9 @@
       <pubDate>Wed, 17 Apr 2024 09:04:15 GMT</pubDate>
     </item>
     <item>
-      <title>大众将与小鹏汽车合作推出新架构，以降低中国电动汽车成本</title>
+      <title>大众汽车将与小鹏汽车合作推出新架构以降低中国电动汽车成本</title>
       <link>https://www.reuters.com/business/autos-transportation/volkswagen-roll-out-new-architecture-with-xpeng-cut-china-ev-costs-2024-04-17/</link>
-      <description><![CDATA[大众汽车周三表示，它已与中国合作伙伴小鹏汽车开发了一种新的智能电动汽车架构，这家德国汽车制造商表示，这将有助于其在其最大的市场上提供更实惠的电动汽车。]]></description>
+      <description><![CDATA[大众汽车公司周三表示，它已经与中国合作伙伴小鹏汽车开发了一种新的智能电动汽车架构，这家德国汽车制造商表示，这将有助于其在其最大的市场上提供更实惠的电动汽车。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/volkswagen-roll-out-new-architecture-with-xpeng-cut-china-ev-costs-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 08:47:40 GMT</pubDate>
     </item>
@@ -106,12 +106,12 @@
     <item>
       <title>摩根士丹利和汇丰银行因交易放缓而削减数十个亚洲投资银行职位</title>
       <link>https://www.reuters.com/business/finance/morgan-stanley-cut-around-50-investment-banking-jobs-asia-pacific-sources-say-2024-04-17/</link>
-      <description><![CDATA[据知情人士透露，摩根士丹利和汇丰银行本周将在亚太地区裁员数十个投资银行职位，因为中国和香港的交易活动疲软以及市场低迷影响了它们的业务前景。]]></description>
+      <description><![CDATA[据知情人士透露，摩根士丹利和汇丰银行本周将在亚太地区裁员数十个投资银行职位，因为交易活动疲软以及中国和香港市场低迷影响了它们的业务前景。]]></description>
       <guid>https://www.reuters.com/business/finance/morgan-stanley-cut-around-50-investment-banking-jobs-asia-pacific-sources-say-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 02:58:15 GMT</pubDate>
     </item>
     <item>
-      <title>股票保持稳定，但债券受到美联储失望情绪的打击</title>
+      <title>股市稳定，但债券受到美联储失望的打击</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-17/</link>
       <description><![CDATA[周三世界股市企稳，尽管投资者对美国利率长期保持高位的前景保持谨慎，这反过来推动美国国债收益率升至五个月高点并提振美元。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-17/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>摩根士丹利利润超出预期，投资银行业务和财富收入增加</title>
       <link>https://www.reuters.com/business/finance/morgan-stanleys-profit-rises-investment-banking-recovers-2024-04-16/</link>
-      <description><![CDATA[受投资银行业务复苏和财富管理业务增长的推动，摩根士丹利周二第一季度利润超出预期，股价上涨 3.7%。]]></description>
+      <description><![CDATA[受投行业务复苏和财富管理业务增长的推动，摩根士丹利周二第一季度利润超出预期，股价上涨 3.7%。]]></description>
       <guid>https://www.reuters.com/business/finance/morgan-stanleys-profit-rises-investment-banking-recovers-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 11:34:16 GMT</pubDate>
     </item>
