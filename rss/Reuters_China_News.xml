@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 17 Apr 2024 02:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 02:48:49 GMT</lastBuildDate>
+    <item>
+      <title>美联储言论挫败降息押注后美元稳定，日元脆弱</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-steady-yen-fragile-after-fed-comments-dash-rate-cut-bets-2024-04-17/</link>
+      <description><![CDATA[包括主席杰罗姆·鲍威尔在内的美联储官员表示，美国利率可能会在更长时间内保持较高水平，周三美元基本稳定，日元汇率维持在34年低点附近。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-steady-yen-fragile-after-fed-comments-dash-rate-cut-bets-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 01:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国国防部长表示，中美应找到发展务实军事关系的途径</title>
+      <link>https://www.reuters.com/world/china-us-should-find-ways-pragmatic-military-relations-chinese-defence-minister-2024-04-17/</link>
+      <description><![CDATA[中国国防部长周三表示，中美两国应探讨发展两军务实合作关系，“逐步积累互信”。]]></description>
+      <guid>https://www.reuters.com/world/china-us-should-find-ways-pragmatic-military-relations-chinese-defence-minister-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 01:08:42 GMT</pubDate>
+    </item>
     <item>
       <title>所罗门群岛选举投票受到中美关注，以影响地区安全</title>
       <link>https://www.reuters.com/world/asia-pacific/solomon-islands-votes-election-watched-by-china-us-regional-security-impact-2024-04-16/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[据三名政府官员和路透社看到的一份文件称，印度推迟批准 Paytm 对其 Paytm 支付服务部门 5 亿卢比（600 万美元）的投资，部分原因是担心中国在母公司持股。]]></description>
       <guid>https://www.reuters.com/world/india/india-defers-approval-paytms-investment-its-payments-arm-sources-say-2024-04-16/</guid>
       <pubDate>Tue, 16 Apr 2024 11:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国肖尔茨：我要求中国习近平向俄罗斯施压，要求其停止战争</title>
-      <link>https://www.reuters.com/world/europe/germanys-scholz-i-asked-chinas-xi-pressure-russia-stop-war-2024-04-16/</link>
-      <description><![CDATA[德国总理奥拉夫·肖尔茨周二表示，他已要求中国国家主席习近平对俄罗斯施加影响，以结束乌克兰战争，并补充说，两位领导人都拒绝袭击核设施。]]></description>
-      <guid>https://www.reuters.com/world/europe/germanys-scholz-i-asked-chinas-xi-pressure-russia-stop-war-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 11:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国财长肖尔茨：不会与中国脱钩，但需要在结构性问题上取得进展</title>
-      <link>https://www.reuters.com/world/europe/germanys-scholz-no-decoupling-china-need-progress-structural-issues-2024-04-16/</link>
-      <description><![CDATA[德国总理奥拉夫·肖尔茨周二表示，德国不想与中国“脱钩”，但呼吁在结构性问题上取得进展并提高合作质量。]]></description>
-      <guid>https://www.reuters.com/world/europe/germanys-scholz-no-decoupling-china-need-progress-structural-issues-2024-04-16/</guid>
-      <pubDate>Tue, 16 Apr 2024 10:23:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
