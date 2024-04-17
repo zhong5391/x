@@ -4,21 +4,7 @@
     <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 17 Apr 2024 23:06:45 GMT</lastBuildDate>
-    <item>
-      <title>早盘竞价：投资者喘口气，外汇走势加剧</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-17/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 21:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国财长表示欧洲必须捍卫工业利益对抗中国</title>
-      <link>https://www.reuters.com/markets/europe/french-finance-minister-says-europe-must-defend-industrial-interests-against-2024-04-17/</link>
-      <description><![CDATA[法国财政部长布鲁诺·勒梅尔周三表示，欧洲需要“拿出牙齿”来捍卫其工业和贸易利益，对抗中国的生产补贴，但他表示不想发动贸易战。]]></description>
-      <guid>https://www.reuters.com/markets/europe/french-finance-minister-says-europe-must-defend-industrial-interests-against-2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 20:47:24 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 17 Apr 2024 23:24:10 GMT</lastBuildDate>
     <item>
       <title>耶伦称共和党拖延批准乌克兰援助是不可原谅的</title>
       <link>https://www.reuters.com/world/us/yellen-calls-republican-delays-approving-ukraine-aid-inexcusable-2024-04-17/</link>
@@ -48,7 +34,7 @@
       <pubDate>Wed, 17 Apr 2024 16:07:32 GMT</pubDate>
     </item>
     <item>
-      <title>部长称意大利正在与中国东风等公司就汽车工厂事宜进行谈判</title>
+      <title>部长称意大利正在与中国东风等公司就汽车工厂进行谈判</title>
       <link>https://www.reuters.com/business/autos-transportation/italy-talks-with-chinas-dongfeng-others-over-auto-plant-minister-says-2024-04-17/</link>
       <description><![CDATA[意大利工业部长阿道夫·乌尔索周三表示，意大利正在与中国东风汽车等公司进行谈判，以吸引除 Stellantis 之外的另一家主要汽车制造商来到该国。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/italy-talks-with-chinas-dongfeng-others-over-auto-plant-minister-says-2024-04-17/</guid>
@@ -69,9 +55,9 @@
       <pubDate>Wed, 17 Apr 2024 15:12:30 GMT</pubDate>
     </item>
     <item>
-      <title>美国承认日本和韩国对货币贬值的“严重”担忧</title>
+      <title>日元、韩元下滑，美国、日本、韩国同意就外汇问题进行磋商</title>
       <link>https://www.reuters.com/markets/us-japan-korea-finance-leaders-launch-first-trilateral-meeting-2024-04-17/</link>
-      <description><![CDATA[美国、日本和韩国同意在周三的首次三边金融对话中就外汇市场进行“密切磋商”，回应了东京和首尔对其货币近期大幅贬值的担忧。]]></description>
+      <description><![CDATA[美国、日本和韩国的财长同意在周三的首次三边会议上就外汇市场进行“密切磋商”，并对东京和首尔对其货币近期大幅下跌的担忧表示认可。]]></description>
       <guid>https://www.reuters.com/markets/us-japan-korea-finance-leaders-launch-first-trilateral-meeting-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 14:49:44 GMT</pubDate>
     </item>
@@ -134,9 +120,23 @@
     <item>
       <title>大众汽车将与小鹏汽车合作推出新架构以降低中国电动汽车成本</title>
       <link>https://www.reuters.com/business/autos-transportation/volkswagen-roll-out-new-architecture-with-xpeng-cut-china-ev-costs-2024-04-17/</link>
-      <description><![CDATA[大众汽车公司周三表示，它已经与中国合作伙伴小鹏汽车开发了一种新的智能电动汽车架构，这家德国汽车制造商表示，这将有助于其在其最大的市场上提供更实惠的电动汽车。]]></description>
+      <description><![CDATA[大众汽车周三表示，它已与中国合作伙伴小鹏汽车开发了一种新的智能电动汽车架构，这家德国汽车制造商表示，这将有助于其在其最大的市场上提供更实惠的电动汽车。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/volkswagen-roll-out-new-architecture-with-xpeng-cut-china-ev-costs-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 08:47:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着中国担忧加剧，日本公司再次向美国发起进攻</title>
+      <link>https://www.reuters.com/world/japan/japan-inc-makes-renewed-us-push-china-fears-mount-2024-04-17/</link>
+      <description><![CDATA[由于对中国需求和北京对供应链影响力的担忧促使日本企业明显转向全球最大经济体，因此越来越多的日本企业将其增长计划转向美国。]]></description>
+      <guid>https://www.reuters.com/world/japan/japan-inc-makes-renewed-us-push-china-fears-mount-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 08:14:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国田协承诺在半程马拉松惨败后采取行动</title>
+      <link>https://www.reuters.com/sports/athletics/chinas-federation-promises-action-after-half-marathon-debacle-2024-04-17/</link>
+      <description><![CDATA[周日北京半程马拉松的视频显示，三名选手似乎放慢速度，以便让中国选手何洁超越他们并获胜，中国田径协会（CAA）誓言加强对其路跑赛事的监管。]]></description>
+      <guid>https://www.reuters.com/sports/athletics/chinas-federation-promises-action-after-half-marathon-debacle-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 07:58:05 GMT</pubDate>
     </item>
     <item>
       <title>摩根士丹利和汇丰银行因中国交易放缓而削减亚洲投资银行职位</title>
