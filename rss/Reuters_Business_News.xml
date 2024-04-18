@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 | 今日国际头条 | 路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 18 Apr 2024 20:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 20:48:47 GMT</lastBuildDate>
     <item>
       <title>穆迪表示，美国债权人反对一些创意融资交易</title>
       <link>https://www.reuters.com/business/finance/us-creditors-push-back-against-some-creative-funding-trades-moodys-says-2024-04-18/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>《华尔街日报》报道，调查称，华尔街向被列入黑名单的中国公司转移了数十亿美元</title>
       <link>https://www.reuters.com/business/finance/wall-street-steered-billions-blacklisted-chinese-companies-probe-wsj-reports-2024-04-18/</link>
-      <description><![CDATA[据《华尔街日报》周四报道，国会调查发现，华尔街动用了数十亿美元的美国退休储蓄和其他投资来购买指数基金的股票，其中包括多家被列入黑名单的中国公司。]]></description>
+      <description><![CDATA[《华尔街日报》周四报道称，美国国会调查发现，华尔街动用数十亿美元的美国退休储蓄和其他投资，购买包括几家被列入黑名单的中国公司的指数基金的股票。]]></description>
       <guid>https://www.reuters.com/business/finance/wall-street-steered-billions-blacklisted-chinese-companies-probe-wsj-reports-2024-04-18/</guid>
       <pubDate>Thu, 18 Apr 2024 17:50:21 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>独家：埃利奥特正在权衡 Citgo 的出价，因为债权人集团正在考虑康菲石油公司的出价</title>
       <link>https://www.reuters.com/markets/commodities/elliott-weighs-citgo-bid-creditor-group-eyes-conoco-own-offer-2024-04-18/</link>
-      <description><![CDATA[对冲基金埃利奥特投资管理公司 (Elliott Investment Management) 正在考虑根据美国法院下令的拍卖竞购炼油商 Citgo Petroleum 母公司的股票，而以 Centerview Partners 为代表的一组债权人则打算吸引康菲石油公司 (ConocoPhillips) 加入另一项要约，五位知情人士透露事说。]]></description>
+      <description><![CDATA[对冲基金 Elliott Investment Management 正在考虑根据美国法院下令的拍卖竞购炼油商 Citgo Petroleum 母公司的股票，而以 Centerview Partners 为代表的一组债权人则旨在吸引康菲石油公司 (ConocoPhillips) 加入另一项收购要约，五名知情人士透露事说。]]></description>
       <guid>https://www.reuters.com/markets/commodities/elliott-weighs-citgo-bid-creditor-group-eyes-conoco-own-offer-2024-04-18/</guid>
       <pubDate>Thu, 18 Apr 2024 16:49:52 GMT</pubDate>
     </item>
@@ -83,7 +83,7 @@
       <pubDate>Thu, 18 Apr 2024 15:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>独家：消息人士称，微软与 OpenAI 的合作伙伴关系可能面临欧盟反垄断调查</title>
+      <title>独家：消息人士称，微软的 OpenAI 合作伙伴关系可能面临欧盟反垄断调查</title>
       <link>https://www.reuters.com/technology/microsofts-openai-partnership-could-face-eu-antitrust-probe-sources-say-2024-04-18/</link>
       <description><![CDATA[知情人士周四表示，微软对 OpenAI 的 130 亿美元投资可能面临欧盟反垄断调查，因为监管机构正在为此举建立理由。]]></description>
       <guid>https://www.reuters.com/technology/microsofts-openai-partnership-could-face-eu-antitrust-probe-sources-say-2024-04-18/</guid>
@@ -125,7 +125,7 @@
       <pubDate>Thu, 18 Apr 2024 10:01:46 GMT</pubDate>
     </item>
     <item>
-      <title>阿拉斯加航空预计商务旅行反弹将带来强劲利润</title>
+      <title>阿拉斯加航空预计商务旅行反弹带来强劲利润</title>
       <link>https://www.reuters.com/business/aerospace-defense/alaska-air-forecasts-second-quarter-profit-above-estimates-strong-travel-demand-2024-04-18/</link>
       <description><![CDATA[阿拉斯加航空集团周四预测，由于商务旅行需求回升，本季度盈利将强于预期，推动其股价走高。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/alaska-air-forecasts-second-quarter-profit-above-estimates-strong-travel-demand-2024-04-18/</guid>
