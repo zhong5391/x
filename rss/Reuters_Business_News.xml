@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 18 Apr 2024 02:29:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 02:42:57 GMT</lastBuildDate>
     <item>
       <title>据彭博社报道，美光科技将获得美国 60 亿美元的芯片资助</title>
       <link>https://www.reuters.com/technology/micron-set-get-6-billion-chip-grants-us-bloomberg-reports-2024-04-17/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>梅斯特称美联储将在某个时候降息，但不着急</title>
       <link>https://www.reuters.com/markets/us/fed-cut-us-rates-at-some-point-no-hurry-mester-says-2024-04-17/</link>
-      <description><![CDATA[克利夫兰联邦储备银行行长洛雷塔·梅斯特周三表示，她预计今年物价压力将进一步缓解，从而使美联储能够降低借贷成本，但前提是美联储“相当有信心”通胀持续向2%的目标迈进。]]></description>
+      <description><![CDATA[克利夫兰联邦储备银行行长洛雷塔·梅斯特周三表示，她预计今年物价压力将进一步缓解，从而使美联储能够降低借贷成本，但前提是美联储“相当有信心”通胀可持续向2%的目标迈进。]]></description>
       <guid>https://www.reuters.com/markets/us/fed-cut-us-rates-at-some-point-no-hurry-mester-says-2024-04-17/</guid>
       <pubDate>Wed, 17 Apr 2024 23:06:28 GMT</pubDate>
     </item>
