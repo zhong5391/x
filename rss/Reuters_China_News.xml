@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 18 Apr 2024 02:58:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 03:20:13 GMT</lastBuildDate>
+    <item>
+      <title>美元暂停飙升，亚洲股市涨跌互现</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-18/</link>
+      <description><![CDATA[周四，亚洲股市涨跌互现，小幅走高，美元稍作喘息，债券市场企稳，投资者开始评估利率前景。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-18/</guid>
+      <pubDate>Thu, 18 Apr 2024 02:15:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者思考美国利率前景，美元稍作喘息</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-takes-breather-investors-ponder-us-rates-outlook-2024-04-18/</link>
+      <description><![CDATA[周四美元走软，因美联储官员发表评论后交易员评估了美国利率前景，这些言论巩固了货币环境在一段时间内仍将保持限制性的预期。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-takes-breather-investors-ponder-us-rates-outlook-2024-04-18/</guid>
+      <pubDate>Thu, 18 Apr 2024 01:36:07 GMT</pubDate>
+    </item>
     <item>
       <title>早盘竞价：投资者喘口气，外汇走势加剧</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-17/</link>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 17 Apr 2024 19:52:03 GMT</pubDate>
     </item>
     <item>
-      <title>独家：消息人士称，美国计划恢复对主导太阳能技术的关税</title>
+      <title>独家：美国计划恢复对主导太阳能技术的关税</title>
       <link>https://www.reuters.com/world/us/us-plans-restore-tariffs-dominant-solar-technology-sources-say-2024-04-17/</link>
       <description><![CDATA[两位熟悉白宫的消息人士称，拜登政府预计将批准韩国韩华 Qcells 的请求，撤销为期两年的贸易豁免，该豁免允许从中国和其他国家进口占主导地位的太阳能电池板技术以避免关税计划于周三表示。]]></description>
       <guid>https://www.reuters.com/world/us/us-plans-restore-tariffs-dominant-solar-technology-sources-say-2024-04-17/</guid>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 17 Apr 2024 16:07:32 GMT</pubDate>
     </item>
     <item>
-      <title>部长称意大利正在与中国东风等公司就汽车工厂进行谈判</title>
+      <title>部长称意大利正在与中国东风等公司就汽车工厂事宜进行谈判</title>
       <link>https://www.reuters.com/business/autos-transportation/italy-talks-with-chinas-dongfeng-others-over-auto-plant-minister-says-2024-04-17/</link>
       <description><![CDATA[意大利工业部长阿道夫·乌尔索周三表示，意大利正在与中国东风汽车等公司进行谈判，以吸引除 Stellantis 之外的另一家主要汽车制造商来到该国。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/italy-talks-with-chinas-dongfeng-others-over-auto-plant-minister-says-2024-04-17/</guid>
@@ -62,7 +76,7 @@
       <pubDate>Wed, 17 Apr 2024 15:15:51 GMT</pubDate>
     </item>
     <item>
-      <title>美国贸易长官呼吁采取“果断”行动保护电动汽车行业免受中国影响</title>
+      <title>美国贸易长官呼吁采取行动保护电动汽车行业免受中国影响</title>
       <link>https://www.reuters.com/business/autos-transportation/ustr-tai-calls-decisive-action-shield-ev-sector-china-2024-04-17/</link>
       <description><![CDATA[美国贸易代表凯瑟琳·戴周三表示，美国必须采取“果断”行动，保护电动汽车免受中国补贴的竞争，她正在完成对特朗普时代中国关税的审查，并考虑乔·拜登总统关于提高进口关税的呼吁中国钢铁。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ustr-tai-calls-decisive-action-shield-ev-sector-china-2024-04-17/</guid>
@@ -76,7 +90,7 @@
       <pubDate>Wed, 17 Apr 2024 14:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>中国球迷希望周能在主场首秀中摆脱糟糕的状态</title>
+      <title>中国球迷希望周琦能够在主场首秀中摆脱糟糕状态</title>
       <link>https://www.reuters.com/sports/formula1/chinese-fans-hope-zhou-can-shrug-off-poor-form-home-debut-2024-04-17/</link>
       <description><![CDATA[周冠宇的中国车迷希望中国第一位也是唯一一位一级方程式赛车手能够摆脱糟糕的表现，在主场首秀中大放异彩，以回应那些认为他的护照是他开车的主要原因的批评者。]]></description>
       <guid>https://www.reuters.com/sports/formula1/chinese-fans-hope-zhou-can-shrug-off-poor-form-home-debut-2024-04-17/</guid>
@@ -90,34 +104,6 @@
       <pubDate>Wed, 17 Apr 2024 12:43:26 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟商会主席警告称，中国和欧盟的贸易紧张局势可能引发全面贸易战</title>
-      <link>https://www.reuters.com/business/china-eu-trade-tensions-risk-full-trade-war-european-chamber-president-warns-2024-04-17/</link>
-      <description><![CDATA[欧洲商业游说团体负责人周三警告说，在德国总理向北京表达欧洲担忧的第二天，随着保护主义浪潮的高涨，中国和欧洲面临“慢动作火车事故”，有可能演变成一场全面的贸易战。]]></description>
-      <guid>https://www.reuters.com/business/china-eu-trade-tensions-risk-full-trade-war-european-chamber-president-warns-2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 11:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宫称对中国金属征收新关税不会影响通胀</title>
-      <link>https://www.reuters.com/markets/commodities/new-tariffs-chinese-metals-wont-impact-inflation-white-house-says-2024-04-17/</link>
-      <description><![CDATA[白宫经济顾问贾里德·伯恩斯坦周三表示，拜登政府正在考虑对中国金属产品大幅提高关税，这不会影响美国的通胀，而且对于国家安全来说是必要的。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/new-tariffs-chinese-metals-wont-impact-inflation-white-house-says-2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 11:47:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>国际货币基金组织通过改变贷款政策来遏制中国债务协议的拖延</title>
-      <link>https://www.reuters.com/world/imf-board-backs-key-change-lending-into-official-arrears-policy-2024-04-17/</link>
-      <description><![CDATA[国际货币基金组织执行董事会支持一项关键变革，以赋予其更多自由来支持陷入危机的国家，即使与中国等大债权国政府的债务重新谈判仍在进行中。]]></description>
-      <guid>https://www.reuters.com/world/imf-board-backs-key-change-lending-into-official-arrears-policy-2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 11:07:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国、西班牙推出 TikTok Lite 后，欧盟询问 TikTok Lite 对儿童的风险</title>
-      <link>https://www.reuters.com/technology/tiktok-quizzed-by-eu-tiktok-lite-launch-france-spain-2024-04-17/</link>
-      <description><![CDATA[欧盟委员会周三表示，由于担心 TikTok Lite 对儿童和用户心理健康的潜在影响，字节跳动旗下 TikTok 已被要求在 24 小时内对其本月在法国和西班牙推出的新应用 TikTok Lite 进行风险评估。]]></description>
-      <guid>https://www.reuters.com/technology/tiktok-quizzed-by-eu-tiktok-lite-launch-france-spain-2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 09:52:49 GMT</pubDate>
-    </item>
-    <item>
       <title>拜登呼吁对中国钢铁征收更高关税</title>
       <link>https://www.reuters.com/world/us/biden-call-higher-tariffs-chinese-metals-steel-city-pittsburgh-2024-04-17/</link>
       <description><![CDATA[美国总统乔·拜登周三呼吁大幅提高美国对中国金属产品的关税，作为旨在取悦摇摆州宾夕法尼亚州钢铁工人的一揽子政策的一部分，但此举可能会激怒北京。]]></description>
@@ -125,25 +111,39 @@
       <pubDate>Wed, 17 Apr 2024 09:06:40 GMT</pubDate>
     </item>
     <item>
-      <title>中国汽车制造商一汽汽车金融部门推出无首付贷款</title>
-      <link>https://www.reuters.com/business/autos-transportation/chinese-automaker-faws-auto-finance-unit-launches-loan-with-no-down-payment-2024-04-17/</link>
-      <description><![CDATA[中国国有汽车制造商一汽集团的汽车金融部门推出了无首付贷款计划，成为自政府取消最低还款额以来首批采取此举措的供应商之一。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/chinese-automaker-faws-auto-finance-unit-launches-loan-with-no-down-payment-2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 09:04:15 GMT</pubDate>
+      <title>随着中国担忧加剧，日本公司再次向美国发起进攻</title>
+      <link>https://www.reuters.com/world/japan/japan-inc-makes-renewed-us-push-china-fears-mount-2024-04-17/</link>
+      <description><![CDATA[由于对中国需求和北京对供应链影响力的担忧促使日本企业明显转向全球最大经济体，因此越来越多的日本企业将其增长计划转向美国。]]></description>
+      <guid>https://www.reuters.com/world/japan/japan-inc-makes-renewed-us-push-china-fears-mount-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 08:14:36 GMT</pubDate>
     </item>
     <item>
-      <title>大众汽车将与小鹏汽车合作推出新架构以降低中国电动汽车成本</title>
-      <link>https://www.reuters.com/business/autos-transportation/volkswagen-roll-out-new-architecture-with-xpeng-cut-china-ev-costs-2024-04-17/</link>
-      <description><![CDATA[大众汽车周三表示，它已与中国合作伙伴小鹏汽车开发了一种新的智能电动汽车架构，这家德国汽车制造商表示，这将有助于其在其最大的市场上提供更实惠的电动汽车。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-roll-out-new-architecture-with-xpeng-cut-china-ev-costs-2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 08:47:40 GMT</pubDate>
+      <title>中国田协承诺在半程马拉松惨败后采取行动</title>
+      <link>https://www.reuters.com/sports/athletics/chinas-federation-promises-action-after-half-marathon-debacle-2024-04-17/</link>
+      <description><![CDATA[周日北京半程马拉松的视频显示，三名选手似乎放慢速度，以便让中国选手何洁超越他们并获胜，中国田径协会（CAA）誓言加强对其路跑赛事的监管。]]></description>
+      <guid>https://www.reuters.com/sports/athletics/chinas-federation-promises-action-after-half-marathon-debacle-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 07:58:05 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利和汇丰银行因中国交易放缓而削减亚洲投资银行职位</title>
-      <link>https://www.reuters.com/business/finance/morgan-stanley-cut-around-50-investment-banking-jobs-asia-pacific-sources-say-2024-04-17/</link>
-      <description><![CDATA[消息人士称，摩根士丹利和汇丰银行本周将在亚太地区裁员数十个投资银行职位，因为它们加大了成本削减力度，而中国和香港的交易疲软以及市场低迷给商业前景带来了压力。]]></description>
-      <guid>https://www.reuters.com/business/finance/morgan-stanley-cut-around-50-investment-banking-jobs-asia-pacific-sources-say-2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 02:58:15 GMT</pubDate>
+      <title>中国军方计划在缅甸边境附近举行更多演习</title>
+      <link>https://www.reuters.com/world/asia-pacific/chinas-military-plans-more-drills-near-myanmar-border-2024-04-17/</link>
+      <description><![CDATA[官方媒体称，中国将从周三开始在中缅边境附近举行防空和实弹演习，这是本月第二轮此类演习，因为缅甸执政军政府和叛军之间的战斗加剧。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/chinas-military-plans-more-drills-near-myanmar-border-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 05:16:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>在中国的贸易展览会上，出口商担心商品“像卷心菜一样便宜”</title>
+      <link>https://www.reuters.com/markets/commodities/chinese-trade-fair-exporters-despair-their-goods-are-as-cheap-cabbage-2024-04-16/</link>
+      <description><![CDATA[吴华占的中国电视工厂过去常常实行最低订单，以有效管理生产。现在时代如此惨淡，任何命令都可以。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/chinese-trade-fair-exporters-despair-their-goods-are-as-cheap-cabbage-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 23:06:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国肖尔茨游说习近平改善市场准入，向俄罗斯施压</title>
+      <link>https://www.reuters.com/world/germanys-scholz-lobbies-xi-improve-market-access-pressure-russia-2024-04-16/</link>
+      <description><![CDATA[德国总理奥拉夫·肖尔茨周二在与中国国家主席习近平的会谈中游说为德国企业在中国提供更好的市场准入，并敦促他向俄罗斯施加压力，要求其从乌克兰撤军。]]></description>
+      <guid>https://www.reuters.com/world/germanys-scholz-lobbies-xi-improve-market-access-pressure-russia-2024-04-16/</guid>
+      <pubDate>Tue, 16 Apr 2024 17:23:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
