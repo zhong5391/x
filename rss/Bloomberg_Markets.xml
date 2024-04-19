@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 19 Apr 2024 10:34:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 10:48:39 GMT</lastBuildDate>
     <item>
       <title>开始新的一天需要知道的五件事：美洲</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-04-19/stock-markets-today-israel-iran-attack-oil-s-p-500-treasuries-netflix</link>
@@ -36,7 +36,7 @@
     <item>
       <title>软银支持的 Oyo 计划发行 4.5 亿美元债券进行再融资</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-19/softbank-backed-oyo-eyes-450-million-bond-sale-for-refinancing</link>
-      <description><![CDATA[一位知情人士透露，Oyo Hotels 正在商谈通过美元债券筹集最多 4.5 亿美元资金，这家曾经风光无限的印度初创公司因推迟上市而寻求取代现有的高成本贷款。]]></description>
+      <description><![CDATA[一位知情人士称，Oyo Hotels 正在商谈通过美元债券筹集最多 4.5 亿美元资金，这家曾经风光无限的印度初创公司因推迟上市而寻求取代现有的高成本贷款。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-19/softbank-backed-oyo-eyes-450-million-bond-sale-for-refinancing</guid>
       <pubDate>Fri, 19 Apr 2024 09:45:53 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>收益率越高、期限越长的债券重新发挥作用，收益率为 5%</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-04-19/higher-for-longer-hits-bonds-with-5-yields-back-in-play</link>
-      <description><![CDATA[欢迎阅读《每周修复》，这是一份充满信心降息的时事通讯。我是加菲猫雷诺兹 (Garfield Reynolds)，彭博亚洲市场直播团队负责人。]]></description>
+      <description><![CDATA[欢迎来到《每周修复》，这是一份充满信心降息的时事通讯。我是加菲猫雷诺兹 (Garfield Reynolds)，彭博亚洲市场直播团队负责人。]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2024-04-19/higher-for-longer-hits-bonds-with-5-yields-back-in-play</guid>
       <pubDate>Fri, 19 Apr 2024 09:00:03 GMT</pubDate>
     </item>
@@ -128,7 +128,7 @@
     <item>
       <title>由于避险需求，新兴市场股票将迎来两年来最糟糕的一周</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-19/em-stocks-set-for-worst-week-in-2-years-amid-safe-haven-demand</link>
-      <description><![CDATA[由于中东紧张局势升级刺激投资者避险需求，周五新兴市场股市和货币走软，推高金价和油价。]]></description>
+      <description><![CDATA[周五新兴市场股市和货币走软，因中东紧张局势升级刺激投资者避险需求，推高金价和油价。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-19/em-stocks-set-for-worst-week-in-2-years-amid-safe-haven-demand</guid>
       <pubDate>Fri, 19 Apr 2024 08:34:14 GMT</pubDate>
     </item>
@@ -175,7 +175,14 @@
       <pubDate>Fri, 19 Apr 2024 04:15:03 GMT</pubDate>
     </item>
     <item>
-      <title>随着避险资产的热潮开始减弱，美国国债涨势逐渐消退</title>
+      <title>亚洲股市因对中东紧张局势和鹰派美联储的担忧而下跌</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-19/asian-stocks-slump-as-mideast-woes-hawkish-fed-sour-sentiment</link>
+      <description><![CDATA[由于对中东紧张局势升级的担忧以及对美国长期利率上升的担忧，市场普遍出现避险情绪，亚洲股市下跌。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-19/asian-stocks-slump-as-mideast-woes-hawkish-fed-sour-sentiment</guid>
+      <pubDate>Fri, 19 Apr 2024 02:41:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着避险资产热潮开始减弱，美国国债涨势消退</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-19/treasuries-jump-with-dollar-as-middle-east-risks-fan-haven-bid</link>
       <description><![CDATA[由于希望以色列和伊朗之间的冲突不会演变成更广泛的冲突，对避险资产的需求减弱，美国国债回吐了今年最大的涨幅。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-19/treasuries-jump-with-dollar-as-middle-east-risks-fan-haven-bid</guid>
@@ -184,7 +191,7 @@
     <item>
       <title>随着交易商关注中东紧张局势，金价早盘飙升降温</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-19/gold-xauusd-set-for-fifth-weekly-gain-on-increasing-mideast-tensions</link>
-      <description><![CDATA[黄金价格企稳，此前美国官员有报道称，在上周末德黑兰发动史无前例的导弹袭击后，以色列袭击了伊朗境内的目标。]]></description>
+      <description><![CDATA[黄金价格早盘上涨，因美国官员报道称，在上周末伊朗发动前所未有的导弹袭击后，以色列也袭击了伊朗境内的目标，随后黄金价格企稳。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-19/gold-xauusd-set-for-fifth-weekly-gain-on-increasing-mideast-tensions</guid>
       <pubDate>Fri, 19 Apr 2024 00:59:49 GMT</pubDate>
     </item>
@@ -201,13 +208,6 @@
       <description><![CDATA[中东紧张局势升级令股市紧张，不过在伊朗媒体似乎淡化以色列袭击的影响后，包括债券和美元在内的避险资产回吐了一些早盘涨幅。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-18/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Thu, 18 Apr 2024 22:18:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果泰晤士水务国有化，贷款机构将面临 40% 的损失</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-18/thames-water-lenders-face-up-to-40-losses-if-it-s-nationalized</link>
-      <description><![CDATA[根据官员制定的应急计划，如果泰晤士水务公司最终被英国政府国有化，一些贷款机构可能面临高达 40% 的损失。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-18/thames-water-lenders-face-up-to-40-losses-if-it-s-nationalized</guid>
-      <pubDate>Thu, 18 Apr 2024 22:02:12 GMT</pubDate>
     </item>
     <item>
       <title>曾估值 120 亿美元的快递公司 Getir 正在权衡销售和市场退出</title>
