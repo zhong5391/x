@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 20 Apr 2024 19:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 19:41:16 GMT</lastBuildDate>
     <item>
       <title>国际货币基金组织戈皮纳特表示，美国的高需求推动了经济增长，利率上升</title>
       <link>https://www.reuters.com/markets/rates-bonds/imfs-gopinath-says-high-us-demand-fueling-growth-higher-interest-rates-2024-04-20/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>大众工厂胜利后，UAW 将目光投向阿拉巴马州的梅赛德斯</title>
       <link>https://www.reuters.com/business/autos-transportation/after-vw-plant-victory-uaw-sets-its-sights-mercedes-alabama-2024-04-20/</link>
-      <description><![CDATA[美国汽车工人联合会在美国南部一家汽车工厂赢得了第一次工会投票，创造了历史。现在，它需要下个月在阿拉巴马州的梅赛德斯工厂取得第二场胜利，证明这一成功并非侥幸。]]></description>
+      <description><![CDATA[美国汽车工人联合会在美国南部的一家汽车工厂赢得了第一次工会投票，创造了历史。现在，它需要下个月在阿拉巴马州的梅赛德斯工厂取得第二场胜利，证明这一成功并非侥幸。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/after-vw-plant-victory-uaw-sets-its-sights-mercedes-alabama-2024-04-20/</guid>
       <pubDate>Sat, 20 Apr 2024 13:07:25 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Fri, 19 Apr 2024 19:45:40 GMT</pubDate>
     </item>
     <item>
-      <title>富国银行债券销售员因工作场所“毫无歉意的性别歧视”而提起诉讼</title>
+      <title>富国银行债券销售员因工作场所“毫无歉意的性别歧视”提起诉讼</title>
       <link>https://www.reuters.com/legal/wells-fargo-bond-saleswoman-sues-over-unapologetically-sexist-workplace-2024-04-19/</link>
       <description><![CDATA[富国银行在一名债券销售员的诉讼中被指控存在性别歧视，她表示这家美国第四大银行拒绝向男性提供薪酬和晋升，并容忍“毫无歉意的性别歧视”工作场所。]]></description>
       <guid>https://www.reuters.com/legal/wells-fargo-bond-saleswoman-sues-over-unapologetically-sexist-workplace-2024-04-19/</guid>
@@ -139,9 +139,9 @@
       <pubDate>Fri, 19 Apr 2024 09:34:04 GMT</pubDate>
     </item>
     <item>
-      <title>奈飞、芯片股拖累纳斯达克、标普指数下跌；美国运通提振道琼斯指数</title>
+      <title>纳斯达克、标普指数下跌，因 Netflix 和芯片股拖累；美国运通推动道琼斯指数上涨</title>
       <link>https://www.reuters.com/markets/us/wall-streets-fear-gauge-over-5-month-high-rate-cut-mideast-worries-2024-04-19/</link>
-      <description><![CDATA[由于 Netflix 股价承压，纳斯达克指数和标准普尔 500 指数周五收低，但美国运通公司在两家公司公布季度财报后维持了道琼斯指数的维持，而对美联储很快降息的悲观情绪日益浓厚也削弱了市场情绪。]]></description>
+      <description><![CDATA[由于 Netflix 股价承压，纳斯达克指数和标准普尔 500 指数周五收低，但美国运通公司在两家公司公布季度财报后维持了道琼斯指数的平稳运行，而对美联储很快降息的悲观情绪日益浓厚也削弱了市场情绪。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-streets-fear-gauge-over-5-month-high-rate-cut-mideast-worries-2024-04-19/</guid>
       <pubDate>Fri, 19 Apr 2024 08:29:15 GMT</pubDate>
     </item>
