@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 20 Apr 2024 08:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 08:38:25 GMT</lastBuildDate>
     <item>
       <title>X誓言“强烈挑战”澳大利亚拆除刺杀柱的命令</title>
       <link>https://www.reuters.com/world/asia-pacific/x-vows-robustly-challenge-australia-order-remove-stabbing-posts-2024-04-20/</link>
@@ -106,7 +106,7 @@
     <item>
       <title>谷歌废除供应商和人力资源公司的最低工资和福利规则</title>
       <link>https://www.reuters.com/technology/google-scraps-minimum-wage-benefits-rules-suppliers-staffing-firms-2024-04-19/</link>
-      <description><![CDATA[Alphabet Inc 旗下谷歌周五表示，将取消要求美国供应商和人力资源公司向其员工支付至少每小时 15 美元的工资并提供医疗保险和其他福利的要求，此举可能使这家科技巨头避免与工会谈判。]]></description>
+      <description><![CDATA[Alphabet Inc.旗下谷歌周五表示，将取消美国供应商和人力资源公司向员工支付至少15美元每小时工资并提供健康保险和其他福利的要求，此举可能使这家科技巨头能够避免与工会讨价还价。]]></description>
       <guid>https://www.reuters.com/technology/google-scraps-minimum-wage-benefits-rules-suppliers-staffing-firms-2024-04-19/</guid>
       <pubDate>Fri, 19 Apr 2024 17:47:09 GMT</pubDate>
     </item>
