@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 20 Apr 2024 14:23:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 14:38:34 GMT</lastBuildDate>
+    <item>
+      <title>大众工厂胜利后，UAW 将目光投向阿拉巴马州的梅赛德斯</title>
+      <link>https://www.reuters.com/business/autos-transportation/after-vw-plant-victory-uaw-sets-its-sights-mercedes-alabama-2024-04-20/</link>
+      <description><![CDATA[美国汽车工人联合会在美国南部的一家汽车工厂赢得了第一次工会投票，创造了历史。现在，它需要下个月在阿拉巴马州的梅赛德斯工厂取得第二场胜利，证明这一成功并非侥幸。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/after-vw-plant-victory-uaw-sets-its-sights-mercedes-alabama-2024-04-20/</guid>
+      <pubDate>Sat, 20 Apr 2024 13:07:25 GMT</pubDate>
+    </item>
     <item>
       <title>迪拜洪水过后，阿联酋航空和迪拜航空恢复正常运营</title>
       <link>https://www.reuters.com/business/aerospace-defense/emirates-flydubai-resume-normal-operations-after-dubai-floods-2024-04-20/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[墨西哥央行副行长乔纳森·希思 (Jonathan Heath) 周五表示，基准利率维持不变的时间可能会长于市场预期，并指出在 5 月份政策会议上可能会维持在 11% 的水平，而 6 月份的决定将取决于数据。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/bank-mexico-deputy-governor-sees-rates-hold-longer-than-expected-2024-04-19/</guid>
       <pubDate>Fri, 19 Apr 2024 20:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储表示 1,804 家银行和其他机构利用了紧急贷款便利</title>
-      <link>https://www.reuters.com/markets/us/fed-says-1804-banks-other-institutions-tapped-emergency-lending-facility-2024-04-19/</link>
-      <description><![CDATA[美联储周五表示，约有 1,804 家存款机构利用了去年 3 月硅谷银行倒闭后设立的紧急贷款机制，约占所有符合条件的公司的 20%。]]></description>
-      <guid>https://www.reuters.com/markets/us/fed-says-1804-banks-other-institutions-tapped-emergency-lending-facility-2024-04-19/</guid>
-      <pubDate>Fri, 19 Apr 2024 20:08:09 GMT</pubDate>
     </item>
     <item>
       <title>美联储调查将通胀和美国大选列为主要金融稳定风险</title>
@@ -139,9 +139,9 @@
       <pubDate>Fri, 19 Apr 2024 09:34:04 GMT</pubDate>
     </item>
     <item>
-      <title>奈飞、芯片股拖累纳斯达克、标普指数下跌；美国运通提振道琼斯指数</title>
+      <title>Netflix、芯片股拖累纳斯达克、标准普尔指数下跌；美国运通提振道琼斯指数</title>
       <link>https://www.reuters.com/markets/us/wall-streets-fear-gauge-over-5-month-high-rate-cut-mideast-worries-2024-04-19/</link>
-      <description><![CDATA[由于 Netflix 股价承压，纳斯达克指数和标准普尔 500 指数周五收低，但美国运通公司在两家公司公布季度财报后维持了道琼斯指数的维持，而对美联储很快降息的悲观情绪日益浓厚也削弱了市场情绪。]]></description>
+      <description><![CDATA[由于 Netflix 股价承压，纳斯达克指数和标准普尔 500 指数周五收低，但美国运通公司在两家公司公布季度财报后维持了道琼斯指数的平稳运行，而对美联储很快降息的悲观情绪日益浓厚也削弱了市场情绪。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-streets-fear-gauge-over-5-month-high-rate-cut-mideast-worries-2024-04-19/</guid>
       <pubDate>Fri, 19 Apr 2024 08:29:15 GMT</pubDate>
     </item>
