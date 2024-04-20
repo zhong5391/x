@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 20 Apr 2024 14:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 15:17:37 GMT</lastBuildDate>
+    <item>
+      <title>国际货币基金组织和世界银行指导委员会强调随着改革的推进问责制</title>
+      <link>https://www.reuters.com/business/finance/imf-world-bank-steering-committee-stresses-accountability-reforms-advance-2024-04-20/</link>
+      <description><![CDATA[国际货币基金组织和世界银行的指导委员会周六强调，在这些机构实施改革以帮助各国应对气候变化和其他冲击时，需要扩大问责制。]]></description>
+      <guid>https://www.reuters.com/business/finance/imf-world-bank-steering-committee-stresses-accountability-reforms-advance-2024-04-20/</guid>
+      <pubDate>Sat, 20 Apr 2024 14:40:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国外长表示大国应避免在南太平洋地区竞争</title>
+      <link>https://www.reuters.com/world/asia-pacific/chinas-foreign-minister-says-major-powers-should-avoid-rivalry-south-pacific-2024-04-20/</link>
+      <description><![CDATA[中国外交部长王毅周六表示，南太地区不应成为大国竞争的舞台，中国对那里国家的援助不附加任何政治条件。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/chinas-foreign-minister-says-major-powers-should-avoid-rivalry-south-pacific-2024-04-20/</guid>
+      <pubDate>Sat, 20 Apr 2024 13:17:14 GMT</pubDate>
+    </item>
     <item>
       <title>中国外长表示，接纳巴勒斯坦国加入联合国是纠正不公正的举动</title>
       <link>https://www.reuters.com/world/chinas-foreign-minister-says-admitting-palestinian-state-un-is-move-rectify-2024-04-20/</link>
@@ -13,9 +27,9 @@
       <pubDate>Sat, 20 Apr 2024 12:26:58 GMT</pubDate>
     </item>
     <item>
-      <title>阿斯顿·马丁抗议中国大奖赛排位赛成绩</title>
+      <title>F1 赛会干事驳回阿斯顿·马丁的抗议</title>
       <link>https://www.reuters.com/sports/formula1/aston-martin-protest-chinese-gp-qualifying-results-2024-04-20/</link>
-      <description><![CDATA[周六，法拉利车手卡洛斯·塞恩斯发生撞车事故并出示红旗后，阿斯顿·马丁对中国大奖赛排位赛的结果提出抗议，但在比赛重新开始后获准继续比赛。]]></description>
+      <description><![CDATA[法拉利车手卡洛斯·塞恩斯尽管在赛道上发生碰撞并停下来，但仍被允许参加最后阶段比赛，一级方程式赛会干事驳回了阿斯顿·马丁对周六中国大奖赛排位赛结果的抗议。]]></description>
       <guid>https://www.reuters.com/sports/formula1/aston-martin-protest-chinese-gp-qualifying-results-2024-04-20/</guid>
       <pubDate>Sat, 20 Apr 2024 10:58:21 GMT</pubDate>
     </item>
@@ -50,14 +64,14 @@
     <item>
       <title>3月份中国进口俄罗斯石油接近历史新高</title>
       <link>https://www.reuters.com/business/energy/chinas-imports-russian-oil-near-record-high-march-2024-04-20/</link>
-      <description><![CDATA[周六的数据显示，随着炼油商抢购搁浅的索科尔石油，俄罗斯3月份仍然是中国最大的石油供应国。]]></description>
+      <description><![CDATA[周六的数据显示，随着炼油厂抢购搁浅的索科尔石油，俄罗斯3月份仍然是中国最大的石油供应国。]]></description>
       <guid>https://www.reuters.com/business/energy/chinas-imports-russian-oil-near-record-high-march-2024-04-20/</guid>
       <pubDate>Sat, 20 Apr 2024 07:51:23 GMT</pubDate>
     </item>
     <item>
       <title>台湾总统祝贺台湾变装皇后赢得比赛</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-president-congratulates-taiwanese-queen-winning-drag-race-2024-04-20/</link>
-      <description><![CDATA[台湾总统蔡英文周六向台湾变装皇后宁菲亚·温德 (Nymphia Wind) 表示祝贺，祝贺她在鲁保罗变装大赛中获胜，成为东亚地区第一位夺得桂冠的人。]]></description>
+      <description><![CDATA[台湾总统蔡英文周六向台湾变装皇后宁菲亚·温德 (Nymphia Wind) 表示祝贺，祝贺她在鲁保罗变装大赛中获胜，成为东亚第一位夺得桂冠的人。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-president-congratulates-taiwanese-queen-winning-drag-race-2024-04-20/</guid>
       <pubDate>Sat, 20 Apr 2024 07:26:10 GMT</pubDate>
     </item>
@@ -118,7 +132,7 @@
       <pubDate>Fri, 19 Apr 2024 12:54:09 GMT</pubDate>
     </item>
     <item>
-      <title>随着电动汽车增长放缓，通用汽车和福特依靠汽油动力卡车</title>
+      <title>随着电动汽车增长放缓，通用汽车和福特依赖汽油动力卡车</title>
       <link>https://www.reuters.com/business/autos-transportation/gm-ford-count-gas-powered-trucks-ev-growth-slows-2024-04-19/</link>
       <description><![CDATA[美国汽车制造商通用汽车和福特在下周公布第一季度业绩时面临着共同的挑战：向投资者解释，随着电动汽车增长放缓，未来几个月利润增长将来自何处。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/gm-ford-count-gas-powered-trucks-ev-growth-slows-2024-04-19/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[美国众议院议长迈克·约翰逊(Mike Johnson)看起来将在本周末推进一项针对基辅、以色列和其他盟国的950亿美元援助法案，尽管强硬派共和党人强烈抗议，可能导致有人试图将他赶下台。]]></description>
       <guid>https://www.reuters.com/world/us/us-house-speaker-johnson-risks-fellow-republicans-wrath-with-ukraine-vote-2024-04-19/</guid>
       <pubDate>Fri, 19 Apr 2024 10:04:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：市场因以色列与伊朗针锋相对而不稳定</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-19/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-19/</guid>
-      <pubDate>Fri, 19 Apr 2024 10:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国钢铁行业比拜登关税上调还有更大隐忧</title>
-      <link>https://www.reuters.com/markets/commodities/chinas-steel-sector-has-bigger-worries-than-biden-tariff-hike-2024-04-19/</link>
-      <description><![CDATA[美国总统乔·拜登推动对中国钢铁进口征收三倍关税，这对这个行业来说是一个象征性的打击，该行业面临着对当地需求疲软的更大担忧，以及中国激增的出口面临更强烈打击的威胁。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/chinas-steel-sector-has-bigger-worries-than-biden-tariff-hike-2024-04-19/</guid>
-      <pubDate>Fri, 19 Apr 2024 09:50:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
