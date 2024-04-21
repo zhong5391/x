@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 21 Apr 2024 07:48:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 08:08:27 GMT</lastBuildDate>
+    <item>
+      <title>中国F1观众在周的主场首秀前热闹非凡</title>
+      <link>https://www.reuters.com/sports/formula1/china-f1-crowd-turns-up-volume-ahead-zhous-home-debut-2024-04-21/</link>
+      <description><![CDATA[周日，当中国第一位也是唯一一位一级方程式赛车手周冠宇在他的第一次中国大奖赛前踏上起跑线时，“冠宇、冠宇、冠宇”的呼喊声盖过了上海国际赛车场的所有其他声音。]]></description>
+      <guid>https://www.reuters.com/sports/formula1/china-f1-crowd-turns-up-volume-ahead-zhous-home-debut-2024-04-21/</guid>
+      <pubDate>Sun, 21 Apr 2024 06:29:56 GMT</pubDate>
+    </item>
     <item>
       <title>中国在南海紧张局势中接待外国海军官员</title>
       <link>https://www.reuters.com/world/china/china-hosts-foreign-naval-officials-amid-south-china-sea-tensions-2024-04-21/</link>
-      <description><![CDATA[中国海军周日在港口城市青岛拉开了两年一度的外国海军高级官员会议的序幕，这是一场军事外交秀，人们将密切关注中美之间更多接触的迹象。]]></description>
+      <description><![CDATA[中国海军周日在港口城市青岛拉开了两年一次的外国海军高级官员会议的序幕，这是一场军事外交秀，人们将密切关注中美之间更多接触的迹象。]]></description>
       <guid>https://www.reuters.com/world/china/china-hosts-foreign-naval-officials-amid-south-china-sea-tensions-2024-04-21/</guid>
       <pubDate>Sun, 21 Apr 2024 02:53:36 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[墨西哥总统候选人克劳迪娅·谢因鲍姆周五表示，如果当选，她的政府将重点关注水资源管理和可再生能源，作为促进该国可持续发展计划的一部分。]]></description>
       <guid>https://www.reuters.com/world/americas/mexican-presidential-frontrunner-would-focus-renewable-energy-water-2024-04-19/</guid>
       <pubDate>Fri, 19 Apr 2024 19:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>政治热度促使日韩联手应对弱势货币</title>
-      <link>https://www.reuters.com/markets/currencies/political-heat-prods-japan-south-korea-team-up-weak-currencies-2024-04-19/</link>
-      <description><![CDATA[日本和韩国在本周与美国的联合声明中成功加入了表达对其货币担忧的语言，这突显了它们因汇率疲软而加剧的通胀加剧所面临的政治压力。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/political-heat-prods-japan-south-korea-team-up-weak-currencies-2024-04-19/</guid>
-      <pubDate>Fri, 19 Apr 2024 18:21:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

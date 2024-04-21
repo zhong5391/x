@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 21 Apr 2024 07:48:43 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Sun, 21 Apr 2024 08:08:21 GMT</lastBuildDate>
     <item>
       <title>特斯拉将全自动驾驶软件的价格下调三分之一至 8,000 美元</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-cuts-price-full-self-driving-software-by-third-8000-2024-04-21/</link>
@@ -43,7 +43,7 @@
     <item>
       <title>大众工厂胜利后，UAW 将目光投向阿拉巴马州的梅赛德斯</title>
       <link>https://www.reuters.com/business/autos-transportation/after-vw-plant-victory-uaw-sets-its-sights-mercedes-alabama-2024-04-20/</link>
-      <description><![CDATA[美国汽车工人联合会在美国南部一家汽车工厂赢得了第一次工会投票，创造了历史。现在，它需要下个月在阿拉巴马州的梅赛德斯工厂取得第二场胜利，证明这一成功并非侥幸。]]></description>
+      <description><![CDATA[美国汽车工人联合会在美国南部的一家汽车工厂赢得了第一次工会投票，创造了历史。现在，它需要下个月在阿拉巴马州的梅赛德斯工厂取得第二场胜利，证明这一成功并非侥幸。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/after-vw-plant-victory-uaw-sets-its-sights-mercedes-alabama-2024-04-20/</guid>
       <pubDate>Sat, 20 Apr 2024 13:07:25 GMT</pubDate>
     </item>
@@ -83,9 +83,9 @@
       <pubDate>Fri, 19 Apr 2024 20:57:56 GMT</pubDate>
     </item>
     <item>
-      <title>美联储调查将通胀和美国大选视为主要金融稳定风险</title>
+      <title>美联储调查将通胀和美国大选列为主要金融稳定风险</title>
       <link>https://www.reuters.com/markets/us/fed-report-cites-inflation-us-election-key-financial-stability-risks-2024-04-19/</link>
-      <description><![CDATA[美联储对美国央行接触的最新调查显示，持续的通胀和长期较高的利率被认为是金融稳定的主要风险，地缘政治问题和2024年美国总统大选也被认为是“潜在的重要冲击源”。 ”]]></description>
+      <description><![CDATA[美联储对美国央行接触的最新调查显示，持续通胀和长期较高利率被视为金融稳定的主要风险，地缘政治问题和 2024 年美国总统大选也被视为“潜在的重要冲击源”。 ”]]></description>
       <guid>https://www.reuters.com/markets/us/fed-report-cites-inflation-us-election-key-financial-stability-risks-2024-04-19/</guid>
       <pubDate>Fri, 19 Apr 2024 20:04:41 GMT</pubDate>
     </item>
