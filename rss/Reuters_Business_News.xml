@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 21 Apr 2024 04:51:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 05:17:51 GMT</lastBuildDate>
     <item>
       <title>多边开发银行计划在 10 年内增加最多 4000 亿美元的贷款</title>
       <link>https://www.reuters.com/business/finance/multilateral-development-banks-eye-up-400-bln-more-lending-over-10-years-2024-04-20/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>大众工厂胜利后，UAW 将目光投向阿拉巴马州的梅赛德斯</title>
       <link>https://www.reuters.com/business/autos-transportation/after-vw-plant-victory-uaw-sets-its-sights-mercedes-alabama-2024-04-20/</link>
-      <description><![CDATA[美国汽车工人联合会在美国南部的一家汽车工厂赢得了第一次工会投票，创造了历史。现在，它需要下个月在阿拉巴马州的梅赛德斯工厂取得第二场胜利，证明这一成功并非侥幸。]]></description>
+      <description><![CDATA[美国汽车工人联合会在美国南部一家汽车工厂赢得了第一次工会投票，创造了历史。现在，它需要下个月在阿拉巴马州的梅赛德斯工厂取得第二场胜利，证明这一成功并非侥幸。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/after-vw-plant-victory-uaw-sets-its-sights-mercedes-alabama-2024-04-20/</guid>
       <pubDate>Sat, 20 Apr 2024 13:07:25 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>UAW 在大众汽车田纳西州工厂的历史性工会投票中大获全胜</title>
       <link>https://www.reuters.com/business/autos-transportation/uaw-clinches-watershed-union-victory-volkswagen-tennessee-factory-2024-04-20/</link>
-      <description><![CDATA[大众汽车田纳西州工厂的工人们投票加入汽车工人联合会，这是该工会在走出底特律基地进入美国南部和西部之际取得的一场巨大胜利。]]></description>
+      <description><![CDATA[大众汽车公司田纳西州工厂的工人投票决定加入全美汽车工人联合会，这是该工会取得的一次重大胜利，其影响力已从底特律基地扩展至美国南部和西部。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/uaw-clinches-watershed-union-victory-volkswagen-tennessee-factory-2024-04-20/</guid>
       <pubDate>Sat, 20 Apr 2024 02:14:25 GMT</pubDate>
     </item>
@@ -83,9 +83,9 @@
       <pubDate>Fri, 19 Apr 2024 20:57:56 GMT</pubDate>
     </item>
     <item>
-      <title>美联储调查将通胀和美国大选列为主要金融稳定风险</title>
+      <title>美联储调查将通胀和美国大选视为主要金融稳定风险</title>
       <link>https://www.reuters.com/markets/us/fed-report-cites-inflation-us-election-key-financial-stability-risks-2024-04-19/</link>
-      <description><![CDATA[美联储对美国央行接触的最新调查显示，持续通胀和长期较高利率被视为金融稳定的主要风险，地缘政治问题和 2024 年美国总统大选也被视为“潜在的重要冲击源”。 ”]]></description>
+      <description><![CDATA[美联储对美国央行接触的最新调查显示，持续的通胀和长期较高的利率被认为是金融稳定的主要风险，地缘政治问题和2024年美国总统大选也被认为是“潜在的重要冲击源”。 ”]]></description>
       <guid>https://www.reuters.com/markets/us/fed-report-cites-inflation-us-election-key-financial-stability-risks-2024-04-19/</guid>
       <pubDate>Fri, 19 Apr 2024 20:04:41 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Fri, 19 Apr 2024 09:34:04 GMT</pubDate>
     </item>
     <item>
-      <title>Netflix、芯片股拖累纳斯达克、标准普尔指数下跌；美国运通提振道琼斯指数</title>
+      <title>奈飞、芯片股拖累纳斯达克、标普指数下跌；美国运通提振道琼斯指数</title>
       <link>https://www.reuters.com/markets/us/wall-streets-fear-gauge-over-5-month-high-rate-cut-mideast-worries-2024-04-19/</link>
       <description><![CDATA[由于 Netflix 股价承压，纳斯达克指数和标准普尔 500 指数周五收低，但美国运通公司在两家公司公布季度财报后维持了道琼斯指数的平稳运行，而对美联储很快降息的悲观情绪日益浓厚也削弱了市场情绪。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-streets-fear-gauge-over-5-month-high-rate-cut-mideast-worries-2024-04-19/</guid>
