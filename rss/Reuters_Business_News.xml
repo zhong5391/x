@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 22 Apr 2024 21:58:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 22:22:44 GMT</lastBuildDate>
+    <item>
+      <title>南美航空在巴西航空市场的份额创 11 年来新高，Gol 下跌</title>
+      <link>https://www.reuters.com/business/aerospace-defense/latams-share-brazil-airline-market-hits-11-year-high-gol-drops-2024-04-22/</link>
+      <description><![CDATA[当地航空监管机构 ANAC 周一的数据显示，3 月份 LATAM 航空在巴西国内市场的份额达到 11 年来的最高水平，而竞争对手 Gol 在申请破产后继续下滑。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/latams-share-brazil-airline-market-hits-11-year-high-gol-drops-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 20:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>迪士尼的亚伦·拉伯格辞职，加入佩恩娱乐公司担任首席技术官</title>
+      <link>https://www.reuters.com/business/media-telecom/disneys-aaron-laberge-step-down-join-penn-entertainment-cto-2024-04-22/</link>
+      <description><![CDATA[根据路透社周一看到的一份备忘录，迪士尼娱乐和 ESPN 首席技术官亚伦·拉伯格 (Aaron LaBerge) 将辞去该职务，加入游戏和体育媒体公司佩恩娱乐 (Penn Entertainment)。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/disneys-aaron-laberge-step-down-join-penn-entertainment-cto-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 19:59:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于对增长和产品策略的质疑，特斯拉预计将降低利润率</title>
+      <link>https://www.reuters.com/business/autos-transportation/tesla-expected-post-lower-profit-margin-amid-doubts-growth-product-strategy-2024-04-22/</link>
+      <description><![CDATA[特斯拉预计将在周二公布六年多以来的最低毛利率，此前经历了混乱的一周，包括大规模裁员、汽车降价以及投资者迫切要求明确产品策略。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/tesla-expected-post-lower-profit-margin-amid-doubts-growth-product-strategy-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 19:51:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>先锋集团建议增加投资组合的通胀保护</title>
+      <link>https://www.reuters.com/markets/us/vanguard-recommends-increasing-inflation-protection-portfolios-2024-04-22/</link>
+      <description><![CDATA[先锋集团的一位高管周一表示，鉴于最近的数据显示美国物价压力不断上升，增加投资组合的通胀保护是值得的。]]></description>
+      <guid>https://www.reuters.com/markets/us/vanguard-recommends-increasing-inflation-protection-portfolios-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 19:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELFA 称 3 月份美国商业设备借款下降 7%</title>
+      <link>https://www.reuters.com/markets/us/us-business-equipment-borrowings-fell-7-march-elfa-says-2024-04-22/</link>
+      <description><![CDATA[行业机构设备租赁和金融协会 (ELFA) 周一表示，与去年同期相比，美国公司 3 月份为设备投资融资的借款减少了 7%。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-business-equipment-borrowings-fell-7-march-elfa-says-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 19:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿根廷2月份经济活动预计下降6%</title>
+      <link>https://www.reuters.com/markets/argentina-economic-activity-seen-plunging-6-february-2024-04-22/</link>
+      <description><![CDATA[路透周一对市场分析师进行的调查显示，阿根廷 2 月份经济活动可能同比下降 5.9%，在新任自由主义总统哈维尔·米雷 (Javier Milei) 的严厉紧缩措施中，阿根廷经济活动将连续第四个月下滑。]]></description>
+      <guid>https://www.reuters.com/markets/argentina-economic-activity-seen-plunging-6-february-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 18:30:56 GMT</pubDate>
+    </item>
     <item>
       <title>独家：活动人士 Jana 在信中敦促 Wolfspeed 考虑出售及其他战略替代方案</title>
       <link>https://www.reuters.com/business/activist-jana-letter-urges-wolfspeed-eye-sale-other-strategic-alternatives-2024-04-22/</link>
@@ -15,37 +57,9 @@
     <item>
       <title>由于电动汽车的推出面临挫折，欧盟 2050 年净零目标面临风险</title>
       <link>https://www.reuters.com/business/autos-transportation/eus-2050-net-zero-goals-risk-ev-rollout-faces-setbacks-2024-04-22/</link>
-      <description><![CDATA[欧盟外部审计员表示，欧盟需要重新考虑其政策，以使 2035 年禁止新汽油汽车销售的禁令变得可行，因为电动汽车 (EV) 仍然难以负担，替代燃料选择也不可信，这危及其 2050 年气候目标。]]></description>
+      <description><![CDATA[欧盟外部审计员表示，欧盟需要重新考虑其政策，以使 2035 年禁止新汽油汽车销售的禁令变得可行，因为电动汽车 (EV) 仍然难以负担且替代燃料选择不可信，这危及其 2050 年气候目标。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/eus-2050-net-zero-goals-risk-ev-rollout-faces-setbacks-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 16:24:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：随着石油制裁的回归，委内瑞拉将加速加密货币转型</title>
-      <link>https://www.reuters.com/business/finance/venezuela-accelerate-cryptocurrency-shift-oil-sanctions-return-2024-04-22/</link>
-      <description><![CDATA[三名知情人士表示，随着美国重新对该国实施石油制裁，委内瑞拉国营石油公司 PDVSA 计划增加其原油和燃料出口中数字货币的使用。]]></description>
-      <guid>https://www.reuters.com/business/finance/venezuela-accelerate-cryptocurrency-shift-oil-sanctions-return-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 16:19:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>据《纽约时报》报道，苹果即将与国际足联就新赛事的电视转播权达成协议</title>
-      <link>https://www.reuters.com/business/media-telecom/apple-close-finalizing-deal-with-fifa-over-tv-rights-new-tournament-nyt-reports-2024-04-22/</link>
-      <description><![CDATA[据《纽约时报》周一报道，国际足联即将与苹果公司达成协议，向这家科技公司授予为期一个月的世界杯式新赛事的全球电视转播权。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/apple-close-finalizing-deal-with-fifa-over-tv-rights-new-tournament-nyt-reports-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 16:15:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>捷蓝航空前首席执行官海耶斯将领导空客北美业务</title>
-      <link>https://www.reuters.com/business/aerospace-defense/former-jetblue-ceo-hayes-lead-airbus-north-america-2024-04-22/</link>
-      <description><![CDATA[欧洲飞机制造商周一表示，捷蓝航空前首席执行官罗宾·海耶斯已被任命为空客北美业务的新负责人。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/former-jetblue-ceo-hayes-lead-airbus-north-america-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 16:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 向第三方设备制造商开放 Quest 操作系统</title>
-      <link>https://www.reuters.com/technology/meta-opens-quest-operating-system-third-party-device-makers-2024-04-22/</link>
-      <description><![CDATA[Meta Platforms 周一表示，正在向其他设备制造商提供为其 Quest 耳机提供支持的软件，以期在下一代虚拟和混合现实技术的开发中发挥更重要的作用。]]></description>
-      <guid>https://www.reuters.com/technology/meta-opens-quest-operating-system-third-party-device-makers-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 16:03:31 GMT</pubDate>
     </item>
     <item>
       <title>美国联邦航空局强制包机航空公司和制造商使用安全工具</title>
@@ -60,13 +74,6 @@
       <description><![CDATA[央行观察人士长期以来一直使用“鸽派”和“鹰派”标签来描述政策制定者的货币政策倾向，鸽派更关注劳动力市场风险，鹰派更关注通胀威胁。]]></description>
       <guid>https://www.reuters.com/markets/us/fed-hawks-doves-us-central-bankers-see-no-urgency-cut-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 15:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑天鹅对冲基金称美联储降息将预示市场崩盘</title>
-      <link>https://www.reuters.com/markets/us/black-swan-hedge-fund-says-fed-rate-cuts-will-signal-market-crash-2024-04-22/</link>
-      <description><![CDATA[尽管美国金融市场对降息时机争论不休，但一家尾部风险对冲基金警告称，投资者应充分利用近期经济乐观情绪，因为转向较低利率将预示着市场将发生剧烈崩盘。]]></description>
-      <guid>https://www.reuters.com/markets/us/black-swan-hedge-fund-says-fed-rate-cuts-will-signal-market-crash-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 15:02:09 GMT</pubDate>
     </item>
     <item>
       <title>卖空者从大型科技股抛售中获得创纪录的每周利润</title>
@@ -99,7 +106,7 @@
     <item>
       <title>Kroger 和 Albertsons 将出售另外 166 家门店，寻求 250 亿美元合并的批准</title>
       <link>https://www.reuters.com/markets/deals/kroger-albertsons-amend-asset-sale-agreement-with-cs-wholesale-2024-04-22/</link>
-      <description><![CDATA[周一，Kroger 和 Albertsons Cos 表示，正在扩大计划中的杂货店销售，将比之前与 C&amp;S Wholesale Grocers 商定的数量多出 166 个地点，同时努力让监管机构批准其拟议的 250 亿美元合并计划。]]></description>
+      <description><![CDATA[周一，Kroger 和 Albertsons Cos 表示，正在扩大计划中的杂货店销售，将比之前向 C&amp;S Wholesale Grocers 商定的多 166 个地点出售，同时他们正在努力让监管机构批准其拟议的 250 亿美元合并。]]></description>
       <guid>https://www.reuters.com/markets/deals/kroger-albertsons-amend-asset-sale-agreement-with-cs-wholesale-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 12:40:57 GMT</pubDate>
     </item>
@@ -125,18 +132,11 @@
       <pubDate>Mon, 22 Apr 2024 10:37:22 GMT</pubDate>
     </item>
     <item>
-      <title>周五抛售后华尔街上涨，中东紧张局势缓和</title>
+      <title>华尔街股市收高，主要企业盈利预期</title>
       <link>https://www.reuters.com/markets/us/futures-recover-after-friday-sell-off-mideast-tensions-ease-2024-04-22/</link>
-      <description><![CDATA[由于中东紧张局势缓和提振了风险偏好，美国股市在前一交易日大幅下跌后，周一在交易中上涨，而投资者则期待本周将迎来重大科技财报和关键通胀数据。]]></description>
+      <description><![CDATA[继前几个交易日市场抛售之后，华尔街股市周一收高，因为投资者关注繁忙的一周主要公司的季度业绩，这些业绩将让我们一睹美国经济的健康状况。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-recover-after-friday-sell-off-mideast-tensions-ease-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 10:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grindr 因涉嫌分享用户的艾滋病毒状况而面临英国数据诉讼</title>
-      <link>https://www.reuters.com/technology/grindr-facing-uk-lawsuit-over-alleged-data-protection-breaches-2024-04-22/</link>
-      <description><![CDATA[一家律师事务所周一表示，同性恋约会应用程序 Grindr 在伦敦面临着数百名用户的大规模数据保护诉讼，据称这些用户未经同意与第三方分享了包括艾滋病毒状况在内的私人信息。]]></description>
-      <guid>https://www.reuters.com/technology/grindr-facing-uk-lawsuit-over-alleged-data-protection-breaches-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 10:12:51 GMT</pubDate>
     </item>
     <item>
       <title>焦点：随着页岩油产量放缓，一个深水港口为客户而苦苦挣扎</title>
