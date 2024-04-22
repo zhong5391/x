@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 22 Apr 2024 02:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 02:36:41 GMT</lastBuildDate>
     <item>
-      <title>据《华尔街日报》报道，Salesforce 收购 Informatica 的谈判失败</title>
+      <title>竞争激烈 新西兰航空盈利前景遭下调 股价下跌</title>
+      <link>https://www.reuters.com/business/aerospace-defense/air-new-zealand-falls-after-earnings-outlook-cut-stiff-competition-2024-04-22/</link>
+      <description><![CDATA[新西兰航空周一下调了年度盈利预期，理由是经济逆风和生活成本危机导致国内和北美市场收入疲软，导致该公司股价跌至近两年低点。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/air-new-zealand-falls-after-earnings-outlook-cut-stiff-competition-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:40:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国比亚迪将电动皮卡命名为“比亚迪鲨鱼”</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinas-byd-names-electric-pickup-truck-byd-shark-2024-04-22/</link>
+      <description><![CDATA[中国电动汽车制造商比亚迪周一表示，其电动皮卡将被称为比亚迪Shark，并将配备名为双模式越野（DMO）的插电式混合动力系统，该系统是为改善越野驾驶体验而开发的。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-names-electric-pickup-truck-byd-shark-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过疲倦的一周后，货币平静但谨慎</title>
+      <link>https://www.reuters.com/markets/currencies/currencies-calm-cautious-after-weary-week-2024-04-22/</link>
+      <description><![CDATA[周一亚洲早盘，欧元和日元相对稳定，美元在上周紧张的政策和地缘政治事态发展后仍维持在高位附近。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/currencies-calm-cautious-after-weary-week-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 01:01:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着美国原油价格上涨，油价回落，降息担忧凸显</title>
+      <link>https://www.reuters.com/markets/commodities/oil-prices-retreat-us-crude-build-rate-cut-concerns-come-fore-2024-04-22/</link>
+      <description><![CDATA[周一亚洲开盘，油价下跌，受市场基本面重新关注的拖累，以色列和伊朗在以色列对伊朗发动明显小规模打击后淡化了中东敌对行动升级的风险。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/oil-prices-retreat-us-crude-build-rate-cut-concerns-come-fore-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 00:50:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息人士称 Salesforce 放弃收购 Informatica</title>
       <link>https://www.reuters.com/markets/deals/salesforces-talks-buy-informatica-fizzle-wsj-reports-2024-04-21/</link>
-      <description><![CDATA[据《华尔街日报》周日援引知情人士的话报道，客户关系软件制造商 Salesforce 收购数据管理软件公司 Informatica 的谈判因两家公司未能就条款达成一致而失败。]]></description>
+      <description><![CDATA[一位知情人士周日告诉路透社，商业软件制造商 Salesforce 已放弃收购数据管理软件公司 Informatica 的谈判，因为两家公司未能就条款达成一致。]]></description>
       <guid>https://www.reuters.com/markets/deals/salesforces-talks-buy-informatica-fizzle-wsj-reports-2024-04-21/</guid>
       <pubDate>Sun, 21 Apr 2024 23:32:52 GMT</pubDate>
     </item>
@@ -34,7 +62,7 @@
       <pubDate>Sun, 21 Apr 2024 23:02:50 GMT</pubDate>
     </item>
     <item>
-      <title>早盘买盘：汇率脆弱，科技股云情绪低落</title>
+      <title>早盘买盘：汇率脆弱，科技股云情绪低迷</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-21/</link>
       <description><![CDATA[展望未来一天的亚洲市场。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-21/</guid>
@@ -62,16 +90,9 @@
       <pubDate>Sun, 21 Apr 2024 18:57:17 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉在德国和欧洲下调部分车型的价格</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-cuts-prices-some-models-germany-europe-2024-04-21/</link>
-      <description><![CDATA[一位发言人周日表示，特斯拉正在降低德国以及欧洲其他地区、中东和非洲部分车型的价格。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-cuts-prices-some-models-germany-europe-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 15:20:11 GMT</pubDate>
-    </item>
-    <item>
       <title>SonntagsZeitung 称瑞银将于 6 月开始五波裁员</title>
       <link>https://www.reuters.com/business/finance/five-waves-ubs-layoffs-start-june-sonntagszeitung-says-2024-04-21/</link>
-      <description><![CDATA[据《星期日报》周日报道，瑞士银行业巨头瑞银集团 (UBS) 收购瑞士信贷银行 (Credit Suisse) 后宣布的成本削减计划，今年将从 6 月开始分五波裁员。]]></description>
+      <description><![CDATA[据《星期日报》周日报道，瑞士银行业巨头瑞银集团在收购瑞信后宣布的成本削减计划将于今年六月开始分五波进行裁员。]]></description>
       <guid>https://www.reuters.com/business/finance/five-waves-ubs-layoffs-start-june-sonntagszeitung-says-2024-04-21/</guid>
       <pubDate>Sun, 21 Apr 2024 09:53:12 GMT</pubDate>
     </item>
@@ -113,7 +134,7 @@
     <item>
       <title>迪拜洪水过后，阿联酋航空和迪拜航空恢复正常运营</title>
       <link>https://www.reuters.com/business/aerospace-defense/emirates-flydubai-resume-normal-operations-after-dubai-floods-2024-04-20/</link>
-      <description><![CDATA[迪拜旗舰航空公司阿联酋航空和姊妹航空公司迪拜航空周六表示，本周早些时候大雨导致阿拉伯联合酋长国出现严重洪水后，两家航空公司已恢复正常运营。]]></description>
+      <description><![CDATA[迪拜旗舰航空公司阿联酋航空和姊妹航空公司迪拜航空周六表示，本周早些时候大雨导致阿拉伯联合酋长国发生严重洪水后，两家航空公司已恢复正常运营。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/emirates-flydubai-resume-normal-operations-after-dubai-floods-2024-04-20/</guid>
       <pubDate>Sat, 20 Apr 2024 10:56:15 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[社交媒体平台 X 周六表示，它将在法庭上质疑澳大利亚监管机构的一项命令，该命令要求该公司删除一些与悉尼主教被刺伤有关的帖子。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/x-vows-robustly-challenge-australia-order-remove-stabbing-posts-2024-04-20/</guid>
       <pubDate>Sat, 20 Apr 2024 05:56:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉将 Model Y、X、S 在美国的售价下调 2,000 美元</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-cuts-us-prices-models-y-x-s-by-2000-2024-04-20/</link>
-      <description><![CDATA[周五，特斯拉将其 Model Y、Model X 和 Model S 汽车在美国的价格各下调了 2,000 美元，几天前，这家全球最有价值的汽车制造商第一季度的交付量未达到市场预期。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-cuts-us-prices-models-y-x-s-by-2000-2024-04-20/</guid>
-      <pubDate>Sat, 20 Apr 2024 05:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>UAW 在大众汽车田纳西州工厂的历史性工会投票中大获全胜</title>
-      <link>https://www.reuters.com/business/autos-transportation/uaw-clinches-watershed-union-victory-volkswagen-tennessee-factory-2024-04-20/</link>
-      <description><![CDATA[大众汽车田纳西州工厂的工人们投票加入汽车工人联合会，这是该工会在走出底特律基地进入美国南部和西部之际取得的一场巨大胜利。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/uaw-clinches-watershed-union-victory-volkswagen-tennessee-factory-2024-04-20/</guid>
-      <pubDate>Sat, 20 Apr 2024 02:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于竞争对手使用竞争对手的电动大型卡车，特斯拉半卡车对百事可乐供应短缺</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/</link>
-      <description><![CDATA[特斯拉的主要客户百事公司于 2017 年支付了 100 辆特斯拉半挂车的首期付款，打算利用电动卡车车队将其奇多、乐事薯片和百事可乐汽水运送给零售商。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-semi-trucks-short-supply-pepsico-its-rivals-use-competing-ev-big-rigs-2024-04-19/</guid>
-      <pubDate>Fri, 19 Apr 2024 19:04:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
