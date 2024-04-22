@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 22 Apr 2024 12:37:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 12:56:54 GMT</lastBuildDate>
+    <item>
+      <title>早间竞价：随着第一季度的到来，大型科技公司陷入困境，英伟达惨遭重创</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-22/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 10:07:40 GMT</pubDate>
+    </item>
     <item>
       <title>减税政策承压 中国一季度财政收入下降</title>
       <link>https://www.reuters.com/world/china/chinas-q1-fiscal-revenue-falls-tax-cut-policies-weigh-2024-04-22/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>德国逮捕三名涉嫌向中国提供技术的人</title>
       <link>https://www.reuters.com/world/germany-arrests-three-suspected-spying-china-2024-04-22/</link>
-      <description><![CDATA[检察官周一表示，三名德国公民因涉嫌与中国特勤局合作移交可用于军事目的的技术而被捕。]]></description>
+      <description><![CDATA[德国官员周一表示，三名德国人因涉嫌与中国特勤局合作移交可用于军事目的的技术而被捕，这些技术可能有助于加强中国海军。]]></description>
       <guid>https://www.reuters.com/world/germany-arrests-three-suspected-spying-china-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 08:29:30 GMT</pubDate>
     </item>
@@ -55,9 +62,9 @@
       <pubDate>Mon, 22 Apr 2024 07:03:04 GMT</pubDate>
     </item>
     <item>
-      <title>诺镍公司关闭俄罗斯工厂后将在中国建设铜厂</title>
+      <title>俄罗斯诺镍公司计划在中国建铜厂，距离最大买家更近</title>
       <link>https://www.reuters.com/markets/commodities/russias-nornickel-move-copper-plant-china-ceo-tells-interfax-2024-04-22/</link>
-      <description><![CDATA[金属巨头诺镍公司首席执行官弗拉基米尔·波塔宁表示，在西方技术合作伙伴拒绝供应零部件后，该公司将关闭其旨在减少俄罗斯北极地区二氧化硫排放的铜厂，并在中国建造一座新铜厂。]]></description>
+      <description><![CDATA[诺镍公司周一表示，由于难以向遭受制裁的俄罗斯进口设备，该公司将关闭其北极铜厂，并与一位未透露姓名的合作伙伴在中国建造一座工厂，以直接进入全球最大的金属市场。]]></description>
       <guid>https://www.reuters.com/markets/commodities/russias-nornickel-move-copper-plant-china-ceo-tells-interfax-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 06:46:28 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Mon, 22 Apr 2024 06:17:30 GMT</pubDate>
     </item>
     <item>
-      <title>媒体称亲华党以压倒性优势赢得马尔代夫选举</title>
+      <title>媒体称亲华党以压倒性优势赢得马尔代夫大选</title>
       <link>https://www.reuters.com/world/asia-pacific/pro-china-party-wins-maldives-election-landslide-media-say-2024-04-22/</link>
       <description><![CDATA[媒体周一称，马尔代夫选民让总统穆罕默德·穆伊祖的政党在议会选举中取得压倒性胜利，这一结果将使印度洋群岛更加接近中国，远离传统伙伴印度。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/pro-china-party-wins-maldives-election-landslide-media-say-2024-04-22/</guid>
@@ -106,14 +113,14 @@
     <item>
       <title>洪水淹没中国南部，引发极端天气恐惧</title>
       <link>https://www.reuters.com/world/china/rescuers-race-reach-those-trapped-by-floods-chinas-guangdong-2024-04-22/</link>
-      <description><![CDATA[破纪录的降雨之后，中国南部人口稠密的珠江三角洲的一些城市被洪水淹没，引发了人们对该地区抵御极端天气事件引发的更大规模洪水的担忧。]]></description>
+      <description><![CDATA[破纪录的降雨之后，洪水淹没了中国南部人口稠密的珠江三角洲的城市，引发了人们对该地区抵御极端天气事件引发的更大规模洪水的担忧。]]></description>
       <guid>https://www.reuters.com/world/china/rescuers-race-reach-those-trapped-by-floods-chinas-guangdong-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 02:49:41 GMT</pubDate>
     </item>
     <item>
       <title>中东担忧情绪缓和，股市反弹，石油和黄金回落</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-22/</link>
-      <description><![CDATA[世界股市周一收复了部分跌幅，债券、石油和黄金下跌，因投资者出于对更广泛的中东冲突的担忧而扭转了周末采取的一些更具防御性的立场。]]></description>
+      <description><![CDATA[世界股市周一收复了部分跌幅，债券、石油和黄金下跌，因投资者出于对中东冲突扩大的担忧而扭转了周末采取的一些更具防御性的立场。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 02:42:22 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[美国商务部长吉娜·雷蒙多周日表示，受制裁的中国公司华为的 Mate 60 Pro 手机所使用的芯片并不像美国芯片那么先进，她认为这表明美国对向这家电信设备巨头发货的限制正在发挥作用。]]></description>
       <guid>https://www.reuters.com/technology/us-commerce-secretary-downplays-chip-advanced-huawei-phone-2024-04-21/</guid>
       <pubDate>Sun, 21 Apr 2024 23:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘买盘：汇率脆弱，科技股云情绪低落</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-21/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 21:47:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
