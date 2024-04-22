@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 22 Apr 2024 19:42:02 GMT</lastBuildDate>
-    <item>
-      <title>台湾发生6.3级地震，目前尚无受损报告</title>
-      <link>https://www.reuters.com/world/asia-pacific/taiwan-rattled-by-63-magnitude-quake-no-immediate-reports-damage-2024-04-22/</link>
-      <description><![CDATA[台湾气象部门表示，周二，台湾东部花莲县发生了 6.3 级地震，目前尚未收到受损情况报告。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/taiwan-rattled-by-63-magnitude-quake-no-immediate-reports-damage-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 18:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>布林肯访华前报告称新疆种族灭绝仍在继续</title>
-      <link>https://www.reuters.com/world/blinken-says-genocide-xinjiang-is-ongoing-report-ahead-china-visit-2024-04-22/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯在计划于本周访问中国之前发表的一份报告中表示，北京继续在西部新疆省对维吾尔族和其他穆斯林少数民族犯下种族灭绝和反人类罪。]]></description>
-      <guid>https://www.reuters.com/world/blinken-says-genocide-xinjiang-is-ongoing-report-ahead-china-visit-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 18:02:11 GMT</pubDate>
-    </item>
+    <lastBuildDate>Mon, 22 Apr 2024 19:58:42 GMT</lastBuildDate>
     <item>
       <title>独家：随着石油制裁的回归，委内瑞拉将加速加密货币转型</title>
       <link>https://www.reuters.com/business/finance/venezuela-accelerate-cryptocurrency-shift-oil-sanctions-return-2024-04-22/</link>
@@ -29,7 +15,7 @@
     <item>
       <title>欧盟威胁暂停 TikTok Lite 的奖励计划</title>
       <link>https://www.reuters.com/technology/tiktok-lites-reward-programme-may-be-suspended-europe-eu-regulators-say-2024-04-22/</link>
-      <description><![CDATA[欧盟委员会周一表示，如果 TikTok 无法解决其可能对儿童造成成瘾影响的担忧，欧盟委员会周四可能会暂停 TikTok Lite 的奖励计划，同时对这款新应用程序在法国和西班牙的推出展开调查。]]></description>
+      <description><![CDATA[欧盟委员会表示，如果 TikTok 未能对监管​​机构对新应用程序对用户心理健康影响的担忧做出令人满意的回应，欧盟委员会周四可能会暂停 TikTok Lite 的一项关键功能。]]></description>
       <guid>https://www.reuters.com/technology/tiktok-lites-reward-programme-may-be-suspended-europe-eu-regulators-say-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 14:58:15 GMT</pubDate>
     </item>
@@ -57,14 +43,14 @@
     <item>
       <title>由于主要市场疲软，印度成品钻石出口下降 27.5%</title>
       <link>https://www.reuters.com/markets/commodities/indias-polished-diamond-exports-drop-275-key-markets-falter-2024-04-22/</link>
-      <description><![CDATA[一家主要贸易机构周一表示，由于美国、中国和阿拉伯联合酋长国的需求低迷，印度 2023/24 年切割和成品钻石出口额同比下降 27.5%，至 159.7 亿美元。]]></description>
+      <description><![CDATA[一家主要贸易机构周一表示，由于美国、中国和阿联酋的需求低迷，印度 2023/24 年切割和成品钻石出口额同比下降 27.5%，至 159.7 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/commodities/indias-polished-diamond-exports-drop-275-key-markets-falter-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 11:38:19 GMT</pubDate>
     </item>
     <item>
       <title>无聊的统治？霍纳为“节拍器”维斯塔潘辩护</title>
       <link>https://www.reuters.com/sports/formula1/boring-dominance-horner-defends-metronome-verstappen-2024-04-22/</link>
-      <description><![CDATA[红牛主教练克里斯蒂安·霍纳否认了马克斯·维斯塔潘让一级方程式赛车变得无聊的说法，这位三届世界冠军周末在中国将自己的统治地位推向了新的高度。]]></description>
+      <description><![CDATA[红牛主帅克里斯蒂安·霍纳否认了马克斯·维斯塔潘让一级方程式赛车变得无聊的说法，这位三届世界冠军周末在中国将自己的统治力提升到了新的高度。]]></description>
       <guid>https://www.reuters.com/sports/formula1/boring-dominance-horner-defends-metronome-verstappen-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 11:30:16 GMT</pubDate>
     </item>
@@ -92,7 +78,7 @@
     <item>
       <title>中国反对日本首相参拜靖国神社</title>
       <link>https://www.reuters.com/world/asia-pacific/china-opposes-japan-prime-ministers-offering-yasukuni-shrine-2024-04-22/</link>
-      <description><![CDATA[中国周一对日本首相岸田文雄在东京一座有争议的神社举行祭祀活动表示强烈反对，中国和韩国认为该神社是日本昔日军事侵略的象征。]]></description>
+      <description><![CDATA[中国周一对日本首相岸田文雄在东京一座有争议的神社进行祭祀表示强烈反对，中国和韩国认为该神社是日本过去军事侵略的象征。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/china-opposes-japan-prime-ministers-offering-yasukuni-shrine-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 08:12:43 GMT</pubDate>
     </item>
@@ -118,6 +104,13 @@
       <pubDate>Mon, 22 Apr 2024 07:09:50 GMT</pubDate>
     </item>
     <item>
+      <title>国际象棋印度少年古克什赢得候选人赛，与丁丁对决</title>
+      <link>https://www.reuters.com/sports/chess-indian-teenager-gukesh-wins-candidates-sets-up-ding-showdown-2024-04-22/</link>
+      <description><![CDATA[周日在多伦多举行的双循环赛最后一天，古克什·多玛拉朱 (Gukesh Dommaraju) 与中村光 (Hikaru Nakamura) 战平，成为赢得男子国际象棋候选锦标赛最年轻的选手。]]></description>
+      <guid>https://www.reuters.com/sports/chess-indian-teenager-gukesh-wins-candidates-sets-up-ding-showdown-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 07:03:04 GMT</pubDate>
+    </item>
+    <item>
       <title>官员表示，中国致力于通过对话解决海上争端</title>
       <link>https://www.reuters.com/world/china/china-is-committed-resolving-maritime-disputes-through-talks-official-says-2024-04-22/</link>
       <description><![CDATA[周一，一名高级军事官员在港口城市青岛举行的外国海军高级官员会议上表示，中国仍然致力于通过对话解决与其他国家的海上争端，但不会允许自己被“滥用”。]]></description>
@@ -137,6 +130,13 @@
       <description><![CDATA[由于对更广泛的中东冲突的担忧有所缓解，投资者周一缩减了避险押注，提振了世界股市，并对黄金、石油和债券价格构成压力。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 02:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>澳大利亚运动员霍顿表示反兴奋剂制度在中国的愤怒中失败了运动员</title>
+      <link>https://www.reuters.com/sports/australian-coach-defends-chinese-swimming-amid-doping-furore-2024-04-22/</link>
+      <description><![CDATA[前奥运冠军马克·霍顿周一表示，在23名中国游泳运动员在东京奥运会前未通过药检后被清查的消息后，“失败”的反兴奋剂制度已经损害了体育运动，运动员们也感到失望。]]></description>
+      <guid>https://www.reuters.com/sports/australian-coach-defends-chinese-swimming-amid-doping-furore-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 02:28:11 GMT</pubDate>
     </item>
     <item>
       <title>美国商务部长淡化华为先进手机中的芯片</title>
