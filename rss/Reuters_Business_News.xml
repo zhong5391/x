@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 23 Apr 2024 08:41:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 08:58:39 GMT</lastBuildDate>
+    <item>
+      <title>微软推出更小的人工智能模型</title>
+      <link>https://www.reuters.com/technology/microsoft-introduces-smaller-ai-model-2024-04-23/</link>
+      <description><![CDATA[微软周二宣布了一种经济高效的小语言人工智能模型，该模型可以在使用少量数据的同时执行内容创建和创建社交媒体帖子等任务。]]></description>
+      <guid>https://www.reuters.com/technology/microsoft-introduces-smaller-ai-model-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 07:57:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>PMI 调查显示德国 4 月份商业活动恢复增长</title>
+      <link>https://www.reuters.com/markets/europe/german-business-activity-returns-growth-april-pmi-survey-shows-2024-04-23/</link>
+      <description><![CDATA[周二的初步调查显示，在该国服务业活动强劲增长的推动下，德国私营部门 4 月份意外恢复增长。]]></description>
+      <guid>https://www.reuters.com/markets/europe/german-business-activity-returns-growth-april-pmi-survey-shows-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 07:32:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>受重组成本影响，日本电产公布意外季度亏损</title>
+      <link>https://www.reuters.com/business/autos-transportation/nidec-posts-quarterly-loss-hit-by-restructuring-costs-2024-04-23/</link>
+      <description><![CDATA[日本电机制造商日本电产周二公布一月至三月季度的运营亏损，原因是为应对中国电动汽车市场激烈的价格竞争而采取的重组措施产生了成本。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/nidec-posts-quarterly-loss-hit-by-restructuring-costs-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 06:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>JD Sports将以10.8亿美元的运动服装零售交易收购美国竞争对手Hibbett</title>
+      <link>https://www.reuters.com/markets/deals/british-retailer-jd-sports-buy-us-rival-hibbett-108-billion-2024-04-23/</link>
+      <description><![CDATA[周二，JD Sports Fashion 提议以约 10.8 亿美元收购美国运动时尚零售商 Hibbett Inc，这家英国最大的运动服装零售商希望在美国东南部扩张。]]></description>
+      <guid>https://www.reuters.com/markets/deals/british-retailer-jd-sports-buy-us-rival-hibbett-108-billion-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 06:12:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本 7-11 便利连锁店瞄准全球积极增长</title>
+      <link>https://www.reuters.com/business/retail-consumer/japans-7-eleven-convenience-chain-targets-aggressive-global-growth-2024-04-23/</link>
+      <description><![CDATA[日本零售巨头七&amp; i Holdings周二表示，希望看到其7-11便利店连锁店在全球范围内实现巨大增长，并将加速其进入欧洲、拉丁美洲、中东和非洲的步伐。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/japans-7-eleven-convenience-chain-targets-aggressive-global-growth-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 06:10:04 GMT</pubDate>
+    </item>
     <item>
       <title>越南菲亚特动力科技 (FPT) 将投资 2 亿美元建设使用 Nvidia 芯片的人工智能工厂</title>
       <link>https://www.reuters.com/technology/vietnams-fpt-invest-200-mln-ai-factory-using-nvidia-chips-2024-04-23/</link>
@@ -13,16 +48,16 @@
       <pubDate>Tue, 23 Apr 2024 06:04:22 GMT</pubDate>
     </item>
     <item>
-      <title>融资业务助力雷诺第一季度销量增长1.8%</title>
+      <title>雷诺表示新车型将提升 2024 年销量并确认利润前景</title>
       <link>https://www.reuters.com/business/autos-transportation/renault-q1-sales-rise-18-2024-04-23/</link>
-      <description><![CDATA[法国汽车制造商雷诺周二表示，第一季度营收增长1.8%，融资业务的良好表现抵消了核心汽车销售营业额的下降。]]></description>
+      <description><![CDATA[法国汽车制造商雷诺周二表示，随着推出多款新车型，预计今年销量增长将加速，同时确认了 2024 年的利润率和现金流预测，并推进成本削减。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/renault-q1-sales-rise-18-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 05:06:26 GMT</pubDate>
     </item>
     <item>
       <title>IEA表示，电动汽车销量将上升，但可负担性成为焦点</title>
       <link>https://www.reuters.com/business/autos-transportation/electric-car-sales-rise-affordability-focus-iea-says-2024-04-23/</link>
-      <description><![CDATA[国际能源署 (IEA) 周二预测，尽管一些市场面临经济阻力，但电动汽车销量将在 2024 年强劲增长，但负担能力和充电基础设施将是未来增长的关键。]]></description>
+      <description><![CDATA[国际能源署 (IEA) 周二预测，尽管某些市场面临经济逆风，但 2024 年电动汽车销量仍将强劲增长，但可负担性和充电基础设施将是未来增长的关键。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/electric-car-sales-rise-affordability-focus-iea-says-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 05:03:47 GMT</pubDate>
     </item>
@@ -34,7 +69,7 @@
       <pubDate>Tue, 23 Apr 2024 04:35:28 GMT</pubDate>
     </item>
     <item>
-      <title>独家：招标显示，中国采购了近期被禁的超微和戴尔服务器的 Nvidia 芯片</title>
+      <title>独家：招标显示中国最近收购了超微、戴尔服务器中禁用的英伟达芯片</title>
       <link>https://www.reuters.com/world/china/china-acquired-recently-banned-nvidia-chips-super-micro-dell-servers-tenders-2024-04-23/</link>
       <description><![CDATA[尽管美国去年扩大了向中国出售此类技术的禁令，但中国的大学和研究机构最近通过经销商获得了高端英伟达人工智能芯片。]]></description>
       <guid>https://www.reuters.com/world/china/china-acquired-recently-banned-nvidia-chips-super-micro-dell-servers-tenders-2024-04-23/</guid>
@@ -55,13 +90,6 @@
       <pubDate>Tue, 23 Apr 2024 02:18:50 GMT</pubDate>
     </item>
     <item>
-      <title>路透调查显示韩国第一季度经济可能稳定增长</title>
-      <link>https://www.reuters.com/markets/asia/south-koreas-economy-likely-saw-steady-economic-growth-q1-2024-04-23/</link>
-      <description><![CDATA[路透社对经济学家的一项调查发现，由于出口改善抵消了家庭消费疲软，韩国经济上季度可能增长0.6%，保持与前三个月相同的扩张速度。]]></description>
-      <guid>https://www.reuters.com/markets/asia/south-koreas-economy-likely-saw-steady-economic-growth-q1-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 01:45:25 GMT</pubDate>
-    </item>
-    <item>
       <title>坚挺的美元加剧了日元的热度，加剧了干预言论</title>
       <link>https://www.reuters.com/markets/currencies/firm-dollar-drags-yen-down-closer-intervention-range-2024-04-23/</link>
       <description><![CDATA[美元坚挺，周二日元锁定在 34 年新低附近，投资者在展望美国重要通胀报告和日本央行本周利率决定时，对干预措施保持高度关注。]]></description>
@@ -74,13 +102,6 @@
       <description><![CDATA[油价继前一交易日下跌后，周二小幅走高，因投资者继续评估中东地缘政治担忧的风险。]]></description>
       <guid>https://www.reuters.com/markets/commodities/oil-rises-early-asian-trading-middle-east-tensions-remain-focus-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 01:00:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>ADM首席财务官因面临美国政府调查而辞职</title>
-      <link>https://www.reuters.com/markets/commodities/adm-cfo-resign-company-faces-us-government-investigation-2024-04-22/</link>
-      <description><![CDATA[谷物交易商Archer-Daniels-Midland周一表示，首席财务官Vikram Luthar将于9月30日辞职。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/adm-cfo-resign-company-faces-us-government-investigation-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 22:28:51 GMT</pubDate>
     </item>
     <item>
       <title>联合健康公司称黑客可能窃取了大量美国人的数据</title>
@@ -104,13 +125,6 @@
       <pubDate>Mon, 22 Apr 2024 20:56:25 GMT</pubDate>
     </item>
     <item>
-      <title>美银调查显示，地缘政治紧张局势是美国信贷投资者最关心的问题</title>
-      <link>https://www.reuters.com/markets/us/geopolitical-tensions-are-us-credit-investors-top-concern-bofa-survey-says-2024-04-22/</link>
-      <description><![CDATA[美国银行全球研究部的一项最新调查显示，地缘政治风险是美国企业信贷投资者最关心的问题。]]></description>
-      <guid>https://www.reuters.com/markets/us/geopolitical-tensions-are-us-credit-investors-top-concern-bofa-survey-says-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 20:06:41 GMT</pubDate>
-    </item>
-    <item>
       <title>备忘录称，波音预计 787 生产率和交付量增长将放缓</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeing-expects-slower-increase-787-rate-production-deliveries-memo-2024-04-22/</link>
       <description><![CDATA[波音公司一位负责该项目的高管周一对员工表示，由于美国飞机制造商正在努力解决“几个关键零部件”供应商短缺问题，预计其 787 宽体喷气式飞机的生产率和交付量增长将放缓。]]></description>
@@ -130,13 +144,6 @@
       <description><![CDATA[根据最近的数据和银行高管的数据，美国收入较低的借款人越来越难以偿还贷款，这促使银行在发放信用卡和汽车贷款时变得更加谨慎。]]></description>
       <guid>https://www.reuters.com/markets/us/us-consumers-lower-incomes-face-loan-stress-while-banks-pull-back-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 10:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>华尔街股市收高，主要企业盈利预期</title>
-      <link>https://www.reuters.com/markets/us/futures-recover-after-friday-sell-off-mideast-tensions-ease-2024-04-22/</link>
-      <description><![CDATA[继前几个交易日市场抛售之后，华尔街股市周一收高，因为投资者关注繁忙的一周主要公司的季度业绩，这些业绩将让我们一睹美国经济的健康状况。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-recover-after-friday-sell-off-mideast-tensions-ease-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 10:17:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
