@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 23 Apr 2024 21:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 21:51:50 GMT</lastBuildDate>
     <item>
       <title>为什么南海可能引发战争</title>
       <link>https://www.bloomberg.com/news/videos/2024-04-23/why-the-south-china-sea-could-spark-a-war-video</link>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 23 Apr 2024 20:38:28 GMT</pubDate>
     </item>
     <item>
-      <title>微软支持的 Rubrik 首次公开募股超额认购 20 倍</title>
+      <title>微软支持的 Rubrik 首次公开募股 (IPO) 超额认购 20 倍</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-23/microsoft-backed-rubrik-s-ipo-said-to-be-20-times-oversubscribed</link>
       <description><![CDATA[知情人士称，由微软公司支持的云和数据安全初创公司 Rubrik Inc. 在其计划的首次公开募股中吸引的订单数量约为可用股票数量的 20 倍。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-23/microsoft-backed-rubrik-s-ipo-said-to-be-20-times-oversubscribed</guid>
@@ -60,6 +60,13 @@
       <description><![CDATA[在中国主导的廉价进口商品大量涌入的情况下，巴西对 11 种合金产品实施进口配额制度，加强对其钢铁制造商的保护。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-23/brazil-joins-protectionist-wave-in-face-of-cheap-steel-imports</guid>
       <pubDate>Tue, 23 Apr 2024 20:29:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>佩雷尔曼的 Vericast 与贷方就债务销售条款发生争执</title>
+      <link>https://www.bloomberg.com/news/articles/2024-04-23/perelman-s-vericast-tussles-with-lenders-over-debt-terms-of-sale</link>
+      <description><![CDATA[罗纳德·佩雷尔曼 (Ronald Perelman) 旗下的 Vericast Corp. 因计划将其数字和印刷营销部门出售给 R.R. Donnelley &amp; Inc. 所涉及的债务条款而面临贷方的阻力。据知情人士透露，Sons Co.]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-04-23/perelman-s-vericast-tussles-with-lenders-over-debt-terms-of-sale</guid>
+      <pubDate>Tue, 23 Apr 2024 20:21:28 GMT</pubDate>
     </item>
     <item>
       <title>高盛股价升至 2021 年以来首个历史新高</title>
@@ -161,13 +168,6 @@
       <pubDate>Tue, 23 Apr 2024 18:46:18 GMT</pubDate>
     </item>
     <item>
-      <title>谨慎的英伟达交易员在盈利前关注看涨期权</title>
-      <link>https://www.bloomberg.com/news/articles/2024-04-23/wary-nvidia-nvda-traders-eye-call-option-play-ahead-of-earnings</link>
-      <description><![CDATA[用期权对冲英伟达股价大幅波动的成本高昂，但随着该股调整大幅上涨势头，衍生品交易商正试图出售合约以赚取额外收益。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-04-23/wary-nvidia-nvda-traders-eye-call-option-play-ahead-of-earnings</guid>
-      <pubDate>Tue, 23 Apr 2024 18:35:00 GMT</pubDate>
-    </item>
-    <item>
       <title>美国国债拍卖创纪录，吸引强劲买家需求，国债上涨</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-23/treasuries-hold-gains-as-record-us-auction-sees-solid-demand</link>
       <description><![CDATA[由于财政部大规模出售 690 亿美元的两年期国债，吸引了强劲的买家需求，美国政府债务周二上涨。尽管人们渴望的 5% 优惠券却难以实现。]]></description>
@@ -182,7 +182,7 @@
       <pubDate>Tue, 23 Apr 2024 12:22:07 GMT</pubDate>
     </item>
     <item>
-      <title>美国 PMI 数据低于预期后，新兴市场连续第二天反弹</title>
+      <title>美国 PMI 未达标后新兴市场延续反弹至第二天</title>
       <link>https://www.bloomberg.com/news/articles/2024-04-23/emerging-market-stocks-sustain-recovery-as-mideast-concerns-ease</link>
       <description><![CDATA[由于中东紧张局势有缓和的迹象，且美国经济数据疲软，引发人们对美联储可能采取不那么强硬立场的希望，新兴市场股市连续第二个交易日上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-04-23/emerging-market-stocks-sustain-recovery-as-mideast-concerns-ease</guid>
