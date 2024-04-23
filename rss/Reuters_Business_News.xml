@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 23 Apr 2024 14:30:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 14:58:37 GMT</lastBuildDate>
+    <item>
+      <title>4月份美国商业活动降温；通胀措施好坏参半</title>
+      <link>https://www.reuters.com/markets/us/us-business-activity-cools-april-inflation-measures-mixed-2024-04-23/</link>
+      <description><![CDATA[由于需求疲软，美国 4 月份商业活动降温至四个月低点，而尽管投入价格大幅上涨，通胀率仍略有回落，这表明未来可能会出现一些缓解，因为美联储正在寻找经济衰退足以带来经济衰退的迹象。通胀进一步下降。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-business-activity-cools-april-inflation-measures-mixed-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 13:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>继2023年重磅炸弹之后，美国石油和天然气并购创下季度纪录</title>
+      <link>https://www.reuters.com/markets/deals/us-oil-gas-ma-hits-quarterly-record-after-blockbuster-2023-2024-04-23/</link>
+      <description><![CDATA[数据提供商 Enverus 周二表示，第一季度美国石油和天然气交易额达到创纪录的 510 亿美元，延续了去年以美国顶级页岩油田为中心的激烈并购步伐。]]></description>
+      <guid>https://www.reuters.com/markets/deals/us-oil-gas-ma-hits-quarterly-record-after-blockbuster-2023-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 13:51:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大竞争局对邦吉与维特拉的拟议合并表示严重关切</title>
+      <link>https://www.reuters.com/markets/deals/canadian-competition-bureau-has-major-concerns-about-proposed-bunge-viterra-2024-04-23/</link>
+      <description><![CDATA[加拿大竞争局周二表示，它已经发现了围绕美国谷物贸易商 Bunge 和嘉能可支持的 Viterra 拟议合并的主要竞争问题。]]></description>
+      <guid>https://www.reuters.com/markets/deals/canadian-competition-bureau-has-major-concerns-about-proposed-bunge-viterra-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 13:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>可口可乐签署 11 亿美元协议使用微软云和人工智能服务</title>
+      <link>https://www.reuters.com/technology/coca-cola-signs-11-bln-deal-use-microsoft-cloud-ai-services-2024-04-23/</link>
+      <description><![CDATA[微软周二表示，可口可乐已签署一项价值 11 亿美元的五年期协议，使用其云计算和人工智能服务。]]></description>
+      <guid>https://www.reuters.com/technology/coca-cola-signs-11-bln-deal-use-microsoft-cloud-ai-services-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 13:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>威廉索诺玛因“美国制造”声称被美国联邦贸易委员会罚款</title>
+      <link>https://www.reuters.com/business/retail-consumer/williams-sonoma-is-fined-by-us-ftc-over-made-usa-claims-2024-04-23/</link>
+      <description><![CDATA[威廉姆斯-索诺玛公司将支付 318 万美元民事罚款，以和解美国联邦贸易委员会对其违反 2020 年 7 月命令、谎称其部分产品为“美国制造”的指控。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/williams-sonoma-is-fined-by-us-ftc-over-made-usa-claims-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛克希德·马丁公司因需求强劲而超出第一季度利润预期</title>
+      <link>https://www.reuters.com/business/aerospace-defense/lockheed-martin-beats-q1-profit-estimates-strong-demand-2024-04-23/</link>
+      <description><![CDATA[美国武器制造商洛克希德·马丁公司周二第一季度销售额和利润超出了华尔街预期，因地缘政治紧张局势不断升温促使一些国家增加国防开支，推动了对新武器的需求。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/lockheed-martin-beats-q1-profit-estimates-strong-demand-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:35:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果无法履行债务义务，Fisker可能在30天内寻求破产保护</title>
+      <link>https://www.reuters.com/business/autos-transportation/fisker-may-seek-bankruptcy-protection-30-days-if-unable-meet-debt-obligations-2024-04-23/</link>
+      <description><![CDATA[菲斯克在周二向监管机构提交的文件中披露，如果未能从债权人处获得足够的救济，也无法获得足够的流动性来履行当前的债务义务，菲斯克可能必须在 30 天内申请破产保护。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/fisker-may-seek-bankruptcy-protection-30-days-if-unable-meet-debt-obligations-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:32:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉计划在德国自愿裁员约 400 人</title>
+      <link>https://www.reuters.com/business/autos-transportation/tesla-aims-cut-400-jobs-germany-via-voluntary-programme-2024-04-23/</link>
+      <description><![CDATA[特斯拉周二表示，其目标是在柏林附近的德国超级工厂裁员约 400 人，约占该工厂员工总数的 3%，并补充称希望在不强制裁员的情况下实现这一目标。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/tesla-aims-cut-400-jobs-germany-via-voluntary-programme-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:17:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌投资 6.4 亿美元在荷兰建设新数据中心</title>
+      <link>https://www.reuters.com/technology/google-invests-640-mln-new-data-centre-netherlands-2024-04-23/</link>
+      <description><![CDATA[Alphabet 旗下的谷歌周二表示，将投资 6 亿欧元（6.4062 亿美元）在荷兰格罗宁根市建设一个新数据中心，并补充说这项投资将创造 125 个新就业岗位。]]></description>
+      <guid>https://www.reuters.com/technology/google-invests-640-mln-new-data-centre-netherlands-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:12:35 GMT</pubDate>
+    </item>
     <item>
       <title>菲利普莫里斯公司的业绩超出了加热烟棒需求的预期</title>
       <link>https://www.reuters.com/business/retail-consumer/philip-morris-results-beat-estimates-demand-heated-tobacco-sticks-2024-04-23/</link>
@@ -13,72 +76,30 @@
       <pubDate>Tue, 23 Apr 2024 11:59:41 GMT</pubDate>
     </item>
     <item>
-      <title>短缺是铜价上涨至新高的关键</title>
-      <link>https://www.reuters.com/markets/commodities/shortages-key-coppers-upward-price-trajectory-new-peaks-2024-04-23/</link>
-      <description><![CDATA[未来几个月出现的短缺预计将维持铜价上涨至每吨 10,000 美元心理关口的上涨势头。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/shortages-key-coppers-upward-price-trajectory-new-peaks-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 11:53:02 GMT</pubDate>
+      <title>大众汽车掌握着保时捷与法拉利竞争的关键</title>
+      <link>https://www.reuters.com/business/autos-transportation/volkswagen-holds-keys-porsches-race-against-ferrari-2024-04-23/</link>
+      <description><![CDATA[保时捷公司能否对顶级竞争对手法拉利进行大幅估值折扣，可能取决于其主要所有者大众汽车是否准备退一步，从而让这家德国跑车制造商有更多自由来削减成本和塑造未来。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-holds-keys-porsches-race-against-ferrari-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:41:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：厄瓜多尔正在研究新的亚马逊和海洋相关的债务与自然互换</title>
+      <link>https://www.reuters.com/sustainability/climate-energy/ecuador-examining-new-amazon-ocean-linked-debt-for-nature-swaps-sources-say-2024-04-23/</link>
+      <description><![CDATA[知情人士告诉路透社，厄瓜多尔正在考虑新的债务换自然方案，其中一项将资金注入亚马逊雨林，另一项则用于好莱坞明星莱昂纳多·迪卡普里奥支持的巨大海洋保护区。]]></description>
+      <guid>https://www.reuters.com/sustainability/climate-energy/ecuador-examining-new-amazon-ocean-linked-debt-for-nature-swaps-sources-say-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:35:59 GMT</pubDate>
     </item>
     <item>
       <title>洛克希德·马丁公司报告称，由于国防需求强劲，销售额增加</title>
       <link>https://www.reuters.com/business/aerospace-defense/lockheed-martin-reports-higher-sales-strong-defense-demand-2024-04-23/</link>
-      <description><![CDATA[美国武器制造商洛克希德马丁公司周二报告称，由于地缘政治紧张局势不断升温，促使一些国家增加国防开支，推动了对新武器的需求，第一季度销售额增长了近14%。]]></description>
+      <description><![CDATA[美国武器制造商洛克希德马丁公司周二报告称，由于地缘政治紧张局势不断升温，促使一些国家增加国防开支，从而推动了对新武器的需求，第一季度销售额增长了近14%。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/lockheed-martin-reports-higher-sales-strong-defense-demand-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 11:34:32 GMT</pubDate>
     </item>
     <item>
-      <title>MSCI 第一季度利润因指数产品需求增加而跃升</title>
-      <link>https://www.reuters.com/business/finance/msci-q1-profit-jumps-higher-demand-index-products-2024-04-23/</link>
-      <description><![CDATA[摩根士丹利资本国际（MSCI）第一季度利润周二上涨，原因是美联储降息可能性较小引发波动，对其指数产品和分析服务的需求强劲。]]></description>
-      <guid>https://www.reuters.com/business/finance/msci-q1-profit-jumps-higher-demand-index-products-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 11:26:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>辉瑞与 Moderna 就新冠疫苗专利之战在英国打响</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-vs-moderna-battle-over-covid-vaccine-patents-begins-uk-2024-04-23/</link>
-      <description><![CDATA[辉瑞和 BioNTech 要求伦敦法院撤销竞争对手 Moderna 的 COVID-19 疫苗开发关键技术专利，全球法律战的最新一站于周二开始。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/pfizer-vs-moderna-battle-over-covid-vaccine-patents-begins-uk-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 11:21:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>PulteGroup 因房屋销量增加而超出利润和收入预期</title>
-      <link>https://www.reuters.com/business/pultegroup-beats-profit-revenue-estimates-higher-home-sales-2024-04-23/</link>
-      <description><![CDATA[周二，房屋建筑商普尔特集团(PulteGroup)第一季度利润和收入超出了华尔街预期，这得益于现有房屋严重短缺的情况下对新建筑的强劲需求。]]></description>
-      <guid>https://www.reuters.com/business/pultegroup-beats-profit-revenue-estimates-higher-home-sales-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 11:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>金佰利上调需求弹性和价格上涨的年度预测</title>
-      <link>https://www.reuters.com/business/retail-consumer/kimberly-clark-lifts-annual-forecasts-resilient-demand-higher-prices-2024-04-23/</link>
-      <description><![CDATA[金佰利公司周二上调了年度销售额和利润预期，原因是其第一季度的销售额和利润超出了预期，这主要得益于北美地区对其优质个人护理和家居产品的更高定价和强劲需求。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/kimberly-clark-lifts-annual-forecasts-resilient-demand-higher-prices-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 11:07:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>RTX 利润因航空实力和军事需求增长 20%</title>
-      <link>https://www.reuters.com/business/aerospace-defense/rtx-profit-jumps-20-aviation-strength-military-demand-2024-04-23/</link>
-      <description><![CDATA[航空航天和国防巨头 RTX 周二报告称，得益于强劲的商业售后市场业务和军事设备需求，其第一季度利润增长了 20%。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/rtx-profit-jumps-20-aviation-strength-military-demand-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈里伯顿国际实力不断增强，季度利润超出预期</title>
-      <link>https://www.reuters.com/markets/commodities/halliburton-beats-q1-profit-growing-international-strength-2024-04-23/</link>
-      <description><![CDATA[哈里伯顿公司周二超出第一季度利润预期，因国际市场钻探需求增加帮助这家油田服务公司应对北美经济放缓的影响。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/halliburton-beats-q1-profit-growing-international-strength-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>高盛和美国银行再次面临拆分首席执行官和董事长角色的呼声</title>
-      <link>https://www.reuters.com/business/finance/goldman-bofa-face-renewed-calls-split-ceo-chairmans-roles-2024-04-23/</link>
-      <description><![CDATA[高盛和美国银行周三将面临挑战，因为代理顾问建议投资者投票支持银行将首席执行官和董事长的角色分开，以改善公司的治理。]]></description>
-      <guid>https://www.reuters.com/business/finance/goldman-bofa-face-renewed-calls-split-ceo-chairmans-roles-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>通用汽车超出季度业绩目标并上调预测</title>
+      <title>通用汽车超出季度业绩目标并上调预期</title>
       <link>https://www.reuters.com/business/autos-transportation/general-motors-beats-quarterly-results-targets-raises-forecast-2024-04-23/</link>
-      <description><![CDATA[通用汽车公司周二公布的季度业绩超出了华尔街的目标，并上调了年度预期，理由是其燃气发动机汽车的定价和需求稳定，推动股价在盘前交易中上涨 4.9%。]]></description>
+      <description><![CDATA[通用汽车公司周二公布的季度业绩超出了华尔街的目标，并上调了年度预期，理由是定价稳定以及对其燃气发动机汽车的需求，推动股价上涨 5%。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/general-motors-beats-quarterly-results-targets-raises-forecast-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 10:34:29 GMT</pubDate>
     </item>
@@ -97,37 +118,16 @@
       <pubDate>Tue, 23 Apr 2024 10:21:03 GMT</pubDate>
     </item>
     <item>
-      <title>Spotify 的月度用户数量因促销活动减少而低于预期</title>
-      <link>https://www.reuters.com/technology/spotifys-monthly-user-numbers-miss-estimates-lower-promotions-2024-04-23/</link>
-      <description><![CDATA[Spotify 周二公布的季度月度活跃用户 (MAU) 低于其自己的预期，因为这家瑞典音乐流媒体公司选择提高利润，而不是在营销活动上投入更多资金来吸引更多听众。]]></description>
-      <guid>https://www.reuters.com/technology/spotifys-monthly-user-numbers-miss-estimates-lower-promotions-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:10:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>成本削减抵消了疲弱的递送需求，UPS 利润超出预期</title>
-      <link>https://www.reuters.com/business/ups-quarterly-profit-falls-high-labor-costs-weak-small-package-demand-2024-04-23/</link>
-      <description><![CDATA[联合包裹服务公司 (United Parcel Service) 周二公布的第一季度利润高于预期，原因是成本削减部分抵消了小包裹递送需求的疲软，推动其股价盘前上涨 3.5%。]]></description>
-      <guid>https://www.reuters.com/business/ups-quarterly-profit-falls-high-labor-costs-weak-small-package-demand-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>国际需求推动增长，百事可乐第一季度业绩好于预期</title>
+      <title>国际需求、价格上涨推动增长，百事可乐业绩好于预期</title>
       <link>https://www.reuters.com/business/retail-consumer/pepsico-beats-quarterly-revenue-estimates-price-hikes-steady-demand-2024-04-23/</link>
-      <description><![CDATA[百事公司周二第一季度营收和利润超过华尔街预期，因为国际市场对这家苏打水和零食巨头纯果乐果汁和奇多的需求保持稳定。]]></description>
+      <description><![CDATA[百事可乐公司周二第一季度的收入和利润超出了华尔街的预期，尽管美国市场增长放缓，但国际市场对百事可乐和奇多和多力多滋等零食的需求推动了增长。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/pepsico-beats-quarterly-revenue-estimates-price-hikes-steady-demand-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 10:07:10 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊在美国推出低成本食品杂货配送订阅计划</title>
-      <link>https://www.reuters.com/business/retail-consumer/amazon-launches-low-cost-grocery-delivery-subscription-plan-us-2024-04-23/</link>
-      <description><![CDATA[电子商务巨头亚马逊周二在美国为其 Prime 计划会员和政府食品援助福利受益人推出了新的杂货配送订阅服务。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/amazon-launches-low-cost-grocery-delivery-subscription-plan-us-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着更多收益的到来，期货走高</title>
+      <title>随着更多财报的到来，华尔街开盘走高</title>
       <link>https://www.reuters.com/markets/us/futures-inch-higher-run-up-corporate-earnings-2024-04-23/</link>
-      <description><![CDATA[美国股指期货周二上涨，部分成长股和芯片股上涨，而多个行业的积极盈利推动本周晚些时候大型科技股的盈利。]]></description>
+      <description><![CDATA[华尔街主要股指周二开盘走高，部分成长股和芯片股上涨，同时投资者在本周晚些时候发布大型科技公司报告之前消化了一系列季度收益更新。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-inch-higher-run-up-corporate-earnings-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 10:02:49 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Tue, 23 Apr 2024 08:55:52 GMT</pubDate>
     </item>
     <item>
-      <title>数据显示苹果第一季度智能手机在中国出货量暴跌19%</title>
+      <title>数据显示苹果一季度智能手机在华出货量暴跌19%</title>
       <link>https://www.reuters.com/technology/apples-q1-phone-sales-china-fall-191-huaweis-up-70-2024-04-23/</link>
       <description><![CDATA[市场数据显示，由于华为(HWT.UL)在高端市场推出新产品而受到打击，苹果公司今年第一季度在中国的智能手机出货量暴跌19%，为2020年以来最差表现。]]></description>
       <guid>https://www.reuters.com/technology/apples-q1-phone-sales-china-fall-191-huaweis-up-70-2024-04-23/</guid>
