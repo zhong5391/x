@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 23 Apr 2024 13:51:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 14:17:48 GMT</lastBuildDate>
+    <item>
+      <title>欧盟议会批准禁止使用强迫劳动制造的产品</title>
+      <link>https://www.reuters.com/world/europe/eu-parliament-approves-ban-products-made-with-forced-labour-2024-04-23/</link>
+      <description><![CDATA[欧洲议会周二批准了禁止在欧盟销售、进出口使用强迫劳动制造的商品的规定。]]></description>
+      <guid>https://www.reuters.com/world/europe/eu-parliament-approves-ban-products-made-with-forced-labour-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 13:30:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>山特维克收购中国苏州阿诺的多数股权</title>
+      <link>https://www.reuters.com/markets/deals/sandvik-buys-majority-stake-china-based-suzhou-ahno-2024-04-23/</link>
+      <description><![CDATA[瑞典山特维克周二表示，已同意收购中国苏州阿诺精密切削工具技术有限公司的多数股权。]]></description>
+      <guid>https://www.reuters.com/markets/deals/sandvik-buys-majority-stake-china-based-suzhou-ahno-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 13:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>德国肖尔茨呼吁欧洲建立银行业联盟</title>
+      <link>https://www.reuters.com/world/europe/germanys-scholz-calls-banking-union-europe-2024-04-23/</link>
+      <description><![CDATA[德国总理奥拉夫·肖尔茨周二呼吁完成欧洲银行业联盟，称其为“优先事项”，并敦促整个地区的金融市场更加统一。]]></description>
+      <guid>https://www.reuters.com/world/europe/germanys-scholz-calls-banking-union-europe-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:53:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>短缺是铜价上涨至新高的关键</title>
+      <link>https://www.reuters.com/markets/commodities/shortages-key-coppers-upward-price-trajectory-new-peaks-2024-04-23/</link>
+      <description><![CDATA[未来几个月出现的短缺预计将维持铜价上涨至每吨 10,000 美元心理关口的上涨势头。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/shortages-key-coppers-upward-price-trajectory-new-peaks-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 11:53:02 GMT</pubDate>
+    </item>
     <item>
       <title>受 Thom Browne 品牌拖累，Zegna 第一季度收入下降 5%</title>
       <link>https://www.reuters.com/business/retail-consumer/revenues-zegna-drop-5-q1-dragged-by-thom-browne-brand-2024-04-23/</link>
@@ -34,7 +62,7 @@
       <pubDate>Tue, 23 Apr 2024 09:42:13 GMT</pubDate>
     </item>
     <item>
-      <title>中国官员称尽管美国“干涉”，中美关系依然稳定</title>
+      <title>中国官员称，尽管美国“干涉”，中美关系仍保持稳定</title>
       <link>https://www.reuters.com/world/china/china-us-relations-stable-despite-us-interference-chinese-official-says-2024-04-23/</link>
       <description><![CDATA[中国外交部官员在美国国务卿安东尼·布林肯访问之前表示，尽管美国的行动损害了中国的利益，但北京和华盛顿之间的关系正在稳定。]]></description>
       <guid>https://www.reuters.com/world/china/china-us-relations-stable-despite-us-interference-chinese-official-says-2024-04-23/</guid>
@@ -50,19 +78,19 @@
     <item>
       <title>摩根大通中国任命新任中国证券部门负责人</title>
       <link>https://www.reuters.com/business/finance/jpmorgan-china-names-new-heads-china-investment-banking-arm-2024-04-23/</link>
-      <description><![CDATA[根据路透社看到的一份公司备忘录，并经公司发言人证实，摩根大通任命卢方担任其中国证券部门董事会主席，接替前任主席朴朴。]]></description>
+      <description><![CDATA[摩根大通根据路透查阅并经公司发言人证实的公司备忘录，公司任命陆方为其中国证券部门董事会主席，接替前任董事长朴朴。]]></description>
       <guid>https://www.reuters.com/business/finance/jpmorgan-china-names-new-heads-china-investment-banking-arm-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 08:58:07 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉股价在季度业绩公布前小幅上涨</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-shares-edge-higher-ahead-quarterly-results-2024-04-23/</link>
-      <description><![CDATA[特斯拉股价周二在电动汽车制造商第一季度业绩公布之前小幅走高，分析师预计毛利率将创下六年多来的最低水平。]]></description>
+      <description><![CDATA[周二，在该电动汽车制造商特斯拉第一季度业绩公布之前，其股价小幅走高，分析师预计该公司第一季度的毛利率将降至六年多以来的最低水平。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-edge-higher-ahead-quarterly-results-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 08:55:52 GMT</pubDate>
     </item>
     <item>
-      <title>数据显示苹果第一季度智能手机在中国出货量暴跌19%</title>
+      <title>数据显示苹果一季度智能手机在华出货量暴跌19%</title>
       <link>https://www.reuters.com/technology/apples-q1-phone-sales-china-fall-191-huaweis-up-70-2024-04-23/</link>
       <description><![CDATA[市场数据显示，由于华为(HWT.UL)在高端市场推出新产品而受到打击，苹果公司今年第一季度在中国的智能手机出货量暴跌19%，为2020年以来最差表现。]]></description>
       <guid>https://www.reuters.com/technology/apples-q1-phone-sales-china-fall-191-huaweis-up-70-2024-04-23/</guid>
@@ -85,7 +113,7 @@
     <item>
       <title>日本电产（Nidec）公布意外季度亏损，因中国电动汽车战争中的重组成本而受到打击</title>
       <link>https://www.reuters.com/business/autos-transportation/nidec-posts-quarterly-loss-hit-by-restructuring-costs-2024-04-23/</link>
-      <description><![CDATA[日本电动机制造商日本电产周二公布，由于为应对中国电动汽车市场激烈的价格竞争而采取重组措施的成本，导致一月至三月季度出现意外运营亏损。]]></description>
+      <description><![CDATA[日本电动机制造商日本电产周二公布，由于为应对中国电动汽车市场激烈的价格竞争而采取重组措施的成本，该公司一月至三月季度出现意外运营亏损。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/nidec-posts-quarterly-loss-hit-by-restructuring-costs-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 06:41:12 GMT</pubDate>
     </item>
@@ -104,9 +132,9 @@
       <pubDate>Tue, 23 Apr 2024 05:04:01 GMT</pubDate>
     </item>
     <item>
-      <title>国际能源署称电动汽车销量将上升但重点关注价格承受能力</title>
+      <title>IEA表示，电动汽车销量将上升，但可负担性成为焦点</title>
       <link>https://www.reuters.com/business/autos-transportation/electric-car-sales-rise-affordability-focus-iea-says-2024-04-23/</link>
-      <description><![CDATA[国际能源署 (IEA) 周二预测，尽管一些市场面临经济阻力，但电动汽车销量将在 2024 年强劲增长，但负担能力和充电基础设施将是未来增长的关键。]]></description>
+      <description><![CDATA[国际能源署 (IEA) 周二预测，电动汽车销量将在 2024 年强劲增长，并日益削弱石油需求，增加负担能力和充电基础设施将是未来增长的关键。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/electric-car-sales-rise-affordability-focus-iea-says-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 05:03:47 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[《华尔街日报》周一援引知情人士的话报道称，美国正在起草制裁措施，可能会切断一些中国银行与全球金融体系的联系，希望阻止北京对俄罗斯军事生产的商业支持。]]></description>
       <guid>https://www.reuters.com/world/us-take-aim-chinese-banks-aiding-russia-war-effort-wsj-reports-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 04:10:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>招标显示，中国最近采购了超微、戴尔服务器中禁用的英伟达芯片</title>
-      <link>https://www.reuters.com/world/china/china-acquired-recently-banned-nvidia-chips-super-micro-dell-servers-tenders-2024-04-23/</link>
-      <description><![CDATA[尽管美国去年扩大了向中国出售此类技术的禁令，但中国的大学和研究机构最近通过经销商获得了高端英伟达人工智能芯片。]]></description>
-      <guid>https://www.reuters.com/world/china/china-acquired-recently-banned-nvidia-chips-super-micro-dell-servers-tenders-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 03:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型科技公司的股价上涨；带有危险区域的日元玩具</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-23/</link>
-      <description><![CDATA[周二，在华尔街复苏的推动下，全球股市上涨，投资者的注意力集中在美国大型股的盈利报告上，而日元兑美元汇率创下 34 年来的新低，引发日本官员的警告。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 02:18:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tea shop chain Sichuan Baicha Baidao shares slump in Hong Kong debut</title>
-      <link>https://www.reuters.com/business/retail-consumer/tea-shop-chain-sichuan-baicha-baidao-shares-slump-23-hong-kong-debut-2024-04-23/</link>
-      <description><![CDATA[中国茶叶连锁店四川白茶百岛实业在完成 3.3 亿美元的首次公开募股 (IPO) 后，周二在香港上市时股价下跌 38.3%。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/tea-shop-chain-sichuan-baicha-baidao-shares-slump-23-hong-kong-debut-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 01:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>所罗门群岛紧张等待选举结果</title>
-      <link>https://www.reuters.com/world/asia-pacific/solomon-islands-faces-tense-wait-election-results-2024-04-22/</link>
-      <description><![CDATA[所罗门群岛面临着选举结果的紧张等待，因为反对党领先于现任总理马内塞·索加瓦雷领导的我们党，周二的计票结果显示，独立人士将是组建政府的关键。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/solomon-islands-faces-tense-wait-election-results-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 23:34:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
