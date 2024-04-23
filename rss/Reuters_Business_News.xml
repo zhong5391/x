@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 23 Apr 2024 01:38:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 02:17:00 GMT</lastBuildDate>
     <item>
       <title>ADM首席财务官因面临美国政府调查而辞职</title>
       <link>https://www.reuters.com/markets/commodities/adm-cfo-resign-company-faces-us-government-investigation-2024-04-22/</link>
@@ -29,7 +29,7 @@
     <item>
       <title>联合健康保险表示，黑客攻击可能会影响“相当一部分”美国人的数据</title>
       <link>https://www.reuters.com/technology/cybersecurity/unitedhealth-says-hack-could-impact-data-substantial-proportion-americans-2024-04-22/</link>
-      <description><![CDATA[联合健康集团周一表示，对黑客可能访问的数据进行初步审查后发现，包含受保护健康或个人信息的文件可能涵盖“相当一部分”美国人。]]></description>
+      <description><![CDATA[联合健康集团周一表示，其对黑客可能访问的数据的初步审查发现，包含受保护健康或个人信息的文件可能涵盖“相当一部分”美国人。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/unitedhealth-says-hack-could-impact-data-substantial-proportion-americans-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 21:56:27 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>Ameriprise Financial 季度利润因费用和资产管理规模增加而增长</title>
       <link>https://www.reuters.com/business/finance/ameriprise-financials-quarterly-profit-rises-higher-fees-aum-2024-04-22/</link>
-      <description><![CDATA[Ameriprise Financial 周一报告称，由于费用和管理资产 (AUM) 上升，第一季度调整后利润有所增长。]]></description>
+      <description><![CDATA[Ameriprise Financial 周一报告称，由于费用和管理资产 (AUM) 上升，其第一季度调整后利润有所增长。]]></description>
       <guid>https://www.reuters.com/business/finance/ameriprise-financials-quarterly-profit-rises-higher-fees-aum-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 20:43:36 GMT</pubDate>
     </item>
@@ -111,9 +111,9 @@
       <pubDate>Mon, 22 Apr 2024 13:15:46 GMT</pubDate>
     </item>
     <item>
-      <title>Kroger 和 Albertsons 将出售另外 166 家门店，寻求 250 亿美元合并案的批准</title>
+      <title>Kroger 和 Albertsons 将出售另外 166 家门店，寻求 250 亿美元合并的批准</title>
       <link>https://www.reuters.com/markets/deals/kroger-albertsons-amend-asset-sale-agreement-with-cs-wholesale-2024-04-22/</link>
-      <description><![CDATA[周一，Kroger 和 Albertsons Cos 表示，正在扩大计划中的杂货店销售，将比之前与 C&amp;S Wholesale Grocers 商定的数量多出 166 个地点，同时努力让监管机构批准其拟议的 250 亿美元合并计划。]]></description>
+      <description><![CDATA[周一，Kroger 和 Albertsons Cos 表示，正在扩大计划中的杂货店销售，将比之前向 C&amp;S Wholesale Grocers 商定的多 166 个地点出售，同时他们正在努力让监管机构批准其拟议的 250 亿美元合并。]]></description>
       <guid>https://www.reuters.com/markets/deals/kroger-albertsons-amend-asset-sale-agreement-with-cs-wholesale-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 12:40:57 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>预览 日本央行预计通胀将保持在目标附近，预示有加息机会</title>
       <link>https://www.reuters.com/markets/asia/boj-project-inflation-will-stay-around-target-signal-chance-rate-hike-2024-04-22/</link>
-      <description><![CDATA[日本央行预计将在周五发布的新预测中预测未来三年通胀率将保持在 2% 的目标附近，这表明日本央行准备今年从目前接近于零的水平再次加息。]]></description>
+      <description><![CDATA[日本央行预计将在周五发布的新预测中预测未来三年通胀率将保持在 2% 左右的目标附近，这表明日本央行准备今年从目前接近于零的水平再次加息。]]></description>
       <guid>https://www.reuters.com/markets/asia/boj-project-inflation-will-stay-around-target-signal-chance-rate-hike-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 10:40:12 GMT</pubDate>
     </item>
