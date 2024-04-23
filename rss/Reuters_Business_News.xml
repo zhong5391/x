@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 23 Apr 2024 05:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:30:28 GMT</lastBuildDate>
     <item>
       <title>独家：招标显示中国最近收购了超微、戴尔服务器中禁用的英伟达芯片</title>
       <link>https://www.reuters.com/world/china/china-acquired-recently-banned-nvidia-chips-super-micro-dell-servers-tenders-2024-04-23/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>PMI显示日本工厂活动下降缓慢</title>
       <link>https://www.reuters.com/markets/asia/japans-factory-activity-declines-slow-pmi-shows-2024-04-23/</link>
-      <description><![CDATA[周二的一项商业调查显示，日本四月份工厂活动有所收缩，但已接近收支平衡点，这表明关键行业在经历了数月的低迷之后终于开始复苏。]]></description>
+      <description><![CDATA[周二的一项商业调查显示，日本四月份工厂活动有所收缩，但已接近收支平衡点，这表明关键行业在经历了数月的低迷后终于开始复苏。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-factory-activity-declines-slow-pmi-shows-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 00:35:30 GMT</pubDate>
     </item>
@@ -120,14 +120,14 @@
     <item>
       <title>Kroger 和 Albertsons 将出售另外 166 家门店，寻求 250 亿美元合并的批准</title>
       <link>https://www.reuters.com/markets/deals/kroger-albertsons-amend-asset-sale-agreement-with-cs-wholesale-2024-04-22/</link>
-      <description><![CDATA[周一，Kroger 和 Albertsons Cos 表示，正在扩大计划中的杂货店销售，将比之前向 C&amp;S Wholesale Grocers 商定的多 166 个地点出售，同时他们正在努力让监管机构批准其拟议的 250 亿美元合并。]]></description>
+      <description><![CDATA[周一，Kroger 和 Albertsons Cos 表示，正在扩大计划中的杂货店销售，将比之前与 C&amp;S Wholesale Grocers 商定的数量多出 166 个地点，同时努力让监管机构批准其拟议的 250 亿美元合并计划。]]></description>
       <guid>https://www.reuters.com/markets/deals/kroger-albertsons-amend-asset-sale-agreement-with-cs-wholesale-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 12:40:57 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行预计通胀将保持在目标附近，暗示有加息机会</title>
+      <title>日本央行预计通胀将保持在目标附近，暗示加息机会</title>
       <link>https://www.reuters.com/markets/asia/boj-project-inflation-will-stay-around-target-signal-chance-rate-hike-2024-04-22/</link>
-      <description><![CDATA[日本央行预计将在周五发布的新预测中预测未来三年通胀率将保持在 2% 左右的目标附近，这表明日本央行准备今年从目前接近于零的水平再次加息。]]></description>
+      <description><![CDATA[日本央行预计将在周五发布的新预测中预测未来三年通胀率将保持在 2% 的目标附近，这表明日本央行准备今年从目前接近于零的水平再次加息。]]></description>
       <guid>https://www.reuters.com/markets/asia/boj-project-inflation-will-stay-around-target-signal-chance-rate-hike-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 10:40:12 GMT</pubDate>
     </item>
