@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 22 Apr 2024 23:33:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 01:38:57 GMT</lastBuildDate>
+    <item>
+      <title>ADM首席财务官因面临美国政府调查而辞职</title>
+      <link>https://www.reuters.com/markets/commodities/adm-cfo-resign-company-faces-us-government-investigation-2024-04-22/</link>
+      <description><![CDATA[谷物交易商Archer-Daniels-Midland周一表示，首席财务官Vikram Luthar将于9月30日辞职。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/adm-cfo-resign-company-faces-us-government-investigation-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 22:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>CESCO表示，智利Codelco今年的铜产量将增加</title>
+      <link>https://www.reuters.com/markets/commodities/copper-output-chiles-codelco-set-rise-this-year-cesco-says-2024-04-22/</link>
+      <description><![CDATA[智利铜业研究中心CESCO负责人在周一召开的大型行业会议之前表示，智利国营铜矿商Codelco今年准备提高产量，并开始从25年来的最低水平回升。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/copper-output-chiles-codelco-set-rise-this-year-cesco-says-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 22:16:09 GMT</pubDate>
+    </item>
     <item>
       <title>早盘竞价：科技行业平静，4 月份 PMI 开始滚动</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-22/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>联合健康保险表示，黑客攻击可能会影响“相当一部分”美国人的数据</title>
       <link>https://www.reuters.com/technology/cybersecurity/unitedhealth-says-hack-could-impact-data-substantial-proportion-americans-2024-04-22/</link>
-      <description><![CDATA[联合健康集团周一表示，其技术部门遭受的网络攻击导致健康和个人信息泄露，这些信息可能覆盖“相当一部分”美国人。]]></description>
+      <description><![CDATA[联合健康集团周一表示，对黑客可能访问的数据进行初步审查后发现，包含受保护健康或个人信息的文件可能涵盖“相当一部分”美国人。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/unitedhealth-says-hack-could-impact-data-substantial-proportion-americans-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 21:56:27 GMT</pubDate>
     </item>
@@ -27,9 +41,9 @@
       <pubDate>Mon, 22 Apr 2024 21:15:10 GMT</pubDate>
     </item>
     <item>
-      <title>美国以手袋市场主导为由起诉阻止 Tapestry 收购 Capri 交易</title>
+      <title>美国起诉阻止 Coach 和 Michael Kors 手袋制造商合并</title>
       <link>https://www.reuters.com/markets/deals/us-ftc-sues-block-85-bln-takeover-capri-by-tapestry-2024-04-22/</link>
-      <description><![CDATA[美国联邦贸易委员会 (FTC) 周一表示，正在提起诉讼，阻止 Coach 母公司 Tapestry 以 85 亿美元收购 Michael Kors 所有者 Capri 的交易，称这将消除竞争。]]></description>
+      <description><![CDATA[美国联邦贸易委员会周一提起诉讼，阻止 Coach 母公司 Tapestry 以 85 亿美元收购 Michael Kors 所有者 Capri 的交易，称这将消除两家豪华手袋制造商旗舰品牌之间的“直接正面竞争”。]]></description>
       <guid>https://www.reuters.com/markets/deals/us-ftc-sues-block-85-bln-takeover-capri-by-tapestry-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 20:56:25 GMT</pubDate>
     </item>
@@ -69,13 +83,6 @@
       <pubDate>Mon, 22 Apr 2024 20:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>迪士尼的亚伦·拉伯格辞职，加入佩恩娱乐公司担任首席技术官</title>
-      <link>https://www.reuters.com/business/media-telecom/disneys-aaron-laberge-step-down-join-penn-entertainment-cto-2024-04-22/</link>
-      <description><![CDATA[根据路透社周一看到的一份备忘录，迪士尼娱乐和 ESPN 首席技术官亚伦·拉伯格 (Aaron LaBerge) 将辞去该职务，加入游戏和体育媒体公司佩恩娱乐 (Penn Entertainment)。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/disneys-aaron-laberge-step-down-join-penn-entertainment-cto-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 19:59:04 GMT</pubDate>
-    </item>
-    <item>
       <title>由于对增长和产品策略的质疑，特斯拉预计将降低利润率</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-expected-post-lower-profit-margin-amid-doubts-growth-product-strategy-2024-04-22/</link>
       <description><![CDATA[特斯拉预计将在周二公布六年多以来的最低毛利率，此前经历了混乱的一周，包括大规模裁员、汽车降价以及投资者迫切要求明确产品策略。]]></description>
@@ -104,18 +111,11 @@
       <pubDate>Mon, 22 Apr 2024 13:15:46 GMT</pubDate>
     </item>
     <item>
-      <title>Kroger 和 Albertsons 将出售另外 166 家门店，寻求 250 亿美元合并的批准</title>
+      <title>Kroger 和 Albertsons 将出售另外 166 家门店，寻求 250 亿美元合并案的批准</title>
       <link>https://www.reuters.com/markets/deals/kroger-albertsons-amend-asset-sale-agreement-with-cs-wholesale-2024-04-22/</link>
       <description><![CDATA[周一，Kroger 和 Albertsons Cos 表示，正在扩大计划中的杂货店销售，将比之前与 C&amp;S Wholesale Grocers 商定的数量多出 166 个地点，同时努力让监管机构批准其拟议的 250 亿美元合并计划。]]></description>
       <guid>https://www.reuters.com/markets/deals/kroger-albertsons-amend-asset-sale-agreement-with-cs-wholesale-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 12:40:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉股价因盈利前降价而暴跌</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-shares-drop-price-cuts-run-up-earnings-2024-04-22/</link>
-      <description><![CDATA[特斯拉周一暴跌 4%，其最新的全球降价举措引发了华尔街对这家电动汽车制造商在本周晚些时候发布财报之前利润率下降的担忧。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-drop-price-cuts-run-up-earnings-2024-04-22/</guid>
-      <pubDate>Mon, 22 Apr 2024 12:03:58 GMT</pubDate>
     </item>
     <item>
       <title>Verizon 因灵活计划需求而减少季度用户流失</title>
@@ -123,6 +123,13 @@
       <description><![CDATA[Verizon 周一损失的无线用户数量低于预期，季度利润超出预期，这要归功于其灵活的计划和流媒体捆绑服务，为 Netflix 和华纳兄弟 Discovery 的 Max 等服务提供折扣价格。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/verizon-posts-fewer-first-quarter-subscriber-losses-flexible-plan-demand-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 11:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>预览 日本央行预计通胀将保持在目标附近，预示有加息机会</title>
+      <link>https://www.reuters.com/markets/asia/boj-project-inflation-will-stay-around-target-signal-chance-rate-hike-2024-04-22/</link>
+      <description><![CDATA[日本央行预计将在周五发布的新预测中预测未来三年通胀率将保持在 2% 的目标附近，这表明日本央行准备今年从目前接近于零的水平再次加息。]]></description>
+      <guid>https://www.reuters.com/markets/asia/boj-project-inflation-will-stay-around-target-signal-chance-rate-hike-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 10:40:12 GMT</pubDate>
     </item>
     <item>
       <title>收入较低的美国消费者面临贷款压力，而银行则缩减开支</title>

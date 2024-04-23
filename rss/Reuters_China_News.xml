@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 23 Apr 2024 00:31:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 01:39:03 GMT</lastBuildDate>
+    <item>
+      <title>所罗门群岛面临选举结果的紧张等待</title>
+      <link>https://www.reuters.com/world/asia-pacific/solomon-islands-faces-tense-wait-election-results-2024-04-22/</link>
+      <description><![CDATA[所罗门群岛面临着选举结果的紧张等待，因为反对党领先于现任总理马内塞·索加瓦雷领导的我们党，周二的计票结果显示，独立人士将是组建政府的关键。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/solomon-islands-faces-tense-wait-election-results-2024-04-22/</guid>
+      <pubDate>Mon, 22 Apr 2024 23:34:52 GMT</pubDate>
+    </item>
     <item>
       <title>美国和韩国本周将就美军费用举行会谈</title>
       <link>https://www.reuters.com/business/aerospace-defense/us-south-korea-meet-american-troop-costs-this-week-2024-04-22/</link>
@@ -85,19 +92,19 @@
     <item>
       <title>由于主要市场疲软，印度成品钻石出口下降 27.5%</title>
       <link>https://www.reuters.com/markets/commodities/indias-polished-diamond-exports-drop-275-key-markets-falter-2024-04-22/</link>
-      <description><![CDATA[一家主要贸易机构周一表示，由于美国、中国和阿联酋的需求低迷，印度 2023/24 年切割和成品钻石出口额同比下降 27.5%，至 159.7 亿美元。]]></description>
+      <description><![CDATA[一家主要贸易机构周一表示，由于美国、中国和阿拉伯联合酋长国的需求低迷，印度 2023/24 年切割和成品钻石出口额同比下降 27.5%，至 159.7 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/commodities/indias-polished-diamond-exports-drop-275-key-markets-falter-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 11:38:19 GMT</pubDate>
     </item>
     <item>
       <title>无聊的统治？霍纳为“节拍器”维斯塔潘辩护</title>
       <link>https://www.reuters.com/sports/formula1/boring-dominance-horner-defends-metronome-verstappen-2024-04-22/</link>
-      <description><![CDATA[红牛主帅克里斯蒂安·霍纳否认了马克斯·维斯塔潘让一级方程式赛车变得无聊的说法，这位三届世界冠军周末在中国将自己的统治力提升到了新的高度。]]></description>
+      <description><![CDATA[红牛主教练克里斯蒂安·霍纳否认了马克斯·维斯塔潘让一级方程式赛车变得无聊的说法，这位三届世界冠军周末在中国将自己的统治地位推向了新的高度。]]></description>
       <guid>https://www.reuters.com/sports/formula1/boring-dominance-horner-defends-metronome-verstappen-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 11:30:16 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：随着第一季度的到来，大型科技公司陷入困境，英伟达惨遭重创</title>
+      <title>早间竞价：随着第一季度的到来，大型科技公司陷入困境，英伟达惨遭重创</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-22/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-22/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[由于对更广泛的中东冲突的担忧有所缓解，投资者周一缩减了避险押注，提振了世界股市，并对黄金、石油和债券价格构成压力。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-22/</guid>
       <pubDate>Mon, 22 Apr 2024 02:42:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国商务部长淡化华为先进手机中的芯片</title>
-      <link>https://www.reuters.com/technology/us-commerce-secretary-downplays-chip-advanced-huawei-phone-2024-04-21/</link>
-      <description><![CDATA[美国商务部长吉娜·雷蒙多周日表示，受制裁的中国公司华为的 Mate 60 Pro 手机所使用的芯片并不像美国芯片那么先进，她认为这表明美国对向这家电信设备巨头发货的限制正在发挥作用。]]></description>
-      <guid>https://www.reuters.com/technology/us-commerce-secretary-downplays-chip-advanced-huawei-phone-2024-04-21/</guid>
-      <pubDate>Sun, 21 Apr 2024 23:03:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
