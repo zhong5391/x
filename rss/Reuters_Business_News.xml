@@ -1,59 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 23 Apr 2024 20:48:40 GMT</lastBuildDate>
-    <item>
-      <title>WeWork 创始人诺依曼希望破产法院帮助其回购公司</title>
-      <link>https://www.reuters.com/legal/wework-founder-neumann-wants-bankruptcy-courts-help-bid-repurchase-company-2024-04-23/</link>
-      <description><![CDATA[WeWork 创始人 Adam Neumann 已请求美国破产法官帮助他重新收购联合办公业务，并于周一表示 WeWork 管理层应该进行谈判，否则将被迫放弃对公司重组的控制权。]]></description>
-      <guid>https://www.reuters.com/legal/wework-founder-neumann-wants-bankruptcy-courts-help-bid-repurchase-company-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 19:52:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>空客赢得加拿大对俄罗斯钛制裁的缓刑</title>
-      <link>https://www.reuters.com/business/aerospace-defense/airbus-wins-reprieve-canadian-sanctions-russian-titanium-2024-04-23/</link>
-      <description><![CDATA[加拿大在乌克兰战争引发的最新一揽子措施中成为第一个禁止供应这种战略金属的西方政府后，向空中客车公司授予了一项豁免，允许其在制造中使用俄罗斯钛。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/airbus-wins-reprieve-canadian-sanctions-russian-titanium-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 19:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：电子邮件显示，美国国防承包商 L3Harris 将裁员 5% 以节省成本</title>
-      <link>https://www.reuters.com/business/aerospace-defense/us-defense-contractor-l3harris-cut-5-workforce-save-costs-email-shows-2024-04-23/</link>
-      <description><![CDATA[路透社周二看到的美国国防承包商 L3Harris Technologies Inc. 首席执行官克里斯·库巴斯克 (Chris Kubasik) 在发给员工的电子邮件中表示，作为节省成本措施的一部分，今年将裁员 5%。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/us-defense-contractor-l3harris-cut-5-workforce-save-costs-email-shows-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 18:59:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>通知显示，特斯拉将在加州裁员 3000 多名员工</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-3000-employees-california-notices-show-2024-04-23/</link>
-      <description><![CDATA[电动汽车制造商特斯拉周一在多份工人调整和再培训通知 (WARN) 通知中表示，该公司将在加州裁员 3,332 人。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-lay-off-more-than-3000-employees-california-notices-show-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 18:56:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告称，人工智能的繁荣将推动未来几年的天然气需求</title>
-      <link>https://www.reuters.com/business/energy/ai-boom-fuel-natural-gas-demand-coming-years-report-says-2024-04-23/</link>
-      <description><![CDATA[投资银行家 Tudor Pickering Holt &amp; Co. 的分析师表示，人工智能 (AI) 数据中心用电量的激增可能会在本世纪下半叶显着增加天然气需求。 Co在周二的一份报告中表示。]]></description>
-      <guid>https://www.reuters.com/business/energy/ai-boom-fuel-natural-gas-demand-coming-years-report-says-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 18:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息人士称，IBM 即将收购云软件提供商 HashiCorp</title>
-      <link>https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/</link>
-      <description><![CDATA[据一位知情人士透露，国际商业机器公司即将达成收购云软件提供商 HashiCorp 的交易。]]></description>
-      <guid>https://www.reuters.com/markets/deals/ibm-nearing-buyout-deal-hashicorp-wsj-reports-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 18:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>路透调查显示墨西哥四月初年度总体通胀率走高</title>
-      <link>https://www.reuters.com/world/americas/mexico-annual-headline-inflation-seen-higher-early-april-2024-04-23/</link>
-      <description><![CDATA[周二路透调查显示，随着核心通胀放缓，墨西哥整体通胀可能在 4 月上半月上升，这提振了墨西哥央行将在下一次货币政策会议上维持基准利率不变的预期。]]></description>
-      <guid>https://www.reuters.com/world/americas/mexico-annual-headline-inflation-seen-higher-early-april-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 18:14:12 GMT</pubDate>
-    </item>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 23 Apr 2024 21:06:36 GMT</lastBuildDate>
     <item>
       <title>彭博社报道称，大银行面临互换、清算业务保密协议的调查</title>
       <link>https://www.reuters.com/business/finance/big-banks-face-probe-over-ndas-swaps-clearing-businesses-bloomberg-reports-2024-04-23/</link>
@@ -69,6 +20,20 @@
       <pubDate>Tue, 23 Apr 2024 17:35:40 GMT</pubDate>
     </item>
     <item>
+      <title>阿根廷米雷加速电锯和搅拌机打击财政赤字</title>
+      <link>https://www.reuters.com/markets/argentinas-milei-revs-up-chainsaw-blender-fiscal-deficit-attack-2024-04-23/</link>
+      <description><![CDATA[阿根廷自由主义总统哈维尔·米莱正在加紧打击该国严重的财政赤字，加倍实施“电锯式”支出削减和“混合式”紧缩政策，挤压购买力，他希望能降低猖獗的通货膨胀。]]></description>
+      <guid>https://www.reuters.com/markets/argentinas-milei-revs-up-chainsaw-blender-fiscal-deficit-attack-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 17:31:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根大通首席执行官戴蒙表示美国经济正在蓬勃发展</title>
+      <link>https://www.reuters.com/markets/us/jpmorgan-ceo-dimon-says-us-economy-is-booming-2024-04-23/</link>
+      <description><![CDATA[摩根大通首席执行官杰米戴蒙周二表示，对强劲就业和健康消费者财务支持下的强劲美国经济充满信心。]]></description>
+      <guid>https://www.reuters.com/markets/us/jpmorgan-ceo-dimon-says-us-economy-is-booming-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 16:33:30 GMT</pubDate>
+    </item>
+    <item>
       <title>特斯拉推出 Model 3 紧凑型轿车的性能变体</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-launches-performance-variant-model-3-compact-sedan-2024-04-23/</link>
       <description><![CDATA[电动汽车制造商特斯拉网站周二显示，该公司在美国推出了 Model 3 紧凑型轿车的高性能版本，售价为 52,990 美元。]]></description>
@@ -76,28 +41,63 @@
       <pubDate>Tue, 23 Apr 2024 16:19:04 GMT</pubDate>
     </item>
     <item>
-      <title>通知显示，特斯拉将在德克萨斯州和加利福尼亚州裁员 6,000 多人</title>
+      <title>开云集团警告上半年营业利润将因 Gucci 销量下滑而下滑</title>
+      <link>https://www.reuters.com/business/retail-consumer/gucci-owner-kering-posts-10-drop-q1-sales-sluggish-chinese-demand-2024-04-23/</link>
+      <description><![CDATA[法国奢侈品集团开云集团周二表示，由于富有的消费者限制了其明星品牌古驰 (Gucci) 的产品支出，导致第一季度销售额下降，该集团预计上半年营业利润将下降 40% 至 45%。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/gucci-owner-kering-posts-10-drop-q1-sales-sluggish-chinese-demand-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 15:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>通知显示，特斯拉将在得克萨斯州工厂裁员近 2,700 人</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-lay-off-nearly-2700-employees-texas-factory-notice-shows-2024-04-23/</link>
-      <description><![CDATA[特斯拉表示，将在周二发布季度业绩之前在德克萨斯州和加利福尼亚州裁员 6,020 名员工，届时首席执行官埃隆·马斯克预计将概述这家电动汽车制造商应对需求放缓和利润下降的战略。]]></description>
+      <description><![CDATA[特斯拉表示，将在周二公布季度业绩之前，在德克萨斯州工厂裁员 2,688 名员工，届时首席执行官埃隆·马斯克预计将概述这家电动汽车制造商应对需求放缓和利润下降的战略。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-lay-off-nearly-2700-employees-texas-factory-notice-shows-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 15:46:23 GMT</pubDate>
     </item>
     <item>
+      <title>UPS 认为美国邮政服务业务的利润拖累了联邦快递的盈利</title>
+      <link>https://www.reuters.com/business/ups-sees-profit-us-postal-service-work-that-dragged-down-fedex-earnings-2024-04-23/</link>
+      <description><![CDATA[联合包裹服务公司首席执行官卡罗尔·托姆周二表示，在其竞争对手联邦快递在业务上陷入困境后，联合包裹服务公司预计其新赢得的美国邮政服务公司（USPS）航空货运合同将在第一年以及整个五年多的合同中实现盈利。]]></description>
+      <guid>https://www.reuters.com/business/ups-sees-profit-us-postal-service-work-that-dragged-down-fedex-earnings-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 15:38:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果宣布将于 5 月 7 日举办活动，有报道称将推出新款 iPad</title>
+      <link>https://www.reuters.com/technology/apple-says-it-will-hold-event-may-7-2024-04-23/</link>
+      <description><![CDATA[苹果公司周二表示，该公司将于 5 月 7 日举行一场活动，有报道称该公司将于下个月推出人们期待已久的 iPad Pro 和 iPad Air 的改进版本。]]></description>
+      <guid>https://www.reuters.com/technology/apple-says-it-will-hold-event-may-7-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 14:32:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>4月份美国商业活动降温；通胀措施好坏参半</title>
+      <link>https://www.reuters.com/markets/us/us-business-activity-cools-april-inflation-measures-mixed-2024-04-23/</link>
+      <description><![CDATA[由于需求疲软，美国 4 月份商业活动降温至四个月低点，而尽管投入价格大幅上涨，通胀率仍略有回落，这表明未来可能会出现一些缓解，因为美联储正在寻找经济衰退足以带来经济衰退的迹象。通胀进一步下降。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-business-activity-cools-april-inflation-measures-mixed-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 13:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果无法履行债务义务，Fisker可能在30天内寻求破产保护</title>
+      <link>https://www.reuters.com/business/autos-transportation/fisker-may-seek-bankruptcy-protection-30-days-if-unable-meet-debt-obligations-2024-04-23/</link>
+      <description><![CDATA[菲斯克在周二向监管机构提交的文件中披露，如果未能从债权人处获得足够的救济，也无法获得足够的流动性来履行当前的债务义务，菲斯克可能必须在 30 天内申请破产保护。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/fisker-may-seek-bankruptcy-protection-30-days-if-unable-meet-debt-obligations-2024-04-23/</guid>
+      <pubDate>Tue, 23 Apr 2024 12:32:39 GMT</pubDate>
+    </item>
+    <item>
       <title>菲利普莫里斯公司的业绩超出了加热烟棒需求的预期</title>
       <link>https://www.reuters.com/business/retail-consumer/philip-morris-results-beat-estimates-demand-heated-tobacco-sticks-2024-04-23/</link>
-      <description><![CDATA[得益于对其加热烟草产品和 Zyn 尼古丁袋的强劲需求，菲利普莫里斯国际公司 (Philip Morris International) 周二第一季度利润和收入超出了市场预期。]]></description>
+      <description><![CDATA[得益于对其加热烟草产品和 Zyn 尼古丁袋的强劲需求，菲利普莫里斯国际公司周二的第一季度利润和收入超出了市场预期。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/philip-morris-results-beat-estimates-demand-heated-tobacco-sticks-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 11:59:41 GMT</pubDate>
     </item>
     <item>
-      <title>通用汽车超出季度业绩目标并上调预期</title>
+      <title>通用汽车超出季度业绩目标并上调预测</title>
       <link>https://www.reuters.com/business/autos-transportation/general-motors-beats-quarterly-results-targets-raises-forecast-2024-04-23/</link>
       <description><![CDATA[通用汽车公司周二公布的季度业绩超出了华尔街的目标，并上调了年度预期，理由是定价稳定以及对其燃气发动机汽车的需求，推动股价上涨 5%。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/general-motors-beats-quarterly-results-targets-raises-forecast-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 10:34:29 GMT</pubDate>
     </item>
     <item>
-      <title>在派拉蒙的收购行动中，硅谷和好莱坞发生了碰撞</title>
+      <title>在派拉蒙的收购行动中，硅谷和好莱坞世界发生碰撞</title>
       <link>https://www.reuters.com/business/media-telecom/silicon-valley-hollywood-worlds-collide-david-ellison-bids-paramount-2024-04-23/</link>
       <description><![CDATA[41 岁的大卫·埃里森 (David Ellison) 并不是第一个带着丰厚的银行账户来到好莱坞并梦想拍电影的富人，尽管这位亿万富翁甲骨文创始人拉里·埃里森 (Larry Ellison) 的儿子拥有初露头角的媒体大亨最罕见的特质：硅谷人谱系。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/silicon-valley-hollywood-worlds-collide-david-ellison-bids-paramount-2024-04-23/</guid>
@@ -106,21 +106,21 @@
     <item>
       <title>国际需求、价格上涨推动增长，百事可乐业绩好于预期</title>
       <link>https://www.reuters.com/business/retail-consumer/pepsico-beats-quarterly-revenue-estimates-price-hikes-steady-demand-2024-04-23/</link>
-      <description><![CDATA[百事可乐公司周二第一季度的收入和利润超出了华尔街的预期，尽管美国市场增长放缓，但国际市场对百事可乐和奇多和多力多滋等零食的需求推动了增长。]]></description>
+      <description><![CDATA[百事公司周二第一季度营收和利润超过华尔街预期，尽管美国市场增长放缓，但国际市场对百事可乐和奇多和多力多滋等零食的需求推动了增长。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/pepsico-beats-quarterly-revenue-estimates-price-hikes-steady-demand-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 10:07:10 GMT</pubDate>
     </item>
     <item>
-      <title>美国最高法院在支持工会工人的案件中倾向于星巴克</title>
+      <title>美国最高法院审查解雇支持工会的星巴克员工</title>
       <link>https://www.reuters.com/world/us/us-supreme-court-examines-firings-pro-union-starbucks-workers-2024-04-23/</link>
-      <description><![CDATA[美国最高法院法官周二表示支持星巴克，挑战一项司法命令，该命令要求星巴克重新雇用孟菲斯一家咖啡馆的七名员工，这些员工因寻求成立工会而被解雇。]]></description>
+      <description><![CDATA[美国最高法院法官周二似乎同意星巴克对一项司法命令的质疑，该命令要求星巴克重新雇用田纳西州一家咖啡馆的七名员工，这些员工在努力组建工会时被解雇。]]></description>
       <guid>https://www.reuters.com/world/us/us-supreme-court-examines-firings-pro-union-starbucks-workers-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 10:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>随着投资者消化收益和大型股前景，华尔街收高</title>
+      <title>华尔街因丰厚的盈利和大型股的支持而上涨</title>
       <link>https://www.reuters.com/markets/us/futures-inch-higher-run-up-corporate-earnings-2024-04-23/</link>
-      <description><![CDATA[在顶级公司公布积极盈利之后，美国股市周二收高，投资者关注七巨头和其他大型成长型股票的季度业绩。]]></description>
+      <description><![CDATA[随着经济增长和芯片股上涨，华尔街主要股指周二上涨，而通用汽车和 Spotify 等股票则因大型科技公司季度报告公布前乐观的盈利更新而上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-inch-higher-run-up-corporate-earnings-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 10:02:49 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Tue, 23 Apr 2024 08:55:52 GMT</pubDate>
     </item>
     <item>
-      <title>数据显示苹果一季度智能手机在华出货量暴跌19%</title>
+      <title>数据显示苹果第一季度智能手机在中国出货量暴跌19%</title>
       <link>https://www.reuters.com/technology/apples-q1-phone-sales-china-fall-191-huaweis-up-70-2024-04-23/</link>
       <description><![CDATA[市场数据显示，由于华为(HWT.UL)在高端市场推出新产品而受到打击，苹果公司今年第一季度在中国的智能手机出货量暴跌19%，为2020年以来最差表现。]]></description>
       <guid>https://www.reuters.com/technology/apples-q1-phone-sales-china-fall-191-huaweis-up-70-2024-04-23/</guid>
