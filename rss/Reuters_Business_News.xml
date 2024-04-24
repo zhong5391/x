@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 05:32:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 05:48:41 GMT</lastBuildDate>
     <item>
       <title>中国华为推出新的智能驾驶软件</title>
       <link>https://www.reuters.com/technology/chinas-huawei-launches-new-software-intelligent-driving-2024-04-24/</link>
-      <description><![CDATA[中国科技公司华为（HWT.UL）周三推出了一个新的智能驾驶软件品牌，标志着其为成为电动汽车行业主要参与者而做出的最新努力。]]></description>
+      <description><![CDATA[中国科技公司华为（HWT.UL）周三推出了新的智能驾驶软件品牌，标志着其为成为电动汽车行业主要参与者而做出的最新努力。]]></description>
       <guid>https://www.reuters.com/technology/chinas-huawei-launches-new-software-intelligent-driving-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 03:57:21 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Wed, 24 Apr 2024 02:41:07 GMT</pubDate>
     </item>
     <item>
-      <title>据日经新闻报道，旭化成将在加拿大建立电动汽车电池零部件工厂，为本田供货</title>
+      <title>据日经新闻报道，旭化成将在加拿大建设电动汽车电池零部件工厂，为本田供货</title>
       <link>https://www.reuters.com/business/autos-transportation/asahi-kasai-build-ev-battery-component-plant-canada-supply-honda-nikkei-reports-2024-04-24/</link>
       <description><![CDATA[据《日经新闻》周三报道，旭化成计划斥资约 2000 亿日元（13 亿美元）在加拿大建造一家电池组件​​工厂。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/asahi-kasai-build-ev-battery-component-plant-canada-supply-honda-nikkei-reports-2024-04-24/</guid>
@@ -57,12 +57,12 @@
     <item>
       <title>特斯拉转向低成本汽车使墨西哥和印度工厂计划陷入困境</title>
       <link>https://www.reuters.com/business/autos-transportation/teslas-shift-low-cost-cars-throws-mexico-india-factory-plans-into-limbo-2024-04-24/</link>
-      <description><![CDATA[特斯拉周二表示，最早将于今年年底利用现有工厂生产价格更便宜的新型汽车，因此短期内不太可能在墨西哥和印度投资新工厂。]]></description>
+      <description><![CDATA[特斯拉周二表示，最早将于今年年底利用现有工厂生产新的、更实惠的汽车，因此短期内不太可能在墨西哥和印度投资新工厂。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/teslas-shift-low-cost-cars-throws-mexico-india-factory-plans-into-limbo-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 01:03:27 GMT</pubDate>
     </item>
     <item>
-      <title>通胀数据公布后美元下跌，澳元上涨</title>
+      <title>通胀数据公布后，美元下跌，澳元上涨</title>
       <link>https://www.reuters.com/markets/currencies/dollar-shaky-after-euro-rebound-yen-mired-34-year-low-2024-04-24/</link>
       <description><![CDATA[美元兑欧元和英镑大幅下挫后，周三收复了伤势，但尽管日本官员加大了干预警告力度，但日元仍深陷 34 年来的低点附近。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-shaky-after-euro-rebound-yen-mired-34-year-low-2024-04-24/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>波音公司与 Spirit 同意签署 4.25 亿美元协议以解决供应商问题</title>
       <link>https://www.reuters.com/business/aerospace-defense/spirit-boeing-enter-into-memorandum-agreement-improve-aero-suppliers-issues-2024-04-23/</link>
-      <description><![CDATA[Spirit AeroSystems表示，在美国航空监管机构限制该飞机制造商的737 MAX产量后，波音公司将向其支付4.25亿美元的预付款，并帮助其解决库存水平升高和现金流减少等问题。]]></description>
+      <description><![CDATA[Spirit AeroSystems表示，在美国航空监管机构限制该飞机制造商的737 MAX产量后，波音公司将向其支付4.25亿美元的预付款，并帮助其解决库存水平较高和现金流减少等问题。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/spirit-boeing-enter-into-memorandum-agreement-improve-aero-suppliers-issues-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 20:37:03 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>Visa 结果超出了消费者支出弹性的预期</title>
       <link>https://www.reuters.com/business/finance/visas-profit-rises-strong-consumer-spending-2024-04-23/</link>
-      <description><![CDATA[周二，Visa第二季度业绩超出了华尔街的预期，消费者摆脱了对经济放缓的担忧，开始在从旅行到外出就餐等各种事务上刷卡，导致其股价在盘后上涨2.7%。]]></description>
+      <description><![CDATA[Visa第二季度业绩周二超出华尔街预期，因消费者摆脱了对经济放缓的担忧，开始在从旅行到外出就餐等各种事务上刷卡，导致其股价在盘后上涨2.7%。]]></description>
       <guid>https://www.reuters.com/business/finance/visas-profit-rises-strong-consumer-spending-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 20:12:05 GMT</pubDate>
     </item>
@@ -125,14 +125,14 @@
       <pubDate>Tue, 23 Apr 2024 20:09:58 GMT</pubDate>
     </item>
     <item>
-      <title>通知显示，特斯拉将在德克萨斯州和加利福尼亚州裁员 6,000 多人</title>
+      <title>通知显示，特斯拉将在德克萨斯州和加利福尼亚州裁员 6000 多人</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-lay-off-nearly-2700-employees-texas-factory-notice-shows-2024-04-23/</link>
       <description><![CDATA[特斯拉表示，将在周二发布季度业绩之前在德克萨斯州和加利福尼亚州裁员 6,020 名员工，届时首席执行官埃隆·马斯克预计将概述这家电动汽车制造商应对需求放缓和利润下降的战略。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-lay-off-nearly-2700-employees-texas-factory-notice-shows-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 15:46:23 GMT</pubDate>
     </item>
     <item>
-      <title>通用汽车业绩超出目标，预测上调，股价上涨</title>
+      <title>通用汽车业绩超出预期，预测上调，股价上涨</title>
       <link>https://www.reuters.com/business/autos-transportation/general-motors-beats-quarterly-results-targets-raises-forecast-2024-04-23/</link>
       <description><![CDATA[通用汽车周二公布的季度业绩超出了华尔街的目标，该汽车制造商上调了年度预期，理由是定价稳定和汽油发动机汽车的需求，其股价上涨了 4.4%。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/general-motors-beats-quarterly-results-targets-raises-forecast-2024-04-23/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>随着投资者消化收益和大型股前景，华尔街收高</title>
       <link>https://www.reuters.com/markets/us/futures-inch-higher-run-up-corporate-earnings-2024-04-23/</link>
-      <description><![CDATA[在顶级公司公布积极盈利之后，美国股市周二收高，投资者关注七巨头和其他大型成长型股票的季度业绩。]]></description>
+      <description><![CDATA[美国股市周二收高，因顶级公司盈利良好，且投资者关注七大资本和其他大型成长型股票的季度业绩。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-inch-higher-run-up-corporate-earnings-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 10:02:49 GMT</pubDate>
     </item>

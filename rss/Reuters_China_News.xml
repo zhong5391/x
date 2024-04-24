@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 24 Apr 2024 05:32:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 05:48:48 GMT</lastBuildDate>
     <item>
       <title>亚洲股市因科技股上涨；干预日元观察</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-24/</link>
@@ -43,12 +43,12 @@
     <item>
       <title>美国参议院有足够票数通过乌克兰、以色列援助法案，投票仍在继续</title>
       <link>https://www.reuters.com/world/us/us-senate-has-enough-votes-pass-ukraine-israel-aid-bill-voting-continues-2024-04-24/</link>
-      <description><![CDATA[美国参议院周二支持一项价值 950 亿美元的对外援助计划，为乌克兰、以色列和台湾提供安全援助，并获得足够票数将该措施提交白宫供总统乔·拜登签署成为法律。]]></description>
+      <description><![CDATA[美国参议院周二支持一项价值 950 亿美元的对外援助计划，为乌克兰、以色列和台湾提供安全援助，并获得足够票数将该措施提交白宫供总统拜登签署成为法律。]]></description>
       <guid>https://www.reuters.com/world/us/us-senate-has-enough-votes-pass-ukraine-israel-aid-bill-voting-continues-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 01:31:10 GMT</pubDate>
     </item>
     <item>
-      <title>通胀数据公布后美元下跌，澳元上涨</title>
+      <title>通胀数据公布后，美元下跌，澳元上涨</title>
       <link>https://www.reuters.com/markets/currencies/dollar-shaky-after-euro-rebound-yen-mired-34-year-low-2024-04-24/</link>
       <description><![CDATA[美元兑欧元和英镑大幅下挫后，周三收复了伤势，但尽管日本官员加大了干预警告力度，但日元仍深陷 34 年来的低点附近。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-shaky-after-euro-rebound-yen-mired-34-year-low-2024-04-24/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>早盘竞价：风险资产弹性、印度尼西亚利率调整</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-23/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <description><![CDATA[展望未来亚洲市场的前景。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 21:46:29 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Tue, 23 Apr 2024 20:53:55 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯将2024-27年油价预测下调至每桶65美元</title>
+      <title>俄罗斯将 2024-27 年油价预测下调至每桶 65 美元</title>
       <link>https://www.reuters.com/business/energy/russia-cuts-oil-price-forecast-65-per-barrel-2024-27-2024-04-23/</link>
       <description><![CDATA[根据路透社周二看到的最新展望，俄罗斯经济部已将该国未来三年的原油出口价格预测下调至每桶 65 美元。]]></description>
       <guid>https://www.reuters.com/business/energy/russia-cuts-oil-price-forecast-65-per-barrel-2024-27-2024-04-23/</guid>
