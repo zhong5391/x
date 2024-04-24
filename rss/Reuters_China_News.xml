@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 24 Apr 2024 20:52:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 21:18:40 GMT</lastBuildDate>
     <item>
       <title>中国学生因威胁民主活动人士而在美国被判入狱</title>
       <link>https://www.reuters.com/world/chinese-student-gets-us-prison-term-threatening-pro-democracy-activist-2024-04-24/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>拜登连任竞选不会停止使用 TikTok</title>
       <link>https://www.reuters.com/world/us/bidens-re-election-campaign-wont-stop-using-tiktok-2024-04-24/</link>
-      <description><![CDATA[周三，一位竞选官员表示，乔·拜登的连任竞选活动计划继续使用 TikTok，此前美国总统签署了一项法案，如果该应用程序的中国所有者未能剥离该应用程序，该法案将禁止该应用程序。]]></description>
+      <description><![CDATA[周三，一位竞选官员表示，乔·拜登的连任竞选活动计划继续使用 TikTok，此前不久，美国总统签署了一项法案，如果该应用程序的中国所有者未能剥离该应用程序，该法案将禁止该应用程序。]]></description>
       <guid>https://www.reuters.com/world/us/bidens-re-election-campaign-wont-stop-using-tiktok-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 17:23:53 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Wed, 24 Apr 2024 05:04:44 GMT</pubDate>
     </item>
     <item>
-      <title>美国 TikTok 法案引发言论自由保护之争</title>
+      <title>美国 TikTok 法案引发言论自由保护之战</title>
       <link>https://www.reuters.com/legal/tiktok-bill-sets-up-fight-over-free-speech-protections-us-constitution-2024-03-14/</link>
       <description><![CDATA[美国参议院周二批准了一项法案，禁止该社交媒体平台进入应用商店，除非其中国所有者将其出售，美国参议院可能就美国宪法规定的 TikTok 言论自由保护范围展开法庭摊牌。]]></description>
       <guid>https://www.reuters.com/legal/tiktok-bill-sets-up-fight-over-free-speech-protections-us-constitution-2024-03-14/</guid>
