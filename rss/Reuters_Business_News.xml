@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 16:22:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 16:39:48 GMT</lastBuildDate>
     <item>
       <title>汇丰银行表示，中国财富的增长推动了客户在美国的投资</title>
       <link>https://www.reuters.com/business/finance/hsbc-says-growing-chinese-wealth-fuels-client-investments-us-2024-04-24/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>微软的人工智能领先者对亚马逊云的主导地位提出了质疑</title>
       <link>https://www.reuters.com/technology/microsofts-ai-lead-puts-amazon-cloud-dominance-watch-2024-04-24/</link>
-      <description><![CDATA[美国科技巨头即将发布的季度报告可能会显示，随着越来越多的企业被 OpenAI 技术支持的一系列生成式 AI 功能所吸引，微软正在缩小与云计算市场领导者亚马逊 (Amazon.com) 的差距。]]></description>
+      <description><![CDATA[美国科技巨头即将发布的季度报告可能会显示，随着越来越多的企业被 OpenAI 技术支持的一系列生成式 AI 功能所吸引，转向使用其服务，微软正在缩小与云计算市场领导者亚马逊的差距。]]></description>
       <guid>https://www.reuters.com/technology/microsofts-ai-lead-puts-amazon-cloud-dominance-watch-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 12:03:16 GMT</pubDate>
     </item>
