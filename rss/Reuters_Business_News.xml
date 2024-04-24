@@ -4,11 +4,53 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 02:30:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 02:43:08 GMT</lastBuildDate>
     <item>
-      <title>澳大利亚稀土矿商莱纳斯收入因价格下跌而下滑</title>
+      <title>数据显示美国原油库存意外下降，油价小幅上涨</title>
+      <link>https://www.reuters.com/business/energy/oil-prices-inch-up-after-data-shows-unexpected-drop-us-crude-stocks-2024-04-24/</link>
+      <description><![CDATA[行业数据显示上周美国原油库存意外下降，这是需求的积极信号，且注意力从中东的敌对行动上转移，油价周三早盘上涨，延续了前一交易日的涨幅。]]></description>
+      <guid>https://www.reuters.com/business/energy/oil-prices-inch-up-after-data-shows-unexpected-drop-us-crude-stocks-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 01:19:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉转向低成本汽车使墨西哥和印度工厂计划陷入困境</title>
+      <link>https://www.reuters.com/business/autos-transportation/teslas-shift-low-cost-cars-throws-mexico-india-factory-plans-into-limbo-2024-04-24/</link>
+      <description><![CDATA[特斯拉周二表示，最早将于今年年底利用现有工厂生产价格更便宜的新型汽车，因此短期内不太可能在墨西哥和印度投资新工厂。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/teslas-shift-low-cost-cars-throws-mexico-india-factory-plans-into-limbo-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 01:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧元反弹后美元震荡；日元跌至34年低点</title>
+      <link>https://www.reuters.com/markets/currencies/dollar-shaky-after-euro-rebound-yen-mired-34-year-low-2024-04-24/</link>
+      <description><![CDATA[受意外强劲的欧洲活动数据和美国商业增长降温的双重打击，美元兑欧元和英镑大幅下跌，周三美元收复了伤势。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollar-shaky-after-euro-rebound-yen-mired-34-year-low-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 01:01:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉 Model 3 高性能版在中国的售价为 46,364 美元，第三季度起交付</title>
+      <link>https://www.reuters.com/business/autos-transportation/tesla-prices-model-3-performance-version-46364-china-deliver-q3-2024-04-24/</link>
+      <description><![CDATA[特斯拉公司已将其最新的 Model 3 性能版汽车在中国的售价定为 335,900 元人民币（46,364.29 美元）。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/tesla-prices-model-3-performance-version-46364-china-deliver-q3-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 00:39:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克表示，特斯拉可能会在明年底开始销售擎天柱机器人</title>
+      <link>https://www.reuters.com/technology/tesla-could-start-selling-optimus-robots-by-end-next-year-musk-says-2024-04-24/</link>
+      <description><![CDATA[特斯拉首席执行官埃隆·马斯克周二表示，特斯拉的人形机器人仍处于实验室阶段，但最快可能在明年底准备出售。]]></description>
+      <guid>https://www.reuters.com/technology/tesla-could-start-selling-optimus-robots-by-end-next-year-musk-says-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 00:21:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本3月份企业服务通胀回升</title>
+      <link>https://www.reuters.com/markets/asia/japans-corporate-service-inflation-perks-up-march-2024-04-24/</link>
+      <description><![CDATA[周三数据显示，日本 3 月份企业对企业服务年度通胀率连续第二个月加速，达到 2.3%，这表明企业由于工资持续上涨的前景而继续转嫁劳动力成本上涨。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japans-corporate-service-inflation-perks-up-march-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 00:16:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>莱纳斯稀土公司收入下滑，未达预期</title>
       <link>https://www.reuters.com/markets/commodities/australias-lynas-rare-earths-q3-sales-revenue-falls-58-2024-04-23/</link>
-      <description><![CDATA[澳大利亚矿商莱纳斯周三公布，由于稀土价格暴跌，第三季度销售收入下滑，但暗示 4 月份略有复苏。]]></description>
+      <description><![CDATA[澳大利亚矿商莱纳斯周三公布第三季度销售收入大幅下滑，因稀土价格暴跌而未达到分析师预期，同时该公司还表示西澳大利亚一个项目的成本上升。]]></description>
       <guid>https://www.reuters.com/markets/commodities/australias-lynas-rare-earths-q3-sales-revenue-falls-58-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 22:33:05 GMT</pubDate>
     </item>
@@ -41,13 +83,6 @@
       <pubDate>Tue, 23 Apr 2024 20:37:03 GMT</pubDate>
     </item>
     <item>
-      <title>工会主席表示，大众汽车工会获胜后，UAW 迅速行动</title>
-      <link>https://www.reuters.com/business/autos-transportation/uaw-moving-quickly-after-vw-organizing-win-union-president-says-2024-04-23/</link>
-      <description><![CDATA[美国汽车工人联合会（UAW）主席肖恩·费恩（Shawn Fain）在田纳西州一家大众汽车工厂取得历史性胜利后，正在​​迅速推动工会在美国十多家汽车制造商的工厂开展全面的组织活动。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/uaw-moving-quickly-after-vw-organizing-win-union-president-says-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 20:28:22 GMT</pubDate>
-    </item>
-    <item>
       <title>美泰季度亏损小于预期，成本削减取得成效</title>
       <link>https://www.reuters.com/business/retail-consumer/toymaker-mattels-quarterly-loss-smaller-than-expected-cost-cuts-pay-off-2024-04-23/</link>
       <description><![CDATA[美泰周二公布第一季度亏损低于预期，这得益于这家芭比娃娃制造商严格控制成本，而玩具需求依然不温不火。]]></description>
@@ -69,25 +104,11 @@
       <pubDate>Tue, 23 Apr 2024 20:12:05 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉提前推出新车型，股价上涨</title>
+      <title>特斯拉搁置全新 Model 2 后承诺“更实惠”的汽车</title>
       <link>https://www.reuters.com/business/autos-transportation/teslas-quarterly-revenue-falls-first-time-since-2020-2024-04-23/</link>
-      <description><![CDATA[特斯拉周二表示，将在 2025 年初推出“新车型”，导致其股价在盘后交易中飙升近 11%。]]></description>
+      <description><![CDATA[特斯拉周二表示，将在 2025 年初使用其现有平台和生产线推出“新车型”，因为该公司放弃了生产原预计售价为 25,000 美元的全新车型的雄心勃勃的计划。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/teslas-quarterly-revenue-falls-first-time-since-2020-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 20:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>WeWork 创始人诺依曼希望破产法院帮助其回购公司</title>
-      <link>https://www.reuters.com/legal/wework-founder-neumann-wants-bankruptcy-courts-help-bid-repurchase-company-2024-04-23/</link>
-      <description><![CDATA[WeWork 创始人 Adam Neumann 已请求美国破产法官帮助他重新收购联合办公业务，并于周一表示 WeWork 管理层应该进行谈判，否则将被迫放弃对公司重组的控制权。]]></description>
-      <guid>https://www.reuters.com/legal/wework-founder-neumann-wants-bankruptcy-courts-help-bid-repurchase-company-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 19:52:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：电子邮件显示，美国国防承包商 L3Harris 将裁员 5% 以节省成本</title>
-      <link>https://www.reuters.com/business/aerospace-defense/us-defense-contractor-l3harris-cut-5-workforce-save-costs-email-shows-2024-04-23/</link>
-      <description><![CDATA[路透社周二看到的美国国防承包商 L3Harris Technologies Inc. 首席执行官克里斯·库巴斯克 (Chris Kubasik) 在发给员工的电子邮件中表示，作为节省成本措施的一部分，今年将裁员 5%。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/us-defense-contractor-l3harris-cut-5-workforce-save-costs-email-shows-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 18:59:29 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，IBM 即将收购云软件提供商 HashiCorp</title>
@@ -99,7 +120,7 @@
     <item>
       <title>通知显示，特斯拉将在德克萨斯州和加利福尼亚州裁员 6,000 多人</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-lay-off-nearly-2700-employees-texas-factory-notice-shows-2024-04-23/</link>
-      <description><![CDATA[特斯拉表示，将在周二发布季度业绩之前在德克萨斯州和加利福尼亚州裁员 6,020 名员工，届时首席执行官埃隆·马斯克预计将概述这家电动汽车制造商应对需求放缓和利润下降的战略。]]></description>
+      <description><![CDATA[特斯拉表示，将在周二公布季度业绩之前在德克萨斯州和加利福尼亚州裁员 6,020 人，预计首席执行官埃隆马斯克将在会上概述这家电动汽车制造商应对需求放缓和利润率下降的战略。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-lay-off-nearly-2700-employees-texas-factory-notice-shows-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 15:46:23 GMT</pubDate>
     </item>
@@ -111,32 +132,11 @@
       <pubDate>Tue, 23 Apr 2024 10:34:29 GMT</pubDate>
     </item>
     <item>
-      <title>国际需求、价格上涨推动增长，百事可乐业绩好于预期</title>
-      <link>https://www.reuters.com/business/retail-consumer/pepsico-beats-quarterly-revenue-estimates-price-hikes-steady-demand-2024-04-23/</link>
-      <description><![CDATA[百事可乐公司周二第一季度的收入和利润超出了华尔街的预期，尽管美国市场增长放缓，但国际市场对百事可乐和奇多和多力多滋等零食的需求推动了增长。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/pepsico-beats-quarterly-revenue-estimates-price-hikes-steady-demand-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国最高法院在支持工会工人的案件中倾向于星巴克</title>
-      <link>https://www.reuters.com/world/us/us-supreme-court-examines-firings-pro-union-starbucks-workers-2024-04-23/</link>
-      <description><![CDATA[美国最高法院法官周二表示支持星巴克，挑战一项司法命令，该命令要求星巴克重新雇用孟菲斯一家咖啡馆的七名员工，这些员工因寻求成立工会而被解雇。]]></description>
-      <guid>https://www.reuters.com/world/us/us-supreme-court-examines-firings-pro-union-starbucks-workers-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 10:05:54 GMT</pubDate>
-    </item>
-    <item>
       <title>随着投资者消化收益和大型股前景，华尔街收高</title>
       <link>https://www.reuters.com/markets/us/futures-inch-higher-run-up-corporate-earnings-2024-04-23/</link>
       <description><![CDATA[在顶级公司公布积极盈利之后，美国股市周二收高，投资者关注七巨头和其他大型成长型股票的季度业绩。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-inch-higher-run-up-corporate-earnings-2024-04-23/</guid>
       <pubDate>Tue, 23 Apr 2024 10:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉股价在季度业绩公布前上涨</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-shares-edge-higher-ahead-quarterly-results-2024-04-23/</link>
-      <description><![CDATA[特斯拉股价周二在这家电动汽车制造商公布第一季度业绩之前上涨，分析师预计，由于降价和需求放缓，毛利率将创下六年多以来的最低水平。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-shares-edge-higher-ahead-quarterly-results-2024-04-23/</guid>
-      <pubDate>Tue, 23 Apr 2024 08:55:52 GMT</pubDate>
     </item>
     <item>
       <title>数据显示苹果一季度智能手机在华出货量暴跌19%</title>
