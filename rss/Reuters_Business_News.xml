@@ -1,35 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 19:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 19:29:03 GMT</lastBuildDate>
+    <item>
+      <title>星巴克因西雅图店工会选举上诉失败</title>
+      <link>https://www.reuters.com/legal/starbucks-loses-appeal-over-union-election-seattle-store-2024-04-24/</link>
+      <description><![CDATA[美国上诉法院周三驳回了星巴克的指控，即该咖啡公司西雅图旗舰店工会赢得的选举无效，因为该选举是在 COVID-19 大流行期间通过邮寄投票进行的。]]></description>
+      <guid>https://www.reuters.com/legal/starbucks-loses-appeal-over-union-election-seattle-store-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 17:46:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>机械需求趋于稳定，卡特彼勒和迪尔库存成为焦点</title>
+      <link>https://www.reuters.com/business/caterpillar-deere-inventories-focus-machinery-demand-plateaus-2024-04-24/</link>
+      <description><![CDATA[卡特彼勒、迪尔和凯斯纽荷兰工业集团将在未来几周公布季度业绩，届时设备库存将成为焦点，因为投资者正在等待该行业预计疲软的一年的需求线索。]]></description>
+      <guid>https://www.reuters.com/business/caterpillar-deere-inventories-focus-machinery-demand-plateaus-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 17:30:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>布蒂吉格表示，波音公司在提高 737 MAX 产量之前必须满足 FAA 质量计划</title>
+      <link>https://www.reuters.com/business/aerospace-defense/buttigieg-says-boeing-must-meet-faa-quality-plan-before-raising-737-max-output-2024-04-24/</link>
+      <description><![CDATA[美国运输部长皮特·布蒂吉格周三表示，波音公司必须满足政府的要求，在 90 天内解决系统性质量控制问题，然后才能提高 737 MAX 的产量。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/buttigieg-says-boeing-must-meet-faa-quality-plan-before-raising-737-max-output-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 16:20:46 GMT</pubDate>
+    </item>
     <item>
       <title>美国银行股东拒绝拆分首席执行官和董事长职位的提议</title>
       <link>https://www.reuters.com/business/finance/bank-america-shareholders-reject-proposal-split-ceo-chair-roles-2024-04-24/</link>
-      <description><![CDATA[美国银行股东周三在该公司的虚拟年会上拒绝了布莱恩·莫伊尼汉（Brian Moynihan）担任首席执行官和董事长职务的提议。]]></description>
+      <description><![CDATA[美国银行股东周三在公司虚拟年会上拒绝了布莱恩·莫伊尼汉 (Brian Moynihan) 担任首席执行官和董事长职务的提议。]]></description>
       <guid>https://www.reuters.com/business/finance/bank-america-shareholders-reject-proposal-split-ceo-chair-roles-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:41:05 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok首席执行官预计将打破美国限制：“我们不会去任何地方”</title>
+      <title>TikTok首席执行官预计将击败美国禁令：“我们哪儿也不去”</title>
       <link>https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/</link>
       <description><![CDATA[TikTok 首席执行官周三表示，该公司预计将赢得一项法律挑战，以阻止总统乔·拜登签署的立法，他表示该法案将禁止 1.7 亿美国人使用的流行短视频应用程序。]]></description>
       <guid>https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:23:39 GMT</pubDate>
     </item>
     <item>
-      <title>高盛首席执行官的领导力在年会上受到道德组织的批评</title>
+      <title>高盛和美国银行股东拒绝首席执行官与主席分开的提议</title>
       <link>https://www.reuters.com/business/finance/goldman-ceos-leadership-criticized-by-ethics-group-annual-meeting-2024-04-24/</link>
-      <description><![CDATA[倾向保守的国家法律和政策中心在周三的高盛年度会议上批评了高盛首席执行官大卫·所罗门的领导能力。]]></description>
+      <description><![CDATA[高盛和美国银行股东周三投票反对将两家银行首席执行官和董事长职位分开的提议，顶住有影响力的代理顾问要求加强公司治理的压力。]]></description>
       <guid>https://www.reuters.com/business/finance/goldman-ceos-leadership-criticized-by-ethics-group-annual-meeting-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:21:28 GMT</pubDate>
     </item>
     <item>
       <title>瑞银因瑞士信贷170亿美元债券被抹去而面临阿帕卢萨的新诉讼</title>
       <link>https://www.reuters.com/legal/ubs-faces-new-lawsuit-by-appaloosa-over-credit-suisse-17-bln-bond-wipeout-2024-04-24/</link>
-      <description><![CDATA[美国对冲基金 Appaloosa LP 提起新诉讼，指控前瑞士信贷银行 (Credit Suisse) 在其 170 亿美元债券在政府精心策划的瑞士竞争对手瑞银集团 (UBS) 救援中被减记为零之前，误导投资者了解其健康状况。]]></description>
+      <description><![CDATA[美国对冲基金 Appaloosa LP 发起一项新诉讼，指控前瑞士信贷集团 (Credit Suisse) 在瑞士竞争对手瑞银集团 (UBS) 政府精心策划的救援行动中将其 170 亿美元债券减记为零之前，误导投资者了解其健康状况。]]></description>
       <guid>https://www.reuters.com/legal/ubs-faces-new-lawsuit-by-appaloosa-over-credit-suisse-17-bln-bond-wipeout-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:19:48 GMT</pubDate>
     </item>
@@ -48,60 +69,32 @@
       <pubDate>Wed, 24 Apr 2024 14:41:16 GMT</pubDate>
     </item>
     <item>
-      <title>ASML 在年会上批准 Christophe Fouquet 担任首席执行官</title>
-      <link>https://www.reuters.com/technology/asml-approves-christophe-fouquet-ceo-annual-meeting-2024-04-24/</link>
-      <description><![CDATA[ASML 已批准任命 Christophe Fouquet 为公司新任首席执行官。]]></description>
-      <guid>https://www.reuters.com/technology/asml-approves-christophe-fouquet-ceo-annual-meeting-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 14:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Klarna 将在 Uber 平台上提供支付服务</title>
-      <link>https://www.reuters.com/technology/klarna-offer-payment-services-ubers-platform-2024-04-24/</link>
-      <description><![CDATA[瑞典的 Klarna 周三与 Uber Technologies 合作，在包括美国在内的几个市场上通过该公司的拼车和食品配送平台提供支付服务。]]></description>
-      <guid>https://www.reuters.com/technology/klarna-offer-payment-services-ubers-platform-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 14:22:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>汇丰银行表示，中国财富的增长推动了客户在美国的投资</title>
-      <link>https://www.reuters.com/business/finance/hsbc-says-growing-chinese-wealth-fuels-client-investments-us-2024-04-24/</link>
-      <description><![CDATA[汇丰银行美国和美洲区首席执行官迈克尔·罗伯茨表示，该行在中国和香港的富裕客户仍然渴望在美国投资。]]></description>
-      <guid>https://www.reuters.com/business/finance/hsbc-says-growing-chinese-wealth-fuels-client-investments-us-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 14:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国禁止工人竞业禁止协议面临主要商业集团的诉讼</title>
+      <title>美国商会起诉联邦贸易委员会禁止竞业禁止协议</title>
       <link>https://www.reuters.com/legal/us-ban-worker-noncompete-agreements-faces-lawsuit-major-business-group-2024-04-24/</link>
       <description><![CDATA[美国最大的商业游说团体美国商会周三提起诉讼，寻求推翻联邦机构近乎全面禁止雇主要求工人签署不得加入竞争对手或创办竞争企业的协议的禁令。]]></description>
       <guid>https://www.reuters.com/legal/us-ban-worker-noncompete-agreements-faces-lawsuit-major-business-group-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 13:46:01 GMT</pubDate>
     </item>
     <item>
-      <title>太阳能公司SunPower将裁员并关闭业务部门</title>
-      <link>https://www.reuters.com/business/energy/solar-company-sunpower-reduce-workforce-shut-business-segments-2024-04-24/</link>
-      <description><![CDATA[SunPower周三表示，作为重组的一部分，该公司计划裁员并关闭某些业务部门，以帮助降低成本，这使得这家太阳能发电公司的股价在震荡交易中上涨3.5%。]]></description>
-      <guid>https://www.reuters.com/business/energy/solar-company-sunpower-reduce-workforce-shut-business-segments-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 13:24:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：谷歌竞争对手 Tuta 向欧盟科技监管机构抱怨降级</title>
-      <link>https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/</link>
-      <description><![CDATA[德国电子邮件服务公司 Tuta Mail 向欧盟科技监管机构投诉称，在欧盟新技术规则生效当天，谷歌搜索结果突然下降。]]></description>
-      <guid>https://www.reuters.com/technology/google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 12:30:55 GMT</pubDate>
-    </item>
-    <item>
       <title>微软的人工智能领先者对亚马逊云的主导地位提出了质疑</title>
       <link>https://www.reuters.com/technology/microsofts-ai-lead-puts-amazon-cloud-dominance-watch-2024-04-24/</link>
-      <description><![CDATA[美国科技巨头即将发布的季度报告可能会显示，随着越来越多的企业被 OpenAI 技术支持的一系列生成式 AI 功能所吸引，微软正在缩小与云计算市场领导者亚马逊 (Amazon.com) 的差距。]]></description>
+      <description><![CDATA[美国科技巨头即将发布的季度报告可能会显示，随着越来越多的企业被 OpenAI 技术支持的一系列生成式 AI 功能所吸引，转向使用其服务，微软正在缩小与云计算市场领导者亚马逊的差距。]]></description>
       <guid>https://www.reuters.com/technology/microsofts-ai-lead-puts-amazon-cloud-dominance-watch-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 12:03:16 GMT</pubDate>
     </item>
     <item>
       <title>由于交付量下降，波音公司报告七个季度以来首次收入下降</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeings-lower-max-production-will-slow-planemakers-recovery-ceo-says-2024-04-24/</link>
-      <description><![CDATA[波音公司周三公布了七个季度以来的首次季度收入下降，但这家美国飞机制造商的表现超出了华尔街的预期。华尔街的预期是在 1 月份机舱门在空中爆裂导致该公司放慢了最畅销飞机的生产速度后下调的。]]></description>
+      <description><![CDATA[波音公司周三公布了七个季度以来的首次季度收入下降，但这家美国飞机制造商的表现超出了分析师的预期。分析师在 1 月份空中门塞爆裂导致其放慢了最畅销飞机的生产后下调了预期。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeings-lower-max-production-will-slow-planemakers-recovery-ceo-says-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 11:34:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>玩具制造商孩之宝的扭亏为盈帮助第一季度利润超过预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/toymaker-hasbro-posts-quarterly-profit-beat-slower-sales-decline-2024-04-24/</link>
+      <description><![CDATA[周三，孩之宝报告称，在库存减少和数字游戏收入稳定的帮助下，第一季度销售额降幅小于预期，利润轻松超过预期，导致其股价在早盘交易中上涨 12%。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/toymaker-hasbro-posts-quarterly-profit-beat-slower-sales-decline-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 10:36:35 GMT</pubDate>
     </item>
     <item>
       <title>AT&T 的用户增加和自由现金流超出预期</title>
@@ -111,9 +104,9 @@
       <pubDate>Wed, 24 Apr 2024 10:34:57 GMT</pubDate>
     </item>
     <item>
-      <title>纳斯达克因科技提振和盈利喜悦而超越华尔街同行</title>
+      <title>由于收益率上升抵消了乐观的企业盈利，华尔街股市下滑</title>
       <link>https://www.reuters.com/markets/us/sp-nasdaq-futures-advance-tech-boost-earnings-cheer-2024-04-24/</link>
-      <description><![CDATA[周三，纳斯达克指数跑赢华尔街同业，特斯拉在公布季度业绩后领涨大型股，而其他行业乐观的盈利报告也提供了支撑。]]></description>
+      <description><![CDATA[周三，华尔街主要股指回吐早盘涨幅，走低，原因是重量级科技股的跌幅超过了多个行业的正收益，而美国国债收益率的上升进一步给股市带来压力。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-nasdaq-futures-advance-tech-boost-earnings-cheer-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 10:10:44 GMT</pubDate>
     </item>
@@ -137,6 +130,13 @@
       <description><![CDATA[电动汽车制造商特斯拉计划在 2025 年初推出更实惠的车型，缓解了人们对增长放缓的担忧，周三该公司股价飙升约 10%。]]></description>
       <guid>https://www.reuters.com/technology/tesla-jumps-musks-promise-more-affordable-cars-eases-growth-fears-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 09:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国寻求对币安创始人赵判处三年监禁</title>
+      <link>https://www.reuters.com/legal/us-seeks-36-months-jail-binance-founder-zhao-2024-04-24/</link>
+      <description><![CDATA[美国检察官希望全球最大加密货币交易所币安创始人兼前首席执行官赵长鹏在承认违反反洗钱法后入狱三年。]]></description>
+      <guid>https://www.reuters.com/legal/us-seeks-36-months-jail-binance-founder-zhao-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 05:44:49 GMT</pubDate>
     </item>
     <item>
       <title>美国参议院通过 TikTok 撤资或禁止法案 拜登将使其成为法律</title>
