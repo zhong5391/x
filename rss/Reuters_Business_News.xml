@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 17:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 18:07:59 GMT</lastBuildDate>
     <item>
       <title>美国银行股东拒绝拆分首席执行官和董事长职位的提议</title>
       <link>https://www.reuters.com/business/finance/bank-america-shareholders-reject-proposal-split-ceo-chair-roles-2024-04-24/</link>
-      <description><![CDATA[美国银行股东周三在该公司的虚拟年会上拒绝了布莱恩·莫伊尼汉（Brian Moynihan）担任首席执行官和董事长职务的提议。]]></description>
+      <description><![CDATA[美国银行股东周三在公司虚拟年会上拒绝了布莱恩·莫伊尼汉 (Brian Moynihan) 担任首席执行官和董事长职务的提议。]]></description>
       <guid>https://www.reuters.com/business/finance/bank-america-shareholders-reject-proposal-split-ceo-chair-roles-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:41:05 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>瑞银因瑞士信贷170亿美元债券被抹去而面临阿帕卢萨的新诉讼</title>
       <link>https://www.reuters.com/legal/ubs-faces-new-lawsuit-by-appaloosa-over-credit-suisse-17-bln-bond-wipeout-2024-04-24/</link>
-      <description><![CDATA[美国对冲基金 Appaloosa LP 提起新诉讼，指控前瑞士信贷银行 (Credit Suisse) 在其 170 亿美元债券在政府精心策划的瑞士竞争对手瑞银集团 (UBS) 救援中被减记为零之前，误导投资者了解其健康状况。]]></description>
+      <description><![CDATA[美国对冲基金 Appaloosa LP 发起一项新诉讼，指控前瑞士信贷集团 (Credit Suisse) 在瑞士竞争对手瑞银集团 (UBS) 政府精心策划的救援行动中将其 170 亿美元债券减记为零之前，误导投资者了解其健康状况。]]></description>
       <guid>https://www.reuters.com/legal/ubs-faces-new-lawsuit-by-appaloosa-over-credit-suisse-17-bln-bond-wipeout-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:19:48 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 24 Apr 2024 15:08:04 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉股东寻求禁止马斯克逃避特拉华州薪酬裁决</title>
+      <title>特斯拉股东寻求阻止马斯克逃避特拉华州薪酬裁决</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-shareholder-seeks-block-musk-litigating-pay-outside-delaware-2024-04-24/</link>
       <description><![CDATA[周三，一位特斯拉投资者成功提起诉讼，要求取消首席执行官埃隆·马斯克 (Elon Musk) 560 亿美元的薪酬方案，要求特拉华州法官阻止这家电动汽车制造商违反法院权威，将其合法所在地迁至德克萨斯州。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-shareholder-seeks-block-musk-litigating-pay-outside-delaware-2024-04-24/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>微软的人工智能领先者对亚马逊云的主导地位提出了质疑</title>
       <link>https://www.reuters.com/technology/microsofts-ai-lead-puts-amazon-cloud-dominance-watch-2024-04-24/</link>
-      <description><![CDATA[美国科技巨头即将发布的季度报告可能会显示，随着越来越多的企业被 OpenAI 技术支持的一系列生成式 AI 功能所吸引，微软正在缩小与云计算市场领导者亚马逊 (Amazon.com) 的差距。]]></description>
+      <description><![CDATA[美国科技巨头即将发布的季度报告可能会显示，随着越来越多的企业被 OpenAI 技术支持的一系列生成式 AI 功能所吸引，转向使用其服务，微软正在缩小与云计算市场领导者亚马逊的差距。]]></description>
       <guid>https://www.reuters.com/technology/microsofts-ai-lead-puts-amazon-cloud-dominance-watch-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 12:03:16 GMT</pubDate>
     </item>
