@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 04:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 04:38:56 GMT</lastBuildDate>
     <item>
       <title>首席执行官退休后摩根士丹利亚洲私募股权部门将进行重组</title>
       <link>https://www.reuters.com/business/finance/morgan-stanley-pe-asia-reorganise-regional-teams-ceo-steps-down-2024-04-25/</link>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 25 Apr 2024 00:43:25 GMT</pubDate>
     </item>
     <item>
-      <title>龙舌兰酒制造商 Becle 的利润因酒类消费放缓而缩水</title>
+      <title>龙舌兰酒制造商 Becle 利润因白酒消费放缓而缩水</title>
       <link>https://www.reuters.com/business/retail-consumer/tequila-maker-becle-posts-q1-profit-down-18-2024-04-24/</link>
       <description><![CDATA[全球最大的龙舌兰酒生产商墨西哥Becle周三公布，第一季度净利润较上年同期下降18%，但仍高于分析师预测，原因是该公司酒精饮料销量减少，且受到外汇影响。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/tequila-maker-becle-posts-q1-profit-down-18-2024-04-24/</guid>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 24 Apr 2024 22:04:03 GMT</pubDate>
     </item>
     <item>
-      <title>法院重启全食超市员工就“黑人生命也是命”口罩提起的诉讼</title>
+      <title>法院重启全食超市员工针对“黑人生命也是命”口罩的诉讼</title>
       <link>https://www.reuters.com/legal/court-revives-whole-foods-workers-lawsuit-over-black-lives-matter-masks-2024-04-24/</link>
       <description><![CDATA[美国一家上诉法院重新提起诉讼，指控全食超市非法解雇一名拒绝摘下“黑人生命也是命”口罩的员工，并抱怨这家高档杂货连锁店存在种族主义。]]></description>
       <guid>https://www.reuters.com/legal/court-revives-whole-foods-workers-lawsuit-over-black-lives-matter-masks-2024-04-24/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>消息人士称，美国将在五月下旬决定波音公司是否违反起诉协议</title>
       <link>https://www.reuters.com/business/aerospace-defense/us-decide-by-late-may-whether-boeing-violated-prosecution-deal-sources-say-2024-04-24/</link>
-      <description><![CDATA[知情人士称，美国司法部官员计划最早于 5 月下旬决定波音是否违反了一项协议，该协议使该飞机制造商免受 2018 年和 2019 年致命空难的刑事起诉。]]></description>
+      <description><![CDATA[知情人士称，美国司法部官员计划最早于 5 月下旬决定波音公司是否违反了一项协议，该协议使该飞机制造商免受 2018 年和 2019 年致命空难的刑事起诉。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/us-decide-by-late-may-whether-boeing-violated-prosecution-deal-sources-say-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 20:51:17 GMT</pubDate>
     </item>
@@ -99,12 +99,12 @@
     <item>
       <title>尽管存在不确定性，但由于客流量保持稳定，Chipotle 上调了年度销售预测</title>
       <link>https://www.reuters.com/business/retail-consumer/chipotle-mexican-grill-raises-full-year-sales-forecast-resilient-burrito-demand-2024-04-24/</link>
-      <description><![CDATA[Chipotle Mexican Grill 周三上调了全年销售预期，尽管菜单价格上涨，但其墨西哥卷饼和盖饭的需求依然强劲。]]></description>
+      <description><![CDATA[Chipotle Mexican Grill 周三上调了全年销售预期，尽管菜单价格上涨，但其墨西哥卷饼和饭碗的需求依然强劲。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/chipotle-mexican-grill-raises-full-year-sales-forecast-resilient-burrito-demand-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 20:17:29 GMT</pubDate>
     </item>
     <item>
-      <title>福特商业销售利润好于预期；电动汽车仍然拖累</title>
+      <title>福特的商业销售利润超过了预期；电动汽车仍然拖累</title>
       <link>https://www.reuters.com/world/us/fords-first-quarter-adjusted-profit-falls-2024-04-24/</link>
       <description><![CDATA[福特汽车公司周三公布的第一季度收益超出了华尔街的预期，这得益于其商用车部门的强劲表现以及混合动力汽车销量的增长。]]></description>
       <guid>https://www.reuters.com/world/us/fords-first-quarter-adjusted-profit-falls-2024-04-24/</guid>
@@ -120,14 +120,14 @@
     <item>
       <title>台积电称“A16”芯片制造技术将于 2026 年问世，与英特尔摊牌</title>
       <link>https://www.reuters.com/technology/tsmc-says-a16-chipmaking-technology-will-start-production-late-2026-2024-04-24/</link>
-      <description><![CDATA[台积电周三表示，一种名为“A16”的新型芯片制造技术将于 2026 年下半年投入生产，与长期竞争对手英特尔就谁能制造出世界上最快的芯片展开摊牌。]]></description>
+      <description><![CDATA[台积电周三表示，一种名为“A16”的新型芯片制造技术将于 2026 年下半年投入生产，与长期竞争对手英特尔就谁能制造出世界上最快的芯片展开对决。]]></description>
       <guid>https://www.reuters.com/technology/tsmc-says-a16-chipmaking-technology-will-start-production-late-2026-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 17:48:21 GMT</pubDate>
     </item>
     <item>
       <title>TikTok首席执行官预计将击败美国禁令：“我们哪儿也不去”</title>
       <link>https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/</link>
-      <description><![CDATA[TikTok 首席执行官周三表示，该社交媒体公司预计将赢得一项法律挑战，以阻止总统乔·拜登签署的立法，他表示该法案将禁止 1.7 亿美国人使用其受欢迎的短视频应用程序。]]></description>
+      <description><![CDATA[TikTok 首席执行官周三表示，这家社交媒体公司预计将赢得一场法律挑战，以阻止总统乔·拜登签署成为法律的立法，他表示，该立法将禁止 1.7 亿美国人使用的热门短视频应用程序。]]></description>
       <guid>https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:23:39 GMT</pubDate>
     </item>
