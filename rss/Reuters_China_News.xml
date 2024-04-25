@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 15:33:44 GMT</lastBuildDate>
     <item>
-      <title>据 The Information 报道，华为领导的中国公司计划到 2026 年生产先进的存储芯片</title>
+      <title>据 The Information 报道，华为主导的中国企业计划到 2026 年生产先进的内存芯片</title>
       <link>https://www.reuters.com/technology/huawei-led-chinese-firms-aim-make-advanced-memory-chips-by-2026-information-2024-04-25/</link>
       <description><![CDATA[据 The Information 周四报道，以华为技术公司为首、并得到中国政府支持的一批中国芯片公司计划到 2026 年生产高带宽内存 (HBM) 半导体，这是人工智能芯片的关键组成部分。]]></description>
       <guid>https://www.reuters.com/technology/huawei-led-chinese-firms-aim-make-advanced-memory-chips-by-2026-information-2024-04-25/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>肯尼亚政府建议监管而不是禁止 TikTok</title>
       <link>https://www.reuters.com/world/africa/kenyan-government-recommends-regulating-not-banning-tiktok-2024-04-25/</link>
-      <description><![CDATA[肯尼亚政府建议立法者不要因担心平台上共享的内容而禁止 TikTok，而是建议监管机构进行更严格的监管。]]></description>
+      <description><![CDATA[肯尼亚政府建议立法者不要禁止 TikTok，因为担心该平台上分享的内容，而是建议监管机构进行更严格的监管。]]></description>
       <guid>https://www.reuters.com/world/africa/kenyan-government-recommends-regulating-not-banning-tiktok-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 09:50:21 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>布林肯开始访华后，美中关系有所改善，但分歧仍很严重</title>
       <link>https://www.reuters.com/world/better-us-china-ties-still-deep-disagreements-blinken-starts-visit-2024-04-24/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周三抵达上海，美中关系的基础更加稳定，但一系列令人畏惧的未解决问题威胁着全球竞争对手之间关系的稳定。]]></description>
+      <description><![CDATA[美国国务卿安东尼·布林肯周三抵达上海，美中关系基础更加稳定，但一系列令人畏惧的未解决问题威胁着全球竞争对手之间关系的稳定。]]></description>
       <guid>https://www.reuters.com/world/better-us-china-ties-still-deep-disagreements-blinken-starts-visit-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 05:04:44 GMT</pubDate>
     </item>
