@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 21:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 21:52:25 GMT</lastBuildDate>
     <item>
       <title>谷歌母公司Alphabet宣布首次每股派息20美分</title>
       <link>https://www.reuters.com/technology/google-parent-alphabet-announces-first-ever-divided-20-cents-per-share-2024-04-25/</link>
-      <description><![CDATA[Alphabet 周四宣布首次派发每股 20 美分的股息，在谷歌母公司斥资数十亿美元建设数据中心以赶上生成人工智能领域的竞争对手之际，该公司返还了资本。]]></description>
+      <description><![CDATA[Alphabet 周四宣布首次派发每股 20 美分的股息，在谷歌母公司斥资数十亿美元建设数据中心、在生成人工智能领域赶超竞争对手之际，派发股息返还资本。]]></description>
       <guid>https://www.reuters.com/technology/google-parent-alphabet-announces-first-ever-divided-20-cents-per-share-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 20:06:07 GMT</pubDate>
     </item>
     <item>
       <title>微软季度营收超出预期</title>
       <link>https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2024-04-25/</link>
-      <description><![CDATA[周四，在云服务和商业软件产品采用人工智能带来的收益推动下，微软第三季度营收超出了华尔街预期。]]></description>
+      <description><![CDATA[周四，微软第三季度营收超出了华尔街预期，这得益于其云服务和商业软件产品采用人工智能带来的收益。]]></description>
       <guid>https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 20:05:24 GMT</pubDate>
     </item>
@@ -29,14 +29,14 @@
     <item>
       <title>加密货币公司 Consensys 就以太坊监管起诉美国 SEC</title>
       <link>https://www.reuters.com/legal/crypto-firm-consensys-sues-us-sec-over-ethereum-regulation-2024-04-25/</link>
-      <description><![CDATA[加密货币公司 Consensys 周四表示，已针对美国证券交易委员会（SEC）提起与以太坊区块链监管相关的诉讼。]]></description>
+      <description><![CDATA[加密货币公司 Consensys 周四表示，已对美国证券交易委员会（SEC）提起与以太坊区块链监管相关的诉讼。]]></description>
       <guid>https://www.reuters.com/legal/crypto-firm-consensys-sues-us-sec-over-ethereum-regulation-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 18:40:17 GMT</pubDate>
     </item>
     <item>
       <title>华纳兄弟探索频道将推出数据平台以实现更好的广告定位</title>
       <link>https://www.reuters.com/business/media-telecom/warner-bros-discovery-launch-data-platform-better-ad-targeting-2024-04-25/</link>
-      <description><![CDATA[华纳兄弟探索频道周四表示，正在推出一个数据平台，帮助广告商通过有线和数字渠道更好地接触目标受众。]]></description>
+      <description><![CDATA[华纳兄弟探索频道周四表示，正在推出一个数据平台，帮助广告商更好地通过有线和数字渠道接触目标受众。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/warner-bros-discovery-launch-data-platform-better-ad-targeting-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 18:35:12 GMT</pubDate>
     </item>
@@ -48,9 +48,9 @@
       <pubDate>Thu, 25 Apr 2024 18:33:29 GMT</pubDate>
     </item>
     <item>
-      <title>长期担任伊莱克斯首席执行官的乔纳斯·塞缪尔森将卸任并离开董事会</title>
+      <title>伊莱克斯长期首席执行官乔纳斯·萨缪尔森辞职并离开董事会</title>
       <link>https://www.reuters.com/business/retail-consumer/electrolux-ceo-jonas-samuelson-leave-2024-04-25/</link>
-      <description><![CDATA[全球第二大家电制造商伊莱克斯周四表示，其首席执行官乔纳斯·塞缪尔森 (Jonas Samuelson) 将于 2025 年 1 月 1 日离职并离开董事会。]]></description>
+      <description><![CDATA[全球第二大家电制造商伊莱克斯周四表示，其首席执行官乔纳斯·萨缪尔森将于 2025 年 1 月 1 日辞去职务和董事会职务。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/electrolux-ceo-jonas-samuelson-leave-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 18:12:34 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>第一季度进口抑制美国经济，通胀加剧</title>
       <link>https://www.reuters.com/markets/us/us-economic-growth-slows-more-than-expected-first-quarter-2024-04-25/</link>
-      <description><![CDATA[由于进口激增和企业未售出商品小幅增加，美国经济第一季度增长速度为近两年来最慢，需求强劲的迹象加上通胀加速加剧了美联储不会采取行动的预期。 9月前降息。]]></description>
+      <description><![CDATA[在进口激增、企业积压商品少量增加、需求强劲和通胀加速的迹象之下，美国经济第一季度增速降至近两年来最低，这强化了人们对美联储在9月前不会降息的预期。]]></description>
       <guid>https://www.reuters.com/markets/us/us-economic-growth-slows-more-than-expected-first-quarter-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 12:37:28 GMT</pubDate>
     </item>
@@ -111,7 +111,7 @@
       <pubDate>Thu, 25 Apr 2024 10:44:16 GMT</pubDate>
     </item>
     <item>
-      <title>焦点：UPS、联邦快递向电动货车的转型因电池短缺、供应不足而放缓</title>
+      <title>焦点：由于电池短缺和供应不足，UPS、FedEx 向电动货车的转型步伐放缓</title>
       <link>https://www.reuters.com/business/ups-fedex-transition-electric-vans-slowed-by-battery-shortages-low-supply-2024-04-25/</link>
       <description><![CDATA[UPS 和联邦快递在美国供应大型四四方方的电动踏板车方面面临着不确定性，它们需要更换耗油量大的汽车，并减少该国导致气候变暖的尾气排放。]]></description>
       <guid>https://www.reuters.com/business/ups-fedex-transition-electric-vans-slowed-by-battery-shortages-low-supply-2024-04-25/</guid>
@@ -120,14 +120,14 @@
     <item>
       <title>GDP增长疲软蔓延降息阴霾，华尔街股市下跌</title>
       <link>https://www.reuters.com/markets/us/futures-falter-meta-platforms-weighs-megacaps-2024-04-25/</link>
-      <description><![CDATA[华尔街股市周四收低，因数据显示美国经济增长慢于预期和持续通胀，加上元平台令人失望的业绩引发大盘股抛售，令市场震惊。]]></description>
+      <description><![CDATA[华尔街股市周四收盘走低，原因是市场对美国经济增长低于预期且通胀持续的数据感到震惊，加之 Meta Platforms 的业绩令人失望，引发大盘股抛售。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-falter-meta-platforms-weighs-megacaps-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 10:06:20 GMT</pubDate>
     </item>
     <item>
       <title>解释者：华尔街分析师对特朗普社会真相的评论在哪里？</title>
       <link>https://www.reuters.com/business/media-telecom/where-are-wall-streets-analyst-notes-trumps-truth-social-2024-04-25/</link>
-      <description><![CDATA[特朗普媒体科技集团是美国交易最活跃的股票之一，但华尔街的股票分析师对此保持谨慎。]]></description>
+      <description><![CDATA[特朗普媒体与科技集团是交易最活跃的美国股票之一，但华尔街的股票分析师仍保持清醒。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/where-are-wall-streets-analyst-notes-trumps-truth-social-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 10:03:11 GMT</pubDate>
     </item>
