@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 18:38:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 18:51:56 GMT</lastBuildDate>
     <item>
       <title>空客未能实现营业利润，提高A350产量目标</title>
       <link>https://www.reuters.com/business/aerospace-defense/airbus-misses-operating-profit-raises-a350-output-goal-2024-04-25/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>耶伦表示，美国对中国产能过剩的反应没有任何可能性</title>
       <link>https://www.reuters.com/world/nothing-off-table-us-response-china-overcapacity-yellen-says-2024-04-25/</link>
-      <description><![CDATA[美国财政部长珍妮特·耶伦周四对路透社表示，拜登政府不会放弃任何应对中国工业产能过剩的选择，这是美国及其盟友最关心的问题。]]></description>
+      <description><![CDATA[美国财政部长耶伦周四对路透社表示，拜登政府不会放弃任何应对中国工业产能过剩的选项，这是美国及其盟友最关心的问题。]]></description>
       <guid>https://www.reuters.com/world/nothing-off-table-us-response-china-overcapacity-yellen-says-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 14:46:40 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 25 Apr 2024 14:01:35 GMT</pubDate>
     </item>
     <item>
-      <title>据 The Information 报道，华为主导的中国企业计划到 2026 年生产先进的内存芯片</title>
+      <title>据 The Information 报道，华为领导的中国公司计划到 2026 年生产先进的存储芯片</title>
       <link>https://www.reuters.com/technology/huawei-led-chinese-firms-aim-make-advanced-memory-chips-by-2026-information-2024-04-25/</link>
       <description><![CDATA[据 The Information 周四报道，以华为技术公司为首、并得到中国政府支持的一批中国芯片公司计划到 2026 年生产高带宽内存 (HBM) 半导体，这是人工智能芯片的关键组成部分。]]></description>
       <guid>https://www.reuters.com/technology/huawei-led-chinese-firms-aim-make-advanced-memory-chips-by-2026-information-2024-04-25/</guid>
@@ -83,7 +83,7 @@
       <pubDate>Thu, 25 Apr 2024 12:37:28 GMT</pubDate>
     </item>
     <item>
-      <title>标准普尔全球第一季度利润超出预期，因产品需求强劲</title>
+      <title>由于产品需求强劲，标普全球第一季度利润超出预期</title>
       <link>https://www.reuters.com/business/sp-global-first-quarter-profit-beats-estimates-strong-product-demand-2024-04-25/</link>
       <description><![CDATA[标普全球周四第一季度利润超出华尔街预期，“软着陆”的希望刺激投资者在数据和分析产品上投入更多资金]]></description>
       <guid>https://www.reuters.com/business/sp-global-first-quarter-profit-beats-estimates-strong-product-demand-2024-04-25/</guid>
@@ -106,14 +106,14 @@
     <item>
       <title>纳斯达克的收入因金融科技产品的强劲需求而增长</title>
       <link>https://www.reuters.com/markets/us/nasdaqs-revenue-beats-strong-demand-fintech-products-2024-04-25/</link>
-      <description><![CDATA[周四，纳斯达克第一季度营收超出预期，原因是交易员和投资者对资本市场所使用的金融科技产品的强劲需求。]]></description>
+      <description><![CDATA[纳斯达克周四第一季度营收超出预期，原因是交易员和投资者对其金融科技产品的强劲需求推动了资本市场的发展。]]></description>
       <guid>https://www.reuters.com/markets/us/nasdaqs-revenue-beats-strong-demand-fintech-products-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 11:03:29 GMT</pubDate>
     </item>
     <item>
       <title>西南航空统计波音交付延误的成本</title>
       <link>https://www.reuters.com/business/aerospace-defense/southwest-airlines-cuts-jet-delivery-forecast-boeing-again-2024-04-25/</link>
-      <description><![CDATA[西南航空周四警告称，今年成本将上升，收入增长将放缓，此前该公司将波音新飞机交付量预期下调了一半以上，导致其股价下跌。]]></description>
+      <description><![CDATA[西南航空周四警告称，今年成本上升，收入增长放缓，此前该公司将波音新飞机交付量预期削减了一半以上，导致其股价下跌。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/southwest-airlines-cuts-jet-delivery-forecast-boeing-again-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 10:39:18 GMT</pubDate>
     </item>
