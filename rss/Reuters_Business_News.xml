@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 03:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 03:24:58 GMT</lastBuildDate>
+    <item>
+      <title>首席执行官退休后摩根士丹利亚洲私募股权部门将进行重组</title>
+      <link>https://www.reuters.com/business/finance/morgan-stanley-pe-asia-reorganise-regional-teams-ceo-steps-down-2024-04-25/</link>
+      <description><![CDATA[据路透社查阅的一份内部备忘录显示，摩根士丹利亚洲私募股权公司（PEA）正在重组其在该地区的团队，其亚洲区现任首席执行官 Chin Chou 即将退休。]]></description>
+      <guid>https://www.reuters.com/business/finance/morgan-stanley-pe-asia-reorganise-regional-teams-ceo-steps-down-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 01:01:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于美国需求担忧超过对中东冲突的担忧，油价下跌</title>
+      <link>https://www.reuters.com/markets/commodities/oil-eases-us-demand-concerns-outweigh-fears-over-middle-east-conflicts-2024-04-25/</link>
+      <description><![CDATA[周四早盘油价下跌，因推迟降息的前景对美国经济可能放缓的担忧超过了对中东冲突扩大风险的担忧。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/oil-eases-us-demand-concerns-outweigh-fears-over-middle-east-conflicts-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 00:47:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>日元在 155 水平挣扎，市场对干预持谨慎态度</title>
+      <link>https://www.reuters.com/markets/currencies/markets-wary-intervention-yen-struggles-155-level-2024-04-25/</link>
+      <description><![CDATA[周四，随着日本央行 (BOJ) 开始为期两天的利率制定会议，日元兑美元汇率被固定在 155 美元兑 155 美元的弱势区间，这让交易员担心东京方面是否会在政策审议仍在进行时进行干预。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/markets-wary-intervention-yen-struggles-155-level-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 00:43:25 GMT</pubDate>
+    </item>
     <item>
       <title>龙舌兰酒制造商 Becle 利润因白酒消费放缓而缩水</title>
       <link>https://www.reuters.com/business/retail-consumer/tequila-maker-becle-posts-q1-profit-down-18-2024-04-24/</link>
@@ -22,23 +43,16 @@
     <item>
       <title>思科称黑客破坏了其安全设备以监视政府</title>
       <link>https://www.reuters.com/technology/cybersecurity/cisco-says-hackers-subverted-its-security-devices-spy-governments-2024-04-24/</link>
-      <description><![CDATA[科技公司思科系统表示，黑客已经破坏了其部分数字安全设备，侵入了全球政府网络。]]></description>
+      <description><![CDATA[科技公司思科系统公司表示，黑客已经破坏了其部分数字安全设备，从而侵入了全球政府网络。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/cisco-says-hackers-subverted-its-security-devices-spy-governments-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 22:37:13 GMT</pubDate>
     </item>
     <item>
-      <title>焦点：中国比亚迪寻求重新定义电动汽车一代的奢华</title>
+      <title>中国比亚迪寻求重新定义电动汽车一代的奢华</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-byd-seeks-redefine-luxury-ev-generation-2024-04-24/</link>
       <description><![CDATA[中国电动汽车制造商比亚迪将于周四在北京车展上展示其高端品牌的首款轿车，以向德国梅赛德斯-奔驰等公司发起挑战，后者三年前因销售缓慢而退出该品牌的开发。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-seeks-redefine-luxury-ev-generation-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 22:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人失望的元预测导致科技同行在长期交易中表现不佳</title>
-      <link>https://www.reuters.com/technology/disappointing-meta-forecast-pulls-down-tech-peers-extended-trade-2024-04-24/</link>
-      <description><![CDATA[事实证明，Facebook 母公司 Meta Platforms 令人失望的预测具有传染性，引发了科技股和科技相关股票在盘后交易中的抛售。]]></description>
-      <guid>https://www.reuters.com/technology/disappointing-meta-forecast-pulls-down-tech-peers-extended-trade-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 21:54:48 GMT</pubDate>
     </item>
     <item>
       <title>法院重启全食超市员工就“黑人生命也是命”口罩提起的诉讼</title>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 24 Apr 2024 21:53:25 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：日本外汇未出现，Meta 暴跌</title>
+      <title>早盘报价：日本外汇未出现，Meta 暴跌</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-24/</link>
       <description><![CDATA[展望未来一天的亚洲市场。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-24/</guid>
@@ -64,14 +78,14 @@
     <item>
       <title>西南航空空乘人员批准新合同</title>
       <link>https://www.reuters.com/business/aerospace-defense/southwest-airlines-flight-attendants-ratify-new-contract-2024-04-24/</link>
-      <description><![CDATA[代表员工和航空公司的工会周三表示，西南航空的空乘人员周三投票赞成立即加薪 22% 的新合同。]]></description>
+      <description><![CDATA[代表员工和航空公司的工会周三表示，西南航空的乘务员周三投票赞成一份新合同，立即加薪 22%。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/southwest-airlines-flight-attendants-ratify-new-contract-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 20:57:12 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，美国将在 5 月底前决定波音是否违反起诉协议</title>
+      <title>消息人士称，美国将在五月下旬决定波音公司是否违反起诉协议</title>
       <link>https://www.reuters.com/business/aerospace-defense/us-decide-by-late-may-whether-boeing-violated-prosecution-deal-sources-say-2024-04-24/</link>
-      <description><![CDATA[知情人士称，美国司法部官员计划最早于 5 月下旬决定波音公司是否违反了一项协议，该协议使该飞机制造商免受 2018 年和 2019 年致命空难的刑事起诉。]]></description>
+      <description><![CDATA[知情人士称，美国司法部官员计划最早于 5 月下旬决定波音是否违反了一项协议，该协议使该飞机制造商免受 2018 年和 2019 年致命空难的刑事起诉。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/us-decide-by-late-may-whether-boeing-violated-prosecution-deal-sources-say-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 20:51:17 GMT</pubDate>
     </item>
@@ -83,14 +97,14 @@
       <pubDate>Wed, 24 Apr 2024 20:26:38 GMT</pubDate>
     </item>
     <item>
-      <title>尽管存在不确定性，但由于客流量保持稳定，Chipotle 上调了年度销售预测</title>
+      <title>尽管存在不确定性，但客流量仍保持稳定，Chipotle 上调年度销售预测</title>
       <link>https://www.reuters.com/business/retail-consumer/chipotle-mexican-grill-raises-full-year-sales-forecast-resilient-burrito-demand-2024-04-24/</link>
-      <description><![CDATA[尽管菜单价格上涨，但由于墨西哥卷饼和米饭碗需求强劲，Chipotle Mexican Grill 周三上调了全年销售预期。]]></description>
+      <description><![CDATA[Chipotle Mexican Grill 周三上调了全年销售预期，尽管菜单价格上涨，但其墨西哥卷饼和盖饭的需求依然强劲。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/chipotle-mexican-grill-raises-full-year-sales-forecast-resilient-burrito-demand-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 20:17:29 GMT</pubDate>
     </item>
     <item>
-      <title>福特商业销售利润超出预期；电动汽车仍然表现不佳</title>
+      <title>福特商业销售利润好于预期；电动汽车仍然拖累</title>
       <link>https://www.reuters.com/world/us/fords-first-quarter-adjusted-profit-falls-2024-04-24/</link>
       <description><![CDATA[福特汽车公司周三公布的第一季度收益超出了华尔街的预期，这得益于其商用车部门的强劲表现以及混合动力汽车销量的增长。]]></description>
       <guid>https://www.reuters.com/world/us/fords-first-quarter-adjusted-profit-falls-2024-04-24/</guid>
@@ -106,16 +120,9 @@
     <item>
       <title>台积电称“A16”芯片制造技术将于 2026 年问世，与英特尔摊牌</title>
       <link>https://www.reuters.com/technology/tsmc-says-a16-chipmaking-technology-will-start-production-late-2026-2024-04-24/</link>
-      <description><![CDATA[台积电周三表示，一种名为“A16”的新型芯片制造技术将于 2026 年下半年投入生产，与长期竞争对手英特尔就谁能制造出世界上最快的芯片展开对决。]]></description>
+      <description><![CDATA[台积电周三表示，一种名为“A16”的新型芯片制造技术将于 2026 年下半年投入生产，与长期竞争对手英特尔就谁能制造出世界上最快的芯片展开摊牌。]]></description>
       <guid>https://www.reuters.com/technology/tsmc-says-a16-chipmaking-technology-will-start-production-late-2026-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 17:48:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>星巴克因西雅图店工会选举上诉失败</title>
-      <link>https://www.reuters.com/legal/starbucks-loses-appeal-over-union-election-seattle-store-2024-04-24/</link>
-      <description><![CDATA[美国上诉法院周三驳回了星巴克的指控，即该咖啡公司西雅图旗舰店的员工投票成立工会无效，因为该投票是在 COVID-19 大流行期间通过邮寄投票进行的。]]></description>
-      <guid>https://www.reuters.com/legal/starbucks-loses-appeal-over-union-election-seattle-store-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 17:46:57 GMT</pubDate>
     </item>
     <item>
       <title>TikTok首席执行官预计将击败美国禁令：“我们哪儿也不去”</title>
@@ -127,16 +134,9 @@
     <item>
       <title>由于交付量下降，波音公司报告七个季度以来首次收入下降</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeings-lower-max-production-will-slow-planemakers-recovery-ceo-says-2024-04-24/</link>
-      <description><![CDATA[波音公司周三公布了七个季度以来的首次季度收入下降，但这家美国飞机制造商的表现超出了分析师的预期。分析师在 1 月份空中门塞爆裂导致其放慢了最畅销飞机的生产后下调了预期。]]></description>
+      <description><![CDATA[波音公司周三公布了七个季度以来的首次季度收入下降，但这家美国飞机制造商的表现超出了分析师的预期。分析师在 1 月份空中门塞爆裂事件导致该公司放慢了最畅销飞机的生产速度后下调了预期。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeings-lower-max-production-will-slow-planemakers-recovery-ceo-says-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 11:34:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>玩具制造商孩之宝的扭亏为盈帮助第一季度利润超过预期</title>
-      <link>https://www.reuters.com/business/retail-consumer/toymaker-hasbro-posts-quarterly-profit-beat-slower-sales-decline-2024-04-24/</link>
-      <description><![CDATA[周三，孩之宝报告称，在库存减少和数字游戏收入稳定的帮助下，第一季度销售额降幅小于预期，利润轻松超过预期，导致其股价在早盘交易中上涨 12%。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/toymaker-hasbro-posts-quarterly-profit-beat-slower-sales-decline-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 10:36:35 GMT</pubDate>
     </item>
     <item>
       <title>由于市场权衡收益率上升和企业业绩乐观，标普 500 指数收高</title>

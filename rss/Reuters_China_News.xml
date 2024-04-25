@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 25 Apr 2024 03:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 03:25:06 GMT</lastBuildDate>
     <item>
-      <title>焦点：中国比亚迪寻求重新定义电动汽车一代的奢华</title>
+      <title>日元在 155 水平挣扎，市场对干预持谨慎态度</title>
+      <link>https://www.reuters.com/markets/currencies/markets-wary-intervention-yen-struggles-155-level-2024-04-25/</link>
+      <description><![CDATA[周四，随着日本央行 (BOJ) 开始为期两天的利率制定会议，日元兑美元汇率被固定在 155 美元兑 155 美元的弱势区间，这让交易员担心东京方面是否会在政策审议仍在进行时进行干预。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/markets-wary-intervention-yen-struggles-155-level-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 00:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>布林肯将前往上海会见企业，开启艰难的中国之行</title>
+      <link>https://www.reuters.com/world/blinken-meet-businesses-shanghai-he-kicks-off-tough-china-trip-2024-04-25/</link>
+      <description><![CDATA[随着华盛顿和北京之间的关系趋于稳定，美国国务卿安东尼·布林肯将于周四在上海会见商界领袖，推动解决一系列威胁竞争对手之间新达成的平衡的问题。]]></description>
+      <guid>https://www.reuters.com/world/blinken-meet-businesses-shanghai-he-kicks-off-tough-china-trip-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 00:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国比亚迪寻求重新定义电动汽车一代的奢华</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-byd-seeks-redefine-luxury-ev-generation-2024-04-24/</link>
       <description><![CDATA[中国电动汽车制造商比亚迪将于周四在北京车展上展示其高端品牌的首款轿车，以向德国梅赛德斯-奔驰等公司发起挑战，后者三年前因销售缓慢而退出该品牌的开发。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-seeks-redefine-luxury-ev-generation-2024-04-24/</guid>
@@ -29,7 +43,7 @@
     <item>
       <title>拜登连任竞选不会停止使用 TikTok</title>
       <link>https://www.reuters.com/world/us/bidens-re-election-campaign-wont-stop-using-tiktok-2024-04-24/</link>
-      <description><![CDATA[周三，一位竞选官员表示，乔·拜登的连任竞选活动计划继续使用 TikTok，此前美国总统签署了一项法案，如果该应用程序的中国所有者未能剥离该应用程序，该法案将禁止该应用程序。]]></description>
+      <description><![CDATA[周三，一位竞选官员表示，乔·拜登的连任竞选活动计划继续使用 TikTok，此前不久，美国总统签署了一项法案，如果该应用程序的中国所有者未能剥离该应用程序，该法案将禁止该应用程序。]]></description>
       <guid>https://www.reuters.com/world/us/bidens-re-election-campaign-wont-stop-using-tiktok-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 17:23:53 GMT</pubDate>
     </item>
@@ -41,14 +55,14 @@
       <pubDate>Wed, 24 Apr 2024 16:00:38 GMT</pubDate>
     </item>
     <item>
-      <title>中国缓慢复苏给奢侈品行业前景蒙上阴影</title>
+      <title>中国经济复苏缓慢，奢侈品行业前景蒙上阴影</title>
       <link>https://www.reuters.com/business/retail-consumer/luxury-sector-outlook-clouded-by-chinas-slow-recovery-2024-04-24/</link>
       <description><![CDATA[欧洲大型奢侈品牌的最新销售数据并不能让人相信中国对高端时尚的需求正在复苏，这给该行业的前景蒙上了一层阴影。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/luxury-sector-outlook-clouded-by-chinas-slow-recovery-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:54:20 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 首席执行官希望打破美国禁令：“我们哪儿也不会去”</title>
+      <title>TikTok首席执行官预计将击败美国禁令：“我们哪儿也不去”</title>
       <link>https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/</link>
       <description><![CDATA[TikTok 首席执行官周三表示，该社交媒体公司预计将赢得一项法律挑战，以阻止总统乔·拜登签署的立法，他表示该法案将禁止 1.7 亿美国人使用其受欢迎的短视频应用程序。]]></description>
       <guid>https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/</guid>
@@ -57,7 +71,7 @@
     <item>
       <title>由于欧盟的担忧，TikTok 暂停了新应用程序的奖励计划</title>
       <link>https://www.reuters.com/technology/tiktok-suspend-tiktok-lites-reward-programme-amid-eu-concerns-2024-04-24/</link>
-      <description><![CDATA[TikTok 周三在 X 社交媒体平台上表示，该公司将自愿暂停其新应用 TikTok Lite 的奖励计划，同时试图解决欧盟的担忧。]]></description>
+      <description><![CDATA[周三，该公司在 X 社交媒体平台上表示，TikTok 将自愿暂停其新应用程序 TikTok Lite 的奖励计划，同时试图解决欧盟的担忧。]]></description>
       <guid>https://www.reuters.com/technology/tiktok-suspend-tiktok-lites-reward-programme-amid-eu-concerns-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:05:09 GMT</pubDate>
     </item>
@@ -111,23 +125,9 @@
       <pubDate>Wed, 24 Apr 2024 12:31:07 GMT</pubDate>
     </item>
     <item>
-      <title>中国间谍指控欧盟民意调查前加强对德国极右翼分子的审查</title>
-      <link>https://www.reuters.com/world/europe/china-spy-charges-up-scrutiny-germanys-far-right-ahead-eu-polls-2024-04-24/</link>
-      <description><![CDATA[泄露了有关大规模驱逐计划的讨论。使用纳粹语言的审判。现在，中国正在监视有关克里姆林宫盟友秘密付款的指控和报告。]]></description>
-      <guid>https://www.reuters.com/world/europe/china-spy-charges-up-scrutiny-germanys-far-right-ahead-eu-polls-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 12:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>托斯卡纳的奢侈品供应商感受到来自中国的寒意和趋势的变化</title>
-      <link>https://www.reuters.com/business/retail-consumer/tuscanys-luxury-suppliers-feel-chill-china-changing-trends-2024-04-24/</link>
-      <description><![CDATA[中国对奢侈品的需求下降加剧了托斯卡纳传统皮革公司的问题，因为它们供应的大型时装公司正在重塑战略，导致痛苦的裁员，而这可能只是一个开始。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/tuscanys-luxury-suppliers-feel-chill-china-changing-trends-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 11:03:33 GMT</pubDate>
-    </item>
-    <item>
       <title>台湾对美国援助计划感到满意，中国反对出售武器</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-happy-with-us-aid-package-china-objects-arms-sales-2024-04-24/</link>
-      <description><![CDATA[台湾总统蔡英文周三表示，她很高兴美国国会通过了一项全面的对外援助计划，其中包括对台湾的武器支持，而中国则敦促华盛顿停止向台北出售武器。]]></description>
+      <description><![CDATA[台湾总统蔡英文周三表示，她很高兴美国国会通过了包括对台武器援助在内的全面外援计划，中国敦促华盛顿停止向台北出售武器。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-happy-with-us-aid-package-china-objects-arms-sales-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 06:28:27 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Wed, 24 Apr 2024 05:04:44 GMT</pubDate>
     </item>
     <item>
-      <title>美国 TikTok 法案引发言论自由保护之争</title>
+      <title>美国 TikTok 法案引发言论自由保护之战</title>
       <link>https://www.reuters.com/legal/tiktok-bill-sets-up-fight-over-free-speech-protections-us-constitution-2024-03-14/</link>
       <description><![CDATA[美国总统乔·拜登周三签署立法，禁止该社交媒体平台进入应用商店，除非其中国所有者将其出售，之后美国政府可能就美国宪法规定的 TikTok 言论自由保护范围展开法庭摊牌。]]></description>
       <guid>https://www.reuters.com/legal/tiktok-bill-sets-up-fight-over-free-speech-protections-us-constitution-2024-03-14/</guid>
