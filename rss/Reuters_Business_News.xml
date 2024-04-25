@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 05:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 05:58:32 GMT</lastBuildDate>
     <item>
       <title>预计第一季度美国经济增长缓慢但稳健；通胀可能升温</title>
       <link>https://www.reuters.com/markets/us/slow-solid-us-economic-growth-anticipated-q1-inflation-likely-heats-up-2024-04-25/</link>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 25 Apr 2024 02:37:47 GMT</pubDate>
     </item>
     <item>
-      <title>科技股暴跌，股市受创；日元在干预区域内波动</title>
+      <title>股市受科技股暴跌打击；日元在干预区震荡</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-25/</link>
       <description><![CDATA[亚洲股市周四下跌，Facebook 母公司 Meta Platforms 令人失望的盈利预测重创科技股，而日元兑美元自 1990 年以来首次跌破 155 美元，引发了东京干预的担忧。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-25/</guid>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 25 Apr 2024 02:25:58 GMT</pubDate>
     </item>
     <item>
-      <title>小米SU7汽车订单锁定超7.5万辆 6月交付目标超万辆</title>
+      <title>小米 SU7 汽车订单已超 7.5 万辆，6 月交付目标超 1 万辆</title>
       <link>https://www.reuters.com/business/autos-transportation/xiaomi-locks-over-75000-orders-su7-car-targets-over-10000-deliveries-june-2024-04-25/</link>
       <description><![CDATA[中国智能手机制造商小米创始人雷军周四表示，截至 4 月 24 日，其运动型 SU7 电动轿车已锁定 75,723 辆订单，并计划在 6 月份交付超过 10,000 辆。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/xiaomi-locks-over-75000-orders-su7-car-targets-over-10000-deliveries-june-2024-04-25/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>梅赛德斯表示将继续投资中国合作</title>
       <link>https://www.reuters.com/business/autos-transportation/mercedes-benz-shows-off-electric-line-up-beijing-autoshow-not-giving-up-2024-04-25/</link>
-      <description><![CDATA[梅赛德斯奔驰中国区总裁周四表示，该公司将继续投资与互联网公司百度等中国合作伙伴的合作，并指出中国对其全球战略至关重要。]]></description>
+      <description><![CDATA[梅赛德斯奔驰中国区负责人周四表示，该公司将继续投资与互联网公司百度等中国合作伙伴的合作，并指出中国对其全球战略至关重要。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/mercedes-benz-shows-off-electric-line-up-beijing-autoshow-not-giving-up-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 02:02:35 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>由于交付量下降，波音公司报告七个季度以来首次收入下降</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeings-lower-max-production-will-slow-planemakers-recovery-ceo-says-2024-04-24/</link>
-      <description><![CDATA[波音公司周三公布了七个季度以来的首次季度收入下降，但这家美国飞机制造商的表现超出了分析师的预期。分析师在 1 月份空中门塞爆裂导致其放慢了最畅销飞机的生产后下调了预期。]]></description>
+      <description><![CDATA[波音公司周三公布了七个季度以来的首次季度收入下降，但这家美国飞机制造商的表现超出了分析师的预期。分析师在 1 月份空中门塞爆裂事件导致该公司放慢了最畅销飞机的生产速度后下调了预期。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeings-lower-max-production-will-slow-planemakers-recovery-ceo-says-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 11:34:59 GMT</pubDate>
     </item>
