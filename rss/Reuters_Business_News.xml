@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 02:48:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 03:07:39 GMT</lastBuildDate>
     <item>
       <title>龙舌兰酒制造商 Becle 利润因白酒消费放缓而缩水</title>
       <link>https://www.reuters.com/business/retail-consumer/tequila-maker-becle-posts-q1-profit-down-18-2024-04-24/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>思科称黑客破坏了其安全设备以监视政府</title>
       <link>https://www.reuters.com/technology/cybersecurity/cisco-says-hackers-subverted-its-security-devices-spy-governments-2024-04-24/</link>
-      <description><![CDATA[科技公司思科系统公司表示，黑客已经破坏了其部分数字安全设备，从而侵入了全球政府网络。]]></description>
+      <description><![CDATA[科技公司思科系统表示，黑客已经破坏了其部分数字安全设备，侵入了全球政府网络。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/cisco-says-hackers-subverted-its-security-devices-spy-governments-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 22:37:13 GMT</pubDate>
     </item>
@@ -69,9 +69,9 @@
       <pubDate>Wed, 24 Apr 2024 20:57:12 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，美国将在五月下旬决定波音公司是否违反起诉协议</title>
+      <title>消息人士称，美国将在 5 月底前决定波音是否违反起诉协议</title>
       <link>https://www.reuters.com/business/aerospace-defense/us-decide-by-late-may-whether-boeing-violated-prosecution-deal-sources-say-2024-04-24/</link>
-      <description><![CDATA[知情人士称，美国司法部官员计划最早于 5 月下旬决定波音是否违反了一项协议，该协议使该飞机制造商免受 2018 年和 2019 年致命空难的刑事起诉。]]></description>
+      <description><![CDATA[知情人士称，美国司法部官员计划最早于 5 月下旬决定波音公司是否违反了一项协议，该协议使该飞机制造商免受 2018 年和 2019 年致命空难的刑事起诉。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/us-decide-by-late-may-whether-boeing-violated-prosecution-deal-sources-say-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 20:51:17 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>尽管存在不确定性，但由于客流量保持稳定，Chipotle 上调了年度销售预测</title>
       <link>https://www.reuters.com/business/retail-consumer/chipotle-mexican-grill-raises-full-year-sales-forecast-resilient-burrito-demand-2024-04-24/</link>
-      <description><![CDATA[Chipotle Mexican Grill 周三上调了全年销售预期，尽管菜单价格上涨，但其墨西哥卷饼和盖饭的需求依然强劲。]]></description>
+      <description><![CDATA[尽管菜单价格上涨，但由于墨西哥卷饼和米饭碗需求强劲，Chipotle Mexican Grill 周三上调了全年销售预期。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/chipotle-mexican-grill-raises-full-year-sales-forecast-resilient-burrito-demand-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 20:17:29 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>台积电称“A16”芯片制造技术将于 2026 年问世，与英特尔摊牌</title>
       <link>https://www.reuters.com/technology/tsmc-says-a16-chipmaking-technology-will-start-production-late-2026-2024-04-24/</link>
-      <description><![CDATA[台积电周三表示，一种名为“A16”的新型芯片制造技术将于 2026 年下半年投入生产，与长期竞争对手英特尔就谁能制造出世界上最快的芯片展开摊牌。]]></description>
+      <description><![CDATA[台积电周三表示，一种名为“A16”的新型芯片制造技术将于 2026 年下半年投入生产，与长期竞争对手英特尔就谁能制造出世界上最快的芯片展开对决。]]></description>
       <guid>https://www.reuters.com/technology/tsmc-says-a16-chipmaking-technology-will-start-production-late-2026-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 17:48:21 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>由于交付量下降，波音公司报告七个季度以来首次收入下降</title>
       <link>https://www.reuters.com/business/aerospace-defense/boeings-lower-max-production-will-slow-planemakers-recovery-ceo-says-2024-04-24/</link>
-      <description><![CDATA[波音公司周三公布了七个季度以来的首次季度收入下降，但这家美国飞机制造商的表现超出了分析师的预期。分析师在 1 月份空中门塞爆裂事件导致该公司放慢了最畅销飞机的生产速度后下调了预期。]]></description>
+      <description><![CDATA[波音公司周三公布了七个季度以来的首次季度收入下降，但这家美国飞机制造商的表现超出了分析师的预期。分析师在 1 月份空中门塞爆裂导致其放慢了最畅销飞机的生产后下调了预期。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeings-lower-max-production-will-slow-planemakers-recovery-ceo-says-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 11:34:59 GMT</pubDate>
     </item>
