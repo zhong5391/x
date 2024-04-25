@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:48:52 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 25 Apr 2024 16:08:49 GMT</lastBuildDate>
     <item>
       <title>GDP疲软、物价坚挺凸显美联储困境</title>
       <link>https://www.reuters.com/markets/us/weak-gdp-strong-prices-highlight-fed-dilemma-2024-04-25/</link>
@@ -69,7 +69,7 @@
       <pubDate>Thu, 25 Apr 2024 12:37:28 GMT</pubDate>
     </item>
     <item>
-      <title>标准普尔全球第一季度利润超出预期，因产品需求强劲</title>
+      <title>由于产品需求强劲，标普全球第一季度利润超出预期</title>
       <link>https://www.reuters.com/business/sp-global-first-quarter-profit-beats-estimates-strong-product-demand-2024-04-25/</link>
       <description><![CDATA[标普全球周四第一季度利润超出华尔街预期，“软着陆”的希望刺激投资者在数据和分析产品上投入更多资金]]></description>
       <guid>https://www.reuters.com/business/sp-global-first-quarter-profit-beats-estimates-strong-product-demand-2024-04-25/</guid>
@@ -99,14 +99,14 @@
     <item>
       <title>纳斯达克的收入因金融科技产品的强劲需求而增长</title>
       <link>https://www.reuters.com/markets/us/nasdaqs-revenue-beats-strong-demand-fintech-products-2024-04-25/</link>
-      <description><![CDATA[周四，纳斯达克第一季度营收超出预期，原因是交易员和投资者对资本市场所使用的金融科技产品的强劲需求。]]></description>
+      <description><![CDATA[纳斯达克周四第一季度营收超出预期，原因是交易员和投资者对其金融科技产品的强劲需求推动了资本市场的发展。]]></description>
       <guid>https://www.reuters.com/markets/us/nasdaqs-revenue-beats-strong-demand-fintech-products-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 11:03:29 GMT</pubDate>
     </item>
     <item>
       <title>西南航空第三次下调波音交付量预测</title>
       <link>https://www.reuters.com/business/aerospace-defense/southwest-airlines-cuts-jet-delivery-forecast-boeing-again-2024-04-25/</link>
-      <description><![CDATA[周四，西南航空第三次大幅下调了波音 2024 年新飞机交付量预期，其首席执行官表示，这将给该航空公司今年和明年带来“重大挑战”。]]></description>
+      <description><![CDATA[周四，西南航空第三次下调了波音 2024 年新飞机交付量预期，其首席执行官表示，这将给该航空公司今年和明年带来“重大挑战”。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/southwest-airlines-cuts-jet-delivery-forecast-boeing-again-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 10:39:18 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>默克公司因癌症药物 Keytruda 销售强劲而上调 2024 年利润预期</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/merck-raises-2024-profit-forecast-strong-cancer-hpv-drugs-sales-2024-04-25/</link>
-      <description><![CDATA[默克公司周四，由于其重磅抗癌药物 Keytruda 的强劲销售，该公司上调了年度利润和收入预测，导致该公司股价盘前上涨逾 2%。]]></description>
+      <description><![CDATA[默克公司周四上调了年度利润和收入预期，得益于其重磅抗癌药 Keytruda 的强劲销售，该公司股价盘前上涨逾 2%。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/merck-raises-2024-profit-forecast-strong-cancer-hpv-drugs-sales-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 10:33:23 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>解释者：华尔街分析师对特朗普社会真相的评论在哪里？</title>
       <link>https://www.reuters.com/business/media-telecom/where-are-wall-streets-analyst-notes-trumps-truth-social-2024-04-25/</link>
-      <description><![CDATA[特朗普媒体科技集团是美国交易最活跃的股票之一，但华尔街的股票分析师对此保持谨慎。]]></description>
+      <description><![CDATA[特朗普媒体与科技集团是交易最活跃的美国股票之一，但华尔街的股票分析师仍保持清醒。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/where-are-wall-streets-analyst-notes-trumps-truth-social-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 10:03:11 GMT</pubDate>
     </item>
