@@ -1,44 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 | 今日国际头条 | 路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 04:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 05:17:55 GMT</lastBuildDate>
     <item>
-      <title>首席执行官退休后摩根士丹利亚洲私募股权部门将进行重组</title>
-      <link>https://www.reuters.com/business/finance/morgan-stanley-pe-asia-reorganise-regional-teams-ceo-steps-down-2024-04-25/</link>
-      <description><![CDATA[据路透社查阅的一份内部备忘录显示，摩根士丹利亚洲私募股权公司（PEA）正在重组其在该地区的团队，其亚洲区现任首席执行官 Chin Chou 即将退休。]]></description>
-      <guid>https://www.reuters.com/business/finance/morgan-stanley-pe-asia-reorganise-regional-teams-ceo-steps-down-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 01:01:33 GMT</pubDate>
+      <title>预计第一季度美国经济增长缓慢但稳健；通胀可能升温</title>
+      <link>https://www.reuters.com/markets/us/slow-solid-us-economic-growth-anticipated-q1-inflation-likely-heats-up-2024-04-25/</link>
+      <description><![CDATA[美国第一季度经济增长可能放缓至仍然稳健的步伐，而通胀加速，强化了金融市场对美联储将推迟降息至9月的预期。]]></description>
+      <guid>https://www.reuters.com/markets/us/slow-solid-us-economic-growth-anticipated-q1-inflation-likely-heats-up-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 04:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>由于美国需求担忧超过对中东冲突的担忧，油价下跌</title>
-      <link>https://www.reuters.com/markets/commodities/oil-eases-us-demand-concerns-outweigh-fears-over-middle-east-conflicts-2024-04-25/</link>
-      <description><![CDATA[周四早盘油价下跌，因推迟降息的前景对美国经济可能放缓的担忧超过了对中东冲突扩大风险的担忧。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/oil-eases-us-demand-concerns-outweigh-fears-over-middle-east-conflicts-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 00:47:57 GMT</pubDate>
+      <title>小鹏汽车CEO称软件、AI升级进入“超快周期”</title>
+      <link>https://www.reuters.com/business/autos-transportation/xpeng-ceo-says-its-software-ai-upgrades-enter-super-fast-cycle-2024-04-25/</link>
+      <description><![CDATA[中国电动汽车(EV)制造商小鹏汽车周四表示，其软件和人工智能培训升级将从5月份开始进入“超快周期”，并希望其平台的使用范围将扩大到其他亚洲国家和欧洲。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/xpeng-ceo-says-its-software-ai-upgrades-enter-super-fast-cycle-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 03:55:14 GMT</pubDate>
     </item>
     <item>
-      <title>日元在 155 水平挣扎，市场对干预持谨慎态度</title>
-      <link>https://www.reuters.com/markets/currencies/markets-wary-intervention-yen-struggles-155-level-2024-04-25/</link>
-      <description><![CDATA[周四，随着日本央行 (BOJ) 开始为期两天的利率制定会议，日元兑美元汇率被固定在 155 美元兑 155 美元的弱势区间，这让交易员担心东京方面是否会在政策审议仍在进行时进行干预。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/markets-wary-intervention-yen-struggles-155-level-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 00:43:25 GMT</pubDate>
+      <title>VinFast 首席执行官计划将其财富再投资 10 亿美元给电动汽车制造商</title>
+      <link>https://www.reuters.com/markets/asia/vinfast-chief-planning-invest-another-1-billion-his-fortune-ev-maker-2024-04-25/</link>
+      <description><![CDATA[越南亿万富翁 Pham Nhat Vuong 周四表示，他计划从自己的财富中向纳斯达克上市的电动汽车 (EV) 制造商 VinFast 再投资 10 亿美元，并正在考虑让他控制的其他公司上市。]]></description>
+      <guid>https://www.reuters.com/markets/asia/vinfast-chief-planning-invest-another-1-billion-his-fortune-ev-maker-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 03:16:07 GMT</pubDate>
     </item>
     <item>
-      <title>龙舌兰酒制造商 Becle 利润因白酒消费放缓而缩水</title>
-      <link>https://www.reuters.com/business/retail-consumer/tequila-maker-becle-posts-q1-profit-down-18-2024-04-24/</link>
-      <description><![CDATA[全球最大的龙舌兰酒生产商墨西哥Becle周三公布，第一季度净利润较上年同期下降18%，但仍高于分析师预测，原因是该公司酒精饮料销量减少，且受到外汇影响。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/tequila-maker-becle-posts-q1-profit-down-18-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 23:30:09 GMT</pubDate>
+      <title>中国电动汽车初创公司蔚来为新版ET7轿车设定起价</title>
+      <link>https://www.reuters.com/business/autos-transportation/chinese-ev-startup-nio-sets-starting-price-new-version-et7-sedan-2024-04-25/</link>
+      <description><![CDATA[中国电动汽车 (EV) 初创公司 Nio 首席执行官周四表示，已将新版 ET7 轿车的起价定为 428,000 元人民币（59,063 美元）。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/chinese-ev-startup-nio-sets-starting-price-new-version-et7-sedan-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 02:56:22 GMT</pubDate>
     </item>
     <item>
-      <title>与破产的 Gol 谈判结束后，LATAM 放弃了收购波音 B737 的计划</title>
-      <link>https://www.reuters.com/business/aerospace-defense/latam-scraps-plan-acquire-boeing-b737s-after-talks-end-with-bankrupt-gol-2024-04-24/</link>
-      <description><![CDATA[南美航空周三表示，在谈判失败后，该公司不再寻求从破产的巴西航空公司 Gol 或其他来源购买波音 B737 飞机，而是选择寻找替代窄体飞机。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/latam-scraps-plan-acquire-boeing-b737s-after-talks-end-with-bankrupt-gol-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 22:44:10 GMT</pubDate>
+      <title>比亚迪阳王品牌第三款超豪华车型上市</title>
+      <link>https://www.reuters.com/business/autos-transportation/byd-unveils-third-ultra-luxury-model-under-yangwang-brand-2024-04-25/</link>
+      <description><![CDATA[中国电动汽车制造商比亚迪周四推出了阳王品牌的第三款超豪华车型U7，在价格战愈演愈烈的情况下，该公司进军高端市场以提高盈利能力。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/byd-unveils-third-ultra-luxury-model-under-yangwang-brand-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 02:48:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>日产推出四款概念车助推中国复兴</title>
+      <link>https://www.reuters.com/business/autos-transportation/nissan-unveils-four-concept-cars-fuel-china-comeback-2024-04-25/</link>
+      <description><![CDATA[日产汽车周四向中国市场推出了四款概念车，这家日本汽车制造商希望在全球最大的汽车市场收复失地。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/nissan-unveils-four-concept-cars-fuel-china-comeback-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 02:37:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>股市受科技股暴跌打击；日元在干预区震荡</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-25/</link>
+      <description><![CDATA[亚洲股市周四下跌，Facebook 母公司 Meta Platforms 令人失望的盈利预测重创科技股，而日元兑美元自 1990 年以来首次跌破 155 美元，引发了东京干预的担忧。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 02:32:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>临床实验室运营商 Labcorp 将以 2.39 亿美元收购破产的基因测试制造商 Invitae</title>
+      <link>https://www.reuters.com/markets/deals/clinical-lab-operator-labcorp-buy-bankrupt-genetic-test-maker-invitae-239-mln-2024-04-25/</link>
+      <description><![CDATA[实验室服务提供商 Labcorp 周三表示，将收购软银支持的 Invitae Corp 的资产，该资产是在基因测试制造商申请破产几个月后通过自愿破产保护程序拍卖的。]]></description>
+      <guid>https://www.reuters.com/markets/deals/clinical-lab-operator-labcorp-buy-bankrupt-genetic-test-maker-invitae-239-mln-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 02:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>小米SU7汽车订单锁定超7.5万辆 6月交付目标超万辆</title>
+      <link>https://www.reuters.com/business/autos-transportation/xiaomi-locks-over-75000-orders-su7-car-targets-over-10000-deliveries-june-2024-04-25/</link>
+      <description><![CDATA[中国智能手机制造商小米创始人雷军周四表示，截至 4 月 24 日，小米运动型 SU7 电动轿车已锁定 75,723 份订单，并计划在 6 月份交付超过 10,000 台。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/xiaomi-locks-over-75000-orders-su7-car-targets-over-10000-deliveries-june-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 02:19:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>梅赛德斯表示将继续投资中国合作</title>
+      <link>https://www.reuters.com/business/autos-transportation/mercedes-benz-shows-off-electric-line-up-beijing-autoshow-not-giving-up-2024-04-25/</link>
+      <description><![CDATA[梅赛德斯奔驰中国区负责人周四表示，该公司将继续投资与互联网公司百度等中国合作伙伴的合作，并指出中国对其全球战略至关重要。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/mercedes-benz-shows-off-electric-line-up-beijing-autoshow-not-giving-up-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 02:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于电动汽车需求放缓，LG 能源解决方案今年将最大限度地减少资本支出</title>
+      <link>https://www.reuters.com/technology/battery-firm-lg-energy-solution-q1-profit-plunges-weak-ev-sales-2024-04-25/</link>
+      <description><![CDATA[韩国电池制造商 LG Energy Solution (LGES) 周四表示，由于全球电动汽车 (EV) 需求放缓，该公司计划今年最大程度地减少资本支出，此前该公司公布第一季度利润暴跌 75%。]]></description>
+      <guid>https://www.reuters.com/technology/battery-firm-lg-energy-solution-q1-profit-plunges-weak-ev-sales-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 00:28:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>布林肯敦促在中国公平对待美国公司</title>
+      <link>https://www.reuters.com/world/blinken-meet-businesses-shanghai-he-kicks-off-tough-china-trip-2024-04-25/</link>
+      <description><![CDATA[美国国务卿安东尼·布林肯周四呼吁中国为美国企业提供公平的竞争环境，他的访问旨在解决一系列可能危及新修复的关系的争议问题。]]></description>
+      <guid>https://www.reuters.com/world/blinken-meet-businesses-shanghai-he-kicks-off-tough-china-trip-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 00:26:08 GMT</pubDate>
     </item>
     <item>
       <title>思科称黑客破坏了其安全设备以监视政府</title>
@@ -62,46 +111,11 @@
       <pubDate>Wed, 24 Apr 2024 21:53:25 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：日本外汇未出现，Meta 暴跌</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-24/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 21:47:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息人士称，美国将在五月下旬决定波音公司是否违反起诉协议</title>
-      <link>https://www.reuters.com/legal/litigation/us-decide-by-late-may-if-boeing-violated-prosecution-deal-sources-say-2024-04-24/</link>
-      <description><![CDATA[知情人士称，美国司法部官员计划最早于 5 月下旬决定波音公司是否违反了一项协议，该协议使该飞机制造商免受 2018 年和 2019 年致命坠机事件的刑事起诉。]]></description>
-      <guid>https://www.reuters.com/legal/litigation/us-decide-by-late-may-if-boeing-violated-prosecution-deal-sources-say-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 21:30:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>西南航空空乘人员批准新合同</title>
-      <link>https://www.reuters.com/business/aerospace-defense/southwest-airlines-flight-attendants-ratify-new-contract-2024-04-24/</link>
-      <description><![CDATA[代表员工和航空公司的工会周三表示，西南航空的空乘人员周三投票赞成立即加薪 22% 的新合同。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/southwest-airlines-flight-attendants-ratify-new-contract-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 20:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息人士称，美国将在五月下旬决定波音公司是否违反起诉协议</title>
-      <link>https://www.reuters.com/business/aerospace-defense/us-decide-by-late-may-whether-boeing-violated-prosecution-deal-sources-say-2024-04-24/</link>
-      <description><![CDATA[知情人士称，美国司法部官员计划最早于 5 月下旬决定波音公司是否违反了一项协议，该协议使该飞机制造商免受 2018 年和 2019 年致命空难的刑事起诉。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/us-decide-by-late-may-whether-boeing-violated-prosecution-deal-sources-say-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 20:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>惠而浦将在全球裁员1000人</title>
-      <link>https://www.reuters.com/business/retail-consumer/whirlpool-cuts-1000-jobs-wsj-reports-2024-04-24/</link>
-      <description><![CDATA[家电制造商惠而浦公司 (Whirlpool Corp) 周三表示，该公司将在全球范围内裁员约 1,000 名受薪员工。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/whirlpool-cuts-1000-jobs-wsj-reports-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 20:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管存在不确定性，但由于客流量保持稳定，Chipotle 上调了年度销售预测</title>
-      <link>https://www.reuters.com/business/retail-consumer/chipotle-mexican-grill-raises-full-year-sales-forecast-resilient-burrito-demand-2024-04-24/</link>
-      <description><![CDATA[Chipotle Mexican Grill 周三上调了全年销售预期，尽管菜单价格上涨，但其墨西哥卷饼和饭碗的需求依然强劲。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/chipotle-mexican-grill-raises-full-year-sales-forecast-resilient-burrito-demand-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 20:17:29 GMT</pubDate>
+      <title>英美资源集团收到必和必拓收购提议，可能重塑铜市场</title>
+      <link>https://www.reuters.com/markets/deals/bhp-considering-potential-buyout-offer-anglo-american-bloomberg-reports-2024-04-24/</link>
+      <description><![CDATA[在伦敦上市的矿业公司英美资源集团周四表示，已收到必和必拓集团的全股票收购提议，这笔交易将使这家全球最大的上市矿业公司成为全球最大的铜生产商。]]></description>
+      <guid>https://www.reuters.com/markets/deals/bhp-considering-potential-buyout-offer-anglo-american-bloomberg-reports-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 21:41:41 GMT</pubDate>
     </item>
     <item>
       <title>福特的商业销售利润超过了预期；电动汽车仍然拖累</title>
@@ -118,16 +132,9 @@
       <pubDate>Wed, 24 Apr 2024 20:10:38 GMT</pubDate>
     </item>
     <item>
-      <title>台积电称“A16”芯片制造技术将于 2026 年问世，与英特尔摊牌</title>
-      <link>https://www.reuters.com/technology/tsmc-says-a16-chipmaking-technology-will-start-production-late-2026-2024-04-24/</link>
-      <description><![CDATA[台积电周三表示，一种名为“A16”的新型芯片制造技术将于 2026 年下半年投入生产，与长期竞争对手英特尔就谁能制造出世界上最快的芯片展开对决。]]></description>
-      <guid>https://www.reuters.com/technology/tsmc-says-a16-chipmaking-technology-will-start-production-late-2026-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 17:48:21 GMT</pubDate>
-    </item>
-    <item>
       <title>TikTok首席执行官预计将击败美国禁令：“我们哪儿也不去”</title>
       <link>https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/</link>
-      <description><![CDATA[TikTok 首席执行官周三表示，这家社交媒体公司预计将赢得一场法律挑战，以阻止总统乔·拜登签署成为法律的立法，他表示，该立法将禁止 1.7 亿美国人使用的热门短视频应用程序。]]></description>
+      <description><![CDATA[TikTok 首席执行官周三表示，该社交媒体公司预计将赢得一项法律挑战，以阻止总统乔·拜登签署的立法，他表示该法案将禁止 1.7 亿美国人使用其受欢迎的短视频应用程序。]]></description>
       <guid>https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:23:39 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[波音公司周三公布了七个季度以来的首次季度收入下降，但这家美国飞机制造商的表现超出了分析师的预期。分析师在 1 月份空中门塞爆裂事件导致该公司放慢了最畅销飞机的生产速度后下调了预期。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/boeings-lower-max-production-will-slow-planemakers-recovery-ceo-says-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 11:34:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于市场权衡收益率上升和企业业绩乐观，标普 500 指数收高</title>
-      <link>https://www.reuters.com/markets/us/sp-nasdaq-futures-advance-tech-boost-earnings-cheer-2024-04-24/</link>
-      <description><![CDATA[基准标准普尔 500 指数周三在震荡交​​易中收高，因投资者在企业业绩尤其是科技巨头的积极业绩中权衡美国国债收益率的上涨。]]></description>
-      <guid>https://www.reuters.com/markets/us/sp-nasdaq-futures-advance-tech-boost-earnings-cheer-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 10:10:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
