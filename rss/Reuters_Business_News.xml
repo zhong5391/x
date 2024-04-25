@@ -4,7 +4,7 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 11:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 11:58:29 GMT</lastBuildDate>
     <item>
       <title>行业消息人士称，美国 SEC 预计下个月将拒绝以太坊 ETF 现货发行</title>
       <link>https://www.reuters.com/markets/us/us-sec-expected-deny-spot-ether-etfs-next-month-industry-sources-say-2024-04-25/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>解释者：华尔街分析师对特朗普社会真相的评论在哪里？</title>
       <link>https://www.reuters.com/business/media-telecom/where-are-wall-streets-analyst-notes-trumps-truth-social-2024-04-25/</link>
-      <description><![CDATA[特朗普媒体与科技集团是交易最活跃的美国股票之一，但华尔街的股票分析师仍保持清醒。]]></description>
+      <description><![CDATA[特朗普媒体科技集团是美国交易最活跃的股票之一，但华尔街的股票分析师对此保持谨慎。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/where-are-wall-streets-analyst-notes-trumps-truth-social-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 10:03:11 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 25 Apr 2024 09:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>必和必拓拟收购英美资源集团 是对铜矿的一次大赌注</title>
+      <title>必和必拓拟收购英美资源集团是对铜的一次大赌注</title>
       <link>https://www.reuters.com/markets/commodities/bhps-proposed-bid-anglo-american-is-big-bet-copper-2024-04-25/</link>
       <description><![CDATA[必和必拓集团拟以 390 亿美元收购英美资源集团是对铜的一次重大押注，由于看涨的需求前景和对能源转型至关重要的矿物供应紧张，导致铜价升至多年高点，这可能会引发对矿业资产的争夺。]]></description>
       <guid>https://www.reuters.com/markets/commodities/bhps-proposed-bid-anglo-american-is-big-bet-copper-2024-04-25/</guid>
@@ -57,14 +57,14 @@
     <item>
       <title>中国最大车展展示全电动未来，本土品牌占主导地位</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-largest-auto-show-showcases-all-electric-future-local-brands-dominate-2024-04-25/</link>
-      <description><![CDATA[中国最大的汽车展于周四在北京开幕，各大汽车厂商展示了其最新的电动汽车（EV），凸显出全球最大的汽车市场已经进入全电动状态，并且不会回头。]]></description>
+      <description><![CDATA[中国最大的车展周四在北京开幕，各大品牌展示了他们最新的电动汽车（EV），突显出全球最大的汽车市场已经处于全电动状态，并且不会回头。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinas-largest-auto-show-showcases-all-electric-future-local-brands-dominate-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 07:26:18 GMT</pubDate>
     </item>
     <item>
       <title>中国电动汽车电池制造商CATL推出续航里程达1000公里的磷酸铁锂电池</title>
       <link>https://www.reuters.com/business/autos-transportation/chinese-ev-battery-maker-catl-unveils-lfp-battery-with-1000-km-range-2024-04-25/</link>
-      <description><![CDATA[中国电动汽车 (EV) 电池制造商宁德时代 (CATL) 周四推出了一款磷酸铁锂 (LFP) 电池，一次充电可行驶超过 1,000 公里（621 英里）。]]></description>
+      <description><![CDATA[中国电动汽车电池制造商 CATL 周四推出了一款磷酸铁锂 (LFP) 电池，单次充电续航里程超过 1,000 公里（621 英里）。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinese-ev-battery-maker-catl-unveils-lfp-battery-with-1000-km-range-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 06:41:31 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>阿斯利康（AstraZeneca）打破第一季度预测后实现飞跃</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-beats-first-quarter-revenue-profit-estimates-2024-04-25/</link>
-      <description><![CDATA[周四，阿斯利康（AstraZeneca）的季度收入和利润超出了市场预期，这得益于其重磅药物的需求以及合作药品稳定销售的推动，并导致其股价上涨超过 5%。]]></description>
+      <description><![CDATA[周四，阿斯利康公布的季度收入和利润均超出市场预期，得益于其重磅药物的需求和合作药物的稳定销售，其股价上涨逾 5%。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-beats-first-quarter-revenue-profit-estimates-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 06:06:30 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>LG Display因淡季需求下降而重回季度亏损</title>
       <link>https://www.reuters.com/business/lg-display-returns-quarterly-loss-drop-off-season-demand-2024-04-25/</link>
-      <description><![CDATA[受电视大屏幕和智能手机小屏幕需求减弱的影响，韩国平板制造商 LG Display 第一季度再次陷入营业亏损。]]></description>
+      <description><![CDATA[韩国平板制造商 LG Display 在第一季度再次出现运营亏损，原因是电视大型显示面板和智能手机小型面板的需求疲软。]]></description>
       <guid>https://www.reuters.com/business/lg-display-returns-quarterly-loss-drop-off-season-demand-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 04:51:15 GMT</pubDate>
     </item>
