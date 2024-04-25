@@ -1,58 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 10:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 10:58:51 GMT</lastBuildDate>
     <item>
-      <title>业内消息人士称，美国证券交易委员会预计将于下个月拒绝现货以太币 ETF</title>
-      <link>https://www.reuters.com/markets/us/us-sec-expected-deny-spot-ether-etfs-next-month-industry-sources-say-2024-04-25/</link>
-      <description><![CDATA[四位知情人士表示，美国发行人和其他公司在最近几周与美国证券交易委员会举行会议后，预计美国证券交易委员会将拒绝他们推出与以太坊价格挂钩的交易所交易基金（ETF）的申请。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-sec-expected-deny-spot-ether-etfs-next-month-industry-sources-say-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:07:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着元平台对大型股的压力，期货动摇</title>
-      <link>https://www.reuters.com/markets/us/futures-falter-meta-platforms-weighs-megacaps-2024-04-25/</link>
-      <description><![CDATA[美国股指期货周四下跌，因 Meta Platforms 公布的季度业绩不佳，大多数大型成长型股票的股价遭受重挫，而本周更多经济数据可能会影响美联储的货币政策。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-falter-meta-platforms-weighs-megacaps-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:06:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>解释者：华尔街分析师对特朗普社会真相的评论在哪里？</title>
-      <link>https://www.reuters.com/business/media-telecom/where-are-wall-streets-analyst-notes-trumps-truth-social-2024-04-25/</link>
-      <description><![CDATA[特朗普媒体与科技集团是交易最活跃的美国股票之一，但华尔街的股票分析师仍保持清醒。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/where-are-wall-streets-analyst-notes-trumps-truth-social-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登将宣布与美光达成高达 61.4 亿美元芯片补助的初步协议</title>
-      <link>https://www.reuters.com/technology/biden-announce-preliminary-deal-with-micron-up-614-bln-chip-grants-2024-04-25/</link>
-      <description><![CDATA[白宫称，美国总统拜登将于周四前往纽约锡拉丘兹，宣布与内存芯片制造商美光科技达成初步协议，为两家芯片工厂提供高达 61.4 亿美元的补贴。]]></description>
-      <guid>https://www.reuters.com/technology/biden-announce-preliminary-deal-with-micron-up-614-bln-chip-grants-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 09:06:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能支出担忧令 Alphabet 和微软前景黯淡</title>
-      <link>https://www.reuters.com/technology/ai-spending-worries-cast-gloom-over-alphabet-microsoft-2024-04-25/</link>
-      <description><![CDATA[本周，在 Meta Platforms 暗示加大支出和实现盈利之路漫长之后，投资者似乎对大型科技公司的巨额人工智能投资失去了耐心。]]></description>
-      <guid>https://www.reuters.com/technology/ai-spending-worries-cast-gloom-over-alphabet-microsoft-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 09:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>丰田在泰国主要市场试点电动皮卡车</title>
-      <link>https://www.reuters.com/business/autos-transportation/toyota-pilots-ev-pickup-trucks-key-thai-market-2024-04-25/</link>
-      <description><![CDATA[周四，丰田在泰国推出了九辆全电动 Hilux Revo 皮卡的公共交通试点项目，泰国是东南亚电动汽车的一个重要战场，中国企业正在泰国挑战日本汽车制造商的主导地位。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/toyota-pilots-ev-pickup-trucks-key-thai-market-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 09:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>必和必拓拟收购英美资源集团是对铜的一次大赌注</title>
-      <link>https://www.reuters.com/markets/commodities/bhps-proposed-bid-anglo-american-is-big-bet-copper-2024-04-25/</link>
-      <description><![CDATA[必和必拓集团拟以 390 亿美元收购英美资源集团是对铜的一次重大押注，由于看涨的需求前景和对能源转型至关重要的矿物供应紧张，导致铜价升至多年高点，这可能会引发对矿业资产的争夺。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/bhps-proposed-bid-anglo-american-is-big-bet-copper-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 08:06:30 GMT</pubDate>
+      <title>随着 Concord 提高对夏奇拉音乐所有者的报价，Hipgnosis 的竞购战愈演愈烈</title>
+      <link>https://www.reuters.com/business/media-telecom/hipgnosis-bidding-war-intensifies-concord-hikes-offer-shakira-music-owner-2024-04-25/</link>
+      <description><![CDATA[周四，Hipgnosis Songs Fund 的股价上涨，此前阿波罗支持的 Concord 出价超过了私募股权巨头 Blackstone 的报价，为夏奇拉 (Shakira) 和金发女郎 (Blondie) 等艺术家的音乐版权所有者发起了一场竞购战。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/hipgnosis-bidding-war-intensifies-concord-hikes-offer-shakira-music-owner-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 07:49:30 GMT</pubDate>
     </item>
     <item>
       <title>中国最大车展展示全电动未来，本土品牌占主导地位</title>
@@ -62,6 +20,20 @@
       <pubDate>Thu, 25 Apr 2024 07:26:18 GMT</pubDate>
     </item>
     <item>
+      <title>消息人士称，四家韩国廉价航空公司提交了韩亚货运部门的投标</title>
+      <link>https://www.reuters.com/markets/deals/four-south-korean-budget-airlines-submit-bids-asiana-cargo-unit-media-says-2024-04-25/</link>
+      <description><![CDATA[两位知情人士周四表示，四家韩国低成本航空公司仍在竞购韩亚航空的货运业务。]]></description>
+      <guid>https://www.reuters.com/markets/deals/four-south-korean-budget-airlines-submit-bids-asiana-cargo-unit-media-says-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 07:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>必和必拓集团斥资388亿美元收购英美资源集团，铜成为焦点</title>
+      <link>https://www.reuters.com/markets/commodities/bhp-group-makes-388-bln-play-anglo-american-copper-focus-2024-04-25/</link>
+      <description><![CDATA[必和必拓集团表示，已提出收购伦敦上市矿业公司英美资源集团 (Anglo American) 的要约，其股本估值为 311 亿英镑（388.4 亿美元），这笔交易将创建世界上最大的铜矿企业，产量约占全球的 10%。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/bhp-group-makes-388-bln-play-anglo-american-copper-focus-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 06:49:48 GMT</pubDate>
+    </item>
+    <item>
       <title>中国电动汽车电池制造商CATL推出续航里程达1000公里的磷酸铁锂电池</title>
       <link>https://www.reuters.com/business/autos-transportation/chinese-ev-battery-maker-catl-unveils-lfp-battery-with-1000-km-range-2024-04-25/</link>
       <description><![CDATA[中国电动汽车 (EV) 电池制造商宁德时代 (CATL) 周四推出了一款磷酸铁锂 (LFP) 电池，一次充电可行驶超过 1,000 公里（621 英里）。]]></description>
@@ -69,60 +41,67 @@
       <pubDate>Thu, 25 Apr 2024 06:41:31 GMT</pubDate>
     </item>
     <item>
-      <title>由于长期的人工智能支出计划令投资者感到不安，Meta 股价暴跌</title>
+      <title>人工智能支出和收入预测导致 Meta 股价在法兰克福暴跌 16%</title>
       <link>https://www.reuters.com/technology/meta-shares-plunge-16-frankfurt-after-ai-spending-revenue-forecast-2024-04-25/</link>
-      <description><![CDATA[Meta Platforms 的股价周四在盘前交易中暴跌 14%，原因是这家社交媒体公司关于人工智能长期支出的言论令投资者感到不安。]]></description>
+      <description><![CDATA[周四法兰克福早盘，Meta Platforms 股价暴跌 16%，原因是费用高于预期、收入低于预期，令投资者感到失望。]]></description>
       <guid>https://www.reuters.com/technology/meta-shares-plunge-16-frankfurt-after-ai-spending-revenue-forecast-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 06:20:34 GMT</pubDate>
     </item>
     <item>
-      <title>随着客户回归品牌，联合利华超出了销售预期</title>
+      <title>联合利华超出第一季度销售预期，坚持 2024 年展望</title>
       <link>https://www.reuters.com/business/retail-consumer/unilever-beats-quarterly-sales-growth-expectations-2024-04-25/</link>
-      <description><![CDATA[联合利华周四公布第一季度销售业绩超出预期，这家多芬香皂和好乐门蛋黄酱的生产商重新赢得了那些在近期全球通胀飙升期间转向廉价产品的购物者。]]></description>
+      <description><![CDATA[联合利华周四表示，由于全球最大的消费品集团之一赢回了转而购买更便宜产品的消费者，该公司第一季度销售额增长了 4.4%，好于预期。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/unilever-beats-quarterly-sales-growth-expectations-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 06:16:55 GMT</pubDate>
     </item>
     <item>
-      <title>由于交易低迷，巴克莱第一季度利润下降 12%</title>
+      <title>随着微软合作伙伴关系的进展，伦敦证交所第一季度报告一致</title>
+      <link>https://www.reuters.com/business/finance/lseg-reports-first-quarter-growth-line-with-plans-2024-04-25/</link>
+      <description><![CDATA[伦敦证券交易所集团周四表示，其第一季度的增长符合其与微软合作推出产品的计划，尽管该交易所股价在早盘交易中触及五个月低点。]]></description>
+      <guid>https://www.reuters.com/business/finance/lseg-reports-first-quarter-growth-line-with-plans-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 06:15:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于抵押贷款竞争和交易下滑，巴克莱第一季度利润下降 12%</title>
       <link>https://www.reuters.com/business/finance/barclays-q1-profit-falls-12-2024-04-25/</link>
-      <description><![CDATA[巴克莱周四公布的第一季度利润降幅略小于预期的 12%，这提振了投资者的信心，表明尽管交易收入下降且抵押贷款需求低迷，但其扭亏为盈的任务已步入正轨。]]></description>
+      <description><![CDATA[巴克莱银行周四公布第一季度利润下降 12%，原因是英国抵押贷款定价受到挤压、交易收入下降以及并购费用减少，这表明该银行在实施十年来的首次战略改革时将面临困难。]]></description>
       <guid>https://www.reuters.com/business/finance/barclays-q1-profit-falls-12-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 06:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>阿斯利康第一季度业绩超出预期，股价大涨</title>
+      <title>阿斯利康突破第一季度预期后实现飞跃</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-beats-first-quarter-revenue-profit-estimates-2024-04-25/</link>
-      <description><![CDATA[周四，阿斯利康（AstraZeneca）的季度收入和利润超出了市场预期，这得益于对其重磅药物的需求以及合作药品稳定销售的推动，并导致其股价上涨超过 5%。]]></description>
+      <description><![CDATA[周四，在对其重磅药物的需求和合作药品稳定销售的推动下，阿斯利康的季度收入和利润超出了市场预期，并导致其股价上涨超过 5%。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-beats-first-quarter-revenue-profit-estimates-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 06:06:30 GMT</pubDate>
     </item>
     <item>
-      <title>第一季度利润超出预期后，Holcim 对美国需求持积极态度</title>
-      <link>https://www.reuters.com/business/holcim-beats-profit-forecast-first-quarter-2024-04-25/</link>
-      <description><![CDATA[该建筑材料和水泥制造商周四表示，在超出第一季度利润预期后，霍尔希姆预计今年北美需求将持续强劲。]]></description>
-      <guid>https://www.reuters.com/business/holcim-beats-profit-forecast-first-quarter-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 05:28:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着对优质和廉价食品的需求增长，消费者差距扩大</title>
+      <title>雀巢全面提价后销售业绩未达预期</title>
       <link>https://www.reuters.com/business/retail-consumer/nestle-misses-quarterly-sales-estimates-2024-04-25/</link>
-      <description><![CDATA[从雀巢到达能，食品公司发现消费者想要优质或更便宜的产品，而对中间产品的兴趣较低，特别是在北美等发达市场。]]></description>
+      <description><![CDATA[雀巢周四未达到第一季度有机销售增长预期，因为这家全球最大的包装食品公司提高了价格并减少了产品销量，尤其是在北美。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/nestle-misses-quarterly-sales-estimates-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 05:08:19 GMT</pubDate>
     </item>
     <item>
-      <title>LG Display因淡季需求下降而重回季度亏损</title>
+      <title>受国内销售疲软影响，现代汽车第一季度利润下降2.4%</title>
+      <link>https://www.reuters.com/business/autos-transportation/hyundai-motors-q1-profit-drops-24-beats-forecasts-2024-04-25/</link>
+      <description><![CDATA[韩国汽车制造商现代汽车公司第一季度利润下降 2.4%，受到国内销量下滑的影响，并警告称，由于竞争加剧和全球经济状况的不确定性，业务前景充满挑战。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/hyundai-motors-q1-profit-drops-24-beats-forecasts-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 05:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>LG Display 因淡季需求下降重回季度亏损</title>
       <link>https://www.reuters.com/business/lg-display-returns-quarterly-loss-drop-off-season-demand-2024-04-25/</link>
       <description><![CDATA[韩国平板制造商 LG Display 在第一季度再次出现运营亏损，原因是电视大型显示面板和智能手机小型面板的需求疲软。]]></description>
       <guid>https://www.reuters.com/business/lg-display-returns-quarterly-loss-drop-off-season-demand-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 04:51:15 GMT</pubDate>
     </item>
     <item>
-      <title>丰田、日产与腾讯、百度联手进军中国人工智能军备竞赛</title>
-      <link>https://www.reuters.com/markets/asia/toyota-says-partner-with-tencent-china-2024-04-25/</link>
-      <description><![CDATA[两家公司周四表示，日本丰田汽车将与中国腾讯合作，日产汽车将与百度合作，跨境合作凸显了人工智能对汽车制造商的重要性。]]></description>
-      <guid>https://www.reuters.com/markets/asia/toyota-says-partner-with-tencent-china-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 04:40:19 GMT</pubDate>
+      <title>数据显示，苹果一季度出货量下降6.6%，失去中国市场第一宝座</title>
+      <link>https://www.reuters.com/technology/apple-loses-top-spot-china-market-with-shipments-down-66-q1-data-shows-2024-04-25/</link>
+      <description><![CDATA[研究公司 IDC 周四的初步数据显示，由于激烈的竞争，苹果公司在 2024 年第一季度失去了中国最大智能手机销售商的桂冠，因为其智能手机出货量同比下降 6.6%。]]></description>
+      <guid>https://www.reuters.com/technology/apple-loses-top-spot-china-market-with-shipments-down-66-q1-data-shows-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 04:14:04 GMT</pubDate>
     </item>
     <item>
       <title>预计第一季度美国经济增长缓慢但稳健；通胀可能升温</title>
@@ -132,18 +111,39 @@
       <pubDate>Thu, 25 Apr 2024 04:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>随着科技问题的困扰，股市和日元陷入困境</title>
+      <title>股市受科技股下滑打击；日元在干预区震荡</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-25/</link>
-      <description><![CDATA[周四，由于 Facebook 和 Instagram 母公司 Meta 的令人失望的预测重创了科技股，世界股市结束了连续三天的上涨势头，而日元兑美元自 1990 年以来首次跌破 155 美元，令外汇交易员保持干预警惕。]]></description>
+      <description><![CDATA[亚洲股市周四下跌，Facebook 母公司 Meta Platforms 令人失望的盈利预测重创科技股，而日元兑美元自 1990 年以来首次跌破 155 美元，引发了东京干预的担忧。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 02:32:26 GMT</pubDate>
     </item>
     <item>
-      <title>必和必拓向英美资源集团出资 390 亿美元进行矿业重组</title>
+      <title>小米SU7汽车订单锁定超7.5万辆 6月交付目标超万辆</title>
+      <link>https://www.reuters.com/business/autos-transportation/xiaomi-locks-over-75000-orders-su7-car-targets-over-10000-deliveries-june-2024-04-25/</link>
+      <description><![CDATA[中国智能手机制造商小米创始人雷军周四表示，截至 4 月 24 日，其运动型 SU7 电动轿车已锁定 75,723 辆订单，并计划在 6 月份交付超过 10,000 辆。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/xiaomi-locks-over-75000-orders-su7-car-targets-over-10000-deliveries-june-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 02:19:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国第一季度 GDP 增长超出预期，但前景不确定</title>
+      <link>https://www.reuters.com/markets/asia/south-korea-q1-gdp-13-qq-beating-forecast-2024-04-24/</link>
+      <description><![CDATA[韩国经济第一季度以两年多来最快速度增长，超出了所有预期，国内消费回升，出口强劲，但市场质疑复苏是否可持续。]]></description>
+      <guid>https://www.reuters.com/markets/asia/south-korea-q1-gdp-13-qq-beating-forecast-2024-04-24/</guid>
+      <pubDate>Wed, 24 Apr 2024 23:16:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>必和必拓以 390 亿美元收购英美资源集团，参与矿业重组</title>
       <link>https://www.reuters.com/markets/deals/bhp-considering-potential-buyout-offer-anglo-american-bloomberg-reports-2024-04-24/</link>
-      <description><![CDATA[必和必拓集团周四出价 388 亿美元收购英美资源集团 (Anglo American)，提出一项打造全球最大铜矿商的交易，并导致其较小竞争对手的股价上涨 13%。]]></description>
+      <description><![CDATA[必和必拓集团周四表示，已向英美资源集团提出 388 亿美元的收购要约，该交易将创建全球最大的铜矿商，并导致其较小竞争对手的股价大幅上涨。]]></description>
       <guid>https://www.reuters.com/markets/deals/bhp-considering-potential-buyout-offer-anglo-american-bloomberg-reports-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 21:41:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>解释者：日本会采取什么样的干预措施来提振日元疲软？</title>
+      <link>https://www.reuters.com/markets/currencies/what-would-japanese-intervention-boost-weak-yen-look-like-2024-03-28/</link>
+      <description><![CDATA[日本当局正面临应对日元持续贬值的新压力，交易员因预期央行进一步加息的进程将缓慢而压低日元汇率。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/what-would-japanese-intervention-boost-weak-yen-look-like-2024-03-28/</guid>
+      <pubDate>Thu, 28 Mar 2024 06:52:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
