@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 25 Apr 2024 23:39:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 23:52:17 GMT</lastBuildDate>
     <item>
-      <title>早盘竞价：日本央行成为焦点，美国科技股提供支持</title>
+      <title>早盘报价：日本央行占据中心位置，美国技术支持</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-25/</link>
       <description><![CDATA[展望未来一天的亚洲市场。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-25/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>独家：消息人士称，如果法律选择失败，字节跳动更愿意在美国关闭 TikTok</title>
       <link>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</link>
-      <description><![CDATA[四名消息人士称，如果 TikTok 的所有者字节跳动用尽所有法律选择来对抗禁止该平台进入美国应用商店的立法，那么这家中国公司宁愿关闭其亏损的应用程序，也不愿出售它。]]></description>
+      <description><![CDATA[四位消息人士称，如果 TikTok 所有者字节跳动用尽一切法律手段来对抗美国应用商店禁止该平台的立法，该公司宁愿关闭其亏损的应用程序，也不愿出售它。]]></description>
       <guid>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 16:36:01 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>耶伦称美国经济强劲，应对中国产能过剩有所有选择</title>
       <link>https://www.reuters.com/markets/us/yellen-says-economy-performing-well-inflation-will-ebb-2024-04-25/</link>
-      <description><![CDATA[美国财长耶伦周四对路透社表示，美国经济增长可能强于第一季度产出数据弱于预期的数据，并表示拜登政府将保留所有选择，以应对中国工业产能过剩的威胁。]]></description>
+      <description><![CDATA[美国财长耶伦周四对路透社表示，美国经济增长可能强于第一季度产出数据弱于预期的数据所显示的水平，并表示拜登政府将保留所有选择，以应对中国工业产能过剩的威胁。]]></description>
       <guid>https://www.reuters.com/markets/us/yellen-says-economy-performing-well-inflation-will-ebb-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 14:22:24 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 25 Apr 2024 13:58:22 GMT</pubDate>
     </item>
     <item>
-      <title>ASML 新任首席执行官 Fouquet 必须应对中美芯片战争</title>
+      <title>ASML 新任老板 Fouquet 必须应对中美芯片大战</title>
       <link>https://www.reuters.com/technology/new-asml-boss-fouquet-must-navigate-uschina-chip-war-2024-04-25/</link>
       <description><![CDATA[ASML 的新任老板 Christophe Fouquet 面临着一个棘手的平衡问题：帮助引导欧洲最大的科技公司度过中美“芯片大战”，同时保持集团对竞争对手的领先地位并管理当前的人工智能热潮。]]></description>
       <guid>https://www.reuters.com/technology/new-asml-boss-fouquet-must-navigate-uschina-chip-war-2024-04-25/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>布林肯开始访华后，美中关系有所改善，但分歧仍很严重</title>
       <link>https://www.reuters.com/world/better-us-china-ties-still-deep-disagreements-blinken-starts-visit-2024-04-24/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周三抵达上海，美中关系基础更加稳定，但一系列令人畏惧的未解决问题威胁着全球竞争对手之间关系的稳定。]]></description>
+      <description><![CDATA[美国国务卿安东尼·布林肯周三抵达上海，美中关系的基础更加稳定，但一系列令人畏惧的未解决问题威胁着全球竞争对手之间关系的稳定。]]></description>
       <guid>https://www.reuters.com/world/better-us-china-ties-still-deep-disagreements-blinken-starts-visit-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 05:04:44 GMT</pubDate>
     </item>
