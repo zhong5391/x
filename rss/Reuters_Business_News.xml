@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 15:33:38 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 25 Apr 2024 15:48:52 GMT</lastBuildDate>
     <item>
-      <title>GDP疲软、物价强劲，凸显美联储困境</title>
+      <title>GDP疲软、物价坚挺凸显美联储困境</title>
       <link>https://www.reuters.com/markets/us/weak-gdp-strong-prices-highlight-fed-dilemma-2024-04-25/</link>
       <description><![CDATA[美国第一季度经济增长近两年来首次低于美联储对经济长期潜力的估计，但放缓的迹象伴随着快速的通货膨胀，如果持续下去，将给美国带来特别的困境。中央银行。]]></description>
       <guid>https://www.reuters.com/markets/us/weak-gdp-strong-prices-highlight-fed-dilemma-2024-04-25/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>美国第一季度经济增长放缓；通胀飙升</title>
       <link>https://www.reuters.com/markets/us/us-economic-growth-slows-more-than-expected-first-quarter-2024-04-25/</link>
-      <description><![CDATA[由于为满足仍然强劲的消费支出而增加的进口增加了贸易逆差，美国经济增长速度为近两年来最慢，但通胀加速加剧了美联储不会在 9 月之前降息的预期。]]></description>
+      <description><![CDATA[美国经济增长速度为近两年来最慢，因为为满足依然强劲的消费支出而增加的进口扩大了贸易赤字，但通胀加速加剧了美联储不会在 9 月之前降息的预期。]]></description>
       <guid>https://www.reuters.com/markets/us/us-economic-growth-slows-more-than-expected-first-quarter-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 12:37:28 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 25 Apr 2024 11:06:35 GMT</pubDate>
     </item>
     <item>
-      <title>康卡斯特因流媒体增长和公园游客量强劲而超过收入预期</title>
+      <title>康卡斯特因流媒体增长和公园游客量强劲而超出收入预期</title>
       <link>https://www.reuters.com/business/media-telecom/comcast-tops-revenue-estimates-streaming-growth-strong-park-attendance-2024-04-25/</link>
       <description><![CDATA[康卡斯特周四的季度收入超出了预期，原因是其 Peacock 流媒体服务的用户增长高于预期以及主题公园的大量游客。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/comcast-tops-revenue-estimates-streaming-growth-strong-park-attendance-2024-04-25/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>解释者：华尔街分析师对特朗普社会真相的评论在哪里？</title>
       <link>https://www.reuters.com/business/media-telecom/where-are-wall-streets-analyst-notes-trumps-truth-social-2024-04-25/</link>
-      <description><![CDATA[特朗普媒体与科技集团是交易最活跃的美国股票之一，但华尔街的股票分析师仍保持清醒。]]></description>
+      <description><![CDATA[特朗普媒体科技集团是美国交易最活跃的股票之一，但华尔街的股票分析师对此保持谨慎。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/where-are-wall-streets-analyst-notes-trumps-truth-social-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 10:03:11 GMT</pubDate>
     </item>
