@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 06:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 06:40:24 GMT</lastBuildDate>
     <item>
       <title>预计第一季度美国经济增长缓慢但稳健；通胀可能升温</title>
       <link>https://www.reuters.com/markets/us/slow-solid-us-economic-growth-anticipated-q1-inflation-likely-heats-up-2024-04-25/</link>
@@ -29,12 +29,12 @@
     <item>
       <title>中国电动汽车初创公司蔚来为新版ET7轿车设定起价</title>
       <link>https://www.reuters.com/business/autos-transportation/chinese-ev-startup-nio-sets-starting-price-new-version-et7-sedan-2024-04-25/</link>
-      <description><![CDATA[中国电动汽车初创公司蔚来首席执行官周四表示，该公司已将其新版 ET7 轿车的起价定为 428,000 元人民币（59,063 美元）。]]></description>
+      <description><![CDATA[中国电动汽车 (EV) 初创公司 Nio 首席执行官周四表示，已将新版 ET7 轿车的起价定为 428,000 元人民币（59,063 美元）。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinese-ev-startup-nio-sets-starting-price-new-version-et7-sedan-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 02:56:22 GMT</pubDate>
     </item>
     <item>
-      <title>比亚迪推出阳王品牌第三款超豪华车型</title>
+      <title>比亚迪阳王品牌第三款超豪华车型上市</title>
       <link>https://www.reuters.com/business/autos-transportation/byd-unveils-third-ultra-luxury-model-under-yangwang-brand-2024-04-25/</link>
       <description><![CDATA[中国电动汽车制造商比亚迪周四推出了阳王品牌的第三款超豪华车型U7，在价格战愈演愈烈的情况下，该公司进军高端市场以提高盈利能力。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/byd-unveils-third-ultra-luxury-model-under-yangwang-brand-2024-04-25/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>临床实验室运营商 Labcorp 将以 2.39 亿美元收购破产的基因测试制造商 Invitae</title>
       <link>https://www.reuters.com/markets/deals/clinical-lab-operator-labcorp-buy-bankrupt-genetic-test-maker-invitae-239-mln-2024-04-25/</link>
-      <description><![CDATA[实验室服务提供商 Labcorp 周三表示，将收购软银支持的 Invitae Corp 的资产，该资产是在基因测试制造商申请破产几个月后通过自愿破产保护程序拍卖的。]]></description>
+      <description><![CDATA[实验室服务提供商 Labcorp 周三表示，将通过自愿破产保护程序收购软银支持的 Invitae Corp 的资产，该公司在几个月前就已申请破产。]]></description>
       <guid>https://www.reuters.com/markets/deals/clinical-lab-operator-labcorp-buy-bankrupt-genetic-test-maker-invitae-239-mln-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 02:25:58 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Thu, 25 Apr 2024 02:02:35 GMT</pubDate>
     </item>
     <item>
-      <title>由于电动汽车需求放缓，LG Energy Solution 今年将减少资本支出</title>
+      <title>由于电动汽车需求放缓，LG 能源解决方案今年将最大限度地减少资本支出</title>
       <link>https://www.reuters.com/technology/battery-firm-lg-energy-solution-q1-profit-plunges-weak-ev-sales-2024-04-25/</link>
       <description><![CDATA[韩国电池制造商 LG Energy Solution (LGES) 周四表示，由于全球电动汽车 (EV) 需求放缓，该公司计划今年最大程度地减少资本支出，此前该公司公布第一季度利润暴跌 75%。]]></description>
       <guid>https://www.reuters.com/technology/battery-firm-lg-energy-solution-q1-profit-plunges-weak-ev-sales-2024-04-25/</guid>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 25 Apr 2024 00:26:08 GMT</pubDate>
     </item>
     <item>
-      <title>思科称黑客破坏其安全设备以监视政府</title>
+      <title>思科称黑客破坏了其安全设备以监视政府</title>
       <link>https://www.reuters.com/technology/cybersecurity/cisco-says-hackers-subverted-its-security-devices-spy-governments-2024-04-24/</link>
       <description><![CDATA[科技公司思科系统公司表示，黑客已经破坏了其部分数字安全设备，从而侵入了全球政府网络。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/cisco-says-hackers-subverted-its-security-devices-spy-governments-2024-04-24/</guid>
@@ -99,14 +99,14 @@
     <item>
       <title>中国比亚迪寻求重新定义电动汽车一代的奢华</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-byd-seeks-redefine-luxury-ev-generation-2024-04-24/</link>
-      <description><![CDATA[中国电动汽车制造商比亚迪将于周四在北京车展上展示其高端品牌的首款轿车，向德国梅赛德斯-奔驰等公司发起挑战。三年前，梅赛德斯-奔驰因销量不佳而退出了该品牌的开发。]]></description>
+      <description><![CDATA[中国电动汽车制造商比亚迪将于周四在北京车展上展示其高端品牌的首款轿车，以向德国梅赛德斯-奔驰等公司发起挑战，后者三年前因销售缓慢而退出该品牌的开发。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-seeks-redefine-luxury-ev-generation-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 22:04:03 GMT</pubDate>
     </item>
     <item>
-      <title>法院重启全食超市员工就“黑人生命也是命”口罩提起的诉讼</title>
+      <title>法院重启全食超市员工针对“黑人生命也是命”口罩的诉讼</title>
       <link>https://www.reuters.com/legal/court-revives-whole-foods-workers-lawsuit-over-black-lives-matter-masks-2024-04-24/</link>
-      <description><![CDATA[美国一家上诉法院重新提起诉讼，指控全食超市非法解雇一名拒绝摘下“黑人生命也是命”口罩的员工，并抱怨这家高档杂货连锁店存在种族主义。]]></description>
+      <description><![CDATA[美国一家上诉法院重新审理了一宗诉讼，指控全食超市非法解雇一名员工，该员工拒绝摘下佩戴“黑人的命也是命”口罩，并抱怨这家高档连锁超市存在种族歧视。]]></description>
       <guid>https://www.reuters.com/legal/court-revives-whole-foods-workers-lawsuit-over-black-lives-matter-masks-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 21:53:25 GMT</pubDate>
     </item>
@@ -118,7 +118,7 @@
       <pubDate>Wed, 24 Apr 2024 21:41:41 GMT</pubDate>
     </item>
     <item>
-      <title>福特商业销售利润超出预期；电动汽车仍然表现不佳</title>
+      <title>福特的商业销售利润超过了预期；电动汽车仍然拖累</title>
       <link>https://www.reuters.com/world/us/fords-first-quarter-adjusted-profit-falls-2024-04-24/</link>
       <description><![CDATA[福特汽车公司周三公布的第一季度收益超出了华尔街的预期，这得益于其商用车部门的强劲表现以及混合动力汽车销量的增长。]]></description>
       <guid>https://www.reuters.com/world/us/fords-first-quarter-adjusted-profit-falls-2024-04-24/</guid>
@@ -134,7 +134,7 @@
     <item>
       <title>TikTok首席执行官预计将击败美国禁令：“我们哪儿也不去”</title>
       <link>https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/</link>
-      <description><![CDATA[TikTok 首席执行官周三表示，该社交媒体公司预计将赢得一项法律挑战，以阻止总统乔·拜登签署的立法，他表示该法案将禁止 1.7 亿美国人使用其受欢迎的短视频应用程序。]]></description>
+      <description><![CDATA[TikTok 首席执行官周三表示，这家社交媒体公司预计将赢得一场法律挑战，以阻止总统乔·拜登签署成为法律的立法，他表示，该立法将禁止 1.7 亿美国人使用的热门短视频应用程序。]]></description>
       <guid>https://www.reuters.com/technology/tiktok-ceo-expects-defeat-us-restrictions-we-arent-going-anywhere-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 15:23:39 GMT</pubDate>
     </item>
