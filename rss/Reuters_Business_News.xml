@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 08:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 08:40:15 GMT</lastBuildDate>
     <item>
       <title>爱马仕第一季度销售额因各地区增长而增长 17%</title>
       <link>https://www.reuters.com/business/retail-consumer/hermes-q1-sales-jump-17-growth-across-regions-2024-04-25/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>雀巢全面提价后销售业绩未达预期</title>
       <link>https://www.reuters.com/business/retail-consumer/nestle-misses-quarterly-sales-estimates-2024-04-25/</link>
-      <description><![CDATA[雀巢周四未达到第一季度有机销售增长预期，因为这家全球最大的包装食品公司提高了价格并减少了产品销量，尤其是在北美。]]></description>
+      <description><![CDATA[雀巢周四公布第一季度有机销售额增长不及预期，原因是这家全球最大的包装食品公司上调了价格并减少了产品销量，尤其是在北美地区。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/nestle-misses-quarterly-sales-estimates-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 05:08:19 GMT</pubDate>
     </item>
@@ -85,12 +85,12 @@
     <item>
       <title>需求旺盛，丰田年产量和销量创历史新高</title>
       <link>https://www.reuters.com/business/autos-transportation/toyota-hits-record-output-sales-fy202324-2024-04-25/</link>
-      <description><![CDATA[丰田汽车周四表示，在强劲的需求以及近年来半导体供应限制消失的支撑下，截至 3 月 31 日的财年，其全球销量和产量创下历史新高。]]></description>
+      <description><![CDATA[丰田汽车周四表示，在强劲需求和近年来半导体供应限制消失的支撑下，截至 3 月 31 日的财年，其全球销量和产量创下历史新高。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/toyota-hits-record-output-sales-fy202324-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 04:32:14 GMT</pubDate>
     </item>
     <item>
-      <title>英美资源集团和必和必拓在全球的采矿业务</title>
+      <title>英美资源集团 (Anglo American)、必和必拓 (BHP) 全球采矿业务</title>
       <link>https://www.reuters.com/markets/commodities/anglo-american-bhp-mining-operations-around-world-2024-04-25/</link>
       <description><![CDATA[英国跨国矿业公司英美资源集团周四表示，已收到全球最大上市矿业公司必和必拓集团的全股收购提议。]]></description>
       <guid>https://www.reuters.com/markets/commodities/anglo-american-bhp-mining-operations-around-world-2024-04-25/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>数据显示，苹果一季度出货量下降6.6%，失去中国市场第一宝座</title>
       <link>https://www.reuters.com/technology/apple-loses-top-spot-china-market-with-shipments-down-66-q1-data-shows-2024-04-25/</link>
-      <description><![CDATA[研究公司 IDC 周四发布的初步数据显示，由于竞争激烈，苹果智能手机出货量较去年同期下降 6.6%，在 2024 年第一季度失去了中国最大智能手机销售商的桂冠。]]></description>
+      <description><![CDATA[研究公司 IDC 周四的初步数据显示，由于激烈的竞争，苹果公司在 2024 年第一季度失去了中国最大智能手机销售商的桂冠，因为其智能手机出货量同比下降 6.6%。]]></description>
       <guid>https://www.reuters.com/technology/apple-loses-top-spot-china-market-with-shipments-down-66-q1-data-shows-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 04:14:04 GMT</pubDate>
     </item>
