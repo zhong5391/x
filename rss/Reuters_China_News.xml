@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻 | 今日头条 | 路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 25 Apr 2024 23:52:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 02:50:27 GMT</lastBuildDate>
     <item>
-      <title>早盘报价：日本央行占据中心位置，美国技术支持</title>
+      <title>早盘竞价：日本央行成为焦点，美国科技股提供支持</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-25/</link>
       <description><![CDATA[展望未来一天的亚洲市场。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-25/</guid>
@@ -29,14 +29,14 @@
     <item>
       <title>该机构禁止中国电信运营商提供美国宽带服务</title>
       <link>https://www.reuters.com/business/media-telecom/agency-bars-chinese-telecom-carriers-offering-us-broadband-services-2024-04-25/</link>
-      <description><![CDATA[美国联邦通信委员会周四表示，正在命令中国电信、中国联通和中国移动的美国子公司停止在美国的固定或移动宽带互联网业务。]]></description>
+      <description><![CDATA[美国联邦通信委员会周四表示，已要求中国电信、中国联通和中国移动的美国子公司停止在美国境内的固定或移动宽带互联网运营。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/agency-bars-chinese-telecom-carriers-offering-us-broadband-services-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 17:12:25 GMT</pubDate>
     </item>
     <item>
       <title>独家：消息人士称，如果法律选择失败，字节跳动更愿意在美国关闭 TikTok</title>
       <link>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</link>
-      <description><![CDATA[四位消息人士称，如果 TikTok 所有者字节跳动用尽一切法律手段来对抗美国应用商店禁止该平台的立法，该公司宁愿关闭其亏损的应用程序，也不愿出售它。]]></description>
+      <description><![CDATA[四名消息人士称，如果 TikTok 的所有者字节跳动用尽所有法律选择来对抗禁止该平台进入美国应用商店的立法，那么这家中国公司宁愿关闭其亏损的应用程序，也不愿出售它。]]></description>
       <guid>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 16:36:01 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>中国在逮捕间谍后召见德国大使</title>
       <link>https://www.reuters.com/world/europe/china-summons-german-ambassador-after-spying-arrests-2024-04-25/</link>
-      <description><![CDATA[德国外交部发言人告诉路透社，北京方面周四传唤了德国驻华大使，以回应德国境内因涉嫌中国间谍活动而逮捕的几人。]]></description>
+      <description><![CDATA[德国外交部发言人告诉路透社，北京周四召见了德国驻华大使，以回应德国境内因涉嫌中国间谍活动而逮捕的几人。]]></description>
       <guid>https://www.reuters.com/world/europe/china-summons-german-ambassador-after-spying-arrests-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 14:49:44 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>耶伦称美国经济强劲，应对中国产能过剩有所有选择</title>
       <link>https://www.reuters.com/markets/us/yellen-says-economy-performing-well-inflation-will-ebb-2024-04-25/</link>
-      <description><![CDATA[美国财长耶伦周四对路透社表示，美国经济增长可能强于第一季度产出数据弱于预期的数据所显示的水平，并表示拜登政府将保留所有选择，以应对中国工业产能过剩的威胁。]]></description>
+      <description><![CDATA[美国财长耶伦周四对路透社表示，美国经济增长可能强于第一季度产出数据弱于预期的数据，并表示拜登政府将保留所有选择，以应对中国工业产能过剩的威胁。]]></description>
       <guid>https://www.reuters.com/markets/us/yellen-says-economy-performing-well-inflation-will-ebb-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 14:22:24 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Thu, 25 Apr 2024 10:28:47 GMT</pubDate>
     </item>
     <item>
-      <title>台湾对美国援助计划感到满意，中国反对出售武器</title>
+      <title>台湾对美国援助计划感到满意，中国反对对台军售</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-happy-with-us-aid-package-china-objects-arms-sales-2024-04-24/</link>
       <description><![CDATA[台湾总统蔡英文周三表示，她很高兴美国国会通过了一项全面的对外援助计划，其中包括对台湾的武器支持，而中国则敦促华盛顿停止向台北出售武器。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-happy-with-us-aid-package-china-objects-arms-sales-2024-04-24/</guid>
