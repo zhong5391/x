@@ -3,8 +3,29 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 23:52:10 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Fri, 26 Apr 2024 01:18:56 GMT</lastBuildDate>
+    <item>
+      <title>日本首都通胀率连续第二个月放缓，低于日本央行目标</title>
+      <link>https://www.reuters.com/markets/asia/inflation-japans-capital-falls-below-boj-target-slows-2nd-month-2024-04-25/</link>
+      <description><![CDATA[周五数据显示，日本首都核心通胀 4 月份连续第二个月放缓，低于央行 2% 的目标，这使得央行加息决定变得更加复杂。]]></description>
+      <guid>https://www.reuters.com/markets/asia/inflation-japans-capital-falls-below-boj-target-slows-2nd-month-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 23:52:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行可能通过新的价格预测暗示近期加息</title>
+      <link>https://www.reuters.com/markets/rates-bonds/bank-japan-may-signal-near-term-rate-hike-with-new-price-forecasts-2024-04-25/</link>
+      <description><![CDATA[日本央行周五预计，未来几年通胀率将保持在 2% 的目标附近，并表示准备将利率从接近于零的水平上调，以防止日元空头将日元推至 34 年来新低。]]></description>
+      <guid>https://www.reuters.com/markets/rates-bonds/bank-japan-may-signal-near-term-rate-hike-with-new-price-forecasts-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 22:25:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>惠好因房地产需求旺盛而超出季度利润预期</title>
+      <link>https://www.reuters.com/business/weyerhaeuser-beats-quarterly-profit-estimates-high-real-estate-demand-2024-04-25/</link>
+      <description><![CDATA[由于住房建设需求增加，美国林产品公司惠好公司 (Weyerhaeuser) 周四第一季度利润超出预期。]]></description>
+      <guid>https://www.reuters.com/business/weyerhaeuser-beats-quarterly-profit-estimates-high-real-estate-demand-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 22:09:29 GMT</pubDate>
+    </item>
     <item>
       <title>Capital One第一季度利润因利息收入增加而大幅增长</title>
       <link>https://www.reuters.com/business/finance/capital-ones-first-quarter-profit-jumps-interest-income-boost-2024-04-25/</link>
@@ -36,49 +57,28 @@
     <item>
       <title>沃尔玛任职时间最长的董事罗布·沃尔顿将从董事会退休</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-ex-chairman-rob-walton-retire-board-2024-04-25/</link>
-      <description><![CDATA[沃尔玛周四表示，董事会任职时间最长的成员罗布·沃尔顿 (Rob Walton) 将于 6 月 5 日任期结束时从这家大型零售商的职位上退休。]]></description>
+      <description><![CDATA[沃尔玛周四表示，董事会任职时间最长的成员、创始人山姆·沃尔顿 (Sam Walton) 的长子罗布·沃尔顿 (Rob Walton) 将于 6 月 5 日任期结束时从这家大型零售商的职位上退休。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-ex-chairman-rob-walton-retire-board-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 20:43:44 GMT</pubDate>
     </item>
     <item>
-      <title>在全球紧张局势下，L3Harris 上调了 2024 年调整后盈利前景的上限</title>
-      <link>https://www.reuters.com/technology/l3harris-raises-top-end-2024-adjusted-earnings-outlook-amid-global-tensions-2024-04-25/</link>
-      <description><![CDATA[L3Harris 周四提高了年度调整后利润目标的上限，押注在全球安全担忧不断升级的情况下，武器需求将持续增长，国防支出将强劲。]]></description>
-      <guid>https://www.reuters.com/technology/l3harris-raises-top-end-2024-adjusted-earnings-outlook-amid-global-tensions-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:40:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚洲航空披露 14 亿美元合并后的新上市计划</title>
-      <link>https://www.reuters.com/markets/deals/carrier-airasia-discloses-new-listing-plans-under-14-bln-units-merger-2024-04-25/</link>
-      <description><![CDATA[马来西亚航空公司 Capital A（也是亚洲航空的母公司）周四宣布了价值 68 亿林吉特（14.2 亿美元）的交易，旨在创建一个新的上市实体，并通过合并多家航空公司附属公司来简化运营。]]></description>
-      <guid>https://www.reuters.com/markets/deals/carrier-airasia-discloses-new-listing-plans-under-14-bln-units-merger-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>西班牙零售巨头 Inditex 在加拉加斯开设 Zara 特许经营店</title>
-      <link>https://www.reuters.com/business/retail-consumer/spanish-retail-giant-inditex-opens-zara-franchise-caracas-2024-04-25/</link>
-      <description><![CDATA[西班牙快时尚零售商 Inditex 周四重新启动了在委内瑞拉的业务，通过特许经营协议开设了一家 Zara 商店。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/spanish-retail-giant-inditex-opens-zara-franchise-caracas-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 20:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>T-Mobile 上调了其折扣套餐的用户需求增长预测</title>
+      <title>T-Mobile 凭借捆绑套餐上调了用户增加预测</title>
       <link>https://www.reuters.com/business/media-telecom/t-mobile-raises-forecast-subscriber-additions-demand-its-discounted-plans-2024-04-25/</link>
-      <description><![CDATA[T-Mobile US 周四上调了对每月付费电话用户增长的年度预测，因为越来越多的客户使用其折扣套餐以及 5G 网络覆盖范围的扩大。]]></description>
+      <description><![CDATA[T-Mobile US 周四上调了每月付费电话用户增长的年度预测，因为越来越多的人接受该公司将高速互联网与流媒体服务捆绑在一起的计划。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/t-mobile-raises-forecast-subscriber-additions-demand-its-discounted-plans-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 20:09:59 GMT</pubDate>
     </item>
     <item>
-      <title>由于预测低于预期，英特尔股价暴跌</title>
+      <title>英特尔预测未达预期；股价暴跌</title>
       <link>https://www.reuters.com/technology/intel-forecasts-second-quarter-revenue-below-estimates-2024-04-25/</link>
-      <description><![CDATA[英特尔周四预测第二季度营收和利润低于市场预期，导致其股价下跌 8%，原因是该公司面临传统数据中心和 PC 芯片需求疲软以及人工智能组件市场激增的困境。]]></description>
+      <description><![CDATA[英特尔周四预测第二季度营收和利润低于市场预期，导致其股价下跌约 8%，原因是该公司面临传统数据中心和 PC 芯片需求疲软以及人工智能组件市场激增的困境。]]></description>
       <guid>https://www.reuters.com/technology/intel-forecasts-second-quarter-revenue-below-estimates-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 20:07:28 GMT</pubDate>
     </item>
     <item>
       <title>谷歌母公司宣布首次派息；销售额、利润均优于预期；股价飙升</title>
       <link>https://www.reuters.com/technology/google-parent-alphabet-announces-first-ever-divided-20-cents-per-share-2024-04-25/</link>
-      <description><![CDATA[Alphabet 周四宣布了有史以来的首次股息和 700 亿美元的股票回购，投资者欢呼雀跃，导致该股盘后飙升近 16%。]]></description>
+      <description><![CDATA[Alphabet 周四宣布首次派息并回购 700 亿美元的股票，令投资者欢呼雀跃，导致该股盘后飙升近 16%。]]></description>
       <guid>https://www.reuters.com/technology/google-parent-alphabet-announces-first-ever-divided-20-cents-per-share-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 20:06:07 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Thu, 25 Apr 2024 20:05:24 GMT</pubDate>
     </item>
     <item>
-      <title>独家：消息人士称，如果法律选择失败，字节跳动更愿意在美国关闭 TikTok</title>
+      <title>独家：消息人士称，如果法律手段失败，字节跳动更倾向于在美国关闭 TikTok</title>
       <link>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</link>
       <description><![CDATA[四名消息人士称，如果 TikTok 的所有者字节跳动用尽所有法律选择来对抗禁止该平台进入美国应用商店的立法，那么这家中国公司宁愿关闭其亏损的应用程序，也不愿出售它。]]></description>
       <guid>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</guid>
@@ -125,18 +125,18 @@
       <pubDate>Thu, 25 Apr 2024 12:37:28 GMT</pubDate>
     </item>
     <item>
-      <title>焦点：UPS、联邦快递向电动货车的转型因电池短缺、供应不足而放缓</title>
-      <link>https://www.reuters.com/business/ups-fedex-transition-electric-vans-slowed-by-battery-shortages-low-supply-2024-04-25/</link>
-      <description><![CDATA[UPS 和联邦快递在美国供应大型四四方方的电动踏板车方面面临着不确定性，它们需要更换耗油量大的汽车，并减少该国导致气候变暖的尾气排放。]]></description>
-      <guid>https://www.reuters.com/business/ups-fedex-transition-electric-vans-slowed-by-battery-shortages-low-supply-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 10:08:16 GMT</pubDate>
-    </item>
-    <item>
       <title>GDP增长疲软蔓延降息阴霾，华尔街股市下跌</title>
       <link>https://www.reuters.com/markets/us/futures-falter-meta-platforms-weighs-megacaps-2024-04-25/</link>
-      <description><![CDATA[华尔街股市周四收盘走低，原因是市场对美国经济增长低于预期且通胀持续的数据感到震惊，加之 Meta Platforms 的业绩令人失望，引发大盘股抛售。]]></description>
+      <description><![CDATA[华尔街股市周四收低，因数据显示美国经济增长慢于预期和持续通胀，加上元平台令人失望的业绩引发大盘股抛售，令市场震惊。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-falter-meta-platforms-weighs-megacaps-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 10:06:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>日元存在日本央行无法轻易解决的收益率问题</title>
+      <link>https://www.reuters.com/markets/currencies/yen-has-yield-problem-boj-cant-easily-fix-2024-04-25/</link>
+      <description><![CDATA[随着日元跌至三年来的低点，日本干预或改变货币政策的压力越来越大，交易员认为，东京无法采取太多措施来扭转日元贬值，而利率和势头严重不利于日元。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/yen-has-yield-problem-boj-cant-easily-fix-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 09:30:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
