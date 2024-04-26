@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 04:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 04:51:30 GMT</lastBuildDate>
+    <item>
+      <title>美国证券交易委员会 (SEC) 文件显示，前高管巴格利诺出售了价值 1.815 亿美元的特斯拉股票</title>
+      <link>https://www.reuters.com/business/autos-transportation/former-exec-baglino-sells-tesla-shares-worth-1815-mln-sec-filing-shows-2024-04-26/</link>
+      <description><![CDATA[根据周四向 SEC 提交的文件，特斯拉前高管德鲁·巴格利诺 (Drew Baglino) 已出售这家全球顶级电动汽车制造商价值约 1.815 亿美元的股票。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/former-exec-baglino-sells-tesla-shares-worth-1815-mln-sec-filing-shows-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 04:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行维持利率稳定，调整日本国债购买计划</title>
+      <link>https://www.reuters.com/markets/asia/bank-japan-keeps-rates-steady-tweaks-jgb-buying-plan-2024-04-26/</link>
+      <description><![CDATA[日本央行周五保持短期利率稳定，同时取消了对其每月大致承诺购买的政府债券数量的提及。]]></description>
+      <guid>https://www.reuters.com/markets/asia/bank-japan-keeps-rates-steady-tweaks-jgb-buying-plan-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 03:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>香港3月房价上涨1.1% 近一年来首次上涨</title>
+      <link>https://www.reuters.com/markets/asia/hong-kong-march-home-prices-up-11-first-rise-nearly-year-2024-04-26/</link>
+      <description><![CDATA[在金融城市取消限制以提振疲弱的房地产市场后，香港私人住宅价格在3月份扭转了连续10个月的下跌趋势，较2月份上涨1.1%。]]></description>
+      <guid>https://www.reuters.com/markets/asia/hong-kong-march-home-prices-up-11-first-rise-nearly-year-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 03:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行维持利率稳定，预计未来几年通胀率保持在 2% 附近</title>
+      <link>https://www.reuters.com/markets/asia/boj-keeps-rates-steady-projects-inflation-staying-near-2-coming-years-2024-04-26/</link>
+      <description><![CDATA[日本央行周五维持利率不变，并发布新的预估，预计未来三年通胀率将保持在 2% 的目标附近，这表明日本央行准备在今年晚些时候提高借贷成本。]]></description>
+      <guid>https://www.reuters.com/markets/asia/boj-keeps-rates-steady-projects-inflation-staying-near-2-coming-years-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 03:35:03 GMT</pubDate>
+    </item>
     <item>
       <title>北京市将补贴国产人工智能芯片 目标到2027年实现自力更生</title>
       <link>https://www.reuters.com/technology/beijing-city-subsidise-domestic-ai-chips-targets-self-reliance-by-2027-2024-04-26/</link>
@@ -13,9 +41,9 @@
       <pubDate>Fri, 26 Apr 2024 01:58:51 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市、日元暂定，关注日本央行决定</title>
+      <title>日本央行维持利率不变，亚洲股市上涨，日元下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-26/</link>
-      <description><![CDATA[亚洲股市周五谨慎上涨，因为市场清醒地认识到美国很可能在一段时间内降息，而日元和日本政府债券在日本央行密切关注的政策决定之前陷入困境。]]></description>
+      <description><![CDATA[日本央行（BOJ）在为期两天的政策会议结束后维持宽松的货币政策立场，周五交易波动较大，而亚洲股市则上涨。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 01:49:11 GMT</pubDate>
     </item>
@@ -27,16 +55,16 @@
       <pubDate>Fri, 26 Apr 2024 00:33:31 GMT</pubDate>
     </item>
     <item>
-      <title>美国官员缓解市场对经济逆风的担忧，油价上涨</title>
+      <title>油价有望结束连续两周下跌</title>
       <link>https://www.reuters.com/markets/commodities/oil-prices-rise-us-official-eases-market-concerns-over-economic-headwinds-2024-04-26/</link>
-      <description><![CDATA[周五早盘油价上涨，原因是市场人士评估了美国财政部长的言论，即该国经济可能比第一季度疲弱数据所显示的情况更为强劲，再加上中东冲突仍在继续，导致供应担忧。]]></description>
+      <description><![CDATA[油价周五上涨，在连续两周下跌后，本周有望收高，此前美国高级官员对经济增长表示乐观，而且中东冲突导致供应担忧挥之不去。]]></description>
       <guid>https://www.reuters.com/markets/commodities/oil-prices-rise-us-official-eases-market-concerns-over-economic-headwinds-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 00:25:36 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行召开会议，日元跌至数十年来最低水平</title>
+      <title>日本央行维持利率不变 日元跌至34年新低</title>
       <link>https://www.reuters.com/markets/currencies/yen-its-weakest-decades-boj-meets-2024-04-26/</link>
-      <description><![CDATA[在日本央行会议之前，预计利率将保持在低位，日元兑美元汇率跌至34年低点，其他交叉货币对则跌至十年低点，而美元则因美国经济增长数据弱于预期而下跌。]]></description>
+      <description><![CDATA[日本央行周五维持利率不变后，日元兑美元汇率跌至三十年来的最低水平，这让交易员对东京当局何时以及何种程度可能进行干预感到紧张。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-its-weakest-decades-boj-meets-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 00:23:42 GMT</pubDate>
     </item>
@@ -55,25 +83,11 @@
       <pubDate>Fri, 26 Apr 2024 00:18:29 GMT</pubDate>
     </item>
     <item>
-      <title>必和必拓以 390 亿美元收购英美资源集团后股价因价值担忧下跌</title>
+      <title>必和必拓股价因价值担忧而下跌 390 亿美元收购英美资源集团</title>
       <link>https://www.reuters.com/markets/commodities/bhp-shares-fall-36-after-making-39-bln-bid-rival-anglo-american-2024-04-26/</link>
       <description><![CDATA[必和必拓集团股价周五下跌 4%，此前该集团宣布以 388 亿美元收购英美资源集团，原因是投资者担心该交易可能会侵蚀必和必拓的盈利能力，尤其是在必须提高报价的情况下。]]></description>
       <guid>https://www.reuters.com/markets/commodities/bhp-shares-fall-36-after-making-39-bln-bid-rival-anglo-american-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 00:08:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本首都通胀放缓幅度超出预期，低于日本央行目标</title>
-      <link>https://www.reuters.com/markets/asia/inflation-japans-capital-falls-below-boj-target-slows-2nd-month-2024-04-25/</link>
-      <description><![CDATA[周五数据显示，日本首都 4 月份核心通胀放缓幅度远超预期，并低于央行 2% 的目标，使其加息决定变得更加复杂。]]></description>
-      <guid>https://www.reuters.com/markets/asia/inflation-japans-capital-falls-below-boj-target-slows-2nd-month-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 23:52:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Capital One第一季度利润因利息收入增加而大幅增长</title>
-      <link>https://www.reuters.com/business/finance/capital-ones-first-quarter-profit-jumps-interest-income-boost-2024-04-25/</link>
-      <description><![CDATA[第一资本金融公司第一季度利润增长了 35%，原因是客户在利率上升的情况下为该公司的信用卡贷款支付了更多费用。]]></description>
-      <guid>https://www.reuters.com/business/finance/capital-ones-first-quarter-profit-jumps-interest-income-boost-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 21:54:27 GMT</pubDate>
     </item>
     <item>
       <title>早盘竞价：日本央行成为焦点，美国科技股提供支持</title>
@@ -106,7 +120,7 @@
     <item>
       <title>在人工智能投资的推动下，微软业绩超过华尔街目标</title>
       <link>https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2024-04-25/</link>
-      <description><![CDATA[周四，在云服务采用人工智能带来的收益推动下，微软第三季度营收和利润超出了华尔街预期，该公司股价在盘后交易中上涨超过 4%。]]></description>
+      <description><![CDATA[周四，在云服务采用人工智能带来的收益推动下，微软第三季度营收和利润超出了华尔街预期，该公司股价在盘后交易中上涨逾 4%。]]></description>
       <guid>https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 20:05:24 GMT</pubDate>
     </item>
@@ -116,20 +130,6 @@
       <description><![CDATA[四名消息人士称，如果 TikTok 的所有者字节跳动用尽所有法律选择来对抗禁止该平台进入美国应用商店的立法，那么这家中国公司宁愿关闭其亏损的应用程序，也不愿出售它。]]></description>
       <guid>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 16:36:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：英美资源集团认为必和必拓 390 亿美元的报价没有吸引力</title>
-      <link>https://www.reuters.com/markets/deals/anglo-american-does-not-find-bhp-39-bln-offer-attractive-sources-say-2024-04-25/</link>
-      <description><![CDATA[两位消息人士告诉路透社，英美资源集团管理层并不认为必和必拓集团提出的 390 亿美元收购要约有吸引力，因为一些投资者和分析师认为这是机会主义的。]]></description>
-      <guid>https://www.reuters.com/markets/deals/anglo-american-does-not-find-bhp-39-bln-offer-attractive-sources-say-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 16:12:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>耶伦表示，美国对中国产能过剩的反应没有任何可能性</title>
-      <link>https://www.reuters.com/world/nothing-off-table-us-response-china-overcapacity-yellen-says-2024-04-25/</link>
-      <description><![CDATA[美国财政部长珍妮特·耶伦周四对路透社表示，拜登政府不会放弃任何应对中国工业产能过剩的选择，这是美国及其盟友最关心的问题。]]></description>
-      <guid>https://www.reuters.com/world/nothing-off-table-us-response-china-overcapacity-yellen-says-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 14:46:40 GMT</pubDate>
     </item>
     <item>
       <title>第一季度进口抑制美国经济，通胀加剧</title>

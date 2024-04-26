@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 26 Apr 2024 04:38:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 04:51:36 GMT</lastBuildDate>
+    <item>
+      <title>香港3月房价上涨1.1% 近一年来首次上涨</title>
+      <link>https://www.reuters.com/markets/asia/hong-kong-march-home-prices-up-11-first-rise-nearly-year-2024-04-26/</link>
+      <description><![CDATA[在金融城市取消限制以提振疲弱的房地产市场后，香港私人住宅价格在3月份扭转了连续10个月的下跌趋势，较2月份上涨1.1%。]]></description>
+      <guid>https://www.reuters.com/markets/asia/hong-kong-march-home-prices-up-11-first-rise-nearly-year-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 03:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>博世将在中国城市推出城市自动驾驶导航功能</title>
+      <link>https://www.reuters.com/business/autos-transportation/bosch-launch-urban-navigate-on-autopilot-functions-chinese-cities-2024-04-26/</link>
+      <description><![CDATA[博世移动部门董事长马库斯·海恩 (Markus Heyn) 周五表示，博世 (ROBSCJ.UL) 将于 5 月通过其先进的驾驶辅助系统推出城市自动驾驶导航 (NOA) 功能。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/bosch-launch-urban-navigate-on-autopilot-functions-chinese-cities-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 03:18:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着与贸易伙伴的紧张局势加剧，中国通过关税法</title>
+      <link>https://www.reuters.com/world/china/china-passes-tariff-law-tensions-with-trading-partners-simmer-2024-04-26/</link>
+      <description><![CDATA[中国周五通过了一项法律，这使得其最大的贸易伙伴毫无疑问可以反击，如果他们对世界第二大经济体的出口征收关税，华盛顿和布鲁塞尔就工业产能过剩问题将矛头指向北京。]]></description>
+      <guid>https://www.reuters.com/world/china/china-passes-tariff-law-tensions-with-trading-partners-simmer-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 02:14:09 GMT</pubDate>
+    </item>
     <item>
       <title>北京市将补贴国产人工智能芯片 目标到2027年实现自力更生</title>
       <link>https://www.reuters.com/technology/beijing-city-subsidise-domestic-ai-chips-targets-self-reliance-by-2027-2024-04-26/</link>
@@ -13,23 +34,23 @@
       <pubDate>Fri, 26 Apr 2024 01:58:51 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市、日元暂定，关注日本央行决定</title>
+      <title>日本央行维持利率不变，亚洲股市上涨，日元下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-26/</link>
-      <description><![CDATA[亚洲股市周五谨慎上涨，因市场对美国很可能在一段时间后才会降息的想法有所清醒，而日元和日本政府债券在日本央行备受关注的政策决定前陷入困境。]]></description>
+      <description><![CDATA[日本央行（BOJ）在为期两天的政策会议结束后维持宽松的货币政策立场，周五交易波动较大，而亚洲股市则上涨。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 01:49:11 GMT</pubDate>
     </item>
     <item>
-      <title>布林肯在北京会见中国外长王毅</title>
+      <title>外交部长王告诉布林肯，美中关系中的“负面”因素正在形成</title>
       <link>https://www.reuters.com/world/blinken-meet-chinese-counterpart-wang-yi-beijing-2024-04-26/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周五在北京会见了中国外交部长王毅，就一系列复杂问题进行了会谈，其中包括因中国支持俄罗斯入侵乌克兰而加剧的紧张局势。]]></description>
+      <description><![CDATA[外交部长王毅周五在与美国外长安东尼·布林肯会谈时表示，美国正在打压中国的发展。布林肯正在北京访问，旨在解决超级大国之间的贸易和政策分歧。]]></description>
       <guid>https://www.reuters.com/world/blinken-meet-chinese-counterpart-wang-yi-beijing-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 00:39:58 GMT</pubDate>
     </item>
     <item>
-      <title>日央行会议召开之际日元跌至数十年来最低水平</title>
+      <title>日本央行维持利率不变 日元跌至34年新低</title>
       <link>https://www.reuters.com/markets/currencies/yen-its-weakest-decades-boj-meets-2024-04-26/</link>
-      <description><![CDATA[在日本央行会议之前，预计利率将保持在低位，日元兑美元汇率跌至34年低点，其他交叉货币对则跌至十年低点，而美元则因美国经济增长数据弱于预期而下跌。]]></description>
+      <description><![CDATA[日本央行周五维持利率不变后，日元兑美元汇率跌至三十年来的最低水平，这让交易员对东京当局何时以及何种程度可能进行干预感到紧张。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-its-weakest-decades-boj-meets-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 00:23:42 GMT</pubDate>
     </item>
@@ -69,16 +90,16 @@
       <pubDate>Thu, 25 Apr 2024 17:12:25 GMT</pubDate>
     </item>
     <item>
-      <title>独家：消息人士称，如果法律选择失败，字节跳动更愿意在美国关闭 TikTok</title>
+      <title>独家：消息人士称，如果法律手段失败，字节跳动更倾向于在美国关闭 TikTok</title>
       <link>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</link>
       <description><![CDATA[四名消息人士称，如果 TikTok 的所有者字节跳动用尽所有法律选择来对抗禁止该平台进入美国应用商店的立法，那么这家中国公司宁愿关闭其亏损的应用程序，也不愿出售它。]]></description>
       <guid>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 16:36:01 GMT</pubDate>
     </item>
     <item>
-      <title>WADA将审查中国兴奋剂案</title>
+      <title>全球强烈抗议后世界反兴奋剂机构将审查中国兴奋剂案</title>
       <link>https://www.reuters.com/sports/wada-launch-independent-review-into-chinese-doping-case-2024-04-25/</link>
-      <description><![CDATA[备受争议的世界反兴奋剂机构（WADA）周四表示，将对其处理案件的方式展开独立审查，该案件允许 23 名违禁物质检测呈阳性的中国游泳运动员逃避处罚。]]></description>
+      <description><![CDATA[备受争议的世界反兴奋剂机构（WADA）周四表示，将对其处理案件的方式展开独立审查，该案件允许23名违禁物质检测呈阳性的中国游泳运动员逃避处罚。]]></description>
       <guid>https://www.reuters.com/sports/wada-launch-independent-review-into-chinese-doping-case-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 15:34:24 GMT</pubDate>
     </item>
@@ -99,37 +120,16 @@
     <item>
       <title>中国在逮捕间谍后召见德国大使</title>
       <link>https://www.reuters.com/world/europe/china-summons-german-ambassador-after-spying-arrests-2024-04-25/</link>
-      <description><![CDATA[德国外交部发言人告诉路透社，北京方面周四传唤了德国驻华大使，以回应德国境内因涉嫌中国间谍活动而逮捕的几人。]]></description>
+      <description><![CDATA[德国外交部发言人告诉路透社，北京周四召见了德国驻华大使，以回应德国境内因涉嫌中国间谍活动而逮捕的几人。]]></description>
       <guid>https://www.reuters.com/world/europe/china-summons-german-ambassador-after-spying-arrests-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 14:49:44 GMT</pubDate>
     </item>
     <item>
-      <title>耶伦表示，美国对中国产能过剩的反应没有任何可能性</title>
-      <link>https://www.reuters.com/world/nothing-off-table-us-response-china-overcapacity-yellen-says-2024-04-25/</link>
-      <description><![CDATA[美国财政部长珍妮特·耶伦周四对路透社表示，拜登政府不会放弃任何应对中国工业产能过剩的选择，这是美国及其盟友最关心的问题。]]></description>
-      <guid>https://www.reuters.com/world/nothing-off-table-us-response-china-overcapacity-yellen-says-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 14:46:40 GMT</pubDate>
-    </item>
-    <item>
       <title>耶伦称美国经济强劲，应对中国产能过剩有所有选择</title>
       <link>https://www.reuters.com/markets/us/yellen-says-economy-performing-well-inflation-will-ebb-2024-04-25/</link>
-      <description><![CDATA[美国财长耶伦周四对路透社表示，美国经济增长可能强于第一季度产出数据弱于预期的数据所显示的水平，并表示拜登政府将保留所有选择，以应对中国工业产能过剩的威胁。]]></description>
+      <description><![CDATA[美国财长耶伦周四对路透社表示，美国经济增长可能强于第一季度产出数据弱于预期的数据，并表示拜登政府将保留所有选择，以应对中国工业产能过剩的威胁。]]></description>
       <guid>https://www.reuters.com/markets/us/yellen-says-economy-performing-well-inflation-will-ebb-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 14:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>据 The Information 报道，华为领导的中国公司计划到 2026 年生产先进的存储芯片</title>
-      <link>https://www.reuters.com/technology/huawei-led-chinese-firms-aim-make-advanced-memory-chips-by-2026-information-2024-04-25/</link>
-      <description><![CDATA[据 The Information 周四报道，以华为技术公司为首、并得到中国政府支持的一批中国芯片公司计划到 2026 年生产高带宽内存 (HBM) 半导体，这是人工智能芯片的关键组成部分。]]></description>
-      <guid>https://www.reuters.com/technology/huawei-led-chinese-firms-aim-make-advanced-memory-chips-by-2026-information-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 13:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASML 新任老板 Fouquet 必须应对中美芯片大战</title>
-      <link>https://www.reuters.com/technology/new-asml-boss-fouquet-must-navigate-uschina-chip-war-2024-04-25/</link>
-      <description><![CDATA[ASML 新任总裁 Christophe Fouquet 面临着一项棘手的平衡任务，他既要帮助这家欧洲最大的科技公司度过中美“芯片战”，又要保持集团对竞争对手的领先地位，并驾驭当前的人工智能热潮。]]></description>
-      <guid>https://www.reuters.com/technology/new-asml-boss-fouquet-must-navigate-uschina-chip-war-2024-04-25/</guid>
-      <pubDate>Thu, 25 Apr 2024 12:57:26 GMT</pubDate>
     </item>
     <item>
       <title>台湾对美国援助计划感到满意，中国反对出售武器</title>
