@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 14:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 14:25:27 GMT</lastBuildDate>
     <item>
       <title>T Rowe 的季度利润超出市场上涨推动因素的预期</title>
       <link>https://www.reuters.com/business/t-rowes-quarterly-profit-beats-estimates-tailwinds-market-rally-2024-04-26/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>利安德巴塞尔超出第一季度利润预期，预计季节性需求将提振</title>
       <link>https://www.reuters.com/markets/commodities/lyondellbasell-beats-q1-profit-view-expects-seasonal-demand-boost-2024-04-26/</link>
-      <description><![CDATA[石化产品制造商利安德巴塞尔周五表示，该公司第一季度利润超过预期，预计本季度大部分子公司的需求将出现季节性改善。]]></description>
+      <description><![CDATA[石化制造商利安德巴塞尔周五表示，在超出第一季度利润预期后，预计本季度大部分部门的季节性需求将有所改善。]]></description>
       <guid>https://www.reuters.com/markets/commodities/lyondellbasell-beats-q1-profit-view-expects-seasonal-demand-boost-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 12:06:26 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>由于美联储降息希望减弱，全球股票基金面临第四周资金流出</title>
       <link>https://www.reuters.com/markets/global-markets-flows-2024-04-26/</link>
-      <description><![CDATA[截至4月24日，全球股票基金连续第四周录得资金流出，原因是美国通胀数据一系列高于预期，美联储今年快速降息的希望逐渐减弱。]]></description>
+      <description><![CDATA[受美国一系列高于预期的通胀数据导致美联储今年迅速降息的希望减弱的影响，截至4月24日，全球股票基金连续第四周出现资金流出。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-flows-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 11:47:05 GMT</pubDate>
     </item>
@@ -57,21 +57,21 @@
     <item>
       <title>独家：消息人士称，阿联酋计划建造第二座核电站</title>
       <link>https://www.reuters.com/business/energy/uae-planning-second-nuclear-power-plant-sources-say-2024-04-26/</link>
-      <description><![CDATA[三位知情人士称，阿拉伯联合酋长国将很快招标建设一座新核电站，该核电站将使这个海湾小国的核反应堆数量增加一倍。]]></description>
+      <description><![CDATA[三名知情人士称，阿拉伯联合酋长国将很快招标建设一座新核电站，该核电站将使这个海湾小国的核反应堆数量增加一倍。]]></description>
       <guid>https://www.reuters.com/business/energy/uae-planning-second-nuclear-power-plant-sources-say-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 11:37:44 GMT</pubDate>
     </item>
     <item>
       <title>菲利普斯 66 因利润率下降而未达第一季度利润预期</title>
       <link>https://www.reuters.com/markets/commodities/phillips-66-misses-first-quarter-profit-estimates-2024-04-26/</link>
-      <description><![CDATA[由于墨西哥湾沿岸业务表现不佳导致炼油利润下降，菲利普斯 66 未能达到季度利润预期，导致该炼油商股价在周五盘前交易中下跌 5.5%。]]></description>
+      <description><![CDATA[由于墨西哥湾沿岸业务表现不佳导致炼油利润率下降，菲利普斯 66 未能达到季度利润预期，导致该炼油商股价在周五盘前交易中下跌 5.5%。]]></description>
       <guid>https://www.reuters.com/markets/commodities/phillips-66-misses-first-quarter-profit-estimates-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 11:06:04 GMT</pubDate>
     </item>
     <item>
       <title>由于个人电脑芯片需求疲软影响第二季度预测，英特尔股价下跌</title>
       <link>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</link>
-      <description><![CDATA[英特尔股价周五盘前下跌逾 7%，此前第二季度销售预测悲观，表明人工智能技术的繁荣正在将企业支出从其传统数据中心和 PC 芯片上转移。]]></description>
+      <description><![CDATA[英特尔股价周五盘前下跌逾 7%，此前该公司发布了一份悲观的第二季度销售预测，暗示人工智能技术的蓬勃发展正在吸引企业支出从传统数据中心和个人电脑芯片转移出去。]]></description>
       <guid>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:53:09 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>雪佛龙第一季度利润好于石油产量增长</title>
       <link>https://www.reuters.com/markets/commodities/chevron-reports-q1-profit-beat-2024-04-26/</link>
-      <description><![CDATA[石油巨头雪佛龙公司周五公布第一季度利润超过预期，因为美国产量增加抵消了天然气价格和燃料利润率疲软带来的打击。]]></description>
+      <description><![CDATA[石油巨头雪佛龙公司周五第一季度利润超出预期，因美国产量增加帮助抵消了天然气价格和燃料利润疲软的打击。]]></description>
       <guid>https://www.reuters.com/markets/commodities/chevron-reports-q1-profit-beat-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:23:05 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>洞察：为何比亚迪电动汽车出口售价是中国价格的两倍</title>
       <link>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</link>
-      <description><![CDATA[美国和欧洲政界人士发出警告称，他们的国内汽车工业可能会被中国廉价电动汽车的浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
+      <description><![CDATA[美国和欧洲政界人士警告称，他们的国内汽车工业可能会被中国廉价电动汽车浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:03:10 GMT</pubDate>
     </item>
