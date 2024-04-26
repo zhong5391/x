@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 17:40:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 17:53:31 GMT</lastBuildDate>
     <item>
       <title>星巴克与美国工会举行合同谈判</title>
       <link>https://www.reuters.com/business/retail-consumer/starbucks-us-workers-union-meet-contract-negotiations-2024-04-26/</link>
@@ -20,7 +20,7 @@
       <pubDate>Fri, 26 Apr 2024 15:45:26 GMT</pubDate>
     </item>
     <item>
-      <title>保时捷第一季度利润因成本上升而下降</title>
+      <title>保时捷公司公布第一季度利润因成本增加而下降</title>
       <link>https://www.reuters.com/business/autos-transportation/porsche-ag-posts-q1-profit-drop-ramp-up-costs-2024-04-26/</link>
       <description><![CDATA[保时捷周五报告称，第一季度营业利润下降了 30%，原因是这家德国豪华汽车制造商在今年推出了史上最大的产品发布年，因此加大了投资。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/porsche-ag-posts-q1-profit-drop-ramp-up-costs-2024-04-26/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>芯片制造商英特尔因人工智能竞争影响预测而下跌</title>
       <link>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</link>
-      <description><![CDATA[英特尔股价周五下跌超过 12%，此前悲观的预测表明人工智能的繁荣正在将企业支出从其传统数据中心芯片上转移。]]></description>
+      <description><![CDATA[周五，英特尔股价下跌超过 12%，此前悲观的预测表明人工智能的繁荣正在将企业支出从其传统数据中心芯片上转移。]]></description>
       <guid>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:53:09 GMT</pubDate>
     </item>
