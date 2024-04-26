@@ -1,86 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 12:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 12:55:06 GMT</lastBuildDate>
     <item>
-      <title>随着 Alphabet、微软业绩提振巨型股，期货上涨</title>
+      <title>T Rowe 的季度利润超出市场上涨推动因素的预期</title>
+      <link>https://www.reuters.com/business/t-rowes-quarterly-profit-beats-estimates-tailwinds-market-rally-2024-04-26/</link>
+      <description><![CDATA[T Rowe Price 周五表示，由于市场回升提振了其管理的资产并缓解了资金外流的影响，该公司第一季度利润超出预期。]]></description>
+      <guid>https://www.reuters.com/business/t-rowes-quarterly-profit-beats-estimates-tailwinds-market-rally-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 12:10:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>利安德巴塞尔超出第一季度利润预期，预计季节性需求将提振</title>
+      <link>https://www.reuters.com/markets/commodities/lyondellbasell-beats-q1-profit-view-expects-seasonal-demand-boost-2024-04-26/</link>
+      <description><![CDATA[石化制造商利安德巴塞尔周五表示，在超出第一季度利润预期后，预计本季度大部分部门的季节性需求将有所改善。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/lyondellbasell-beats-q1-profit-view-expects-seasonal-demand-boost-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 12:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>首席执行官表示 TotalEnergies 考虑在纽约上市</title>
+      <link>https://www.reuters.com/markets/commodities/totalenergies-considers-listing-new-york-says-ceo-2024-04-26/</link>
+      <description><![CDATA[法国石油巨头 TotalEnergies 首席执行官 Patrick Pouyanne 周五对分析师表示，将考虑在纽约上市的可能性。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/totalenergies-considers-listing-new-york-says-ceo-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 12:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>HCA 因入院人数增加而超出第一季度利润预期</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/hca-beats-first-quarter-profit-estimates-higher-patient-admissions-2024-04-26/</link>
+      <description><![CDATA[HCA Healthcare 周五的季度利润超出了华尔街的预期，这得益于医疗服务需求带来的患者入院人数增加。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/hca-beats-first-quarter-profit-estimates-higher-patient-admissions-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 11:47:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于美联储降息希望减弱，全球股票基金面临第四周资金流出</title>
+      <link>https://www.reuters.com/markets/global-markets-flows-2024-04-26/</link>
+      <description><![CDATA[截至4月24日，全球股票基金连续第四周录得资金流出，原因是美国通胀数据一系列高于预期，美联储今年快速降息的希望逐渐减弱。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-flows-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 11:47:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skyrizi 销量​​超出预期后，艾伯维上调利润预期</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/abbvie-raises-annual-profit-forecast-strong-skyrizi-sales-2024-04-26/</link>
+      <description><![CDATA[艾伯维 (AbbVie) 周五上调了年度利润预期，此前其免疫药物 Skyrizi 和癌症药物 Imbruvica 的强劲销售帮助该公司第一季度超出了华尔街的预期。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/abbvie-raises-annual-profit-forecast-strong-skyrizi-sales-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 11:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一季度业绩强劲后，高露洁棕榄提高销售增长目标</title>
+      <link>https://www.reuters.com/business/retail-consumer/colgate-palmolive-raises-sales-growth-target-after-strong-q1-results-2024-04-26/</link>
+      <description><![CDATA[牙膏制造商高露洁棕榄周五上调了年度有机销售增长预测，依靠其高价自我护理和宠物营养产品的强劲需求。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/colgate-palmolive-raises-sales-growth-target-after-strong-q1-results-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 11:42:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：消息人士称，阿联酋计划建造第二座核电站</title>
+      <link>https://www.reuters.com/business/energy/uae-planning-second-nuclear-power-plant-sources-say-2024-04-26/</link>
+      <description><![CDATA[三名知情人士称，阿拉伯联合酋长国将很快招标建设一座新核电站，该核电站将使这个海湾小国的核反应堆数量增加一倍。]]></description>
+      <guid>https://www.reuters.com/business/energy/uae-planning-second-nuclear-power-plant-sources-say-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 11:37:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phillips 66 因利润率较低而未能实现第一季度利润预期</title>
+      <link>https://www.reuters.com/markets/commodities/phillips-66-misses-first-quarter-profit-estimates-2024-04-26/</link>
+      <description><![CDATA[由于墨西哥湾沿岸业务表现不佳导致炼油利润率下降，菲利普斯 66 未能达到季度利润预期，导致该炼油商股价在周五盘前交易中下跌 5.5%。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/phillips-66-misses-first-quarter-profit-estimates-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 11:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于个人电脑芯片需求疲软影响第二季度预测，英特尔股价下跌</title>
+      <link>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</link>
+      <description><![CDATA[英特尔股价周五盘前下跌逾 7%，此前第二季度销售预测悲观，表明人工智能技术的繁荣正在将企业支出从其传统数据中心和 PC 芯片上转移。]]></description>
+      <guid>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 10:53:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>怡安第一季度利润增长得益于投资和基金收益</title>
+      <link>https://www.reuters.com/business/aon-first-quarter-profit-grows-gains-investments-funds-2024-04-26/</link>
+      <description><![CDATA[怡安周五公布第一季度利润增长，主要得益于投资利息收入以及受托持有的基金收入的增长。]]></description>
+      <guid>https://www.reuters.com/business/aon-first-quarter-profit-grows-gains-investments-funds-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 10:44:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管圭亚那大幅增长，埃克森美孚第一季度利润未达预期</title>
+      <link>https://www.reuters.com/markets/commodities/exxon-misses-q1-profit-despite-big-gains-guyana-2024-04-26/</link>
+      <description><![CDATA[埃克森美孚公司周五未达到分析师预期，第一季度利润同比下降 28%，原因是炼油利润疲软和天然气价格下跌抵消了销量增长。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/exxon-misses-q1-profit-despite-big-gains-guyana-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 10:38:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>雪佛龙第一季度利润好于石油产量增长</title>
+      <link>https://www.reuters.com/markets/commodities/chevron-reports-q1-profit-beat-2024-04-26/</link>
+      <description><![CDATA[石油巨头雪佛龙公司周五第一季度利润超出预期，因美国产量增加帮助抵消了天然气价格和燃料利润疲软的打击。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/chevron-reports-q1-profit-beat-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 10:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着 Alphabet、微软业绩提振巨型股，期货走高</title>
       <link>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</link>
-      <description><![CDATA[美国股指期货周五上涨，大型成长股在 Alphabet 和微软强劲的季度业绩推动下反弹，同时投资者等待可能有助于塑造美国货币政策的关键通胀数据。]]></description>
+      <description><![CDATA[美国股指期货周五上涨，因为 Alphabet 和微软强劲的季度业绩推动大型成长股反弹，同时投资者等待可能有助于影响美国货币政策的关键通胀数据。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:04:30 GMT</pubDate>
     </item>
     <item>
       <title>洞察：为何比亚迪电动汽车出口售价是中国价格的两倍</title>
       <link>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</link>
-      <description><![CDATA[美国和欧洲政界人士发出警告称，他们的国内汽车工业可能会被中国廉价电动汽车的浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
+      <description><![CDATA[美国和欧洲政界人士警告称，他们的国内汽车工业可能会被中国廉价电动汽车浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:03:10 GMT</pubDate>
     </item>
     <item>
-      <title>美国出于担忧调查特斯拉因 Autopilot 召回 200 万辆汽车</title>
+      <title>美国调查特斯拉因 Autopilot 召回 200 万辆汽车</title>
       <link>https://www.reuters.com/business/autos-transportation/us-probes-tesla-recall-2-million-vehicles-over-autopilot-citing-concerns-2024-04-26/</link>
       <description><![CDATA[美国汽车安全监管机构周五表示，他们已开始调查特斯拉去年 12 月宣布召回超过 200 万辆汽车以安装新的 Autopilot 防护措施是否充分。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-probes-tesla-recall-2-million-vehicles-over-autopilot-citing-concerns-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 09:46:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：大型科技股拉锯式反转，日元大幅波动</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-26/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 09:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>交通银行一季度利润增长1.44%</title>
-      <link>https://www.reuters.com/business/finance/chinas-bank-communications-q1-profit-rises-144-2024-04-26/</link>
-      <description><![CDATA[中国交通银行股份有限公司 (BoCom) 公布，在经济放缓的情况下，第一季度净利润增长 1.44%。]]></description>
-      <guid>https://www.reuters.com/business/finance/chinas-bank-communications-q1-profit-rises-144-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 09:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>贷款和消费者数据巩固了欧洲央行降息的理由</title>
-      <link>https://www.reuters.com/markets/europe/lending-consumer-data-cements-case-ecb-rate-cuts-2024-04-26/</link>
-      <description><![CDATA[欧洲央行(ECB)周五的报告显示，3月份欧元区贷款继续停滞，消费者下调了通胀预期，因为创纪录的高借贷成本持续抑制欧元区经济。]]></description>
-      <guid>https://www.reuters.com/markets/europe/lending-consumer-data-cements-case-ecb-rate-cuts-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 09:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>中信证券第一季度利润下降，因手续费和经纪收入下降</title>
-      <link>https://www.reuters.com/business/finance/chinas-citic-securities-posts-85-fall-first-quarter-profit-2024-04-26/</link>
-      <description><![CDATA[中国最大的券商中信证券周五公布，受投资银行环境低迷的影响，第一季度净利润下降8.5%。]]></description>
-      <guid>https://www.reuters.com/business/finance/chinas-citic-securities-posts-85-fall-first-quarter-profit-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 08:57:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于需求疲软，伊莱克斯第一季度亏损近两倍，但超出预期</title>
-      <link>https://www.reuters.com/business/retail-consumer/electrolux-q1-loss-nearly-triples-weak-demand-beats-expectations-2024-04-26/</link>
-      <description><![CDATA[由于需求疲软和北美业绩不佳，伊莱克斯第一季度营业亏损近两倍，但由于原材料成本下降，亏损小于预期，股价上涨 6%。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/electrolux-q1-loss-nearly-triples-weak-demand-beats-expectations-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 08:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>华为的智能汽车技术为汽车制造商提供了在中国销售的途径</title>
-      <link>https://www.reuters.com/business/autos-transportation/huaweis-smart-car-tech-offers-automakers-route-china-sales-2024-04-26/</link>
-      <description><![CDATA[华为只用了四年时间就成为智能汽车技术领域的一股力量，在应对贸易制裁对其智能手机业务造成的破坏的同时，还开发了北京车展宠儿的驾驶辅助系统。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/huaweis-smart-car-tech-offers-automakers-route-china-sales-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 08:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoma Bravo 将以约 53.2 亿美元收购英国 Darktrace</title>
-      <link>https://www.reuters.com/markets/deals/thoma-bravo-buy-uks-darktrace-about-532-billion-2024-04-26/</link>
-      <description><![CDATA[私募股权公司 Thoma Bravo 周五同意以约 53.2 亿美元现金收购英国 Darktrace，并表示将利用其软件专业知识来推动这家由迈克·林奇 (Mike Lynch) 支持的网络安全专家的增长。]]></description>
-      <guid>https://www.reuters.com/markets/deals/thoma-bravo-buy-uks-darktrace-about-532-billion-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 07:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯联邦储蓄银行上调零售贷款增长预期，季度利润大幅增长</title>
-      <link>https://www.reuters.com/markets/europe/russias-sberbank-reports-profit-rise-43-bln-q1-2024-04-26/</link>
-      <description><![CDATA[俄罗斯主要银行储蓄银行周五报告称，第一季度净利润增长11.3%，达到3974亿卢布（43.2亿美元），并大幅提高了今年零售贷款增长预期。]]></description>
-      <guid>https://www.reuters.com/markets/europe/russias-sberbank-reports-profit-rise-43-bln-q1-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 07:11:40 GMT</pubDate>
     </item>
     <item>
       <title>独家：碧桂园计划下半年提出债务重组计划</title>
@@ -88,27 +123,6 @@
       <description><![CDATA[两名消息人士称，碧桂园已告知其一些海外债权人，计划在今年下半年提出债务重组提案，因为这家陷入困境的开发商正在努力避免清算申请。]]></description>
       <guid>https://www.reuters.com/world/china/country-garden-plans-present-debt-revamp-plan-second-half-sources-say-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 07:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>机场运营商 ADP 第一季度收入受疫情后旅游热潮推动</title>
-      <link>https://www.reuters.com/business/airport-operator-adp-q1-revenue-beats-expectations-traffic-growth-2024-04-26/</link>
-      <description><![CDATA[法国机场集团 ADP 周五报告称，受益于疫情后的假期繁荣以及旅客在机场的食品和饮料上花费更多现金，第一季度收入增长好于预期。]]></description>
-      <guid>https://www.reuters.com/business/airport-operator-adp-q1-revenue-beats-expectations-traffic-growth-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管干邑白兰地销量激增，雷米对中国持谨慎态度</title>
-      <link>https://www.reuters.com/business/retail-consumer/remy-cointreau-reports-better-than-expected-q4-sales-2024-04-26/</link>
-      <description><![CDATA[人头马君度 (Remy Cointreau) 首席财务官卢卡·马洛塔 (Luca Marotta) 警告称，由于世界第二大经济体的不确定性，在中国推动下的干邑部门的增长意外上升可能不会持续太久，该公司股价周五回吐涨幅。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/remy-cointreau-reports-better-than-expected-q4-sales-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>北京车展：主题与亮点</title>
-      <link>https://www.reuters.com/business/autos-transportation/beijing-auto-show-themes-highlights-2024-04-26/</link>
-      <description><![CDATA[中国最大的车展在北京开幕，各大品牌展示了他们最新的电动汽车（EV），突显出全球最大的汽车市场已经处于全电动状态，并且不会回头。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/beijing-auto-show-themes-highlights-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:07:23 GMT</pubDate>
     </item>
     <item>
       <title>随着美国通胀担忧加剧，投资者准备迎接 5% 的国债收益率</title>
@@ -125,25 +139,11 @@
       <pubDate>Fri, 26 Apr 2024 04:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>美国证券交易委员会 (SEC) 文件显示，前高管巴格利诺出售了价值 1.815 亿美元的特斯拉股票</title>
-      <link>https://www.reuters.com/business/autos-transportation/former-exec-baglino-sells-tesla-shares-worth-1815-mln-sec-filing-shows-2024-04-26/</link>
-      <description><![CDATA[根据周四向 SEC 提交的文件，特斯拉前高管德鲁·巴格利诺 (Drew Baglino) 已出售这家全球顶级电动汽车制造商价值约 1.815 亿美元的股票。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/former-exec-baglino-sells-tesla-shares-worth-1815-mln-sec-filing-shows-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 04:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行维持利率稳定，预计未来几年通胀率保持在 2% 附近</title>
-      <link>https://www.reuters.com/markets/asia/boj-keeps-rates-steady-projects-inflation-staying-near-2-coming-years-2024-04-26/</link>
-      <description><![CDATA[日本央行周五维持利率不变，并发布新的预估，预计未来三年通胀率将保持在 2% 的目标附近，这表明日本央行准备在今年晚些时候提高借贷成本。]]></description>
-      <guid>https://www.reuters.com/markets/asia/boj-keeps-rates-steady-projects-inflation-staying-near-2-coming-years-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 03:35:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>股市面临9月份以来最糟糕的一个月，日元跟随日本央行波动</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-26/</link>
-      <description><![CDATA[周五，全球股市摇摇欲坠，正面临自 9 月份以来最糟糕的一个月，尽管期货市场预测强劲的科技股盈利将在当天晚些时候引发华尔街的缓解性反弹，从而帮助交易员挽回部分损失。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 01:49:11 GMT</pubDate>
+      <title>由于电动汽车租赁业务步履蹒跚，赫兹全球面临有记录以来最糟糕的一天</title>
+      <link>https://www.reuters.com/business/autos-transportation/hertz-global-eyes-worst-day-record-ev-rental-business-falters-2024-04-25/</link>
+      <description><![CDATA[赫兹全球公司 (Hertz Global) 公布季度亏损超出预期，突显其电动汽车租赁业务的困境，周四该公司股价下跌 24%，并有望创下有记录以来的最大单日跌幅。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/hertz-global-eyes-worst-day-record-ev-rental-business-falters-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:56:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
