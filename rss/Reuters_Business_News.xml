@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 16:08:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 16:30:47 GMT</lastBuildDate>
     <item>
       <title>雷诺与中国理想汽车和小米就技术合作进行谈判</title>
       <link>https://www.reuters.com/business/autos-transportation/renault-talks-chinas-li-auto-xiaomi-tech-collaboration-2024-04-26/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>降息重新评估导致美国股票基金连续第四周资金流出</title>
       <link>https://www.reuters.com/markets/us/us-equity-funds-see-4th-straight-week-outflows-amid-rate-cut-reassessment-2024-04-26/</link>
-      <description><![CDATA[受今年降息预期减弱的影响，截至 4 月 24 日当周，美国股票基金连续第四周出现资金流出。]]></description>
+      <description><![CDATA[截至 4 月 24 日当周，受今年降息预期减弱的影响，美国股票基金连续第四周出现资金流出。]]></description>
       <guid>https://www.reuters.com/markets/us/us-equity-funds-see-4th-straight-week-outflows-amid-rate-cut-reassessment-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 13:40:42 GMT</pubDate>
     </item>
     <item>
       <title>谷歌母公司Alphabet重新跻身2万亿美元估值俱乐部</title>
       <link>https://www.reuters.com/technology/google-parent-alphabet-reclaims-spot-2-trillion-valuation-club-2024-04-26/</link>
-      <description><![CDATA[周五，Alphabet 市值自 2021 年 11 月以来首次突破 2 万亿美元大关，投资者对这家谷歌母公司宣布有史以来的首次股息和 700 亿美元股票回购感到欢呼。]]></description>
+      <description><![CDATA[周五，Alphabet 的市值自 2021 年 11 月以来首次突破 2 万亿美元大关，投资者对谷歌母公司宣布首次派息和 700 亿美元的股票回购计划欢呼雀跃。]]></description>
       <guid>https://www.reuters.com/technology/google-parent-alphabet-reclaims-spot-2-trillion-valuation-club-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 13:37:21 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>Skyrizi 销量​​超出预期后，艾伯维上调利润预期</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/abbvie-raises-annual-profit-forecast-strong-skyrizi-sales-2024-04-26/</link>
-      <description><![CDATA[艾伯维 (AbbVie) 周五上调了年度利润预期，此前其免疫药物 Skyrizi 和抗癌药物 Imbruvica 的强劲销售帮助该公司超出了华尔街对第一季度的预期。]]></description>
+      <description><![CDATA[艾伯维 (AbbVie) 周五上调了年度利润预期，此前其免疫药物 Skyrizi 和癌症药物 Imbruvica 的强劲销售帮助该公司第一季度超出了华尔街的预期。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/abbvie-raises-annual-profit-forecast-strong-skyrizi-sales-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 11:44:42 GMT</pubDate>
     </item>
@@ -90,9 +90,9 @@
       <pubDate>Fri, 26 Apr 2024 11:42:23 GMT</pubDate>
     </item>
     <item>
-      <title>由于个人电脑芯片需求疲软影响第二季度预测，英特尔股价下跌</title>
+      <title>英特尔股价下跌，因 PC 芯片需求疲软影响第二季度业绩预测</title>
       <link>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</link>
-      <description><![CDATA[英特尔股价周五盘前下跌逾 7%，此前第二季度销售预测悲观，表明人工智能技术的繁荣正在将企业支出从其传统数据中心和 PC 芯片上转移。]]></description>
+      <description><![CDATA[英特尔股价周五盘前下跌逾 7%，此前该公司发布了一份悲观的第二季度销售预测，暗示人工智能技术的蓬勃发展正在吸引企业支出从传统数据中心和个人电脑芯片转移出去。]]></description>
       <guid>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:53:09 GMT</pubDate>
     </item>
