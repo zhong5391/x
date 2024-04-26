@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 17:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 18:23:30 GMT</lastBuildDate>
     <item>
       <title>星巴克与美国工会举行合同谈判</title>
       <link>https://www.reuters.com/business/retail-consumer/starbucks-us-workers-union-meet-contract-negotiations-2024-04-26/</link>
@@ -92,7 +92,7 @@
     <item>
       <title>芯片制造商英特尔因人工智能竞争影响预测而下跌</title>
       <link>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</link>
-      <description><![CDATA[周五，英特尔股价下跌超过 12%，此前悲观的预测表明人工智能的繁荣正在将企业支出从其传统数据中心芯片上转移。]]></description>
+      <description><![CDATA[英特尔股价周五下跌超过 12%，此前悲观的预测表明人工智能的繁荣正在将企业支出从其传统数据中心芯片上转移。]]></description>
       <guid>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:53:09 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>雪佛龙第一季度利润好于石油产量增长</title>
       <link>https://www.reuters.com/markets/commodities/chevron-reports-q1-profit-beat-2024-04-26/</link>
-      <description><![CDATA[石油巨头雪佛龙公司周五第一季度利润超出预期，因美国产量增加帮助抵消了天然气价格和燃料利润疲软的打击。]]></description>
+      <description><![CDATA[石油巨头雪佛龙公司周五公布第一季度利润超过预期，因为美国产量增加抵消了天然气价格和燃料利润率疲软带来的打击。]]></description>
       <guid>https://www.reuters.com/markets/commodities/chevron-reports-q1-profit-beat-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:23:05 GMT</pubDate>
     </item>
@@ -118,7 +118,7 @@
       <pubDate>Fri, 26 Apr 2024 10:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>洞察：为何比亚迪电动汽车出口售价是中国价格的两倍</title>
+      <title>洞察：为何比亚迪电动汽车出口价格是中国市场的两倍</title>
       <link>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</link>
       <description><![CDATA[美国和欧洲政界人士发出警告称，他们的国内汽车工业可能会被中国廉价电动汽车的浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</guid>
@@ -139,7 +139,7 @@
       <pubDate>Fri, 26 Apr 2024 04:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>解释者：绘制美联储经济数据流图</title>
+      <title>解释者：绘制美联储经济数据流图表</title>
       <link>https://www.reuters.com/markets/us/charting-feds-economic-data-flow-2024-04-05/</link>
       <description><![CDATA[美联储在 3 月 19 日至 20 日的政策会议上将基准隔夜利率稳定在 5.25%-5.50% 的范围内，官员们继续预计到 2024 年底将批准降息 3 个百分点。]]></description>
       <guid>https://www.reuters.com/markets/us/charting-feds-economic-data-flow-2024-04-05/</guid>
