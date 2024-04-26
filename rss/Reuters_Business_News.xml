@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 19:15:30 GMT</lastBuildDate>
+    <item>
+      <title>两位参议员希望美国命令特斯拉限制自动驾驶仪的使用</title>
+      <link>https://www.reuters.com/business/autos-transportation/two-senators-want-us-order-tesla-restrict-autopilot-use-2024-04-26/</link>
+      <description><![CDATA[周五，两名美国参议员敦促监管机构禁止特斯拉在非预期道路上使用驾驶员辅助系统 Autopilot。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/two-senators-want-us-order-tesla-restrict-autopilot-use-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 17:43:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧佩克秘书长在 MEES 文章中表示，“石油的终结尚未到来”</title>
+      <link>https://www.reuters.com/markets/commodities/end-oil-not-sight-opec-secretary-general-says-mees-article-2024-04-26/</link>
+      <description><![CDATA[欧佩克高级官员表示，石油的终结还没有到来，因为能源需求增长的速度意味着替代品无法在所需的规模上取代它，重点应该是减少排放而不是石油使用。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/end-oil-not-sight-opec-secretary-general-says-mees-article-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 17:39:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着天然气价格暴跌，大型石油公司的盈利出现下滑</title>
+      <link>https://www.reuters.com/markets/commodities/earnings-big-oil-backpaddle-natgas-prices-tumble-2024-04-26/</link>
+      <description><![CDATA[由于天然气价格较去年同期大幅下跌，美国和欧洲石油公司周五公布的第一季度业绩疲软。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/earnings-big-oil-backpaddle-natgas-prices-tumble-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 17:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃伦·巴菲特的房地产经纪公司达成 2.5 亿美元反垄断和解</title>
+      <link>https://www.reuters.com/legal/warren-buffetts-real-estate-brokerage-reaches-250-mln-antitrust-settlement-2024-04-26/</link>
+      <description><![CDATA[沃伦·巴菲特旗下的伯克希尔·哈撒韦公司旗下的一家房地产经纪公司周五表示，该公司已就全国反垄断诉讼达成 2.5 亿美元的和解协议，预计这将改变房地产经纪人的薪酬方式。]]></description>
+      <guid>https://www.reuters.com/legal/warren-buffetts-real-estate-brokerage-reaches-250-mln-antitrust-settlement-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 16:55:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>北京车展：外国汽车制造商渴望中国合作伙伴</title>
+      <link>https://www.reuters.com/business/autos-transportation/foreign-automakers-eager-chinese-partners-beijing-auto-show-2024-04-26/</link>
+      <description><![CDATA[包括大众和丰田在内的全球汽车制造商来到了今年的北京车展，希望赶上在全球最大汽车市场占据主导地位的崛起的中国电动汽车制造商。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/foreign-automakers-eager-chinese-partners-beijing-auto-show-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 16:49:10 GMT</pubDate>
+    </item>
     <item>
       <title>星巴克与美国工会举行合同谈判</title>
       <link>https://www.reuters.com/business/retail-consumer/starbucks-us-workers-union-meet-contract-negotiations-2024-04-26/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>保时捷公司公布第一季度利润因成本增加而下降</title>
       <link>https://www.reuters.com/business/autos-transportation/porsche-ag-posts-q1-profit-drop-ramp-up-costs-2024-04-26/</link>
-      <description><![CDATA[保时捷周五公布第一季度营业利润下降 30%，原因是这家德国豪华汽车制造商加大了投资，称今年是其历史上产品发布最多的一年。]]></description>
+      <description><![CDATA[保时捷周五报告称，第一季度营业利润下降了 30%，原因是这家德国豪华汽车制造商在今年推出了史上最大的产品发布年，因此加大了投资。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/porsche-ag-posts-q1-profit-drop-ramp-up-costs-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 15:34:22 GMT</pubDate>
     </item>
@@ -34,9 +69,9 @@
       <pubDate>Fri, 26 Apr 2024 14:05:03 GMT</pubDate>
     </item>
     <item>
-      <title>降息重新评估导致美国股票基金连续第四周资金流出</title>
+      <title>降息重新评估导致美国股票基金连续第四周出现资金流出</title>
       <link>https://www.reuters.com/markets/us/us-equity-funds-see-4th-straight-week-outflows-amid-rate-cut-reassessment-2024-04-26/</link>
-      <description><![CDATA[受今年降息预期减弱的影响，截至 4 月 24 日当周，美国股票基金连续第四周出现资金流出。]]></description>
+      <description><![CDATA[截至 4 月 24 日当周，受今年降息预期减弱的影响，美国股票基金连续第四周出现资金流出。]]></description>
       <guid>https://www.reuters.com/markets/us/us-equity-funds-see-4th-straight-week-outflows-amid-rate-cut-reassessment-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 13:40:42 GMT</pubDate>
     </item>
@@ -55,25 +90,11 @@
       <pubDate>Fri, 26 Apr 2024 12:50:35 GMT</pubDate>
     </item>
     <item>
-      <title>美国通胀上升符合预期；消费者支出强劲</title>
+      <title>美国通胀温和上升；消费者支出提振第二季度前景</title>
       <link>https://www.reuters.com/markets/us/us-inflation-rises-line-with-expectations-march-2024-04-26/</link>
-      <description><![CDATA[美国3月份月度通胀率温和上升，但住房和交通成本持续上涨表明美联储可能在一段时间内维持高利率。]]></description>
+      <description><![CDATA[美国3月份月度通胀温和上升，但住房和公用事业成本持续上涨表明美联储可能会在一段时间内维持高利率。]]></description>
       <guid>https://www.reuters.com/markets/us/us-inflation-rises-line-with-expectations-march-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 12:42:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>T Rowe 的季度利润超出市场上涨推动因素的预期</title>
-      <link>https://www.reuters.com/business/t-rowes-quarterly-profit-beats-estimates-tailwinds-market-rally-2024-04-26/</link>
-      <description><![CDATA[T Rowe Price 周五表示，由于市场回升提振了其管理的资产并缓解了资金外流的影响，该公司第一季度利润超出预期。]]></description>
-      <guid>https://www.reuters.com/business/t-rowes-quarterly-profit-beats-estimates-tailwinds-market-rally-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 12:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于美联储降息希望减弱，全球股票基金面临第四周资金流出</title>
-      <link>https://www.reuters.com/markets/global-markets-flows-2024-04-26/</link>
-      <description><![CDATA[截至4月24日，全球股票基金连续第四周录得资金流出，原因是美国通胀数据一系列高于预期，美联储今年快速降息的希望逐渐减弱。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-flows-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 11:47:05 GMT</pubDate>
     </item>
     <item>
       <title>制药商艾伯维 (AbbVie) 预计 Humira 销量下降将进一步恶化</title>
@@ -83,32 +104,11 @@
       <pubDate>Fri, 26 Apr 2024 11:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>第一季度业绩强劲后，高露洁棕榄提高销售增长目标</title>
-      <link>https://www.reuters.com/business/retail-consumer/colgate-palmolive-raises-sales-growth-target-after-strong-q1-results-2024-04-26/</link>
-      <description><![CDATA[牙膏制造商高露洁棕榄周五上调了年度有机销售增长预测，依靠其高价自我护理和宠物营养产品的强劲需求。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/colgate-palmolive-raises-sales-growth-target-after-strong-q1-results-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 11:42:23 GMT</pubDate>
-    </item>
-    <item>
       <title>芯片制造商英特尔因人工智能竞争影响预测而下跌</title>
       <link>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</link>
-      <description><![CDATA[英特尔股价周五下跌超过 12%，此前悲观的预测表明人工智能的繁荣正在将企业支出从其传统数据中心芯片上转移。]]></description>
+      <description><![CDATA[周五，英特尔股价下跌超过 12%，此前悲观的预测表明人工智能的繁荣正在将企业支出从其传统数据中心芯片上转移。]]></description>
       <guid>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管圭亚那大幅增长，埃克森美孚第一季度利润未达预期</title>
-      <link>https://www.reuters.com/markets/commodities/exxon-misses-q1-profit-despite-big-gains-guyana-2024-04-26/</link>
-      <description><![CDATA[埃克森美孚公司周五未达到分析师预期，第一季度利润同比下降 28%，原因是炼油利润疲软和天然气价格下跌抵消了销量增长。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/exxon-misses-q1-profit-despite-big-gains-guyana-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 10:38:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>雪佛龙第一季度利润好于石油产量增长</title>
-      <link>https://www.reuters.com/markets/commodities/chevron-reports-q1-profit-beat-2024-04-26/</link>
-      <description><![CDATA[石油巨头雪佛龙公司周五第一季度利润超出预期，因美国产量增加帮助抵消了天然气价格和燃料利润疲软的打击。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/chevron-reports-q1-profit-beat-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 10:23:05 GMT</pubDate>
     </item>
     <item>
       <title>随着大型科技公司收费上涨，华尔街上涨</title>
@@ -120,7 +120,7 @@
     <item>
       <title>洞察：为何比亚迪电动汽车出口售价是中国价格的两倍</title>
       <link>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</link>
-      <description><![CDATA[美国和欧洲政界人士警告称，他们的国内汽车工业可能会被中国廉价电动汽车浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
+      <description><![CDATA[美国和欧洲政界人士发出警告称，他们的国内汽车工业可能会被中国廉价电动汽车的浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:03:10 GMT</pubDate>
     </item>
@@ -132,18 +132,18 @@
       <pubDate>Fri, 26 Apr 2024 09:46:01 GMT</pubDate>
     </item>
     <item>
+      <title>随着美国通胀担忧加剧，投资者准备迎接 5% 的国债收益率</title>
+      <link>https://www.reuters.com/markets/us/investors-brace-5-treasury-yields-us-inflation-worries-mount-2024-04-26/</link>
+      <description><![CDATA[随着美国通胀担忧加剧，一些投资者正准备迎接10年期美国国债收益率突破去年10月创下的5%的16年高点。]]></description>
+      <guid>https://www.reuters.com/markets/us/investors-brace-5-treasury-yields-us-inflation-worries-mount-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 05:04:59 GMT</pubDate>
+    </item>
+    <item>
       <title>特斯拉的经济型汽车计划借鉴了底特律竞争对手的经验</title>
       <link>https://www.reuters.com/business/autos-transportation/teslas-plan-affordable-cars-takes-page-detroit-rivals-2024-04-26/</link>
       <description><![CDATA[正如一些特斯拉投资者和分析师所认为的那样，埃隆·马斯克的新计划是利用现有产品线作为新型经济型汽车的基础，而不是推出全新车型，这遵循了特斯拉底特律老牌竞争对手的做法。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/teslas-plan-affordable-cars-takes-page-detroit-rivals-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 04:08:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>解释者：绘制美联储经济数据流图</title>
-      <link>https://www.reuters.com/markets/us/charting-feds-economic-data-flow-2024-04-05/</link>
-      <description><![CDATA[美联储在 3 月 19 日至 20 日的政策会议上将基准隔夜利率稳定在 5.25%-5.50% 的范围内，官员们继续预计到 2024 年底将批准降息 3 个百分点。]]></description>
-      <guid>https://www.reuters.com/markets/us/charting-feds-economic-data-flow-2024-04-05/</guid>
-      <pubDate>Fri, 05 Apr 2024 17:33:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
