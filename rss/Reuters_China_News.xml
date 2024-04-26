@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 26 Apr 2024 06:43:23 GMT</lastBuildDate>
-    <item>
-      <title>中国干邑白兰地销量推动人头马君度第四季度销量创佳绩</title>
-      <link>https://www.reuters.com/business/retail-consumer/remy-cointreau-reports-better-than-expected-q4-sales-2024-04-26/</link>
-      <description><![CDATA[人头马君度周五公布第四季度销售额降幅远小于预期，称中国的“显着增长”帮助推动其干邑部门的业绩远高于分析师的预期。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/remy-cointreau-reports-better-than-expected-q4-sales-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>北京车展：主题与亮点</title>
-      <link>https://www.reuters.com/business/autos-transportation/beijing-auto-show-themes-highlights-2024-04-26/</link>
-      <description><![CDATA[中国最大的车展在北京开幕，各大品牌展示了他们最新的电动汽车（EV），突显出全球最大的汽车市场已经处于全电动状态，并且不会回头。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/beijing-auto-show-themes-highlights-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:07:23 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Apr 2024 06:58:44 GMT</lastBuildDate>
     <item>
       <title>香港3月房价上涨1.1% 近一年来首次上涨</title>
       <link>https://www.reuters.com/markets/asia/hong-kong-march-home-prices-up-11-first-rise-nearly-year-2024-04-26/</link>
@@ -29,7 +15,7 @@
     <item>
       <title>博世将在中国城市推出城市自动驾驶导航功能</title>
       <link>https://www.reuters.com/business/autos-transportation/bosch-launch-urban-navigate-on-autopilot-functions-chinese-cities-2024-04-26/</link>
-      <description><![CDATA[博世移动部门董事长马库斯·海恩 (Markus Heyn) 周五表示，博世 (ROBSCJ.UL) 将于 5 月通过其先进的驾驶辅助系统推出城市自动驾驶导航 (NOA) 功能。]]></description>
+      <description><![CDATA[博世移动部门董事长马库斯·海恩 (Markus Heyn) 周五表示，博世 (ROBSCJ.UL) 将于 5 月份通过其先进的驾驶辅助系统推出城市自动驾驶导航 (NOA) 功能。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/bosch-launch-urban-navigate-on-autopilot-functions-chinese-cities-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 03:18:26 GMT</pubDate>
     </item>
@@ -48,23 +34,23 @@
       <pubDate>Fri, 26 Apr 2024 01:58:51 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行维持利率不变，亚洲股市上涨，日元跌至 34 年来新低</title>
+      <title>日本央行维持利率不变，亚洲股市上涨，日元下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-26/</link>
-      <description><![CDATA[日本央行（BOJ）在为期两天的政策会议结束后维持宽松货币政策立场，周五交易波动较大，而亚洲股市在大盘中上涨。]]></description>
+      <description><![CDATA[日本央行（BOJ）在为期两天的政策会议结束后维持宽松的货币政策立场，周五交易波动较大，而亚洲股市则上涨。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 01:49:11 GMT</pubDate>
     </item>
     <item>
       <title>外交部长王告诉布林肯，美中关系中的“负面”因素正在形成</title>
       <link>https://www.reuters.com/world/blinken-meet-chinese-counterpart-wang-yi-beijing-2024-04-26/</link>
-      <description><![CDATA[中国外交部长王毅周五在与美国总统安东尼·布林肯会谈时表示，美国正在压制中国的发展。布林肯正在北京访问，旨在解决两个超级大国之间的贸易和政策分歧。]]></description>
+      <description><![CDATA[外交部长王毅周五在与美国外长安东尼·布林肯会谈时表示，美国正在打压中国的发展。布林肯正在北京访问，旨在解决超级大国之间的贸易和政策分歧。]]></description>
       <guid>https://www.reuters.com/world/blinken-meet-chinese-counterpart-wang-yi-beijing-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 00:39:58 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行维持利率不变，日元跌至34年新低</title>
+      <title>日本央行维持利率不变 日元跌至34年新低</title>
       <link>https://www.reuters.com/markets/currencies/yen-its-weakest-decades-boj-meets-2024-04-26/</link>
-      <description><![CDATA[日本央行周五维持利率不变后，日元兑美元汇率触及三十年来的最低水平，令交易员对官方干预的风险感到紧张。]]></description>
+      <description><![CDATA[日本央行周五维持利率不变后，日元兑美元汇率跌至三十年来的最低水平，这让交易员对东京当局何时以及何种程度可能进行干预感到紧张。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-its-weakest-decades-boj-meets-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 00:23:42 GMT</pubDate>
     </item>
@@ -83,14 +69,14 @@
       <pubDate>Thu, 25 Apr 2024 21:47:38 GMT</pubDate>
     </item>
     <item>
-      <title>北约称，如果中国寻求与西方建立良好关系，就必须停止援助俄罗斯</title>
+      <title>北约称，如果俄罗斯寻求与西方建立良好关系，中国必须停止援助俄罗斯</title>
       <link>https://www.reuters.com/world/china-must-stop-aiding-russia-if-it-seeks-good-relations-with-west-nato-says-2024-04-25/</link>
       <description><![CDATA[北约秘书长延斯·斯托尔滕贝格周四表示，如果中国想与西方保持良好关系，就必须停止支持俄罗斯在乌克兰的战争，并以异常严厉的措辞警告北京，不能两者兼得。]]></description>
       <guid>https://www.reuters.com/world/china-must-stop-aiding-russia-if-it-seeks-good-relations-with-west-nato-says-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 18:36:51 GMT</pubDate>
     </item>
     <item>
-      <title>由于价格高企，全球葡萄酒需求跌至27年来的最低点</title>
+      <title>价格高企导致全球葡萄酒需求降至 27 年来最低水平</title>
       <link>https://www.reuters.com/markets/commodities/global-wine-demand-drops-27-year-low-high-prices-hit-2024-04-25/</link>
       <description><![CDATA[国际葡萄与葡萄酒组织 (OIV) 周四表示，由于通货膨胀导致价格创历史新高，导致本已面临消费能力下降的消费者望而却步，全球葡萄酒消费量去年跌至 1996 年以来的最低水平。]]></description>
       <guid>https://www.reuters.com/markets/commodities/global-wine-demand-drops-27-year-low-high-prices-hit-2024-04-25/</guid>
@@ -125,6 +111,20 @@
       <pubDate>Thu, 25 Apr 2024 15:14:27 GMT</pubDate>
     </item>
     <item>
+      <title>俄罗斯称波兰讨论拥有美国核武器是危险的</title>
+      <link>https://www.reuters.com/world/europe/russia-says-polish-discussion-hosting-us-nuclear-weapons-is-dangerous-2024-04-25/</link>
+      <description><![CDATA[俄罗斯周四表示，波兰考虑拥有美国核武器的可能性正在玩一场“非常危险的游戏”。]]></description>
+      <guid>https://www.reuters.com/world/europe/russia-says-polish-discussion-hosting-us-nuclear-weapons-is-dangerous-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 15:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国在逮捕间谍后召见德国大使</title>
+      <link>https://www.reuters.com/world/europe/china-summons-german-ambassador-after-spying-arrests-2024-04-25/</link>
+      <description><![CDATA[德国外交部发言人告诉路透社，北京周四召见了德国驻华大使，以回应德国境内因涉嫌中国间谍活动而逮捕的几人。]]></description>
+      <guid>https://www.reuters.com/world/europe/china-summons-german-ambassador-after-spying-arrests-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 14:49:44 GMT</pubDate>
+    </item>
+    <item>
       <title>耶伦称美国经济强劲，应对中国产能过剩有所有选择</title>
       <link>https://www.reuters.com/markets/us/yellen-says-economy-performing-well-inflation-will-ebb-2024-04-25/</link>
       <description><![CDATA[美国财长耶伦周四对路透社表示，美国经济增长可能强于第一季度产出数据弱于预期的数据，并表示拜登政府将保留所有选择，以应对中国工业产能过剩的威胁。]]></description>
@@ -132,16 +132,16 @@
       <pubDate>Thu, 25 Apr 2024 14:22:24 GMT</pubDate>
     </item>
     <item>
-      <title>台湾对美国援助方案感到满意，中国反对军售</title>
+      <title>台湾对美国援助计划感到满意，中国反对出售武器</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-happy-with-us-aid-package-china-objects-arms-sales-2024-04-24/</link>
-      <description><![CDATA[台湾总统蔡英文周三表示，她很高兴美国国会通过了一项全面的对外援助计划，其中包括对台湾的武器支持，而中国则敦促华盛顿停止向台北出售武器。]]></description>
+      <description><![CDATA[台湾总统蔡英文周三表示，她很高兴美国国会通过了包括对台武器援助在内的全面外援计划，中国敦促华盛顿停止向台北出售武器。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-happy-with-us-aid-package-china-objects-arms-sales-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 06:28:27 GMT</pubDate>
     </item>
     <item>
       <title>布林肯开始访华后，美中关系有所改善，但分歧仍很严重</title>
       <link>https://www.reuters.com/world/better-us-china-ties-still-deep-disagreements-blinken-starts-visit-2024-04-24/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周三抵达上海，美中关系基础更加稳定，但一系列令人畏惧的未解决问题威胁着全球竞争对手之间关系的稳定。]]></description>
+      <description><![CDATA[美国国务卿安东尼·布林肯周三抵达上海，美中关系的基础更加稳定，但一系列令人畏惧的未解决问题威胁着全球竞争对手之间关系的稳定。]]></description>
       <guid>https://www.reuters.com/world/better-us-china-ties-still-deep-disagreements-blinken-starts-visit-2024-04-24/</guid>
       <pubDate>Wed, 24 Apr 2024 05:04:44 GMT</pubDate>
     </item>
