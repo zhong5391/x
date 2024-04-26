@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 21:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 21:29:07 GMT</lastBuildDate>
     <item>
       <title>两位参议员希望美国命令特斯拉限制自动驾驶仪的使用</title>
       <link>https://www.reuters.com/business/autos-transportation/two-senators-want-us-order-tesla-restrict-autopilot-use-2024-04-26/</link>
-      <description><![CDATA[周五，两名美国参议员敦促监管机构禁止特斯拉在非预期道路上使用驾驶员辅助系统 Autopilot。]]></description>
+      <description><![CDATA[两名美国参议员周五敦促监管机构禁止特斯拉在非预期道路上使用驾驶员辅助系统 Autopilot。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/two-senators-want-us-order-tesla-restrict-autopilot-use-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 17:43:34 GMT</pubDate>
     </item>
@@ -104,9 +104,9 @@
       <pubDate>Fri, 26 Apr 2024 11:44:42 GMT</pubDate>
     </item>
     <item>
-      <title>芯片制造商英特尔因人工智能竞争影响预测而下跌</title>
+      <title>人工智能竞争影响芯片制造商英特尔的预测</title>
       <link>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</link>
-      <description><![CDATA[周五，英特尔股价下跌超过 12%，此前悲观的预测表明人工智能的繁荣正在将企业支出从其传统数据中心芯片上转移。]]></description>
+      <description><![CDATA[英特尔股价周五下跌超过 12%，此前悲观的预测表明人工智能的繁荣正在将企业支出从其传统数据中心芯片上转移。]]></description>
       <guid>https://www.reuters.com/technology/intel-falls-weak-pc-chip-demand-hurts-second-quarter-forecast-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:53:09 GMT</pubDate>
     </item>
@@ -127,19 +127,19 @@
     <item>
       <title>美国调查特斯拉因 Autopilot 召回 200 万辆汽车</title>
       <link>https://www.reuters.com/business/autos-transportation/us-probes-tesla-recall-2-million-vehicles-over-autopilot-citing-concerns-2024-04-26/</link>
-      <description><![CDATA[美国汽车安全监管机构周五表示，他们已开始调查特斯拉去年 12 月宣布召回 200 多万辆汽车以安装新的 Autopilot 安全措施是否充分。]]></description>
+      <description><![CDATA[美国汽车安全监管机构周五表示，他们已开始调查特斯拉去年 12 月宣布召回超过 200 万辆汽车以安装新的 Autopilot 防护措施是否充分。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-probes-tesla-recall-2-million-vehicles-over-autopilot-citing-concerns-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 09:46:01 GMT</pubDate>
     </item>
     <item>
       <title>随着美国通胀担忧加剧，投资者准备迎接 5% 的国债收益率</title>
       <link>https://www.reuters.com/markets/us/investors-brace-5-treasury-yields-us-inflation-worries-mount-2024-04-26/</link>
-      <description><![CDATA[随着美国通胀担忧加剧，一些投资者正准备迎接10年期美国国债收益率突破去年10月创下的5%的16年高点。]]></description>
+      <description><![CDATA[随着美国通胀担忧加剧，一些投资者正在为10年期美国国债收益率突破去年10月创下的5%的16年高点做准备。]]></description>
       <guid>https://www.reuters.com/markets/us/investors-brace-5-treasury-yields-us-inflation-worries-mount-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 05:04:59 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉的经济型汽车计划借鉴了底特律竞争对手的经验</title>
+      <title>特斯拉平价汽车计划借鉴底特律竞争对手的做法</title>
       <link>https://www.reuters.com/business/autos-transportation/teslas-plan-affordable-cars-takes-page-detroit-rivals-2024-04-26/</link>
       <description><![CDATA[正如一些特斯拉投资者和分析师所认为的那样，埃隆·马斯克的新计划是利用现有产品线作为新型经济型汽车的基础，而不是推出全新车型，这遵循了特斯拉底特律老牌竞争对手的做法。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/teslas-plan-affordable-cars-takes-page-detroit-rivals-2024-04-26/</guid>
