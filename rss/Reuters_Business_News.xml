@@ -1,100 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 06:28:13 GMT</lastBuildDate>
-    <item>
-      <title>即使市场正常化，大众卡车品牌 Traton 的销量仍实现增长</title>
-      <link>https://www.reuters.com/business/autos-transportation/vws-trucks-arm-traton-posts-higher-sales-even-markets-normalise-2024-04-26/</link>
-      <description><![CDATA[大众汽车旗下卡车子公司 Traton 周五报告称，第一季度销售收入增长 5%，理由是有利的产品和市场组合以及单价实现的改善。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/vws-trucks-arm-traton-posts-higher-sales-even-markets-normalise-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 06:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>机场运营商 ADP 第一季度收入超出客流量增长预期</title>
-      <link>https://www.reuters.com/business/airport-operator-adp-q1-revenue-beats-expectations-traffic-growth-2024-04-26/</link>
-      <description><![CDATA[法国机场集团 ADP 周五公布，第一季度收入增长 10%，好于分析师预期，理由是客流量增长以及巴黎零售活动的良好表现。]]></description>
-      <guid>https://www.reuters.com/business/airport-operator-adp-q1-revenue-beats-expectations-traffic-growth-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>国防装备制造商萨博在第一季度利润大幅增长后上调销售前景</title>
-      <link>https://www.reuters.com/business/aerospace-defense/defence-gear-maker-saabs-q1-operating-profit-rises-28-2024-04-26/</link>
-      <description><![CDATA[瑞典国防设备制造商萨博 (Saab) 周五公布第一季度营业利润增长 28%，并上调了全年有机销售增长预期。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/defence-gear-maker-saabs-q1-operating-profit-rises-28-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国干邑白兰地销量推动人头马君度第四季度销量创佳绩</title>
-      <link>https://www.reuters.com/business/retail-consumer/remy-cointreau-reports-better-than-expected-q4-sales-2024-04-26/</link>
-      <description><![CDATA[人头马君度周五公布第四季度销售额降幅远小于预期，称中国的“显着增长”帮助推动其干邑部门的业绩远高于分析师的预期。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/remy-cointreau-reports-better-than-expected-q4-sales-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>北京车展：主题与亮点</title>
-      <link>https://www.reuters.com/business/autos-transportation/beijing-auto-show-themes-highlights-2024-04-26/</link>
-      <description><![CDATA[中国最大的车展在北京开幕，各大品牌展示了他们最新的电动汽车（EV），突显出全球最大的汽车市场已经处于全电动状态，并且不会回头。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/beijing-auto-show-themes-highlights-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着美国通胀担忧加剧，投资者准备迎接 5% 的国债收益率</title>
-      <link>https://www.reuters.com/markets/us/investors-brace-5-treasury-yields-us-inflation-worries-mount-2024-04-26/</link>
-      <description><![CDATA[随着美国通胀担忧加剧，一些投资者正准备迎接10年期美国国债收益率突破去年10月创下的5%的16年高点。]]></description>
-      <guid>https://www.reuters.com/markets/us/investors-brace-5-treasury-yields-us-inflation-worries-mount-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>赛峰集团第一季度收入增加，保持财务目标</title>
-      <link>https://www.reuters.com/business/aerospace-defense/safran-posts-higher-q1-revenue-keeps-financial-targets-2024-04-26/</link>
-      <description><![CDATA[法国喷气发动机制造商赛峰集团公布第一季度收入同比增长18.1%，并重申了今年的财务目标，同时与美国合作伙伴通用电气航空航天公司一起降低了发动机交付目标。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/safran-posts-higher-q1-revenue-keeps-financial-targets-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>东方汇理第一季度资金流入超出亚洲合资企业贡献预期</title>
-      <link>https://www.reuters.com/business/finance/amundis-q1-inflows-beat-expectations-asian-jv-contribution-2024-04-26/</link>
-      <description><![CDATA[欧洲最大的基金管理公司东方汇理银行（Amundi）周五公布第一季度资金流入好于预期，这得益于其在亚洲的合资企业以及对风险规避产品的持续需求，这支撑了其管理资产的年增长率为 9.4%。]]></description>
-      <guid>https://www.reuters.com/business/finance/amundis-q1-inflows-beat-expectations-asian-jv-contribution-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>越南推迟推出新股票交易系统</title>
-      <link>https://www.reuters.com/markets/asia/vietnam-delays-launch-new-stock-trading-system-2024-04-26/</link>
-      <description><![CDATA[越南国家证券委员会（SSC）表示，越南将推迟最初定于下周推出的万众期待的新股票交易系统。]]></description>
-      <guid>https://www.reuters.com/markets/asia/vietnam-delays-launch-new-stock-trading-system-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 04:40:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于与 NewJeans 品牌的纠纷持续不断，韩国流行音乐巨头 HYBE 股价再次遭受打击</title>
-      <link>https://www.reuters.com/business/media-telecom/k-pop-giant-hybe-shares-take-another-hit-dispute-with-newjeans-label-drags-2024-04-26/</link>
-      <description><![CDATA[一位韩国音乐高管否认了有关她试图将自己的品牌从全球轰动的防弹少年团 (BTS) 所在地 HYBE 中剥离出来的指控，导致这家韩国流行音乐巨头的股价周五暴跌。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/k-pop-giant-hybe-shares-take-another-hit-dispute-with-newjeans-label-drags-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 04:36:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：解读日本央行的茶叶</title>
-      <link>https://www.reuters.com/markets/global-markets-view-europe-2024-04-26/</link>
-      <description><![CDATA[Rae Wee 对欧洲和全球市场未来一天的展望]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-view-europe-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 04:35:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉的经济型汽车计划借鉴了底特律竞争对手的经验</title>
-      <link>https://www.reuters.com/business/autos-transportation/teslas-plan-affordable-cars-takes-page-detroit-rivals-2024-04-26/</link>
-      <description><![CDATA[正如一些特斯拉投资者和分析师所认为的那样，埃隆·马斯克的新计划是利用现有产品线作为新型经济型汽车的基础，而不是推出全新车型，这遵循了特斯拉底特律老牌竞争对手的做法。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/teslas-plan-affordable-cars-takes-page-detroit-rivals-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 04:08:36 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 26 Apr 2024 06:43:17 GMT</lastBuildDate>
     <item>
       <title>美国证券交易委员会 (SEC) 文件显示，前高管巴格利诺出售了价值 1.815 亿美元的特斯拉股票</title>
       <link>https://www.reuters.com/business/autos-transportation/former-exec-baglino-sells-tesla-shares-worth-1815-mln-sec-filing-shows-2024-04-26/</link>
       <description><![CDATA[根据周四向 SEC 提交的文件，特斯拉前高管德鲁·巴格利诺 (Drew Baglino) 已出售这家全球顶级电动汽车制造商价值约 1.815 亿美元的股票。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/former-exec-baglino-sells-tesla-shares-worth-1815-mln-sec-filing-shows-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 04:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行维持利率稳定，调整日本国债购买计划</title>
+      <link>https://www.reuters.com/markets/asia/bank-japan-keeps-rates-steady-tweaks-jgb-buying-plan-2024-04-26/</link>
+      <description><![CDATA[日本央行周五保持短期利率稳定，同时取消了对其每月大致承诺购买的政府债券数量的提及。]]></description>
+      <guid>https://www.reuters.com/markets/asia/bank-japan-keeps-rates-steady-tweaks-jgb-buying-plan-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 03:59:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>香港3月房价上涨1.1% 近一年来首次上涨</title>
+      <link>https://www.reuters.com/markets/asia/hong-kong-march-home-prices-up-11-first-rise-nearly-year-2024-04-26/</link>
+      <description><![CDATA[在金融城市取消限制以提振疲弱的房地产市场后，香港私人住宅价格在3月份扭转了连续10个月的下跌趋势，较2月份上涨1.1%。]]></description>
+      <guid>https://www.reuters.com/markets/asia/hong-kong-march-home-prices-up-11-first-rise-nearly-year-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 03:51:35 GMT</pubDate>
     </item>
     <item>
       <title>日本央行维持利率稳定，预计未来几年通胀率保持在 2% 附近</title>
@@ -104,11 +34,39 @@
       <pubDate>Fri, 26 Apr 2024 03:35:03 GMT</pubDate>
     </item>
     <item>
-      <title>日本央行维持利率不变，亚洲股市上涨，日元跌至 34 年来新低</title>
+      <title>北京市将补贴国产人工智能芯片 目标到2027年实现自力更生</title>
+      <link>https://www.reuters.com/technology/beijing-city-subsidise-domestic-ai-chips-targets-self-reliance-by-2027-2024-04-26/</link>
+      <description><![CDATA[随着中国寻求发展半导体产业并减少对外国技术的依赖，北京市当局宣布对购买国产人工智能（AI）芯片的企业提供补贴。]]></description>
+      <guid>https://www.reuters.com/technology/beijing-city-subsidise-domestic-ai-chips-targets-self-reliance-by-2027-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 01:58:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行维持利率不变，亚洲股市上涨，日元下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-26/</link>
-      <description><![CDATA[日本央行（BOJ）在为期两天的政策会议结束后维持宽松货币政策立场，周五交易波动较大，而亚洲股市在大盘中上涨。]]></description>
+      <description><![CDATA[日本央行（BOJ）在为期两天的政策会议结束后维持宽松的货币政策立场，周五交易波动较大，而亚洲股市则上涨。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 01:49:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>惠誉表示，韩国的公共财政不再是信用评级的“优势”</title>
+      <link>https://www.reuters.com/markets/asia/south-koreas-public-finances-no-longer-credit-rating-strength-fitch-says-2024-04-26/</link>
+      <description><![CDATA[全球评级机构惠誉表示，韩国的公共财政不再是其主权信用评级的优势，而是一个中性因素，需要近期努力遏制债务上升。]]></description>
+      <guid>https://www.reuters.com/markets/asia/south-koreas-public-finances-no-longer-credit-rating-strength-fitch-says-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 00:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>油价有望结束连续两周下跌</title>
+      <link>https://www.reuters.com/markets/commodities/oil-prices-rise-us-official-eases-market-concerns-over-economic-headwinds-2024-04-26/</link>
+      <description><![CDATA[油价周五上涨，在连续两周下跌后，本周有望收高，此前美国高级官员对经济增长表示乐观，而且中东冲突导致供应担忧挥之不去。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/oil-prices-rise-us-official-eases-market-concerns-over-economic-headwinds-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 00:25:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>日本央行维持利率不变 日元跌至34年新低</title>
+      <link>https://www.reuters.com/markets/currencies/yen-its-weakest-decades-boj-meets-2024-04-26/</link>
+      <description><![CDATA[日本央行周五维持利率不变后，日元兑美元汇率跌至三十年来的最低水平，这让交易员对东京当局何时以及何种程度可能进行干预感到紧张。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/yen-its-weakest-decades-boj-meets-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 00:23:42 GMT</pubDate>
     </item>
     <item>
       <title>路透调查显示全球经济今年剩余时间将保持增长</title>
@@ -118,7 +76,28 @@
       <pubDate>Fri, 26 Apr 2024 00:22:07 GMT</pubDate>
     </item>
     <item>
-      <title>沃尔玛任职时间最长的董事罗布·沃尔顿将从董事会退休</title>
+      <title>芬明表示，日本担心日元疲软的负面影响</title>
+      <link>https://www.reuters.com/markets/currencies/japan-is-concerned-about-weak-yens-negative-effects-finmin-says-2024-04-26/</link>
+      <description><![CDATA[日本财务大臣铃木俊一周五表示，日本担心日元疲软的负面影响，对投机者发出新的警告，因为日元继续跌至三十多年前的低点。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/japan-is-concerned-about-weak-yens-negative-effects-finmin-says-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 00:18:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>必和必拓股价因价值担忧而下跌 390 亿美元收购英美资源集团</title>
+      <link>https://www.reuters.com/markets/commodities/bhp-shares-fall-36-after-making-39-bln-bid-rival-anglo-american-2024-04-26/</link>
+      <description><![CDATA[必和必拓集团股价周五下跌 4%，此前该集团宣布以 388 亿美元收购英美资源集团，原因是投资者担心该交易可能会侵蚀必和必拓的盈利能力，尤其是在必须提高报价的情况下。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/bhp-shares-fall-36-after-making-39-bln-bid-rival-anglo-american-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 00:08:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：日本央行成为焦点，美国科技股提供支持</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-25/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 21:47:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃尔玛任职时间最长的董事罗伯·沃尔顿将从董事会退休</title>
       <link>https://www.reuters.com/business/retail-consumer/walmart-ex-chairman-rob-walton-retire-board-2024-04-25/</link>
       <description><![CDATA[沃尔玛周四表示，董事会任职时间最长的成员、创始人山姆·沃尔顿 (Sam Walton) 的长子罗布·沃尔顿 (Rob Walton) 将于 6 月 5 日任期结束时从这家大型零售商的职位上退休。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/walmart-ex-chairman-rob-walton-retire-board-2024-04-25/</guid>
@@ -144,6 +123,27 @@
       <description><![CDATA[周四，在云服务采用人工智能带来的收益推动下，微软第三季度营收和利润超出了华尔街预期，该公司股价在盘后交易中上涨逾 4%。]]></description>
       <guid>https://www.reuters.com/technology/microsoft-beats-quarterly-revenue-estimates-2024-04-25/</guid>
       <pubDate>Thu, 25 Apr 2024 20:05:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：消息人士称，如果法律选择失败，字节跳动更愿意在美国关闭 TikTok</title>
+      <link>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</link>
+      <description><![CDATA[四名消息人士称，如果 TikTok 的所有者字节跳动用尽所有法律选择来对抗禁止该平台进入美国应用商店的立法，那么这家中国公司宁愿关闭其亏损的应用程序，也不愿出售它。]]></description>
+      <guid>https://www.reuters.com/technology/bytedance-prefers-tiktok-shutdown-us-if-legal-options-fail-sources-say-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 16:36:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一季度进口抑制美国经济，通胀加剧</title>
+      <link>https://www.reuters.com/markets/us/us-economic-growth-slows-more-than-expected-first-quarter-2024-04-25/</link>
+      <description><![CDATA[由于进口激增和企业未售出商品小幅增加，美国经济第一季度增长速度为近两年来最慢，需求强劲的迹象加上通胀加速加剧了美联储不会采取行动的预期。 9月前降息。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-economic-growth-slows-more-than-expected-first-quarter-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 12:37:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>GDP增长疲软蔓延降息阴霾，华尔街股市下跌</title>
+      <link>https://www.reuters.com/markets/us/futures-falter-meta-platforms-weighs-megacaps-2024-04-25/</link>
+      <description><![CDATA[华尔街股市周四收低，因数据显示美国经济增长慢于预期和持续通胀，加上元平台令人失望的业绩引发大盘股抛售，令市场震惊。]]></description>
+      <guid>https://www.reuters.com/markets/us/futures-falter-meta-platforms-weighs-megacaps-2024-04-25/</guid>
+      <pubDate>Thu, 25 Apr 2024 10:06:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
