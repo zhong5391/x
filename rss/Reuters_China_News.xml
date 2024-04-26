@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 26 Apr 2024 14:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:20:02 GMT</lastBuildDate>
+    <item>
+      <title>雷诺与中国理想汽车和小米就技术合作进行谈判</title>
+      <link>https://www.reuters.com/business/autos-transportation/renault-talks-chinas-li-auto-xiaomi-tech-collaboration-2024-04-26/</link>
+      <description><![CDATA[这家法国汽车制造商周五表示，雷诺本周与中国理想汽车和小米就电动和智能汽车技术进行了会谈，为与两家公司在技术方面的潜在合作打开了大门。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/renault-talks-chinas-li-auto-xiaomi-tech-collaboration-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 14:05:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>世贸组织成员国重启争端改革谈判</title>
+      <link>https://www.reuters.com/world/wto-countries-reboot-dispute-reform-negotiations-2024-04-26/</link>
+      <description><![CDATA[周五的一份文件显示，世界贸易组织成员国在克服了选择首席谈判代表的困难后，将在今年年底前恢复陷入僵局的争端解决体系谈判。]]></description>
+      <guid>https://www.reuters.com/world/wto-countries-reboot-dispute-reform-negotiations-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 13:27:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>越南国会主席因政治动荡加剧而辞职</title>
+      <link>https://www.reuters.com/world/asia-pacific/vietnam-parliament-chief-quits-amid-deepening-political-turbulence-2024-04-26/</link>
+      <description><![CDATA[执政的共产党周五表示，越南国会主席王廷惠因未具体说明的“违规行为和缺点”而辞职，这是该国主席被解职几周后政治动荡的新迹象。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/vietnam-parliament-chief-quits-amid-deepening-political-turbulence-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 12:31:15 GMT</pubDate>
+    </item>
     <item>
       <title>独家：消息人士称，阿联酋计划建造第二座核电站</title>
       <link>https://www.reuters.com/business/energy/uae-planning-second-nuclear-power-plant-sources-say-2024-04-26/</link>
-      <description><![CDATA[三名知情人士称，阿拉伯联合酋长国将很快招标建设一座新核电站，该核电站将使这个海湾小国的核反应堆数量增加一倍。]]></description>
+      <description><![CDATA[三位知情人士称，阿拉伯联合酋长国将很快招标建设一座新核电站，该核电站将使这个海湾小国的核反应堆数量增加一倍。]]></description>
       <guid>https://www.reuters.com/business/energy/uae-planning-second-nuclear-power-plant-sources-say-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 11:37:44 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>洞察：为何比亚迪电动汽车出口售价是中国价格的两倍</title>
       <link>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</link>
-      <description><![CDATA[美国和欧洲政界人士警告称，他们的国内汽车工业可能会被中国廉价电动汽车浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
+      <description><![CDATA[美国和欧洲政界人士发出警告称，他们的国内汽车工业可能会被中国廉价电动汽车的浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:03:10 GMT</pubDate>
     </item>
@@ -76,9 +97,9 @@
       <pubDate>Fri, 26 Apr 2024 08:57:52 GMT</pubDate>
     </item>
     <item>
-      <title>斯里兰卡将把中国建设的机场管理权交给印度和俄罗斯公司</title>
+      <title>斯里兰卡将把中国建造的机场管理权交给印度和俄罗斯公司</title>
       <link>https://www.reuters.com/world/sri-lanka-hand-management-china-built-airport-india-russia-companies-2024-04-26/</link>
-      <description><![CDATA[周五内阁声明称，斯里兰卡将把中国耗资 2.09 亿美元建造的机场的管理权移交给两家印度和俄罗斯公司，该岛国试图减少国有企业的损失。]]></description>
+      <description><![CDATA[周五一份内阁声明称，斯里兰卡将把中国耗资 2.09 亿美元建造的机场的管理权移交给两家印度和俄罗斯公司，该岛国试图减少国有企业的损失。]]></description>
       <guid>https://www.reuters.com/world/sri-lanka-hand-management-china-built-airport-india-russia-companies-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 08:36:44 GMT</pubDate>
     </item>
@@ -92,7 +113,7 @@
     <item>
       <title>独家：碧桂园计划下半年提出债务重组计划</title>
       <link>https://www.reuters.com/world/china/country-garden-plans-present-debt-revamp-plan-second-half-sources-say-2024-04-26/</link>
-      <description><![CDATA[两名消息人士称，碧桂园已告知其一些海外债权人，计划在今年下半年提出债务重组提案，因为这家陷入困境的开发商正在努力避免清算申请。]]></description>
+      <description><![CDATA[两位消息人士称，碧桂园已告知部分境外债权人，计划在今年下半年提出一项债务重组方案，目前这家陷入困境的开发商正努力避免清算申请。]]></description>
       <guid>https://www.reuters.com/world/china/country-garden-plans-present-debt-revamp-plan-second-half-sources-say-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 07:05:46 GMT</pubDate>
     </item>
@@ -104,28 +125,7 @@
       <pubDate>Fri, 26 Apr 2024 05:33:25 GMT</pubDate>
     </item>
     <item>
-      <title>北京车展：主题与亮点</title>
-      <link>https://www.reuters.com/business/autos-transportation/beijing-auto-show-themes-highlights-2024-04-26/</link>
-      <description><![CDATA[中国最大的车展在北京开幕，各大品牌展示了他们最新的电动汽车（EV），突显出全球最大的汽车市场已经处于全电动状态，并且不会回头。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/beijing-auto-show-themes-highlights-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>香港3月房价上涨1.1% 近一年来首次上涨</title>
-      <link>https://www.reuters.com/markets/asia/hong-kong-march-home-prices-up-11-first-rise-nearly-year-2024-04-26/</link>
-      <description><![CDATA[在金融城市取消限制以提振疲弱的房地产市场后，香港私人住宅价格在3月份扭转了连续10个月的下跌趋势，较2月份上涨1.1%。]]></description>
-      <guid>https://www.reuters.com/markets/asia/hong-kong-march-home-prices-up-11-first-rise-nearly-year-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 03:51:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>博世将在中国城市推出城市自动驾驶导航功能</title>
-      <link>https://www.reuters.com/business/autos-transportation/bosch-launch-urban-navigate-on-autopilot-functions-chinese-cities-2024-04-26/</link>
-      <description><![CDATA[博世移动部门董事长马库斯·海恩 (Markus Heyn) 周五表示，博世 (ROBSCJ.UL) 将于 5 月份通过其先进的驾驶辅助系统推出城市自动驾驶导航 (NOA) 功能。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/bosch-launch-urban-navigate-on-autopilot-functions-chinese-cities-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 03:18:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>台湾对美国援助方案感到满意，中国反对军售</title>
+      <title>台湾对美国援助计划感到满意，中国反对出售武器</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-happy-with-us-aid-package-china-objects-arms-sales-2024-04-24/</link>
       <description><![CDATA[台湾总统蔡英文周三表示，她很高兴美国国会通过了一项全面的对外援助计划，其中包括对台湾的武器支持，而中国则敦促华盛顿停止向台北出售武器。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-happy-with-us-aid-package-china-objects-arms-sales-2024-04-24/</guid>
@@ -139,9 +139,9 @@
       <pubDate>Wed, 24 Apr 2024 05:04:44 GMT</pubDate>
     </item>
     <item>
-      <title>中国的 Shein 将面临欧盟更严格的网络规则</title>
+      <title>随着用户数量激增，Shein 受到严格的欧盟在线内容规则的约束</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/eu-approves-illuminas-plan-divest-cancer-test-maker-grail-2024-04-12/</link>
-      <description><![CDATA[欧盟在周五的一份声明中表示，在报告用户数量庞大后，欧盟将中国创办的快时尚公司 Shein 指定为超大型在线平台（VLOP）。]]></description>
+      <description><![CDATA[欧盟委员会周五表示，中国创立的快时尚公司 Shein 将不得不遵守欧盟严格的新在线内容规则，因为其用户数量飙升至超过关键基准，与其他数十家已受规则约束的大型科技公司一样。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/eu-approves-illuminas-plan-divest-cancer-test-maker-grail-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 09:50:18 GMT</pubDate>
     </item>
