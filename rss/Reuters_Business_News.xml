@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 02:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 02:33:59 GMT</lastBuildDate>
     <item>
       <title>麦肯锡前合伙人起诉公司，声称他成为阿片类药物的“替罪羊”</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/ex-mckinsey-partner-sues-firm-claims-he-was-made-opioids-scapegoat-2024-04-26/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>布林肯表示，美国的芯片禁令并不意味着阻碍中国的增长</title>
       <link>https://www.reuters.com/technology/us-chip-bans-not-meant-hobble-chinas-growth-blinken-says-2024-04-26/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周五接受全国公共广播电台采访时表示，美国对中国出口先进计算芯片的出口管制并不意味着阻碍中国经济或技术发展。]]></description>
+      <description><![CDATA[美国国务卿安东尼·布林肯周五在接受国家公共广播电台采访时表示，美国对向中国出口先进计算芯片的出口管制并不是为了阻碍中国的经济或技术发展。]]></description>
       <guid>https://www.reuters.com/technology/us-chip-bans-not-meant-hobble-chinas-growth-blinken-says-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 23:40:40 GMT</pubDate>
     </item>
@@ -92,7 +92,7 @@
     <item>
       <title>德意志银行将受到与邮政银行收购相关的法律条款的打击</title>
       <link>https://www.reuters.com/business/finance/deutsche-bank-be-hit-by-139-bln-legal-provision-related-postbank-takeover-2024-04-26/</link>
-      <description><![CDATA[德意志银行周五表示，预计该银行将在 2024 年第二季度受到一项法律规定的影响，此前科隆高等地区法院表示，该法院可能会认定与该部门收购有关的某些前邮政银行股东的索赔有效。]]></description>
+      <description><![CDATA[德意志银行周五表示，预计将在 2024 年第二季度受到一项法律条款的影响，此前科隆高等地区法院表示，可能会发现某些前邮政银行股东与该部门收购有关的索赔有效。]]></description>
       <guid>https://www.reuters.com/business/finance/deutsche-bank-be-hit-by-139-bln-legal-provision-related-postbank-takeover-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 20:21:17 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>谷歌请求法院驳回美国广告案</title>
       <link>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</link>
-      <description><![CDATA[Alphabet Inc 旗下谷歌周五请求弗吉尼亚州联邦法院驳回美国政府的一项诉讼，该诉讼指控该广告和搜索巨头在在线广告市场存在反竞争行为。]]></description>
+      <description><![CDATA[Alphabet Inc.旗下的谷歌周五要求弗吉尼亚州联邦法院驳回美国政府的一项诉讼，该诉讼指控这家广告和搜索巨头在在线广告市场上存在反竞争行为。]]></description>
       <guid>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:14:39 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Fri, 26 Apr 2024 12:42:15 GMT</pubDate>
     </item>
     <item>
-      <title>随着大型科技股上涨，华尔街股价收盘上涨</title>
+      <title>随着大型科技股上涨，华尔街股市收盘</title>
       <link>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</link>
       <description><![CDATA[美国股市周五收高，受科技巨头 Alphabet 和微软强劲季度业绩以及温和通胀数据推动，大型成长型股票上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</guid>
