@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 27 Apr 2024 05:58:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:26:07 GMT</lastBuildDate>
     <item>
-      <title>布林肯称美国芯片禁令并非旨在阻碍中国经济增长</title>
+      <title>菲律宾否认与中国就有争议的南海浅滩达成协议</title>
+      <link>https://www.reuters.com/world/asia-pacific/philippines-denies-deal-with-china-over-disputed-south-china-sea-shoal-2024-04-27/</link>
+      <description><![CDATA[周六，菲律宾否认了中国关于两国已就南海不断升级的海上争端达成协议的说法，称这一主张是宣传。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/philippines-denies-deal-with-china-over-disputed-south-china-sea-shoal-2024-04-27/</guid>
+      <pubDate>Sat, 27 Apr 2024 04:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国一季度工业利润增速引发经济复苏疑虑</title>
+      <link>https://www.reuters.com/world/china/chinas-first-quarter-industrial-profits-rise-slower-pace-2024-04-27/</link>
+      <description><![CDATA[周六官方数据显示，中国3月份工业利润下降，与前两个月相比，该季度涨幅放缓，引发了人们对世界第二大经济体复苏力度的怀疑。]]></description>
+      <guid>https://www.reuters.com/world/china/chinas-first-quarter-industrial-profits-rise-slower-pace-2024-04-27/</guid>
+      <pubDate>Sat, 27 Apr 2024 02:40:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>布林肯表示，美国的芯片禁令并不意味着阻碍中国的增长</title>
       <link>https://www.reuters.com/technology/us-chip-bans-not-meant-hobble-chinas-growth-blinken-says-2024-04-26/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周五在接受国家公共广播电台采访时表示，美国对向中国出口先进计算芯片的出口管制并不是为了阻碍中国的经济或技术发展。]]></description>
+      <description><![CDATA[美国国务卿安东尼·布林肯周五接受全国公共广播电台采访时表示，美国对中国出口先进计算芯片的出口管制并不意味着阻碍中国经济或技术发展。]]></description>
       <guid>https://www.reuters.com/technology/us-chip-bans-not-meant-hobble-chinas-growth-blinken-says-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 23:40:40 GMT</pubDate>
     </item>
     <item>
       <title>台湾再次发生地震，目前尚无受损报告</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-rattled-by-61-magnitude-quake-no-immediate-reports-damage-2024-04-26/</link>
-      <description><![CDATA[台湾气象局称，台湾东部花莲县周六发生两次地震，其中最大一次为 6.1 级，目前尚未收到受损情况报告。]]></description>
+      <description><![CDATA[台湾气象部门表示，台湾东部花莲县周六发生了两次地震，其中最大的一次为 6.1 级，目前还没有损失报告。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-rattled-by-61-magnitude-quake-no-immediate-reports-damage-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 18:38:53 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>布林肯与中国领导人会谈讨论的关键问题</title>
       <link>https://www.reuters.com/world/key-issues-discussed-by-blinken-talks-with-chinese-leaders-2024-04-26/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周五在北京会见了中国外长王毅和中国国家主席习近平，这是超级大国之间旨在控制紧张关系的最新高层接触。]]></description>
+      <description><![CDATA[美国国务卿安东尼·布林肯周五在北京会见了中国国家主席王毅和中国国家主席习近平，这是两个超级大国之间最新的高层接触，旨在管控紧张关系。]]></description>
       <guid>https://www.reuters.com/world/key-issues-discussed-by-blinken-talks-with-chinese-leaders-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 16:17:51 GMT</pubDate>
     </item>
@@ -92,7 +106,7 @@
     <item>
       <title>越南国会主席因政治动荡加剧而辞职</title>
       <link>https://www.reuters.com/world/asia-pacific/vietnam-parliament-chief-quits-amid-deepening-political-turbulence-2024-04-26/</link>
-      <description><![CDATA[执政的共产党周五表示，越南国会主席王廷惠因未具体说明的“违规行为和缺点”而辞职，这是该国主席被解职几周后政治动荡的新迹象。]]></description>
+      <description><![CDATA[执政的共产党周五表示，越南国会主席王廷惠因未具体说明的“违规行为和缺点”而辞职，这是该国国家主席被解职几周后政治动荡的新迹象。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/vietnam-parliament-chief-quits-amid-deepening-political-turbulence-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 12:31:15 GMT</pubDate>
     </item>
@@ -125,23 +139,9 @@
       <pubDate>Fri, 26 Apr 2024 10:15:41 GMT</pubDate>
     </item>
     <item>
-      <title>洞察：为何比亚迪电动汽车出口售价是中国价格的两倍</title>
-      <link>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</link>
-      <description><![CDATA[美国和欧洲政界人士发出警告称，他们的国内汽车工业可能会被中国廉价电动汽车的浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 10:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>台湾对美国援助计划感到满意，中国反对出售武器</title>
-      <link>https://www.reuters.com/world/asia-pacific/taiwan-happy-with-us-aid-package-china-objects-arms-sales-2024-04-24/</link>
-      <description><![CDATA[台湾总统蔡英文周三表示，她很高兴美国国会通过了一项全面的对外援助计划，其中包括对台湾的武器支持，而中国则敦促华盛顿停止向台北出售武器。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/taiwan-happy-with-us-aid-package-china-objects-arms-sales-2024-04-24/</guid>
-      <pubDate>Wed, 24 Apr 2024 06:28:27 GMT</pubDate>
-    </item>
-    <item>
       <title>随着用户数量激增，Shein 受到严格的欧盟在线内容规则的约束</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/eu-approves-illuminas-plan-divest-cancer-test-maker-grail-2024-04-12/</link>
-      <description><![CDATA[欧盟委员会周五表示，中国创立的快时尚公司 Shein 将不得不遵守欧盟严格的新在线内容规则，因为其用户数量飙升至超过关键基准，与其他数十家已受规则约束的大型科技公司一样。]]></description>
+      <description><![CDATA[欧盟委员会周五表示，中国创立的快时尚公司 Shein 在其用户数量飙升至关键基准之上后，将不得不遵守严格的欧盟新在线内容规则，与其他数十家已受规则约束的大型科技公司一样。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/eu-approves-illuminas-plan-divest-cancer-test-maker-grail-2024-04-12/</guid>
       <pubDate>Fri, 12 Apr 2024 09:50:18 GMT</pubDate>
     </item>
