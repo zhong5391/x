@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 01:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 02:14:59 GMT</lastBuildDate>
     <item>
-      <title>据《华尔街日报》报道，美国监管机构将接管共和第一银行</title>
+      <title>麦肯锡前合伙人起诉公司，声称他成为阿片类药物的“替罪羊”</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/ex-mckinsey-partner-sues-firm-claims-he-was-made-opioids-scapegoat-2024-04-26/</link>
+      <description><![CDATA[前麦肯锡公司联合合伙人周五起诉这家全球咨询公司，指控该公司诽谤他，并让他成为“替罪羊”，以分散人们对其为奥施康定制造商普渡制药和其他阿片类止痛药制造商提供咨询工作的注意力。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/ex-mckinsey-partner-sues-firm-claims-he-was-made-opioids-scapegoat-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 23:45:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>布林肯表示，美国的芯片禁令并不意味着阻碍中国的增长</title>
+      <link>https://www.reuters.com/technology/us-chip-bans-not-meant-hobble-chinas-growth-blinken-says-2024-04-26/</link>
+      <description><![CDATA[美国国务卿安东尼·布林肯周五接受全国公共广播电台采访时表示，美国对中国出口先进计算芯片的出口管制并不意味着阻碍中国经济或技术发展。]]></description>
+      <guid>https://www.reuters.com/technology/us-chip-bans-not-meant-hobble-chinas-growth-blinken-says-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 23:40:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>据彭博社报道，苹果与 OpenAI 就 iPhone 生成式人工智能功能重启谈判</title>
+      <link>https://www.reuters.com/technology/apple-renews-talks-with-openai-iphone-generative-ai-features-bloomberg-news-2024-04-26/</link>
+      <description><![CDATA[据彭博社周五报道，苹果公司已与 OpenAI 重新讨论如何使用该初创公司的生成式人工智能技术来支持今年晚些时候在 iPhone 中推出的一些新功能。]]></description>
+      <guid>https://www.reuters.com/technology/apple-renews-talks-with-openai-iphone-generative-ai-features-bloomberg-news-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 22:44:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>飞机制造商巴西航空工业公司首席执行官表示供应链一直在改善</title>
+      <link>https://www.reuters.com/business/autos-transportation/planemaker-embraer-ceo-says-supply-chain-has-been-improving-2024-04-26/</link>
+      <description><![CDATA[巴西航空工业公司首席执行官周五表示，影响飞机制造商的供应链问题一直在改善，但仍然存在一些挑战。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/planemaker-embraer-ceo-says-supply-chain-has-been-improving-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 22:37:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国监管机构查封陷入困境的银行Republic First，并将其出售给富尔顿银行</title>
       <link>https://www.reuters.com/business/finance/us-regulators-set-seize-republic-first-bancorp-wsj-reports-2024-04-26/</link>
-      <description><![CDATA[《华尔街日报》周五援引知情人士的话报道称，美国监管机构将接管共和第一银行，并接近达成协议将其出售给另一家银行。]]></description>
+      <description><![CDATA[美国联邦存款保险公司周五表示，美国监管机构已接管了共和第一银行，并同意将其出售给富尔顿银行，突显了地区银行在三家同行倒闭一年后面临的挑战。]]></description>
       <guid>https://www.reuters.com/business/finance/us-regulators-set-seize-republic-first-bancorp-wsj-reports-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 21:56:32 GMT</pubDate>
     </item>
@@ -20,9 +48,9 @@
       <pubDate>Fri, 26 Apr 2024 21:48:10 GMT</pubDate>
     </item>
     <item>
-      <title>美国空军授予内华达山脉世界末日飞机合同</title>
+      <title>美国空军授予内华达山脉价值130亿美元的世界末日飞机合同</title>
       <link>https://www.reuters.com/business/aerospace-defense/us-air-force-awards-doomsday-plane-contract-sierra-nevada-2024-04-26/</link>
-      <description><![CDATA[美国空军周五表示，已授予内华达山脉公司一份开发 E-4B 后继机的合同，该机被称为“世界末日飞机”，因为该飞机具有在核战争中生存的能力。]]></description>
+      <description><![CDATA[美国空军周五表示，已授予内华达山脉公司一份价值 130 亿美元的合同，用于开发 E-4B 的后继机，该飞机因能够在核战争中生存而被称为“世界末日飞机”。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/us-air-force-awards-doomsday-plane-contract-sierra-nevada-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 21:44:37 GMT</pubDate>
     </item>
@@ -64,7 +92,7 @@
     <item>
       <title>德意志银行将受到与邮政银行收购相关的法律条款的打击</title>
       <link>https://www.reuters.com/business/finance/deutsche-bank-be-hit-by-139-bln-legal-provision-related-postbank-takeover-2024-04-26/</link>
-      <description><![CDATA[德意志银行周五表示，预计将在 2024 年第二季度受到一项法律条款的影响，此前科隆高等地区法院表示，可能会发现某些前邮政银行股东与该部门收购有关的索赔有效。]]></description>
+      <description><![CDATA[德意志银行周五表示，预计该银行将在 2024 年第二季度受到一项法律规定的影响，此前科隆高等地区法院表示，该法院可能会认定与该部门收购有关的某些前邮政银行股东的索赔有效。]]></description>
       <guid>https://www.reuters.com/business/finance/deutsche-bank-be-hit-by-139-bln-legal-provision-related-postbank-takeover-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 20:21:17 GMT</pubDate>
     </item>
@@ -76,16 +104,9 @@
       <pubDate>Fri, 26 Apr 2024 19:52:20 GMT</pubDate>
     </item>
     <item>
-      <title>美国国土安全部任命人工智能安全顾问委员会</title>
-      <link>https://www.reuters.com/technology/us-homeland-security-names-ai-safety-security-advisory-board-2024-04-26/</link>
-      <description><![CDATA[美国国土安全部（DHS）周五宣布成立一个蓝带委员会，其中包括 OpenAI、微软、谷歌母公司 Alphabet 和 Nvidia 的首席执行官，该委员会将就人工智能在关键基础设施中的作用向政府提供建议。]]></description>
-      <guid>https://www.reuters.com/technology/us-homeland-security-names-ai-safety-security-advisory-board-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 19:16:26 GMT</pubDate>
-    </item>
-    <item>
       <title>谷歌请求法院驳回美国广告案</title>
       <link>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</link>
-      <description><![CDATA[Alphabet Inc.旗下的谷歌周五要求弗吉尼亚州联邦法院驳回美国政府的一项诉讼，该诉讼指控这家广告和搜索巨头在在线广告市场上存在反竞争行为。]]></description>
+      <description><![CDATA[Alphabet Inc 旗下谷歌周五请求弗吉尼亚州联邦法院驳回美国政府的一项诉讼，该诉讼指控该广告和搜索巨头在在线广告市场存在反竞争行为。]]></description>
       <guid>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:14:39 GMT</pubDate>
     </item>
@@ -104,20 +125,6 @@
       <pubDate>Fri, 26 Apr 2024 17:02:13 GMT</pubDate>
     </item>
     <item>
-      <title>沃伦·巴菲特的房地产经纪公司达成 2.5 亿美元反垄断和解</title>
-      <link>https://www.reuters.com/legal/warren-buffetts-real-estate-brokerage-reaches-250-mln-antitrust-settlement-2024-04-26/</link>
-      <description><![CDATA[沃伦·巴菲特旗下的伯克希尔·哈撒韦公司旗下的一家房地产经纪公司周五表示，该公司已就全国反垄断诉讼达成 2.5 亿美元的和解协议，预计这将改变房地产经纪人的薪酬方式。]]></description>
-      <guid>https://www.reuters.com/legal/warren-buffetts-real-estate-brokerage-reaches-250-mln-antitrust-settlement-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 16:55:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>星巴克与美国工会举行合同谈判</title>
-      <link>https://www.reuters.com/business/retail-consumer/starbucks-us-workers-union-meet-contract-negotiations-2024-04-26/</link>
-      <description><![CDATA[星巴克与工人联合会在亚特兰大举行了为期两天的合同谈判，双方周五表示，计划于 5 月底再次会面。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/starbucks-us-workers-union-meet-contract-negotiations-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 15:49:58 GMT</pubDate>
-    </item>
-    <item>
       <title>美国通胀温和上升；消费者支出提振第二季度前景</title>
       <link>https://www.reuters.com/markets/us/us-inflation-rises-line-with-expectations-march-2024-04-26/</link>
       <description><![CDATA[美国3月份月度通胀温和上升，但住房和公用事业成本持续上涨表明美联储可能会在一段时间内维持高利率。]]></description>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 26 Apr 2024 12:42:15 GMT</pubDate>
     </item>
     <item>
-      <title>随着大型科技股上涨，华尔街股市收盘</title>
+      <title>随着大型科技股上涨，华尔街股价收盘上涨</title>
       <link>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</link>
       <description><![CDATA[美国股市周五收高，受科技巨头 Alphabet 和微软强劲季度业绩以及温和通胀数据推动，大型成长型股票上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[美国汽车安全监管机构周五表示，在发生一系列撞车事故后，他们已开始调查特斯拉去年 12 月宣布召回超过 200 万辆汽车以安装新的 Autopilot 防护措施是否足够。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-probes-tesla-recall-2-million-vehicles-over-autopilot-citing-concerns-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 09:46:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着美国通胀担忧加剧，投资者准备迎接 5% 的国债收益率</title>
-      <link>https://www.reuters.com/markets/us/investors-brace-5-treasury-yields-us-inflation-worries-mount-2024-04-26/</link>
-      <description><![CDATA[随着美国通胀担忧加剧，一些投资者正准备迎接10年期美国国债收益率突破去年10月创下的5%的16年高点。]]></description>
-      <guid>https://www.reuters.com/markets/us/investors-brace-5-treasury-yields-us-inflation-worries-mount-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 05:04:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
