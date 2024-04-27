@@ -1,96 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 23:48:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 00:30:15 GMT</lastBuildDate>
+    <item>
+      <title>据《华尔街日报》报道，美国监管机构将接管共和第一银行</title>
+      <link>https://www.reuters.com/business/finance/us-regulators-set-seize-republic-first-bancorp-wsj-reports-2024-04-26/</link>
+      <description><![CDATA[《华尔街日报》周五援引知情人士的话报道称，美国监管机构将接管共和第一银行，并接近达成协议将其出售给另一家银行。]]></description>
+      <guid>https://www.reuters.com/business/finance/us-regulators-set-seize-republic-first-bancorp-wsj-reports-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌计划在印第安纳州和弗吉尼亚州投资 30 亿美元数据中心</title>
+      <link>https://www.reuters.com/technology/google-plans-3-bln-data-center-investment-indiana-virginia-2024-04-26/</link>
+      <description><![CDATA[Alphabet 旗下谷歌周五表示，将投资 30 亿美元在印第安纳州建立数据中心园区，并在弗吉尼亚州扩建站点。]]></description>
+      <guid>https://www.reuters.com/technology/google-plans-3-bln-data-center-investment-indiana-virginia-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:48:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国空军将末日飞机合同授予内华达山脉</title>
+      <link>https://www.reuters.com/business/aerospace-defense/us-air-force-awards-doomsday-plane-contract-sierra-nevada-2024-04-26/</link>
+      <description><![CDATA[美国空军周五表示，已授予内华达山脉公司一份开发 E-4B 后继机的合同，该机被称为“世界末日飞机”，因为该飞机具有在核战争中生存的能力。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/us-air-force-awards-doomsday-plane-contract-sierra-nevada-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>L3Harris 裁员 5% 以节省成本</title>
+      <link>https://www.reuters.com/technology/l3harris-cuts-5-workforce-cost-saving-measure-2024-04-26/</link>
+      <description><![CDATA[美国国防承包商 L3Harris 首席执行官 Chris Kubasik 在周五的财报电话会议上表示，本月早些时候裁员 5%，以精简业务并节省成本。]]></description>
+      <guid>https://www.reuters.com/technology/l3harris-cuts-5-workforce-cost-saving-measure-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:28:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>德意志银行将为邮政银行诉讼拨备准备金，这将影响第二季度利润</title>
+      <link>https://www.reuters.com/business/finance/deutsche-bank-make-provision-postbank-suit-that-will-hit-q2-profit-2024-04-26/</link>
+      <description><![CDATA[德意志银行表示，法院对其收购邮政银行长达数年的诉讼作出裁决，要求其制定一项法律条款，这将影响其第二季度和全年盈利能力。]]></description>
+      <guid>https://www.reuters.com/business/finance/deutsche-bank-make-provision-postbank-suit-that-will-hit-q2-profit-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 21:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国航空因波音 787 交付延误而调整航线</title>
+      <link>https://www.reuters.com/business/aerospace-defense/american-airlines-adjust-routes-amid-boeing-787-delivery-delays-2024-04-26/</link>
+      <description><![CDATA[美国航空周五表示，由于波音 787 的交付持续延迟，该公司将在 2024 年下半年和 2025 年第一季度对部分航线进行调整。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/american-airlines-adjust-routes-amid-boeing-787-delivery-delays-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 20:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>华尔街未来一周美国股市的高涨让投资者遭受盈利失望的惩罚</title>
+      <link>https://www.reuters.com/markets/us/wall-st-week-ahead-lofty-us-stocks-leave-investors-punishing-earnings-2024-04-26/</link>
+      <description><![CDATA[估值过高的美国股市让投资者几乎无法容忍失望，在另外两家科技和增长巨头将公布财报的一周前，他们加大了投资力度。]]></description>
+      <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-lofty-us-stocks-leave-investors-punishing-earnings-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 20:36:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>政府通知称特斯拉将在内华达州裁员 693 名员工</title>
+      <link>https://www.reuters.com/business/autos-transportation/tesla-lay-off-693-employees-nevada-government-notice-2024-04-26/</link>
+      <description><![CDATA[一份政府通知显示，特斯拉计划在内华达州斯帕克斯工厂裁员 693 名员工，这是其在销量下降和竞争加剧的情况下裁员 10% 以上计划的一部分。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/tesla-lay-off-693-employees-nevada-government-notice-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 20:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>德意志银行将受到与邮政银行收购相关的法律条款的打击</title>
+      <link>https://www.reuters.com/business/finance/deutsche-bank-be-hit-by-139-bln-legal-provision-related-postbank-takeover-2024-04-26/</link>
+      <description><![CDATA[德意志银行周五表示，预计将在 2024 年第二季度受到一项法律条款的影响，此前科隆高等地区法院表示，可能会发现某些前邮政银行股东与该部门收购有关的索赔有效。]]></description>
+      <guid>https://www.reuters.com/business/finance/deutsche-bank-be-hit-by-139-bln-legal-provision-related-postbank-takeover-2024-04-26/</guid>
+      <pubDate>Fri, 26 Apr 2024 20:21:17 GMT</pubDate>
+    </item>
     <item>
       <title>标准普尔 500 指数第一季度盈利预期增长改善；库存连续一周上涨</title>
       <link>https://www.reuters.com/markets/us/sp-500-q1-earnings-estimated-growth-improves-stocks-up-week-2024-04-26/</link>
-      <description><![CDATA[在报告期即将过半之际，美国第一季度预计盈利增长势头似乎更为强劲，企业业绩在近期疲软之后，本周给股市带来提振。]]></description>
+      <description><![CDATA[美国第一季度预计盈利增长在报告期接近一半时看起来更为强劲，在近期疲软之后，本周企业业绩提振了股市。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-500-q1-earnings-estimated-growth-improves-stocks-up-week-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:52:20 GMT</pubDate>
     </item>
     <item>
       <title>美国国土安全部任命人工智能安全顾问委员会</title>
       <link>https://www.reuters.com/technology/us-homeland-security-names-ai-safety-security-advisory-board-2024-04-26/</link>
-      <description><![CDATA[美国国土安全部 (DHS) 周五宣布成立一个蓝带委员会，成员包括 OpenAI、微软、谷歌母公司 Alphabet 和 Nvidia 的首席执行官，该委员会将就人工智能在关键基础设施中的作用向政府提供建议。]]></description>
+      <description><![CDATA[美国国土安全部 (DHS) 周五宣布成立一个蓝丝带委员会，成员包括 OpenAI、微软、谷歌母公司 Alphabet 和 Nvidia 的首席执行官，该委员会将就人工智能在关键基础设施中的作用向政府提供建议。]]></description>
       <guid>https://www.reuters.com/technology/us-homeland-security-names-ai-safety-security-advisory-board-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌在美国广告技术案中提出简易判决动议</title>
+      <title>谷歌请求法院驳回美国广告案</title>
       <link>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</link>
-      <description><![CDATA[Alphabet Inc.旗下的谷歌周五要求弗吉尼亚州联邦法院驳回美国政府的一项诉讼，该诉讼指控这家广告和搜索公司在在线广告市场上存在反竞争行为。]]></description>
+      <description><![CDATA[Alphabet Inc.旗下的谷歌周五要求弗吉尼亚州联邦法院驳回美国政府的一项诉讼，该诉讼指控这家广告和搜索巨头在在线广告市场上存在反竞争行为。]]></description>
       <guid>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:14:39 GMT</pubDate>
     </item>
     <item>
       <title>惠誉将波音公司的生产和现金流挑战展望下调至“负面”</title>
       <link>https://www.reuters.com/business/aerospace-defense/fitch-downgrades-boeings-outlook-negative-production-cashflow-challenges-2024-04-26/</link>
-      <description><![CDATA[由于安全危机影响到这家美国飞机制造商的生产和现金流，惠誉评级周五将波音公司的评级展望从“稳定”下调至“负面”。]]></description>
+      <description><![CDATA[由于安全危机影响了美国飞机制造商的生产和现金流，惠誉评级周五将波音公司的前景从“稳定”下调至“负面”。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/fitch-downgrades-boeings-outlook-negative-production-cashflow-challenges-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:09:04 GMT</pubDate>
     </item>
     <item>
-      <title>解释者：特朗普如何影响美联储的构成</title>
-      <link>https://www.reuters.com/world/us/how-trump-could-influence-makeup-fed-2024-04-26/</link>
-      <description><![CDATA[据报道，唐纳德·特朗普的盟友正在起草提案，如果这位共和党总统候选人重新入主白宫，将削弱美联储的独立性，其中一个关键要素是在美联储安插忠诚者。]]></description>
-      <guid>https://www.reuters.com/world/us/how-trump-could-influence-makeup-fed-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:40:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>拉斯维加斯的 CVS Omnicare 员工投票加入新工会</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/cvs-omnicare-staff-las-vegas-vote-join-new-union-2024-04-26/</link>
-      <description><![CDATA[CVS Health 位于拉斯维加斯的子公司 Omnicare 的员工投票决定加入药房协会，成为全国药房连锁店中第一个加入该工会的地点。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/cvs-omnicare-staff-las-vegas-vote-join-new-union-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司与吉凯恩航空航天公司达成圣路易斯基地交易</title>
-      <link>https://www.reuters.com/business/aerospace-defense/boeing-gkn-aerospace-close-deal-st-louis-site-2024-04-26/</link>
-      <description><![CDATA[波音公司周五表示，已与航空供应商 GKN Aerospace 及其母公司梅尔罗斯工业公司 (Melrose Industries) 达成在圣路易斯建立工厂的协议。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/boeing-gkn-aerospace-close-deal-st-louis-site-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国劳工部修正2019年至2023年生产率数据</title>
-      <link>https://www.reuters.com/markets/us/us-labor-department-corrects-productivity-data-2019-through-2023-2024-04-26/</link>
-      <description><![CDATA[美国劳工部周五修正了 2019 年至 2023 年的生产率数据，原因是非正常工作时间比率的计算错误导致上个月发布的生产率和成本数据的劳动时间水平出现偏差。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-labor-department-corrects-productivity-data-2019-through-2023-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:31:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：消息人士称，通用磨坊正在探索出售价值超过 20 亿美元的北美酸奶业务</title>
-      <link>https://www.reuters.com/markets/deals/general-mills-explores-sale-2-billion-plus-yogurt-business-north-america-sources-2024-04-26/</link>
-      <description><![CDATA[知情人士称，可可泡芙和 Cheerios 早餐麦片生产商通用磨坊 (General Mills) 正在考虑出售其北美酸奶业务，包括其广受欢迎的 Yoplait 品牌，交易价值可能超过 20 亿美元。]]></description>
-      <guid>https://www.reuters.com/markets/deals/general-mills-explores-sale-2-billion-plus-yogurt-business-north-america-sources-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:22:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国财政部退款将缓解供应增加的影响</title>
-      <link>https://www.reuters.com/markets/us/us-treasury-refunding-set-offer-relief-supply-rises-2024-04-26/</link>
-      <description><![CDATA[预计美国财政部下周将详细介绍下一季度的退款计划，在经历了三个季度的增长后保持大部分拍卖规模的稳定，从而给市场带来一些安慰。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-treasury-refunding-set-offer-relief-supply-rises-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 18:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>两位参议员希望美国命令特斯拉限制自动驾驶仪的使用</title>
-      <link>https://www.reuters.com/business/autos-transportation/two-senators-want-us-order-tesla-restrict-autopilot-use-2024-04-26/</link>
-      <description><![CDATA[周五，两名美国参议员敦促监管机构禁止特斯拉在非预期道路上使用驾驶员辅助系统 Autopilot。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/two-senators-want-us-order-tesla-restrict-autopilot-use-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:43:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧佩克秘书长在 MEES 文章中表示，“石油的终结尚未到来”</title>
-      <link>https://www.reuters.com/markets/commodities/end-oil-not-sight-opec-secretary-general-says-mees-article-2024-04-26/</link>
-      <description><![CDATA[欧佩克高级官员表示，石油的终结还没有到来，因为能源需求增长的速度意味着替代品无法在所需的规模上取代它，重点应该是减少排放而不是石油使用。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/end-oil-not-sight-opec-secretary-general-says-mees-article-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>天然气价格暴跌导致石油巨头盈利下滑</title>
+      <title>随着天然气价格暴跌，大型石油公司的盈利出现下滑</title>
       <link>https://www.reuters.com/markets/commodities/earnings-big-oil-backpaddle-natgas-prices-tumble-2024-04-26/</link>
       <description><![CDATA[由于天然气价格较去年同期大幅下跌，美国和欧洲石油公司周五公布的第一季度业绩疲软。]]></description>
       <guid>https://www.reuters.com/markets/commodities/earnings-big-oil-backpaddle-natgas-prices-tumble-2024-04-26/</guid>
@@ -99,7 +106,7 @@
     <item>
       <title>沃伦·巴菲特的房地产经纪公司达成 2.5 亿美元反垄断和解</title>
       <link>https://www.reuters.com/legal/warren-buffetts-real-estate-brokerage-reaches-250-mln-antitrust-settlement-2024-04-26/</link>
-      <description><![CDATA[沃伦·巴菲特旗下的伯克希尔·哈撒韦公司旗下的一家房地产经纪公司周五表示，该公司已就全国反垄断诉讼达成 2.5 亿美元的和解协议，预计这将改变房地产经纪人的薪酬方式。]]></description>
+      <description><![CDATA[沃伦·巴菲特旗下伯克希尔·哈撒韦公司旗下的一家房地产经纪公司周五表示，该公司就全国反垄断诉讼达成了 2.5 亿美元的和解协议，预计这将改变房地产经纪人的薪酬方式。]]></description>
       <guid>https://www.reuters.com/legal/warren-buffetts-real-estate-brokerage-reaches-250-mln-antitrust-settlement-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 16:55:15 GMT</pubDate>
     </item>
@@ -125,16 +132,9 @@
       <pubDate>Fri, 26 Apr 2024 10:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>洞察：为何比亚迪电动汽车出口售价是中国价格的两倍</title>
-      <link>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</link>
-      <description><![CDATA[美国和欧洲政界人士发出警告称，他们的国内汽车工业可能会被中国廉价电动汽车的浪潮摧毁。但到目前为止，中国最大的电动汽车制造商比亚迪已大幅提高了其在国内的出口价格，而不是削弱外国竞争对手的价格。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/why-byds-ev-exports-sell-twice-china-price-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 10:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国调查特斯拉因 Autopilot 召回 200 万辆汽车</title>
+      <title>美国调查特斯拉因自动驾驶仪问题召回 200 万辆汽车</title>
       <link>https://www.reuters.com/business/autos-transportation/us-probes-tesla-recall-2-million-vehicles-over-autopilot-citing-concerns-2024-04-26/</link>
-      <description><![CDATA[美国汽车安全监管机构周五表示，在发生一系列撞车事故后，他们已开始调查特斯拉去年 12 月宣布召回超过 200 万辆汽车以安装新的 Autopilot 防护措施是否足够。]]></description>
+      <description><![CDATA[美国汽车安全监管机构周五表示，他们已开始调查特斯拉去年 12 月宣布召回 200 多万辆汽车以安装新的 Autopilot 安全措施是否足以应对一系列事故发生的情况。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-probes-tesla-recall-2-million-vehicles-over-autopilot-citing-concerns-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 09:46:01 GMT</pubDate>
     </item>
