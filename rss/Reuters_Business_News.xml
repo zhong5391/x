@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 22:27:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 22:40:07 GMT</lastBuildDate>
     <item>
       <title>梅赛德斯-奔驰表示美国司法部结束了对柴油排放丑闻的调查</title>
       <link>https://www.reuters.com/business/autos-transportation/mercedes-benz-says-us-doj-ended-investigation-into-diesel-emissions-scandal-2024-04-27/</link>
@@ -48,7 +48,7 @@
       <pubDate>Fri, 26 Apr 2024 23:40:40 GMT</pubDate>
     </item>
     <item>
-      <title>据彭博社报道，苹果与 OpenAI 就 iPhone 生成式人工智能功能重启谈判</title>
+      <title>据彭博社报道，苹果与 OpenAI 就 iPhone 生成人工智能功能重启谈判</title>
       <link>https://www.reuters.com/technology/apple-renews-talks-with-openai-iphone-generative-ai-features-bloomberg-news-2024-04-26/</link>
       <description><![CDATA[据彭博社周五报道，苹果公司已与 OpenAI 重新讨论如何使用该初创公司的生成式人工智能技术来支持今年晚些时候在 iPhone 中推出的一些新功能。]]></description>
       <guid>https://www.reuters.com/technology/apple-renews-talks-with-openai-iphone-generative-ai-features-bloomberg-news-2024-04-26/</guid>
@@ -132,7 +132,7 @@
       <pubDate>Fri, 26 Apr 2024 12:42:15 GMT</pubDate>
     </item>
     <item>
-      <title>随着大型科技股上涨，华尔街股市收盘</title>
+      <title>随着大型科技股上涨，华尔街股价收盘上涨</title>
       <link>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</link>
       <description><![CDATA[美国股市周五收高，受科技巨头 Alphabet 和微软强劲季度业绩以及温和通胀数据推动，大型成长型股票上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</guid>
