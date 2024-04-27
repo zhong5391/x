@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 27 Apr 2024 22:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 22:27:10 GMT</lastBuildDate>
     <item>
       <title>新华社称，中国广州龙卷风已造成5人死亡、33人受伤</title>
       <link>https://www.reuters.com/world/china/tornado-chinas-guangzhou-kills-five-injures-33-xinhua-says-2024-04-27/</link>
-      <description><![CDATA[官方通讯社新华社周六援引当地政府的消息称，一场龙卷风袭击了中国南方城市广州市，造成 5 人死亡、33 人受伤。]]></description>
+      <description><![CDATA[官方通讯社新华社周六援引当地政府的消息称，一场龙卷风袭击了中国南部城市广州，造成 5 人死亡、33 人受伤。]]></description>
       <guid>https://www.reuters.com/world/china/tornado-chinas-guangzhou-kills-five-injures-33-xinhua-says-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 17:55:19 GMT</pubDate>
     </item>
@@ -36,12 +36,12 @@
     <item>
       <title>菲律宾否认与中国就有争议的南海浅滩达成协议</title>
       <link>https://www.reuters.com/world/asia-pacific/philippines-denies-deal-with-china-over-disputed-south-china-sea-shoal-2024-04-27/</link>
-      <description><![CDATA[周六，菲律宾否认了中国关于两国已就南海不断升级的海上争端达成协议的说法，称其为宣传。]]></description>
+      <description><![CDATA[菲律宾周六否认中国声称两国已就不断升级的南海海上争端达成协议，称这一说法是宣传。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/philippines-denies-deal-with-china-over-disputed-south-china-sea-shoal-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 04:27:50 GMT</pubDate>
     </item>
     <item>
-      <title>中国一季度工业利润增速引发经济复苏疑虑</title>
+      <title>中国第一季度工业利润增长速度引发对经济复苏的怀疑</title>
       <link>https://www.reuters.com/world/china/chinas-first-quarter-industrial-profits-rise-slower-pace-2024-04-27/</link>
       <description><![CDATA[周六官方数据显示，中国3月份工业利润下降，与前两个月相比，该季度涨幅放缓，引发了人们对世界第二大经济体复苏力度的怀疑。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-first-quarter-industrial-profits-rise-slower-pace-2024-04-27/</guid>
@@ -69,7 +69,7 @@
       <pubDate>Fri, 26 Apr 2024 18:33:36 GMT</pubDate>
     </item>
     <item>
-      <title>独家：消息人士称，俄罗斯向中国支付的款项有一半是通过中间商进行的</title>
+      <title>独家：消息人士称俄罗斯向中国支付的款项有一半是通过中间人支付的</title>
       <link>https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/</link>
       <description><![CDATA[四位消息人士告诉路透社，由于二级制裁担忧吓坏了当地银行，俄罗斯公司在中国支付商品的努力为中间商创造了繁荣的市场，目前多达一半的交易由中间商处理。]]></description>
       <guid>https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/</guid>
@@ -92,14 +92,14 @@
     <item>
       <title>保时捷公司公布第一季度利润因成本增加而下降</title>
       <link>https://www.reuters.com/business/autos-transportation/porsche-ag-posts-q1-profit-drop-ramp-up-costs-2024-04-26/</link>
-      <description><![CDATA[保时捷周五公布第一季度营业利润下降 30%，原因是这家德国豪华汽车制造商在今年推出了史上最大的产品发布年，因此加大了投资。]]></description>
+      <description><![CDATA[保时捷周五报告称，第一季度营业利润下降了 30%，原因是这家德国豪华汽车制造商在今年推出了史上最大的产品发布年，因此加大了投资。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/porsche-ag-posts-q1-profit-drop-ramp-up-costs-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 15:34:22 GMT</pubDate>
     </item>
     <item>
       <title>宝马将在中国主要市场追加投资27.6亿美元</title>
       <link>https://www.reuters.com/business/autos-transportation/bmw-invest-276-billion-chinese-production-site-2024-04-26/</link>
-      <description><![CDATA[宝马周五表示，计划向中国沈阳生产基地额外投资 200 亿元人民币（27.6 亿美元），彰显该高档汽车制造商“对中国市场的坚定承诺”。]]></description>
+      <description><![CDATA[宝马周五表示，计划在中国沉阳生产基地追加投资 200 亿元人民币（合 27.6 亿美元），这表明这家高端汽车制造商“坚定不移地致力于中国市场”。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/bmw-invest-276-billion-chinese-production-site-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 15:32:29 GMT</pubDate>
     </item>
@@ -134,14 +134,14 @@
     <item>
       <title>越南国会主席因政治动荡加剧而辞职</title>
       <link>https://www.reuters.com/world/asia-pacific/vietnam-parliament-chief-quits-amid-deepening-political-turbulence-2024-04-26/</link>
-      <description><![CDATA[执政的共产党周五表示，越南国会主席王廷惠因未具体说明的“违规行为和缺点”而辞职，这是该国国家主席被解职几周后政治动荡的新迹象。]]></description>
+      <description><![CDATA[越南执政党共产党周五表示，越南国会主席王廷惠因未指明的“违法和缺点”而辞职，这是该国总统被免职数周后政治动荡的新迹象。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/vietnam-parliament-chief-quits-amid-deepening-political-turbulence-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 12:31:15 GMT</pubDate>
     </item>
     <item>
       <title>独家：消息人士称，阿联酋计划建造第二座核电站</title>
       <link>https://www.reuters.com/business/energy/uae-planning-second-nuclear-power-plant-sources-say-2024-04-26/</link>
-      <description><![CDATA[三名知情人士称，阿拉伯联合酋长国将很快招标建设一座新核电站，该核电站将使这个海湾小国的核反应堆数量增加一倍。]]></description>
+      <description><![CDATA[三位知情人士称，阿拉伯联合酋长国将很快招标建设一座新核电站，该核电站将使这个海湾小国的核反应堆数量增加一倍。]]></description>
       <guid>https://www.reuters.com/business/energy/uae-planning-second-nuclear-power-plant-sources-say-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 11:37:44 GMT</pubDate>
     </item>
