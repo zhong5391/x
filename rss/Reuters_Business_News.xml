@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 11:58:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 12:33:01 GMT</lastBuildDate>
     <item>
       <title>中国一季度工业利润增速引发经济复苏疑虑</title>
       <link>https://www.reuters.com/world/china/chinas-first-quarter-industrial-profits-rise-slower-pace-2024-04-27/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>谷歌计划在印第安纳州和弗吉尼亚州投资 30 亿美元数据中心</title>
       <link>https://www.reuters.com/technology/google-plans-3-bln-data-center-investment-indiana-virginia-2024-04-26/</link>
-      <description><![CDATA[Alphabet 旗下谷歌周五表示，将投资 30 亿美元在印第安纳州建立数据中心园区，并在弗吉尼亚州扩建站点。]]></description>
+      <description><![CDATA[Alphabet 旗下谷歌周五表示，将投资 30 亿美元在印第安纳州建立数据中心园区，并扩建弗吉尼亚州的站点。]]></description>
       <guid>https://www.reuters.com/technology/google-plans-3-bln-data-center-investment-indiana-virginia-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 21:48:10 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Fri, 26 Apr 2024 21:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>美国航空因波音 787 交付延误而调整航线</title>
+      <title>波音 787 交付延迟导致美国航空调整航线</title>
       <link>https://www.reuters.com/business/aerospace-defense/american-airlines-adjust-routes-amid-boeing-787-delivery-delays-2024-04-26/</link>
       <description><![CDATA[美国航空周五表示，由于波音 787 的交付持续延迟，该公司将在 2024 年下半年和 2025 年第一季度对部分航线进行调整。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/american-airlines-adjust-routes-amid-boeing-787-delivery-delays-2024-04-26/</guid>
@@ -78,14 +78,14 @@
     <item>
       <title>华尔街未来一周美国股市的高涨让投资者遭受盈利失望的惩罚</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-lofty-us-stocks-leave-investors-punishing-earnings-2024-04-26/</link>
-      <description><![CDATA[估值过高的美国股票让投资者几乎无法容忍失望，在本周又有两家科技和成长型巨头将公布业绩之际，这让投资者的风险进一步加大。]]></description>
+      <description><![CDATA[估值过高的美国股市让投资者几乎无法容忍失望，在另外两家科技和增长巨头将公布财报的一周前，他们加大了投资力度。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-lofty-us-stocks-leave-investors-punishing-earnings-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 20:36:56 GMT</pubDate>
     </item>
     <item>
-      <title>政府通知称特斯拉将在内华达州裁员 693 人</title>
+      <title>政府通知称特斯拉将在内华达州裁员 693 名员工</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-lay-off-693-employees-nevada-government-notice-2024-04-26/</link>
-      <description><![CDATA[政府通知显示，特斯拉计划在内华达州斯帕克斯工厂裁掉 693 名员工，这是其在销量下滑和竞争加剧的情况下削减全球员工 10% 以上计划的一部分。]]></description>
+      <description><![CDATA[一份政府通知显示，特斯拉计划在内华达州斯帕克斯工厂裁员 693 名员工，这是其在销量下降和竞争加剧的情况下裁员 10% 以上计划的一部分。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-lay-off-693-employees-nevada-government-notice-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 20:30:06 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 26 Apr 2024 19:52:20 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌请求法院驳回美国广告案</title>
+      <title>谷歌请求法院驳回美国广告诉讼</title>
       <link>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</link>
       <description><![CDATA[Alphabet Inc.旗下的谷歌周五要求弗吉尼亚州联邦法院驳回美国政府的一项诉讼，该诉讼指控这家广告和搜索巨头在在线广告市场上存在反竞争行为。]]></description>
       <guid>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</guid>
