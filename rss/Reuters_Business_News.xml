@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 | 今日国际头条 | 路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 20:32:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 21:03:56 GMT</lastBuildDate>
     <item>
       <title>梅赛德斯-奔驰表示美国司法部结束了对柴油排放丑闻的调查</title>
       <link>https://www.reuters.com/business/autos-transportation/mercedes-benz-says-us-doj-ended-investigation-into-diesel-emissions-scandal-2024-04-27/</link>
@@ -34,7 +34,7 @@
       <pubDate>Sat, 27 Apr 2024 02:40:53 GMT</pubDate>
     </item>
     <item>
-      <title>麦肯锡前合伙人起诉公司，声称他成为阿片类药物的“替罪羊”</title>
+      <title>前麦肯锡合伙人起诉公司，声称自己成为阿片类药物“替罪羊”</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/ex-mckinsey-partner-sues-firm-claims-he-was-made-opioids-scapegoat-2024-04-26/</link>
       <description><![CDATA[前麦肯锡公司联合合伙人周五起诉这家全球咨询公司，指控该公司诽谤他，并让他成为“替罪羊”，以分散人们对其为奥施康定制造商普渡制药和其他阿片类止痛药制造商提供咨询工作的注意力。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/ex-mckinsey-partner-sues-firm-claims-he-was-made-opioids-scapegoat-2024-04-26/</guid>
@@ -99,7 +99,7 @@
     <item>
       <title>标准普尔 500 指数第一季度盈利预期增长改善；库存连续一周上涨</title>
       <link>https://www.reuters.com/markets/us/sp-500-q1-earnings-estimated-growth-improves-stocks-up-week-2024-04-26/</link>
-      <description><![CDATA[美国第一季度预计盈利增长在报告期接近一半时看起来更为强劲，在近期疲软之后，本周企业业绩提振了股市。]]></description>
+      <description><![CDATA[在报告期即将过半之际，美国第一季度预计盈利增长势头似乎更为强劲，企业业绩在近期疲软之后，本周给股市带来提振。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-500-q1-earnings-estimated-growth-improves-stocks-up-week-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:52:20 GMT</pubDate>
     </item>
@@ -118,7 +118,7 @@
       <pubDate>Fri, 26 Apr 2024 19:09:04 GMT</pubDate>
     </item>
     <item>
-      <title>天然气价格暴跌导致石油巨头盈利下滑</title>
+      <title>随着天然气价格暴跌，大型石油公司的盈利出现下滑</title>
       <link>https://www.reuters.com/markets/commodities/earnings-big-oil-backpaddle-natgas-prices-tumble-2024-04-26/</link>
       <description><![CDATA[由于天然气价格较去年同期大幅下跌，美国和欧洲石油公司周五公布的第一季度业绩疲软。]]></description>
       <guid>https://www.reuters.com/markets/commodities/earnings-big-oil-backpaddle-natgas-prices-tumble-2024-04-26/</guid>
@@ -134,7 +134,7 @@
     <item>
       <title>随着大型科技股上涨，华尔街股市收盘</title>
       <link>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</link>
-      <description><![CDATA[美国股市周五收高，受科技巨头 Alphabet 和微软强劲季度业绩以及温和通胀数据推动，大型成长型股票上涨。]]></description>
+      <description><![CDATA[美国股市周五收盘走高，受科技巨头 Alphabet 和微软公布强劲季度业绩以及温和通胀数据推动，大型成长股上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:04:30 GMT</pubDate>
     </item>
