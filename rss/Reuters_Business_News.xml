@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 00:30:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 01:36:09 GMT</lastBuildDate>
     <item>
       <title>据《华尔街日报》报道，美国监管机构将接管共和第一银行</title>
       <link>https://www.reuters.com/business/finance/us-regulators-set-seize-republic-first-bancorp-wsj-reports-2024-04-26/</link>
@@ -20,7 +20,7 @@
       <pubDate>Fri, 26 Apr 2024 21:48:10 GMT</pubDate>
     </item>
     <item>
-      <title>美国空军将末日飞机合同授予内华达山脉</title>
+      <title>美国空军授予内华达山脉世界末日飞机合同</title>
       <link>https://www.reuters.com/business/aerospace-defense/us-air-force-awards-doomsday-plane-contract-sierra-nevada-2024-04-26/</link>
       <description><![CDATA[美国空军周五表示，已授予内华达山脉公司一份开发 E-4B 后继机的合同，该机被称为“世界末日飞机”，因为该飞机具有在核战争中生存的能力。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/us-air-force-awards-doomsday-plane-contract-sierra-nevada-2024-04-26/</guid>
@@ -78,7 +78,7 @@
     <item>
       <title>美国国土安全部任命人工智能安全顾问委员会</title>
       <link>https://www.reuters.com/technology/us-homeland-security-names-ai-safety-security-advisory-board-2024-04-26/</link>
-      <description><![CDATA[美国国土安全部 (DHS) 周五宣布成立一个蓝丝带委员会，成员包括 OpenAI、微软、谷歌母公司 Alphabet 和 Nvidia 的首席执行官，该委员会将就人工智能在关键基础设施中的作用向政府提供建议。]]></description>
+      <description><![CDATA[美国国土安全部（DHS）周五宣布成立一个蓝带委员会，其中包括 OpenAI、微软、谷歌母公司 Alphabet 和 Nvidia 的首席执行官，该委员会将就人工智能在关键基础设施中的作用向政府提供建议。]]></description>
       <guid>https://www.reuters.com/technology/us-homeland-security-names-ai-safety-security-advisory-board-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:16:26 GMT</pubDate>
     </item>
@@ -106,7 +106,7 @@
     <item>
       <title>沃伦·巴菲特的房地产经纪公司达成 2.5 亿美元反垄断和解</title>
       <link>https://www.reuters.com/legal/warren-buffetts-real-estate-brokerage-reaches-250-mln-antitrust-settlement-2024-04-26/</link>
-      <description><![CDATA[沃伦·巴菲特旗下伯克希尔·哈撒韦公司旗下的一家房地产经纪公司周五表示，该公司就全国反垄断诉讼达成了 2.5 亿美元的和解协议，预计这将改变房地产经纪人的薪酬方式。]]></description>
+      <description><![CDATA[沃伦·巴菲特旗下的伯克希尔·哈撒韦公司旗下的一家房地产经纪公司周五表示，该公司已就全国反垄断诉讼达成 2.5 亿美元的和解协议，预计这将改变房地产经纪人的薪酬方式。]]></description>
       <guid>https://www.reuters.com/legal/warren-buffetts-real-estate-brokerage-reaches-250-mln-antitrust-settlement-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 16:55:15 GMT</pubDate>
     </item>
@@ -132,9 +132,9 @@
       <pubDate>Fri, 26 Apr 2024 10:04:30 GMT</pubDate>
     </item>
     <item>
-      <title>美国调查特斯拉因自动驾驶仪问题召回 200 万辆汽车</title>
+      <title>美国调查特斯拉因 Autopilot 召回 200 万辆汽车</title>
       <link>https://www.reuters.com/business/autos-transportation/us-probes-tesla-recall-2-million-vehicles-over-autopilot-citing-concerns-2024-04-26/</link>
-      <description><![CDATA[美国汽车安全监管机构周五表示，他们已开始调查特斯拉去年 12 月宣布召回 200 多万辆汽车以安装新的 Autopilot 安全措施是否足以应对一系列事故发生的情况。]]></description>
+      <description><![CDATA[美国汽车安全监管机构周五表示，在发生一系列撞车事故后，他们已开始调查特斯拉去年 12 月宣布召回超过 200 万辆汽车以安装新的 Autopilot 防护措施是否足够。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-probes-tesla-recall-2-million-vehicles-over-autopilot-citing-concerns-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 09:46:01 GMT</pubDate>
     </item>
