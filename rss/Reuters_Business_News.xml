@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 14:03:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 14:38:27 GMT</lastBuildDate>
     <item>
       <title>中国一季度工业利润增速引发经济复苏疑虑</title>
       <link>https://www.reuters.com/world/china/chinas-first-quarter-industrial-profits-rise-slower-pace-2024-04-27/</link>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 26 Apr 2024 23:40:40 GMT</pubDate>
     </item>
     <item>
-      <title>据彭博社报道，苹果与 OpenAI 就 iPhone 生成人工智能功能重启谈判</title>
+      <title>据彭博社报道，苹果与 OpenAI 就 iPhone 生成式人工智能功能重启谈判</title>
       <link>https://www.reuters.com/technology/apple-renews-talks-with-openai-iphone-generative-ai-features-bloomberg-news-2024-04-26/</link>
       <description><![CDATA[据彭博社周五报道，苹果公司已与 OpenAI 重新讨论如何使用该初创公司的生成式人工智能技术来支持今年晚些时候在 iPhone 中推出的一些新功能。]]></description>
       <guid>https://www.reuters.com/technology/apple-renews-talks-with-openai-iphone-generative-ai-features-bloomberg-news-2024-04-26/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>飞机制造商巴西航空工业公司首席执行官表示供应链一直在改善</title>
       <link>https://www.reuters.com/business/autos-transportation/planemaker-embraer-ceo-says-supply-chain-has-been-improving-2024-04-26/</link>
-      <description><![CDATA[巴西航空工业公司首席执行官周五表示，影响飞机制造商的供应链问题一直在改善，但仍然存在一些挑战。]]></description>
+      <description><![CDATA[巴西航空工业公司首席执行官周五表示，影响飞机制造商的供应链问题正在改善，但仍存在一些挑战。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/planemaker-embraer-ceo-says-supply-chain-has-been-improving-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 22:37:45 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>谷歌计划在印第安纳州和弗吉尼亚州投资 30 亿美元数据中心</title>
       <link>https://www.reuters.com/technology/google-plans-3-bln-data-center-investment-indiana-virginia-2024-04-26/</link>
-      <description><![CDATA[Alphabet 旗下谷歌周五表示，将投资 30 亿美元在印第安纳州建立数据中心园区，并在弗吉尼亚州扩建站点。]]></description>
+      <description><![CDATA[Alphabet 旗下谷歌周五表示，将投资 30 亿美元在印第安纳州建立数据中心园区，并扩建弗吉尼亚州的站点。]]></description>
       <guid>https://www.reuters.com/technology/google-plans-3-bln-data-center-investment-indiana-virginia-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 21:48:10 GMT</pubDate>
     </item>
