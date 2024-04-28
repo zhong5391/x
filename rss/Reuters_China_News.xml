@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻 | 今日头条 | 路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 28 Apr 2024 09:30:43 GMT</lastBuildDate>
+    <description>Reuters.com 是您了解最新中国新闻和时事的在线来源，确保我们的读者及时了解任何突发新闻发展 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Sun, 28 Apr 2024 09:43:32 GMT</lastBuildDate>
     <item>
-      <title>独家：消息人士称，特斯拉首席执行官埃隆·马斯克(Elon Musk)惊喜开启北京之行</title>
+      <title>独家：消息人士称，中国券商中金公司将交易撮合者的基本薪酬削减 25%</title>
+      <link>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</link>
+      <description><![CDATA[三名消息人士称，中国国际金融公司（中金公司）正在将境内投资银行家的基本薪酬削减多达 25%，以在市场动荡和北京实施紧缩政策的情况下大力降低成本。]]></description>
+      <guid>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 08:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克访问中国，特斯拉寻求自动驾驶技术推广</title>
       <link>https://www.reuters.com/business/autos-transportation/elon-musk-heading-china-visit-teslas-second-biggest-market-sources-say-2024-04-28/</link>
-      <description><![CDATA[航班跟踪应用程序显示，与特斯拉首席执行官埃隆·马斯克有关的一架私人飞机周日降落在北京，两位知情人士表示，这位亿万富翁正在开始对汽车制造商第二大市场的突然访问。]]></description>
+      <description><![CDATA[据知情人士透露，特斯拉首席执行官埃隆·马斯克周日抵达北京进行突然访问，预计他将在那里会见高级官员，讨论全自动驾驶软件的推出以及向海外传输数据的许可。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/elon-musk-heading-china-visit-teslas-second-biggest-market-sources-say-2024-04-28/</guid>
       <pubDate>Sun, 28 Apr 2024 05:02:30 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Sun, 28 Apr 2024 04:56:22 GMT</pubDate>
     </item>
     <item>
-      <title>新华社称，中国广州龙卷风已造成5人死亡、33人受伤</title>
+      <title>新华社称，中国广州龙卷风已造成 5 人死亡，33 人受伤</title>
       <link>https://www.reuters.com/world/china/tornado-chinas-guangzhou-kills-five-injures-33-xinhua-says-2024-04-27/</link>
       <description><![CDATA[官方通讯社新华社周六援引当地政府的消息称，一场龙卷风袭击了中国南部城市广州，造成 5 人死亡、33 人受伤。]]></description>
       <guid>https://www.reuters.com/world/china/tornado-chinas-guangzhou-kills-five-injures-33-xinhua-says-2024-04-27/</guid>
@@ -50,19 +57,19 @@
     <item>
       <title>菲律宾否认与中国就有争议的南海浅滩达成协议</title>
       <link>https://www.reuters.com/world/asia-pacific/philippines-denies-deal-with-china-over-disputed-south-china-sea-shoal-2024-04-27/</link>
-      <description><![CDATA[周六，菲律宾否认了中国关于两国已就南海不断升级的海上争端达成协议的说法，称这一主张是宣传。]]></description>
+      <description><![CDATA[周六，菲律宾否认了中国关于两国已就南海不断升级的海上争端达成协议的说法，称其为宣传。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/philippines-denies-deal-with-china-over-disputed-south-china-sea-shoal-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 04:27:50 GMT</pubDate>
     </item>
     <item>
       <title>中国一季度工业利润增速引发经济复苏疑虑</title>
       <link>https://www.reuters.com/world/china/chinas-first-quarter-industrial-profits-rise-slower-pace-2024-04-27/</link>
-      <description><![CDATA[周六官方数据显示，中国3月份工业利润下降，与前两个月相比，该季度涨幅放缓，引发了人们对世界第二大经济体复苏力度的怀疑。]]></description>
+      <description><![CDATA[周六公布的官方数据显示，中国 3 月份工业利润下降，且当季增幅较前两个月有所放缓，这引发了人们对这个世界第二大经济体复苏力度的怀疑。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-first-quarter-industrial-profits-rise-slower-pace-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 02:40:53 GMT</pubDate>
     </item>
     <item>
-      <title>布林肯称美国芯片禁令并非旨在阻碍中国经济增长</title>
+      <title>布林肯表示，美国的芯片禁令并不意味着阻碍中国的增长</title>
       <link>https://www.reuters.com/technology/us-chip-bans-not-meant-hobble-chinas-growth-blinken-says-2024-04-26/</link>
       <description><![CDATA[美国国务卿安东尼·布林肯周五在接受国家公共广播电台采访时表示，美国对向中国出口先进计算芯片的出口管制并不是为了阻碍中国的经济或技术发展。]]></description>
       <guid>https://www.reuters.com/technology/us-chip-bans-not-meant-hobble-chinas-growth-blinken-says-2024-04-26/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>保时捷公司公布第一季度利润因成本增加而下降</title>
       <link>https://www.reuters.com/business/autos-transportation/porsche-ag-posts-q1-profit-drop-ramp-up-costs-2024-04-26/</link>
-      <description><![CDATA[保时捷周五报告称，第一季度营业利润下降了 30%，原因是这家德国豪华汽车制造商在今年推出了史上最大的产品发布年，因此加大了投资。]]></description>
+      <description><![CDATA[保时捷周五公布第一季度营业利润下降 30%，原因是这家德国豪华汽车制造商在今年推出了史上最大的产品发布年，因此加大了投资。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/porsche-ag-posts-q1-profit-drop-ramp-up-costs-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 15:34:22 GMT</pubDate>
     </item>
@@ -120,7 +127,7 @@
     <item>
       <title>与中国有仇？布林肯在北京购买泰勒·斯威夫特的专辑</title>
       <link>https://www.reuters.com/world/us/bad-blood-with-china-blinken-buys-taylor-swift-album-beijing-2024-04-26/</link>
-      <description><![CDATA[周五，在中国举行旨在缓解超级大国紧张局势的会谈后，美国国务卿安东尼·布林肯出人意料地绕道前往北京一家唱片店，抢购了一张泰勒·斯威夫特的专辑和中国经典摇滚歌手窦唯的一张专辑。]]></description>
+      <description><![CDATA[周五，在中美举行旨在缓解超级大国紧张局势的会谈后，美国国务卿安东尼·布林肯意外前往北京的一家唱片店，买下了泰勒·斯威夫特的专辑和中国经典摇滚歌手窦唯的专辑。]]></description>
       <guid>https://www.reuters.com/world/us/bad-blood-with-china-blinken-buys-taylor-swift-album-beijing-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 15:13:27 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[这家法国汽车制造商周五表示，雷诺本周与中国理想汽车和小米就电动和智能汽车技术进行了会谈，为与两家公司在技术方面的潜在合作打开了大门。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/renault-talks-chinas-li-auto-xiaomi-tech-collaboration-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 14:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>世贸组织成员国重启争端改革谈判</title>
-      <link>https://www.reuters.com/world/wto-countries-reboot-dispute-reform-negotiations-2024-04-26/</link>
-      <description><![CDATA[周五的一份文件显示，世界贸易组织成员国在克服了选择首席谈判代表的困难后，将在今年年底前恢复陷入僵局的争端解决体系谈判。]]></description>
-      <guid>https://www.reuters.com/world/wto-countries-reboot-dispute-reform-negotiations-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 13:27:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
