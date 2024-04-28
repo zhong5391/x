@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 28 Apr 2024 20:20:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 20:33:36 GMT</lastBuildDate>
+    <item>
+      <title>据彭博社报道，欧舒丹的亿万富翁老板可能提出 70 亿美元的收购报价</title>
+      <link>https://www.reuters.com/business/retail-consumer/loccitanes-billionaire-owner-close-possible-7-bln-buyout-bid-bloomberg-reports-2024-04-28/</link>
+      <description><![CDATA[据彭博社援引知情人士的消息报道，欧舒丹国际公司 (L&#39;Occitane International SA) 董事长兼亿万富翁所有者即将提出将这家法国护肤公司私有化的提议，这笔交易包括债务在内，该公司的估值可能约为 70 亿美元。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/loccitanes-billionaire-owner-close-possible-7-bln-buyout-bid-bloomberg-reports-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:49:13 GMT</pubDate>
+    </item>
     <item>
       <title>中国在东海争议地区与日本政客对峙</title>
       <link>https://www.reuters.com/world/asia-pacific/china-confronts-japanese-politicians-disputed-e-china-sea-area-2024-04-28/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>独家：消息人士称，中国券商中金公司将交易撮合者的基本薪酬削减 25%</title>
       <link>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</link>
-      <description><![CDATA[三位消息人士称，中国国际金融有限公司（中金公司）将把境内投资银行家的基本工资削减高达 25%，以在市场动荡和中国政府推行紧缩政策的情况下大幅降低成本。]]></description>
+      <description><![CDATA[三名消息人士称，中国国际金融公司（中金公司）正在将境内投资银行家的基本薪酬削减多达 25%，以在市场动荡和北京实施紧缩政策的情况下大力降低成本。]]></description>
       <guid>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</guid>
       <pubDate>Sun, 28 Apr 2024 08:14:50 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>新华社称，中国广州龙卷风已造成5人死亡、33人受伤</title>
       <link>https://www.reuters.com/world/china/tornado-chinas-guangzhou-kills-five-injures-33-xinhua-says-2024-04-27/</link>
-      <description><![CDATA[官方通讯社新华社周六援引当地政府的消息称，一场龙卷风袭击了中国南方城市广州市，造成 5 人死亡、33 人受伤。]]></description>
+      <description><![CDATA[官方通讯社新华社周六援引当地政府的消息称，一场龙卷风袭击了中国南部城市广州，造成 5 人死亡、33 人受伤。]]></description>
       <guid>https://www.reuters.com/world/china/tornado-chinas-guangzhou-kills-five-injures-33-xinhua-says-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 17:55:19 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>所罗门群岛反对党联合起来竞选组建政府</title>
       <link>https://www.reuters.com/world/asia-pacific/solomon-islands-opposition-parties-combine-race-form-government-2024-04-27/</link>
-      <description><![CDATA[所罗门群岛的两个主要反对党周六达成了一项联合协议，在选举中没有产生明显的获胜者后，他们与前总理马内塞·索加瓦雷的政党争夺组建政府。]]></description>
+      <description><![CDATA[所罗门群岛两大反对党于周六达成联合协议，与前总理马内塞·索加瓦雷领导的政党在选举中没有明显获胜者后争夺组建政府。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/solomon-islands-opposition-parties-combine-race-form-government-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 06:24:21 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>菲律宾否认与中国就有争议的南海浅滩达成协议</title>
       <link>https://www.reuters.com/world/asia-pacific/philippines-denies-deal-with-china-over-disputed-south-china-sea-shoal-2024-04-27/</link>
-      <description><![CDATA[周六，菲律宾否认了中国关于两国已就南海不断升级的海上争端达成协议的说法，称这一主张是宣传。]]></description>
+      <description><![CDATA[周六，菲律宾否认了中国关于两国已就南海不断升级的海上争端达成协议的说法，称其为宣传。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/philippines-denies-deal-with-china-over-disputed-south-china-sea-shoal-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 04:27:50 GMT</pubDate>
     </item>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 26 Apr 2024 18:38:53 GMT</pubDate>
     </item>
     <item>
-      <title>中国将主办哈马斯与法塔赫巴勒斯坦统一会谈</title>
+      <title>中国将主办哈马斯和法塔赫举行巴勒斯坦团结会谈</title>
       <link>https://www.reuters.com/world/china-host-hamas-fatah-palestinian-unity-talks-2024-04-26/</link>
       <description><![CDATA[周五，伊斯兰激进组织哈马斯及其竞争对手法塔赫和一名驻北京外交官表示，中国将主持巴勒斯坦团结谈判，这是中国在加沙地带战争期间对巴勒斯坦外交的一次引人注目的尝试。]]></description>
       <guid>https://www.reuters.com/world/china-host-hamas-fatah-palestinian-unity-talks-2024-04-26/</guid>
@@ -106,7 +113,7 @@
     <item>
       <title>北京车展：外国汽车制造商渴望中国合作伙伴</title>
       <link>https://www.reuters.com/business/autos-transportation/foreign-automakers-eager-chinese-partners-beijing-auto-show-2024-04-26/</link>
-      <description><![CDATA[包括大众和丰田在内的全球汽车制造商来到了今年的北京车展，希望赶上在全球最大汽车市场占据主导地位的崛起的中国电动汽车制造商。]]></description>
+      <description><![CDATA[大众和丰田等全球汽车制造商参加了今年的北京车展，希望赶上在全球最大汽车市场上占据主导地位的中国电动汽车制造商。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/foreign-automakers-eager-chinese-partners-beijing-auto-show-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 16:49:10 GMT</pubDate>
     </item>
@@ -125,7 +132,7 @@
       <pubDate>Fri, 26 Apr 2024 15:34:22 GMT</pubDate>
     </item>
     <item>
-      <title>宝马将在关键市场中国追加投资 27.6 亿美元</title>
+      <title>宝马将在中国主要市场追加投资27.6亿美元</title>
       <link>https://www.reuters.com/business/autos-transportation/bmw-invest-276-billion-chinese-production-site-2024-04-26/</link>
       <description><![CDATA[宝马周五表示，计划在中国沉阳生产基地追加投资 200 亿元人民币（合 27.6 亿美元），这表明这家高端汽车制造商“坚定不移地致力于中国市场”。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/bmw-invest-276-billion-chinese-production-site-2024-04-26/</guid>
@@ -134,16 +141,9 @@
     <item>
       <title>与中国有仇？布林肯在北京购买泰勒·斯威夫特的专辑</title>
       <link>https://www.reuters.com/world/us/bad-blood-with-china-blinken-buys-taylor-swift-album-beijing-2024-04-26/</link>
-      <description><![CDATA[周五，在中国举行旨在缓解超级大国紧张局势的会谈后，美国国务卿安东尼·布林肯出人意料地绕道前往北京一家唱片店，抢购了一张泰勒·斯威夫特的专辑和中国经典摇滚歌手窦唯的一张专辑。]]></description>
+      <description><![CDATA[周五，在中美举行旨在缓解超级大国紧张局势的会谈后，美国国务卿安东尼·布林肯意外前往北京的一家唱片店，买下了泰勒·斯威夫特的专辑和中国经典摇滚歌手窦唯的专辑。]]></description>
       <guid>https://www.reuters.com/world/us/bad-blood-with-china-blinken-buys-taylor-swift-album-beijing-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 15:13:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国与台湾周一开始在台北恢复贸易谈判</title>
-      <link>https://www.reuters.com/world/us-taiwan-hold-trade-talks-taipei-starting-monday-2024-04-26/</link>
-      <description><![CDATA[美国贸易代表办公室周五表示，美国和台湾将于周一开始在台北举行新一轮“21世纪”贸易协定谈判。]]></description>
-      <guid>https://www.reuters.com/world/us-taiwan-hold-trade-talks-taipei-starting-monday-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 14:44:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
