@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 28 Apr 2024 06:58:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 07:18:02 GMT</lastBuildDate>
+    <item>
+      <title>独家：消息人士称埃隆·马斯克将前往中国参观特斯拉第二大市场</title>
+      <link>https://www.reuters.com/business/autos-transportation/elon-musk-heading-china-visit-teslas-second-biggest-market-sources-say-2024-04-28/</link>
+      <description><![CDATA[据两位知情人士透露，特斯拉首席执行官埃隆·马斯克周日搭乘飞往北京的航班，开始了在这家电动汽车制造商第二大市场的惊喜之旅。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/elon-musk-heading-china-visit-teslas-second-biggest-market-sources-say-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 05:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>财政司司长表示香港第一季度经济增长2.5%-3.5%</title>
+      <link>https://www.reuters.com/markets/asia/hong-kong-economy-grow-25-35-q1-financial-chief-says-2024-04-28/</link>
+      <description><![CDATA[香港财政司长周日表示，香港第一季度国内生产总值(GDP)预计增长2.5%至3.5%，连续第五个季度保持温和增长。]]></description>
+      <guid>https://www.reuters.com/markets/asia/hong-kong-economy-grow-25-35-q1-financial-chief-says-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 04:56:22 GMT</pubDate>
+    </item>
     <item>
       <title>梅赛德斯-奔驰表示美国司法部结束了对柴油排放丑闻的调查</title>
       <link>https://www.reuters.com/business/autos-transportation/mercedes-benz-says-us-doj-ended-investigation-into-diesel-emissions-scandal-2024-04-27/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>欧盟批评俄罗斯控制德国和意大利公司的部门</title>
       <link>https://www.reuters.com/markets/europe/italys-ariston-says-it-wasnt-notified-transfer-russian-assets-2024-04-27/</link>
-      <description><![CDATA[欧盟周六批评俄罗斯将一家意大利公司和一家德国公司的子公司置于俄罗斯天然气工业股份公司实体的“临时外部管理”之下，称此举突显了莫斯科对国际准则的无视。]]></description>
+      <description><![CDATA[欧盟周六批评俄罗斯将一家意大利公司和一家德国公司的子公司置于俄罗斯天然气工业股份公司实体的“临时外部管理”之下，称此举凸显了莫斯科对国际准则的无视。]]></description>
       <guid>https://www.reuters.com/markets/europe/italys-ariston-says-it-wasnt-notified-transfer-russian-assets-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 14:46:58 GMT</pubDate>
     </item>
@@ -62,18 +76,11 @@
       <pubDate>Fri, 26 Apr 2024 22:37:45 GMT</pubDate>
     </item>
     <item>
-      <title>美国监管机构接管陷入困境的共和第一银行，将其出售给富尔顿银行</title>
+      <title>美国监管机构查封陷入困境的银行Republic First，并将其出售给富尔顿银行</title>
       <link>https://www.reuters.com/business/finance/us-regulators-set-seize-republic-first-bancorp-wsj-reports-2024-04-26/</link>
       <description><![CDATA[美国监管机构接管了共和第一银行，并同意将其出售给富尔顿银行，突显了地区银行在三家同行倒闭一年后面临的挑战。]]></description>
       <guid>https://www.reuters.com/business/finance/us-regulators-set-seize-republic-first-bancorp-wsj-reports-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 21:56:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌计划在印第安纳州和弗吉尼亚州投资 30 亿美元数据中心</title>
-      <link>https://www.reuters.com/technology/google-plans-3-bln-data-center-investment-indiana-virginia-2024-04-26/</link>
-      <description><![CDATA[Alphabet 旗下谷歌周五表示，将投资 30 亿美元在印第安纳州建立数据中心园区，并在弗吉尼亚州扩建站点。]]></description>
-      <guid>https://www.reuters.com/technology/google-plans-3-bln-data-center-investment-indiana-virginia-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 21:48:10 GMT</pubDate>
     </item>
     <item>
       <title>L3Harris 裁员 5% 以节省成本</title>
@@ -92,21 +99,21 @@
     <item>
       <title>政府通知称特斯拉将在内华达州裁员 693 名员工</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-lay-off-693-employees-nevada-government-notice-2024-04-26/</link>
-      <description><![CDATA[一份政府通知显示，特斯拉计划在内华达州斯帕克斯工厂裁员 693 名员工，这是其在销量下降和竞争加剧的情况下裁员 10% 以上计划的一部分。]]></description>
+      <description><![CDATA[政府通知显示，特斯拉计划在内华达州斯帕克斯工厂裁掉 693 名员工，这是其在销量下滑和竞争加剧的情况下削减全球员工 10% 以上计划的一部分。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-lay-off-693-employees-nevada-government-notice-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 20:30:06 GMT</pubDate>
     </item>
     <item>
       <title>标准普尔 500 指数第一季度盈利预期增长改善；库存连续一周上涨</title>
       <link>https://www.reuters.com/markets/us/sp-500-q1-earnings-estimated-growth-improves-stocks-up-week-2024-04-26/</link>
-      <description><![CDATA[在报告期即将过半之际，美国第一季度预计盈利增长势头似乎更为强劲，企业业绩在近期疲软之后，本周给股市带来提振。]]></description>
+      <description><![CDATA[美国第一季度预计盈利增长在报告期接近一半时看起来更为强劲，在近期疲软之后，本周企业业绩提振了股市。]]></description>
       <guid>https://www.reuters.com/markets/us/sp-500-q1-earnings-estimated-growth-improves-stocks-up-week-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:52:20 GMT</pubDate>
     </item>
     <item>
       <title>谷歌请求法院驳回美国广告案</title>
       <link>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</link>
-      <description><![CDATA[Alphabet Inc 旗下谷歌周五请求弗吉尼亚州联邦法院驳回美国政府的一项诉讼，该诉讼指控该广告和搜索巨头在在线广告市场存在反竞争行为。]]></description>
+      <description><![CDATA[Alphabet Inc.旗下的谷歌周五要求弗吉尼亚州联邦法院驳回美国政府的一项诉讼，该诉讼指控这家广告和搜索巨头在在线广告市场上存在反竞争行为。]]></description>
       <guid>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:14:39 GMT</pubDate>
     </item>
@@ -118,13 +125,6 @@
       <pubDate>Fri, 26 Apr 2024 19:09:04 GMT</pubDate>
     </item>
     <item>
-      <title>随着天然气价格暴跌，大型石油公司的盈利出现下滑</title>
-      <link>https://www.reuters.com/markets/commodities/earnings-big-oil-backpaddle-natgas-prices-tumble-2024-04-26/</link>
-      <description><![CDATA[由于天然气价格较去年同期大幅下跌，美国和欧洲石油公司周五公布的第一季度业绩疲软。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/earnings-big-oil-backpaddle-natgas-prices-tumble-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 17:02:13 GMT</pubDate>
-    </item>
-    <item>
       <title>美国通胀温和上升；消费者支出提振第二季度前景</title>
       <link>https://www.reuters.com/markets/us/us-inflation-rises-line-with-expectations-march-2024-04-26/</link>
       <description><![CDATA[美国3月份月度通胀温和上升，但住房和公用事业成本持续上涨表明美联储可能会在一段时间内维持高利率。]]></description>
@@ -134,7 +134,7 @@
     <item>
       <title>随着大型科技股上涨，华尔街股市收盘</title>
       <link>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</link>
-      <description><![CDATA[美国股市周五收高，受科技巨头 Alphabet 和微软强劲的季度业绩以及温和的通胀数据推动，大型成长型股票上涨。]]></description>
+      <description><![CDATA[美国股市周五收盘走高，受科技巨头 Alphabet 和微软公布强劲季度业绩以及温和通胀数据推动，大型成长股上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:04:30 GMT</pubDate>
     </item>
