@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 28 Apr 2024 09:58:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 10:22:22 GMT</lastBuildDate>
     <item>
-      <title>独家：消息人士称，特斯拉首席执行官埃隆·马斯克(Elon Musk)惊喜开启北京之行</title>
+      <title>独家：消息人士称，中国券商中金将交易员基本工资下调 25%</title>
+      <link>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</link>
+      <description><![CDATA[三名消息人士称，中国国际金融公司（中金公司）正在将境内投资银行家的基本工资削减多达 25%，以在市场动荡和北京实施紧缩政策的情况下大力降低成本。]]></description>
+      <guid>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 08:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克访问中国，特斯拉寻求自动驾驶技术推广</title>
       <link>https://www.reuters.com/business/autos-transportation/elon-musk-heading-china-visit-teslas-second-biggest-market-sources-say-2024-04-28/</link>
-      <description><![CDATA[航班跟踪应用程序显示，与特斯拉首席执行官埃隆·马斯克有关的一架私人飞机周日降落在北京，两名知情人士表示，这位亿万富翁正在开始对汽车制造商第二大市场的突然访问。]]></description>
+      <description><![CDATA[据知情人士透露，特斯拉首席执行官埃隆·马斯克周日抵达北京进行突然访问，预计他将在那里会见高级官员，讨论全自动驾驶软件的推出以及向海外传输数据的许可。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/elon-musk-heading-china-visit-teslas-second-biggest-market-sources-say-2024-04-28/</guid>
       <pubDate>Sun, 28 Apr 2024 05:02:30 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>菲律宾否认与中国就有争议的南海浅滩达成协议</title>
       <link>https://www.reuters.com/world/asia-pacific/philippines-denies-deal-with-china-over-disputed-south-china-sea-shoal-2024-04-27/</link>
-      <description><![CDATA[周六，菲律宾否认了中国关于两国已就南海不断升级的海上争端达成协议的说法，称其为宣传。]]></description>
+      <description><![CDATA[周六，菲律宾否认了中国关于两国已就南海不断升级的海上争端达成协议的说法，称这一主张是宣传。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/philippines-denies-deal-with-china-over-disputed-south-china-sea-shoal-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 04:27:50 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>独家：消息人士称，俄罗斯向中国支付的款项有一半是通过中间商进行的</title>
       <link>https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/</link>
-      <description><![CDATA[四位消息人士向路透社表示，由于担心二级制裁吓坏当地银行，俄罗斯企业努力在中国支付货款，这为中间商市场带来了繁荣，目前多达一半的交易由中介机构处理。]]></description>
+      <description><![CDATA[四位消息人士告诉路透社，由于二级制裁担忧吓坏了当地银行，俄罗斯公司在中国支付商品的努力为中间商创造了繁荣的市场，目前多达一半的交易由中间商处理。]]></description>
       <guid>https://www.reuters.com/business/finance/half-russias-payments-china-made-through-middlemen-sources-say-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 17:27:03 GMT</pubDate>
     </item>
@@ -99,21 +106,21 @@
     <item>
       <title>布林肯与中国领导人会谈讨论的关键问题</title>
       <link>https://www.reuters.com/world/key-issues-discussed-by-blinken-talks-with-chinese-leaders-2024-04-26/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周五在北京会见了中国国家主席王毅和中国国家主席习近平，这是两个超级大国之间最新的高层接触，旨在管控紧张关系。]]></description>
+      <description><![CDATA[美国国务卿安东尼·布林肯周五在北京会见了中国外长王毅和中国国家主席习近平，这是超级大国之间旨在控制紧张关系的最新高层接触。]]></description>
       <guid>https://www.reuters.com/world/key-issues-discussed-by-blinken-talks-with-chinese-leaders-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 16:17:51 GMT</pubDate>
     </item>
     <item>
       <title>保时捷公司公布第一季度利润因成本增加而下降</title>
       <link>https://www.reuters.com/business/autos-transportation/porsche-ag-posts-q1-profit-drop-ramp-up-costs-2024-04-26/</link>
-      <description><![CDATA[保时捷周五公布第一季度营业利润下降 30%，原因是这家德国豪华汽车制造商在今年推出了史上最大的产品发布年，因此加大了投资。]]></description>
+      <description><![CDATA[保时捷周五报告称，第一季度营业利润下降了 30%，原因是这家德国豪华汽车制造商在今年推出了史上最大的产品发布年，因此加大了投资。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/porsche-ag-posts-q1-profit-drop-ramp-up-costs-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 15:34:22 GMT</pubDate>
     </item>
     <item>
       <title>宝马将在中国主要市场追加投资27.6亿美元</title>
       <link>https://www.reuters.com/business/autos-transportation/bmw-invest-276-billion-chinese-production-site-2024-04-26/</link>
-      <description><![CDATA[宝马周五表示，计划向中国沈阳生产基地额外投资 200 亿元人民币（27.6 亿美元），彰显该高档汽车制造商“对中国市场的坚定承诺”。]]></description>
+      <description><![CDATA[宝马周五表示，计划在中国沉阳生产基地追加投资 200 亿元人民币（合 27.6 亿美元），这表明这家高端汽车制造商“坚定不移地致力于中国市场”。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/bmw-invest-276-billion-chinese-production-site-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 15:32:29 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>雷诺与中国理想汽车和小米就技术合作进行谈判</title>
       <link>https://www.reuters.com/business/autos-transportation/renault-talks-chinas-li-auto-xiaomi-tech-collaboration-2024-04-26/</link>
-      <description><![CDATA[这家法国汽车制造商周五表示，雷诺本周与中国理想汽车和小米就电动和智能汽车技术进行了会谈，为与两家公司进行技术合作打开了大门。]]></description>
+      <description><![CDATA[这家法国汽车制造商周五表示，雷诺本周与中国理想汽车和小米就电动和智能汽车技术进行了会谈，为与两家公司在技术方面的潜在合作打开了大门。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/renault-talks-chinas-li-auto-xiaomi-tech-collaboration-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 14:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>世贸组织成员国重启争端改革谈判</title>
-      <link>https://www.reuters.com/world/wto-countries-reboot-dispute-reform-negotiations-2024-04-26/</link>
-      <description><![CDATA[周五的一份文件显示，世界贸易组织成员国在克服了选择首席谈判代表的困难后，将在今年年底前恢复陷入僵局的争端解决体系谈判。]]></description>
-      <guid>https://www.reuters.com/world/wto-countries-reboot-dispute-reform-negotiations-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 13:27:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
