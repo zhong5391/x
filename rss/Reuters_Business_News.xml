@@ -3,8 +3,8 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 28 Apr 2024 13:19:28 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Sun, 28 Apr 2024 13:48:44 GMT</lastBuildDate>
     <item>
       <title>独家：消息人士称，中国券商中金公司将交易撮合者的基本薪酬削减 25%</title>
       <link>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</link>
@@ -27,7 +27,7 @@
       <pubDate>Sun, 28 Apr 2024 04:56:22 GMT</pubDate>
     </item>
     <item>
-      <title>梅赛德斯-奔驰称美国司法部结束了对柴油排放丑闻的调查</title>
+      <title>梅赛德斯-奔驰表示美国司法部结束了对柴油排放丑闻的调查</title>
       <link>https://www.reuters.com/business/autos-transportation/mercedes-benz-says-us-doj-ended-investigation-into-diesel-emissions-scandal-2024-04-27/</link>
       <description><![CDATA[该公司周六表示，美国司法部已结束对梅赛德斯-奔驰柴油机排放丑闻的调查，该汽车制造商不再面临指控。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/mercedes-benz-says-us-doj-ended-investigation-into-diesel-emissions-scandal-2024-04-27/</guid>
@@ -69,7 +69,7 @@
       <pubDate>Fri, 26 Apr 2024 23:40:40 GMT</pubDate>
     </item>
     <item>
-      <title>据彭博社报道，苹果与 OpenAI 就 iPhone 生成人工智能功能重启谈判</title>
+      <title>据彭博社报道，苹果与 OpenAI 就 iPhone 生成式人工智能功能重启谈判</title>
       <link>https://www.reuters.com/technology/apple-renews-talks-with-openai-iphone-generative-ai-features-bloomberg-news-2024-04-26/</link>
       <description><![CDATA[据彭博社周五报道，苹果公司已与 OpenAI 重新讨论如何使用该初创公司的生成式人工智能技术来支持今年晚些时候在 iPhone 中推出的一些新功能。]]></description>
       <guid>https://www.reuters.com/technology/apple-renews-talks-with-openai-iphone-generative-ai-features-bloomberg-news-2024-04-26/</guid>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 26 Apr 2024 21:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街本周展望 美国股市高涨，令投资者对盈利感到失望</title>
+      <title>华尔街未来一周美国股市的高涨让投资者遭受盈利失望的惩罚</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-lofty-us-stocks-leave-investors-punishing-earnings-2024-04-26/</link>
       <description><![CDATA[估值过高的美国股市让投资者几乎无法容忍失望，在另外两家科技和增长巨头将公布财报的一周前，他们加大了投资力度。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-lofty-us-stocks-leave-investors-punishing-earnings-2024-04-26/</guid>
@@ -120,7 +120,7 @@
     <item>
       <title>惠誉将波音公司的生产和现金流挑战展望下调至“负面”</title>
       <link>https://www.reuters.com/business/aerospace-defense/fitch-downgrades-boeings-outlook-negative-production-cashflow-challenges-2024-04-26/</link>
-      <description><![CDATA[由于安全危机影响到这家美国飞机制造商的生产和现金流，惠誉评级周五将波音公司的评级展望从“稳定”下调至“负面”。]]></description>
+      <description><![CDATA[由于安全危机影响了美国飞机制造商的生产和现金流，惠誉评级周五将波音公司的前景从“稳定”下调至“负面”。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/fitch-downgrades-boeings-outlook-negative-production-cashflow-challenges-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:09:04 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>随着大型科技股上涨，华尔街股市收盘</title>
       <link>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</link>
-      <description><![CDATA[美国股市周五收盘走高，受科技巨头 Alphabet 和微软公布强劲季度业绩以及温和通胀数据推动，大型成长股上涨。]]></description>
+      <description><![CDATA[美国股市周五收高，受科技巨头 Alphabet 和微软强劲季度业绩以及温和通胀数据推动，大型成长型股票上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-climb-alphabet-microsoft-results-lift-megacaps-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 10:04:30 GMT</pubDate>
     </item>
