@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 00:30:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 01:38:48 GMT</lastBuildDate>
+    <item>
+      <title>SK Innovation 预计第二季度炼油利润将继续保持稳健</title>
+      <link>https://www.reuters.com/business/energy/sk-innovation-expects-solid-refining-margin-continue-q2-2024-04-29/</link>
+      <description><![CDATA[韩国顶级炼油商 SK Energy 的所有者 SK Innovation Co Ltd 周一表示，在强劲经济的强劲需求的支持下，预计第二季度炼油利润率将继续保持稳健。]]></description>
+      <guid>https://www.reuters.com/business/energy/sk-innovation-expects-solid-refining-margin-continue-q2-2024-04-29/</guid>
+      <pubDate>Mon, 29 Apr 2024 00:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>明星娱乐执行主席福斯特辞职，加剧了管理层的外流</title>
+      <link>https://www.reuters.com/business/star-entertainment-executive-chair-foster-steps-down-adds-management-exodus-2024-04-28/</link>
+      <description><![CDATA[Star Entertainment 周一表示，其执行主席 David Foster 将在被任命几周后辞职，这使得这家陷入困境的澳大利亚赌场运营商的高级管理人员纷纷外流。]]></description>
+      <guid>https://www.reuters.com/business/star-entertainment-executive-chair-foster-steps-down-adds-management-exodus-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 23:39:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：随着银行撤回，中国公司在俄罗斯付款方面转入“地下”</title>
+      <link>https://www.reuters.com/business/finance/china-firms-go-underground-russia-payments-banks-pull-back-2024-04-28/</link>
+      <description><![CDATA[随着中国大银行退出对俄罗斯相关交易的融资，一些中国企业开始转向边境小银行和货币经纪人等地下融资渠道，甚至禁止加密货币。]]></description>
+      <guid>https://www.reuters.com/business/finance/china-firms-go-underground-russia-payments-banks-pull-back-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 23:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国汽车保费预计 2024 年第一季度小幅上涨</title>
+      <link>https://www.reuters.com/business/autos-transportation/british-motor-premiums-see-modest-rise-first-quarter-2024-2024-04-28/</link>
+      <description><![CDATA[周一的一项调查显示，英国第一季度汽车保险费用上涨了 1%，表明去年保费涨幅有所放缓。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/british-motor-premiums-see-modest-rise-first-quarter-2024-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 23:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>新加坡电信预计减值额达 23 亿美元，2024 年下半年净亏损</title>
+      <link>https://www.reuters.com/business/media-telecom/singtel-expects-report-loss-2024-second-half-flags-23-bln-impairment-2024-04-28/</link>
+      <description><![CDATA[新加坡电信周一预计 2024 年下半年的非现金减值准备金为 31 亿新元（22.8 亿美元），这将导致该电信巨头报告该期间的净亏损。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/singtel-expects-report-loss-2024-second-half-flags-23-bln-impairment-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 22:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>保险公司友邦保险 (AIA) 第一季​​度新业务价值增长 31%，宣布回购 20 亿美元</title>
+      <link>https://www.reuters.com/business/finance/insurer-aias-first-quarter-new-business-value-rises-31-announces-2-billion-2024-04-28/</link>
+      <description><![CDATA[总部位于香港的保险公司友邦保险集团周一公布，由于各业务部门的强劲表现，其第一季度新业务价值（VONB）按固定汇率计算增长了 31%，并宣布额外回购 20 亿美元的股票。]]></description>
+      <guid>https://www.reuters.com/business/finance/insurer-aias-first-quarter-new-business-value-rises-31-announces-2-billion-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 22:13:45 GMT</pubDate>
+    </item>
     <item>
       <title>早盘买盘：日元乱七八糟，美国科技补剂</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-28/</link>
@@ -27,7 +69,7 @@
       <pubDate>Sun, 28 Apr 2024 19:42:29 GMT</pubDate>
     </item>
     <item>
-      <title>据彭博社报道，欧舒丹亿万富翁老板的收购报价接近 70 亿美元</title>
+      <title>据彭博社报道，欧舒丹的亿万富翁老板可能提出 70 亿美元的收购报价</title>
       <link>https://www.reuters.com/business/retail-consumer/loccitanes-billionaire-owner-close-possible-7-bln-buyout-bid-bloomberg-reports-2024-04-28/</link>
       <description><![CDATA[据彭博社报道，欧舒丹国际公司的亿万富翁老板最早将于周一提出将这家法国护肤品公司私有化的提议，这笔交易包括债务在内，该公司的估值可能约为 70 亿美元。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/loccitanes-billionaire-owner-close-possible-7-bln-buyout-bid-bloomberg-reports-2024-04-28/</guid>
@@ -39,13 +81,6 @@
       <description><![CDATA[据天空新闻周日报道，私募股权巨头 Blackstone 正准备对 Hipgnosis Songs Fund 提出更高的出价，该基金拥有夏奇拉 (Shakira) 和 Blondie 等艺术家的音乐版权。]]></description>
       <guid>https://www.reuters.com/markets/deals/blackstone-make-improved-bid-hipgnosis-sky-news-reports-2024-04-28/</guid>
       <pubDate>Sun, 28 Apr 2024 14:52:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：消息人士称，中国券商中金公司将交易撮合者的基本薪酬削减 25%</title>
-      <link>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</link>
-      <description><![CDATA[三名消息人士称，中国国际金融公司（中金公司）正在将境内投资银行家的基本薪酬削减多达 25%，以在市场动荡和北京实施紧缩政策的情况下大力降低成本。]]></description>
-      <guid>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</guid>
-      <pubDate>Sun, 28 Apr 2024 08:14:50 GMT</pubDate>
     </item>
     <item>
       <title>埃隆·马斯克访问中国，特斯拉寻求自动驾驶技术推广</title>
@@ -71,65 +106,23 @@
     <item>
       <title>消息人士称，必和必拓正在考虑在投标被拒绝后改进英美资源集团的提案</title>
       <link>https://www.reuters.com/markets/deals/bhp-consider-improved-anglo-proposal-after-bid-was-rejected-bloomberg-news-2024-04-27/</link>
-      <description><![CDATA[一位知情人士向路透社透露，必和必拓集团最初提出的 390 亿美元报价遭到英美资源集团的拒绝，目前必和必拓集团正考虑提高对英美资源集团的报价。]]></description>
+      <description><![CDATA[一位知情人士告诉路透社，必和必拓集团正在考虑向英美资源集团提出更高的收购要约，此前其 390 亿美元的初步提议被伦敦上市矿业公司拒绝。]]></description>
       <guid>https://www.reuters.com/markets/deals/bhp-consider-improved-anglo-proposal-after-bid-was-rejected-bloomberg-news-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 15:11:28 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟批评俄罗斯控制德国、意大利公司的子公司</title>
-      <link>https://www.reuters.com/markets/europe/italys-ariston-says-it-wasnt-notified-transfer-russian-assets-2024-04-27/</link>
-      <description><![CDATA[欧盟周六批评俄罗斯将一家意大利公司和一家德国公司的子公司置于俄罗斯天然气工业股份公司实体的“临时外部管理”之下，称此举凸显了莫斯科对国际准则的无视。]]></description>
-      <guid>https://www.reuters.com/markets/europe/italys-ariston-says-it-wasnt-notified-transfer-russian-assets-2024-04-27/</guid>
-      <pubDate>Sat, 27 Apr 2024 14:46:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国一季度工业利润增速引发经济复苏疑虑</title>
+      <title>3月份中国工业利润下滑引发经济复苏疑虑</title>
       <link>https://www.reuters.com/world/china/chinas-first-quarter-industrial-profits-rise-slower-pace-2024-04-27/</link>
-      <description><![CDATA[周六官方数据显示，中国3月份工业利润下降，与前两个月相比，该季度涨幅放缓，引发了人们对世界第二大经济体复苏力度的怀疑。]]></description>
+      <description><![CDATA[周六公布的官方数据显示，中国3月份工业利润下降，该季度涨幅较前两个月放缓，引发人们对世界第二大经济体复苏力度的怀疑。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-first-quarter-industrial-profits-rise-slower-pace-2024-04-27/</guid>
       <pubDate>Sat, 27 Apr 2024 02:40:53 GMT</pubDate>
     </item>
     <item>
-      <title>麦肯锡前合伙人起诉公司，声称他成为阿片类药物的“替罪羊”</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/ex-mckinsey-partner-sues-firm-claims-he-was-made-opioids-scapegoat-2024-04-26/</link>
-      <description><![CDATA[前麦肯锡公司联合合伙人周五起诉这家全球咨询公司，指控该公司诽谤他，并让他成为“替罪羊”，以分散人们对其为奥施康定制造商普渡制药和其他阿片类止痛药制造商提供咨询工作的注意力。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/ex-mckinsey-partner-sues-firm-claims-he-was-made-opioids-scapegoat-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 23:45:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>布林肯表示，美国的芯片禁令并不意味着阻碍中国的增长</title>
-      <link>https://www.reuters.com/technology/us-chip-bans-not-meant-hobble-chinas-growth-blinken-says-2024-04-26/</link>
-      <description><![CDATA[美国国务卿安东尼·布林肯周五在接受国家公共广播电台采访时表示，美国对向中国出口先进计算芯片的出口管制并不是为了阻碍中国的经济或技术发展。]]></description>
-      <guid>https://www.reuters.com/technology/us-chip-bans-not-meant-hobble-chinas-growth-blinken-says-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 23:40:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>据彭博社报道，苹果与 OpenAI 就 iPhone 生成人工智能功能重启谈判</title>
-      <link>https://www.reuters.com/technology/apple-renews-talks-with-openai-iphone-generative-ai-features-bloomberg-news-2024-04-26/</link>
-      <description><![CDATA[据彭博社周五报道，苹果公司已与 OpenAI 重新讨论如何使用该初创公司的生成式人工智能技术来支持今年晚些时候在 iPhone 中推出的一些新功能。]]></description>
-      <guid>https://www.reuters.com/technology/apple-renews-talks-with-openai-iphone-generative-ai-features-bloomberg-news-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 22:44:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国监管机构查封陷入困境的银行Republic First，并将其出售给富尔顿银行</title>
+      <title>美国监管机构接管陷入困境的共和第一银行，将其出售给富尔顿银行</title>
       <link>https://www.reuters.com/business/finance/us-regulators-set-seize-republic-first-bancorp-wsj-reports-2024-04-26/</link>
       <description><![CDATA[美国监管机构接管了共和第一银行，并同意将其出售给富尔顿银行，突显了地区银行在三家同行倒闭一年后面临的挑战。]]></description>
       <guid>https://www.reuters.com/business/finance/us-regulators-set-seize-republic-first-bancorp-wsj-reports-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 21:56:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>政府通知称特斯拉将在内华达州裁员 693 名员工</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-lay-off-693-employees-nevada-government-notice-2024-04-26/</link>
-      <description><![CDATA[一份政府通知显示，特斯拉计划在内华达州斯帕克斯工厂裁员 693 名员工，这是其在销量下降和竞争加剧的情况下裁员 10% 以上计划的一部分。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-lay-off-693-employees-nevada-government-notice-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 20:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>标准普尔 500 指数第一季度盈利预期增长改善；库存连续一周上涨</title>
-      <link>https://www.reuters.com/markets/us/sp-500-q1-earnings-estimated-growth-improves-stocks-up-week-2024-04-26/</link>
-      <description><![CDATA[在报告期即将过半之际，美国第一季度预计盈利增长势头似乎更为强劲，企业业绩在近期疲软之后，本周给股市带来提振。]]></description>
-      <guid>https://www.reuters.com/markets/us/sp-500-q1-earnings-estimated-growth-improves-stocks-up-week-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 19:52:20 GMT</pubDate>
     </item>
     <item>
       <title>谷歌请求法院驳回美国广告案</title>
@@ -137,13 +130,6 @@
       <description><![CDATA[Alphabet Inc.旗下的谷歌周五要求弗吉尼亚州联邦法院驳回美国政府的一项诉讼，该诉讼指控这家广告和搜索巨头在在线广告市场上存在反竞争行为。]]></description>
       <guid>https://www.reuters.com/legal/google-files-motion-summary-judgment-us-ad-tech-case-2024-04-26/</guid>
       <pubDate>Fri, 26 Apr 2024 19:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>惠誉将波音的展望下调至“负面”，因生产和现金流面临挑战</title>
-      <link>https://www.reuters.com/business/aerospace-defense/fitch-downgrades-boeings-outlook-negative-production-cashflow-challenges-2024-04-26/</link>
-      <description><![CDATA[由于安全危机影响了美国飞机制造商的生产和现金流，惠誉评级周五将波音公司的前景从“稳定”下调至“负面”。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/fitch-downgrades-boeings-outlook-negative-production-cashflow-challenges-2024-04-26/</guid>
-      <pubDate>Fri, 26 Apr 2024 19:09:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
