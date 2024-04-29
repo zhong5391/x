@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 16:23:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 16:39:46 GMT</lastBuildDate>
+    <item>
+      <title>加密货币公司 Tether 向脑芯片制造商 Blackrock Neurotech 投资 2 亿美元</title>
+      <link>https://www.reuters.com/technology/crypto-company-tether-invests-200-mln-brain-chip-maker-blackrock-neurotech-2024-04-29/</link>
+      <description><![CDATA[Tether 在周一的一份声明中表示，加密货币公司 Tether 已向 Blackrock Neurotech 投资 2 亿美元，获得美国大脑植入公司的多数股权。]]></description>
+      <guid>https://www.reuters.com/technology/crypto-company-tether-invests-200-mln-brain-chip-maker-blackrock-neurotech-2024-04-29/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:41:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国议员向拜登政府施压，要求其使用加密货币逃避制裁</title>
+      <link>https://www.reuters.com/world/us/us-lawmakers-press-biden-administration-use-crypto-evade-sanctions-2024-04-29/</link>
+      <description><![CDATA[两名议员正在向拜登政府施压，要求其使用加密货币来逃避俄罗斯、伊朗和朝鲜的制裁，并询问官员可能需要哪些额外的权力来防止稳定币 Tether 等数字资产被俄罗斯和其他地方的受制裁实体使用。]]></description>
+      <guid>https://www.reuters.com/world/us/us-lawmakers-press-biden-administration-use-crypto-evade-sanctions-2024-04-29/</guid>
+      <pubDate>Mon, 29 Apr 2024 15:34:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>摩根士丹利股东敦促投票反对代理顾问的薪酬提案</title>
+      <link>https://www.reuters.com/business/morgan-stanley-shareholders-urged-vote-against-pay-proposal-by-proxy-adviser-2024-04-29/</link>
+      <description><![CDATA[根据颇具影响力的代理顾问格拉斯·刘易斯 (Glass Lewis) 的建议，摩根士丹利股东应在 5 月 23 日举行的银行年会上投票反对其高管薪酬提案。]]></description>
+      <guid>https://www.reuters.com/business/morgan-stanley-shareholders-urged-vote-against-pay-proposal-by-proxy-adviser-2024-04-29/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:57:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>ISS 建议股东投票反对贝莱德首席执行官的薪酬提案</title>
+      <link>https://www.reuters.com/business/iss-recommends-shareholders-vote-against-blackrock-ceos-pay-proposal-2024-04-29/</link>
+      <description><![CDATA[代理咨询公司 ISS 周一建议股东投票反对批准贝莱德首席执行官拉里·芬克 2023 年薪酬的提案。]]></description>
+      <guid>https://www.reuters.com/business/iss-recommends-shareholders-vote-against-blackrock-ceos-pay-proposal-2024-04-29/</guid>
+      <pubDate>Mon, 29 Apr 2024 14:36:00 GMT</pubDate>
+    </item>
     <item>
       <title>收购规则阻止英美资源集团在年度股东大会上就必和必拓出价发表太多言论</title>
       <link>https://www.reuters.com/markets/deals/takeover-rules-prevent-anglo-saying-much-bhp-bid-agm-2024-04-29/</link>
@@ -27,25 +55,11 @@
       <pubDate>Mon, 29 Apr 2024 12:40:24 GMT</pubDate>
     </item>
     <item>
-      <title>日元长达数十年下跌的五张图表</title>
-      <link>https://www.reuters.com/markets/currencies/five-charts-japanese-yens-decades-long-drop-2024-04-29/</link>
-      <description><![CDATA[日本日元周一突然上涨，表明该国当局可能终于兑现了几个月来发出的外汇市场干预警告。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/five-charts-japanese-yens-decades-long-drop-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 12:25:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ancora 凭借 Glass Lewis 的推荐在诺福克南方代理权争夺战中获胜</title>
+      <title>安科拉在诺福克南方代理权之争中凭借格拉斯·刘易斯的推荐得分</title>
       <link>https://www.reuters.com/business/glass-lewis-backs-six-ancoras-nominees-norfolk-southern-board-2024-04-29/</link>
       <description><![CDATA[周一，安科拉控股公司 (Ancora Holdings) 在与诺福克南方公司的斗争中取得了胜利，代理咨询公司 Glass Lewis 建议铁路投资者用该激进投资者的六名董事会候选人替换其首席执行官和其他人。]]></description>
       <guid>https://www.reuters.com/business/glass-lewis-backs-six-ancoras-nominees-norfolk-southern-board-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 12:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>旅游公司 Viking 寻求在美国大规模 IPO 中筹集约 13.3 亿美元</title>
-      <link>https://www.reuters.com/business/travel-firm-viking-seeks-raise-about-133-bln-upsized-us-ipo-2024-04-29/</link>
-      <description><![CDATA[旅游公司维京控股周一表示，它正寻求在美国通过扩大首次公开募股筹集最多 13.3 亿美元资金。]]></description>
-      <guid>https://www.reuters.com/business/travel-firm-viking-seeks-raise-about-133-bln-upsized-us-ipo-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:44:24 GMT</pubDate>
     </item>
     <item>
       <title>可可价格飙升使好时和亿滋的盈利成为焦点</title>
@@ -53,13 +67,6 @@
       <description><![CDATA[好时和亿滋国际本周公布第一季度业绩时，投资者将急切地想知道这两家巧克力制造商计划如何应对近期可可和糖价格的飙升。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/soaring-cocoa-prices-put-spotlight-hershey-mondelez-earnings-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 11:33:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国比亚迪第一季度盈利疲弱，价格战显现影响</title>
-      <link>https://www.reuters.com/business/autos-transportation/chinas-byd-shows-effects-price-war-with-weaker-profit-growth-2024-04-29/</link>
-      <description><![CDATA[中国电动汽车 (EV) 制造商比亚迪周一公布了自 2022 年以来最弱的季度利润增长，同时，由于电动汽车需求放缓和全球最大汽车市场激烈的价格战，其收入增长放缓至近四年来的最低水平。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-shows-effects-price-war-with-weaker-profit-growth-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 11:12:33 GMT</pubDate>
     </item>
     <item>
       <title>尽管经济不景气，中国人在尿布和高露洁上的支出仍在增加</title>
@@ -71,7 +78,7 @@
     <item>
       <title>由于通胀推迟软着陆，美联储维持利率不变</title>
       <link>https://www.reuters.com/markets/us/fed-holding-pattern-inflation-delays-approach-any-soft-landing-2024-04-29/</link>
-      <description><![CDATA[尽管美国总统大选仍在继续倒计时，但近期通胀没有放缓或缩小的迹象，这让美联储政策制定者本周面临如何确定下一步行动的挑战。]]></description>
+      <description><![CDATA[通胀近期没有显示出放缓或范围缩小的迹象，这使得美联储决策者本周面临挑战，即如何描述下一步行动，即使有争议的美国总统选举倒计时仍在继续。]]></description>
       <guid>https://www.reuters.com/markets/us/fed-holding-pattern-inflation-delays-approach-any-soft-landing-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 10:10:22 GMT</pubDate>
     </item>
@@ -83,23 +90,23 @@
       <pubDate>Mon, 29 Apr 2024 10:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>数千名酒店员工将在 18 个城市举行集会，为合同谈判做准备</title>
+      <title>数千酒店员工在18个城市举行合同谈判前集会</title>
       <link>https://www.reuters.com/world/us/thousands-hotel-workers-rally-18-cities-ahead-contract-negotiations-2024-04-29/</link>
       <description><![CDATA[要求大幅加薪的酒店工会员工将于五一劳动节在美国和加拿大 18 个城市举行集会，与运营商万豪国际集团、希尔顿全球控股公司和凯悦酒店集团进行谈判。]]></description>
       <guid>https://www.reuters.com/world/us/thousands-hotel-workers-rally-18-cities-ahead-contract-negotiations-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 10:08:12 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉和苹果股价上涨，华尔街股市小幅上涨；美联储即将公布裁决</title>
+      <title>随着特斯拉和苹果的上涨，华尔街小幅上涨；等待美联储决定</title>
       <link>https://www.reuters.com/markets/us/futures-inch-up-megacaps-extend-gains-fed-verdict-tap-2024-04-29/</link>
-      <description><![CDATA[周一，华尔街主要股指在波动性交易中小幅走高，特斯拉和苹果股价上涨，而投资者在本周晚些时候美联储利率决定之前保持谨慎。]]></description>
+      <description><![CDATA[周一，随着特斯拉和苹果股价上涨，华尔街主要股指在波动性交易中小幅走高，而投资者在本周晚些时候美联储利率决定之前保持谨慎。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-inch-up-megacaps-extend-gains-fed-verdict-tap-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 10:06:51 GMT</pubDate>
     </item>
     <item>
       <title>欧盟称苹果 iPadOS 须遵守严格的欧盟技术规则</title>
       <link>https://www.reuters.com/technology/apples-ipados-designated-gatekeeper-under-eu-tech-rules-eu-says-2024-04-29/</link>
-      <description><![CDATA[欧盟委员会周一表示，由于苹果 iPad 操作系统对商业用户的重要性，欧盟反垄断监管机构已将该系统指定为欧盟具有里程碑意义的技术规则下的守门人。]]></description>
+      <description><![CDATA[欧盟委员会周一表示，由于苹果 iPad 操作系统对企业用户的重要性，欧盟反垄断监管机构已将其指定为欧盟具有里程碑意义的科技规则的看门人。]]></description>
       <guid>https://www.reuters.com/technology/apples-ipados-designated-gatekeeper-under-eu-tech-rules-eu-says-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 09:50:31 GMT</pubDate>
     </item>
@@ -111,13 +118,6 @@
       <pubDate>Mon, 29 Apr 2024 09:00:27 GMT</pubDate>
     </item>
     <item>
-      <title>第二届全球人工智能安全峰会面临棘手问题，出席率较低</title>
-      <link>https://www.reuters.com/technology/second-global-ai-safety-summit-faces-tough-questions-lower-turnout-2024-04-29/</link>
-      <description><![CDATA[去年，世界领导人、企业高管和学术专家齐聚英国布莱奇利公园，参加世界首届全球人工智能安全峰会，希望就监管一项有人警告对人类构成威胁的技术达成共识。]]></description>
-      <guid>https://www.reuters.com/technology/second-global-ai-safety-summit-faces-tough-questions-lower-turnout-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 05:03:19 GMT</pubDate>
-    </item>
-    <item>
       <title>随着特斯拉赢得关键认可，埃隆·马斯克在中国之旅中寻求自动驾驶批准</title>
       <link>https://www.reuters.com/world/china/boss-battery-giant-catl-visits-elon-musks-hotel-beijing-reuters-witness-2024-04-29/</link>
       <description><![CDATA[埃隆·马斯克周一结束了旋风般的北京之行，推动中国批准特斯拉推出先进的驾驶员辅助系统，在特斯拉面临中国竞争对手压力之际，此举可能会增加收入。]]></description>
@@ -125,9 +125,9 @@
       <pubDate>Mon, 29 Apr 2024 03:06:19 GMT</pubDate>
     </item>
     <item>
-      <title>疑似干预，日元兑美元飙升</title>
+      <title>由于可能的干预，日元兑美元飙升</title>
       <link>https://www.reuters.com/markets/currencies/dollar-tad-softer-markets-wait-fed-2024-04-29/</link>
-      <description><![CDATA[周一，日元兑美元汇率飙升至 5 日元，交易员称，在日元当天早些时候触及 34 年来的新低后，日本银行 18 个月来首次进行大规模日元买入干预。]]></description>
+      <description><![CDATA[日元兑美元汇率从周一早些时候创下的 34 年新低飙升 5 日元，交易员称日本当局 18 个月来首次干预日元买盘。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-tad-softer-markets-wait-fed-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 00:57:20 GMT</pubDate>
     </item>
