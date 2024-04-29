@@ -1,52 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 29 Apr 2024 10:20:52 GMT</lastBuildDate>
-    <item>
-      <title>消息人士称，必和必拓顾问正在征求投资者对改善英美资源集团出价的看法</title>
-      <link>https://www.reuters.com/markets/deals/bhp-adviser-canvassing-investor-views-improved-anglo-bid-sources-say-2024-04-29/</link>
-      <description><![CDATA[消息人士称，必和必拓在其 390 亿美元收购案中的顾问正在征求部分股东的意见，该公司在上周最初的提议被拒绝后正在考虑提出修改后的报价。]]></description>
-      <guid>https://www.reuters.com/markets/deals/bhp-adviser-canvassing-investor-views-improved-anglo-bid-sources-say-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登签署台湾和TikTok立法后，中国暗示将进行报复</title>
-      <link>https://www.reuters.com/world/china-hints-retaliation-after-biden-signs-taiwan-tiktok-legislation-2024-04-29/</link>
-      <description><![CDATA[中国周一暗示，在美国总统乔·拜登签署加强台湾防御的法律并寻求让 TikTok 的中国所有者从该社交媒体平台撤资后，中国可能会进行报复。]]></description>
-      <guid>https://www.reuters.com/world/china-hints-retaliation-after-biden-signs-taiwan-tiktok-legislation-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于贷款利润率缩水，中国农业银行第一季度利润下降1.63%</title>
-      <link>https://www.reuters.com/business/chinas-agbank-posts-163-fall-q1-profit-2024-04-29/</link>
-      <description><![CDATA[中国农业银行(AgBank)周一公布第一季度净利润下降1.63%，原因是贷款需求低迷导致盈利能力下降。]]></description>
-      <guid>https://www.reuters.com/business/chinas-agbank-posts-163-fall-q1-profit-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:43:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国将对美国部分产品的进口关税豁免期限延长至11月30日</title>
-      <link>https://www.reuters.com/business/china-extend-tariff-exemptions-imports-some-us-products-until-nov-30-2024-04-29/</link>
-      <description><![CDATA[中国财政部周一在一份声明中表示，中国将对部分美国产品的进口关税豁免期限延长至11月30日。]]></description>
-      <guid>https://www.reuters.com/business/china-extend-tariff-exemptions-imports-some-us-products-until-nov-30-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:26:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是特斯拉的全自动驾驶以及为什么其在中国的推出很重要</title>
-      <link>https://www.reuters.com/business/autos-transportation/what-is-teslas-full-self-driving-why-its-china-rollout-matters-2024-04-29/</link>
-      <description><![CDATA[据知情人士透露，特斯拉首席执行官埃隆·马斯克周日抵达北京进行一次未经宣布的访问，预计他将讨论全自动驾驶（FSD）软件的推出以及向海外传输数据的许可。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/what-is-teslas-full-self-driving-why-its-china-rollout-matters-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 08:21:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国习近平将访问法国、塞尔维亚和匈牙利，旨在促进欧盟关系</title>
-      <link>https://www.reuters.com/world/china/chinas-xi-visit-france-serbia-hungary-may-5-10-foreign-ministry-says-2024-04-29/</link>
-      <description><![CDATA[中国国家主席习近平将于5月5日至10日访问法国、塞尔维亚和匈牙利，这是他五年来的首次欧洲之行，旨在在与世界第二大经济体的紧张局势加剧之际促进欧盟关系。]]></description>
-      <guid>https://www.reuters.com/world/china/chinas-xi-visit-france-serbia-hungary-may-5-10-foreign-ministry-says-2024-04-29/</guid>
-      <pubDate>Mon, 29 Apr 2024 07:41:28 GMT</pubDate>
-    </item>
+    <description>Reuters.com 是您了解最新中国新闻和时事的在线来源，确保我们的读者及时了解任何突发新闻发展 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Mon, 29 Apr 2024 10:34:58 GMT</lastBuildDate>
     <item>
       <title>农化公司先正达第一季度销售额和盈利大幅下降</title>
       <link>https://www.reuters.com/business/agrochemicals-company-syngenta-posts-big-drop-q1-sales-earnings-2024-04-29/</link>
@@ -57,7 +15,7 @@
     <item>
       <title>路透调查显示中国四月份工厂活动扩张速度可能放缓</title>
       <link>https://www.reuters.com/world/china/chinas-april-factory-activity-likely-expanded-slower-speed-2024-04-29/</link>
-      <description><![CDATA[路透周一的一项民意调查显示，中国四月份的制造业活动可能会放缓，这表明该国庞大的工厂部门可能在第二季度初失去了一些动力。]]></description>
+      <description><![CDATA[路透社周一的一项调查显示，中国四月份的制造业活动可能会放缓，这表明该国庞大的工厂部门可能在第二季度初失去了一些动力。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-april-factory-activity-likely-expanded-slower-speed-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 05:49:32 GMT</pubDate>
     </item>
@@ -69,7 +27,7 @@
       <pubDate>Mon, 29 Apr 2024 05:47:49 GMT</pubDate>
     </item>
     <item>
-      <title>路透调查：台湾第一季度经济料增长 5.6%，因出口强劲</title>
+      <title>路透调查显示，台湾经济第一季度因出口强劲而增长5.6%</title>
       <link>https://www.reuters.com/markets/asia/taiwans-economy-seen-expanding-56-first-quarter-strong-exports-2024-04-29/</link>
       <description><![CDATA[路透社周一的一项民意调查显示，由于对人工智能（AI）应用技术的需求乐观，出口反弹，台湾依赖贸易的经济可能在第一季度增长更快。]]></description>
       <guid>https://www.reuters.com/markets/asia/taiwans-economy-seen-expanding-56-first-quarter-strong-exports-2024-04-29/</guid>
@@ -99,7 +57,7 @@
     <item>
       <title>中国将向月球“隐藏”的一面发起高风险任务</title>
       <link>https://www.reuters.com/technology/space/china-set-launch-high-stakes-mission-moons-hidden-side-2024-04-29/</link>
-      <description><![CDATA[中国将在未来几天内发射一艘机器人航天器往返月球背面，这是三项技术要求很高的任务中的第一项，这将为中国首次载人登陆和在月球南极建立基地铺平道路。]]></description>
+      <description><![CDATA[中国将在未来几天发射一艘机器人航天器往返月球背面，这是三次技术要求极高的任务中的第一次，将为中国首次载人登陆月球南极和建立月球基地铺平道路。]]></description>
       <guid>https://www.reuters.com/technology/space/china-set-launch-high-stakes-mission-moons-hidden-side-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 03:23:56 GMT</pubDate>
     </item>
@@ -111,23 +69,23 @@
       <pubDate>Mon, 29 Apr 2024 03:06:19 GMT</pubDate>
     </item>
     <item>
-      <title>疑似干预，股市上涨，日元飙升</title>
+      <title>日元因疑似干预而飙升，亚洲股市上涨</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-29/</link>
-      <description><![CDATA[日元兑其他货币周一大幅上涨，此前日元兑美元汇率在盘中早些时候跌破 160 关口，交易员称日本银行干预美元抛售。]]></description>
+      <description><![CDATA[周一，日元兑其他货币大幅上涨，盘中早些时候日元兑美元跌破 160 关口，引发外界猜测东京方面可能在日本休假期间对汇市进行了干预。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 02:39:17 GMT</pubDate>
     </item>
     <item>
-      <title>中国开发商旭辉获得债券持有人批准重组计划</title>
+      <title>中国开发商旭辉的重组计划获得债券持有人批准</title>
       <link>https://www.reuters.com/world/china/china-developer-cifi-gets-bondholder-nod-debt-restructuring-plan-2024-04-29/</link>
-      <description><![CDATA[陷入困境的中国房地产开发商旭辉控股周一表示，已与一批主要债券持有人就海外债务重组计划达成协议。]]></description>
+      <description><![CDATA[陷入困境的中国房地产开发商旭辉控股周一表示，已与一批主要债券持有人就重组境外债务的计划达成协议。]]></description>
       <guid>https://www.reuters.com/world/china/china-developer-cifi-gets-bondholder-nod-debt-restructuring-plan-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 02:27:13 GMT</pubDate>
     </item>
     <item>
       <title>华为支持的 Aito 电动汽车在中国发生事故，造成三人死亡</title>
       <link>https://www.reuters.com/world/china/huawei-suv-crash-kills-three-chinas-shanxi-province-says-state-media-2024-04-29/</link>
-      <description><![CDATA[据官方媒体报道，一辆华为支持的 Aito M7 SUV 在中国北部山西省运城市的高速公路上与一辆卡车相撞后起火，造成三人死亡，其中包括一名两岁男孩。]]></description>
+      <description><![CDATA[据国家媒体报道，在中国北部山西省运城市一条高速公路上，一辆华为支持的爱拓 M7 SUV 与一辆卡车相撞后起火，造成包括一名两岁男孩在内的三人死亡。]]></description>
       <guid>https://www.reuters.com/world/china/huawei-suv-crash-kills-three-chinas-shanxi-province-says-state-media-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 01:14:53 GMT</pubDate>
     </item>
@@ -141,9 +99,51 @@
     <item>
       <title>保险公司友邦保险 (AIA) 第一季​​度新业务价值增长 31%，宣布回购 20 亿美元</title>
       <link>https://www.reuters.com/business/finance/insurer-aias-first-quarter-new-business-value-rises-31-announces-2-billion-2024-04-28/</link>
-      <description><![CDATA[总部位于香港的保险公司友邦保险集团周一公布，由于各业务部门的强劲表现，其第一季度新业务价值（VONB）按固定汇率计算增长了 31%，并宣布额外回购 20 亿美元的股票。]]></description>
+      <description><![CDATA[总部位于香港的保险公司友邦保险集团周一公布，由于各部门的强劲表现，其第一季度新业务价值 (VONB) 按固定汇率计算增长了 31%，并宣布额外回购 20 亿美元的股票。]]></description>
       <guid>https://www.reuters.com/business/finance/insurer-aias-first-quarter-new-business-value-rises-31-announces-2-billion-2024-04-28/</guid>
       <pubDate>Sun, 28 Apr 2024 22:13:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘买盘：日元乱七八糟，美国科技补剂</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-28/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 21:46:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>据彭博社报道，欧舒丹亿万富翁老板的收购报价接近 70 亿美元</title>
+      <link>https://www.reuters.com/business/retail-consumer/loccitanes-billionaire-owner-close-possible-7-bln-buyout-bid-bloomberg-reports-2024-04-28/</link>
+      <description><![CDATA[据彭博社报道，欧舒丹国际公司的亿万富翁老板最早将于周一提出将这家法国护肤品公司私有化的提议，这笔交易包括债务在内，该公司的估值可能约为 70 亿美元。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/loccitanes-billionaire-owner-close-possible-7-bln-buyout-bid-bloomberg-reports-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 18:49:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国在东海争议地区与日本政客对峙</title>
+      <link>https://www.reuters.com/world/asia-pacific/china-confronts-japanese-politicians-disputed-e-china-sea-area-2024-04-28/</link>
+      <description><![CDATA[中国驻东京大使馆和日本媒体周日表示，中国海警在东海两国均声称拥有主权的海域与日本议员对峙，这是涉及中国及其邻国的一系列海事争端中的最新一起。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/china-confronts-japanese-politicians-disputed-e-china-sea-area-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 10:22:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：中国券商中金公司将交易撮合者的基本薪酬削减25%</title>
+      <link>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</link>
+      <description><![CDATA[三名消息人士称，中国国际金融公司（中金公司）正在将境内投资银行家的基本薪酬削减多达 25%，以在市场动荡和北京实施紧缩政策的情况下大力降低成本。]]></description>
+      <guid>https://www.reuters.com/world/china/chinese-brokerage-cicc-cutting-dealmakers-base-pay-by-25-sources-say-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 08:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克访问中国，特斯拉寻求自动驾驶技术推广</title>
+      <link>https://www.reuters.com/business/autos-transportation/elon-musk-heading-china-visit-teslas-second-biggest-market-sources-say-2024-04-28/</link>
+      <description><![CDATA[特斯拉四年前推出了其自动驾驶软件的最自主版本，但尚未在其第二大市场中国推出。当地竞争对手一直在通过推出类似软件来寻求优势。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/elon-musk-heading-china-visit-teslas-second-biggest-market-sources-say-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 05:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>财政司司长表示香港第一季度经济增长2.5%-3.5%</title>
+      <link>https://www.reuters.com/markets/asia/hong-kong-economy-grow-25-35-q1-financial-chief-says-2024-04-28/</link>
+      <description><![CDATA[香港财政司长周日表示，香港第一季度国内生产总值(GDP)预计增长2.5%至3.5%，连续第五个季度保持温和增长。]]></description>
+      <guid>https://www.reuters.com/markets/asia/hong-kong-economy-grow-25-35-q1-financial-chief-says-2024-04-28/</guid>
+      <pubDate>Sun, 28 Apr 2024 04:56:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
