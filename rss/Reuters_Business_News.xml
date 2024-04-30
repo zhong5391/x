@@ -3,14 +3,91 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 11:51:42 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 30 Apr 2024 12:34:06 GMT</lastBuildDate>
     <item>
-      <title>装瓶商可口可乐 HBC 因需求强劲而超出收入预期</title>
-      <link>https://www.reuters.com/business/retail-consumer/bottler-coca-cola-hbc-beats-revenue-estimate-strong-demand-2024-04-30/</link>
-      <description><![CDATA[装瓶商可口可乐 HBC 周二第一季度营收超出市场预期，并重申，在咖啡、能量和起泡饮料强劲需求的支持下，今年营业利润将进一步扩大。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/bottler-coca-cola-hbc-beats-revenue-estimate-strong-demand-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:20:07 GMT</pubDate>
+      <title>马丁·玛丽埃塔第一季度利润超过预期</title>
+      <link>https://www.reuters.com/business/martin-marietta-beats-first-quarter-profit-estimates-2024-04-30/</link>
+      <description><![CDATA[建筑材料公司马丁玛丽埃塔材料公司周二第一季度利润超过预期，因为成本削减帮助抵消了房地产活动放缓带来的影响。]]></description>
+      <guid>https://www.reuters.com/business/martin-marietta-beats-first-quarter-profit-estimates-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 12:21:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>GE医疗保健因中国市场疲软而未能实现季度收入预期</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/ge-healthcare-misses-quarterly-revenue-estimates-weakness-china-market-2024-04-30/</link>
+      <description><![CDATA[受中国市场销量下降以及扫描设备需求弱于预期的影响，GE医疗科技周二第一季度营收未达到预期，导致其股价盘前暴跌12%。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/ge-healthcare-misses-quarterly-revenue-estimates-weakness-china-market-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 12:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于支出保持弹性、利润率改善，PayPal 上调 2024 年利润预期</title>
+      <link>https://www.reuters.com/business/finance/paypal-lifts-2024-profit-forecast-spending-stays-resilient-margins-improve-2024-04-30/</link>
+      <description><![CDATA[PayPal 周二上调了全年调整后利润预期，因为这家支付巨头受益于强劲的消费者支出，而削减成本的措施提高了第一季度的运营利润率。]]></description>
+      <guid>https://www.reuters.com/business/finance/paypal-lifts-2024-profit-forecast-spending-stays-resilient-margins-improve-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 11:40:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃尔玛因缺乏盈利能力而关闭美国所有医疗中心</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/walmart-close-51-us-health-centers-2024-04-30/</link>
+      <description><![CDATA[沃尔玛周二表示，计划关闭其位于美国五个州的全部 51 个医疗中心以及远程医疗业务，理由是这些业务缺乏盈利能力。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/walmart-close-51-us-health-centers-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 11:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷物贸易商 ADM 季度利润超过预期，因成本下降</title>
+      <link>https://www.reuters.com/markets/commodities/grain-trader-adm-beats-quarterly-profit-estimates-costs-ease-2024-04-30/</link>
+      <description><![CDATA[全球谷物贸易商阿彻丹尼尔斯米德兰 (Archer-Daniels-Midland) 周二在成本下降的推动下，2024 年第一季度利润超出市场预期，该公司寻求摆脱引发美国政府对该谷物贸易商调查的会计问题。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/grain-trader-adm-beats-quarterly-profit-estimates-costs-ease-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 11:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于顾客减少支出，麦当劳销售额未达预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/mcdonalds-sales-misses-estimates-customers-cut-back-spending-2024-04-30/</link>
+      <description><![CDATA[周二，麦当劳第一季度销售额未达到华尔街预期，因为精打细算的消费者减少了餐厅的餐食，而中东冲突也拖累了这家汉堡连锁店的国际销售额。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/mcdonalds-sales-misses-estimates-customers-cut-back-spending-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 11:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>可口可乐因全球需求和价格上涨而上调年度销售预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/coca-cola-raises-annual-organic-sales-forecast-strong-global-demand-higher-2024-04-30/</link>
+      <description><![CDATA[由于全球消费者为昂贵的苏打水和果汁花费更多的钱，可口可乐公司在超出第一季度收入和利润预期后，于周二上调了年度有机销售预期。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/coca-cola-raises-annual-organic-sales-forecast-strong-global-demand-higher-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 10:59:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>华为季度利润飙升，复苏步伐加快</title>
+      <link>https://www.reuters.com/technology/huawei-technologies-first-quarter-net-profit-surges-564-yy-2024-04-30/</link>
+      <description><![CDATA[华为母公司周二向监管机构提交的文件显示，随着华为继续从美国制裁中恢复过来，第一季度净利润猛增 564% 至 196.5 亿元人民币（27.1 亿美元）。]]></description>
+      <guid>https://www.reuters.com/technology/huawei-technologies-first-quarter-net-profit-surges-564-yy-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 10:55:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>礼来公司因减肥药需求飙升而将销售额预期上调 20 亿美元</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-beats-profit-estimates-diabetes-weight-loss-drug-strength-2024-04-30/</link>
+      <description><![CDATA[由于需求强劲，礼来公司 (Eli Lilly) 周二将其年收入预期上调 20 亿美元，并计划增加其减肥药物 Zepbound 和相关糖尿病药物 Mounjaro 的产量，使其股价在上市前上涨约 7%。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-beats-profit-estimates-diabetes-weight-loss-drug-strength-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 10:50:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国联邦贸易委员会寻求有关沃尔玛和 Vizio 23 亿美元交易的更多信息</title>
+      <link>https://www.reuters.com/markets/deals/us-ftc-seeks-additional-information-walmart-vizios-23-bln-deal-2024-04-30/</link>
+      <description><![CDATA[智能电视制造商 Vizio 和沃尔玛周二表示，美国联邦贸易委员会已要求其提供有关其拟议的 23 亿美元交易的更多信息。]]></description>
+      <guid>https://www.reuters.com/markets/deals/us-ftc-seeks-additional-information-walmart-vizios-23-bln-deal-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 10:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>汉堡王母公司餐厅品牌因需求强劲而超出预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/burger-king-parent-restaurant-brands-tops-revenue-estimates-strong-demand-2024-04-30/</link>
+      <description><![CDATA[受汉堡王门店需求复苏以及 Tim Hortons 连锁店持续走强的推动，Restaurant Brands International 周二的季度业绩超出了华尔街预期。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/burger-king-parent-restaurant-brands-tops-revenue-estimates-strong-demand-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 10:44:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>3M 因价格上涨和成本削减而超出利润预期</title>
+      <link>https://www.reuters.com/business/3m-quarterly-profit-jumps-price-hikes-cost-cuts-2024-04-30/</link>
+      <description><![CDATA[美国工业巨头3M公司周二公布季度利润好于预期，因价格上涨和成本削减抵消了销售放缓的影响，导致其股价在盘前交易中上涨近8%。]]></description>
+      <guid>https://www.reuters.com/business/3m-quarterly-profit-jumps-price-hikes-cost-cuts-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 10:41:48 GMT</pubDate>
     </item>
     <item>
       <title>泥潭有人吗？美联储观察人士试图预测一种令人困惑的局面</title>
@@ -20,25 +97,11 @@
       <pubDate>Tue, 30 Apr 2024 10:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>时尚集团爱马仕誓言将“坚决捍卫”铂金包诉讼</title>
-      <link>https://www.reuters.com/legal/fashion-group-hermes-vows-vigorously-defend-itself-against-birkin-lawsuit-2024-04-30/</link>
-      <description><![CDATA[时尚公司爱马仕 (Hermes) 在加州提起的诉讼中誓言要“大力捍卫自己”，称该公司非法只允许在该公司有“足够购买历史”的顾客购买其著名的柏金包 (Birkin bag)。]]></description>
-      <guid>https://www.reuters.com/legal/fashion-group-hermes-vows-vigorously-defend-itself-against-birkin-lawsuit-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:12:45 GMT</pubDate>
-    </item>
-    <item>
       <title>下岗：前泰森食品养鸡户转产鸡蛋面临高昂成本</title>
       <link>https://www.reuters.com/world/us/laid-off-former-tyson-foods-chicken-farmers-face-high-costs-switching-eggs-2024-04-30/</link>
-      <description><![CDATA[在泰森食品关闭六家工厂后，一些曾经为泰森食品饲养鸡以供屠宰的美国农民开始转而出售鸡蛋，此举导致当地供应商的工作选择有限。]]></description>
+      <description><![CDATA[在肉类加工企业泰森食品关闭了六家工厂后，一些曾经为泰森食品饲养鸡以供屠宰的美国农民开始转而销售鸡蛋，此举导致当地供应商的工作选择有限。]]></description>
       <guid>https://www.reuters.com/world/us/laid-off-former-tyson-foods-chicken-farmers-face-high-costs-switching-eggs-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 10:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于馏分油需求令人失望，贸易商争相购买美国库存</title>
-      <link>https://www.reuters.com/markets/commodities/traders-scramble-us-storage-distillates-demand-disappoints-2024-04-30/</link>
-      <description><![CDATA[仓储经纪商 The Tank Tiger 周一的数据显示，贸易商正忙着用柴油和取暖油等馏分油填充美国东海岸的储罐，这是供应过剩加剧的迹象，正在影响炼油厂的利润。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/traders-scramble-us-storage-distillates-demand-disappoints-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:08:11 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊可能感受到加入股息俱乐部的压力</title>
@@ -55,95 +118,32 @@
       <pubDate>Tue, 30 Apr 2024 10:06:54 GMT</pubDate>
     </item>
     <item>
-      <title>Facebook、Instagram 因涉嫌违反科技规则而成为欧盟的焦点</title>
-      <link>https://www.reuters.com/technology/facebook-instagram-eu-crosshairs-suspected-tech-rule-breaches-2024-04-30/</link>
-      <description><![CDATA[欧盟委员会周二表示，Meta Platforms 的 Facebook 和 Instagram 未能在关键的欧洲议会选举之前解决欺骗性广告和虚假信息问题，同时对涉嫌违反欧盟在线内容规则的行为展开调查。]]></description>
-      <guid>https://www.reuters.com/technology/facebook-instagram-eu-crosshairs-suspected-tech-rule-breaches-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储的资产负债表计划可能成为本周的焦点</title>
-      <link>https://www.reuters.com/markets/us/feds-balance-sheet-plans-could-take-center-stage-this-week-2024-04-30/</link>
-      <description><![CDATA[一些经济学家表示，美联储最早可能会在本周的政策会议上宣布结束资产负债表决战，不过在通胀高企的情况下，利率前景的不确定性可能会推动“缩减资产负债表”的声明回到六月。]]></description>
-      <guid>https://www.reuters.com/markets/us/feds-balance-sheet-plans-could-take-center-stage-this-week-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:04:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>币安首席执行官赵因洗钱违法行为面临判刑</title>
+      <title>币安首席执行官赵长鹏因洗钱罪面临刑罚</title>
       <link>https://www.reuters.com/legal/binances-ceo-zhao-faces-sentencing-over-money-laundering-violations-2024-04-30/</link>
       <description><![CDATA[全球最大的加密货币交易所币安网前首席执行官因承认违反美国洗钱法而于周二被判刑，他可能面临数年监禁。]]></description>
       <guid>https://www.reuters.com/legal/binances-ceo-zhao-faces-sentencing-over-money-laundering-violations-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 10:03:31 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：随着亚马逊到期，日元再次下滑，财政部计划令人烦恼</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-30/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着焦点转向利率裁决，期货走低</title>
+      <title>随着焦点转向即将召开的美联储会议，期货价格走低</title>
       <link>https://www.reuters.com/markets/us/futures-drift-lower-focus-shifts-rate-verdict-2024-04-30/</link>
-      <description><![CDATA[追踪华尔街主要股指的期货周二表现疲弱，原因是投资者在美联储为期两天的会议结束时没有在利率决定前进行大额押注，而更多的财报更新即将公布。]]></description>
+      <description><![CDATA[追踪华尔街主要股指的期货周二表现疲软，原因是投资者在美联储利率决定之前没有进行大额押注，并密切关注一系列财报更新。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-drift-lower-focus-shifts-rate-verdict-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 09:59:38 GMT</pubDate>
     </item>
     <item>
-      <title>转向新车型，需求疲软打击欧洲顶级汽车制造商</title>
+      <title>需求疲软、转向新车型打击了欧洲顶级汽车制造商</title>
       <link>https://www.reuters.com/business/autos-transportation/shift-new-models-weak-demand-hit-europes-automakers-2024-04-30/</link>
-      <description><![CDATA[欧洲汽车巨头大众、奔驰和 Stellantis 周二均公布销量和第一季度收入下降，原因是它们正准备推出新车型，面临成本上升，而且由于利率居高不下，新车需求减弱，它们受到打击。]]></description>
+      <description><![CDATA[欧洲汽车巨头大众、梅赛德斯-奔驰和Stellantis周二公布的销量和第一季度收入均出现下降，原因是它们准备推出新车型、面临更高的成本以及由于利率居高不下而对新车的需求疲软。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/shift-new-models-weak-demand-hit-europes-automakers-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 08:20:47 GMT</pubDate>
     </item>
     <item>
-      <title>必和必拓考虑收购英美资源集团，投资者担心其会挑拣资产</title>
-      <link>https://www.reuters.com/markets/deals/bhp-weighs-firm-bid-anglo-investors-fret-over-cherry-picking-assets-2024-04-30/</link>
-      <description><![CDATA[英美资源集团的投资者告诉路透社，必和必拓集团不能在不支付高额溢价的情况下挑选英美资源集团的资产，他们担心持有南非子公司的股份可能会遭受重大损失。]]></description>
-      <guid>https://www.reuters.com/markets/deals/bhp-weighs-firm-bid-anglo-investors-fret-over-cherry-picking-assets-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 07:41:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>卫星公司 SES 以 31 亿美元收购 Intelsat</title>
-      <link>https://www.reuters.com/markets/deals/satellites-company-ses-buy-intelsat-31-billion-2024-04-30/</link>
-      <description><![CDATA[卫星公司 SES 周二表示，已同意以约 31 亿美元的价格收购 Intelsat Holdings 的全部股份，这笔交易将创建一个欧洲行业巨头。]]></description>
-      <guid>https://www.reuters.com/markets/deals/satellites-company-ses-buy-intelsat-31-billion-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 07:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本央行对消费和服务价格前景持乐观态度</title>
-      <link>https://www.reuters.com/markets/asia/bank-japan-upbeat-consumption-service-price-outlook-2024-04-30/</link>
-      <description><![CDATA[日本央行表示，日本服务价格正在上涨，企业提供的大幅加薪将在今年晚些时候提高家庭收入，这强调了其对经济正在朝着可持续实现 2% 通胀目标迈进的信心。]]></description>
-      <guid>https://www.reuters.com/markets/asia/bank-japan-upbeat-consumption-service-price-outlook-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 06:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉进军中国自动驾驶市场面临竞争对手的追赶</title>
+      <title>特斯拉进军中国自动驾驶汽车市场 竞争对手群龙无首</title>
       <link>https://www.reuters.com/business/autos-transportation/teslas-self-driving-bid-china-faces-rivals-racing-ahead-2024-04-30/</link>
       <description><![CDATA[如果特斯拉成功地将其“全自动驾驶”系统引入全球最大的汽车市场中国，这家美国电动汽车先驱将驶入全球自动驾驶汽车竞赛的快车道。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/teslas-self-driving-bid-china-faces-rivals-racing-ahead-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 05:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>快时尚巨头 Shein 也想销售护肤品、牙膏和玩具</title>
-      <link>https://www.reuters.com/business/retail-consumer/fast-fashion-giant-shein-wants-sell-skincare-toothpaste-toys-too-2024-04-30/</link>
-      <description><![CDATA[在线快时尚零售商 Shein 正在吸引牙膏集团高露洁棕榄 (Colgate-Palmolive) 和玩具制造商孩之宝 (Hasbro) 等品牌，试图在其平台上销售更多家喻户晓的品牌。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/fast-fashion-giant-shein-wants-sell-skincare-toothpaste-toys-too-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 05:04:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>汇丰银行全面改革的设计师奎因宣布意外退出</title>
-      <link>https://www.reuters.com/business/finance/hsbc-first-quarter-profit-drops-18-beats-estimates-2024-04-30/</link>
-      <description><![CDATA[汇丰银行首席执行官诺埃尔·奎恩(Noel Quinn)周二表示，他计划辞职，这标志着一位精明领导人的意外离职，这位领导者曾负责监督大量资产出售、引导该行实现创纪录的利润并提振其股价。]]></description>
-      <guid>https://www.reuters.com/business/finance/hsbc-first-quarter-profit-drops-18-beats-estimates-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 04:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>4月份中国工厂、服务业活动增速放缓</title>
-      <link>https://www.reuters.com/markets/asia/chinas-factory-activity-grows-slower-pace-april-2024-04-30/</link>
-      <description><![CDATA[周二的官方调查显示，中国四月份制造业和服务业增长放缓，表明世界第二大经济体在第二季度初失去了动力。]]></description>
-      <guid>https://www.reuters.com/markets/asia/chinas-factory-activity-grows-slower-pace-april-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 01:59:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
