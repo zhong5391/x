@@ -4,7 +4,7 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:29:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 15:58:44 GMT</lastBuildDate>
     <item>
       <title>巴西 3 月份创造的就业机会超出预期，表明经济活动更加强劲</title>
       <link>https://www.reuters.com/world/americas/brazils-job-creation-outpaces-expectations-march-signals-stronger-activity-2024-04-30/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>食品分销商 Sysco 因支出疲软而未达季度销售预期</title>
       <link>https://www.reuters.com/business/retail-consumer/food-distributor-sysco-misses-quarterly-sales-estimates-weak-spending-2024-04-30/</link>
-      <description><![CDATA[食品经销商 Sysco 周二第三季度销售未达到预期，原因是消费者减少可自由支配支出，导致需求受到打击。]]></description>
+      <description><![CDATA[食品分销商 Sysco 周二第三季度销售未达到预期，原因是消费者缩减可自由支配支出，导致需求受到打击。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/food-distributor-sysco-misses-quarterly-sales-estimates-weak-spending-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 12:58:35 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>通胀尚未失去对债券市场的控制</title>
       <link>https://www.reuters.com/markets/inflation-hasnt-lost-its-grip-bond-markets-yet-2024-04-30/</link>
-      <description><![CDATA[4月份，发达经济体的政府借贷成本出现了几个月来的最大涨幅，这表明债券市场在通胀和利率长期高于预期的威胁方面尚未走出困境。]]></description>
+      <description><![CDATA[4月份，发达经济体的政府借贷成本出现数月以来的最大涨幅，这表明债券市场在通胀和利率长期高于预期的威胁方面尚未走出困境。]]></description>
       <guid>https://www.reuters.com/markets/inflation-hasnt-lost-its-grip-bond-markets-yet-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 12:34:33 GMT</pubDate>
     </item>
@@ -62,23 +62,23 @@
       <pubDate>Tue, 30 Apr 2024 12:21:45 GMT</pubDate>
     </item>
     <item>
-      <title>GE医疗保健因中国市场疲软而未能实现季度收入预期</title>
+      <title>通用电气医疗集团季度营收未达预期，因中国市场疲软</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/ge-healthcare-misses-quarterly-revenue-estimates-weakness-china-market-2024-04-30/</link>
-      <description><![CDATA[受中国市场销量下滑以及扫描设备需求弱于预期的影响，GE医疗科技周二第一季度营收未达预期，导致其股价盘前暴跌12%。]]></description>
+      <description><![CDATA[通用电气医疗科技公司 (GE HealthCare Technologies) 周二公布的第一季度营收不及预期，受中国市场销量下降及扫描设备需求弱于预期的影响，其股价盘前一度下跌 12%。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/ge-healthcare-misses-quarterly-revenue-estimates-weakness-china-market-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 12:03:23 GMT</pubDate>
     </item>
     <item>
       <title>由于支出保持弹性、利润率改善，PayPal 上调 2024 年利润预期</title>
       <link>https://www.reuters.com/business/finance/paypal-lifts-2024-profit-forecast-spending-stays-resilient-margins-improve-2024-04-30/</link>
-      <description><![CDATA[由于受益于强劲的消费者支出，同时削减成本的措施提高了第一季度的营业利润率，这家支付巨头周二上调了全年调整后利润预期。]]></description>
+      <description><![CDATA[PayPal 周二上调了全年调整后利润预期，因为这家支付巨头受益于强劲的消费者支出，而削减成本的措施提高了第一季度的运营利润率。]]></description>
       <guid>https://www.reuters.com/business/finance/paypal-lifts-2024-profit-forecast-spending-stays-resilient-margins-improve-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 11:40:36 GMT</pubDate>
     </item>
     <item>
       <title>麦当劳因顾客变得挑剔而出现罕见的利润下滑</title>
       <link>https://www.reuters.com/business/retail-consumer/mcdonalds-sales-misses-estimates-customers-cut-back-spending-2024-04-30/</link>
-      <description><![CDATA[麦当劳两年来首次未能达到季度利润预期，因为精打细算的消费者忽视了其优惠，而中东冲突也影响了这家汉堡连锁店的国际销售。]]></description>
+      <description><![CDATA[麦当劳两年来首次未能达到季度利润预期，因为精打细算的消费者忽视了麦当劳的优惠，而且中东冲突对该汉堡连锁店的国际销售造成了压力。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/mcdonalds-sales-misses-estimates-customers-cut-back-spending-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 11:02:23 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Tue, 30 Apr 2024 10:50:29 GMT</pubDate>
     </item>
     <item>
-      <title>3M 因价格上涨和成本削减而超出利润预期</title>
+      <title>3M 涨价、削减成本，利润超出预期</title>
       <link>https://www.reuters.com/business/3m-quarterly-profit-jumps-price-hikes-cost-cuts-2024-04-30/</link>
       <description><![CDATA[美国工业巨头3M公司周二公布季度利润好于预期，因价格上涨和成本削减抵消了销售放缓的影响，导致其股价在盘前交易中上涨近8%。]]></description>
       <guid>https://www.reuters.com/business/3m-quarterly-profit-jumps-price-hikes-cost-cuts-2024-04-30/</guid>
@@ -106,28 +106,28 @@
     <item>
       <title>下岗：前泰森食品养鸡户转产鸡蛋面临高昂成本</title>
       <link>https://www.reuters.com/world/us/laid-off-former-tyson-foods-chicken-farmers-face-high-costs-switching-eggs-2024-04-30/</link>
-      <description><![CDATA[在泰森食品关闭六家工厂后，一些曾经为泰森食品饲养鸡以供屠宰的美国农民开始转而出售鸡蛋，此举导致当地供应商的工作选择有限。]]></description>
+      <description><![CDATA[在泰森食品公司关闭六家工厂后，一些曾经为泰森食品公司饲养鸡进行屠宰的美国农民开始转而出售鸡蛋，此举导致当地供应商的工作选择有限。]]></description>
       <guid>https://www.reuters.com/world/us/laid-off-former-tyson-foods-chicken-farmers-face-high-costs-switching-eggs-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 10:09:58 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊可能面临加入股息俱乐部的压力</title>
+      <title>亚马逊可能感受到加入股息俱乐部的压力</title>
       <link>https://www.reuters.com/technology/amazoncom-may-be-feeling-pressure-join-dividend-club-2024-04-30/</link>
-      <description><![CDATA[电子商务巨头亚马逊可能面临越来越大的向投资者派发股息的压力，因为它现在发现自己是美国少数几家不定期向股东派发股息的大型科技和成长型公司之一。]]></description>
+      <description><![CDATA[电子商务巨头亚马逊可能面临着越来越大的向投资者提供股息的压力，因为它现在发现自己是美国少数几家不定期向股东派息的大型科技和成长型公司之一。]]></description>
       <guid>https://www.reuters.com/technology/amazoncom-may-be-feeling-pressure-join-dividend-club-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 10:07:37 GMT</pubDate>
     </item>
     <item>
       <title>币安首席执行官赵因洗钱违法行为面临判刑</title>
       <link>https://www.reuters.com/legal/binances-ceo-zhao-faces-sentencing-over-money-laundering-violations-2024-04-30/</link>
-      <description><![CDATA[全球最大加密货币交易所币安网前首席执行官因承认违反美国洗钱法而于周二被判刑，他可能面临数年监禁。]]></description>
+      <description><![CDATA[全球最大的加密货币交易所币安网前首席执行官因承认违反美国洗钱法而于周二被判刑，他可能面临数年监禁。]]></description>
       <guid>https://www.reuters.com/legal/binances-ceo-zhao-faces-sentencing-over-money-laundering-violations-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 10:03:31 GMT</pubDate>
     </item>
     <item>
       <title>劳动力成本数据公布后，华尔街股市在美联储裁决前下跌</title>
       <link>https://www.reuters.com/markets/us/futures-drift-lower-focus-shifts-rate-verdict-2024-04-30/</link>
-      <description><![CDATA[华尔街主要股指周二下跌，美联储利率决定前市场普遍谨慎，劳动力成本强于预期暗示通胀持续存在。]]></description>
+      <description><![CDATA[由于美联储公布利率决议前市场谨慎情绪高涨，且劳动力成本高于预期暗示通胀将持续存在，华尔街主要股指周二下跌。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-drift-lower-focus-shifts-rate-verdict-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 09:59:38 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>特斯拉进军中国自动驾驶市场面临竞争对手的追赶</title>
       <link>https://www.reuters.com/business/autos-transportation/teslas-self-driving-bid-china-faces-rivals-racing-ahead-2024-04-30/</link>
-      <description><![CDATA[如果特斯拉成功地将其“全自动驾驶”系统引入全球最大的汽车市场中国，这家美国电动汽车先驱将驶入全球自动驾驶汽车竞赛的快车道。]]></description>
+      <description><![CDATA[如果特斯拉成功将其“全自动驾驶”系统引入全球最大的汽车市场中国，这家美国电动汽车先驱将驶入全球自动驾驶汽车竞赛的快车道。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/teslas-self-driving-bid-china-faces-rivals-racing-ahead-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 05:06:31 GMT</pubDate>
     </item>
