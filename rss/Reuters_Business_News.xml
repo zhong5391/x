@@ -3,75 +3,96 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 23:18:01 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 30 Apr 2024 23:31:11 GMT</lastBuildDate>
     <item>
-      <title>芯片制造商 AMD 第一季度营收超过预期</title>
+      <title>澳大利亚零售商 Woolworths 将出售 Endeavour Group 价值 3.03 亿美元的股份</title>
+      <link>https://www.reuters.com/business/retail-consumer/australian-retailer-woolworths-sell-303-mln-stake-endeavour-group-2024-04-30/</link>
+      <description><![CDATA[澳大利亚零售商 Woolworths 周三表示，将出售 Endeavor Group 5% 的股份，该集团经营酒类商店和酒吧，收益达 4.68 亿澳元（合 3.0298 亿美元）。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/australian-retailer-woolworths-sell-303-mln-stake-endeavour-group-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 22:23:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>S3 称特朗普社交媒体公司股价上涨给做空者带来压力</title>
+      <link>https://www.reuters.com/technology/trump-social-media-firms-rising-shares-pressure-short-sellers-s3-says-2024-04-30/</link>
+      <description><![CDATA[特朗普媒体与卖空者分析公司 S3 Partners 表示，Technology Group 正感受到该公司股价近期上涨以及借股成本上升的压力。]]></description>
+      <guid>https://www.reuters.com/technology/trump-social-media-firms-rising-shares-pressure-short-sellers-s3-says-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 22:09:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普将其媒体公司的股份增至近 65%</title>
+      <link>https://www.reuters.com/technology/trump-raises-stake-his-media-firm-nearly-65-2024-04-30/</link>
+      <description><![CDATA[根据周二提交的文件，截至上周，唐纳德·特朗普已将其在运营其社交媒体应用程序 Truth Social 的公司中的股份提高到近 65%。]]></description>
+      <guid>https://www.reuters.com/technology/trump-raises-stake-his-media-firm-nearly-65-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 21:29:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>IBM 赢得撤销 BMC 价值 16 亿美元的软件合同判决</title>
+      <link>https://www.reuters.com/legal/ibm-wins-reversal-16-billion-judgment-bmc-over-software-contract-2024-04-30/</link>
+      <description><![CDATA[联邦上诉法院周二推翻了一项要求 IBM 向竞争对手 BMC Software 支付 16 亿美元的判决，此前法官发现 IBM 不恰当地用自己的软件取代了 AT&amp;T 的 BMC 大型机软件。]]></description>
+      <guid>https://www.reuters.com/legal/ibm-wins-reversal-16-billion-judgment-bmc-over-software-contract-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 21:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>电动汽车制造商 Polestar 将第二次推迟第四季度业绩公布</title>
+      <link>https://www.reuters.com/business/autos-transportation/ev-maker-polestar-delay-fourth-quarter-results-second-time-2024-04-30/</link>
+      <description><![CDATA[瑞典电动汽车制造商 Polestar Automotive 发言人周二表示，该公司将第二次推迟公布其第四季度和 2023 年全年财务业绩。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ev-maker-polestar-delay-fourth-quarter-results-second-time-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 20:32:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD AI芯片营收预期不及预期，股价暴跌7%</title>
       <link>https://www.reuters.com/technology/chipmaker-amd-beats-first-quarter-revenue-estimates-2024-04-30/</link>
-      <description><![CDATA[芯片制造商 Advanced Micro Devices 周二第一季度营收小幅超出预期，原因是传统数据中心使用的芯片需求不温不火，加剧了游戏芯片市场的疲软。]]></description>
+      <description><![CDATA[Advanced Micro Devices 周二预测的 AI 芯片销量未能给投资者留下深刻印象，导致其股价在盘后交易中下跌约 7%。]]></description>
       <guid>https://www.reuters.com/technology/chipmaker-amd-beats-first-quarter-revenue-estimates-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 20:23:47 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克解散特斯拉电动汽车充电团队，让客户蒙在鼓里</title>
+      <title>马斯克解散特斯拉电动汽车充电团队，让客户陷入黑暗</title>
       <link>https://www.reuters.com/business/autos-transportation/musk-disbands-tesla-ev-charging-team-leaving-customers-dark-2024-04-30/</link>
-      <description><![CDATA[业内官员和分析师周二表示，埃隆·马斯克突然决定解雇负责特斯拉电动汽车充电业务的员工，这让那些正准备为客户配备新电动汽车以使用特斯拉超级充电网络的汽车制造商措手不及。]]></description>
+      <description><![CDATA[行业官员和分析师周二表示，埃隆·马斯克突然决定解雇负责特斯拉电动汽车充电业务的员工，这让那些准备为客户配备新电动汽车以使用特斯拉超级充电网络的汽车制造商措手不及。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/musk-disbands-tesla-ev-charging-team-leaving-customers-dark-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 20:23:22 GMT</pubDate>
     </item>
     <item>
-      <title>亿滋国际超出第一季度销售额和利润预期</title>
+      <title>高乐氏因定价优势上调年度利润预测</title>
+      <link>https://www.reuters.com/business/retail-consumer/clorox-lifts-annual-profit-forecast-pricing-benefits-2024-04-30/</link>
+      <description><![CDATA[高乐氏公司(Clorox Co)周二在超出季度盈利预期后上调了年度利润预期，寄希望于价格上涨的影响来抵消不断上升的成本。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/clorox-lifts-annual-profit-forecast-pricing-benefits-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 20:16:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>亿滋国际因价格上涨而超过第一季度销售额和利润预期</title>
       <link>https://www.reuters.com/business/retail-consumer/mondelez-international-beats-q1-sales-profit-estimates-2024-04-30/</link>
-      <description><![CDATA[吉百利母公司亿滋国际(Mondelez International)周二的第一季度销售额和利润超出了市场预期，尽管通胀成本不断上升，但得益于巧克力和咸饼干等昂贵产品的稳定需求。]]></description>
+      <description><![CDATA[吉百利母公司亿滋国际(Mondelez International)周二第一季度的销售额和利润超出了市场预期，尽管成本不断上涨，但对其巧克力和咸饼干等昂贵产品的需求稳定，推动了这一增长。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/mondelez-international-beats-q1-sales-profit-estimates-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 20:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>由于天然气价格仍然较低，切萨皮克能源公司季度利润未达预期</title>
-      <link>https://www.reuters.com/business/energy/chesapeake-energy-misses-quarterly-profit-estimates-natgas-prices-remain-low-2024-04-30/</link>
-      <description><![CDATA[天然气生产商切萨皮克能源公司(Chesapeake Energy Corp)周二第一季度利润未达到华尔街预期，因为持续走低的天然气价格拖累了该公司的营收。]]></description>
-      <guid>https://www.reuters.com/business/energy/chesapeake-energy-misses-quarterly-profit-estimates-natgas-prices-remain-low-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 20:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>星巴克报告季度销售额意外下降</title>
+      <title>星巴克报告同店销售额意外下降；股价暴跌</title>
       <link>https://www.reuters.com/business/retail-consumer/starbucks-reports-surprise-fall-quarterly-sales-2024-04-30/</link>
-      <description><![CDATA[星巴克周二公布第二季度可比销售额意外下降，原因是其两个最大市场美国和中国的咖啡需求疲软，导致其股价在盘后交易中下跌 6%。]]></description>
+      <description><![CDATA[星巴克周二公布，由于其两大市场美国和中国咖啡需求疲软，同店销售额约三年来首次出现下滑，导致其股价在盘后交易中下跌 11%。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/starbucks-reports-surprise-fall-quarterly-sales-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 20:10:52 GMT</pubDate>
     </item>
     <item>
-      <title>Pinterest 预测季度收入高于预期，股价飙升</title>
-      <link>https://www.reuters.com/technology/pinterest-forecasts-quarterly-revenue-above-estimates-robust-ad-spend-2024-04-30/</link>
-      <description><![CDATA[Pinterest 周二预测第二季度营收将高于华尔街预期，预计图片分享平台的广告支出增长将带来提振，推动股价在盘后交易中上涨逾 20%。]]></description>
-      <guid>https://www.reuters.com/technology/pinterest-forecasts-quarterly-revenue-above-estimates-robust-ad-spend-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 20:08:39 GMT</pubDate>
+      <title>由于激烈的竞争，超微未能达到季度收入预期，股价下跌</title>
+      <link>https://www.reuters.com/technology/super-micro-forecasts-quarterly-revenue-above-estimates-2024-04-30/</link>
+      <description><![CDATA[超微电脑周二公布的第三季度收入低于预期，受到服务器制造行业激烈竞争的影响，但由于预计其人工智能服务器的需求稳定，该公司预计第四季度收入将高于预期。]]></description>
+      <guid>https://www.reuters.com/technology/super-micro-forecasts-quarterly-revenue-above-estimates-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 20:10:10 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊预测季度收入低于预期</title>
+      <title>亚马逊业绩超出预期；收入预测未达预期</title>
       <link>https://www.reuters.com/technology/amazon-forecasts-quarterly-revenue-below-estimates-2024-04-30/</link>
-      <description><![CDATA[亚马逊周二预测第二季度收入低于华尔街预期，因为该公司预计注重成本的企业在其云计算服务上的支出将不温不火。]]></description>
+      <description><![CDATA[亚马逊周二公布的季度业绩超出了华尔街的预期，因为人们对人工智能的兴趣推动了云计算的增长。]]></description>
       <guid>https://www.reuters.com/technology/amazon-forecasts-quarterly-revenue-below-estimates-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 20:04:54 GMT</pubDate>
     </item>
     <item>
-      <title>澳大利亚西太平洋银行将暂停关闭地区分行的期限延长至 2027 年</title>
-      <link>https://www.reuters.com/business/finance/australian-bank-westpac-extends-moratorium-regional-branch-closures-till-2027-2024-04-30/</link>
-      <description><![CDATA[西太平洋银行周三早些时候表示，该行已将其地区分支机构的关闭时间推迟到至少 2027 年，并将在未来两年内投资超过 1.5 亿澳元来改善这些分支机构的服务。]]></description>
-      <guid>https://www.reuters.com/business/finance/australian-bank-westpac-extends-moratorium-regional-branch-closures-till-2027-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 19:41:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国FCC恢复对宽带服务提供商的全面监管</title>
-      <link>https://www.reuters.com/business/media-telecom/us-fcc-resumes-oversight-over-broadband-providers-cancelling-2017-memo-2024-04-30/</link>
-      <description><![CDATA[美国联邦通信委员会 (FCC) 周二表示，它已终止与联邦贸易委员会 2017 年签署的谅解备忘录，该备忘录改变了对宽带服务提供商的部分监管。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/us-fcc-resumes-oversight-over-broadband-providers-cancelling-2017-memo-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 19:32:48 GMT</pubDate>
-    </item>
-    <item>
       <title>随着美国司法部将大麻重新归类为危险性较低的药物，大麻股上涨</title>
       <link>https://www.reuters.com/markets/us/pot-stocks-jump-us-doj-moves-reclassify-cannabis-less-dangerous-drug-2024-04-30/</link>
-      <description><![CDATA[在美国司法部 (DoJ) 将大麻重新归类为低危险药物后，大麻公司的股价周二下午飙升。]]></description>
+      <description><![CDATA[在美国司法部（DoJ）采取行动将大麻重新归类为危险性较低的药物后，大麻公司的股价周二下午飙升。]]></description>
       <guid>https://www.reuters.com/markets/us/pot-stocks-jump-us-doj-moves-reclassify-cannabis-less-dangerous-drug-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 19:12:39 GMT</pubDate>
     </item>
@@ -85,16 +106,9 @@
     <item>
       <title>前谷歌员工称因抗议以色列合同而解雇员工是非法的</title>
       <link>https://www.reuters.com/technology/ex-google-workers-say-firings-protesting-israel-contract-were-illegal-2024-04-30/</link>
-      <description><![CDATA[Alphabet 旗下谷歌的一群员工向美国劳工委员会提出申诉，声称该科技公司非法解雇了约 50 名员工，原因是抗议其与以色列政府签订的云合同。]]></description>
+      <description><![CDATA[Alphabet Inc 旗下谷歌的一群员工向美国劳工委员会提出申诉，声称该科技公司因抗议其与以色列政府签订的云计算合同而非法解雇了约 50 名员工。]]></description>
       <guid>https://www.reuters.com/technology/ex-google-workers-say-firings-protesting-israel-contract-were-illegal-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 17:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>格拉斯·刘易斯建议投资者投票反对包括首席执行官卡尔霍恩在内的三名波音董事</title>
-      <link>https://www.reuters.com/business/aerospace-defense/glass-lewis-recommends-investors-vote-against-three-boeing-directors-2024-04-30/</link>
-      <description><![CDATA[代理顾问格拉斯·刘易斯（Glass Lewis）建议股东投票反对连任波音董事会三名董事，其中包括即将离任的首席执行官戴夫·卡尔霍恩（Dave Calhoun），理由是对这家飞机制造商转变安全文化的努力不满。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/glass-lewis-recommends-investors-vote-against-three-boeing-directors-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 15:00:01 GMT</pubDate>
     </item>
     <item>
       <title>第一季度美国劳动力成本增长加速</title>
@@ -106,14 +120,14 @@
     <item>
       <title>麦当劳因顾客变得挑剔而出现罕见的利润下滑</title>
       <link>https://www.reuters.com/business/retail-consumer/mcdonalds-sales-misses-estimates-customers-cut-back-spending-2024-04-30/</link>
-      <description><![CDATA[麦当劳两年来首次未能达到季度利润预期，因为精打细算的消费者忽视了麦当劳的优惠，而且中东冲突对该汉堡连锁店的国际销售造成了压力。]]></description>
+      <description><![CDATA[麦当劳两年来首次未能达到季度利润预期，因为精打细算的消费者忽视了其优惠，而中东冲突也影响了这家汉堡连锁店的国际销售。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/mcdonalds-sales-misses-estimates-customers-cut-back-spending-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 11:02:23 GMT</pubDate>
     </item>
     <item>
       <title>可口可乐押注昂贵的苏打水和国际需求以提高年度销售预期</title>
       <link>https://www.reuters.com/business/retail-consumer/coca-cola-raises-annual-organic-sales-forecast-strong-global-demand-higher-2024-04-30/</link>
-      <description><![CDATA[可口可乐在第一季度业绩超出预期后，周二上调了年度有机销售预期，原因是美国和国际市场的消费者为其昂贵的苏打水和果汁支付了更多的钱。]]></description>
+      <description><![CDATA[由于美国和国际市场的消费者为其昂贵的苏打水和果汁支付了更多费用，可口可乐第一季度业绩超出预期，该公司周二上调了年度有机销售额预测。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/coca-cola-raises-annual-organic-sales-forecast-strong-global-demand-higher-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 10:59:49 GMT</pubDate>
     </item>
@@ -125,16 +139,9 @@
       <pubDate>Tue, 30 Apr 2024 10:41:48 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊可能感受到加入股息俱乐部的压力</title>
-      <link>https://www.reuters.com/technology/amazoncom-may-be-feeling-pressure-join-dividend-club-2024-04-30/</link>
-      <description><![CDATA[电子商务巨头亚马逊可能面临着越来越大的向投资者提供股息的压力，因为它现在发现自己是美国少数几家不定期向股东派息的大型科技和成长型公司之一。]]></description>
-      <guid>https://www.reuters.com/technology/amazoncom-may-be-feeling-pressure-join-dividend-club-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 10:07:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于市场权衡强劲的工资数据和美联储会议，华尔街股市下跌</title>
+      <title>华尔街股市下跌，因市场关注强劲的工资数据和美联储会议</title>
       <link>https://www.reuters.com/markets/us/futures-drift-lower-focus-shifts-rate-verdict-2024-04-30/</link>
-      <description><![CDATA[美国股市周二收盘走低，因为在美联储召开决定利率方向的关键政策会议前夕，市场受到经济数据的拖累，劳动力成本上升，消费者信心恶化。]]></description>
+      <description><![CDATA[美国股市周二收低，因市场权衡显示劳动力成本上升和消费者信心恶化的经济数据，美联储将在决定利率方向的重要政策会议当天召开。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-drift-lower-focus-shifts-rate-verdict-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 09:59:38 GMT</pubDate>
     </item>
