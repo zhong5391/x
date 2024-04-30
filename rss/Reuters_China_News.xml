@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 30 Apr 2024 13:19:10 GMT</lastBuildDate>
+    <description>Reuters.com 是您了解最新中国新闻和时事的在线来源，确保我们的读者及时了解任何突发新闻发展 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 30 Apr 2024 13:32:08 GMT</lastBuildDate>
     <item>
       <title>中国商务部部长会见德国汽车工业总裁</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-commerce-minister-meets-german-auto-industry-president-ministry-says-2024-04-30/</link>
@@ -56,9 +56,9 @@
       <pubDate>Tue, 30 Apr 2024 09:31:39 GMT</pubDate>
     </item>
     <item>
-      <title>香港企业关门歇业，城市在大流行后艰难复苏</title>
+      <title>香港企业关门歇业，城市努力在疫情后复苏</title>
       <link>https://www.reuters.com/world/china/hong-kong-businesses-shut-shop-city-struggles-revive-post-pandemic-2024-04-30/</link>
-      <description><![CDATA[十多年前，48 岁的 Jacky Yu 在香港开设了自己的日本礼品店。当时，旺角旅游和购物区是一个熙熙攘攘的中心，挤满了摊位、街头小吃和游客。]]></description>
+      <description><![CDATA[十多年前，当 48 岁的 Jacky Yu 在香港开设日本礼品店时，旺角的旅游和购物区是一个熙熙攘攘的中心，挤满了摊位、街头小吃和游客。]]></description>
       <guid>https://www.reuters.com/world/china/hong-kong-businesses-shut-shop-city-struggles-revive-post-pandemic-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 08:23:05 GMT</pubDate>
     </item>
@@ -105,7 +105,7 @@
       <pubDate>Tue, 30 Apr 2024 06:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉进军中国自动驾驶市场面临竞争对手的追赶</title>
+      <title>特斯拉进军中国自动驾驶汽车市场 竞争对手群龙无首</title>
       <link>https://www.reuters.com/business/autos-transportation/teslas-self-driving-bid-china-faces-rivals-racing-ahead-2024-04-30/</link>
       <description><![CDATA[如果特斯拉成功地将其“全自动驾驶”系统引入全球最大的汽车市场中国，这家美国电动汽车先驱将驶入全球自动驾驶汽车竞赛的快车道。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/teslas-self-driving-bid-china-faces-rivals-racing-ahead-2024-04-30/</guid>
