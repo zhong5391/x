@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 16:26:03 GMT</lastBuildDate>
+    <item>
+      <title>汇丰银行在出人意料的首席执行官搜寻中必须优先考虑亚洲专业知识</title>
+      <link>https://www.reuters.com/business/finance/hsbc-must-prioritise-asian-expertise-surprise-ceo-search-2024-04-30/</link>
+      <description><![CDATA[在首席执行官诺埃尔·奎恩 (Noel Quinn) 的领导下，汇丰银行应对了全球疫情，并在反叛投资者的推动下分拆了这家拥有 160 年历史的银行。投资者表示，他的意外离职是加速其战略重心转向亚洲的一个机会。]]></description>
+      <guid>https://www.reuters.com/business/finance/hsbc-must-prioritise-asian-expertise-surprise-ceo-search-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 15:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登签署新备忘录，加强美国关键基础设施安全</title>
+      <link>https://www.reuters.com/world/us/biden-signs-new-memo-boost-security-us-critical-infrastructure-2024-04-30/</link>
+      <description><![CDATA[总统乔·拜登周二签署了一份新的国家安全备忘录，以提高美国关键基础设施的弹性，取代已有十年之久的政策。]]></description>
+      <guid>https://www.reuters.com/world/us/biden-signs-new-memo-boost-security-us-critical-infrastructure-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 15:07:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国恒大推迟公布 2023 年年度业绩；股票仍停牌</title>
+      <link>https://www.reuters.com/world/china/china-evergrande-delay-2023-annual-results-2024-04-30/</link>
+      <description><![CDATA[中国恒大集团宣布将推迟发布年度业绩，因为其清算人需要时间来“确定这家陷入困境的房地产开发商的当前状况”。]]></description>
+      <guid>https://www.reuters.com/world/china/china-evergrande-delay-2023-annual-results-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 14:38:04 GMT</pubDate>
+    </item>
     <item>
       <title>阿斯顿·马丁寻求对阿隆索在中国冲刺赛的处罚进行审查</title>
       <link>https://www.reuters.com/sports/formula1/aston-martin-seek-review-alonsos-china-sprint-penalty-2024-04-30/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>中美五月在华盛顿举行气候会议</title>
       <link>https://www.reuters.com/sustainability/china-us-hold-climate-meetings-washington-may-2024-04-30/</link>
-      <description><![CDATA[美国气候变化外交官约翰·波德斯塔周二表示，他将于 5 月初在华盛顿会见中国外交部部长刘振民，在贸易和安全紧张局势升温的背景下重启双边气候合作会谈。]]></description>
+      <description><![CDATA[美国气候变化外交官约翰·波德斯塔周二表示，他将于五月初在华盛顿会见中国外长刘振民，在贸易和安全紧张局势不断升温的情况下恢复双边气候合作谈判。]]></description>
       <guid>https://www.reuters.com/sustainability/china-us-hold-climate-meetings-washington-may-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 12:33:34 GMT</pubDate>
     </item>
@@ -77,7 +98,7 @@
       <pubDate>Tue, 30 Apr 2024 10:02:43 GMT</pubDate>
     </item>
     <item>
-      <title>马斯克突然访华 遭印度拒绝 印度“震惊”</title>
+      <title>印度“震惊”马斯克出人意料的中国之行遭到拒绝</title>
       <link>https://www.reuters.com/world/india/india-shocked-musks-surprise-china-visit-leaves-them-spurned-2024-04-30/</link>
       <description><![CDATA[埃隆·马斯克(Elon Musk)本周出人意料地访问中国，为特斯拉赢得了让步，但在他取消了本月初原定的中国之行后，印度感到被抛弃了，印度评论员称此举是一种冷落。]]></description>
       <guid>https://www.reuters.com/world/india/india-shocked-musks-surprise-china-visit-leaves-them-spurned-2024-04-30/</guid>
@@ -105,23 +126,9 @@
       <pubDate>Tue, 30 Apr 2024 08:20:47 GMT</pubDate>
     </item>
     <item>
-      <title>中国开发商金科已准备好法院主导的重组初步计划</title>
-      <link>https://www.reuters.com/world/china/china-developer-jinke-has-prepared-initial-plan-court-led-restructure-2024-04-30/</link>
-      <description><![CDATA[开发商金科地产集团上周成为首家被国内法院接受重组的中国上市开发商，周二告诉投资者，该公司已制定了一份初步的债务重组计划。]]></description>
-      <guid>https://www.reuters.com/world/china/china-developer-jinke-has-prepared-initial-plan-court-led-restructure-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:13:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国表示哈马斯和法塔赫表达了和解的政治意愿</title>
-      <link>https://www.reuters.com/world/china/china-says-hamas-fatah-express-political-will-reconciliation-2024-04-30/</link>
-      <description><![CDATA[中国外交部周二表示，巴勒斯坦敌对组织哈马斯和法塔赫在北京举行的团结会谈上表达了通过对话寻求和解的政治意愿。]]></description>
-      <guid>https://www.reuters.com/world/china/china-says-hamas-fatah-express-political-will-reconciliation-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 08:09:22 GMT</pubDate>
-    </item>
-    <item>
       <title>政治局表示，中国将加大对经济的支持力度，灵活运用政策工具</title>
       <link>https://www.reuters.com/world/china/china-step-up-support-economy-flexibly-use-policy-tools-politburo-says-2024-04-30/</link>
-      <description><![CDATA[官方媒体周二援引中共中央政治局的话说，中国将通过稳健的货币政策和积极的财政政策加大对经济的支持，包括提高利率和银行存款准备金率（RRR）。]]></description>
+      <description><![CDATA[据中共中央政治局周二报道，中国将通过稳健的货币政策和积极的财政政策，包括利率和银行存款准备金率，加大对经济的支持。]]></description>
       <guid>https://www.reuters.com/world/china/china-step-up-support-economy-flexibly-use-policy-tools-politburo-says-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 08:08:53 GMT</pubDate>
     </item>
@@ -131,13 +138,6 @@
       <description><![CDATA[中国共产党中央委员会将于 7 月召开一次重要会议，即全会，这是自 2022 年选出精英决策者机构以来的第三次会议，重点讨论国内“挑战”和广泛复杂性中的改革。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-communist-party-will-hold-key-third-plenum-july-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 07:17:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘉士伯表示，尽管中国啤酒市场表现平淡，但第一季度的增长仍由高端品牌推动</title>
-      <link>https://www.reuters.com/business/retail-consumer/carlsberg-q1-sales-slightly-above-forecast-guidance-unchanged-2024-04-30/</link>
-      <description><![CDATA[丹麦啤酒制造商嘉士伯首席执行官周二表示，第一季度，尽管中国啤酒消费者的购买欲持续下降，但该公司高档啤酒品牌的销量有所增加，并且所有主要市场的价格均有所上涨。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/carlsberg-q1-sales-slightly-above-forecast-guidance-unchanged-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 06:05:04 GMT</pubDate>
     </item>
     <item>
       <title>4月份中国工厂、服务业活动增速放缓</title>
