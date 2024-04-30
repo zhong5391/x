@@ -3,12 +3,12 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:18:11 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 30 Apr 2024 21:48:22 GMT</lastBuildDate>
     <item>
       <title>美国报纸起诉 OpenAI 侵犯人工智能培训版权</title>
       <link>https://www.reuters.com/legal/us-newspapers-sue-openai-copyright-infringement-over-ai-training-2024-04-30/</link>
-      <description><![CDATA[包括《纽约每日新闻》和《芝加哥论坛报》在内的多家报纸周二在纽约联邦法院起诉微软和 OpenAI，指控它们滥用记者的工作来训练其生成人工智能系统。]]></description>
+      <description><![CDATA[包括《纽约每日新闻》和《芝加哥论坛报》在内的多家报纸周二在纽约联邦法院起诉微软和 OpenAI，指控他们滥用记者的工作来训练他们的生成人工智能系统。]]></description>
       <guid>https://www.reuters.com/legal/us-newspapers-sue-openai-copyright-infringement-over-ai-training-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 17:50:49 GMT</pubDate>
     </item>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 30 Apr 2024 17:46:13 GMT</pubDate>
     </item>
     <item>
-      <title>债券投资者为美联储小幅宽松做好准备，选择中间曲线道路</title>
+      <title>为美联储小幅宽松做好准备，债券投资者选择中间曲线道路</title>
       <link>https://www.reuters.com/markets/us/bracing-shallow-fed-easing-bond-investors-take-middle-curve-road-2024-04-30/</link>
       <description><![CDATA[债券投资者有选择地在投资组合中增加期限较长的债券，押注美联储将推迟降息，并以比之前宽松周期更慢的速度降息，首先决定在本周的政策会议上维持利率不变。]]></description>
       <guid>https://www.reuters.com/markets/us/bracing-shallow-fed-easing-bond-investors-take-middle-curve-road-2024-04-30/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>安桥为其五大湖隧道项目选择承包商</title>
       <link>https://www.reuters.com/business/energy/enbridge-selects-contractors-its-great-lakes-tunnel-project-2024-04-30/</link>
-      <description><![CDATA[加拿大能源公司 Enbridge 与 Barnard Construction Company, Inc. 和 Civil and Building North America, Inc. (CBNA) 保持了合资伙伴关系。该公司周二在一份声明中表示，将建造麦基诺海峡的五大湖隧道。]]></description>
+      <description><![CDATA[加拿大能源公司 Enbridge 保留了 Barnard Construction Company, Inc. 和 Civil and Building North America, Inc (CBNA) 之间的合资伙伴关系。该公司周二在一份声明中表示，将建造麦基诺海峡的五大湖隧道。]]></description>
       <guid>https://www.reuters.com/business/energy/enbridge-selects-contractors-its-great-lakes-tunnel-project-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 17:26:01 GMT</pubDate>
     </item>
@@ -55,14 +55,14 @@
       <pubDate>Tue, 30 Apr 2024 17:15:57 GMT</pubDate>
     </item>
     <item>
-      <title>安科拉在诺福克南方代理权争夺战中赢得国际空间站认可</title>
+      <title>安科拉在诺福克南方代理权争夺战中获得国际空间站支持赢得胜利</title>
       <link>https://www.reuters.com/business/ancora-scores-win-with-iss-endorsement-norfolk-southern-proxy-fight-2024-04-30/</link>
       <description><![CDATA[安科拉控股公司 (Ancora Holdings) 在与诺福克南方公司 (Norfolk Southern) 的战斗中取得了第二次胜利，知名代理咨询公司机构股东服务 (ISS) 周二建议股东选举这家激进对冲基金的五名董事候选人。]]></description>
       <guid>https://www.reuters.com/business/ancora-scores-win-with-iss-endorsement-norfolk-southern-proxy-fight-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 17:12:04 GMT</pubDate>
     </item>
     <item>
-      <title>贝莱德将推出由 PIF 支持的沙特投资平台</title>
+      <title>贝莱德将推出 PIF 支持的沙特投资平台</title>
       <link>https://www.reuters.com/business/finance/blackrock-launch-pif-backed-saudi-investment-platform-2024-04-30/</link>
       <description><![CDATA[全球最大的资产管理公司贝莱德周二表示，计划在沙特阿拉伯推出一个新的投资平台，并得到沙特主权财富基金公共投资基金 (PIF) 高达 50 亿美元的支持。]]></description>
       <guid>https://www.reuters.com/business/finance/blackrock-launch-pif-backed-saudi-investment-platform-2024-04-30/</guid>
@@ -99,14 +99,14 @@
     <item>
       <title>麦当劳因顾客变得挑剔而出现罕见的利润下滑</title>
       <link>https://www.reuters.com/business/retail-consumer/mcdonalds-sales-misses-estimates-customers-cut-back-spending-2024-04-30/</link>
-      <description><![CDATA[麦当劳两年来首次未能达到季度利润预期，因为精打细算的消费者忽视了其优惠，而中东冲突也影响了这家汉堡连锁店的国际销售。]]></description>
+      <description><![CDATA[麦当劳两年来首次未能达到季度利润预期，因为精打细算的消费者忽视了麦当劳的优惠，而且中东冲突对该汉堡连锁店的国际销售造成了压力。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/mcdonalds-sales-misses-estimates-customers-cut-back-spending-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 11:02:23 GMT</pubDate>
     </item>
     <item>
       <title>可口可乐押注昂贵的苏打水和国际需求以提高年度销售预期</title>
       <link>https://www.reuters.com/business/retail-consumer/coca-cola-raises-annual-organic-sales-forecast-strong-global-demand-higher-2024-04-30/</link>
-      <description><![CDATA[由于美国和国际市场的消费者为其昂贵的苏打水和果汁支付了更多费用，可口可乐第一季度业绩超出预期，该公司周二上调了年度有机销售额预测。]]></description>
+      <description><![CDATA[可口可乐在第一季度业绩超出预期后，周二上调了年度有机销售预期，原因是美国和国际市场的消费者为其昂贵的苏打水和果汁支付了更多的钱。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/coca-cola-raises-annual-organic-sales-forecast-strong-global-demand-higher-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 10:59:49 GMT</pubDate>
     </item>
@@ -125,14 +125,14 @@
       <pubDate>Tue, 30 Apr 2024 10:41:48 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊可能面临加入股息俱乐部的压力</title>
+      <title>亚马逊可能感受到加入股息俱乐部的压力</title>
       <link>https://www.reuters.com/technology/amazoncom-may-be-feeling-pressure-join-dividend-club-2024-04-30/</link>
       <description><![CDATA[电子商务巨头亚马逊可能面临着越来越大的向投资者提供股息的压力，因为它现在发现自己是美国少数几家不定期向股东派息的大型科技和成长型公司之一。]]></description>
       <guid>https://www.reuters.com/technology/amazoncom-may-be-feeling-pressure-join-dividend-club-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 10:07:37 GMT</pubDate>
     </item>
     <item>
-      <title>币安首席执行官赵长鹏因洗钱罪面临刑罚</title>
+      <title>币安首席执行官赵因洗钱违法行为面临判刑</title>
       <link>https://www.reuters.com/legal/binances-ceo-zhao-faces-sentencing-over-money-laundering-violations-2024-04-30/</link>
       <description><![CDATA[全球最大的加密货币交易所币安网前首席执行官因承认违反美国洗钱法而于周二被判刑，他可能面临数年监禁。]]></description>
       <guid>https://www.reuters.com/legal/binances-ceo-zhao-faces-sentencing-over-money-laundering-violations-2024-04-30/</guid>
