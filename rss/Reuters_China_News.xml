@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻 | 今日头条 | 路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 30 Apr 2024 04:22:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 04:39:07 GMT</lastBuildDate>
     <item>
       <title>所罗门群岛投票选出下一任领导人时，亲中国的索加瓦雷退出竞选</title>
       <link>https://www.reuters.com/world/asia-pacific/pro-china-sogavare-out-race-solomon-islands-votes-next-leader-2024-04-30/</link>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 30 Apr 2024 03:18:49 GMT</pubDate>
     </item>
     <item>
-      <title>官方媒体称，中国海警将菲律宾船只驱逐出黄岩岛</title>
+      <title>据官方媒体报道，中国海警驱逐了黄岩岛的菲律宾船只</title>
       <link>https://www.reuters.com/world/asia-pacific/chinas-coast-guard-expels-philippine-vessels-scarborough-shoal-state-media-says-2024-04-30/</link>
       <description><![CDATA[据中国官方媒体报道，中国海警周二表示，已从黄岩岛附近海域“驱逐”了一艘菲律宾海警船和另一艘船只。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/chinas-coast-guard-expels-philippine-vessels-scarborough-shoal-state-media-says-2024-04-30/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>国际货币基金组织称亚太经济体正走向“软着陆”</title>
       <link>https://www.reuters.com/markets/asia-pacific-economies-headed-soft-landing-says-imf-2024-04-30/</link>
-      <description><![CDATA[国际货币基金组织(IMF)周二表示，尽管未来两年经济扩张预计将放缓，但快速通货紧缩和弹性增长将有助于亚太地区实现“软着陆”。]]></description>
+      <description><![CDATA[国际货币基金组织（IMF）周二表示，尽管未来两年经济扩张预计将放缓，但快速通货紧缩和弹性增长将有助于亚太地区实现“软着陆”。]]></description>
       <guid>https://www.reuters.com/markets/asia-pacific-economies-headed-soft-landing-says-imf-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 02:23:47 GMT</pubDate>
     </item>
@@ -43,12 +43,12 @@
     <item>
       <title>亚洲股市上涨，日元在本周开局波动后波动</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-30/</link>
-      <description><![CDATA[由于投资者等待一系列经济数据、企业盈利和美联储政策会议，亚洲股市周二小幅走高，而日元在疑似干预措施将其从 34 年低点拯救出来后一天小幅走软。]]></description>
+      <description><![CDATA[由于投资者等待一系列经济数据、企业盈利和美国联邦储备委员会的政策会议，亚洲股市周二小幅走高，而日元在疑似干预措施将其从 34 年来的低点拯救出来后一天小幅走弱。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 02:04:58 GMT</pubDate>
     </item>
     <item>
-      <title>财新PMI显示中国工厂活动创14个月来最快增速</title>
+      <title>财新 PMI 显示，中国制造业活动扩张速度创 14 个月新高</title>
       <link>https://www.reuters.com/world/china/chinas-factory-activity-expands-fastest-clip-14-months-caixin-pmi-shows-2024-04-30/</link>
       <description><![CDATA[周二的一项私人调查显示，在新出口订单强劲增长的推动下，4月份中国制造业活动以14个月以来最快的速度扩张，这对于仍在努力实现强劲复苏的经济来说是一个令人鼓舞的迹象。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-factory-activity-expands-fastest-clip-14-months-caixin-pmi-shows-2024-04-30/</guid>
@@ -69,7 +69,7 @@
       <pubDate>Tue, 30 Apr 2024 01:41:08 GMT</pubDate>
     </item>
     <item>
-      <title>中国反腐机构对司法部前副部长立案调查</title>
+      <title>中国反腐监察机构对前司法部副部长展开调查</title>
       <link>https://www.reuters.com/world/china/chinas-anti-graft-watchdog-probes-former-vice-justice-minister-2024-04-30/</link>
       <description><![CDATA[据官方媒体报道，中国司法部原副部长正接受中央纪委、国家监委纪律审查和监察调查。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-anti-graft-watchdog-probes-former-vice-justice-minister-2024-04-30/</guid>
@@ -92,14 +92,14 @@
     <item>
       <title>秘鲁寻求避免对中国建造的大型港口进行仲裁</title>
       <link>https://www.reuters.com/world/americas/peru-seeks-avoid-arbitration-over-chinese-built-mega-port-2024-04-29/</link>
-      <description><![CDATA[一名官员周一表示，秘鲁政府正寻求避免中国港口运营商中远海运集团就其正在建设的大型设施的独家权引发的法律纠纷提起的国际仲裁程序。]]></description>
+      <description><![CDATA[一位官员周一表示，秘鲁政府正在寻求避免中国港口运营商中远海运可能就该公司正在建造的大型设施的排他权的法律纠纷提起的国际仲裁程序。]]></description>
       <guid>https://www.reuters.com/world/americas/peru-seeks-avoid-arbitration-over-chinese-built-mega-port-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 19:51:35 GMT</pubDate>
     </item>
     <item>
       <title>塑料谈判因产量限制陷入僵局而升温</title>
       <link>https://www.reuters.com/business/environment/plastic-treaty-talks-behind-schedule-amid-impasse-over-production-limits-2024-04-29/</link>
-      <description><![CDATA[由于世界对其第一个塑料条约应有多大的雄心仍存在分歧，各国正在考虑在 12 月达成预期协议之前召开一系列小型会议。]]></description>
+      <description><![CDATA[由于世界对于首份塑料条约应有多宏伟仍存在分歧，各国正考虑在 12 月达成协议之前召开一系列小型会议。]]></description>
       <guid>https://www.reuters.com/business/environment/plastic-treaty-talks-behind-schedule-amid-impasse-over-production-limits-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 16:34:27 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>中国比亚迪第一季度盈利疲弱，价格战显现影响</title>
       <link>https://www.reuters.com/business/autos-transportation/chinas-byd-shows-effects-price-war-with-weaker-profit-growth-2024-04-29/</link>
-      <description><![CDATA[中国电动汽车 (EV) 制造商比亚迪周一公布了自 2022 年以来最弱的季度利润增长，同时，由于电动汽车需求放缓和全球最大汽车市场激烈的价格战，其收入增长放缓至近四年来的最低水平。]]></description>
+      <description><![CDATA[受电动汽车需求放缓和全球最大汽车市场激烈的价格战影响，中国电动汽车制造商比亚迪周一公布了 2022 年以来最弱的季度利润增长，同时其收入增长放缓至近四年来的最低水平。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinas-byd-shows-effects-price-war-with-weaker-profit-growth-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 11:12:33 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>拜登签署台湾和TikTok立法后，中国暗示将进行报复</title>
       <link>https://www.reuters.com/world/china-hints-retaliation-after-biden-signs-taiwan-tiktok-legislation-2024-04-29/</link>
-      <description><![CDATA[美国总统乔·拜登签署法案加强台湾防御，并试图让 TikTok 的中国所有者撤资该社交媒体平台。中国周一暗示，可能采取报复措施。]]></description>
+      <description><![CDATA[中国周一暗示，在美国总统乔·拜登签署加强台湾防御的法律并寻求让 TikTok 的中国所有者从该社交媒体平台撤资后，中国可能会进行报复。]]></description>
       <guid>https://www.reuters.com/world/china-hints-retaliation-after-biden-signs-taiwan-tiktok-legislation-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 08:49:18 GMT</pubDate>
     </item>

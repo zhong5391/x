@@ -3,8 +3,8 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 04:22:39 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 30 Apr 2024 04:38:59 GMT</lastBuildDate>
     <item>
       <title>万科首只上市商业REIT上市后早盘下跌</title>
       <link>https://www.reuters.com/business/china-vankes-first-public-commercial-reit-falls-early-trade-debut-2024-04-30/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>亚洲股市上涨，日元在本周开局波动后波动</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-30/</link>
-      <description><![CDATA[由于投资者等待一系列经济数据、企业盈利和美联储政策会议，亚洲股市周二小幅走高，而日元在疑似干预措施将其从 34 年低点拯救出来后一天小幅走软。]]></description>
+      <description><![CDATA[亚洲股市周二小幅走高，因投资者等待一系列经济数据、企业盈利和美联储政策会议，而日元在疑似干预措施将其从 34 年低点拯救出来后一天小幅走软。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 02:04:58 GMT</pubDate>
     </item>
@@ -29,19 +29,19 @@
     <item>
       <title>4月份中国工厂活动增速放缓</title>
       <link>https://www.reuters.com/markets/asia/chinas-factory-activity-grows-slower-pace-april-2024-04-30/</link>
-      <description><![CDATA[周二公布的官方工厂调查显示，中国 4 月份制造业活动扩张速度放缓，表明第二季度初该庞大行业失去了一些增长动力。]]></description>
+      <description><![CDATA[周二的官方工厂调查显示，中国四月份制造业活动扩张速度放缓，这表明这个庞大的行业在第二季度初的动力有所减弱。]]></description>
       <guid>https://www.reuters.com/markets/asia/chinas-factory-activity-grows-slower-pace-april-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 01:59:33 GMT</pubDate>
     </item>
     <item>
-      <title>日元因涉嫌干预和美联储成为焦点而大幅上涨</title>
+      <title>疑似干预后日元继续大幅上涨，美联储成为焦点</title>
       <link>https://www.reuters.com/markets/currencies/yen-clings-sharp-gains-after-suspected-intervention-fed-focus-2024-04-30/</link>
-      <description><![CDATA[日元兑美元汇率在前一天大幅上涨后，周二保持坚挺，交易员表示，日元兑美元走势疑似由日本当局干预引发。]]></description>
+      <description><![CDATA[日元兑美元汇率在前一天大幅上涨后，周二保持坚挺，交易员表示，这可能是由日本当局的干预引发的。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-clings-sharp-gains-after-suspected-intervention-fed-focus-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 01:50:41 GMT</pubDate>
     </item>
     <item>
-      <title>中国 4 月份非制造业活动扩张速度放缓</title>
+      <title>4月份中国非制造业活动扩张放缓</title>
       <link>https://www.reuters.com/markets/asia/china-non-manufacturing-activity-expands-slower-pace-april-2024-04-30/</link>
       <description><![CDATA[周二的一项官方调查显示，中国四月份非制造业活动扩张速度放缓，可能是由于南方地区恶劣天气对建筑和服务业造成干扰。]]></description>
       <guid>https://www.reuters.com/markets/asia/china-non-manufacturing-activity-expands-slower-pace-april-2024-04-30/</guid>
@@ -57,14 +57,14 @@
     <item>
       <title>投资者关注以色列与加沙停火谈判和美联储政策评估，油价下跌</title>
       <link>https://www.reuters.com/business/energy/oil-dips-investors-eye-israel-gaza-truce-talks-us-fed-policy-review-2024-04-30/</link>
-      <description><![CDATA[周二早盘，以色列与哈马斯在开罗举行的停火谈判帮助平息了市场对中东冲突扩大的担忧，而对美国利率前景的担忧令市场承压，导致油价小幅下跌。]]></description>
+      <description><![CDATA[以色列与哈马斯在开罗举行的停火谈判帮助平息了市场对中东冲突扩大的担忧，而对美国利率前景的担忧令市场承压，周二早盘油价小幅下跌。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-dips-investors-eye-israel-gaza-truce-talks-us-fed-policy-review-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 00:54:46 GMT</pubDate>
     </item>
     <item>
       <title>随着汽车产量复苏，日本 3 月份工厂产量上升</title>
       <link>https://www.reuters.com/markets/asia/japan-march-factory-output-rises-38-vs-month-earlier-2024-04-30/</link>
-      <description><![CDATA[日本政府周二公布的数据显示，日本 3 月份工厂产量增幅超过预期，这主要归功于汽车制造商在安全丑闻后恢复生产。]]></description>
+      <description><![CDATA[周二政府数据显示，日本 3 月份工厂产出增长超过预期，这主要归功于汽车制造商在安全丑闻后恢复生产。]]></description>
       <guid>https://www.reuters.com/markets/asia/japan-march-factory-output-rises-38-vs-month-earlier-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 00:07:40 GMT</pubDate>
     </item>
@@ -78,19 +78,19 @@
     <item>
       <title>美国要求新车到2029年配备紧急制动系统</title>
       <link>https://www.reuters.com/business/autos-transportation/us-require-new-cars-have-emergency-braking-systems-by-2029-2024-04-29/</link>
-      <description><![CDATA[美国国家公路交通安全管理局（NHTSA）周一表示，到2029年9月，美国销售的几乎所有新乘用车和卡车都将被要求配备自动紧急制动系统，并表示该规定每年将挽救至少360人的生命，并防止至少24,000人受伤。]]></description>
+      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 周一表示，到 2029 年 9 月，美国销售的几乎所有新乘用车和卡车都必须配备自动紧急制动系统，该规定每年将挽救至少 360 人的生命，避免至少 24,000 人受伤。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-require-new-cars-have-emergency-braking-systems-by-2029-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 23:31:08 GMT</pubDate>
     </item>
     <item>
-      <title>早盘报价：美元回落至 160 日元，特斯拉在中国市场大获成功</title>
+      <title>早盘竞价：美元兑160日元反弹，特斯拉的中国喜悦</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-29/</link>
       <description><![CDATA[展望未来一天的亚洲市场。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 21:46:33 GMT</pubDate>
     </item>
     <item>
-      <title>联合健康集团首席执行官称黑客利用 Citrix 漏洞入侵</title>
+      <title>UnitedHealth 首席执行官表示，黑客利用 Citrix 漏洞进行入侵</title>
       <link>https://www.reuters.com/technology/cybersecurity/unitedhealth-hackers-took-advantage-citrix-vulnerabilty-break-ceo-says-2024-04-29/</link>
       <description><![CDATA[2 月 12 日，黑客利用私营 IT 公司 Citrix 软件中的一个安全漏洞侵入了 UnitedHealth 的技术部门，该软件允许员工远程访问其台式电脑，这家美国最大的健康保险公司将于本周在众议院小组作证。]]></description>
       <guid>https://www.reuters.com/technology/cybersecurity/unitedhealth-hackers-took-advantage-citrix-vulnerabilty-break-ceo-says-2024-04-29/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>WeWork 与债权人达成和解，拒绝诺依曼的收购要约</title>
       <link>https://www.reuters.com/business/finance/wework-reaches-settlement-with-creditors-rebuffs-neumann-bid-2024-04-29/</link>
-      <description><![CDATA[共享办公空间提供商 WeWork 周一宣布与其初级债权人达成和解，并从高级债权人处获得新的现金注入，推进破产协议，该协议拒绝了联合创始人兼前所有者 Adam Neumann 提出的 6.5 亿美元报价。]]></description>
+      <description><![CDATA[共享办公空间提供商 WeWork 周一宣布与次级债权人达成和解，并从高级债权人那里获得新的现金注入，推进破产协议，拒绝联合创始人兼前所有者亚当诺伊曼 (Adam Neumann) 提出的 6.5 亿美元报价。]]></description>
       <guid>https://www.reuters.com/business/finance/wework-reaches-settlement-with-creditors-rebuffs-neumann-bid-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 19:25:39 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>阿拉巴马州的梅赛德斯工会投票可能会因 UAW 与戴姆勒卡车的交易而得到推动</title>
       <link>https://www.reuters.com/business/autos-transportation/uaw-deal-with-daimler-truck-boosts-energy-ahead-mercedes-vote-alabama-2024-04-29/</link>
-      <description><![CDATA[美国汽车工人联合会与卡车和公共汽车制造商戴姆勒卡车公司签订的新劳动合同可能会在工会在美国南部的下一个目标——在阿拉巴马州组建梅赛德斯-奔驰汽车装配厂——之前为工人注入活力。]]></description>
+      <description><![CDATA[全美汽车工人联合会与卡车和公共汽车制造商戴姆勒卡车公司签订的新劳动合同很可能为工人们注入活力，以便完成该工会在美国南部的下一个目标——在阿拉巴马州建立一家梅赛德斯 - 奔驰汽车装配厂。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/uaw-deal-with-daimler-truck-boosts-energy-ahead-mercedes-vote-alabama-2024-04-29/</guid>
       <pubDate>Mon, 29 Apr 2024 17:35:00 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Mon, 29 Apr 2024 09:50:31 GMT</pubDate>
     </item>
     <item>
-      <title>在中国，埃隆·马斯克在自动驾驶汽车的道路上取得了胜利</title>
+      <title>在中国，埃隆·马斯克在自动驾驶汽车之路上取得了胜利</title>
       <link>https://www.reuters.com/world/china/boss-battery-giant-catl-visits-elon-musks-hotel-beijing-reuters-witness-2024-04-29/</link>
       <description><![CDATA[埃隆·马斯克(Elon Musk)周末旋风般地前往北京，在中国推出特斯拉先进驾驶辅助方案方面取得了进展，周一该公司股价飙升逾16%。]]></description>
       <guid>https://www.reuters.com/world/china/boss-battery-giant-catl-visits-elon-musks-hotel-beijing-reuters-witness-2024-04-29/</guid>
