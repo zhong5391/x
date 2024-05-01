@@ -3,8 +3,8 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 01 May 2024 10:22:53 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Wed, 01 May 2024 10:53:37 GMT</lastBuildDate>
     <item>
       <title>加密货币洗盘导致比特币跌破 58,000 美元进入熊市</title>
       <link>https://www.reuters.com/technology/bitcoin-slides-below-58000-rattled-by-tougher-fed-rate-outlook-2024-05-01/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>由于某些产品的需求降温，舒适达制造商 Haleon 销售不温不火</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/haleons-first-quarter-revenue-misses-expectations-2024-05-01/</link>
-      <description><![CDATA[消费者保健公司 Haleon 周三公布第一季度营收略低于市场预期，原因是美国零售商减少库存，以及部分药品需求在去年激增后有所降温，导致销量下降。]]></description>
+      <description><![CDATA[消费者保健公司 Haleon 周三公布的第一季度收入略低于市场预期，原因是美国零售商去库存以及去年激增后对其部分药品的需求降温导致销量下降。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/haleons-first-quarter-revenue-misses-expectations-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 07:00:30 GMT</pubDate>
     </item>
     <item>
       <title>华为备受瞩目的消费者首席执行官余承东转变角色</title>
       <link>https://www.reuters.com/technology/huaweis-high-profile-consumer-boss-richard-yu-shifts-role-2024-05-01/</link>
-      <description><![CDATA[据两位知情人士透露，中国华为技术有限公司 (HWT.UL) 已将备受瞩目的消费者业务负责人余承东调任为该部门主席。]]></description>
+      <description><![CDATA[两位知情人士表示，中国华为技术有限公司 (HWT.UL) 已将备受瞩目的消费者业务负责人余承东调任该部门董事长。]]></description>
       <guid>https://www.reuters.com/technology/huaweis-high-profile-consumer-boss-richard-yu-shifts-role-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 06:39:25 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>阿斯顿·马丁季度亏损超出预期</title>
       <link>https://www.reuters.com/business/autos-transportation/aston-martin-posts-bigger-than-expected-quarterly-loss-2024-05-01/</link>
-      <description><![CDATA[阿斯顿·马丁周三公布的第一季度税前亏损超出预期，因为这家英国豪华汽车制造商生产的汽车数量较少，现金消耗量也高于分析师预期，导致该公司股价下跌 11%。]]></description>
+      <description><![CDATA[英国豪华汽车制造商阿斯顿马丁周三公布第一季度税前亏损超预期，原因是汽车产量和现金消耗均超出分析师预期，导致其股价下跌 11%。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/aston-martin-posts-bigger-than-expected-quarterly-loss-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 06:23:19 GMT</pubDate>
     </item>
@@ -76,16 +76,16 @@
       <pubDate>Wed, 01 May 2024 05:03:19 GMT</pubDate>
     </item>
     <item>
-      <title>美国伦敦房地产支出反弹至八年来最高水平</title>
+      <title>美国对伦敦房地产的支出反弹至八年来最高水平</title>
       <link>https://www.reuters.com/markets/us-spending-london-real-estate-rebounds-highest-eight-years-2024-05-01/</link>
-      <description><![CDATA[法国巴黎银行房地产部门编制的数据显示，美国投资者正以八年来最快的速度购买伦敦商业地产，原因是有迹象表明英国市场的复苏速度快于遭受重创的美国。]]></description>
+      <description><![CDATA[法国巴黎银行房地产部门编制的数据显示，美国投资者正以八年来最快的速度购买伦敦商业地产，原因是有迹象显示英国市场的复苏速度快于遭受重创的美国。]]></description>
       <guid>https://www.reuters.com/markets/us-spending-london-real-estate-rebounds-highest-eight-years-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 05:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>早盘报价：美联储日内焦点是杰伊的言论</title>
+      <title>早盘竞价：美联储日内焦点是杰伊所说的话</title>
       <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-01/</link>
-      <description><![CDATA[凯文·巴克兰 (Kevin Buckland) 展望欧洲和全球市场未来一天]]></description>
+      <description><![CDATA[凯文·巴克兰 (Kevin Buckland) 对欧洲和全球市场未来一天的展望]]></description>
       <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 04:32:24 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>人工智能推动科技巨头云计算热潮</title>
       <link>https://www.reuters.com/technology/ai-fuels-cloud-computing-boom-tech-giants-2024-05-01/</link>
-      <description><![CDATA[由于对人工智能的兴趣推动企业客户支出反弹，华尔街三家重量级科技公司最近几天报告其云计算部门的销售好于预期。]]></description>
+      <description><![CDATA[最近几天，华尔街三大重量级科技公司的云计算部门销售额好于预期，因为对人工智能的兴趣推动了企业客户支出的反弹。]]></description>
       <guid>https://www.reuters.com/technology/ai-fuels-cloud-computing-boom-tech-giants-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 00:02:14 GMT</pubDate>
     </item>
     <item>
       <title>特朗普将其媒体公司的股份提高至近65%</title>
       <link>https://www.reuters.com/technology/trump-raises-stake-his-media-firm-nearly-65-2024-04-30/</link>
-      <description><![CDATA[根据周二提交的文件，截至上周，唐纳德·特朗普已将其在运营其社交媒体应用程序 Truth Social 的公司中的股份提高到近 65%。]]></description>
+      <description><![CDATA[根据周二提交的文件，截至上周，唐纳德·特朗普已将其在运营其社交媒体应用程序 Truth Social 的公司的股份增至近 65%。]]></description>
       <guid>https://www.reuters.com/technology/trump-raises-stake-his-media-firm-nearly-65-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 21:29:06 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Tue, 30 Apr 2024 20:04:54 GMT</pubDate>
     </item>
     <item>
-      <title>美国司法部将大麻重新归类为低危险药物，大麻股大涨</title>
+      <title>随着美国司法部将大麻重新归类为危险性较低的药物，大麻股上涨</title>
       <link>https://www.reuters.com/markets/us/pot-stocks-jump-us-doj-moves-reclassify-cannabis-less-dangerous-drug-2024-04-30/</link>
       <description><![CDATA[在美国司法部（DoJ）采取行动将大麻重新归类为危险性较低的药物后，大麻公司的股价周二下午飙升。]]></description>
       <guid>https://www.reuters.com/markets/us/pot-stocks-jump-us-doj-moves-reclassify-cannabis-less-dangerous-drug-2024-04-30/</guid>
