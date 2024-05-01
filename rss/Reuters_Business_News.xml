@@ -3,8 +3,8 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 01 May 2024 13:20:46 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Wed, 01 May 2024 13:38:32 GMT</lastBuildDate>
     <item>
       <title>Garmin 第一季度业绩好于健身、汽车产品的强劲需求</title>
       <link>https://www.reuters.com/technology/garmins-q1-results-beat-strong-demand-fitness-auto-products-2024-05-01/</link>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 01 May 2024 11:24:01 GMT</pubDate>
     </item>
     <item>
-      <title>由于需求强劲、食品价格下降，Loblaw 报告第一季度业绩强劲</title>
+      <title>Loblaw 报告称，第一季度需求强劲，食品价格有所缓和</title>
       <link>https://www.reuters.com/business/retail-consumer/loblaw-reports-strong-first-quarter-resilient-demand-easing-food-prices-2024-05-01/</link>
       <description><![CDATA[加拿大食品和药品零售商 Loblaw Companies 周三第一季度收入和利润超出预期，受益于消费者需求持续增长以及杂货价格下降。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/loblaw-reports-strong-first-quarter-resilient-demand-easing-food-prices-2024-05-01/</guid>
@@ -69,7 +69,7 @@
       <pubDate>Wed, 01 May 2024 11:14:41 GMT</pubDate>
     </item>
     <item>
-      <title>由于需求低迷，卡夫亨氏第一季度销售额未达预期</title>
+      <title>卡夫亨氏因需求低迷而未达第一季度销售预期</title>
       <link>https://www.reuters.com/business/kraft-heinz-misses-first-quarter-sales-estimates-2024-05-01/</link>
       <description><![CDATA[卡夫亨氏周三第一季度的销售额未达到华尔街预期，因为厌倦通胀的消费者推迟了其品牌午餐套餐、肉类冷盘和通心粉的涨价。奶酪。]]></description>
       <guid>https://www.reuters.com/business/kraft-heinz-misses-first-quarter-sales-estimates-2024-05-01/</guid>
@@ -104,9 +104,9 @@
       <pubDate>Wed, 01 May 2024 10:34:59 GMT</pubDate>
     </item>
     <item>
-      <title>受芯片股拖累，期货下跌，等待美联储利率决定</title>
+      <title>芯片股拖累期货下跌，等待美联储利率决定</title>
       <link>https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/</link>
-      <description><![CDATA[美国股指期货周三下跌，因芯片股在业绩不佳后领跌，且市场在当天晚些时候公布更多经济数据和美联储利率决定之前保持谨慎。]]></description>
+      <description><![CDATA[美国股指期货周三下跌，因芯片股在悲观业绩后领跌，且市场在当天晚些时候公布更多经济数据和美联储利率决定之前保持谨慎。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 10:07:20 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>马斯克解散特斯拉电动汽车充电团队，让客户蒙在鼓里</title>
       <link>https://www.reuters.com/business/autos-transportation/musk-disbands-tesla-ev-charging-team-leaving-customers-dark-2024-04-30/</link>
-      <description><![CDATA[行业官员和分析师周二表示，埃隆·马斯克突然决定解雇负责特斯拉电动汽车充电业务的员工，这让那些准备为客户配备新电动汽车以使用特斯拉超级充电网络的汽车制造商措手不及。]]></description>
+      <description><![CDATA[业内官员和分析师周二表示，埃隆·马斯克突然决定解雇负责特斯拉电动汽车充电业务的员工，这让那些正准备为客户配备新电动汽车以使用特斯拉超级充电网络的汽车制造商措手不及。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/musk-disbands-tesla-ev-charging-team-leaving-customers-dark-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 20:23:22 GMT</pubDate>
     </item>
