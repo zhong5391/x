@@ -1,26 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 01 May 2024 17:58:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 18:25:27 GMT</lastBuildDate>
     <item>
-      <title>独家：LME价格接近历史新高吸引中国铜出口</title>
+      <title>美国禁止华为和其他中国电信公司认证无线设备</title>
+      <link>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</link>
+      <description><![CDATA[官员周三告诉路透社，美国联邦通信委员会正在采取行动，阻止华为、中兴通讯和其他被认为对美国国家安全构成威胁的外国公司对无线设备进行认证。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 17:37:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国对俄罗斯实施数百项制裁，瞄准中国企业</title>
+      <link>https://www.reuters.com/world/us-issues-hundreds-sanctions-targeting-russia-takes-aim-chinese-companies-2024-05-01/</link>
+      <description><![CDATA[美国周三因乌克兰战争对俄罗斯实施了数百项新制裁，旨在针对莫斯科规避西方措施（包括通过中国采取的措施）的行为。]]></description>
+      <guid>https://www.reuters.com/world/us-issues-hundreds-sanctions-targeting-russia-takes-aim-chinese-companies-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 17:33:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国贸易委员会将调查 GoPro 指控中国公司侵犯其专利的指控</title>
+      <link>https://www.reuters.com/technology/us-trade-panel-probe-gopros-claims-that-chinese-firm-violated-its-patents-2024-05-01/</link>
+      <description><![CDATA[美国国际贸易委员会周三表示，将对 GoPro 公司声称其相机和相机系统专利被一家向美国进口类似产品的中国公司侵犯的指控发起贸易调查。]]></description>
+      <guid>https://www.reuters.com/technology/us-trade-panel-probe-gopros-claims-that-chinese-firm-violated-its-patents-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 17:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：LME 价格接近历史新高吸引中国铜出口</title>
       <link>https://www.reuters.com/markets/commodities/near-record-high-lme-prices-magnet-chinese-copper-exports-2024-05-01/</link>
       <description><![CDATA[三位业内消息人士称，中国铜生产商计划出口至多10万吨金属，这是12年来的最大出口量，旨在冷却导致价格创历史新高并触及订单的涨势。]]></description>
       <guid>https://www.reuters.com/markets/commodities/near-record-high-lme-prices-magnet-chinese-copper-exports-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 12:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>所罗门群岛议员周四投票选出新总理，因中国交易着眼</title>
+      <title>所罗门群岛议员将于周四投票选出新总理，关注中国交易</title>
       <link>https://www.reuters.com/world/asia-pacific/solomon-islands-lawmakers-vote-thursday-new-pm-china-deals-eyed-2024-05-01/</link>
       <description><![CDATA[所罗门群岛立法者将于周四在外交部长耶利米·马内莱和反对派领袖马修·韦尔之间进行无记名投票，选出新总理，此前全国选举未能让任何政党获得多数席位。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/solomon-islands-lawmakers-vote-thursday-new-pm-china-deals-eyed-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 12:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>中国和美国需求蒙蔽前景，星巴克股价跌至两年低点</title>
+      <title>星巴克股价跌至两年低点，因中美需求前景不明朗</title>
       <link>https://www.reuters.com/business/retail-consumer/starbucks-shares-tumble-china-us-demand-slowdown-clouds-outlook-2024-05-01/</link>
       <description><![CDATA[周三，星巴克股价下跌 15% 至近两年来的最低水平，此前这家咖啡连锁店因通胀疲软的美国消费者需求持续疲软以及中国经济复苏慢于预期而下调了年度预测。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/starbucks-shares-tumble-china-us-demand-slowdown-clouds-outlook-2024-05-01/</guid>
@@ -29,7 +50,7 @@
     <item>
       <title>尽管美国和中国经济复苏，雅诗兰黛仍下调销售预期</title>
       <link>https://www.reuters.com/business/retail-consumer/estee-lauder-lifts-annual-profit-view-us-china-demand-recovery-2024-05-01/</link>
-      <description><![CDATA[由于中国大陆高端美容市场持续疲软，雅诗兰黛下调了年度有机销售额预期，尽管美国和亚太市场对其昂贵产品的需求反弹推动了利润预期的上调。]]></description>
+      <description><![CDATA[尽管美国和亚太市场对雅诗兰黛高价产品的需求反弹推动其利润预期上调，但由于中国大陆高端美容市场持续疲软，雅诗兰黛仍下调了年度有机销售额预期。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/estee-lauder-lifts-annual-profit-view-us-china-demand-recovery-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 10:49:48 GMT</pubDate>
     </item>
@@ -50,7 +71,7 @@
     <item>
       <title>路透社/益普索调查发现，大多数美国人将 TikTok 视为中国的影响力工具</title>
       <link>https://www.reuters.com/world/us/most-americans-see-tiktok-chinese-influence-tool-reutersipsos-poll-finds-2024-05-01/</link>
-      <description><![CDATA[目前华盛顿正接近禁止中国拥有的短视频应用程序 TikTok，路透社/益普索民意调查显示，大多数美国人认为中国利用 TikTok 来塑造美国公众舆论。]]></description>
+      <description><![CDATA[路透社/益普索 (Ipsos) 进行的一项民意调查显示，大多数美国人认为，中国利用 TikTok 来塑造美国公众舆论，而华盛顿距离可能禁止这款中国短视频应用程序又近了一步。]]></description>
       <guid>https://www.reuters.com/world/us/most-americans-see-tiktok-chinese-influence-tool-reutersipsos-poll-finds-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 10:12:02 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>壳牌退出中国电力市场业务</title>
       <link>https://www.reuters.com/business/energy/shell-exits-china-power-market-businesses-2024-05-01/</link>
-      <description><![CDATA[壳牌已退出中国电力市场，这是其首席执行官瓦尔·萨万 (Wael Sawan) 致力于专注于利润更高的业务（包括天然气和石油业务）的一部分。]]></description>
+      <description><![CDATA[壳牌已退出中国电力市场，这是该公司首席执行官瓦埃勒·萨万 (Wael Sawan) 将精力集中在天然气和石油业务等利润更高的业务上的举措之一。]]></description>
       <guid>https://www.reuters.com/business/energy/shell-exits-china-power-market-businesses-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 08:37:47 GMT</pubDate>
     </item>
@@ -104,7 +125,7 @@
       <pubDate>Wed, 01 May 2024 02:40:40 GMT</pubDate>
     </item>
     <item>
-      <title>台湾警惕中国就职后军事演习</title>
+      <title>台湾对中国就职后的演习保持警惕</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-alert-post-inauguration-chinese-drills-2024-05-01/</link>
       <description><![CDATA[台湾最高安全官员周三表示，在当选总统赖清德本月就职后，台湾对中国进行军事演习保持警惕，并补充说中国已经开始使用不寻常的新策略。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-alert-post-inauguration-chinese-drills-2024-05-01/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[美国劳工部官员周二表示，出于对强迫劳动的担忧，国际公司无法在新疆负责任地运营，应该离开中国西部地区。]]></description>
       <guid>https://www.reuters.com/world/china/us-labor-official-calls-companies-exit-chinas-xinjiang-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 17:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>石墨矿商游说美国政府对中国采购的电动汽车材料征税</title>
-      <link>https://www.reuters.com/markets/commodities/graphite-miners-lobby-us-govt-impose-levy-china-sourced-ev-material-2024-04-30/</link>
-      <description><![CDATA[北美石墨矿商正在游说美国政府对来自中国的三种石墨产品征收 25% 的关税，以对抗北京对汽车电池关键材料的垄断。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/graphite-miners-lobby-us-govt-impose-levy-china-sourced-ev-material-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 17:35:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>被关押在国外的美国人的家人需要更多帮助和信息</title>
-      <link>https://www.reuters.com/world/us/families-americans-held-abroad-want-more-help-information-2024-04-30/</link>
-      <description><![CDATA[尽管拜登政府最近安排了囚犯交换，但仍有美国人的家人在外国被拘留，他们在周二恳求至少提供有关亲人的更多信息，同时等待并希望他们获释。]]></description>
-      <guid>https://www.reuters.com/world/us/families-americans-held-abroad-want-more-help-information-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 16:41:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>汇丰银行在出人意料的首席执行官搜寻中必须优先考虑亚洲专业知识</title>
-      <link>https://www.reuters.com/business/finance/hsbc-must-prioritise-asian-expertise-surprise-ceo-search-2024-04-30/</link>
-      <description><![CDATA[在首席执行官诺埃尔·奎恩 (Noel Quinn) 的领导下，汇丰银行成功应对了一场全球流行病，并在反叛投资者的推动下分拆了这家拥有 160 年历史的银行。投资者表示，他的意外离职是加速其战略重心转向亚洲的一个机会。]]></description>
-      <guid>https://www.reuters.com/business/finance/hsbc-must-prioritise-asian-expertise-surprise-ceo-search-2024-04-30/</guid>
-      <pubDate>Tue, 30 Apr 2024 15:39:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
