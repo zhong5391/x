@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻 | 今日头条 | 路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 01 May 2024 19:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 19:29:58 GMT</lastBuildDate>
     <item>
-      <title>美国禁止华为和其他中国电信公司认证无线设备</title>
+      <title>美国禁止华为等中国电信公司认证无线设备</title>
       <link>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</link>
-      <description><![CDATA[官员周三告诉路透社，美国联邦通信委员会正在采取行动，阻止华为、中兴通讯和其他被认为对美国国家安全构成威胁的外国公司对无线设备进行认证。]]></description>
+      <description><![CDATA[官员周三对路透表示，美国联邦通信委员会正在采取行动，阻止华为、中兴通讯和其他被认为构成美国国家安全担忧的外国公司对无线设备进行认证。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 17:37:32 GMT</pubDate>
     </item>
@@ -22,12 +22,12 @@
     <item>
       <title>美国贸易委员会将调查 GoPro 指控中国公司侵犯其专利的指控</title>
       <link>https://www.reuters.com/technology/us-trade-panel-probe-gopros-claims-that-chinese-firm-violated-its-patents-2024-05-01/</link>
-      <description><![CDATA[美国国际贸易委员会周三表示，正在对 GoPro Inc 的指控展开贸易调查。GoPro Inc 称，一家中国公司在向美国进口类似产品时侵犯了其相机和摄像系统专利。]]></description>
+      <description><![CDATA[美国国际贸易委员会周三表示，将对 GoPro 公司的指控发起贸易调查，该公司声称一家向美国进口类似产品的中国公司侵犯了其相机和相机系统专利。]]></description>
       <guid>https://www.reuters.com/technology/us-trade-panel-probe-gopros-claims-that-chinese-firm-violated-its-patents-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 17:09:53 GMT</pubDate>
     </item>
     <item>
-      <title>独家：LME价格接近历史新高吸引中国铜出口</title>
+      <title>独家：LME 价格接近历史新高吸引中国铜出口</title>
       <link>https://www.reuters.com/markets/commodities/near-record-high-lme-prices-magnet-chinese-copper-exports-2024-05-01/</link>
       <description><![CDATA[三位业内消息人士称，中国铜生产商计划出口至多10万吨金属，这是12年来的最大出口量，旨在冷却导致价格创历史新高并触及订单的涨势。]]></description>
       <guid>https://www.reuters.com/markets/commodities/near-record-high-lme-prices-magnet-chinese-copper-exports-2024-05-01/</guid>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 01 May 2024 12:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>中国和美国需求蒙蔽前景，星巴克股价跌至两年低点</title>
+      <title>星巴克股价跌至两年低点，因中美需求前景不明朗</title>
       <link>https://www.reuters.com/business/retail-consumer/starbucks-shares-tumble-china-us-demand-slowdown-clouds-outlook-2024-05-01/</link>
       <description><![CDATA[周三，星巴克股价下跌 15% 至近两年来的最低水平，此前这家咖啡连锁店因通胀疲软的美国消费者需求持续疲软以及中国经济复苏慢于预期而下调了年度预测。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/starbucks-shares-tumble-china-us-demand-slowdown-clouds-outlook-2024-05-01/</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>路透社/益普索调查发现，大多数美国人将 TikTok 视为中国的影响力工具</title>
       <link>https://www.reuters.com/world/us/most-americans-see-tiktok-chinese-influence-tool-reutersipsos-poll-finds-2024-05-01/</link>
-      <description><![CDATA[路透社/益普索 (Ipsos) 进行的一项民意调查显示，大多数美国人认为，中国利用 TikTok 来塑造美国公众舆论，而华盛顿距离可能禁止这款中国短视频应用程序又近了一步。]]></description>
+      <description><![CDATA[目前华盛顿正接近禁止中国拥有的短视频应用程序 TikTok，路透社/益普索民意调查显示，大多数美国人认为中国利用 TikTok 来塑造美国公众舆论。]]></description>
       <guid>https://www.reuters.com/world/us/most-americans-see-tiktok-chinese-influence-tool-reutersipsos-poll-finds-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 10:12:02 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>壳牌退出中国电力市场业务</title>
       <link>https://www.reuters.com/business/energy/shell-exits-china-power-market-businesses-2024-05-01/</link>
-      <description><![CDATA[壳牌已退出中国电力市场，这是其首席执行官瓦尔·萨万 (Wael Sawan) 致力于专注于利润更高的业务（包括天然气和石油业务）的一部分。]]></description>
+      <description><![CDATA[壳牌已退出中国电力市场，这是其首席执行官 Wael Sawan 致力于专注于利润更高的业务（包括天然气和石油业务）的一部分。]]></description>
       <guid>https://www.reuters.com/business/energy/shell-exits-china-power-market-businesses-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 08:37:47 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>中国启动下一代航母海试</title>
       <link>https://www.reuters.com/world/china/china-launches-sea-trials-next-generation-aircraft-carrier-2024-05-01/</link>
-      <description><![CDATA[据官方媒体报道，中国周三为第三艘也是最先进的航母福建舰进行了海试。]]></description>
+      <description><![CDATA[据官方媒体报道，中国周三启动其第三艘、也是最先进的航空母舰“福建号”的海上试验。]]></description>
       <guid>https://www.reuters.com/world/china/china-launches-sea-trials-next-generation-aircraft-carrier-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 02:44:40 GMT</pubDate>
     </item>
@@ -125,7 +125,7 @@
       <pubDate>Wed, 01 May 2024 02:40:40 GMT</pubDate>
     </item>
     <item>
-      <title>台湾警惕中国就职后军事演习</title>
+      <title>台湾对中国就职后的演习保持警惕</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-alert-post-inauguration-chinese-drills-2024-05-01/</link>
       <description><![CDATA[台湾最高安全官员周三表示，在当选总统赖清德本月就职后，台湾对中国进行军事演习保持警惕，并补充说中国已经开始使用不寻常的新策略。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-alert-post-inauguration-chinese-drills-2024-05-01/</guid>
