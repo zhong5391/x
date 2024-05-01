@@ -3,105 +3,56 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 01 May 2024 11:41:25 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Wed, 01 May 2024 11:58:42 GMT</lastBuildDate>
     <item>
-      <title>Flutter 股东支持赴美首次上市</title>
-      <link>https://www.reuters.com/business/flutter-shareholders-back-move-us-primary-listing-2024-05-01/</link>
-      <description><![CDATA[周三，Flutter 股东支持将其股票首次上市从伦敦迁往纽约的提议，而就在三个月前，这家全球最大的在线博彩公司在美国进行了二次上市。]]></description>
-      <guid>https://www.reuters.com/business/flutter-shareholders-back-move-us-primary-listing-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 10:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大 Cenovus Energy 第一季度利润更高</title>
-      <link>https://www.reuters.com/markets/commodities/canadas-cenovus-energy-posts-higher-first-quarter-profit-2024-05-01/</link>
-      <description><![CDATA[Cenovus Energy 周三公布第一季度利润增长，这家加拿大石油和天然气公司受益于产量和吞吐量的增加。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/canadas-cenovus-energy-posts-higher-first-quarter-profit-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 10:21:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>杜邦公司超出利润预期，上调全年预测</title>
-      <link>https://www.reuters.com/business/dupont-beats-profit-estimates-raises-full-year-forecasts-2024-05-01/</link>
-      <description><![CDATA[工业材料制造商杜邦德内穆尔 (DuPont de Nemours) 的第一季度利润超出了华尔街的预期，并于周三上调了全年预期，因为该公司受益于电子和半导体领域的销售增长。]]></description>
-      <guid>https://www.reuters.com/business/dupont-beats-profit-estimates-raises-full-year-forecasts-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 10:19:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯雷集团报告第一季度盈利增长 59%</title>
-      <link>https://www.reuters.com/business/finance/carlyle-group-reports-59-jump-q1-earnings-2024-05-01/</link>
-      <description><![CDATA[凯雷集团周三表示，由于其私募股权投资组合的资产销售强劲，第一季度可分配收益同比增长近 59%。]]></description>
-      <guid>https://www.reuters.com/business/finance/carlyle-group-reports-59-jump-q1-earnings-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 10:15:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>芯片股拖累期货下跌，等待美联储利率决定</title>
-      <link>https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/</link>
-      <description><![CDATA[美国股指期货周三下跌，因悲观的业绩拖累芯片股，且市场在当天晚些时候公布更多经济数据和美联储利率决定之前保持谨慎。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 10:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：随着美联储 2024 年降息希望渺茫，债券迎来五一节</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-05-01/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 10:05:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>更多美联储官员准备告别低利率世界</title>
-      <link>https://www.reuters.com/markets/us/more-fed-officials-ready-say-goodbye-low-rate-world-2024-05-01/</link>
-      <description><![CDATA[越来越多的美联储官员认为，由于联邦赤字不断膨胀，以及对绿色能源、人工智能和国内制造业的投资需求等各种原因，他们认为不会恢复到 COVID-19 大流行之前普遍存在的超低利率。]]></description>
-      <guid>https://www.reuters.com/markets/us/more-fed-officials-ready-say-goodbye-low-rate-world-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 10:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：文件显示，花旗集团预计贷款簿将在气候行动升级中受到打击</title>
-      <link>https://www.reuters.com/sustainability/sustainable-finance-reporting/citigroup-sees-loan-book-hit-climate-action-ramp-up-document-shows-2024-05-01/</link>
-      <description><![CDATA[根据路透社审阅的美国银行准备的一份机密分析，如果世界加快应对气候变化的努力，花旗集团的贷款账簿可能会遭受数十亿美元的损失。]]></description>
-      <guid>https://www.reuters.com/sustainability/sustainable-finance-reporting/citigroup-sees-loan-book-hit-climate-action-ramp-up-document-shows-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 10:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>NHTSA 称福特召回 242,669 辆美国汽车</title>
-      <link>https://www.reuters.com/business/autos-transportation/ford-recalls-242669-us-vehicles-nhtsa-says-2024-05-01/</link>
-      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 周三表示，福特汽车将召回 242,669 辆 2022 年至 2024 年款 Maverick 汽车，原因是后尾灯无法点亮，导致车辆的可视度降低。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/ford-recalls-242669-us-vehicles-nhtsa-says-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 09:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>预览 投资者等待看到托运人第一季度数据中的红海</title>
-      <link>https://www.reuters.com/business/investors-wait-see-red-sea-shippers-q1-numbers-2024-05-01/</link>
-      <description><![CDATA[欧洲航运公司马士基和赫伯罗特不太可能从第一季度红海危机导致的运费飙升中获得大幅提振，这加剧了人们对长期运力过剩的担忧。]]></description>
-      <guid>https://www.reuters.com/business/investors-wait-see-red-sea-shippers-q1-numbers-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 08:50:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储政策决定前美元接近五个月高点</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-01/</link>
-      <description><![CDATA[美元兑一篮子货币小幅升至今年最高水平，周三美国股指期货在美联储政策决定之前下跌，但由于许多欧洲和亚洲市场休市，交易清淡。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 08:46:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>在美联储做出决定之前，加密货币洗盘导致比特币跌破 58,000 美元</title>
+      <title>加密货币洗盘导致比特币跌破 58,000 美元进入熊市</title>
       <link>https://www.reuters.com/technology/bitcoin-slides-below-58000-rattled-by-tougher-fed-rate-outlook-2024-05-01/</link>
-      <description><![CDATA[比特币周三下跌近 6%，创下 2022 年底以来最差的 4 月份月度表现，原因是投资者在美联储稍后做出利率决定之前从加密货币中撤资。]]></description>
+      <description><![CDATA[比特币周三连续第三天下跌，创下 2022 年底以来 4 月份以来最差的月度表现，原因是投资者在美联储稍后做出利率决定之前从加密货币中撤资。]]></description>
       <guid>https://www.reuters.com/technology/bitcoin-slides-below-58000-rattled-by-tougher-fed-rate-outlook-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 07:39:45 GMT</pubDate>
     </item>
     <item>
-      <title>由于某些产品的需求降温，舒适达制造商 Haleon 销售不温不火</title>
+      <title>Sensodyne 制造商 Haleon 销售表现平淡，部分产品需求降温</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/haleons-first-quarter-revenue-misses-expectations-2024-05-01/</link>
       <description><![CDATA[消费者保健公司 Haleon 周三公布的第一季度收入略低于市场预期，原因是美国零售商去库存以及去年激增后对其部分药品的需求降温导致销量下降。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/haleons-first-quarter-revenue-misses-expectations-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 07:00:30 GMT</pubDate>
     </item>
     <item>
-      <title>阿斯顿·马丁新车型上市前亏损激增</title>
+      <title>华为备受瞩目的消费者首席执行官余承东转变角色</title>
+      <link>https://www.reuters.com/technology/huaweis-high-profile-consumer-boss-richard-yu-shifts-role-2024-05-01/</link>
+      <description><![CDATA[两位知情人士表示，中国华为技术有限公司 (HWT.UL) 已将备受瞩目的消费者业务负责人余承东调任该部门董事长。]]></description>
+      <guid>https://www.reuters.com/technology/huaweis-high-profile-consumer-boss-richard-yu-shifts-role-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 06:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国达美乐披萨第二季度开局缓慢</title>
+      <link>https://www.reuters.com/business/retail-consumer/uks-dominos-pizza-sees-slow-start-second-quarter-2024-05-01/</link>
+      <description><![CDATA[英国达美乐比萨集团周三表示，在报告第一季度销售额下降和订单减少后，第二季度开局较去年同期放缓。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/uks-dominos-pizza-sees-slow-start-second-quarter-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 06:36:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿斯顿·马丁季度亏损超出预期</title>
       <link>https://www.reuters.com/business/autos-transportation/aston-martin-posts-bigger-than-expected-quarterly-loss-2024-05-01/</link>
-      <description><![CDATA[阿斯顿·马丁周三公布的第一季度税前亏损超出预期，这家英国豪华汽车制造商生产的汽车数量较少，现金消耗量也高于分析师预期，导致其股价下跌 7%。]]></description>
+      <description><![CDATA[英国豪华汽车制造商阿斯顿马丁周三公布第一季度税前亏损超预期，原因是汽车产量和现金消耗均超出分析师预期，导致其股价下跌 11%。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/aston-martin-posts-bigger-than-expected-quarterly-loss-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 06:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSK 上调 2024 年利润预测 但表示下半年销售增长将放缓</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-raises-full-year-profit-forecast-2024-05-01/</link>
+      <description><![CDATA[由于疫苗和特种药物的强劲需求，葛兰素史克周三上调了全年利润预期，尽管该公司指出下半年销售增长将放缓。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/gsk-raises-full-year-profit-forecast-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 06:08:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国 Next 在第一季度销售额增长后维持利润指引</title>
+      <link>https://www.reuters.com/business/retail-consumer/britains-next-keeps-profit-guidance-after-first-quarter-sales-rise-2024-05-01/</link>
+      <description><![CDATA[英国服装零售商 Next 周三维持年度利润预期，此前该公司公布第一季度全价销售额增长 5.7%，略高于其指引。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/britains-next-keeps-profit-guidance-after-first-quarter-sales-rise-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 06:05:43 GMT</pubDate>
     </item>
     <item>
       <title>日本央行的鹰派低语被日元的剧烈抛售所淹没</title>
@@ -127,9 +78,37 @@
     <item>
       <title>美国伦敦房地产支出反弹至八年来最高水平</title>
       <link>https://www.reuters.com/markets/us-spending-london-real-estate-rebounds-highest-eight-years-2024-05-01/</link>
-      <description><![CDATA[法国巴黎银行房地产部门编制的数据显示，美国投资者正以八年来最快的速度购买伦敦商业地产，原因是有迹象显示英国市场的复苏速度快于遭受重创的美国。]]></description>
+      <description><![CDATA[法国巴黎银行房地产部门编制的数据显示，美国投资者正以八年来最快的速度购买伦敦商业地产，原因是有迹象表明英国市场的复苏速度快于遭受重创的美国。]]></description>
       <guid>https://www.reuters.com/markets/us-spending-london-real-estate-rebounds-highest-eight-years-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 05:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：美联储日内焦点在于杰伊所说的话</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-01/</link>
+      <description><![CDATA[凯文·巴克兰 (Kevin Buckland) 展望欧洲和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 04:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软将在泰国开设首个区域数据中心</title>
+      <link>https://www.reuters.com/technology/microsoft-open-first-regional-data-centre-thailand-2024-05-01/</link>
+      <description><![CDATA[微软将在泰国开设其首个区域数据中心，这家科技巨头周三表示，旨在提高云服务的可用性。]]></description>
+      <guid>https://www.reuters.com/technology/microsoft-open-first-regional-data-centre-thailand-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 04:16:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能推动科技巨头云计算热潮</title>
+      <link>https://www.reuters.com/technology/ai-fuels-cloud-computing-boom-tech-giants-2024-05-01/</link>
+      <description><![CDATA[最近几天，华尔街三大重量级科技公司的云计算部门销售额好于预期，因为对人工智能的兴趣推动了企业客户支出的反弹。]]></description>
+      <guid>https://www.reuters.com/technology/ai-fuels-cloud-computing-boom-tech-giants-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 00:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普将其媒体公司的股份提高至近65%</title>
+      <link>https://www.reuters.com/technology/trump-raises-stake-his-media-firm-nearly-65-2024-04-30/</link>
+      <description><![CDATA[根据周二提交的文件，截至上周，唐纳德·特朗普已将其在运营其社交媒体应用程序 Truth Social 的公司中的股份提高到近 65%。]]></description>
+      <guid>https://www.reuters.com/technology/trump-raises-stake-his-media-firm-nearly-65-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 21:29:06 GMT</pubDate>
     </item>
     <item>
       <title>马斯克解散特斯拉电动汽车充电团队，让客户蒙在鼓里</title>
@@ -137,6 +116,27 @@
       <description><![CDATA[行业官员和分析师周二表示，埃隆·马斯克突然决定解雇负责特斯拉电动汽车充电业务的员工，这让那些准备为客户配备新电动汽车以使用特斯拉超级充电网络的汽车制造商措手不及。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/musk-disbands-tesla-ev-charging-team-leaving-customers-dark-2024-04-30/</guid>
       <pubDate>Tue, 30 Apr 2024 20:23:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于美国和中国主要市场需求降温，星巴克下调年度销售预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/starbucks-reports-surprise-fall-quarterly-sales-2024-04-30/</link>
+      <description><![CDATA[星巴克周二下调了年度销售预期，此前该公司报告同店销售额近三年来首次下降，原因是该公司面临美国和中国这两个最大市场的咖啡需求疲软的困境。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/starbucks-reports-surprise-fall-quarterly-sales-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 20:10:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊业绩超出预期，但收入未达预期</title>
+      <link>https://www.reuters.com/technology/amazon-forecasts-quarterly-revenue-below-estimates-2024-04-30/</link>
+      <description><![CDATA[亚马逊周二公布的季度业绩超出了华尔街的预期，因为人们对人工智能的兴趣推动了云计算的增长。]]></description>
+      <guid>https://www.reuters.com/technology/amazon-forecasts-quarterly-revenue-below-estimates-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 20:04:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着美国司法部将大麻重新归类为危险性较低的药物，大麻股上涨</title>
+      <link>https://www.reuters.com/markets/us/pot-stocks-jump-us-doj-moves-reclassify-cannabis-less-dangerous-drug-2024-04-30/</link>
+      <description><![CDATA[在美国司法部（DoJ）采取行动将大麻重新归类为危险性较低的药物后，大麻公司的股价周二下午飙升。]]></description>
+      <guid>https://www.reuters.com/markets/us/pot-stocks-jump-us-doj-moves-reclassify-cannabis-less-dangerous-drug-2024-04-30/</guid>
+      <pubDate>Tue, 30 Apr 2024 19:12:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
