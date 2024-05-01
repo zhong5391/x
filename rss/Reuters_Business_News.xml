@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 01 May 2024 22:22:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 22:39:51 GMT</lastBuildDate>
     <item>
       <title>Etsy 因可自由支配需求下降而未能实现第一季度销售额和利润预期</title>
       <link>https://www.reuters.com/business/retail-consumer/etsy-misses-first-quarter-sales-profit-estimates-lower-discretionary-demand-2024-05-01/</link>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 01 May 2024 20:18:27 GMT</pubDate>
     </item>
     <item>
-      <title>德文能源第一季度利润超出预期，产量增加</title>
+      <title>戴文能源公司第一季度利润因产量增加而超出预期</title>
       <link>https://www.reuters.com/business/energy/devon-energy-beats-q1-profit-estimate-2024-05-01/</link>
       <description><![CDATA[美国页岩油生产商德文能源公司周三超出第一季度利润预期，产量增加帮助其抵消了天然气价格的下跌。]]></description>
       <guid>https://www.reuters.com/business/energy/devon-energy-beats-q1-profit-estimate-2024-05-01/</guid>
@@ -97,7 +97,7 @@
       <pubDate>Wed, 01 May 2024 18:41:01 GMT</pubDate>
     </item>
     <item>
-      <title>咨询格拉斯刘易斯建议壳牌投资者在年度股东大会上反对股东气候决议</title>
+      <title>顾问 Glass Lewis 建议壳牌投资者在年度股东大会上反对股东气候决议</title>
       <link>https://www.reuters.com/business/energy/advisory-glass-lewis-recommends-shell-investors-oppose-shareholder-climate-2024-05-01/</link>
       <description><![CDATA[投资者代理咨询公司 Glass Lewis 建议壳牌股东投票反对 27 名投资者提出的一项决议，该决议敦促该能源公司制定更严格的气候目标。]]></description>
       <guid>https://www.reuters.com/business/energy/advisory-glass-lewis-recommends-shell-investors-oppose-shareholder-climate-2024-05-01/</guid>
@@ -132,7 +132,7 @@
       <pubDate>Wed, 01 May 2024 10:38:58 GMT</pubDate>
     </item>
     <item>
-      <title>美联储利率决定和鲍威尔新闻发布会后，标普 500 指数和纳斯达克指数收低</title>
+      <title>美联储利率决定、鲍威尔新闻发布会后标准普尔 500 指数和纳斯达克指数收低</title>
       <link>https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/</link>
       <description><![CDATA[周三美国股市收盘涨跌互现，此前美联储如预期维持关键利率不变，并表示虽然下一步行动可能是降息，但通胀能否持续取得进展并不确定。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-fall-chip-stocks-drag-fed-rate-decision-awaited-2024-05-01/</guid>
