@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FARSS</title>
+    <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 02 May 2024 12:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 13:23:21 GMT</lastBuildDate>
     <item>
       <title>亚洲摇摆州的神话</title>
       <link>https://www.foreignaffairs.com/asia/myth-asian-swing-state</link>
@@ -62,17 +62,17 @@
       <pubDate>Thu, 25 Apr 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>中国巅峰的错觉</title>
-      <link>https://www.foreignaffairs.com/china/delusion-peak-china-united-states-evan-medeiros</link>
-      <description><![CDATA[美国不能希望它最强劲的挑战者消失。]]></description>
-      <guid>https://www.foreignaffairs.com/china/delusion-peak-china-united-states-evan-medeiros</guid>
-      <pubDate>Wed, 24 Apr 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>以色列的下一个阵线？</title>
       <link>https://www.foreignaffairs.com/israel/israels-next-front</link>
       <description><![CDATA[伊朗、真主党和即将到来的黎巴嫩战争。]]></description>
       <guid>https://www.foreignaffairs.com/israel/israels-next-front</guid>
+      <pubDate>Wed, 24 Apr 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国巅峰的错觉</title>
+      <link>https://www.foreignaffairs.com/china/delusion-peak-china-united-states-evan-medeiros</link>
+      <description><![CDATA[美国不能希望它最强劲的挑战者消失。]]></description>
+      <guid>https://www.foreignaffairs.com/china/delusion-peak-china-united-states-evan-medeiros</guid>
       <pubDate>Wed, 24 Apr 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
