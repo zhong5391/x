@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻 | 今日头条 | 路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 06:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:58:24 GMT</lastBuildDate>
     <item>
       <title>安赛乐米塔尔仍预计今年钢铁需求增长3-4%（不包括中国）</title>
       <link>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</link>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 02 May 2024 04:27:39 GMT</pubDate>
     </item>
     <item>
-      <title>渣打银行第一季度利润超出预期，收入增长抵消中国市场影响</title>
+      <title>渣打银行第一季度利润超出预期，收入增长超过中国经济困境</title>
       <link>https://www.reuters.com/business/finance/standard-chartered-q1-profit-rises-55-beats-estimates-2024-05-02/</link>
       <description><![CDATA[渣打银行周四第一季度税前利润超出预期，增长 5.5%，原因是利率上升带来的收入增加以及市场交易业务的强劲表现抵消了信贷损失的激增。]]></description>
       <guid>https://www.reuters.com/business/finance/standard-chartered-q1-profit-rises-55-beats-estimates-2024-05-02/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>早盘竞价：鲍威尔引发股市波动，日元飙升</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-01/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <description><![CDATA[展望未来亚洲市场的前景。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 21:46:51 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>杜邦预计中国需求将回升，上调全年预测</title>
       <link>https://www.reuters.com/business/dupont-beats-profit-estimates-raises-full-year-forecasts-2024-05-01/</link>
-      <description><![CDATA[工业材料制造商杜邦德内穆尔 (DuPont de Nemours) 表示，预计中国需求回升，并于周三上调了全年预期，导致该公司股价在早盘交易中上涨 6%。]]></description>
+      <description><![CDATA[工业材料制造商杜邦公司周三表示，预计中国需求将回升，并上调了全年预测，推动该公司股价在早盘交易中上涨 6%。]]></description>
       <guid>https://www.reuters.com/business/dupont-beats-profit-estimates-raises-full-year-forecasts-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 10:19:01 GMT</pubDate>
     </item>
