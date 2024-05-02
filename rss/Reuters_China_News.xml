@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 13:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 13:52:17 GMT</lastBuildDate>
     <item>
       <title>人工智能带动中国智能手机市场反弹，高通股价上涨</title>
       <link>https://www.reuters.com/technology/qualcomm-jumps-ai-sparks-rebound-chinese-smartphone-market-2024-05-02/</link>
@@ -27,16 +27,16 @@
       <pubDate>Thu, 02 May 2024 10:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>韩国因朝鲜威胁提高外交警戒级别</title>
+      <title>韩国以朝鲜威胁为由提高外交警戒级别</title>
       <link>https://www.reuters.com/world/asia-pacific/south-korea-raises-diplomatic-alert-levels-citing-north-korea-threats-2024-05-02/</link>
-      <description><![CDATA[韩国外交部周四提高了该地区五个外交机构的恐怖主义警戒级别，理由是有情报显示朝鲜可能试图伤害其官员。]]></description>
+      <description><![CDATA[韩国外交部周四提高该地区五个外交机构的恐怖主义警戒级别，理由是情报显示朝鲜可能试图伤害韩国官员。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/south-korea-raises-diplomatic-alert-levels-citing-north-korea-threats-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 09:21:51 GMT</pubDate>
     </item>
     <item>
       <title>经合组织上调全球增长前景 美国表现优于大市</title>
       <link>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</link>
-      <description><![CDATA[经合组织周四表示，由于美国经济活动富有弹性，全球经济增长速度快于几个月前的预期，而通胀与央行目标的融合速度也快于预期，并上调了展望。]]></description>
+      <description><![CDATA[经合组织周四表示，由于美国经济活动富有弹性，全球经济增长速度快于几个月前的预期，而通胀与央行目标的融合速度也快于预期，并上调了其前景。]]></description>
       <guid>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 07:05:42 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 02 May 2024 04:49:41 GMT</pubDate>
     </item>
     <item>
-      <title>汇丰维持香港最优惠贷款利率于5.875%不变</title>
+      <title>汇丰维持香港最优惠贷款利率不变，为5.875%</title>
       <link>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</link>
       <description><![CDATA[汇丰控股周四表示，在香港事实上的央行维持通过隔夜贴现窗口收取的基本利率不变，追随美联储维持利率稳定的决定后，该公司已将香港最优惠贷款利率维持在5.875%。]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</guid>
@@ -104,9 +104,9 @@
       <pubDate>Thu, 02 May 2024 02:32:37 GMT</pubDate>
     </item>
     <item>
-      <title>所罗门群岛选举亲华的马内莱为新总理</title>
+      <title>所罗门群岛选择对中国友好的马内莱为新总理</title>
       <link>https://www.reuters.com/world/asia-pacific/solomon-islands-chooses-jeremiah-manele-new-prime-minister-2024-05-02/</link>
-      <description><![CDATA[周四，所罗门群岛立法者选举杰里米亚·马内莱(Jeremiah Manele)为新任总理，提升了这位前外交部长的地位，他承诺继续这个太平洋岛国的国际政策，拉近与中国的距离。]]></description>
+      <description><![CDATA[所罗门群岛立法者周四选举耶利米·马内莱为新任总理，提升了这位前外交部长的地位，他承诺继续这个太平洋岛国的国际政策，拉近与中国的距离。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/solomon-islands-chooses-jeremiah-manele-new-prime-minister-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 01:39:26 GMT</pubDate>
     </item>
@@ -118,7 +118,7 @@
       <pubDate>Thu, 02 May 2024 01:28:47 GMT</pubDate>
     </item>
     <item>
-      <title>苹果财报公布前美联储发出的信号令股市走软</title>
+      <title>苹果财报公布前美联储信号提振股市</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</link>
       <description><![CDATA[周四，在美联储驳回进一步加息的言论后，世界市场松了一口气，而日元在又一轮疑似外汇干预和华尔街对苹果公司盈利的担忧之后出现回落。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</guid>
@@ -127,7 +127,7 @@
     <item>
       <title>拜登将中国、日本和印度的经济困境归咎于“仇外心理”</title>
       <link>https://www.reuters.com/world/biden-blames-china-japan-indias-economic-woes-xenophobia-2024-05-02/</link>
-      <description><![CDATA[总统乔·拜登周三表示，中国、日本和印度的“仇外情绪”正在阻碍这些国家的经济增长，因为他认为移民对美国经济有利。]]></description>
+      <description><![CDATA[美国总统乔·拜登周三表示，从中国到日本和印度的“仇外心理”正在阻碍它们的增长，因为他认为移民对美国经济有利。]]></description>
       <guid>https://www.reuters.com/world/biden-blames-china-japan-indias-economic-woes-xenophobia-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 00:06:13 GMT</pubDate>
     </item>
