@@ -1,14 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 19:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 19:29:14 GMT</lastBuildDate>
+    <item>
+      <title>独家：消息人士称，嘉能可正在研究英美资源集团的方法</title>
+      <link>https://www.reuters.com/markets/commodities/glencore-studying-an-approach-anglo-american-sources-say-2024-05-02/</link>
+      <description><![CDATA[两名消息人士称，大宗商品集团嘉能可 (Glencore) 正在研究英美资源集团 (Anglo American) 的收购方案，这一进展可能会引发对这家拥有 107 年历史的矿业公司的竞购战。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/glencore-studying-an-approach-anglo-american-sources-say-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 19:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rivian 获得 8.27 亿美元奖励计划以扩建伊利诺伊州工厂</title>
+      <link>https://www.reuters.com/business/autos-transportation/rivian-receives-827-mln-incentive-package-expand-illinois-facility-2024-05-02/</link>
+      <description><![CDATA[Rivian Automotive 周四表示，该公司已从伊利诺伊州获得 8.27 亿美元的奖励，以扩大其位于该州诺默尔工厂的业务。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/rivian-receives-827-mln-incentive-package-expand-illinois-facility-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 18:36:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>FCC 称美国电信公司需要更多资金来移除中国设备</title>
+      <link>https://www.reuters.com/business/media-telecom/many-us-telecom-firms-need-more-funding-replace-huawei-zte-equipment-fcc-says-2024-05-02/</link>
+      <description><![CDATA[美国联邦通信委员会 (FCC) 周四表示，在获得联邦支持的美国电信公司中，近 40% 需要额外的政府资金，以将中国电信公司华为和中兴制造的设备从美国无线网络中移除，以应对安全风险。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/many-us-telecom-firms-need-more-funding-replace-huawei-zte-equipment-fcc-says-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 18:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴基斯坦推迟表达购买国家航空公司兴趣的最后期限</title>
+      <link>https://www.reuters.com/business/aerospace-defense/pakistan-pushes-back-deadline-expressions-interest-buy-national-airline-2024-05-02/</link>
+      <description><![CDATA[巴基斯坦私有化部长周四表示，巴基斯坦将把企业表达收购国家航空公司巴基斯坦国际航空公司兴趣的最后期限推迟至 5 月 18 日。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/pakistan-pushes-back-deadline-expressions-interest-buy-national-airline-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 17:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国生产率疲弱可能威胁美联储“软着陆”希望</title>
+      <link>https://www.reuters.com/markets/us/weak-us-productivity-could-threaten-feds-soft-landing-hopes-2024-05-02/</link>
+      <description><![CDATA[美国第一季度生产率增长疲弱可能会对美联储在不造成失业率痛苦上升的情况下完成通胀斗争的努力构成挑战，如果经济进一步放缓，可能会阻碍物价上涨的进程。]]></description>
+      <guid>https://www.reuters.com/markets/us/weak-us-productivity-could-threaten-feds-soft-landing-hopes-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 16:59:58 GMT</pubDate>
+    </item>
     <item>
       <title>环球音乐在轰动一时的斯威夫特巡演后盈利超出预期</title>
       <link>https://www.reuters.com/business/media-telecom/universal-music-group-first-quarter-core-earnings-beat-forecast-2024-05-02/</link>
-      <description><![CDATA[环球音乐集团周四表示，得益于其主打明星泰勒·斯威夫特的轰动性巡回演出以及所有部门的销售增长，环球音乐集团第一季度核心利润轻松超出预期。]]></description>
+      <description><![CDATA[环球音乐集团周四公布的第一季度收益轻松超出预期，这得益于其明星演员泰勒·斯威夫特（Taylor Swift）破纪录的成功。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/universal-music-group-first-quarter-core-earnings-beat-forecast-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 16:02:57 GMT</pubDate>
     </item>
@@ -22,23 +57,9 @@
     <item>
       <title>商用飞机、机动车辆提振美国工厂订单</title>
       <link>https://www.reuters.com/markets/us/commercial-aircraft-motor-vehicles-lift-us-factory-orders-2024-05-02/</link>
-      <description><![CDATA[受商用飞机和机动车辆需求的推动，3月份美国制造的新订单稳步增长，但其他地区的增长温和。]]></description>
+      <description><![CDATA[受商用飞机和机动车需求推动，3月份美国制成品新订单稳步增长，但其他领域的增幅温和。]]></description>
       <guid>https://www.reuters.com/markets/us/commercial-aircraft-motor-vehicles-lift-us-factory-orders-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 14:46:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息人士称，高盛取消了欧盟时代英国顶级银行家的奖金上限</title>
-      <link>https://www.reuters.com/business/finance/goldman-sachs-scraps-eu-era-bonus-cap-top-bankers-uk-source-says-2024-05-02/</link>
-      <description><![CDATA[据知情人士透露，高盛已取消了英国高级银行家的奖金上限，几个月前，英国刚刚取消了从欧盟继承下来的这项政策。]]></description>
-      <guid>https://www.reuters.com/business/finance/goldman-sachs-scraps-eu-era-bonus-cap-top-bankers-uk-source-says-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 14:34:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国孖士打律师事务所将退出香港合伙企业</title>
-      <link>https://www.reuters.com/legal/us-law-firm-mayer-brown-split-hong-kong-partnership-2024-05-02/</link>
-      <description><![CDATA[美国孖士打律师事务所周四表示，由于许多国际律师事务所重新考虑或减少在中国的业务，该公司计划从目前的香港业务中分离出来。]]></description>
-      <guid>https://www.reuters.com/legal/us-law-firm-mayer-brown-split-hong-kong-partnership-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 14:23:20 GMT</pubDate>
     </item>
     <item>
       <title>独家：消息人士称 TOMS Capital Investment Management 已入股 Kellanova</title>
@@ -50,28 +71,14 @@
     <item>
       <title>俄罗斯向朝鲜运送燃料超过联合国上限 - 白宫</title>
       <link>https://www.reuters.com/business/energy/russia-is-shipping-oil-north-korea-above-un-mandated-levels-us-official-2024-05-02/</link>
-      <description><![CDATA[白宫周四表示，俄罗斯一直在悄悄向朝鲜运送精炼石油，其水平似乎违反了联合国安理会规定的上限，这表明可能会导致新的制裁。]]></description>
+      <description><![CDATA[白宫周四表示，俄罗斯一直在悄悄向朝鲜运送精炼石油，其水平似乎违反了联合国安理会规定的上限，暗示可能会实施新的制裁。]]></description>
       <guid>https://www.reuters.com/business/energy/russia-is-shipping-oil-north-korea-above-un-mandated-levels-us-official-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 14:09:55 GMT</pubDate>
     </item>
     <item>
-      <title>首席执行官表示，壳牌目前不考虑在纽约重新上市</title>
-      <link>https://www.reuters.com/business/energy/shell-not-looking-new-york-relisting-moment-ceo-says-2024-05-02/</link>
-      <description><![CDATA[壳牌首席执行官瓦尔·萨万 (Wael Sawan) 周四表示，壳牌目前并未积极考虑在纽约重新上市，而是专注于股票回购。]]></description>
-      <guid>https://www.reuters.com/business/energy/shell-not-looking-new-york-relisting-moment-ceo-says-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 14:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国3月贸易逆差小幅收窄</title>
-      <link>https://www.reuters.com/markets/us/us-trade-deficit-narrows-slightly-march-2024-05-02/</link>
-      <description><![CDATA[美国三月份贸易逆差略有收窄，进口下降在出口骤降的影响下有所缓解。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-trade-deficit-narrows-slightly-march-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 13:37:54 GMT</pubDate>
-    </item>
-    <item>
       <title>馅饼制造商 Kellanova 因需求稳定和价格上涨而超出预期</title>
       <link>https://www.reuters.com/business/retail-consumer/kellanova-posts-upbeat-q1-results-demand-held-steady-2024-05-02/</link>
-      <description><![CDATA[周四，Pop-Tarts 制造商 Kellanova 的第一季度销售额和利润超出了华尔街的预期，原因是价格上涨以及早餐麦片和即食零食的强劲需求，导致其股价在早盘交易中上涨约 9%。]]></description>
+      <description><![CDATA[周四，Pop-Tarts 制造商 Kellanova 的第一季度销售额和利润超过了华尔街预期，得益于价格上涨以及早餐麦片和即食零食的强劲需求，其股价在早盘交易中上涨了约 9%。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/kellanova-posts-upbeat-q1-results-demand-held-steady-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 12:59:21 GMT</pubDate>
     </item>
@@ -92,14 +99,14 @@
     <item>
       <title>穆迪因产品需求强劲而超越季度利润预期</title>
       <link>https://www.reuters.com/business/finance/moodys-tops-quarterly-profit-estimates-strong-product-demand-2024-05-02/</link>
-      <description><![CDATA[得益于其研究和分析产品的需求，穆迪周四第一季度利润超出了华尔街的预期。]]></description>
+      <description><![CDATA[受其研究和分析产品需求的推动，穆迪周四第一季度利润超过华尔街预期。]]></description>
       <guid>https://www.reuters.com/business/finance/moodys-tops-quarterly-profit-estimates-strong-product-demand-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 12:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>美联储鸽派信号带动华尔街上涨</title>
+      <title>美联储暗示鸽派倾向，华尔街上涨；就业报告备受关注</title>
       <link>https://www.reuters.com/markets/us/futures-climb-fed-allays-rate-hike-worries-2024-05-02/</link>
-      <description><![CDATA[周四，在美联储维持利率不变并暗示鸽派倾向的第二天，华尔街主要股指上涨，焦点转向本周晚些时候的重要就业报告。]]></description>
+      <description><![CDATA[由于投资者仔细分析了周三美联储的利率指引、大量财报和经济数据，美国股市周四上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-climb-fed-allays-rate-hike-worries-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 10:24:15 GMT</pubDate>
     </item>
@@ -111,14 +118,7 @@
       <pubDate>Thu, 02 May 2024 10:05:15 GMT</pubDate>
     </item>
     <item>
-      <title>解说：日本最近疑似干预日元，有何策略？</title>
-      <link>https://www.reuters.com/markets/asia/what-are-japans-tactics-based-latest-suspected-yen-intervention-2024-05-02/</link>
-      <description><![CDATA[日元兑美元汇率飙升，交易员怀疑这是日本当局为阻止日元大幅下跌而进行的另一轮干预。]]></description>
-      <guid>https://www.reuters.com/markets/asia/what-are-japans-tactics-based-latest-suspected-yen-intervention-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 07:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>经合组织上调全球增长前景 美国表现优于大市</title>
+      <title>经合组织上调全球增长前景 因美国表现优异</title>
       <link>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</link>
       <description><![CDATA[经合组织周四表示，由于美国经济活动富有弹性，全球经济增长速度快于几个月前的预期，而通胀与央行目标的融合速度也快于预期，并上调了其前景。]]></description>
       <guid>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</guid>
@@ -132,16 +132,16 @@
       <pubDate>Thu, 02 May 2024 05:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>鲍威尔的舒缓语气可能不足以缓解通胀恐慌的市场</title>
+      <title>鲍威尔的安慰语气可能不足以缓解通胀恐慌的市场</title>
       <link>https://www.reuters.com/markets/powells-soothing-tone-may-not-be-enough-inflation-spooked-markets-2024-05-02/</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔在央行货币政策会议后发出的令人放心的信息可能无法安抚疲惫不堪的美国股票和债券投资者，因为通胀路径的不确定性加剧了人们对即将公布的数据的关注。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.reuters.com/markets/powells-soothing-tone-may-not-be-enough-inflation-spooked-markets-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:04:56 GMT</pubDate>
     </item>
     <item>
       <title>美国医疗保健行业最大规模的网络攻击</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/biggest-cyberattacks-us-healthcare-sector-2024-03-20/</link>
-      <description><![CDATA[美国最大的医疗保险公司首席执行官五月向国会委员会表示，联合健康集团技术部门遭受的黑客攻击可能泄露了三分之一的美国人数据，其中包括美国军人的数据。]]></description>
+      <description><![CDATA[美国最大的健康保险公司首席执行官五月向国会委员会表示，联合健康集团技术部门遭受的黑客攻击可能泄露了三分之一的美国人数据，其中包括美国军人的数据。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/biggest-cyberattacks-us-healthcare-sector-2024-03-20/</guid>
       <pubDate>Wed, 20 Mar 2024 13:24:33 GMT</pubDate>
     </item>
