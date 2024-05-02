@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 21:29:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 21:42:54 GMT</lastBuildDate>
     <item>
-      <title>FCC 称许多美国电信公司需要更多资金来更换华为和中兴设备</title>
+      <title>FCC称许多美国电信公司需要更多资金来更换华为和中兴设备</title>
       <link>https://www.reuters.com/business/media-telecom/many-us-telecom-firms-need-more-funding-replace-huawei-zte-equipment-fcc-says-2024-05-02/</link>
       <description><![CDATA[美国联邦通信委员会 (FCC) 周四表示，近 40% 的美国电信公司需要额外的政府资金，以将中国电信公司华为和中兴制造的设备从美国无线网络中移除，以应对安全风险。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/many-us-telecom-firms-need-more-funding-replace-huawei-zte-equipment-fcc-says-2024-05-02/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>早盘竞价：美联储缩减量化宽松安抚情绪，日元再次上涨</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 10:09:32 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>香港央行维持关键利率不变，追踪美联储决定</title>
       <link>https://www.reuters.com/markets/asia/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-2024-05-02/</link>
-      <description><![CDATA[香港金融管理局（金管局）周四将通过隔夜贴现窗口收取的基本利率维持在 5.75% 不变，以追随美联储维持利率稳定的决定。]]></description>
+      <description><![CDATA[香港金融管理局（HKMA）周四维持隔夜贴现窗口基准利率于 5.75% 不变，以响应美联储维持利率稳定的决定。]]></description>
       <guid>https://www.reuters.com/markets/asia/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 03:21:36 GMT</pubDate>
     </item>
