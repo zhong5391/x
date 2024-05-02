@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 14:31:54 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 02 May 2024 14:48:45 GMT</lastBuildDate>
     <item>
       <title>美国联邦贸易委员会命令禁止埃克森美孚与先锋自然资源公司的交易</title>
       <link>https://www.reuters.com/markets/deals/us-ftc-order-bans-exxon-mobil-pioneer-natural-resources-deal-2024-05-02/</link>
@@ -20,7 +20,7 @@
       <pubDate>Thu, 02 May 2024 12:39:18 GMT</pubDate>
     </item>
     <item>
-      <title>穆迪因产品需求强劲而超越季度利润预期</title>
+      <title>穆迪因产品需求强劲而超出季度利润预期</title>
       <link>https://www.reuters.com/business/finance/moodys-tops-quarterly-profit-estimates-strong-product-demand-2024-05-02/</link>
       <description><![CDATA[得益于其研究和分析产品的需求，穆迪周四第一季度利润超出了华尔街的预期。]]></description>
       <guid>https://www.reuters.com/business/finance/moodys-tops-quarterly-profit-estimates-strong-product-demand-2024-05-02/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>日本住友商事净利润因马达加斯加一次性亏损下降32%</title>
       <link>https://www.reuters.com/markets/asia/japans-sumitomo-corp-net-profit-down-32-madagascar-one-off-loss-2024-05-02/</link>
-      <description><![CDATA[日本贸易公司住友商事(Sumitomo Corp)公布截至3月份的财年净利润较上年同期下降31.7%至3,864亿日元（合25亿美元），低于预期，因为四项业务一度出现亏损。]]></description>
+      <description><![CDATA[日本贸易公司住友商事公布，其截至 3 月份的财年净利润较上年同期下降 31.7% 至 3864 亿日元（25 亿美元），低于预期，因为其四项业务出现一次性亏损。]]></description>
       <guid>https://www.reuters.com/markets/asia/japans-sumitomo-corp-net-profit-down-32-madagascar-one-off-loss-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 12:04:00 GMT</pubDate>
     </item>
@@ -48,21 +48,21 @@
       <pubDate>Thu, 02 May 2024 11:48:23 GMT</pubDate>
     </item>
     <item>
-      <title>能源市场波动创纪录 纽约证券交易所母公司 ICE 利润上涨</title>
+      <title>纽约证券交易所母公司 ICE 利润因能源市场波动创纪录飙升而增长</title>
       <link>https://www.reuters.com/business/finance/nyse-parent-ices-profit-rises-record-surge-energy-market-volatility-2024-05-02/</link>
-      <description><![CDATA[洲际交易所周四公布第一季度调整后利润上升，原因是能源市场交易激增导致交易量创下历史新高。]]></description>
+      <description><![CDATA[洲际交易所周四公布第一季度调整后利润增长，因能源市场交易量激增，成交量创下历史新高。]]></description>
       <guid>https://www.reuters.com/business/finance/nyse-parent-ices-profit-rises-record-surge-energy-market-volatility-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 11:38:11 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能带动中国智能手机市场反弹，高通股价上涨</title>
+      <title>人工智能推动中国智能手机市场反弹，高通股价上涨</title>
       <link>https://www.reuters.com/technology/qualcomm-jumps-ai-sparks-rebound-chinese-smartphone-market-2024-05-02/</link>
-      <description><![CDATA[周四，高通股价在盘前交易中上涨 4%，此前这家专注于智能手机的芯片制造商表示，在经历了两年的低迷之后，人工智能推动的需求出现反弹，尤其是在中国。]]></description>
+      <description><![CDATA[专注于智能手机的芯片制造商高通表示，在经历了两年的低迷之后，人工智能推动了需求反弹，尤其是在中国，此后，高通股价在周四盘前交易中上涨了 4%。]]></description>
       <guid>https://www.reuters.com/technology/qualcomm-jumps-ai-sparks-rebound-chinese-smartphone-market-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 11:26:01 GMT</pubDate>
     </item>
     <item>
-      <title>尼日利亚法院将币安和高管的审判推迟至 5 月 17 日</title>
+      <title>尼日利亚法院将币安及其高管审判延期至 5 月 17 日</title>
       <link>https://www.reuters.com/business/finance/nigeria-court-adjourns-binance-execs-trial-may-17-2024-05-02/</link>
       <description><![CDATA[尼日利亚一家法院周四将针对加密货币交易所 Binance 及其两名高管的洗钱审判推迟至 5 月 17 日，此前该交易所的一名律师表示，他没有收到准备此案所需的文件。]]></description>
       <guid>https://www.reuters.com/business/finance/nigeria-court-adjourns-binance-execs-trial-may-17-2024-05-02/</guid>
@@ -76,7 +76,7 @@
       <pubDate>Thu, 02 May 2024 11:06:15 GMT</pubDate>
     </item>
     <item>
-      <title>劳合社保险公司预计巴尔的摩桥梁索赔将适度</title>
+      <title>劳合社保险公司预计巴尔的摩大桥索赔案将温和</title>
       <link>https://www.reuters.com/business/finance/lloyds-insurers-expect-moderate-baltimore-bridge-claims-2024-05-02/</link>
       <description><![CDATA[伦敦劳合社 (SOLYD.UL) 保险公司 Hiscox 和 Lancashire 周四表示，预计 3 月份巴尔的摩 Francis Scott Key 大桥倒塌事故不会造成大范围的保险索赔，该大桥倒塌造成了广泛的破坏。]]></description>
       <guid>https://www.reuters.com/business/finance/lloyds-insurers-expect-moderate-baltimore-bridge-claims-2024-05-02/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>苹果财报公布前美联储发出的信号令股市走软</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</link>
-      <description><![CDATA[周四，在美联储驳回进一步加息的言论后，世界市场松了口气，而日元则在另一轮疑似外汇干预和华尔街对苹果公司盈利的担忧之后出现回落。]]></description>
+      <description><![CDATA[美联储否认进一步加息的传言后，全球市场周四松了一口气，而日元在又一轮疑似外汇干预后出现回落，并且苹果公司的盈利对华尔街来说至关重要。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 00:23:45 GMT</pubDate>
     </item>
