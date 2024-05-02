@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻 | 今日头条 | 路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您了解最新中国新闻和时事的在线来源，确保我们的读者及时了解任何突发新闻发展 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 05:48:53 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 02 May 2024 06:09:49 GMT</lastBuildDate>
     <item>
       <title>菲律宾因南海争端召见中国外交官</title>
       <link>https://www.reuters.com/world/asia-pacific/philippines-summons-chinese-diplomat-over-south-china-sea-flare-up-2024-05-02/</link>
@@ -13,16 +13,16 @@
       <pubDate>Thu, 02 May 2024 04:22:32 GMT</pubDate>
     </item>
     <item>
-      <title>香港央行维持基准利率不变 跟踪美联储举措</title>
+      <title>香港央行维持关键利率不变，追踪美联储举措</title>
       <link>https://www.reuters.com/markets/asia/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-2024-05-02/</link>
       <description><![CDATA[香港金融管理局（金管局）周四将通过隔夜贴现窗口收取的基本利率维持在 5.75% 不变，以追随美联储维持利率稳定的举措。]]></description>
       <guid>https://www.reuters.com/markets/asia/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 03:21:36 GMT</pubDate>
     </item>
     <item>
-      <title>官方媒体报道，中国南方道路塌陷已造成 36 人死亡</title>
+      <title>据官方媒体报道，中国南方道路塌陷造成 36 人死亡</title>
       <link>https://www.reuters.com/world/china/road-collapse-southern-china-kills-36-reports-state-media-2024-05-02/</link>
-      <description><![CDATA[据中国国家媒体周四报道，在五一小长假期间，中国数百万人出行，广东省一处高速公路发生塌方，导致多辆车辆坠落，造成 36 人死亡，30 人受伤。]]></description>
+      <description><![CDATA[据官方媒体周四报道，中国广东省一高速公路路段塌陷导致车辆坠落，造成 36 人死亡、另外 30 人受伤，当时正值数百万人在该国度假期间出行。]]></description>
       <guid>https://www.reuters.com/world/china/road-collapse-southern-china-kills-36-reports-state-media-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 03:20:17 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Thu, 02 May 2024 01:39:26 GMT</pubDate>
     </item>
     <item>
-      <title>日元走软，疑似干预后大幅升幅回落</title>
+      <title>日元走弱，疑似干预后大幅上涨</title>
       <link>https://www.reuters.com/markets/currencies/yen-gives-up-ground-vs-dollar-following-surge-suspected-intervention-2024-05-02/</link>
       <description><![CDATA[日元兑美元周四下跌，在隔夜突然飙升后逆转方向，交易员和分析师很快将其归因于日本当局的干预。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-gives-up-ground-vs-dollar-following-surge-suspected-intervention-2024-05-02/</guid>
@@ -85,7 +85,7 @@
     <item>
       <title>美国禁止华为和其他中国电信公司认证无线设备</title>
       <link>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</link>
-      <description><![CDATA[美国官员周三向路透社表示，美国联邦通信委员会正在采取行动，阻止华为、中兴通讯和其他被认为对美国国家安全构成威胁的外国公司认证无线设备。]]></description>
+      <description><![CDATA[官员周三对路透表示，美国联邦通信委员会正在采取行动，阻止华为、中兴通讯和其他被认为构成美国国家安全担忧的外国公司对无线设备进行认证。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 17:37:32 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>美国将对 GoPro 指控中国公司侵犯其专利展开调查</title>
       <link>https://www.reuters.com/technology/us-trade-panel-probe-gopros-claims-that-chinese-firm-violated-its-patents-2024-05-01/</link>
-      <description><![CDATA[GoPro 声称一家中国公司在向美国进口类似产品时侵犯了其相机、系统和配件的专利，美国国际贸易委员会正在对此展开调查。]]></description>
+      <description><![CDATA[美国国际贸易委员会正在对 GoPro 的指控展开调查，该公司声称一家向美国进口类似产品的中国公司侵犯了其相机、系统和配件的专利。]]></description>
       <guid>https://www.reuters.com/technology/us-trade-panel-probe-gopros-claims-that-chinese-firm-violated-its-patents-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 17:09:53 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>尽管美国和中国经济复苏，雅诗兰黛仍下调销售预期</title>
       <link>https://www.reuters.com/business/retail-consumer/estee-lauder-lifts-annual-profit-view-us-china-demand-recovery-2024-05-01/</link>
-      <description><![CDATA[尽管美国和亚太市场对雅诗兰黛高价产品的需求反弹推动其利润预期上调，但由于中国大陆高端美容市场持续疲软，雅诗兰黛仍下调了年度有机销售额预期。]]></description>
+      <description><![CDATA[由于中国大陆高端美容市场持续疲软，雅诗兰黛下调了年度有机销售额预期，尽管美国和亚太市场对其昂贵产品的需求反弹推动了利润预期的上调。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/estee-lauder-lifts-annual-profit-view-us-china-demand-recovery-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 10:49:48 GMT</pubDate>
     </item>
@@ -139,7 +139,7 @@
       <pubDate>Wed, 01 May 2024 10:38:58 GMT</pubDate>
     </item>
     <item>
-      <title>杜邦公司预计中国需求回升，上调全年预测</title>
+      <title>杜邦预计中国需求将回升，上调全年预测</title>
       <link>https://www.reuters.com/business/dupont-beats-profit-estimates-raises-full-year-forecasts-2024-05-01/</link>
       <description><![CDATA[工业材料制造商杜邦德内穆尔 (DuPont de Nemours) 表示，预计中国需求回升，并于周三上调了全年预期，导致该公司股价在早盘交易中上涨 6%。]]></description>
       <guid>https://www.reuters.com/business/dupont-beats-profit-estimates-raises-full-year-forecasts-2024-05-01/</guid>

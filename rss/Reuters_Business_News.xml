@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 | 今日国际头条 | 路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 05:48:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:09:43 GMT</lastBuildDate>
+    <item>
+      <title>早上叫价：干预、冲洗、重复</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-02/</link>
+      <description><![CDATA[汤姆·威斯布鲁克 (Tom Westbrook) 对欧洲和全球市场未来一天的展望]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 04:32:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>汇丰维持香港最优惠贷款利率于5.875%不变</title>
+      <link>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</link>
+      <description><![CDATA[汇丰控股周四表示，在香港事实上的央行维持通过隔夜贴现窗口收取的基本利率不变，追随美联储维持利率稳定的决定后，该公司已将香港最优惠贷款利率维持在5.875%。]]></description>
+      <guid>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 04:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>渣打银行第一季度利润增长 5.5% 超出预期</title>
+      <link>https://www.reuters.com/business/finance/standard-chartered-q1-profit-rises-55-beats-estimates-2024-05-02/</link>
+      <description><![CDATA[渣打银行周四公布其第一季度税前利润增长 5.5%，超过预期，因为更高的利率提振了这家专注于新兴市场的银行的盈利。]]></description>
+      <guid>https://www.reuters.com/business/finance/standard-chartered-q1-profit-rises-55-beats-estimates-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 04:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>香港央行维持关键利率不变，追踪美联储举措</title>
+      <link>https://www.reuters.com/markets/asia/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-2024-05-02/</link>
+      <description><![CDATA[香港金融管理局（金管局）周四将通过隔夜贴现窗口收取的基本利率维持在 5.75% 不变，以追随美联储维持利率稳定的举措。]]></description>
+      <guid>https://www.reuters.com/markets/asia/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 03:21:36 GMT</pubDate>
+    </item>
     <item>
       <title>前官员表示，日本的外汇干预信号表明160日元线已陷入困境</title>
       <link>https://www.reuters.com/markets/currencies/japans-fx-intervention-signals-160-yen-line-sand-says-ex-official-2024-05-02/</link>
@@ -13,72 +41,51 @@
       <pubDate>Thu, 02 May 2024 02:25:55 GMT</pubDate>
     </item>
     <item>
-      <title>因疑似干预而飙升后日元兑美元回落</title>
+      <title>日元走软，疑似干预后大幅升幅回落</title>
       <link>https://www.reuters.com/markets/currencies/yen-gives-up-ground-vs-dollar-following-surge-suspected-intervention-2024-05-02/</link>
-      <description><![CDATA[周四早盘，日元兑美元汇率突然飙升，交易员和分析师很快将其归因于日本当局的干预，随后日元汇率出现逆转。]]></description>
+      <description><![CDATA[日元兑美元周四下跌，在隔夜突然飙升后逆转方向，交易员和分析师很快将其归因于日本当局的干预。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-gives-up-ground-vs-dollar-following-surge-suspected-intervention-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 01:28:47 GMT</pubDate>
     </item>
     <item>
-      <title>美国补充战略储备前景推动油价上涨</title>
+      <title>美国补充战略储备前景推动油价反弹</title>
       <link>https://www.reuters.com/business/energy/oil-prices-pick-up-prospect-us-replenishing-strategic-reserve-2024-05-02/</link>
-      <description><![CDATA[由于以色列和加沙停火的希望、对美国降息的疑虑以及石油库存膨胀，油价跌至七周低点，因美国可能开始购买原油作为石油储备，油价周四上涨。]]></description>
+      <description><![CDATA[油价周四上涨，从连续三天的下跌中反弹，因为市场预期油价下跌可能促使全球最大原油消费国美国开始补充战略储备，从而为油价提供支撑。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-prices-pick-up-prospect-us-replenishing-strategic-reserve-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 01:01:43 GMT</pubDate>
     </item>
     <item>
-      <title>韩国四月工厂活动萎缩，前景乐观情绪升温</title>
+      <title>韩国 4 月份工厂活动萎缩，但对前景的乐观情绪有所抬头</title>
       <link>https://www.reuters.com/markets/asia/skorea-factory-activity-shrinks-april-optimism-about-outlook-ticks-up-2024-05-02/</link>
-      <description><![CDATA[周四的一项私营部门调查显示，韩国四月份工厂活动再次萎缩，但随着产量和订单实现边际增长，制造商的乐观情绪攀升至近两年来的最高水平。]]></description>
+      <description><![CDATA[周四公布的一项私营部门调查显示，韩国 4 月份工厂活动再次萎缩，但由于产量和订单均实现小幅增长，​​制造商乐观情绪升至近两年来的最高水平。]]></description>
       <guid>https://www.reuters.com/markets/asia/skorea-factory-activity-shrinks-april-optimism-about-outlook-ticks-up-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 00:36:06 GMT</pubDate>
     </item>
     <item>
-      <title>拜耳旗下孟山都公司在华盛顿法庭上赢得 1.85 亿美元 PCB 判决的逆转</title>
+      <title>拜耳旗下孟山都公司在华盛顿法院赢得推翻价值 1.85 亿美元 PCB 的判决</title>
       <link>https://www.reuters.com/legal/bayers-monsanto-wins-reversal-185-million-pcbs-verdict-washington-court-2024-05-02/</link>
       <description><![CDATA[周三，华盛顿州一家上诉法院推翻了拜耳孟山都子公司因西雅图地区一所学校化学污染而被判赔偿 1.85 亿美元的判决，这是该公司几周以来第二次取得重大法律胜利。]]></description>
       <guid>https://www.reuters.com/legal/bayers-monsanto-wins-reversal-185-million-pcbs-verdict-washington-court-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 00:27:39 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市因降息延迟而波动；日元跃升</title>
+      <title>美联储打压加息担忧，亚洲股市上涨；日元跃升</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</link>
-      <description><![CDATA[周四，在美联储表示推迟降息之后，亚洲股市开局不稳定，而美元兑日元大幅下跌，交易员认为这是日本干预所致。]]></description>
+      <description><![CDATA[在美联储淡化加息风险后，亚洲股市和美国期货周四上涨，而日元则因日本再次疑似干预而出现波动。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 00:23:45 GMT</pubDate>
     </item>
     <item>
-      <title>韩国 4 月份消费者通胀率降至 2.9%</title>
-      <link>https://www.reuters.com/markets/asia/south-korea-april-inflation-29-yy-lower-than-expected-2024-05-01/</link>
-      <description><![CDATA[周四官方数据显示，韩国四月份消费者通胀三个月来首次放缓，低于经济学家的预期，支撑了市场对下半年货币宽松的预期。]]></description>
-      <guid>https://www.reuters.com/markets/asia/south-korea-april-inflation-29-yy-lower-than-expected-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 23:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>通货紧缩席卷澳大利亚 Woolworths 的货架；股价下跌</title>
-      <link>https://www.reuters.com/business/retail-consumer/australian-retailer-woolworths-third-quarter-sales-rise-28-2024-05-01/</link>
-      <description><![CDATA[澳大利亚顶级连锁超市Woolworths表示，由于争夺生活成本持续高昂的顾客，第三季度货架价格有所下降，抵消了消费者的强烈反对，但令投资者感到沮丧，导致股价下跌。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/australian-retailer-woolworths-third-quarter-sales-rise-28-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 22:49:46 GMT</pubDate>
-    </item>
-    <item>
       <title>Cognizant 第一季度收入超出客户支出稳定的预期</title>
       <link>https://www.reuters.com/technology/cognizant-first-quarter-revenue-beats-estimates-steady-spending-by-clients-2024-05-01/</link>
-      <description><![CDATA[周三，在客户支出稳定的帮助下，Cognizant Technology Solutions 的第一季度营收超出了华尔街的预期，导致其股价在盘后交易中上涨超过 4%。]]></description>
+      <description><![CDATA[受客户稳定支出的推动，Cognizant Technology Solutions 周三公布的第一季度营收超过了华尔街预期，其股价在盘后交易中上涨逾 4%。]]></description>
       <guid>https://www.reuters.com/technology/cognizant-first-quarter-revenue-beats-estimates-steady-spending-by-clients-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 22:07:55 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：鲍威尔引发股市波动，日元飙升</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-01/</link>
-      <description><![CDATA[展望未来亚洲市场的前景。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 21:46:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>日元因日本当局疑似干预而飙升</title>
+      <title>日元因疑似干预而飙升，160被视为关键水平</title>
       <link>https://www.reuters.com/markets/currencies/dollaryen-extends-loss-amid-specter-boj-intervention-2024-05-01/</link>
-      <description><![CDATA[周四亚洲时段早盘，日元兑美元大幅上涨，交易员怀疑日本当局采取了新一轮干预措施，以阻止日元大幅下跌。]]></description>
+      <description><![CDATA[周四亚洲时段早盘，日元兑美元大幅上涨，交易员怀疑日本当局为阻止日元大幅下跌而采取了新一轮干预措施，而 160 的水平被视为关键防线。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollaryen-extends-loss-amid-specter-boj-intervention-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 20:57:54 GMT</pubDate>
     </item>
@@ -90,23 +97,16 @@
       <pubDate>Wed, 01 May 2024 20:40:57 GMT</pubDate>
     </item>
     <item>
-      <title>由于消费者支出依然紧张，eBay 预计第二季度收入低于预期</title>
+      <title>由于消费者支出仍然紧张，eBay 预测第二季度收入低于预期</title>
       <link>https://www.reuters.com/business/ebay-forecasts-quarterly-revenue-below-expectations-2024-05-01/</link>
       <description><![CDATA[电子商务公司 eBay 周三预测第二季度收入低于华尔街预期，原因是收藏品和汽车零部件等主要产品类别的需求降温，导致其股价在盘后交易中下跌 5%。]]></description>
       <guid>https://www.reuters.com/business/ebay-forecasts-quarterly-revenue-below-expectations-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 20:10:42 GMT</pubDate>
     </item>
     <item>
-      <title>DoorDash 季度核心利润低迷令华尔街失望</title>
-      <link>https://www.reuters.com/business/doordash-projects-quarterly-core-profit-below-estimates-higher-costs-2024-05-01/</link>
-      <description><![CDATA[DoorDash 预计第二季度核心利润低于预期，周三盘中交易中股价下跌超过 14%，这表明成本上升抵消了杂货和食品订单增加带来的部分收益。]]></description>
-      <guid>https://www.reuters.com/business/doordash-projects-quarterly-core-profit-below-estimates-higher-costs-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 20:07:51 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能推动中国芯片销售，高通预测超出预期</title>
       <link>https://www.reuters.com/technology/qualcomm-forecast-beats-estimates-ai-revives-smartphone-market-2024-05-01/</link>
-      <description><![CDATA[高通周三预测季度销售额和调整后利润将超过华尔街的预期，这得益于向具有人工智能功能的 Android 智能手机销售更多、更昂贵的芯片。]]></description>
+      <description><![CDATA[高通公司周三预测的季度销售额和调整后利润高于华尔街预期，原因是向具有人工智能功能的 Android 智能手机销售了更多且价格更高的芯片。]]></description>
       <guid>https://www.reuters.com/technology/qualcomm-forecast-beats-estimates-ai-revives-smartphone-market-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 20:01:12 GMT</pubDate>
     </item>
