@@ -1,68 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 10:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 10:34:40 GMT</lastBuildDate>
     <item>
-      <title>日本央行前官员预测日本将继续干预以防止日元暴跌</title>
-      <link>https://www.reuters.com/markets/asia/ex-boj-official-predicts-japan-will-keep-intervening-prevent-yen-free-fall-2024-05-02/</link>
-      <description><![CDATA[一位十年前参与东京市场进军的前央行官员表示，日本可能会继续干预以支撑日元，直到投机者引发日元大幅贬值的风险被消除。]]></description>
-      <guid>https://www.reuters.com/markets/asia/ex-boj-official-predicts-japan-will-keep-intervening-prevent-yen-free-fall-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 08:26:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>PMI显示欧元区4月份工厂活动恶化</title>
-      <link>https://www.reuters.com/markets/europe/euro-zone-factory-activity-took-turn-worse-april-pmi-shows-2024-05-02/</link>
-      <description><![CDATA[周四的一项调查显示，尽管工厂降价，但由于需求下滑，欧元区制造业活动持续低迷在 4 月份进一步加剧，迫使企业再次裁员。]]></description>
-      <guid>https://www.reuters.com/markets/europe/euro-zone-factory-activity-took-turn-worse-april-pmi-shows-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 08:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国航空、荷兰皇家航空、布鲁塞尔航空等航空公司参与欧盟“绿色清洗”调查</title>
-      <link>https://www.reuters.com/business/aerospace-defense/air-france-brussels-airlines-among-carriers-eu-greenwashing-probe-2024-05-02/</link>
-      <description><![CDATA[法国航空及其荷兰皇家航空子公司和汉莎航空旗下的布鲁塞尔航空是欧盟调查的 20 家航空公司之一，这些航空公司可能存在误导性的“绿色清洗”行为，这也证实了比利时广播公司 RTBF 的报道。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/air-france-brussels-airlines-among-carriers-eu-greenwashing-probe-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 07:36:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲股市在财报潮中开盘下跌，美联储结果</title>
-      <link>https://www.reuters.com/markets/europe/european-shares-slip-open-earnings-tide-fed-outcome-2024-05-02/</link>
-      <description><![CDATA[欧洲股市周四开盘低迷，因投资者在周中假期后回归，分析大量大额财报，且美联储暗示将推迟降息。]]></description>
-      <guid>https://www.reuters.com/markets/europe/european-shares-slip-open-earnings-tide-fed-outcome-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 07:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>环球音乐集团艺术家在新的许可协议后重返 TikTok</title>
-      <link>https://www.reuters.com/business/media-telecom/universal-music-group-reaches-new-licensing-agreement-with-tiktok-2024-05-02/</link>
-      <description><![CDATA[环球音乐集团和 TikTok 周四表示，他们已达成一项新的许可协议，该协议将把该唱片公司的歌曲和艺术家恢复到社交媒体平台上，并为音乐家提供更多保护，使其免受人工智能的影响。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/universal-music-group-reaches-new-licensing-agreement-with-tiktok-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 07:10:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>解说：日本最近疑似干预日元，有何策略？</title>
-      <link>https://www.reuters.com/markets/asia/what-are-japans-tactics-based-latest-suspected-yen-intervention-2024-05-02/</link>
-      <description><![CDATA[日元兑美元汇率飙升，交易员怀疑这是日本当局为阻止日元大幅下跌而进行的另一轮干预。]]></description>
-      <guid>https://www.reuters.com/markets/asia/what-are-japans-tactics-based-latest-suspected-yen-intervention-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 07:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>经合组织上调全球增长前景 美国表现优于大市</title>
-      <link>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</link>
-      <description><![CDATA[经合组织周四表示，由于美国经济活动富有弹性，全球经济增长速度快于几个月前的预期，而通胀与央行目标的融合速度也快于预期，并上调了展望。]]></description>
-      <guid>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 07:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯法院取消扣押摩根大通银行与俄罗斯外贸银行纠纷案部分资金</title>
+      <title>俄罗斯法院取消扣押摩根大通银行与俄罗斯外贸银行争议中的部分资金</title>
       <link>https://www.reuters.com/business/finance/russian-court-cancels-seizure-part-jpmorgan-banks-funds-dispute-with-russias-vtb-2024-05-02/</link>
-      <description><![CDATA[一份法庭文件显示，俄罗斯一家法院在与俄罗斯国有银行 VTB 的纠纷中取消了对摩根大通在俄罗斯的部分资金的扣押。]]></description>
+      <description><![CDATA[一份法庭文件显示，在与俄罗斯国有银行 VTB 的纠纷中，俄罗斯一家法院取消了对摩根大通在俄罗斯部分资金的扣押。]]></description>
       <guid>https://www.reuters.com/business/finance/russian-court-cancels-seizure-part-jpmorgan-banks-funds-dispute-with-russias-vtb-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 06:32:43 GMT</pubDate>
     </item>
     <item>
-      <title>路透调查：日本 3 月份家庭支出可能加速下滑</title>
+      <title>路透调查显示日本三月份家庭支出可能加速下降</title>
       <link>https://www.reuters.com/markets/asia/japan-household-spending-likely-accelerated-pace-declines-march-2024-05-02/</link>
       <description><![CDATA[路透社周四的一项民意调查显示，3月份日本家庭支出可能加速下降，凸显了热衷于实现经济自我维持增长和货币政策正常化的政策制定者所面临的困难。]]></description>
       <guid>https://www.reuters.com/markets/asia/japan-household-spending-likely-accelerated-pace-declines-march-2024-05-02/</guid>
@@ -71,21 +22,28 @@
     <item>
       <title>马士基在强劲的季度后上调全年利润指引</title>
       <link>https://www.reuters.com/business/autos-transportation/maersk-posts-q1-profits-above-expectations-lifts-lower-end-fy-guidance-range-2024-05-02/</link>
-      <description><![CDATA[航运集团马士基周四公布好于预期的季度收益后，上调了全年利润指引，理由是集装箱运输需求强劲，以及非洲各地的船只改道避开红海。]]></description>
+      <description><![CDATA[航运集团马士基在周四发布好于预期的季度收益后，上调了全年利润预期，理由是集装箱运输需求强劲，以及非洲各地的船只为了避开红海而改道。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/maersk-posts-q1-profits-above-expectations-lifts-lower-end-fy-guidance-range-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 06:07:19 GMT</pubDate>
     </item>
     <item>
-      <title>壳牌季度利润超预期 77 亿美元</title>
+      <title>壳牌第一季度利润超过预期 77 亿美元</title>
       <link>https://www.reuters.com/business/energy/shell-beats-expectations-with-77-bln-first-quarter-profit-2024-05-02/</link>
-      <description><![CDATA[壳牌周四公布第一季度利润为 77 亿美元，在红海和俄罗斯的石油炼制和贸易中断后大幅超出预期。]]></description>
+      <description><![CDATA[壳牌周四公布第一季度调整后盈利为 77 亿美元，大幅超出预期，得益于强劲的石油交易和更高的炼油利润。]]></description>
       <guid>https://www.reuters.com/business/energy/shell-beats-expectations-with-77-bln-first-quarter-profit-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 06:06:08 GMT</pubDate>
     </item>
     <item>
+      <title>日本住友商事净利润下降32%，未达预期</title>
+      <link>https://www.reuters.com/markets/asia/japans-sumitomo-corp-net-profit-down-32-misses-estimates-2024-05-02/</link>
+      <description><![CDATA[日本贸易公司住友商事公布，截至 3 月份的财年净利润较上年同期下降 31.7%，至 3,864 亿日元（合 25 亿美元），低于预期。]]></description>
+      <guid>https://www.reuters.com/markets/asia/japans-sumitomo-corp-net-profit-down-32-misses-estimates-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 05:37:18 GMT</pubDate>
+    </item>
+    <item>
       <title>诺和诺德上调肥胖药物需求推动的前景</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/obesity-drugmaker-novo-nordisks-q1-profit-beats-forecast-2024-05-02/</link>
-      <description><![CDATA[丹麦制药商诺和诺德 (Novo Nordisk) 周四上调了 2024 年的前景，并实现了好于预期的第一季度利润，这家丹麦制药商竞相提高其 Wegovy 减肥药的产量并抵御竞争对手礼来 (Eli Lilly) 的竞争。]]></description>
+      <description><![CDATA[丹麦制药商诺和诺德 (Novo Nordisk) 周四上调了 2024 年前景，并实现了好于预期的季度利润，这家丹麦制药商竞相提高其广受欢迎的减肥药 Wegovy 的产量，并抵御竞争对手礼来 (Eli Lilly) 的竞争。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/obesity-drugmaker-novo-nordisks-q1-profit-beats-forecast-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:34:19 GMT</pubDate>
     </item>
@@ -97,11 +55,18 @@
       <pubDate>Thu, 02 May 2024 05:20:12 GMT</pubDate>
     </item>
     <item>
-      <title>鲍威尔的舒缓语气可能不足以缓解通胀恐慌的市场</title>
+      <title>鲍威尔的安慰语气可能不足以缓解通胀恐慌的市场</title>
       <link>https://www.reuters.com/markets/powells-soothing-tone-may-not-be-enough-inflation-spooked-markets-2024-05-02/</link>
       <description><![CDATA[美联储主席杰罗姆·鲍威尔在央行货币政策会议后发出的令人放心的信息可能无法安抚疲惫不堪的美国股票和债券投资者，因为通胀路径的不确定性加剧了人们对即将公布的数据的关注。]]></description>
       <guid>https://www.reuters.com/markets/powells-soothing-tone-may-not-be-enough-inflation-spooked-markets-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:04:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>早上叫价：干预、冲洗、重复</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-02/</link>
+      <description><![CDATA[汤姆·威斯布鲁克 (Tom Westbrook) 对欧洲和全球市场未来一天的展望]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 04:32:34 GMT</pubDate>
     </item>
     <item>
       <title>汇丰维持香港最优惠贷款利率于5.875%不变</title>
@@ -111,32 +76,67 @@
       <pubDate>Thu, 02 May 2024 04:27:39 GMT</pubDate>
     </item>
     <item>
-      <title>渣打银行利润超过手续费收入增长预期</title>
+      <title>渣打银行利润超出预期，收入增长超过信贷损失</title>
       <link>https://www.reuters.com/business/finance/standard-chartered-q1-profit-rises-55-beats-estimates-2024-05-02/</link>
-      <description><![CDATA[渣打银行周四第一季度税前利润超出预期，增长 5.5%，其交易和财富业务收入的激增足以弥补额外的信贷损失。]]></description>
+      <description><![CDATA[周四，渣打银行第一季度税前利润增长 5.5%，超出预期，原因是利率上升带来的收入增加以及市场交易业务的强劲表现抵消了信贷损失的激增。]]></description>
       <guid>https://www.reuters.com/business/finance/standard-chartered-q1-profit-rises-55-beats-estimates-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 04:24:09 GMT</pubDate>
     </item>
     <item>
-      <title>前官员表示，日本的外汇干预信号表明160日元线已陷入困境</title>
+      <title>前官员表示，日本的外汇干预预示着160日元线已经陷入困境</title>
       <link>https://www.reuters.com/markets/currencies/japans-fx-intervention-signals-160-yen-line-sand-says-ex-official-2024-05-02/</link>
       <description><![CDATA[哥伦比亚大学学者、前财政部长伊藤隆俊 (Takatoshi Ito) 周四对路透表示，日本当局可能会干预货币市场，以表明他们认为日元兑美元汇率 160 是他们的底线。]]></description>
       <guid>https://www.reuters.com/markets/currencies/japans-fx-intervention-signals-160-yen-line-sand-says-ex-official-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 02:25:55 GMT</pubDate>
     </item>
     <item>
+      <title>日元走弱，疑似干预后大幅涨幅回吐</title>
+      <link>https://www.reuters.com/markets/currencies/yen-gives-up-ground-vs-dollar-following-surge-suspected-intervention-2024-05-02/</link>
+      <description><![CDATA[日元兑美元周四下跌，在隔夜突然飙升后逆转方向，交易员和分析师很快将其归因于日本当局的干预。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/yen-gives-up-ground-vs-dollar-following-surge-suspected-intervention-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 01:28:47 GMT</pubDate>
+    </item>
+    <item>
       <title>美联储打压加息担忧，亚洲股市上涨；日元跃升</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</link>
-      <description><![CDATA[在美联储淡化加息风险后，亚洲股市和美国期货周四上涨，而日元则因日本再次疑似干预而出现波动。]]></description>
+      <description><![CDATA[美联储淡化加息风险后，亚洲股市和美国期货周四上涨，而在日本再次出现疑似干预举措后，日元则出现波动。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 00:23:45 GMT</pubDate>
     </item>
     <item>
-      <title>日元因疑似干预而飙升，160 被视为关键水平</title>
+      <title>日元因疑似干预而飙升，160被视为关键水平</title>
       <link>https://www.reuters.com/markets/currencies/dollaryen-extends-loss-amid-specter-boj-intervention-2024-05-01/</link>
       <description><![CDATA[周四亚洲早盘，日元兑美元汇率飙升，交易员怀疑这是日本当局为阻止日元大幅下滑而进行的另一轮干预，160 水平被视为关键防线。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollaryen-extends-loss-amid-specter-boj-intervention-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 20:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能推动中国芯片销售，高通预测超出预期</title>
+      <link>https://www.reuters.com/technology/qualcomm-forecast-beats-estimates-ai-revives-smartphone-market-2024-05-01/</link>
+      <description><![CDATA[高通公司周三预测的季度销售额和调整后利润高于华尔街预期，原因是向具有人工智能功能的 Android 智能手机销售了更多且价格更高的芯片。]]></description>
+      <guid>https://www.reuters.com/technology/qualcomm-forecast-beats-estimates-ai-revives-smartphone-market-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 20:01:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克（Elon Musk）吹捧的特斯拉改革对高管席造成了冲击</title>
+      <link>https://www.reuters.com/business/autos-transportation/teslas-restructuring-hits-executive-bench-hailed-by-elon-musk-2024-05-01/</link>
+      <description><![CDATA[就在一年多前，埃隆·马斯克 (Elon Musk) 在德克萨斯州特斯拉投资者日与 16 名高管同台，他们详细介绍了公司的技术和增长计划，然后在老板身后排成一排，以示团结。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/teslas-restructuring-hits-executive-bench-hailed-by-elon-musk-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 17:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦贸易委员会禁止先锋公司前首席执行官加入埃克森美孚董事会作为交易条件 - 华尔街日报</title>
+      <link>https://www.reuters.com/markets/deals/us-ftc-set-rule-60-bln-exxon-pioneer-deal-bloomberg-reports-2024-05-01/</link>
+      <description><![CDATA[《华尔街日报》周三援引知情人士的话报道称，在与反垄断执法机构达成协议后，埃克森美孚公司将完成对先锋自然资源公司 600 亿美元的收购，该协议将使先锋公司前首席执行官斯科特·谢菲尔德退出董事会。]]></description>
+      <guid>https://www.reuters.com/markets/deals/us-ftc-set-rule-60-bln-exxon-pioneer-deal-bloomberg-reports-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 17:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于投资者等待 iPhone 中的人工智能，苹果销量将大幅下滑</title>
+      <link>https://www.reuters.com/technology/apple-set-big-sales-decline-investors-await-ai-iphones-2024-05-01/</link>
+      <description><![CDATA[苹果计划在其 iPhone 中添加生成式人工智能并重振在关键的中国市场的疲软销售，这将成为周四的焦点，预计这家科技巨头将公布一年多以来最大的季度收入跌幅。]]></description>
+      <guid>https://www.reuters.com/technology/apple-set-big-sales-decline-investors-await-ai-iphones-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 10:38:58 GMT</pubDate>
     </item>
     <item>
       <title>美联储维持利率不变，表示通胀“缺乏进一步进展”</title>
