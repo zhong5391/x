@@ -3,8 +3,22 @@
   <channel>
     <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您了解最新中国新闻和时事的在线来源，确保我们的读者及时了解任何突发新闻发展 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 22:22:10 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 02 May 2024 22:38:49 GMT</lastBuildDate>
+    <item>
+      <title>新西兰外长称中国关系复杂</title>
+      <link>https://www.reuters.com/world/new-zealand-foreign-minister-calls-china-relationship-complex-2024-05-02/</link>
+      <description><![CDATA[新西兰外交部长周五称该国与中国的关系“复杂”，并指出台湾海峡两岸的强硬言论、香港的侵犯人权行为以及“加强对太平洋安全领域的参与”。]]></description>
+      <guid>https://www.reuters.com/world/new-zealand-foreign-minister-calls-china-relationship-complex-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 21:57:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：市场喜爱美联储，日元喜爱日本央行</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-02/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 21:47:41 GMT</pubDate>
+    </item>
     <item>
       <title>FCC表示，美国电信公司需要更多资金来移除中国设备</title>
       <link>https://www.reuters.com/business/media-telecom/many-us-telecom-firms-need-more-funding-replace-huawei-zte-equipment-fcc-says-2024-05-02/</link>
@@ -62,7 +76,7 @@
       <pubDate>Thu, 02 May 2024 10:59:32 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：美联储缩减量化宽松安抚情绪，日元再次上涨</title>
+      <title>早盘报价：美联储缩减QT令市场平静，日元再次上涨</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-02/</guid>
@@ -71,7 +85,7 @@
     <item>
       <title>韩国以朝鲜威胁为由提高外交警戒级别</title>
       <link>https://www.reuters.com/world/asia-pacific/south-korea-raises-diplomatic-alert-levels-citing-north-korea-threats-2024-05-02/</link>
-      <description><![CDATA[韩国外交部周四提高该地区五个外交机构的恐怖主义警戒级别，理由是情报显示朝鲜可能试图伤害韩国官员。]]></description>
+      <description><![CDATA[韩国外交部周四提高了该地区五个外交机构的恐怖主义警戒级别，理由是有情报显示朝鲜可能试图伤害其官员。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/south-korea-raises-diplomatic-alert-levels-citing-north-korea-threats-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 09:21:51 GMT</pubDate>
     </item>
@@ -83,7 +97,7 @@
       <pubDate>Thu, 02 May 2024 07:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>Hugo Boss 股价因中国需求疲软和美国不确定性而下跌</title>
+      <title>Hugo Boss 股价因中国需求减弱和美国不确定性而下跌</title>
       <link>https://www.reuters.com/business/retail-consumer/hugo-boss-q1-operating-profit-beats-expectations-2024-05-02/</link>
       <description><![CDATA[周四，Hugo Boss 股价下跌近 10%，触及 2022 年以来的最低水平，此前该高端服装品牌表示中国需求疲软，且对总统大选前的美国消费者信心感到担忧。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/hugo-boss-q1-operating-profit-beats-expectations-2024-05-02/</guid>
@@ -104,7 +118,7 @@
       <pubDate>Thu, 02 May 2024 04:49:41 GMT</pubDate>
     </item>
     <item>
-      <title>汇丰维持香港最优惠贷款利率于5.875%不变</title>
+      <title>汇丰维持香港最优惠贷款利率不变 为5.875%</title>
       <link>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</link>
       <description><![CDATA[汇丰控股周四表示，在香港事实上的央行维持通过隔夜贴现窗口收取的基本利率不变，追随美联储维持利率稳定的决定后，该公司已将香港最优惠贷款利率维持在5.875%。]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[香港金融管理局（金管局）周四将通过隔夜贴现窗口收取的基本利率维持在 5.75% 不变，以追随美联储维持利率稳定的决定。]]></description>
       <guid>https://www.reuters.com/markets/asia/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 03:21:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>官方媒体报道，中国南方道路塌陷已造成 48 人死亡</title>
-      <link>https://www.reuters.com/world/china/road-collapse-southern-china-kills-36-reports-state-media-2024-05-02/</link>
-      <description><![CDATA[据官方媒体周四报道，中国广东省一高速公路路段塌方导致车辆滚下斜坡，死亡人数已上升至 48 人，救援工作因泥石流而受阻。]]></description>
-      <guid>https://www.reuters.com/world/china/road-collapse-southern-china-kills-36-reports-state-media-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 03:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>台湾称参加世卫大会可能很难，布林肯表示支持</title>
-      <link>https://www.reuters.com/world/asia-pacific/taiwan-says-may-be-hard-attend-who-assembly-blinken-offers-support-2024-05-02/</link>
-      <description><![CDATA[在美国催促邀请后，台湾外交部长周四表示，台湾参加今年的世界卫生组织年会将很困难，希望更多国家支持其出席。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-may-be-hard-attend-who-assembly-blinken-offers-support-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 02:32:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
