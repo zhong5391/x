@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 16:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 17:18:57 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯称有关其与朝鲜军事关系的说法不准确</title>
+      <link>https://www.reuters.com/world/russia-calls-claim-about-its-alleged-military-ties-with-north-korea-inaccurate-2024-05-02/</link>
+      <description><![CDATA[俄罗斯周四表示，西方关于其与朝鲜进行军事合作的说法是不准确的，并表示其与平壤的关系既不针对第三国，也不威胁该地区的安全。]]></description>
+      <guid>https://www.reuters.com/world/russia-calls-claim-about-its-alleged-military-ties-with-north-korea-inaccurate-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 15:48:38 GMT</pubDate>
+    </item>
     <item>
       <title>美国孖士打律师事务所将退出香港合伙企业</title>
       <link>https://www.reuters.com/legal/us-law-firm-mayer-brown-split-hong-kong-partnership-2024-05-02/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>习近平的欧洲之行可能暴露西方对中国战略的分歧</title>
       <link>https://www.reuters.com/world/europe/xis-trip-europe-may-lay-bare-wests-divisions-over-china-strategy-2024-05-02/</link>
-      <description><![CDATA[中国国家主席习近平下周将出访欧洲，这是他五年来的首次出访，此行可能凸显欧洲在与北京的贸易问题上的分歧，以及欧洲大陆如何将自己定位为美国和中国之间的一极。]]></description>
+      <description><![CDATA[中国国家主席习近平下周将五年来首次访问欧洲，这次访问可能会暴露欧洲在与北京的贸易问题上的分歧，以及欧洲大陆如何将自己定位为美国和中国之间的一极。]]></description>
       <guid>https://www.reuters.com/world/europe/xis-trip-europe-may-lay-bare-wests-divisions-over-china-strategy-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 13:13:58 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>人工智能带动中国智能手机市场反弹，高通股价上涨</title>
       <link>https://www.reuters.com/technology/qualcomm-jumps-ai-sparks-rebound-chinese-smartphone-market-2024-05-02/</link>
-      <description><![CDATA[周四，高通股价在盘前交易中上涨 4%，此前这家专注于智能手机的芯片制造商表示，在经历了两年的低迷之后，人工智能推动的需求出现反弹，尤其是在中国。]]></description>
+      <description><![CDATA[高通公司股价周四上涨约 10% 至两年多高点，此前这家专注于智能手机的芯片制造商表示，在经历了多年的低迷之后，人工智能推动的需求出现反弹，尤其是在中国。]]></description>
       <guid>https://www.reuters.com/technology/qualcomm-jumps-ai-sparks-rebound-chinese-smartphone-market-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 11:26:01 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 02 May 2024 10:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>韩国以朝鲜威胁为由提高外交警戒级别</title>
+      <title>韩国因朝鲜威胁提高外交警戒级别</title>
       <link>https://www.reuters.com/world/asia-pacific/south-korea-raises-diplomatic-alert-levels-citing-north-korea-threats-2024-05-02/</link>
       <description><![CDATA[韩国外交部周四提高了该地区五个外交机构的恐怖主义警戒级别，理由是有情报显示朝鲜可能试图伤害其官员。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/south-korea-raises-diplomatic-alert-levels-citing-north-korea-threats-2024-05-02/</guid>
@@ -57,21 +64,21 @@
     <item>
       <title>经合组织上调全球增长前景 美国表现优于大市</title>
       <link>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</link>
-      <description><![CDATA[经合组织周四表示，由于美国经济活动富有弹性，全球经济增长速度快于几个月前的预期，而通胀与央行目标的融合速度也快于预期，并上调了其前景。]]></description>
+      <description><![CDATA[经合组织周四表示，得益于美国经济活动的强劲增长，全球经济增长速度比几个月前的预期要快，同时通胀率正以比预期更快的速度与各国央行的目标趋同，并上调了该组织的预测。]]></description>
       <guid>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 07:05:42 GMT</pubDate>
     </item>
     <item>
       <title>Hugo Boss 股价因中国需求疲软和美国不确定性而下跌</title>
       <link>https://www.reuters.com/business/retail-consumer/hugo-boss-q1-operating-profit-beats-expectations-2024-05-02/</link>
-      <description><![CDATA[周四，Hugo Boss 股价下跌近 10%，触及 2022 年以来的最低水平，此前该高端服装品牌表示中国需求疲软，且对总统大选前的美国消费者信心感到担忧。]]></description>
+      <description><![CDATA[周四，Hugo Boss 股价暴跌近 10%，跌至 2022 年以来的最低水平，此前该高端服装品牌表示，中国需求减弱，且对总统大选前美国消费者信心的担忧。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/hugo-boss-q1-operating-profit-beats-expectations-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>安赛乐米塔尔第一季度盈利最高预测，维持展望</title>
+      <title>安赛乐米塔尔在盈利超出预期后坚持需求增长预测</title>
       <link>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</link>
-      <description><![CDATA[全球第二大钢铁制造商安赛乐米塔尔周四公布的第一季度收益超出分析师预期，并重申预计今年中国以外的全球钢铁需求将增长 3-4%。]]></description>
+      <description><![CDATA[全球第二大钢铁制造商安赛乐米塔尔周四公布第一季度财报，好于分析师预期，并重申今年中国以外全球钢铁需求将增长3-4%的预期。]]></description>
       <guid>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:20:12 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 02 May 2024 03:20:17 GMT</pubDate>
     </item>
     <item>
-      <title>台湾表示参加世卫大会可能很难，布林肯表示支持</title>
+      <title>台湾称参加世卫大会可能很难，布林肯表示支持</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-says-may-be-hard-attend-who-assembly-blinken-offers-support-2024-05-02/</link>
       <description><![CDATA[在美国催促邀请后，台湾外交部长周四表示，台湾参加今年的世界卫生组织年会将很困难，希望更多国家支持其出席。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-may-be-hard-attend-who-assembly-blinken-offers-support-2024-05-02/</guid>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 02 May 2024 01:39:26 GMT</pubDate>
     </item>
     <item>
-      <title>日元因涉嫌干预而回吐部分涨幅，美元持稳</title>
+      <title>疑似干预后日元小幅走高</title>
       <link>https://www.reuters.com/markets/currencies/yen-gives-up-ground-vs-dollar-following-surge-suspected-intervention-2024-05-02/</link>
-      <description><![CDATA[日元兑美元周四小幅下跌，在周三尾盘突然飙升后逆转方向，交易员和分析师很快将其归因于日本当局的干预。]]></description>
+      <description><![CDATA[周三晚些时候日元突然上涨，交易员将其归因于日本当局的干预，周四当天日元小幅走强，而美元也普遍走高。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-gives-up-ground-vs-dollar-following-surge-suspected-intervention-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 01:28:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果财报公布前美联储发出的信号令股市走软</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</link>
-      <description><![CDATA[周四，在美联储驳回进一步加息的言论后，世界市场松了口气，而日元则在另一轮疑似外汇干预和华尔街对苹果公司盈利的担忧之后出现回落。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 00:23:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
