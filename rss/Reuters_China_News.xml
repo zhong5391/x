@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻 | 今日头条 | 路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 00:30:38 GMT</lastBuildDate>
-    <item>
-      <title>拜登将中国、日本和印度的经济困境归咎于“仇外心理”</title>
-      <link>https://www.reuters.com/world/biden-blames-china-japan-indias-economic-woes-xenophobia-2024-05-02/</link>
-      <description><![CDATA[美国总统乔·拜登周三表示，从中国到日本和印度的“仇外心理”正在阻碍它们的增长，因为他认为移民对美国经济有利。]]></description>
-      <guid>https://www.reuters.com/world/biden-blames-china-japan-indias-economic-woes-xenophobia-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 00:06:13 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 02 May 2024 01:38:17 GMT</lastBuildDate>
     <item>
       <title>早盘竞价：鲍威尔引发股市波动，日元飙升</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-01/</link>
@@ -27,16 +20,9 @@
       <pubDate>Wed, 01 May 2024 20:02:50 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能推动中国芯片销售，高通预测超出预期</title>
-      <link>https://www.reuters.com/technology/qualcomm-forecast-beats-estimates-ai-revives-smartphone-market-2024-05-01/</link>
-      <description><![CDATA[高通公司周三预测的季度销售额和调整后利润高于华尔街预期，原因是向具有人工智能功能的 Android 智能手机销售了更多且价格更高的芯片。]]></description>
-      <guid>https://www.reuters.com/technology/qualcomm-forecast-beats-estimates-ai-revives-smartphone-market-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 20:01:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国禁止华为和其他中国电信公司认证无线设备</title>
+      <title>美国禁止华为等中国电信公司认证无线设备</title>
       <link>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</link>
-      <description><![CDATA[官员周三对路透表示，美国联邦通信委员会正在采取行动，阻止华为、中兴通讯和其他被认为构成美国国家安全担忧的外国公司对无线设备进行认证。]]></description>
+      <description><![CDATA[官员周三告诉路透社，美国联邦通信委员会正在采取行动，阻止华为、中兴通讯和其他被认为对美国国家安全构成威胁的外国公司对无线设备进行认证。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 17:37:32 GMT</pubDate>
     </item>
@@ -50,12 +36,12 @@
     <item>
       <title>美国将对 GoPro 指控中国公司侵犯其专利展开调查</title>
       <link>https://www.reuters.com/technology/us-trade-panel-probe-gopros-claims-that-chinese-firm-violated-its-patents-2024-05-01/</link>
-      <description><![CDATA[GoPro 声称一家中国公司在向美国进口类似产品时侵犯了其相机、系统和配件的专利，美国国际贸易委员会正在对此展开调查。]]></description>
+      <description><![CDATA[美国国际贸易委员会正在对 GoPro 的指控展开调查，该公司声称一家向美国进口类似产品的中国公司侵犯了其相机、系统和配件的专利。]]></description>
       <guid>https://www.reuters.com/technology/us-trade-panel-probe-gopros-claims-that-chinese-firm-violated-its-patents-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 17:09:53 GMT</pubDate>
     </item>
     <item>
-      <title>独家：LME 价格接近历史新高吸引中国铜出口</title>
+      <title>独家：LME价格接近历史新高吸引中国铜出口</title>
       <link>https://www.reuters.com/markets/commodities/near-record-high-lme-prices-magnet-chinese-copper-exports-2024-05-01/</link>
       <description><![CDATA[三位业内消息人士称，中国铜生产商计划出口至多10万吨金属，这是12年来的最大出口量，旨在冷却导致价格创历史新高并触及订单的涨势。]]></description>
       <guid>https://www.reuters.com/markets/commodities/near-record-high-lme-prices-magnet-chinese-copper-exports-2024-05-01/</guid>
@@ -78,7 +64,7 @@
     <item>
       <title>尽管美国和中国经济复苏，雅诗兰黛仍下调销售预期</title>
       <link>https://www.reuters.com/business/retail-consumer/estee-lauder-lifts-annual-profit-view-us-china-demand-recovery-2024-05-01/</link>
-      <description><![CDATA[尽管美国和亚太市场对雅诗兰黛高价产品的需求反弹推动其利润预期上调，但由于中国大陆高端美容市场持续疲软，雅诗兰黛仍下调了年度有机销售额预期。]]></description>
+      <description><![CDATA[由于中国大陆高端美容市场持续疲软，雅诗兰黛下调了年度有机销售额预期，尽管美国和亚太市场对其昂贵产品的需求反弹推动了利润预期的上调。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/estee-lauder-lifts-annual-profit-view-us-china-demand-recovery-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 10:49:48 GMT</pubDate>
     </item>
@@ -106,7 +92,7 @@
     <item>
       <title>早盘竞价：随着美联储 2024 年降息希望渺茫，债券迎来五一节</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-05-01/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 10:05:22 GMT</pubDate>
     </item>
@@ -127,16 +113,30 @@
     <item>
       <title>壳牌退出中国电力市场业务</title>
       <link>https://www.reuters.com/business/energy/shell-exits-china-power-market-businesses-2024-05-01/</link>
-      <description><![CDATA[壳牌已退出中国电力市场，这是其首席执行官 Wael Sawan 致力于专注于利润更高的业务（包括天然气和石油业务）的一部分。]]></description>
+      <description><![CDATA[壳牌已退出中国电力市场，这是其首席执行官瓦尔·萨万 (Wael Sawan) 致力于专注于利润更高的业务（包括天然气和石油业务）的一部分。]]></description>
       <guid>https://www.reuters.com/business/energy/shell-exits-china-power-market-businesses-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 08:37:47 GMT</pubDate>
     </item>
     <item>
       <title>华为备受瞩目的消费者首席执行官余承东转变角色</title>
       <link>https://www.reuters.com/technology/huaweis-high-profile-consumer-boss-richard-yu-shifts-role-2024-05-01/</link>
-      <description><![CDATA[据两位知情人士透露，中国华为技术有限公司 (HWT.UL) 已将备受瞩目的消费者业务负责人余承东调任为该部门主席。]]></description>
+      <description><![CDATA[两位知情人士表示，中国华为技术有限公司 (HWT.UL) 已将备受瞩目的消费者业务负责人余承东调任该部门董事长。]]></description>
       <guid>https://www.reuters.com/technology/huaweis-high-profile-consumer-boss-richard-yu-shifts-role-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 06:39:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国启动下一代航母海试</title>
+      <link>https://www.reuters.com/world/china/china-launches-sea-trials-next-generation-aircraft-carrier-2024-05-01/</link>
+      <description><![CDATA[据官方媒体报道，中国周三为第三艘也是最先进的航母福建舰进行了海试。]]></description>
+      <guid>https://www.reuters.com/world/china/china-launches-sea-trials-next-generation-aircraft-carrier-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 02:44:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>菲律宾称中国海警加剧南海紧张局势</title>
+      <link>https://www.reuters.com/world/asia-pacific/philippines-says-chinese-coast-guard-elevating-tensions-south-china-sea-2024-05-01/</link>
+      <description><![CDATA[一名官员表示，在北京使用水炮造成两艘船只受损后，菲律宾周三指责中国海警加剧南海紧张局势。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/philippines-says-chinese-coast-guard-elevating-tensions-south-china-sea-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 02:40:40 GMT</pubDate>
     </item>
     <item>
       <title>台湾对中国就职后的演习保持警惕</title>
