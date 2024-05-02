@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 23:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 23:39:38 GMT</lastBuildDate>
     <item>
       <title>新西兰外长称中国关系复杂</title>
       <link>https://www.reuters.com/world/new-zealand-foreign-minister-calls-china-relationship-complex-2024-05-02/</link>
@@ -27,7 +27,7 @@
       <pubDate>Thu, 02 May 2024 18:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>塞尔维亚议会批准联合政府</title>
+      <title>塞尔维亚议会批准组建联合政府</title>
       <link>https://www.reuters.com/world/europe/serbian-parliament-approves-coalition-government-2024-05-02/</link>
       <description><![CDATA[塞尔维亚议会周四批准了一个联合政府，新当选的总理米洛斯·武切维奇将其描述为“连续性政府”，它将带领巴尔干国家应对地缘政治挑战以及与科索沃的紧张局势。]]></description>
       <guid>https://www.reuters.com/world/europe/serbian-parliament-approves-coalition-government-2024-05-02/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>俄罗斯称有关其与朝鲜军事关系的说法不准确</title>
       <link>https://www.reuters.com/world/russia-calls-claim-about-its-alleged-military-ties-with-north-korea-inaccurate-2024-05-02/</link>
-      <description><![CDATA[俄罗斯周四表示，西方声称俄罗斯与朝鲜进行军事合作是不准确的，并表示俄罗斯与平壤的关系并不针对第三国，也不会威胁该地区的安全。]]></description>
+      <description><![CDATA[俄罗斯周四表示，西方关于其与朝鲜进行军事合作的说法是不准确的，并表示其与平壤的关系既不针对第三国，也不威胁该地区的安全。]]></description>
       <guid>https://www.reuters.com/world/russia-calls-claim-about-its-alleged-military-ties-with-north-korea-inaccurate-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 15:48:38 GMT</pubDate>
     </item>
@@ -90,9 +90,9 @@
       <pubDate>Thu, 02 May 2024 09:21:51 GMT</pubDate>
     </item>
     <item>
-      <title>经合组织上调全球增长前景 美国表现优于大市</title>
+      <title>经合组织上调全球增长前景 因美国表现优异</title>
       <link>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</link>
-      <description><![CDATA[经合组织周四表示，由于美国经济活动富有弹性，全球经济增长速度快于几个月前的预期，而通胀与央行目标的融合速度也快于预期，并上调了展望。]]></description>
+      <description><![CDATA[经合组织周四表示，由于美国经济活动富有弹性，全球经济增长速度快于几个月前的预期，而通胀与央行目标的融合速度也快于预期，并上调了其前景。]]></description>
       <guid>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 07:05:42 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Thu, 02 May 2024 05:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>安赛乐米塔尔在盈利超出预期后维持需求增长预测</title>
+      <title>安赛乐米塔尔在盈利超出预期后坚持需求增长预测</title>
       <link>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</link>
       <description><![CDATA[全球第二大钢铁制造商安赛乐米塔尔周四公布第一季度财报，好于分析师预期，并重申今年中国以外全球钢铁需求将增长3-4%的预期。]]></description>
       <guid>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</guid>
@@ -120,7 +120,7 @@
     <item>
       <title>汇丰维持香港最优惠贷款利率于5.875%不变</title>
       <link>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</link>
-      <description><![CDATA[汇丰控股周四表示，该行将维持香港最佳贷款利率于 5.875% 不变，此前香港事实上的央行维持隔夜贴现窗口的基准利率不变，以追随美联储维持利率稳定的决定。]]></description>
+      <description><![CDATA[汇丰控股周四表示，在香港事实上的央行维持通过隔夜贴现窗口收取的基本利率不变，追随美联储维持利率稳定的决定后，该公司已将香港最优惠贷款利率维持在5.875%。]]></description>
       <guid>https://www.reuters.com/business/finance/hsbc-keeps-best-lending-rate-hong-kong-unchanged-5875-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 04:27:39 GMT</pubDate>
     </item>
