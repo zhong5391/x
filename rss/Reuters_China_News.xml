@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 03:08:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 03:25:53 GMT</lastBuildDate>
     <item>
       <title>拜登将中国、日本和印度的经济困境归咎于“仇外心理”</title>
       <link>https://www.reuters.com/world/biden-blames-china-japan-indias-economic-woes-xenophobia-2024-05-02/</link>
-      <description><![CDATA[美国总统乔·拜登周三表示，从中国到日本和印度的“仇外心理”正在阻碍它们的增长，因为他认为移民对美国经济有利。]]></description>
+      <description><![CDATA[总统乔·拜登周三表示，中国、日本和印度的“仇外情绪”正在阻碍这些国家的经济增长，因为他认为移民对美国经济有利。]]></description>
       <guid>https://www.reuters.com/world/biden-blames-china-japan-indias-economic-woes-xenophobia-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 00:06:13 GMT</pubDate>
     </item>
@@ -20,7 +20,7 @@
       <pubDate>Wed, 01 May 2024 21:46:51 GMT</pubDate>
     </item>
     <item>
-      <title>美国反兴奋剂机构猛烈抨击世界反兴奋剂机构在中国兴奋剂案中的“半真半假”</title>
+      <title>USADA 批评 WADA 在中国兴奋剂案中“半真半假”</title>
       <link>https://www.reuters.com/sports/usada-slams-wada-half-truths-china-doping-case-2024-05-01/</link>
       <description><![CDATA[美国反兴奋剂机构（USADA）周三批评世界反兴奋剂机构（WADA）“半真半假”，此前该机构发布了一份概述其处理涉及中国游泳运动员案件的文件。]]></description>
       <guid>https://www.reuters.com/sports/usada-slams-wada-half-truths-china-doping-case-2024-05-01/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>美国禁止华为和其他中国电信公司认证无线设备</title>
       <link>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</link>
-      <description><![CDATA[美国官员周三向路透社表示，美国联邦通信委员会正在采取行动，阻止华为、中兴通讯和其他被认为对美国国家安全构成威胁的外国公司认证无线设备。]]></description>
+      <description><![CDATA[官员周三对路透表示，美国联邦通信委员会正在采取行动，阻止华为、中兴通讯和其他被认为构成美国国家安全担忧的外国公司对无线设备进行认证。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 17:37:32 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Wed, 01 May 2024 17:09:53 GMT</pubDate>
     </item>
     <item>
-      <title>独家：LME价格接近历史新高吸引中国铜出口</title>
+      <title>独家：LME 价格接近历史新高吸引中国铜出口</title>
       <link>https://www.reuters.com/markets/commodities/near-record-high-lme-prices-magnet-chinese-copper-exports-2024-05-01/</link>
       <description><![CDATA[三位业内消息人士称，中国铜生产商计划出口至多10万吨金属，这是12年来的最大出口量，旨在冷却导致价格创历史新高并触及订单的涨势。]]></description>
       <guid>https://www.reuters.com/markets/commodities/near-record-high-lme-prices-magnet-chinese-copper-exports-2024-05-01/</guid>
@@ -69,9 +69,9 @@
       <pubDate>Wed, 01 May 2024 12:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>中国和美国需求蒙蔽前景，星巴克股价跌至两年低点</title>
+      <title>星巴克股价跌至两年低点，因中美需求前景不明朗</title>
       <link>https://www.reuters.com/business/retail-consumer/starbucks-shares-tumble-china-us-demand-slowdown-clouds-outlook-2024-05-01/</link>
-      <description><![CDATA[周三，星巴克股价下跌 15% 至近两年来的最低水平，此前这家咖啡连锁店因通胀疲软的美国消费者需求持续疲软以及中国经济复苏慢于预期而下调了年度预期。]]></description>
+      <description><![CDATA[周三，星巴克股价下跌 15% 至近两年来的最低水平，此前这家咖啡连锁店因通胀疲软的美国消费者需求持续疲软以及中国经济复苏慢于预期而下调了年度预测。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/starbucks-shares-tumble-china-us-demand-slowdown-clouds-outlook-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 12:06:13 GMT</pubDate>
     </item>
@@ -104,21 +104,21 @@
       <pubDate>Wed, 01 May 2024 10:12:02 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：随着 2024 年美联储降息希望渺茫，债券迎来五一节</title>
+      <title>早盘报价：2024 年美联储降息希望渺茫，债券市场迎来救市</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-05-01/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-pix-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 10:05:22 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，印度不太可能对低品位铁矿石实施出口限制</title>
       <link>https://www.reuters.com/world/india/india-unlikely-impose-export-curbs-low-grade-iron-ore-source-says-2024-05-01/</link>
-      <description><![CDATA[一位直接了解情况的消息人士称，尽管对中国的海外销售不断增加，但印度目前不太可能对低品位铁矿石出口征收关税，并拒绝了小型钢铁生产商的要求。]]></description>
+      <description><![CDATA[一位直接了解情况的消息人士称，尽管印度对中国的海外销售不断增加，但印度目前不太可能对低品位铁矿石出口征收关税，并拒绝了小型钢铁生产商的要求。]]></description>
       <guid>https://www.reuters.com/world/india/india-unlikely-impose-export-curbs-low-grade-iron-ore-source-says-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 09:22:58 GMT</pubDate>
     </item>
     <item>
-      <title>美联储维持利率稳定后股市和美元下跌</title>
+      <title>美联储维持利率不变后股市和美元下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-01/</link>
       <description><![CDATA[周三，全球股市下跌，而在美联储维持利率不变并表示仍倾向于最终降息后，美元兑一篮子货币走弱。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-01/</guid>
