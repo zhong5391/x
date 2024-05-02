@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 09:39:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 09:52:36 GMT</lastBuildDate>
     <item>
       <title>经合组织上调全球增长前景 美国表现优于大市</title>
       <link>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</link>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 02 May 2024 07:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>安赛乐米塔尔仍预计今年除中国以外的钢铁需求将增长 3-4%</title>
+      <title>安赛乐米塔尔仍预计今年钢铁需求增长3-4%（不包括中国）</title>
       <link>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</link>
       <description><![CDATA[全球第二大钢铁制造商安赛乐米塔尔周四重申，预计今年中国以外的全球钢铁需求将增长 3-4%，因为该公司公布的第一季度收益超出了分析师的预期。]]></description>
       <guid>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</guid>
@@ -36,7 +36,7 @@
     <item>
       <title>渣打银行利润超过收入增长预期</title>
       <link>https://www.reuters.com/business/finance/standard-chartered-q1-profit-rises-55-beats-estimates-2024-05-02/</link>
-      <description><![CDATA[周四，渣打银行第一季度税前利润增长 5.5%，超出预期，原因是利率上升带来的收入增加以及市场交易业务的强劲表现抵消了信贷损失的激增。]]></description>
+      <description><![CDATA[渣打银行周四第一季度税前利润超出预期，增长 5.5%，原因是利率上升带来的收入增加以及市场交易业务的强劲表现抵消了信贷损失的激增。]]></description>
       <guid>https://www.reuters.com/business/finance/standard-chartered-q1-profit-rises-55-beats-estimates-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 04:24:09 GMT</pubDate>
     </item>
@@ -62,16 +62,16 @@
       <pubDate>Thu, 02 May 2024 03:20:17 GMT</pubDate>
     </item>
     <item>
-      <title>台湾表示参加世卫大会可能很难，布林肯表示支持</title>
+      <title>台湾称参加世卫大会可能很难，布林肯表示支持</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-says-may-be-hard-attend-who-assembly-blinken-offers-support-2024-05-02/</link>
-      <description><![CDATA[在美国催促邀请后，台湾外交部长周四表示，台湾参加今年的世界卫生组织年会将很困难，希望更多国家支持其出席。]]></description>
+      <description><![CDATA[在美国极力要求邀请后，台湾外交部长周四表示，台湾参加今年的世界卫生组织年度大会将会很困难，台湾希望有更多国家支持其出席。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-may-be-hard-attend-who-assembly-blinken-offers-support-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 02:32:37 GMT</pubDate>
     </item>
     <item>
-      <title>所罗门群岛选举亲华的马内莱为新总理</title>
+      <title>所罗门群岛选择对中国友好的马内莱为新总理</title>
       <link>https://www.reuters.com/world/asia-pacific/solomon-islands-chooses-jeremiah-manele-new-prime-minister-2024-05-02/</link>
-      <description><![CDATA[周四，所罗门群岛立法者选举杰里米亚·马内莱(Jeremiah Manele)为新任总理，提升了这位前外交部长的地位，他承诺继续这个太平洋岛国的国际政策，拉近与中国的距离。]]></description>
+      <description><![CDATA[所罗门群岛立法者周四选举耶利米·马内莱为新任总理，提升了这位前外交部长的地位，他承诺继续这个太平洋岛国的国际政策，拉近与中国的距离。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/solomon-islands-chooses-jeremiah-manele-new-prime-minister-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 01:39:26 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Wed, 01 May 2024 21:46:51 GMT</pubDate>
     </item>
     <item>
-      <title>USADA 批评 WADA 在中国兴奋剂案中“半真半假”</title>
+      <title>美国反兴奋剂机构猛烈抨击世界反兴奋剂机构在中国兴奋剂案中的“半真半假”</title>
       <link>https://www.reuters.com/sports/usada-slams-wada-half-truths-china-doping-case-2024-05-01/</link>
       <description><![CDATA[美国反兴奋剂机构（USADA）周三批评世界反兴奋剂机构（WADA）“半真半假”，此前该机构发布了一份概述其处理涉及中国游泳运动员案件的文件。]]></description>
       <guid>https://www.reuters.com/sports/usada-slams-wada-half-truths-china-doping-case-2024-05-01/</guid>
@@ -118,7 +118,7 @@
       <pubDate>Wed, 01 May 2024 20:01:12 GMT</pubDate>
     </item>
     <item>
-      <title>美国禁止华为和其他中国电信公司认证无线设备</title>
+      <title>美国禁止华为等中国电信公司认证无线设备</title>
       <link>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</link>
       <description><![CDATA[美国官员周三向路透社表示，美国联邦通信委员会正在采取行动，阻止华为、中兴通讯和其他被认为对美国国家安全构成威胁的外国公司认证无线设备。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/us-moves-bar-huawei-other-chinese-telecoms-certifying-wireless-equipment-2024-05-01/</guid>
