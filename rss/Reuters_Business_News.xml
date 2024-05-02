@@ -1,70 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 01:38:09 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 02 May 2024 02:16:00 GMT</lastBuildDate>
     <item>
-      <title>韩国 4 月份工厂活动萎缩，但对前景的乐观情绪有所抬头</title>
-      <link>https://www.reuters.com/markets/asia/skorea-factory-activity-shrinks-april-optimism-about-outlook-ticks-up-2024-05-02/</link>
-      <description><![CDATA[周四的一项私营部门调查显示，韩国四月份工厂活动再次萎缩，但随着产量和订单实现边际增长，制造商的乐观情绪攀升至近两年来的最高水平。]]></description>
-      <guid>https://www.reuters.com/markets/asia/skorea-factory-activity-shrinks-april-optimism-about-outlook-ticks-up-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 00:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜耳旗下孟山都公司在华盛顿法庭上赢得 1.85 亿美元 PCB 判决的逆转</title>
-      <link>https://www.reuters.com/legal/bayers-monsanto-wins-reversal-185-million-pcbs-verdict-washington-court-2024-05-02/</link>
-      <description><![CDATA[周三，华盛顿州一家上诉法院推翻了拜耳孟山都子公司因西雅图地区一所学校化学污染而被判赔偿 1.85 亿美元的判决，这是该公司几周以来第二次取得重大法律胜利。]]></description>
-      <guid>https://www.reuters.com/legal/bayers-monsanto-wins-reversal-185-million-pcbs-verdict-washington-court-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 00:27:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚洲股市因降息延迟而波动；日元跃升</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</link>
-      <description><![CDATA[周四，在美联储表示推迟降息之后，亚洲股市开局不稳定，而美元兑日元大幅下跌，交易员认为这是日本干预所致。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 00:23:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>韩国 4 月份消费者通胀率降至 2.9%</title>
-      <link>https://www.reuters.com/markets/asia/south-korea-april-inflation-29-yy-lower-than-expected-2024-05-01/</link>
-      <description><![CDATA[周四官方数据显示，韩国四月份消费者通胀三个月来首次放缓，低于经济学家的预期，支撑了市场对下半年货币宽松的预期。]]></description>
-      <guid>https://www.reuters.com/markets/asia/south-korea-april-inflation-29-yy-lower-than-expected-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 23:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Woolworths 提醒顾客在销售放缓和生活成本下降的情况下保持谨慎</title>
-      <link>https://www.reuters.com/business/retail-consumer/australian-retailer-woolworths-third-quarter-sales-rise-28-2024-05-01/</link>
-      <description><![CDATA[澳大利亚 Woolworths 周四警告说，尽管通胀有所缓和，但消费者仍然保持谨慎态度，生活成本面临压力，因为这家超市运营商面临着其最大的业务——澳大利亚食品的销售放缓。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/australian-retailer-woolworths-third-quarter-sales-rise-28-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 22:49:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一季度业绩好于预期 星展银行预计今年净利润将上升</title>
-      <link>https://www.reuters.com/business/finance/singapore-bank-dbs-first-quarter-net-profit-rises-15-year-record-high-2024-05-01/</link>
-      <description><![CDATA[新加坡最大银行星展集团周四表示，在总收入强劲增长的推动下，第一季度净利润增长 15%，超出预期，预计今年净利润将增长。]]></description>
-      <guid>https://www.reuters.com/business/finance/singapore-bank-dbs-first-quarter-net-profit-rises-15-year-record-high-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 22:39:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>赌场运营商米高梅第一季度澳门业务强劲超出预期</title>
-      <link>https://www.reuters.com/business/casino-operator-mgm-beats-first-quarter-estimates-strength-macau-business-2024-05-01/</link>
-      <description><![CDATA[米高梅国际酒店集团 (MGM Resorts International) 周三第一季度业绩超出了华尔街预期，这得益于其中国业务的强劲发展，赌场运营商继续受益于疫情后入境限制的放松。]]></description>
-      <guid>https://www.reuters.com/business/casino-operator-mgm-beats-first-quarter-estimates-strength-macau-business-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 22:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳洲银行NAB现金利润下降13% 回购9.79亿美元股票</title>
+      <title>澳大利亚国民银行现金收益下降 13%，宣布回购 9.79 亿澳元</title>
       <link>https://www.reuters.com/markets/national-australia-bank-first-half-cash-earnings-fall-13-2024-05-01/</link>
-      <description><![CDATA[澳大利亚国民银行周四公布，由于面临高昂的运营成本和激烈的竞争，其上半年现金收益下降了约 13%，但将正在进行的股票回购计划增加了 15 亿澳元（9.79 亿美元）。]]></description>
+      <description><![CDATA[澳大利亚国民银行周四公布，由于运营成本高昂和竞争激烈，其上半年现金利润下降了约 13%。]]></description>
       <guid>https://www.reuters.com/markets/national-australia-bank-first-half-cash-earnings-fall-13-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 22:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>Cognizant第一季度收入超出客户支出稳定的预期</title>
+      <title>Cognizant 第一季度收入超出客户支出稳定的预期</title>
       <link>https://www.reuters.com/technology/cognizant-first-quarter-revenue-beats-estimates-steady-spending-by-clients-2024-05-01/</link>
-      <description><![CDATA[周三，在客户支出稳定的帮助下，Cognizant Technology Solutions 的第一季度营收超出了华尔街的预期，导致其股价在盘后交易中上涨超过 4%。]]></description>
+      <description><![CDATA[受客户稳定支出的推动，Cognizant Technology Solutions 周三公布的第一季度营收超过了华尔街预期，其股价在盘后交易中上涨逾 4%。]]></description>
       <guid>https://www.reuters.com/technology/cognizant-first-quarter-revenue-beats-estimates-steady-spending-by-clients-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 22:07:55 GMT</pubDate>
     </item>
@@ -76,11 +27,53 @@
       <pubDate>Wed, 01 May 2024 21:46:51 GMT</pubDate>
     </item>
     <item>
-      <title>大都会人寿第一季度利润因保费和投资收入增加而增长</title>
+      <title>由于价格上涨，马拉松石油公司第一季度利润略高于预期</title>
+      <link>https://www.reuters.com/business/energy/marathon-oil-narrowly-beats-first-quarter-profit-estimates-higher-prices-2024-05-01/</link>
+      <description><![CDATA[受石油和液化天然气（LNG）定价上涨的推动，石油和天然气公司马拉松石油公司周三以微弱优势超出第一季度利润预期。]]></description>
+      <guid>https://www.reuters.com/business/energy/marathon-oil-narrowly-beats-first-quarter-profit-estimates-higher-prices-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 21:32:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>大都会人寿第一季度利润因保费和投资收益增加而上涨</title>
       <link>https://www.reuters.com/business/finance/metlife-q1-profit-rises-higher-premiums-investment-income-2024-05-01/</link>
       <description><![CDATA[大都会人寿周三公布第一季度利润增长，得益于保费上涨和投资回报强劲。]]></description>
       <guid>https://www.reuters.com/business/finance/metlife-q1-profit-rises-higher-premiums-investment-income-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 21:30:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于电动汽车销量增长放缓，芯片制造商 Wolfspeed 预测季度收入低于预期</title>
+      <link>https://www.reuters.com/technology/chipmaker-wolfspeed-forecasts-quarterly-revenue-below-estimates-ev-sales-growth-2024-05-01/</link>
+      <description><![CDATA[芯片制造商 Wolfspeed 周三预测本季度收入低于预期，原因是汽车制造商因电动汽车销售增长慢于预期而面临高库存水平。]]></description>
+      <guid>https://www.reuters.com/technology/chipmaker-wolfspeed-forecasts-quarterly-revenue-below-estimates-ev-sales-growth-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 21:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于核心利润和零售销售的乐观预测，Carvana 股价飙升</title>
+      <link>https://www.reuters.com/business/autos-transportation/carvana-shares-soar-upbeat-forecast-core-profit-retail-sales-2024-05-01/</link>
+      <description><![CDATA[二手车销售商 Carvana 预计本季度零售额和核心利润将出现意外增长，周三该公司股价在盘后交易中飙升近 30%。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/carvana-shares-soar-upbeat-forecast-core-profit-retail-sales-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 21:08:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>First Solar 因需求强劲而季度利润更高</title>
+      <link>https://www.reuters.com/business/energy/first-solar-posts-higher-quarterly-profit-strong-demand-2024-05-01/</link>
+      <description><![CDATA[周三，First Solar 报告称，得益于太阳能需求强劲，其第一季度利润较去年同期有所增长。]]></description>
+      <guid>https://www.reuters.com/business/energy/first-solar-posts-higher-quarterly-profit-strong-demand-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 21:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于日本央行干预的担忧，日元兑美元上涨</title>
+      <link>https://www.reuters.com/markets/currencies/dollaryen-extends-loss-amid-specter-boj-intervention-2024-05-01/</link>
+      <description><![CDATA[周三晚间，日元兑美元汇率大幅上涨，交易员对日本货币当局采取干预措施以提振日元跌至 34 年低点附近的迹象保持高度警惕。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/dollaryen-extends-loss-amid-specter-boj-intervention-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 20:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>康卡斯特撤下巴利体育频道，危及美国广播公司的重组</title>
+      <link>https://www.reuters.com/business/media-telecom/comcast-pulls-bally-sports-channels-imperiling-us-broadcasters-restructuring-2024-05-01/</link>
+      <description><![CDATA[有线电视提供商康卡斯特周三停止转播巴利体育频道，停播一些美国职业棒球大联盟(MLB)比赛，并危及体育频道运营公司的破产重组。]]></description>
+      <guid>https://www.reuters.com/business/media-telecom/comcast-pulls-bally-sports-channels-imperiling-us-broadcasters-restructuring-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 20:45:12 GMT</pubDate>
     </item>
     <item>
       <title>摩根大通因贸易报告缺陷向美国监管机构支付 1 亿美元</title>
@@ -88,6 +81,13 @@
       <description><![CDATA[摩根大通周三在一份监管​​文件中披露，预计将与第三家美国监管机构达成一项决议，要求其因向监控平台报告不完整的交易数据而支付 1 亿美元的民事罚款。]]></description>
       <guid>https://www.reuters.com/business/finance/jpmorgan-chase-pay-100-million-us-regulator-over-trade-reporting-gaps-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 20:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Etsy 因可自由支配需求下降而未能实现第一季度销售额和利润预期</title>
+      <link>https://www.reuters.com/business/retail-consumer/etsy-misses-first-quarter-sales-profit-estimates-lower-discretionary-demand-2024-05-01/</link>
+      <description><![CDATA[周三，Etsy 未能达到华尔街对第一季度商品销售总额 (GMS) 和利润的预期，原因是其在线市场对其手工制品和个性化礼品的需求下降。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/etsy-misses-first-quarter-sales-profit-estimates-lower-discretionary-demand-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 20:36:06 GMT</pubDate>
     </item>
     <item>
       <title>由于消费者支出仍然紧张，eBay 预测第二季度收入低于预期</title>
@@ -99,7 +99,7 @@
     <item>
       <title>DoorDash 季度核心利润低迷令华尔街失望</title>
       <link>https://www.reuters.com/business/doordash-projects-quarterly-core-profit-below-estimates-higher-costs-2024-05-01/</link>
-      <description><![CDATA[DoorDash 预计第二季度核心利润低于预期，周三盘中交易中股价下跌超过 14%，这表明成本上升抵消了食品杂货和食品订单增加带来的部分收益。]]></description>
+      <description><![CDATA[DoorDash 预计第二季度核心利润低于预期，周三盘中交易中股价下跌超过 14%，这表明成本上升抵消了杂货和食品订单增加带来的部分收益。]]></description>
       <guid>https://www.reuters.com/business/doordash-projects-quarterly-core-profit-below-estimates-higher-costs-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 20:07:51 GMT</pubDate>
     </item>
@@ -111,18 +111,18 @@
       <pubDate>Wed, 01 May 2024 20:01:12 GMT</pubDate>
     </item>
     <item>
-      <title>伊隆·马斯克 (Elon Musk) 的特斯拉改革触及了他所吹捧的高管层</title>
+      <title>Airbnb 推出围绕体验的新全球营销策略</title>
+      <link>https://www.reuters.com/business/airbnb-launches-new-global-marketing-strategy-ad-engagement-falls-flat-2024-05-01/</link>
+      <description><![CDATA[Airbnb 周三表示，该公司宣布了最新的营销策略，旨在通过提供独特的体验来吸引新客户，同时将业务扩展到度假租赁这一核心业务之外。]]></description>
+      <guid>https://www.reuters.com/business/airbnb-launches-new-global-marketing-strategy-ad-engagement-falls-flat-2024-05-01/</guid>
+      <pubDate>Wed, 01 May 2024 20:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克 (Elon Musk) 吹捧的特斯拉改革举措打击了高管席位</title>
       <link>https://www.reuters.com/business/autos-transportation/teslas-restructuring-hits-executive-bench-hailed-by-elon-musk-2024-05-01/</link>
       <description><![CDATA[就在一年多前，埃隆·马斯克 (Elon Musk) 在德克萨斯州特斯拉投资者日与 16 名高管同台，他们详细介绍了公司的技术和增长计划，然后在老板身后排成一排，以示团结。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/teslas-restructuring-hits-executive-bench-hailed-by-elon-musk-2024-05-01/</guid>
       <pubDate>Wed, 01 May 2024 17:41:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国联邦贸易委员会将禁止先锋公司前首席执行官加入埃克森美孚董事会作为交易条件-华尔街日报</title>
-      <link>https://www.reuters.com/markets/deals/us-ftc-set-rule-60-bln-exxon-pioneer-deal-bloomberg-reports-2024-05-01/</link>
-      <description><![CDATA[《华尔街日报》周三援引知情人士的话报道称，在与反垄断执法机构达成协议后，埃克森美孚公司将完成对先锋自然资源公司 600 亿美元的收购，该协议将使先锋公司前首席执行官斯科特·谢菲尔德退出董事会。]]></description>
-      <guid>https://www.reuters.com/markets/deals/us-ftc-set-rule-60-bln-exxon-pioneer-deal-bloomberg-reports-2024-05-01/</guid>
-      <pubDate>Wed, 01 May 2024 17:04:03 GMT</pubDate>
     </item>
     <item>
       <title>随着劳动力需求逐渐缓解，美国职位空缺跌至三年低点</title>
@@ -139,7 +139,7 @@
       <pubDate>Wed, 01 May 2024 10:38:58 GMT</pubDate>
     </item>
     <item>
-      <title>美联储维持利率不变，称通胀“缺乏进一步进展”</title>
+      <title>美联储维持利率不变，表示通胀“缺乏进一步进展”</title>
       <link>https://www.reuters.com/markets/rates-bonds/fed-hold-rates-steady-inflation-dims-hopes-policy-easing-2024-05-01/</link>
       <description><![CDATA[美联储周三维持利率稳定，并表示仍倾向于最终降低借贷成本，但对最近令人失望的通胀数据发出了危险信号，这可能会在一段时间内导致降息。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/fed-hold-rates-steady-inflation-dims-hopes-policy-easing-2024-05-01/</guid>
