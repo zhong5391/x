@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 07:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 07:32:06 GMT</lastBuildDate>
+    <item>
+      <title>日本面临与日元空头的激烈拉锯战</title>
+      <link>https://www.reuters.com/markets/currencies/japan-faces-tough-tug-of-war-with-yen-bears-2024-05-03/</link>
+      <description><![CDATA[分析师表示，日本似乎通过最近一系列可疑的干预措施为日元暴跌赢得了一些时间和喘息的机会，但它也为自己与市场的持久战做好了准备，市场认为日元是一种令人信服的抛售货币。]]></description>
+      <guid>https://www.reuters.com/markets/currencies/japan-faces-tough-tug-of-war-with-yen-bears-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 07:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>假日酒店所有者 IHG 报告季度客房收入增长 2.6%</title>
+      <link>https://www.reuters.com/business/holiday-inn-owner-ihg-reports-26-rise-quarterly-room-revenue-2024-05-03/</link>
+      <description><![CDATA[假日酒店所有者洲际酒店集团 (IHG) 周五公布，得益于其在日本、澳大利亚、欧洲和中东的业绩表现，第一季度客房收入增长 2.6%。]]></description>
+      <guid>https://www.reuters.com/business/holiday-inn-owner-ihg-reports-26-rise-quarterly-room-revenue-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 06:19:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌捍卫应用商店，抵制 Epic Games 的重大改革</title>
+      <link>https://www.reuters.com/legal/google-defends-app-store-fighting-epic-games-bid-major-reforms-2024-05-03/</link>
+      <description><![CDATA[谷歌已要求美国法官不要对 Alphabet 部门的应用商店 Play 进行彻底的改变，这些改变是由《堡垒之夜》制造商 Epic Games 在公司备受关注的反垄断斗争中提出的。]]></description>
+      <guid>https://www.reuters.com/legal/google-defends-app-store-fighting-epic-games-bid-major-reforms-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 06:10:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>重油短缺意味着托运人和道路建设者的成本更高</title>
+      <link>https://www.reuters.com/markets/commodities/heavy-oil-shortage-spells-higher-cost-shippers-road-builders-2024-05-03/</link>
+      <description><![CDATA[墨西哥出口削减和加拿大原油产量调整，导致大西洋盆地本已有限的重质原油供应进一步减少，从而推高了炼油厂的成本，并可能对航运、建筑和中东发电厂等行业产生连锁反应。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/heavy-oil-shortage-spells-higher-cost-shippers-road-builders-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 06:04:22 GMT</pubDate>
+    </item>
     <item>
       <title>投资者因人工智能热潮涌入台湾 ETF，令一些人感到不安</title>
       <link>https://www.reuters.com/markets/asia/investors-flood-into-taiwan-etfs-ai-boom-unnerving-some-2024-05-03/</link>
@@ -15,19 +43,19 @@
     <item>
       <title>北美推动戴姆勒卡车核心利润突破</title>
       <link>https://www.reuters.com/business/autos-transportation/north-america-drives-daimler-truck-core-profit-beat-2024-05-03/</link>
-      <description><![CDATA[德国戴姆勒卡车股份公司周五公布第一季度核心利润为 12.1 亿欧元（13 亿美元），超过公司调查中 11.7 亿欧元的普遍预期，这得益于其北美卡车业务的强劲表现。]]></description>
+      <description><![CDATA[德国戴姆勒卡车公司周五公布第一季度核心利润为 12.1 亿欧元（合 13 亿美元），超过公司调查中普遍预期的 11.7 亿欧元，这主要得益于其卡车北美业务的强劲表现。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/north-america-drives-daimler-truck-core-profit-beat-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 05:05:57 GMT</pubDate>
     </item>
     <item>
       <title>独家：Uniper休眠的俄罗斯天然气合同可能对上市构成障碍</title>
       <link>https://www.reuters.com/business/energy/unipers-dormant-russian-gas-contracts-may-pose-hurdle-listing-2024-05-03/</link>
-      <description><![CDATA[三名知情人士表示，欧洲能源危机最大的企业受害者 Uniper 正在寻求法院解决其休眠的俄罗斯天然气供应合同问题，一旦该公司完全重返股市，该合同可能会阻止投资者。]]></description>
+      <description><![CDATA[三名知情人士表示，欧洲能源危机最大的企业受害者 Uniper 正在寻求法院解决其休眠的俄罗斯天然气供应合同问题，一旦该公司完全重返股市，该合同可能会令投资者望而却步。]]></description>
       <guid>https://www.reuters.com/business/energy/unipers-dormant-russian-gas-contracts-may-pose-hurdle-listing-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 05:05:10 GMT</pubDate>
     </item>
     <item>
-      <title>阿迪达斯试图扭转桑巴的颓势</title>
+      <title>阿迪达斯计划扭转桑巴舞颓势</title>
       <link>https://www.reuters.com/business/retail-consumer/adidas-plots-swerve-samba-slump-2024-05-03/</link>
       <description><![CDATA[阿迪达斯的目标是满足人们对三条纹黑白桑巴舞鞋和多色瞪羚运动鞋的热销需求，同时该公司也在采取措施，防止这些鞋款成为其自身成功的牺牲品。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/adidas-plots-swerve-samba-slump-2024-05-03/</guid>
@@ -41,32 +69,25 @@
       <pubDate>Fri, 03 May 2024 05:02:21 GMT</pubDate>
     </item>
     <item>
-      <title>早盘买盘：日元疯狂的一周令空头保持警惕</title>
+      <title>早盘买盘：日元疯狂的一周让空头保持警惕</title>
       <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-03/</link>
       <description><![CDATA[Ankur Banerjee 对欧洲和全球市场未来一天的展望：]]></description>
       <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 04:33:39 GMT</pubDate>
     </item>
     <item>
-      <title>法国兴业银行投资银行限制第一季度利润暴跌</title>
+      <title>由于投资银行意外，法国兴业银行第一季度利润跌幅低于预期</title>
       <link>https://www.reuters.com/business/finance/socgens-investment-bank-limits-q1-profit-plunge-2024-05-03/</link>
-      <description><![CDATA[法国兴业银行周五公布，第一季度净利润下滑 22%，好于预期，原因是股票衍生品销售利润抵消了零售银行和固定收益交易的更多疲软。]]></description>
+      <description><![CDATA[法国兴业银行第一季度净利润降幅低于预期，原因是股本衍生品销售利润抵消了其零售银行和固定收益交易的疲软。]]></description>
       <guid>https://www.reuters.com/business/finance/socgens-investment-bank-limits-q1-profit-plunge-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 04:29:56 GMT</pubDate>
     </item>
     <item>
-      <title>预计四月份美国就业稳健、工资增长</title>
+      <title>美国就业稳定，四月份工资预计增长</title>
       <link>https://www.reuters.com/markets/us/solid-us-job-wage-growth-expected-april-2024-05-03/</link>
-      <description><![CDATA[4月份美国就业增长可能放缓至仍然强劲的水平，工资保持稳定增长，这将减轻人们对第一季度经济活动大幅回落后经济陷入停滞的担忧。]]></description>
+      <description><![CDATA[4月份美国就业增长可能放缓至仍然稳健的水平，工资保持稳定增长，这将减轻人们对第一季度经济活动大幅回落后经济陷入停滞的担忧。]]></description>
       <guid>https://www.reuters.com/markets/us/solid-us-job-wage-growth-expected-april-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 04:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>SVB Financial 出售风险投资业务 SVB Capital</title>
-      <link>https://www.reuters.com/business/finance/svb-financial-sell-investment-platform-business-svb-capital-2024-05-03/</link>
-      <description><![CDATA[倒闭的美国银行 SVB 金融集团周四表示，Pinegrove Capital Partners 旗下的一家实体将收购其风险投资业务 SVB Capital。]]></description>
-      <guid>https://www.reuters.com/business/finance/svb-financial-sell-investment-platform-business-svb-capital-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 03:38:20 GMT</pubDate>
     </item>
     <item>
       <title>瑞银表示全球对冲基金追逐港股反弹</title>
@@ -76,9 +97,9 @@
       <pubDate>Fri, 03 May 2024 02:48:51 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市因科技股上涨而上涨；日元扩大涨势以限制疯狂的一周</title>
+      <title>亚洲股市飙升；日元扩大涨势以限制疯狂的一周</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-03/</link>
-      <description><![CDATA[苹果公司创纪录的 1100 亿美元股票回购计划提振了科技板块，周五亚洲股市上涨，而日元则远离近期 34 年来的低点，结束了东京疑似干预的动荡一周。]]></description>
+      <description><![CDATA[周五，在科技股和香港股市的带动下，亚洲股市飙升至 15 个月来的最高点，而日元则远离近期 34 年来的低点，结束了日本当局疑似干预的动荡一周。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 02:19:20 GMT</pubDate>
     </item>
@@ -88,13 +109,6 @@
       <description><![CDATA[周四，苹果公司的季度业绩和预测超出了温和的预期，这家 iPhone 制造商公布了创纪录的股票回购计划，导致其股价在盘中交易中上涨 6%。]]></description>
       <guid>https://www.reuters.com/technology/apple-unveils-record-110-billion-buyback-results-beat-low-expectations-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 23:14:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国国税局的目标是大幅提高大公司、合伙企业、百万富翁的审计率</title>
-      <link>https://www.reuters.com/markets/us/us-irs-targets-sharply-higher-audit-rates-big-firms-partnerships-millionaires-2024-05-02/</link>
-      <description><![CDATA[美国国税局周四表示，计划在未来三年内大幅提高大公司、合伙企业和千万富翁的审计率，同时增加执法支出和招聘以增加税收。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-irs-targets-sharply-higher-audit-rates-big-firms-partnerships-millionaires-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 23:14:04 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，空中客车公司要求赔偿精神航空公司亏损的业务</title>
@@ -116,13 +130,6 @@
       <description><![CDATA[安进周四表示，在完成对实验性减肥药物 MariTide 的中期研究的中期分析后，该公司感到非常鼓舞，并将不再开发其口腔肥胖候选药物 AMG786。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/amgen-first-quarter-profit-dips-1-revenue-rises-22-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 20:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：消息人士称，收购公司 Sycamore 竞相将 Nordstrom 私有化</title>
-      <link>https://www.reuters.com/markets/deals/buyout-firm-sycamore-vies-take-nordstrom-private-sources-say-2024-05-02/</link>
-      <description><![CDATA[据知情人士透露，Sycamore Partners 是表示有兴趣将美国百货公司 Nordstrom 私有化的收购股权公司之一。]]></description>
-      <guid>https://www.reuters.com/markets/deals/buyout-firm-sycamore-vies-take-nordstrom-private-sources-say-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 19:49:59 GMT</pubDate>
     </item>
     <item>
       <title>美国批准埃克森-先锋交易，指控页岩油创始人与欧佩克勾结</title>
