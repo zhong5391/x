@@ -3,24 +3,38 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 22:21:15 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Fri, 03 May 2024 22:38:31 GMT</lastBuildDate>
     <item>
-      <title>加拿大 4 月份服务业 PMI 升至 10 个月高位</title>
+      <title>中国Zeekr计划在美国IPO筹集至多3.68亿美元</title>
+      <link>https://www.reuters.com/markets/deals/chinas-zeekr-plans-raise-up-368-mln-us-ipo-2024-05-03/</link>
+      <description><![CDATA[中国电动汽车品牌Zeekr智能科技控股公司周五表示，其计划在美国首次公开募股中筹集3.675亿美元。]]></description>
+      <guid>https://www.reuters.com/markets/deals/chinas-zeekr-plans-raise-up-368-mln-us-ipo-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 21:21:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃克森美孚最多需要两年时间才能在收购先锋公司方面取得进展</title>
+      <link>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</link>
+      <description><![CDATA[埃克森美孚最高页岩油高管周五表示，该公司斥资 600 亿美元收购美国页岩油生产商先锋自然资源公司 (Pioneer Natural Resources) 后，需要 18 至 24 个月的时间才能实现预期的生产协同效应。]]></description>
+      <guid>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 20:29:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大4月服务业PMI升至10个月高点</title>
       <link>https://www.reuters.com/markets/canada-services-pmi-climbs-10-month-high-april-2024-05-03/</link>
       <description><![CDATA[标准普尔全球加拿大服务业 PMI 数据周五显示，由于企业实现了一些意外的销售并增加了工人，加拿大 4 月份服务业收缩速度放缓，但工资上涨导致通胀压力升温。]]></description>
       <guid>https://www.reuters.com/markets/canada-services-pmi-climbs-10-month-high-april-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:38:40 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街未来一周美国小盘股因利率上升而陷入困境</title>
+      <title>华尔街本周展望 美国小型股因利率上升而陷入困境</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</link>
       <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上阴影，这些企业今年的表现落后于大盘。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:35:37 GMT</pubDate>
     </item>
     <item>
-      <title>根据法庭和解协议，Aetna 将为 LGBTQ 人群提供生育治疗费用</title>
+      <title>Aetna 将根据法庭和解协议承担 LGBTQ 人群的生育治疗费用</title>
       <link>https://www.reuters.com/legal/aetna-will-cover-fertility-treatments-lgbtq-people-under-court-settlement-2024-05-03/</link>
       <description><![CDATA[根据周五提交给法院的文件，Aetna 将支付 200 万美元并更新其承保政策，以了结一项诉讼，该诉讼声称该健康保险公司要求 LGBTQ 受益人比异性恋者自掏腰包支付生育治疗费用。]]></description>
       <guid>https://www.reuters.com/legal/aetna-will-cover-fertility-treatments-lgbtq-people-under-court-settlement-2024-05-03/</guid>
@@ -36,7 +50,7 @@
     <item>
       <title>TikTok 受到政治干扰，科技平台积极争取广告交易</title>
       <link>https://www.reuters.com/technology/tech-platforms-make-pitch-ad-deals-tiktok-is-roiled-by-politics-2024-05-03/</link>
-      <description><![CDATA[短视频成为了科技和社交媒体公司向广告商进行的年度演示的焦点，因为 Snap 和 Meta 等平台希望利用 TikTok 在美国的政治不确定性来从竞争对手那里获取广告收入。]]></description>
+      <description><![CDATA[短视频成为科技和社交媒体公司每年向广告商展示的焦点，Snap 和 Meta 等平台希望利用 TikTok 在美国政治不确定性的机会，从竞争对手手中抢夺广告收入。]]></description>
       <guid>https://www.reuters.com/technology/tech-platforms-make-pitch-ad-deals-tiktok-is-roiled-by-politics-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 16:43:33 GMT</pubDate>
     </item>
@@ -55,38 +69,23 @@
       <pubDate>Fri, 03 May 2024 14:51:03 GMT</pubDate>
     </item>
     <item>
-      <title>电动汽车初创公司 Rivian 聘请沃尔沃资深员工 Varela 担任运营主管</title>
+      <title>电动汽车初创公司 Rivian 聘请沃尔沃资深人士 Varela 担任运营总监</title>
       <link>https://www.reuters.com/business/autos-transportation/ev-startup-rivian-hires-volvo-veteran-varela-operations-chief-2024-05-03/</link>
-      <description><![CDATA[Rivian Automotive 周五任命哈维尔·瓦雷拉 (Javier Varela) 为其首席运营官，这位电动汽车初创公司在应对需求放缓的同时仍在扩大其生产设施，并与沃尔沃资深人士一起加强了其队伍。]]></description>
+      <description><![CDATA[周五，Rivian Automotive 任​​命哈维尔·瓦雷拉 (Javier Varela) 为首席运营官，这位沃尔沃资深人士的加入增强了该公司的队伍，这家电动汽车初创公司在努力应对需求放缓的同时，仍在扩大生产设施。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ev-startup-rivian-hires-volvo-veteran-varela-operations-chief-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:20:57 GMT</pubDate>
     </item>
     <item>
-      <title>汽车制造商赢得了在电动汽车税收抵免中使用中国石墨的延期</title>
+      <title>汽车制造商获准延长使用中国石墨作为电动汽车税收抵免的期限</title>
       <link>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</link>
       <description><![CDATA[美国财政部周五为汽车制造商提供了对来自中国的一些重要微量矿物（例如石墨）的电动汽车税收抵免的电池矿物要求的额外灵活性。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>美国 SEC 指控审计员 BF Borgers 欺诈，其客户包括特朗普媒体</title>
-      <link>https://www.reuters.com/business/us-sec-charges-audit-firm-bf-borgers-with-fraud-affecting-more-than-1500-filings-2024-05-03/</link>
-      <description><![CDATA[审计员 BF Borgers 及其所有者本杰明·博格斯 (Benjamin Borgers)，其客户包括特朗普媒体
- 美国证券交易委员会 (SEC) 周五表示，该公司被指控犯有“大规模欺诈”罪，影响了 1,500 多份 SEC 备案文件。]]></description>
-      <guid>https://www.reuters.com/business/us-sec-charges-audit-firm-bf-borgers-with-fraud-affecting-more-than-1500-filings-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 13:56:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于劳动力市场降温，美国就业增幅为六个月以来最低</title>
-      <link>https://www.reuters.com/markets/us/us-job-growth-slows-april-unemployment-rate-rises-39-2024-05-03/</link>
-      <description><![CDATA[美国4月份就业增长放缓幅度超过预期，年工资增幅近三年来首次跌破4.0%，但随着劳动力市场的发展，现在预计美联储将在9月之前开始降息可能还为时尚早。市场依然相当紧张。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-job-growth-slows-april-unemployment-rate-rises-39-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 12:35:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>好时公司第一季度定价上涨超出预期</title>
+      <title>好时第一季度业绩超出预期，定价上涨</title>
       <link>https://www.reuters.com/business/retail-consumer/hershey-tops-first-quarter-estimates-higher-pricing-2024-05-03/</link>
-      <description><![CDATA[好时公司周五第一季度的销售额和利润超出了华尔街的预期，受益于价格上涨以及消费者对其巧克力和糖果的稳定需求。]]></description>
+      <description><![CDATA[周五，好时公司第一季度的销售额和利润超过了华尔街的预期，受益于价格上涨和消费者对其巧克力和糖果的稳定需求。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/hershey-tops-first-quarter-estimates-higher-pricing-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:22:21 GMT</pubDate>
     </item>
@@ -98,16 +97,16 @@
       <pubDate>Fri, 03 May 2024 11:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>疲软的就业数据为美联储放松政策提供了理由，华尔街上涨</title>
+      <title>华尔街收盘大幅走高，就业数据强化降息理由</title>
       <link>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</link>
-      <description><![CDATA[华尔街周五上涨，因为就业报告弱于预期，这似乎支持了美联储放松政策的理由，同时也提供了美国经济弹性的证据。]]></description>
+      <description><![CDATA[由于就业报告弱于预期，增强了美联储降息的理由，同时也提供了美国经济韧性的证据，华尔街股市周五收盘上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:09:35 GMT</pubDate>
     </item>
     <item>
-      <title>液化天然气生产商 Cheniere 的出口量推动核心利润超出预期</title>
+      <title>液化天然气生产商切尼尔的出口量推动核心利润增长</title>
       <link>https://www.reuters.com/business/energy/cheniere-energy-reports-lower-lng-revenue-2024-05-03/</link>
-      <description><![CDATA[美国最大液化天然气生产商切尼尔能源公司周五公布的调整后核心利润超过预期，因为高于预期的出口量抵消了天然气价格的下跌。]]></description>
+      <description><![CDATA[美国最大的液化天然气生产商切尼尔能源公司周五超出了调整后的核心利润预期，原因是高于预期的出口量抵消了天然气价格下跌的影响。]]></description>
       <guid>https://www.reuters.com/business/energy/cheniere-energy-reports-lower-lng-revenue-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:09:24 GMT</pubDate>
     </item>
@@ -119,7 +118,7 @@
       <pubDate>Fri, 03 May 2024 10:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>美国终止对特斯拉 2021 年召回事件后后视摄像头的调查</title>
+      <title>2021 年召回后，美国结束特斯拉后视摄像头调查</title>
       <link>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</link>
       <description><![CDATA[美国国家公路交通安全管理局周五表示，已结束对近 16 万辆特斯拉 Model X 和 Model S 车辆后视摄像头图像丢失的长期调查。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</guid>
@@ -135,7 +134,7 @@
     <item>
       <title>索尼、阿波罗正在等待派拉蒙 260 亿美元报价的回应</title>
       <link>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</link>
-      <description><![CDATA[据一位知情人士透露，索尼影视娱乐公司和私募股权公司阿波罗全球管理公司周三向派拉蒙全球公司提出了 260 亿美元的收购要约，但截至周五尚未收到回应。]]></description>
+      <description><![CDATA[据知情人士透露，索尼影视娱乐公司和私募股权公司阿波罗全球管理公司周三向派拉蒙全球提出了 260 亿美元的收购报价，但截至周五尚未收到回应。]]></description>
       <guid>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:00:49 GMT</pubDate>
     </item>
