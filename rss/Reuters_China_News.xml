@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 03 May 2024 17:42:35 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 03 May 2024 17:58:31 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯称美国二次制裁旨在“遏制”中国</title>
+      <link>https://www.reuters.com/world/russia-says-us-secondary-sanctions-aim-contain-china-2024-05-03/</link>
+      <description><![CDATA[俄罗斯外交部发言人玛丽亚·扎哈罗娃(Maria Zakharova)周五表示，美国正在利用对被视为与俄罗斯接触的中国企业实施二次制裁的威胁作为试图遏制北京的“借口”。]]></description>
+      <guid>https://www.reuters.com/world/russia-says-us-secondary-sanctions-aim-contain-china-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 15:32:06 GMT</pubDate>
+    </item>
     <item>
       <title>汽车制造商赢得了在电动汽车税收抵免中使用中国石墨的延期</title>
       <link>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</link>
@@ -13,9 +20,9 @@
       <pubDate>Fri, 03 May 2024 14:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>激励措施受到抑制后，中国在法国电动汽车市场的份额下滑</title>
+      <title>习近平访问之前，中国在法国电动汽车市场的份额下滑</title>
       <link>https://www.reuters.com/business/autos-transportation/chinese-share-french-ev-market-slumps-after-incentives-curbed-2024-05-03/</link>
-      <description><![CDATA[路透社分析的行业数据显示，自从政府规定三种最受欢迎​​的中国制造电动汽车没有资格获得现金购买激励措施以来，它们在法国的销量已经大幅下滑。]]></description>
+      <description><![CDATA[行业数据显示，法国政府减缓中国制造电动汽车涌入的努力正在取得成果，这突显了中国国家主席下周访问时最敏感的贸易问题之一。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinese-share-french-ev-market-slumps-after-incentives-curbed-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 12:24:31 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 03 May 2024 11:04:49 GMT</pubDate>
     </item>
     <item>
-      <title>苹果股价上涨，创纪录的回购和销售增长预测吸引了投资者</title>
+      <title>创纪录的回购和销售增长预测吸引投资者，苹果股价上涨</title>
       <link>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</link>
       <description><![CDATA[苹果股价周五上涨近 7%，这家 iPhone 制造商创纪录的股票回购计划和销售增长的承诺吸引了因担心中国需求疲软和竞争加剧而回避该股的投资者。]]></description>
       <guid>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</guid>
@@ -36,12 +43,12 @@
     <item>
       <title>尽管价格下跌，但亚洲黄金消费大国印度和中国的黄金需求仍低迷</title>
       <link>https://www.reuters.com/markets/commodities/asia-gold-demand-subdued-top-consumers-india-china-despite-price-drop-2024-05-03/</link>
-      <description><![CDATA[由于买家等待黄金价格进一步下跌，尽管价格略有回调，但本周印度实物黄金需求依然低迷；而由于假日需求低迷，中国黄金溢价连续第二周下滑。]]></description>
+      <description><![CDATA[印度的实物黄金需求本周仍然低迷，尽管价格略有调整，因为买家等待更大的跌幅，而中国的溢价由于假期需求低迷而连续第二周下滑。]]></description>
       <guid>https://www.reuters.com/markets/commodities/asia-gold-demand-subdued-top-consumers-india-china-despite-price-drop-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:23:25 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：乔布斯测试美联储的救济措施、苹果回购的冲击</title>
+      <title>早间竞价：乔布斯测试美联储的救济措施，苹果回购的冲击</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</guid>
@@ -69,14 +76,14 @@
       <pubDate>Fri, 03 May 2024 02:48:51 GMT</pubDate>
     </item>
     <item>
-      <title>市场预期美国劳动力紧张局面缓解，股市上涨，收益率下跌</title>
+      <title>股市上涨，收益率下跌，因希望美国劳动力紧张状况缓解</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-03/</link>
       <description><![CDATA[周五，华尔街跟随全球股市走高，此前有消息称上个月美国非农就业人数增幅低于预期，缓解了投资者对紧张的劳动力市场和顽固的通胀不会让美联储很快降息的担忧。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 02:19:20 GMT</pubDate>
     </item>
     <item>
-      <title>导弹防御在海湾和乌克兰的成功加剧了全球采购系统的紧迫性</title>
+      <title>海湾和乌克兰导弹防御系统的成功促使全球迫切需要采购导弹防御系统</title>
       <link>https://www.reuters.com/world/missile-defence-successes-gulf-ukraine-fuel-global-urgency-acquire-systems-2024-05-03/</link>
       <description><![CDATA[专家表示，弹道导弹防御系统在以色列、红海和乌克兰首次面临复杂、高风险的战斗场景时取得成功，将鼓励全球军队投资昂贵的系统，并加剧导弹军备竞赛。]]></description>
       <guid>https://www.reuters.com/world/missile-defence-successes-gulf-ukraine-fuel-global-urgency-acquire-systems-2024-05-03/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>台湾称中国飞机越过中线，中国进行着陆演习</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-says-14-chinese-military-planes-crossed-straits-median-line-2024-05-03/</link>
-      <description><![CDATA[台湾国防部周五表示，它发现中国军机再次侵入敏感的台湾海峡，中国报道称其海军已使用登陆艇进行了战斗演习。]]></description>
+      <description><![CDATA[台湾国防部周五表示，发现中国军机再次侵入敏感的台湾海峡，中国报道称其海军已使用登陆艇进行了战斗演习。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-14-chinese-military-planes-crossed-straits-median-line-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 01:07:36 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Thu, 02 May 2024 18:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯称有关其与朝鲜存在军事关系的说法不准确</title>
+      <title>俄罗斯称有关其与朝鲜军事关系的说法不准确</title>
       <link>https://www.reuters.com/world/russia-calls-claim-about-its-alleged-military-ties-with-north-korea-inaccurate-2024-05-02/</link>
       <description><![CDATA[俄罗斯周四表示，西方关于其与朝鲜进行军事合作的说法是不准确的，并表示其与平壤的关系既不针对第三国，也不威胁该地区的安全。]]></description>
       <guid>https://www.reuters.com/world/russia-calls-claim-about-its-alleged-military-ties-with-north-korea-inaccurate-2024-05-02/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[中国国家主席习近平下周将五年来首次访问欧洲，这次访问可能会暴露欧洲在与北京的贸易问题上的分歧，以及欧洲大陆如何将自己定位为美国和中国之间的一极。]]></description>
       <guid>https://www.reuters.com/world/europe/xis-trip-europe-may-lay-bare-wests-divisions-over-china-strategy-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 13:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>五一假期中国旅游激增，但消费者仍保持警惕</title>
-      <link>https://www.reuters.com/world/china/china-travel-surges-may-holiday-consumers-remain-wary-2024-05-02/</link>
-      <description><![CDATA[周三，即重大公众假期的第一天，中国各地的铁路和汽车出行激增，因为消费者仍然专注于在充满挑战的经济中降低开支。]]></description>
-      <guid>https://www.reuters.com/world/china/china-travel-surges-may-holiday-consumers-remain-wary-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 12:35:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
