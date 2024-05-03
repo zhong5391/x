@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 02:51:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 03:38:44 GMT</lastBuildDate>
     <item>
       <title>油价稳定，因美国经济担忧而每周下跌</title>
       <link>https://www.reuters.com/business/energy/oil-steadies-heads-weekly-drop-us-economy-worries-2024-05-03/</link>
@@ -13,7 +13,7 @@
       <pubDate>Fri, 03 May 2024 00:52:07 GMT</pubDate>
     </item>
     <item>
-      <title>日元有望创一年多以来最佳单周表现；美元等待美国就业数据</title>
+      <title>日元有望创一年多以来最佳周度表现；美元等待美国就业数据</title>
       <link>https://www.reuters.com/markets/currencies/yen-poised-best-week-over-year-dollar-waits-us-jobs-data-2024-05-03/</link>
       <description><![CDATA[周五，日元将迎来一年多来表现最好的一周，这得益于东京本周疑似进行干预，将日元拉离34年来的低点，这也让美元普遍处于不利地位。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-poised-best-week-over-year-dollar-waits-us-jobs-data-2024-05-03/</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>路透调查显示澳洲联储5月维持利率不变，年底仅降息一次</title>
       <link>https://www.reuters.com/markets/rates-bonds/rba-hold-rates-may-only-cut-once-by-end-year-2024-05-03/</link>
-      <description><![CDATA[根据路透社对经济学家的调查，澳大利亚央行将在周二举行的第四次会议上将其关键政策利率维持在 4.35% 不变，并且至少持续到 9 月底，而经济学家预计今年该行只会降息一次。]]></description>
+      <description><![CDATA[路透社对经济学家的调查显示，澳大利亚央行将在周二连续第四次召开会议，将关键政策利率维持在 4.35%，至少持续到 9 月底，经济学家预计今年只会降息一次。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/rba-hold-rates-may-only-cut-once-by-end-year-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 00:16:30 GMT</pubDate>
     </item>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 02 May 2024 23:14:25 GMT</pubDate>
     </item>
     <item>
-      <title>美国国税局计划大幅提高对大公司、合伙企业和百万富翁的审计税率</title>
+      <title>美国国税局的目标是大幅提高大公司、合伙企业、百万富翁的审计率</title>
       <link>https://www.reuters.com/markets/us/us-irs-targets-sharply-higher-audit-rates-big-firms-partnerships-millionaires-2024-05-02/</link>
       <description><![CDATA[美国国税局周四表示，计划在未来三年内大幅提高大公司、合伙企业和千万富翁的审计率，同时增加执法支出和招聘以增加税收。]]></description>
       <guid>https://www.reuters.com/markets/us/us-irs-targets-sharply-higher-audit-rates-big-firms-partnerships-millionaires-2024-05-02/</guid>
@@ -85,12 +85,12 @@
     <item>
       <title>美国司法部要求美国钢铁公司和新日铁公司就拟议合并提供更多细节</title>
       <link>https://www.reuters.com/markets/commodities/doj-seeks-more-details-us-steel-nippon-steel-proposed-merger-2024-05-02/</link>
-      <description><![CDATA[美国司法部周四表示，作为对新日铁拟以 150 亿美元收购美国钢铁公司的反垄断审查的一部分，美国司法部正在寻求更多细节和文件材料。]]></description>
+      <description><![CDATA[美国公司周四表示，美国司法部正在寻求更多细节和文件材料，作为对新日铁拟以 150 亿美元收购美国钢铁公司的反垄断审查的一部分。]]></description>
       <guid>https://www.reuters.com/markets/commodities/doj-seeks-more-details-us-steel-nippon-steel-proposed-merger-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 21:30:14 GMT</pubDate>
     </item>
     <item>
-      <title>苹果公布创纪录的 1100 亿美元回购计划，业绩超出低预期</title>
+      <title>苹果公布创纪录的 1100 亿美元股票回购计划，因业绩超出低预期</title>
       <link>https://www.reuters.com/technology/apple-sales-fall-less-than-expected-ceo-sees-return-growth-2024-05-02/</link>
       <description><![CDATA[周四，苹果公司的季度业绩和预测超出了温和的预期，这家 iPhone 制造商公布了创纪录的股票回购计划，导致其股价在盘中交易中上涨近 7%。]]></description>
       <guid>https://www.reuters.com/technology/apple-sales-fall-less-than-expected-ceo-sees-return-growth-2024-05-02/</guid>
@@ -118,7 +118,7 @@
       <pubDate>Thu, 02 May 2024 19:49:59 GMT</pubDate>
     </item>
     <item>
-      <title>美国疲软的生产率可能威胁美联储“软着陆”的希望</title>
+      <title>美国生产率疲软可能威胁美联储“软着陆”的希望</title>
       <link>https://www.reuters.com/markets/us/weak-us-productivity-could-threaten-feds-soft-landing-hopes-2024-05-02/</link>
       <description><![CDATA[美国第一季度生产率增长疲弱可能会对美联储在不造成失业率痛苦上升的情况下完成通胀斗争的努力构成挑战，如果经济进一步放缓，可能会阻碍物价上涨的进程。]]></description>
       <guid>https://www.reuters.com/markets/us/weak-us-productivity-could-threaten-feds-soft-landing-hopes-2024-05-02/</guid>
@@ -127,21 +127,21 @@
     <item>
       <title>独家：消息人士称 TOMS Capital Investment Management 已入股 Kellanova</title>
       <link>https://www.reuters.com/business/retail-consumer/toms-capital-investment-management-has-taken-stake-kellanova-sources-say-2024-05-02/</link>
-      <description><![CDATA[两位知情人士周四表示，投资公司 TOMS Capital Investment Management 已在美国跨国食品制造公司 Kellanova 中占据“重要”地位，并正在与该公司进行接触。]]></description>
+      <description><![CDATA[两位知情人士周四表示，投资公司 TOMS Capital Investment Management 已在美国跨国食品制造公司 Kellanova 中占据“重要”股份，并正在与该公司接洽。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/toms-capital-investment-management-has-taken-stake-kellanova-sources-say-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 14:14:52 GMT</pubDate>
     </item>
     <item>
-      <title>美国批准埃克森-先锋交易，指控页岩油创始人与欧佩克勾结</title>
+      <title>美国批准埃克森-先锋交易，指控页岩创始人与欧佩克勾结</title>
       <link>https://www.reuters.com/markets/deals/us-ftc-order-bans-exxon-mobil-pioneer-natural-resources-deal-2024-05-02/</link>
-      <description><![CDATA[美国监管机构周四批准埃克森美孚斥资 600 亿美元收购先锋自然资源公司，但禁止先锋公司前首席执行官进入埃克森美孚董事会，原因是他被指控试图与石油输出国组织 (OPEC) 勾结提高油价。]]></description>
+      <description><![CDATA[美国监管机构周四批准了埃克森美孚以 600 亿美元收购先锋自然资源公司的交易，但禁止先锋公司前首席执行官加入埃克森美孚董事会，因为他被指控试图与欧佩克勾结提高油价。]]></description>
       <guid>https://www.reuters.com/markets/deals/us-ftc-order-bans-exxon-mobil-pioneer-natural-resources-deal-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 12:48:00 GMT</pubDate>
     </item>
     <item>
       <title>由于美联储发出鸽派偏见信号，华尔街收高；就业报告眼睛</title>
       <link>https://www.reuters.com/markets/us/futures-climb-fed-allays-rate-hike-worries-2024-05-02/</link>
-      <description><![CDATA[美国股市周四上涨，因投资者权衡美联储周三比预期更为鸽派的利率指引，以及大量喜忧参半的盈利和经济数据。]]></description>
+      <description><![CDATA[由于投资者权衡美联储周三发布的比预期更为鸽派的利率指引与大量好坏参半的盈利和经济数据，美国股市周四上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-climb-fed-allays-rate-hike-worries-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 10:24:15 GMT</pubDate>
     </item>
