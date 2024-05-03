@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FARSS</title>
+    <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 12:44:15 GMT</lastBuildDate>
-    <item>
-      <title>不要炒作虚假信息威胁</title>
-      <link>https://www.foreignaffairs.com/russian-federation/dont-hype-disinformation-threat</link>
-      <description><![CDATA[低估风险对外国宣传人员有帮助，但夸大风险也有帮助。]]></description>
-      <guid>https://www.foreignaffairs.com/russian-federation/dont-hype-disinformation-threat</guid>
-      <pubDate>Fri, 03 May 2024 04:00:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 03 May 2024 13:24:13 GMT</lastBuildDate>
     <item>
       <title>中国核扩张的真正动机</title>
       <link>https://www.foreignaffairs.com/china/real-motives-chinas-nuclear-expansion</link>
@@ -24,6 +17,13 @@
       <link>https://www.foreignaffairs.com/china/zhongguokuodaheliliangdezhenshiguanqie</link>
       <description><![CDATA[北京寻求地缘政治影响力而非军事优势。]]></description>
       <guid>https://www.foreignaffairs.com/china/zhongguokuodaheliliangdezhenshiguanqie</guid>
+      <pubDate>Fri, 03 May 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要夸大虚假信息威胁</title>
+      <link>https://www.foreignaffairs.com/russian-federation/dont-hype-disinformation-threat</link>
+      <description><![CDATA[低估风险对外国宣传人员有帮助，但夸大风险也有帮助。]]></description>
+      <guid>https://www.foreignaffairs.com/russian-federation/dont-hype-disinformation-threat</guid>
       <pubDate>Fri, 03 May 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
@@ -57,7 +57,7 @@
     <item>
       <title>不要押注英国的复兴</title>
       <link>https://www.foreignaffairs.com/united-kingdom/dont-bet-british-revival</link>
-      <description><![CDATA[工党如何可能赢得选举，但仍然失去经济。]]></description>
+      <description><![CDATA[工党为何可能赢得选举——但仍会失去经济。]]></description>
       <guid>https://www.foreignaffairs.com/united-kingdom/dont-bet-british-revival</guid>
       <pubDate>Tue, 30 Apr 2024 04:00:00 GMT</pubDate>
     </item>
