@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 19:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 19:28:33 GMT</lastBuildDate>
     <item>
       <title>TikTok 受到政治干扰，科技平台积极争取广告交易</title>
       <link>https://www.reuters.com/technology/tech-platforms-make-pitch-ad-deals-tiktok-is-roiled-by-politics-2024-05-03/</link>
@@ -20,14 +20,14 @@
       <pubDate>Fri, 03 May 2024 15:00:33 GMT</pubDate>
     </item>
     <item>
-      <title>美国就业数据疲弱缓解美联储对经济再度过热的担忧</title>
+      <title>美国就业数据走弱缓解美联储对经济再度过热的担忧</title>
       <link>https://www.reuters.com/markets/us/weaker-us-jobs-data-brings-some-relief-fed-2024-05-03/</link>
-      <description><![CDATA[因担心经济可能再次过热而受到打击的美联储官员周五松了口气，因为 4 月份就业数据显示工资增长明显降温，招聘步伐与 COVID-19 大流行之前的水平一致。]]></description>
+      <description><![CDATA[周五，因担心经济可能再次过热而受到打击的美联储官员松了口气，因为 4 月份就业数据显示工资增长明显降温，招聘步伐与 COVID-19 大流行之前的水平一致。]]></description>
       <guid>https://www.reuters.com/markets/us/weaker-us-jobs-data-brings-some-relief-fed-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:51:03 GMT</pubDate>
     </item>
     <item>
-      <title>电动汽车初创公司 Rivian 聘请沃尔沃资深人士 Varela 担任运营总监</title>
+      <title>电动汽车初创公司 Rivian 聘请沃尔沃资深员工 Varela 担任运营主管</title>
       <link>https://www.reuters.com/business/autos-transportation/ev-startup-rivian-hires-volvo-veteran-varela-operations-chief-2024-05-03/</link>
       <description><![CDATA[Rivian Automotive 周五任命哈维尔·瓦雷拉 (Javier Varela) 为其首席运营官，这位电动汽车初创公司在应对需求放缓的同时仍在扩大其生产设施，并与沃尔沃资深人士一起加强了其队伍。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ev-startup-rivian-hires-volvo-veteran-varela-operations-chief-2024-05-03/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>美国4月份服务业合同；价格压力再次加剧</title>
       <link>https://www.reuters.com/markets/us/us-service-sector-contracts-april-price-pressures-reaccelerate-2024-05-03/</link>
-      <description><![CDATA[美国服务业3月份出现萎缩，而企业为投入支付的价格指标则大幅上涨，这是通胀前景令人担忧的迹象。]]></description>
+      <description><![CDATA[美国服务业3月份出现萎缩，而衡量企业投入价格的指标却出现上涨，这对通胀前景来说是一个令人担忧的信号。]]></description>
       <guid>https://www.reuters.com/markets/us/us-service-sector-contracts-april-price-pressures-reaccelerate-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:08:44 GMT</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>美国 SEC 指控审计员 BF Borgers 欺诈，其客户包括特朗普媒体</title>
       <link>https://www.reuters.com/business/us-sec-charges-audit-firm-bf-borgers-with-fraud-affecting-more-than-1500-filings-2024-05-03/</link>
       <description><![CDATA[审计员 BF Borgers 及其所有者本杰明·博格斯 (Benjamin Borgers)，其客户包括特朗普媒体
- 美国证券交易委员会 (SEC) 周五表示，该公司被指控犯有“大规模欺诈”罪，影响了 1,500 多份 SEC 备案文件。]]></description>
+ 美国证券交易委员会 (SEC) 周五表示，该公司被指控犯有“大规模欺诈”罪，影响了超过 1,500 份 SEC 备案文件。]]></description>
       <guid>https://www.reuters.com/business/us-sec-charges-audit-firm-bf-borgers-with-fraud-affecting-more-than-1500-filings-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 13:56:43 GMT</pubDate>
     </item>
@@ -72,7 +72,7 @@
     <item>
       <title>由于劳动力市场降温，美国就业增幅为六个月以来最低</title>
       <link>https://www.reuters.com/markets/us/us-job-growth-slows-april-unemployment-rate-rises-39-2024-05-03/</link>
-      <description><![CDATA[美国4月份就业增速放缓幅度超预期，年工资增幅近三年来首次跌破4.0%，但随着劳动力市场的发展，现在预计美联储将在9月份之前开始降息可能还为时尚早。市场依然相当紧张。]]></description>
+      <description><![CDATA[美国4月份就业增长放缓幅度超过预期，年工资增幅近三年来首次跌破4.0%，但随着劳动力市场的发展，现在预计美联储将在9月之前开始降息可能还为时过早。市场依然相当紧张。]]></description>
       <guid>https://www.reuters.com/markets/us/us-job-growth-slows-april-unemployment-rate-rises-39-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 12:35:13 GMT</pubDate>
     </item>
@@ -86,7 +86,7 @@
     <item>
       <title>苹果股价上涨，创纪录的回购和销售增长预测吸引了投资者</title>
       <link>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</link>
-      <description><![CDATA[苹果股价周五上涨近 7%，这家 iPhone 制造商创纪录的股票回购计划和销售增长的承诺吸引了因担心中国需求疲软和竞争加剧而回避该股的投资者。]]></description>
+      <description><![CDATA[由于这家 iPhone 制造商创纪录的股票回购计划和销售增长承诺，苹果股价周五上涨近 7％，而之前由于担心需求疲软和中国市场竞争加剧而抛售该股票的投资者又重新回归。]]></description>
       <guid>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:00:45 GMT</pubDate>
     </item>
@@ -107,12 +107,12 @@
     <item>
       <title>伯克希尔准备传递接力棒，巴菲特重新登台</title>
       <link>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</link>
-      <description><![CDATA[周六，沃伦·巴菲特在奥马哈伯克希尔·哈撒韦公司年度股东大会上占据中心位置，投资者正在评估他的预期继任者，并更好地了解该集团计划如何增长和部署现金。]]></description>
+      <description><![CDATA[周六，沃伦·巴菲特在奥马哈伯克希尔·哈撒韦公司年度股东大会上占据中心舞台，投资者正在评估他的预期继任者，并更好地了解该集团计划如何增长和部署现金。]]></description>
       <guid>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>美国终止对特斯拉 2021 年召回事件后后视摄像头的调查</title>
+      <title>2021 年召回后，美国结束特斯拉后视摄像头调查</title>
       <link>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</link>
       <description><![CDATA[美国国家公路交通安全管理局周五表示，已结束对近 16 万辆特斯拉 Model X 和 Model S 车辆后视摄像头图像丢失的长期调查。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</guid>
@@ -121,14 +121,14 @@
     <item>
       <title>苹果在人工智能方面有着远大的抱负——而且成本比竞争对手更低</title>
       <link>https://www.reuters.com/technology/apple-aims-tell-an-ai-story-without-ai-bills-2024-05-03/</link>
-      <description><![CDATA[在过去一年半的大部分时间里，苹果首席执行官蒂姆库克都在回答华尔街分析师关于他的人工智能计划的问题，因为有人抱怨这家 iPhone 制造商没有人工智能故事可讲。]]></description>
+      <description><![CDATA[在过去一年半的大部分时间里，苹果首席执行官蒂姆·库克一直在回答华尔街分析师关于他的人工智能计划的问题，同时抱怨这家 iPhone 制造商没有人工智能故事可讲。]]></description>
       <guid>https://www.reuters.com/technology/apple-aims-tell-an-ai-story-without-ai-bills-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:02:00 GMT</pubDate>
     </item>
     <item>
       <title>派拉蒙不会延长与 Skydance 的独家交易期限</title>
       <link>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</link>
-      <description><![CDATA[据一位知情人士透露，索尼影视娱乐公司和私募股权公司阿波罗全球管理公司周三向派拉蒙全球公司提出了 260 亿美元的收购要约，但截至周五尚未收到回应。]]></description>
+      <description><![CDATA[据知情人士透露，索尼影视娱乐公司和私募股权公司阿波罗全球管理公司周三向派拉蒙全球提出了 260 亿美元的收购报价，但截至周五尚未收到回应。]]></description>
       <guid>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:00:49 GMT</pubDate>
     </item>
