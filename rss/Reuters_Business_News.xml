@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 15:38:58 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Fri, 03 May 2024 15:51:42 GMT</lastBuildDate>
     <item>
       <title>美国股票基金连续第五周出现资金流出</title>
       <link>https://www.reuters.com/markets/us/us-equity-funds-witness-outflows-fifth-week-row-2024-05-03/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>全球股票基金每周吸引强劲资金流入，以亚洲为首</title>
       <link>https://www.reuters.com/markets/global-markets-flows-graphic-2024-05-03/</link>
-      <description><![CDATA[截至 5 月 1 日的七天内，全球股票基金重新引起了投资者的兴趣，原因是人们对该地区（特别是中国）经济复苏的乐观情绪导致流入亚洲的资金激增。]]></description>
+      <description><![CDATA[截至 5 月 1 日的 7 天内，全球股票基金再次受到投资者的关注，原因是人们对亚洲（尤其是中国）经济复苏持乐观态度，资金流入亚洲。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-flows-graphic-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 13:04:43 GMT</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 03 May 2024 13:03:35 GMT</pubDate>
     </item>
     <item>
-      <title>美国联邦贸易委员会寻求有关诺和诺德母公司康泰伦特交易的更多信息</title>
+      <title>美国联邦贸易委员会寻求有关诺和诺德母公司与 Catalent 交易的更多信息</title>
       <link>https://www.reuters.com/markets/deals/us-ftc-seeks-more-information-novo-nordisk-parent-catalent-deal-2024-05-03/</link>
       <description><![CDATA[美国联邦贸易委员会正在寻求有关诺和诺德母公司以 165 亿美元收购制造分包商 Catalent 的交易的更多信息。]]></description>
       <guid>https://www.reuters.com/markets/deals/us-ftc-seeks-more-information-novo-nordisk-parent-catalent-deal-2024-05-03/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>特斯拉 vs 特斯拉：美国汽车制造商起诉印度同名公司复制商标</title>
       <link>https://www.reuters.com/world/india/tesla-vs-tesla-us-carmaker-sues-indian-namesake-copying-trademark-2024-05-03/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的汽车制造商特斯拉 (Tesla) 起诉一家印度电池制造商，指控其使用“Tesla Power”品牌名称推广其产品，侵犯其商标权，寻求赔偿并要求新德里法官对该公司发出永久禁令。]]></description>
+      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的汽车制造商特斯拉 (Tesla) 起诉一家印度电池制造商，指控其使用“Tesla Power”品牌名称推销其产品，侵犯其商标权，寻求赔偿并要求新德里法官对该公司发出永久禁令。]]></description>
       <guid>https://www.reuters.com/world/india/tesla-vs-tesla-us-carmaker-sues-indian-namesake-copying-trademark-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:42:16 GMT</pubDate>
     </item>
@@ -76,16 +76,16 @@
       <pubDate>Fri, 03 May 2024 11:22:21 GMT</pubDate>
     </item>
     <item>
-      <title>苹果股价上涨，创纪录的回购和销售增长预测吸引了投资者</title>
+      <title>创纪录的回购和销售增长预测吸引投资者，苹果股价上涨</title>
       <link>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</link>
       <description><![CDATA[苹果股价周五收盘前上涨近 6%，这家 iPhone 制造商创纪录的股票回购计划和销售增长的承诺吸引了因担心中国需求疲软和竞争加剧而回避该股的投资者。]]></description>
       <guid>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>就业数据疲弱，华尔街将大幅高开</title>
+      <title>就业数据疲软，华尔街将大幅高开</title>
       <link>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</link>
-      <description><![CDATA[华尔街主要股指周五开盘走高，此前疲软的就业报告重燃了美联储今年降息的希望，而苹果和安进公司因乐观的企业更新而上涨也增加了支撑。]]></description>
+      <description><![CDATA[华尔街主要股指周五开盘走高，此前疲于预期的就业报告重燃了美联储今年降息的希望，而苹果和安进公司因乐观的企业更新而上涨也增加了支撑。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:09:35 GMT</pubDate>
     </item>
@@ -97,14 +97,14 @@
       <pubDate>Fri, 03 May 2024 10:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：乔布斯测试美联储的救济措施、苹果回购的冲击</title>
+      <title>早间竞价：乔布斯测试美联储的救济措施，苹果回购的冲击</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:02:51 GMT</pubDate>
     </item>
     <item>
-      <title>美国终止对特斯拉 2021 年召回事件后后视摄像头的调查</title>
+      <title>2021 年召回后，美国结束特斯拉后视摄像头调查</title>
       <link>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</link>
       <description><![CDATA[美国国家公路交通安全管理局周五表示，已结束对近 16 万辆特斯拉 Model X 和 Model S 车辆后视摄像头图像丢失的长期调查。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</guid>
@@ -113,12 +113,12 @@
     <item>
       <title>苹果的目标是在没有人工智能账单的情况下讲述人工智能故事</title>
       <link>https://www.reuters.com/technology/apple-aims-tell-an-ai-story-without-ai-bills-2024-05-03/</link>
-      <description><![CDATA[在过去一年半的大部分时间里，苹果首席执行官蒂姆·库克一直在回答华尔街分析师关于他的人工智能计划的问题，同时抱怨这家 iPhone 制造商没有人工智能故事可讲。]]></description>
+      <description><![CDATA[在过去一年半的大部分时间里，苹果首席执行官蒂姆库克都在回答华尔街分析师关于他的人工智能计划的问题，因为有人抱怨这家 iPhone 制造商没有人工智能故事可讲。]]></description>
       <guid>https://www.reuters.com/technology/apple-aims-tell-an-ai-story-without-ai-bills-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>据《华尔街日报》报道，索尼和阿波罗向派拉蒙提出 260 亿美元收购要约</title>
+      <title>据《华尔街日报》报道，索尼和阿波罗提出 260 亿美元收购派拉蒙</title>
       <link>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</link>
       <description><![CDATA[据《华尔街日报》报道，索尼影视娱乐公司 (SPE) 和私募股权公司阿波罗全球管理公司已向电影集团派拉蒙全球提出 260 亿美元现金收购要约。]]></description>
       <guid>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</guid>
@@ -132,9 +132,9 @@
       <pubDate>Fri, 03 May 2024 06:10:13 GMT</pubDate>
     </item>
     <item>
-      <title>阿迪达斯计划扭转桑巴舞颓势</title>
+      <title>阿迪达斯试图扭转桑巴的颓势</title>
       <link>https://www.reuters.com/business/retail-consumer/adidas-plots-swerve-samba-slump-2024-05-03/</link>
-      <description><![CDATA[阿迪达斯的目标是满足人们对三条纹黑白桑巴舞鞋和多色瞪羚运动鞋的热销需求，同时该公司也在采取措施，防止这些鞋款成为其自身成功的牺牲品。]]></description>
+      <description><![CDATA[阿迪达斯在致力于扩大其三条纹白黑 Samba 运动鞋和彩色 Gazelle 运动鞋的火爆需求的同时，也采取措施防止这些运动鞋成为其自身成功的牺牲品。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/adidas-plots-swerve-samba-slump-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 05:03:27 GMT</pubDate>
     </item>
