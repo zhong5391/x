@@ -1,14 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 | 今日国际头条 | 路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 16:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 16:40:25 GMT</lastBuildDate>
+    <item>
+      <title>制药商 Amneal 同意与美国阿片类药物达成 2.7 亿美元和解</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/drugmaker-amneal-agrees-270-million-us-opioid-settlement-2024-05-03/</link>
+      <description><![CDATA[Amneal Pharmaceuticals 周五表示，该公司已达成一项价值超过 2.7 亿美元的交易，以解决有关其助长美国致命阿片类药物流行病的指控，成为最新一家就各州和地方政府提起的成瘾危机诉讼达成和解的制药公司。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/drugmaker-amneal-agrees-270-million-us-opioid-settlement-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 15:00:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国就业数据疲软给美联储带来一些安慰</title>
+      <link>https://www.reuters.com/markets/us/weaker-us-jobs-data-brings-some-relief-fed-2024-05-03/</link>
+      <description><![CDATA[美联储官员近几个月来因担心经济可能再次过热而受到打击，但周五4月份就业数据显示工资增长明显降温且招聘步伐与COVID-19大流行之前的水平一致，这让他们松了口气。]]></description>
+      <guid>https://www.reuters.com/markets/us/weaker-us-jobs-data-brings-some-relief-fed-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 14:51:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>电动汽车初创公司 Rivian 聘请沃尔沃资深人士 Varela 担任运营总监</title>
+      <link>https://www.reuters.com/business/autos-transportation/ev-startup-rivian-hires-volvo-veteran-varela-operations-chief-2024-05-03/</link>
+      <description><![CDATA[Rivian Automotive 周五任命哈维尔·瓦雷拉 (Javier Varela) 为其首席运营官，这位电动汽车初创公司在应对需求放缓的同时仍在扩大其生产设施，并与沃尔沃资深人士一起加强了其队伍。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/ev-startup-rivian-hires-volvo-veteran-varela-operations-chief-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 14:20:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>汽车制造商赢得了在电动汽车税收抵免中使用中国石墨的延期</title>
+      <link>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</link>
+      <description><![CDATA[美国财政部周五为汽车制造商提供了对来自中国的一些重要微量矿物（例如石墨）的电动汽车税收抵免的电池矿物要求的额外灵活性。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 14:12:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国4月份服务业合同；价格压力再次加剧</title>
+      <link>https://www.reuters.com/markets/us/us-service-sector-contracts-april-price-pressures-reaccelerate-2024-05-03/</link>
+      <description><![CDATA[美国服务业3月份出现萎缩，而企业为投入支付的价格指标则大幅上涨，这是通胀前景令人担忧的迹象。]]></description>
+      <guid>https://www.reuters.com/markets/us/us-service-sector-contracts-april-price-pressures-reaccelerate-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 14:08:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国 SEC 指控审计员 BF Borgers 欺诈，其客户包括特朗普媒体</title>
+      <link>https://www.reuters.com/business/us-sec-charges-audit-firm-bf-borgers-with-fraud-affecting-more-than-1500-filings-2024-05-03/</link>
+      <description><![CDATA[审计员 BF Borgers 及其所有者本杰明·博格斯 (Benjamin Borgers)，其客户包括特朗普媒体
+ 美国证券交易委员会 (SEC) 周五表示，该公司被指控犯有“大规模欺诈”罪，影响了超过 1,500 份 SEC 备案文件。]]></description>
+      <guid>https://www.reuters.com/business/us-sec-charges-audit-firm-bf-borgers-with-fraud-affecting-more-than-1500-filings-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 13:56:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储鲍曼支持当前政策立场，但仍看到通胀风险</title>
+      <link>https://www.reuters.com/markets/us/feds-bowman-supports-current-policy-stance-still-sees-inflation-risks-2024-05-03/</link>
+      <description><![CDATA[美联储理事米歇尔·鲍曼周五表示，即使美联储将基准利率稳定在当前水平，通胀也应继续下降，同时重申，如果进展减弱或出现逆转，她愿意提高政策利率。]]></description>
+      <guid>https://www.reuters.com/markets/us/feds-bowman-supports-current-policy-stance-still-sees-inflation-risks-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 13:52:31 GMT</pubDate>
+    </item>
     <item>
       <title>美国股票基金连续第五周出现资金流出</title>
       <link>https://www.reuters.com/markets/us/us-equity-funds-witness-outflows-fifth-week-row-2024-05-03/</link>
-      <description><![CDATA[截至5月1日的7天内，美国投资者连续第五周成为股票基金净卖家，在美联储政策决定之前保持谨慎，并降低了年初盛行的降息预期。]]></description>
+      <description><![CDATA[截至5月1日的七天里，美国投资者连续第五周净卖出股票基金，在美联储政策决定前保持谨慎，并降低了年初普遍存在的降息预期。]]></description>
       <guid>https://www.reuters.com/markets/us/us-equity-funds-witness-outflows-fifth-week-row-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 13:25:38 GMT</pubDate>
     </item>
@@ -20,107 +70,65 @@
       <pubDate>Fri, 03 May 2024 13:04:43 GMT</pubDate>
     </item>
     <item>
-      <title>美国四月就业报告显示劳动力市场宽松，对美联储来说是个好消息</title>
+      <title>美国四月就业报告显示劳动力市场宽松 对美联储有利</title>
       <link>https://www.reuters.com/markets/us/view-april-us-jobs-report-shows-looser-labor-market-good-news-fed-2024-05-03/</link>
       <description><![CDATA[美国四月份就业增长放缓幅度超过预期，年度工资涨幅降温，这是劳动力市场宽松的迹象，这对市场和美联储来说是个好消息，美联储可能需要更多此类信号才能从更高的长期政策转向。]]></description>
       <guid>https://www.reuters.com/markets/us/view-april-us-jobs-report-shows-looser-labor-market-good-news-fed-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 13:03:35 GMT</pubDate>
     </item>
     <item>
-      <title>美国联邦贸易委员会寻求有关诺和诺德母公司与 Catalent 交易的更多信息</title>
-      <link>https://www.reuters.com/markets/deals/us-ftc-seeks-more-information-novo-nordisk-parent-catalent-deal-2024-05-03/</link>
-      <description><![CDATA[美国联邦贸易委员会正在寻求有关诺和诺德母公司以 165 亿美元收购制造分包商 Catalent 的交易的更多信息。]]></description>
-      <guid>https://www.reuters.com/markets/deals/us-ftc-seeks-more-information-novo-nordisk-parent-catalent-deal-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 12:58:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃克森美孚完成 600 亿美元收购 Pioneer Natural 交易</title>
-      <link>https://www.reuters.com/markets/deals/exxon-mobil-completes-60-billion-deal-pioneer-natural-2024-05-03/</link>
-      <description><![CDATA[石油和天然气生产商埃克森美孚 (Exxon Mobil) 周五表示，该公司已完成以 600 亿美元收购先锋自然资源 (Pioneer Natural Resources) 的交易，一天前该交易已获得美国联邦贸易委员会 (FTC) 的批准。]]></description>
-      <guid>https://www.reuters.com/markets/deals/exxon-mobil-completes-60-billion-deal-pioneer-natural-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 12:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国四月份就业增长放缓；失业率升至3.9%</title>
+      <title>美国就业增幅为六个月以来最低；失业率升至3.9%</title>
       <link>https://www.reuters.com/markets/us/us-job-growth-slows-april-unemployment-rate-rises-39-2024-05-03/</link>
-      <description><![CDATA[美国4月份就业增长放缓幅度超过预期，年度工资涨幅降温，但由于劳动力市场仍然相当紧张，现在预计美联储将在9月份之前开始降息可能还为时过早。]]></description>
+      <description><![CDATA[美国4月就业增长放缓幅度超预期，年薪涨幅近三年来首次跌破4.0%，但由于劳动力市场仍然相当紧张，现在预期美联储在9月前开始降息可能为时过早。]]></description>
       <guid>https://www.reuters.com/markets/us/us-job-growth-slows-april-unemployment-rate-rises-39-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 12:35:13 GMT</pubDate>
     </item>
     <item>
-      <title>阿拉斯加航空表示，波音公司发放了 6100 万美元的贷项凭证以应对停飞问题</title>
-      <link>https://www.reuters.com/business/aerospace-defense/alaska-air-says-boeing-issued-61-million-credit-memos-address-grounding-hit-2024-05-03/</link>
-      <description><![CDATA[阿拉斯加航空集团周五表示，该公司已收到波音公司 6100 万美元的供应商贷项凭证，作为对 737 MAX 9 喷气式飞机临时停飞造成的损失的额外补偿。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/alaska-air-says-boeing-issued-61-million-credit-memos-address-grounding-hit-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 11:46:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉 vs 特斯拉：美国汽车制造商起诉印度同名公司复制商标</title>
-      <link>https://www.reuters.com/world/india/tesla-vs-tesla-us-carmaker-sues-indian-namesake-copying-trademark-2024-05-03/</link>
-      <description><![CDATA[埃隆·马斯克 (Elon Musk) 的汽车制造商特斯拉 (Tesla) 起诉一家印度电池制造商，指控其使用“Tesla Power”品牌名称推销其产品，侵犯其商标权，寻求赔偿并要求新德里法官对该公司发出永久禁令。]]></description>
-      <guid>https://www.reuters.com/world/india/tesla-vs-tesla-us-carmaker-sues-indian-namesake-copying-trademark-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 11:42:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于市场波动促进期权交易，芝加哥期权交易所利润增加</title>
-      <link>https://www.reuters.com/markets/us/cboe-posts-higher-first-quarter-profit-robust-options-trading-2024-05-03/</link>
-      <description><![CDATA[芝加哥期权交易所 (Cboe) 全球市场周五公布第一季度利润增长，因为市场波动背景下对对冲产品的强劲需求帮助提振了该交易所运营商的期权交易量。]]></description>
-      <guid>https://www.reuters.com/markets/us/cboe-posts-higher-first-quarter-profit-robust-options-trading-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 11:34:33 GMT</pubDate>
-    </item>
-    <item>
       <title>好时公司第一季度定价上涨超出预期</title>
       <link>https://www.reuters.com/business/retail-consumer/hershey-tops-first-quarter-estimates-higher-pricing-2024-05-03/</link>
-      <description><![CDATA[周五，好时公司第一季度的销售额和利润超过了华尔街的预期，受益于价格上涨和消费者对其巧克力和糖果的稳定需求。]]></description>
+      <description><![CDATA[好时公司周五第一季度的销售额和利润超出了华尔街的预期，受益于价格上涨以及消费者对其巧克力和糖果的稳定需求。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/hershey-tops-first-quarter-estimates-higher-pricing-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:22:21 GMT</pubDate>
     </item>
     <item>
       <title>苹果股价上涨，创纪录的回购和销售增长预测吸引了投资者</title>
       <link>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</link>
-      <description><![CDATA[苹果股价周五收盘前上涨近 6%，这家 iPhone 制造商创纪录的股票回购计划和销售增长的承诺吸引了因担心中国需求疲软和竞争加剧而回避该股的投资者。]]></description>
+      <description><![CDATA[苹果股价周五上涨近 7%，这家 iPhone 制造商创纪录的股票回购计划和销售增长的承诺吸引了因担心中国需求疲软和竞争加剧而回避该股的投资者。]]></description>
       <guid>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>就业数据疲软，华尔街将大幅高开</title>
+      <title>就业数据疲软缓解利率紧张情绪后华尔街上涨</title>
       <link>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</link>
-      <description><![CDATA[华尔街主要股指周五开盘走高，此前疲于预期的就业报告重燃了美联储今年降息的希望，而苹果和安进公司因乐观的企业更新而上涨也增加了支撑。]]></description>
+      <description><![CDATA[周五，华尔街主要股指上涨，此前疲软的就业报告重燃了美联储今年降息的希望，而苹果和安进公司因乐观的企业更新而上涨，增加了支撑。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:09:35 GMT</pubDate>
     </item>
     <item>
       <title>伯克希尔准备传递接力棒，巴菲特重新登台</title>
       <link>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</link>
-      <description><![CDATA[沃伦·巴菲特将在伯克希尔·哈撒韦公司周六举行的年会上占据中心舞台，但一个不会出席的人——他有影响力的助手查理·芒格——将显得尤为突出。]]></description>
+      <description><![CDATA[周六，沃伦·巴菲特在奥马哈伯克希尔·哈撒韦公司年度股东大会上占据中心舞台，投资者正在评估他的预期继任者，并更好地了解该集团计划如何增长和部署现金。]]></description>
       <guid>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>早间竞价：乔布斯测试美联储的救济措施，苹果回购的冲击</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</link>
-      <description><![CDATA[迈克·多兰 (Mike Dolan) 对美国和全球市场未来前景的展望]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 10:02:51 GMT</pubDate>
-    </item>
-    <item>
       <title>2021 年召回后，美国结束特斯拉后视摄像头调查</title>
       <link>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</link>
-      <description><![CDATA[美国国家公路交通安全管理局周五表示，已结束对近 16 万辆特斯拉 Model X 和 Model S 车辆后视摄像头图像丢失的长期调查。]]></description>
+      <description><![CDATA[美国国家公路交通安全管理局周五表示，已结束对近 16 万辆特斯拉 Model X 和 Model S 汽车后视摄像头图像丢失事件的长期调查。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:40:26 GMT</pubDate>
     </item>
     <item>
-      <title>苹果的目标是在没有人工智能账单的情况下讲述人工智能故事</title>
+      <title>苹果在人工智能方面有着远大的抱负——而且成本比竞争对手更低</title>
       <link>https://www.reuters.com/technology/apple-aims-tell-an-ai-story-without-ai-bills-2024-05-03/</link>
-      <description><![CDATA[在过去一年半的大部分时间里，苹果首席执行官蒂姆·库克一直在回答华尔街分析师关于他的人工智能计划的问题，同时抱怨这家 iPhone 制造商没有人工智能故事可讲。]]></description>
+      <description><![CDATA[在过去一年半的大部分时间里，苹果首席执行官蒂姆库克都在回答华尔街分析师关于他的人工智能计划的问题，因为有人抱怨这家 iPhone 制造商没有人工智能故事可讲。]]></description>
       <guid>https://www.reuters.com/technology/apple-aims-tell-an-ai-story-without-ai-bills-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:02:00 GMT</pubDate>
     </item>
     <item>
-      <title>据《华尔街日报》报道，索尼和阿波罗向派拉蒙提出 260 亿美元收购要约</title>
+      <title>派拉蒙不会延长与 Skydance 的独家交易期限</title>
       <link>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</link>
-      <description><![CDATA[据《华尔街日报》报道，索尼影视娱乐公司 (SPE) 和私募股权公司阿波罗全球管理公司已向电影集团派拉蒙全球提出 260 亿美元现金收购要约。]]></description>
+      <description><![CDATA[据一位知情人士透露，索尼影视娱乐公司和私募股权公司阿波罗全球管理公司周三向派拉蒙全球公司提出了 260 亿美元的收购要约，但截至周五尚未收到回应。]]></description>
       <guid>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:00:49 GMT</pubDate>
     </item>
@@ -137,13 +145,6 @@
       <description><![CDATA[阿迪达斯的目标是满足人们对三条纹黑白桑巴舞鞋和多色瞪羚运动鞋的热销需求，同时该公司也在采取措施，防止这些鞋款成为其自身成功的牺牲品。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/adidas-plots-swerve-samba-slump-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 05:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉劳资纠纷引发北欧同情罢工</title>
-      <link>https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/</link>
-      <description><![CDATA[特斯拉与瑞典 IF Metall 之间的纠纷吸引了北欧各地的工会，所有工会都敦促这家电动汽车 (EV) 制造商签署集体谈判协议。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/</guid>
-      <pubDate>Thu, 07 Dec 2023 12:08:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
