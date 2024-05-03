@@ -1,14 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 05:31:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:30:15 GMT</lastBuildDate>
+    <item>
+      <title>人工智能热潮推动投资者涌入台湾 ETF，令一些人感到不安</title>
+      <link>https://www.reuters.com/markets/asia/investors-flood-into-taiwan-etfs-ai-boom-unnerving-some-2024-05-03/</link>
+      <description><![CDATA[随着投资者争相进入人工智能供应链，大量资金涌入台湾的交易所交易基金，而在该行业的涨势变得变化无常和动荡之际，分析师和监管机构也对此保持谨慎。]]></description>
+      <guid>https://www.reuters.com/markets/asia/investors-flood-into-taiwan-etfs-ai-boom-unnerving-some-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 05:08:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>北美推动戴姆勒卡车核心利润突破</title>
+      <link>https://www.reuters.com/business/autos-transportation/north-america-drives-daimler-truck-core-profit-beat-2024-05-03/</link>
+      <description><![CDATA[德国戴姆勒卡车公司周五公布第一季度核心利润为 12.1 亿欧元（合 13 亿美元），超过公司调查中普遍预期的 11.7 亿欧元，这主要得益于其卡车北美业务的强劲表现。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/north-america-drives-daimler-truck-core-profit-beat-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 05:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：Uniper休眠的俄罗斯天然气合同可能对上市构成障碍</title>
+      <link>https://www.reuters.com/business/energy/unipers-dormant-russian-gas-contracts-may-pose-hurdle-listing-2024-05-03/</link>
+      <description><![CDATA[三名知情人士表示，欧洲能源危机最大的企业受害者 Uniper 正在寻求法院解决其休眠的俄罗斯天然气供应合同问题，一旦该公司完全重返股市，该合同可能会令投资者望而却步。]]></description>
+      <guid>https://www.reuters.com/business/energy/unipers-dormant-russian-gas-contracts-may-pose-hurdle-listing-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 05:05:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿迪达斯计划扭转桑巴舞颓势</title>
+      <link>https://www.reuters.com/business/retail-consumer/adidas-plots-swerve-samba-slump-2024-05-03/</link>
+      <description><![CDATA[阿迪达斯的目标是满足人们对三条纹黑白桑巴舞鞋和多色瞪羚运动鞋的热销需求，同时该公司也在采取措施，防止这些鞋款成为其自身成功的牺牲品。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/adidas-plots-swerve-samba-slump-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 05:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资银行业务击败竞争对手，法国农业信贷银行第一季度盈利大幅增长</title>
+      <link>https://www.reuters.com/business/finance/credit-agricoles-q1-earnings-jump-investment-banking-beats-rivals-2024-05-03/</link>
+      <description><![CDATA[法国第二大上市银行法国农业信贷银行周五公布第一季度净利润增长 55%，超出预期，这得益于企业和投资银行业务销售表现优于竞争对手。]]></description>
+      <guid>https://www.reuters.com/business/finance/credit-agricoles-q1-earnings-jump-investment-banking-beats-rivals-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 05:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘买盘：日元疯狂的一周令空头保持警惕</title>
+      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-03/</link>
+      <description><![CDATA[Ankur Banerjee 对欧洲和全球市场未来一天的展望：]]></description>
+      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 04:33:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>法国兴业银行投资银行限制第一季度利润暴跌</title>
+      <link>https://www.reuters.com/business/finance/socgens-investment-bank-limits-q1-profit-plunge-2024-05-03/</link>
+      <description><![CDATA[法国兴业银行周五公布，第一季度净利润下滑 22%，好于预期，原因是股票衍生品销售利润抵消了零售银行和固定收益交易的更多疲软。]]></description>
+      <guid>https://www.reuters.com/business/finance/socgens-investment-bank-limits-q1-profit-plunge-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 04:29:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国就业稳定，四月份工资预计增长</title>
+      <link>https://www.reuters.com/markets/us/solid-us-job-wage-growth-expected-april-2024-05-03/</link>
+      <description><![CDATA[4月份美国就业增长可能放缓至仍然稳健的水平，工资保持稳定增长，这将减轻人们对第一季度经济活动大幅回落后经济陷入停滞的担忧。]]></description>
+      <guid>https://www.reuters.com/markets/us/solid-us-job-wage-growth-expected-april-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 04:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>SVB Financial 出售风险投资业务 SVB Capital</title>
+      <link>https://www.reuters.com/business/finance/svb-financial-sell-investment-platform-business-svb-capital-2024-05-03/</link>
+      <description><![CDATA[倒闭的美国银行 SVB 金融集团周四表示，Pinegrove Capital Partners 旗下的一家实体将收购其风险投资业务 SVB Capital。]]></description>
+      <guid>https://www.reuters.com/business/finance/svb-financial-sell-investment-platform-business-svb-capital-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 03:38:20 GMT</pubDate>
+    </item>
     <item>
       <title>瑞银表示全球对冲基金追逐港股反弹</title>
       <link>https://www.reuters.com/markets/hedge-flow-global-hedge-funds-chase-hong-kong-stocks-rally-ubs-says-2024-05-03/</link>
-      <description><![CDATA[瑞银集团在一份报告中表示，采用股票多空策略的全球对冲基金越来越看好中国，其购买香港上市股票的大幅增加就证明了这一点。]]></description>
+      <description><![CDATA[瑞银集团在一份报告中表示，采用股票多空策略的全球对冲基金对中国愈发看好，其对香港上市股票的购买量大幅增加就是明证。]]></description>
       <guid>https://www.reuters.com/markets/hedge-flow-global-hedge-funds-chase-hong-kong-stocks-rally-ubs-says-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 02:48:51 GMT</pubDate>
     </item>
@@ -18,41 +81,6 @@
       <description><![CDATA[苹果公司创纪录的 1100 亿美元股票回购计划提振了科技板块，周五亚洲股市上涨，而日元则远离近期 34 年来的低点，结束了东京疑似干预的动荡一周。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 02:19:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>油价稳定，因美国经济担忧而每周下跌</title>
-      <link>https://www.reuters.com/business/energy/oil-steadies-heads-weekly-drop-us-economy-worries-2024-05-03/</link>
-      <description><![CDATA[由于欧佩克+继续减产的前景，周五早盘油价小幅上涨，但由于美国经济不确定性以及以色列与哈马斯战争造成的有限原油供应中断，原油基准指数将每周下跌。]]></description>
-      <guid>https://www.reuters.com/business/energy/oil-steadies-heads-weekly-drop-us-economy-worries-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 00:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>日元有望创一年多以来最佳周度表现；美元等待美国就业数据</title>
-      <link>https://www.reuters.com/markets/currencies/yen-poised-best-week-over-year-dollar-waits-us-jobs-data-2024-05-03/</link>
-      <description><![CDATA[周五，日元将迎来一年多来表现最好的一周，这得益于东京本周疑似进行干预，将日元拉离34年来的低点，这也让美元普遍处于不利地位。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/yen-poised-best-week-over-year-dollar-waits-us-jobs-data-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 00:26:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>路透调查显示澳洲联储5月维持利率不变，年底仅降息一次</title>
-      <link>https://www.reuters.com/markets/rates-bonds/rba-hold-rates-may-only-cut-once-by-end-year-2024-05-03/</link>
-      <description><![CDATA[路透社对经济学家的调查显示，澳大利亚央行将在周二连续第四次召开会议，将关键政策利率维持在 4.35%，至少持续到 9 月底，经济学家预计今年只会降息一次。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/rba-hold-rates-may-only-cut-once-by-end-year-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 00:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>拉美航空第一季度业绩强劲，上调全年盈利预期</title>
-      <link>https://www.reuters.com/business/aerospace-defense/latam-airlines-boosts-yearly-earnings-outlook-after-solid-q1-results-2024-05-03/</link>
-      <description><![CDATA[受第一季度强劲业绩和需求增长的支持，智利南美航空周四上调了今年的盈利预期。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/latam-airlines-boosts-yearly-earnings-outlook-after-solid-q1-results-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 00:09:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>法拉利推出两款全新 V12 赛车，吸引传统消费者</title>
-      <link>https://www.reuters.com/business/autos-transportation/ferrari-appeals-traditional-base-with-two-new-v12-cars-2024-05-03/</link>
-      <description><![CDATA[豪华跑车制造商法拉利推出了两款新车型：12Cilindri 和 12Cilindri Spider，吸引了其最强大的轰鸣汽油发动机的爱好者。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/ferrari-appeals-traditional-base-with-two-new-v12-cars-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 00:02:55 GMT</pubDate>
     </item>
     <item>
       <title>苹果公布创纪录的 1100 亿美元回购计划，业绩超出低预期</title>
@@ -76,34 +104,6 @@
       <pubDate>Thu, 02 May 2024 23:00:17 GMT</pubDate>
     </item>
     <item>
-      <title>演唱会热潮推动门票销售，Live Nation 收入超预期</title>
-      <link>https://www.reuters.com/business/media-telecom/live-nations-revenue-beats-estimates-boom-concerts-drive-ticket-sales-2024-05-02/</link>
-      <description><![CDATA[受音乐会等现场活动受欢迎程度的推动，Ticketmaster 母公司 Live Nation Entertainment 周四第一季度营收超出预期，导致其股价在售后交易中上涨超过 3%。]]></description>
-      <guid>https://www.reuters.com/business/media-telecom/live-nations-revenue-beats-estimates-boom-concerts-drive-ticket-sales-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 22:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：市场喜爱美联储，日元喜爱日本央行</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-02/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 21:47:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国司法部要求美国钢铁公司和新日铁公司就拟议合并提供更多细节</title>
-      <link>https://www.reuters.com/markets/commodities/doj-seeks-more-details-us-steel-nippon-steel-proposed-merger-2024-05-02/</link>
-      <description><![CDATA[美国司法部周四表示，作为对新日铁拟以 150 亿美元收购美国钢铁公司的反垄断审查的一部分，美国司法部正在寻求更多细节和文件材料。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/doj-seeks-more-details-us-steel-nippon-steel-proposed-merger-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 21:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果公布创纪录的 1100 亿美元回购计划，业绩超出低预期</title>
-      <link>https://www.reuters.com/technology/apple-sales-fall-less-than-expected-ceo-sees-return-growth-2024-05-02/</link>
-      <description><![CDATA[周四，苹果公司的季度业绩和预测超出了温和的预期，这家 iPhone 制造商公布了创纪录的股票回购计划，导致其股价在盘中交易中上涨近 7%。]]></description>
-      <guid>https://www.reuters.com/technology/apple-sales-fall-less-than-expected-ceo-sees-return-growth-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 20:32:40 GMT</pubDate>
-    </item>
-    <item>
       <title>Coinbase 因加密货币价格上涨而利润飙升</title>
       <link>https://www.reuters.com/technology/coinbase-posts-soaring-profit-jump-crypto-prices-2024-05-02/</link>
       <description><![CDATA[Coinbase Global 第一季度利润从去年同期的亏损转向超过 10 亿美元，这得益于 1 月份推出第一只追踪比特币的美国上市交易所交易基金 (ETF) 后加密货币交易量的增长。]]></description>
@@ -125,25 +125,11 @@
       <pubDate>Thu, 02 May 2024 19:49:59 GMT</pubDate>
     </item>
     <item>
-      <title>独家：消息人士称 TOMS Capital Investment Management 已入股 Kellanova</title>
-      <link>https://www.reuters.com/business/retail-consumer/toms-capital-investment-management-has-taken-stake-kellanova-sources-say-2024-05-02/</link>
-      <description><![CDATA[两位知情人士周四表示，投资公司 TOMS Capital Investment Management 已在美国跨国食品制造公司 Kellanova 中占据“重要”地位，并正在与该公司进行接触。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/toms-capital-investment-management-has-taken-stake-kellanova-sources-say-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 14:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国批准埃克森-先锋交易，指控页岩油创始人与欧佩克勾结</title>
+      <title>美国批准埃克森-先锋交易，指控页岩创始人与欧佩克勾结</title>
       <link>https://www.reuters.com/markets/deals/us-ftc-order-bans-exxon-mobil-pioneer-natural-resources-deal-2024-05-02/</link>
       <description><![CDATA[美国监管机构周四批准了埃克森美孚以 600 亿美元收购先锋自然资源公司的交易，但禁止先锋公司前首席执行官加入埃克森美孚董事会，因为他被指控试图与欧佩克勾结提高油价。]]></description>
       <guid>https://www.reuters.com/markets/deals/us-ftc-order-bans-exxon-mobil-pioneer-natural-resources-deal-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 12:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于美联储发出鸽派偏见信号，华尔街收高；就业报告眼睛</title>
-      <link>https://www.reuters.com/markets/us/futures-climb-fed-allays-rate-hike-worries-2024-05-02/</link>
-      <description><![CDATA[美国股市周四上涨，因投资者权衡美联储周三比预期更为鸽派的利率指引，以及大量喜忧参半的盈利和经济数据。]]></description>
-      <guid>https://www.reuters.com/markets/us/futures-climb-fed-allays-rate-hike-worries-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 10:24:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
