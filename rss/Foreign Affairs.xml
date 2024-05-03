@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FARSS</title>
+    <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 05:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:58:51 GMT</lastBuildDate>
+    <item>
+      <title>不要炒作虚假信息威胁</title>
+      <link>https://www.foreignaffairs.com/russian-federation/dont-hype-disinformation-threat</link>
+      <description><![CDATA[低估风险对外国宣传人员有帮助，但夸大风险也有帮助。]]></description>
+      <guid>https://www.foreignaffairs.com/russian-federation/dont-hype-disinformation-threat</guid>
+      <pubDate>Fri, 03 May 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国扩大核力量的真实关切</title>
       <link>https://www.foreignaffairs.com/china/zhongguokuodaheliliangdezhenshiguanqie</link>
@@ -20,13 +27,6 @@
       <pubDate>Fri, 03 May 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>不要炒作虚假信息威胁</title>
-      <link>https://www.foreignaffairs.com/russian-federation/dont-hype-disinformation-threat</link>
-      <description><![CDATA[低估风险有助于外国的宣传，但夸大风险也有帮助。]]></description>
-      <guid>https://www.foreignaffairs.com/russian-federation/dont-hype-disinformation-threat</guid>
-      <pubDate>Fri, 03 May 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>亚洲摇摆州的神话</title>
       <link>https://www.foreignaffairs.com/asia/myth-asian-swing-state</link>
       <description><![CDATA[大国竞争不再主导该地区的政治。]]></description>
@@ -34,23 +34,23 @@
       <pubDate>Thu, 02 May 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>仅靠美国的援助无法拯救乌克兰</title>
+      <title>单靠美国援助无法拯救乌克兰</title>
       <link>https://www.foreignaffairs.com/ukraine/american-aid-alone-wont-save-ukraine</link>
-      <description><![CDATA[为了生存，基辅必须建立新的部队——并迫使莫斯科进行谈判。]]></description>
+      <description><![CDATA[为了生存，基辅必须建立新的旅，并迫使莫斯科进行谈判。]]></description>
       <guid>https://www.foreignaffairs.com/ukraine/american-aid-alone-wont-save-ukraine</guid>
       <pubDate>Thu, 02 May 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>以色列为何应宣布加沙单方面停火</title>
       <link>https://www.foreignaffairs.com/middle-east/why-israel-should-declare-unilateral-cease-fire-gaza</link>
-      <description><![CDATA[这是一个扭转哈马斯和伊朗局势并推进与沙特阿拉伯关系正常化的机会。]]></description>
+      <description><![CDATA[这是扭转哈马斯和伊朗局势并推进与沙特阿拉伯关系正常化的机会。]]></description>
       <guid>https://www.foreignaffairs.com/middle-east/why-israel-should-declare-unilateral-cease-fire-gaza</guid>
       <pubDate>Wed, 01 May 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>普京对叛逃者的痴迷</title>
       <link>https://www.foreignaffairs.com/russian-federation/putins-defector-obsession</link>
-      <description><![CDATA[莫斯科对为乌克兰而战的俄罗斯人采取了无情的行动。]]></description>
+      <description><![CDATA[莫斯科对为乌克兰而战的俄罗斯人进行了残酷的打击。]]></description>
       <guid>https://www.foreignaffairs.com/russian-federation/putins-defector-obsession</guid>
       <pubDate>Wed, 01 May 2024 04:00:00 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Mon, 29 Apr 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>中东正在形成反伊朗联盟吗？</title>
+      <title>中东地区是否正在出现反伊朗联盟？</title>
       <link>https://www.foreignaffairs.com/middle-east/anti-iran-alliance-emerging-middle-east</link>
       <description><![CDATA[以色列与阿拉伯国家之间合作的局限性。]]></description>
       <guid>https://www.foreignaffairs.com/middle-east/anti-iran-alliance-emerging-middle-east</guid>
