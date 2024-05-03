@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻 | 今日头条 | 路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 03 May 2024 09:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 10:20:16 GMT</lastBuildDate>
     <item>
       <title>美国国防部长称，菲律宾在南海造成的损害是“不负责任的行为”</title>
       <link>https://www.reuters.com/world/asia-pacific/damage-injury-philippines-south-china-sea-is-irresponsible-behaviour-says-us-2024-05-03/</link>
@@ -15,14 +15,14 @@
     <item>
       <title>瑞银表示全球对冲基金追逐港股反弹</title>
       <link>https://www.reuters.com/markets/hedge-flow-global-hedge-funds-chase-hong-kong-stocks-rally-ubs-says-2024-05-03/</link>
-      <description><![CDATA[瑞银集团在一份报告中表示，采用股票多空策略的全球对冲基金对中国愈发看好，其对香港上市股票的购买量大幅增加就是明证。]]></description>
+      <description><![CDATA[瑞银集团在一份报告中表示，采用股票多空策略的全球对冲基金越来越看好中国，其购买香港上市股票的大幅增加就证明了这一点。]]></description>
       <guid>https://www.reuters.com/markets/hedge-flow-global-hedge-funds-chase-hong-kong-stocks-rally-ubs-says-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 02:48:51 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市飙升；日元扩大涨势以限制疯狂的一周</title>
+      <title>美国就业数据公布前股市和日元稳定</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-03/</link>
-      <description><![CDATA[周五，在科技股和香港股市的带动下，亚洲股市飙升至 15 个月来的最高点，而日元则远离近期 34 年来的低点，结束了日本当局疑似干预的动荡一周。]]></description>
+      <description><![CDATA[周五，在美国关键非农就业数据公布之前，全球股市走强，美联储保证下一步将下调利率。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 02:19:20 GMT</pubDate>
     </item>
@@ -36,16 +36,9 @@
     <item>
       <title>台湾称中国飞机越过中线，中国进行着陆演习</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-says-14-chinese-military-planes-crossed-straits-median-line-2024-05-03/</link>
-      <description><![CDATA[台湾国防部周五表示，发现中国军机再次侵入敏感的台湾海峡，中国报道称其海军已使用登陆艇进行了战斗演习。]]></description>
+      <description><![CDATA[台湾国防部周五表示，它发现中国军机再次侵入敏感的台湾海峡，中国报道称其海军已使用登陆艇进行了战斗演习。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-14-chinese-military-planes-crossed-straits-median-line-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 01:07:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>日元有望创一年多以来最佳单周表现；美元等待美国就业数据</title>
-      <link>https://www.reuters.com/markets/currencies/yen-poised-best-week-over-year-dollar-waits-us-jobs-data-2024-05-03/</link>
-      <description><![CDATA[周五，日元将迎来一年多来表现最好的一周，这得益于东京本周疑似进行干预，将日元拉离34年来的低点，这也让美元普遍处于不利地位。]]></description>
-      <guid>https://www.reuters.com/markets/currencies/yen-poised-best-week-over-year-dollar-waits-us-jobs-data-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 00:26:23 GMT</pubDate>
     </item>
     <item>
       <title>法拉利推出两款全新 V12 赛车，吸引传统消费者</title>
@@ -57,7 +50,7 @@
     <item>
       <title>新西兰外长称中国关系复杂</title>
       <link>https://www.reuters.com/world/new-zealand-foreign-minister-calls-china-relationship-complex-2024-05-02/</link>
-      <description><![CDATA[新西兰外交部长周五表示，新西兰与中国的关系“复杂”，并指出台海两岸的言辞愈发强硬，香港出现侵犯人权行为，以及“在太平洋安全领域的参与度不断加强”。]]></description>
+      <description><![CDATA[新西兰外交部长周五称该国与中国的关系“复杂”，并指出台湾海峡两岸的强硬言论、香港的侵犯人权行为以及“加强对太平洋安全领域的参与”。]]></description>
       <guid>https://www.reuters.com/world/new-zealand-foreign-minister-calls-china-relationship-complex-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 21:57:49 GMT</pubDate>
     </item>
@@ -76,16 +69,9 @@
       <pubDate>Thu, 02 May 2024 18:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>塞尔维亚议会批准联合政府</title>
-      <link>https://www.reuters.com/world/europe/serbian-parliament-approves-coalition-government-2024-05-02/</link>
-      <description><![CDATA[塞尔维亚议会周四批准了联合政府，新当选总理米洛什·武切维奇称该政府为“连续性政府”，将带领这个巴尔干国家应对地缘政治挑战和与科索沃的紧张关系。]]></description>
-      <guid>https://www.reuters.com/world/europe/serbian-parliament-approves-coalition-government-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 17:18:43 GMT</pubDate>
-    </item>
-    <item>
       <title>俄罗斯称有关其与朝鲜军事关系的说法不准确</title>
       <link>https://www.reuters.com/world/russia-calls-claim-about-its-alleged-military-ties-with-north-korea-inaccurate-2024-05-02/</link>
-      <description><![CDATA[俄罗斯周四表示，西方关于其与朝鲜进行军事合作的说法是不准确的，并表示其与平壤的关系既不针对第三国，也不威胁该地区的安全。]]></description>
+      <description><![CDATA[俄罗斯周四表示，西方声称俄罗斯与朝鲜进行军事合作是不准确的，并表示俄罗斯与平壤的关系并不针对第三国，也不会威胁该地区的安全。]]></description>
       <guid>https://www.reuters.com/world/russia-calls-claim-about-its-alleged-military-ties-with-north-korea-inaccurate-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 15:48:38 GMT</pubDate>
     </item>
@@ -113,12 +99,12 @@
     <item>
       <title>人工智能推动中国智能手机市场反弹，高通股价上涨</title>
       <link>https://www.reuters.com/technology/qualcomm-jumps-ai-sparks-rebound-chinese-smartphone-market-2024-05-02/</link>
-      <description><![CDATA[专注于智能手机的芯片制造商高通表示，在经历了多年的低迷之后，人工智能推动了需求反弹，尤其是在中国，此后，高通股价周四上涨约 10%，至两年多来的最高点。]]></description>
+      <description><![CDATA[高通公司股价周四上涨约 10% 至两年多高点，此前这家专注于智能手机的芯片制造商表示，在经历了多年的低迷之后，人工智能推动的需求出现反弹，尤其是在中国。]]></description>
       <guid>https://www.reuters.com/technology/qualcomm-jumps-ai-sparks-rebound-chinese-smartphone-market-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 11:26:01 GMT</pubDate>
     </item>
     <item>
-      <title>台湾报告一周内第二次中国“战斗巡航”</title>
+      <title>台湾报告中国一周内第二次“战斗巡逻”</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-reports-second-chinese-combat-patrol-week-2024-05-02/</link>
       <description><![CDATA[台湾国防部周四表示，中国一周内第二次在台湾附近进行“联合战备巡逻”。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-reports-second-chinese-combat-patrol-week-2024-05-02/</guid>
@@ -139,11 +125,25 @@
       <pubDate>Thu, 02 May 2024 09:21:51 GMT</pubDate>
     </item>
     <item>
+      <title>经合组织上调全球增长前景 美国表现优于大市</title>
+      <link>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</link>
+      <description><![CDATA[经合组织周四表示，由于美国经济活动富有弹性，全球经济增长速度快于几个月前的预期，而通胀与央行目标的融合速度也快于预期，并上调了其前景。]]></description>
+      <guid>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 07:05:42 GMT</pubDate>
+    </item>
+    <item>
       <title>Hugo Boss 股价因中国需求疲软和美国不确定性而下跌</title>
       <link>https://www.reuters.com/business/retail-consumer/hugo-boss-q1-operating-profit-beats-expectations-2024-05-02/</link>
-      <description><![CDATA[周四，Hugo Boss 股价下跌近 10%，触及 2022 年以来的最低水平，此前该高端服装品牌表示中国需求疲软，且对总统大选前的美国消费者信心感到担忧。]]></description>
+      <description><![CDATA[周四，Hugo Boss 股价暴跌近 10%，跌至 2022 年以来的最低水平，此前该高端服装品牌表示，中国需求减弱，且对总统大选前美国消费者信心的担忧。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/hugo-boss-q1-operating-profit-beats-expectations-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>安赛乐米塔尔在盈利超出预期后坚持需求增长预测</title>
+      <link>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</link>
+      <description><![CDATA[全球第二大钢铁制造商安赛乐米塔尔周四公布第一季度业绩，业绩超出分析师预期，并重申预计今年中国以外全球钢铁需求将增长 3-4%。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</guid>
+      <pubDate>Thu, 02 May 2024 05:20:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
