@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻|今日突发新闻|路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 03 May 2024 10:34:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 10:48:36 GMT</lastBuildDate>
+    <item>
+      <title>尽管价格下跌，但亚洲黄金消费大国印度和中国的黄金需求仍低迷</title>
+      <link>https://www.reuters.com/markets/commodities/asia-gold-demand-subdued-top-consumers-india-china-despite-price-drop-2024-05-03/</link>
+      <description><![CDATA[印度的实物黄金需求本周仍然低迷，尽管价格略有调整，因为买家等待更大的跌幅，而中国的溢价由于假期需求低迷而连续第二周下滑。]]></description>
+      <guid>https://www.reuters.com/markets/commodities/asia-gold-demand-subdued-top-consumers-india-china-despite-price-drop-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 10:23:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>早间竞价：乔布斯测试美联储的救济措施，苹果回购的冲击</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 10:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国启动历史性月球背面采样任务</title>
+      <link>https://www.reuters.com/science/china-launches-historic-mission-retrieve-samples-far-side-moon-2024-05-03/</link>
+      <description><![CDATA[中国周五发射了一艘无人驾驶飞船，执行了近两个月的任务，从月球背面取回岩石和土壤，这是第一个进行如此雄心勃勃的尝试的国家。]]></description>
+      <guid>https://www.reuters.com/science/china-launches-historic-mission-retrieve-samples-far-side-moon-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 09:40:31 GMT</pubDate>
+    </item>
     <item>
       <title>美国国防部长称，菲律宾在南海造成的损害是“不负责任的行为”</title>
       <link>https://www.reuters.com/world/asia-pacific/damage-injury-philippines-south-china-sea-is-irresponsible-behaviour-says-us-2024-05-03/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>瑞银表示全球对冲基金追逐港股反弹</title>
       <link>https://www.reuters.com/markets/hedge-flow-global-hedge-funds-chase-hong-kong-stocks-rally-ubs-says-2024-05-03/</link>
-      <description><![CDATA[瑞银集团在一份报告中表示，采用股票多空策略的全球对冲基金越来越看好中国，其购买香港上市股票的大幅增加就证明了这一点。]]></description>
+      <description><![CDATA[瑞银集团在一份报告中表示，采用股票多空策略的全球对冲基金对中国愈发看好，其对香港上市股票的购买量大幅增加就是明证。]]></description>
       <guid>https://www.reuters.com/markets/hedge-flow-global-hedge-funds-chase-hong-kong-stocks-rally-ubs-says-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 02:48:51 GMT</pubDate>
     </item>
@@ -36,7 +57,7 @@
     <item>
       <title>台湾称中国飞机越过中线，中国进行着陆演习</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-says-14-chinese-military-planes-crossed-straits-median-line-2024-05-03/</link>
-      <description><![CDATA[台湾国防部周五表示，它发现中国军机再次侵入敏感的台湾海峡，中国报道称其海军已使用登陆艇进行了战斗演习。]]></description>
+      <description><![CDATA[台湾国防部周五表示，发现中国军机再次侵入敏感的台湾海峡，中国报道称其海军已使用登陆艇进行了战斗演习。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-14-chinese-military-planes-crossed-straits-median-line-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 01:07:36 GMT</pubDate>
     </item>
@@ -76,7 +97,7 @@
       <pubDate>Thu, 02 May 2024 15:48:38 GMT</pubDate>
     </item>
     <item>
-      <title>美国律师事务所Mayer Brown将脱离香港合伙企业</title>
+      <title>美国孖士打律师事务所将退出香港合伙企业</title>
       <link>https://www.reuters.com/legal/us-law-firm-mayer-brown-split-hong-kong-partnership-2024-05-02/</link>
       <description><![CDATA[美国孖士打律师事务所周四表示，由于许多国际律师事务所重新考虑或减少在中国的业务，该公司计划从目前的香港业务中分离出来。]]></description>
       <guid>https://www.reuters.com/legal/us-law-firm-mayer-brown-split-hong-kong-partnership-2024-05-02/</guid>
@@ -118,32 +139,11 @@
       <pubDate>Thu, 02 May 2024 10:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>韩国以朝鲜威胁为由提高外交警戒级别</title>
-      <link>https://www.reuters.com/world/asia-pacific/south-korea-raises-diplomatic-alert-levels-citing-north-korea-threats-2024-05-02/</link>
-      <description><![CDATA[韩国外交部周四提高了该地区五个外交机构的恐怖主义警戒级别，理由是有情报显示朝鲜可能试图伤害其官员。]]></description>
-      <guid>https://www.reuters.com/world/asia-pacific/south-korea-raises-diplomatic-alert-levels-citing-north-korea-threats-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 09:21:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>经合组织上调全球增长前景 美国表现优于大市</title>
-      <link>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</link>
-      <description><![CDATA[经合组织周四表示，由于美国经济活动富有弹性，全球经济增长速度快于几个月前的预期，而通胀与央行目标的融合速度也快于预期，并上调了其前景。]]></description>
-      <guid>https://www.reuters.com/markets/oecd-upgrades-global-growth-outlook-us-outperforms-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 07:05:42 GMT</pubDate>
-    </item>
-    <item>
       <title>Hugo Boss 股价因中国需求疲软和美国不确定性而下跌</title>
       <link>https://www.reuters.com/business/retail-consumer/hugo-boss-q1-operating-profit-beats-expectations-2024-05-02/</link>
-      <description><![CDATA[周四，Hugo Boss 股价下跌近 10%，触及 2022 年以来的最低水平，此前该高端服装品牌表示中国需求疲软，且对总统大选前的美国消费者信心感到担忧。]]></description>
+      <description><![CDATA[周四，Hugo Boss 股价暴跌近 10%，跌至 2022 年以来的最低水平，此前该高端服装品牌表示，中国需求减弱，且对总统大选前美国消费者信心的担忧。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/hugo-boss-q1-operating-profit-beats-expectations-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:46:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>安赛乐米塔尔在盈利超出预期后坚持需求增长预测</title>
-      <link>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</link>
-      <description><![CDATA[全球第二大钢铁制造商安赛乐米塔尔周四公布第一季度财报，好于分析师预期，并重申今年中国以外全球钢铁需求将增长3-4%的预期。]]></description>
-      <guid>https://www.reuters.com/markets/commodities/arcelormittal-q1-profit-tops-expectations-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 05:20:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
