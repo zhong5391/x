@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 13:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 13:51:25 GMT</lastBuildDate>
     <item>
       <title>好时公司第一季度定价上涨超出预期</title>
       <link>https://www.reuters.com/business/retail-consumer/hershey-tops-first-quarter-estimates-higher-pricing-2024-05-03/</link>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 03 May 2024 10:39:11 GMT</pubDate>
     </item>
     <item>
-      <title>竞争对手安进 (Amgen) 公布减肥药数据后诺和诺德 (Novo Nordisk) 股价下跌 5%</title>
+      <title>竞争对手安进 (Amgen) 公布减肥药数据后，诺和诺德 (Novo Nordisk) 股价下跌 5%</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-drops-5-after-rival-amgen-teases-weight-loss-drug-data-2024-05-03/</link>
       <description><![CDATA[丹麦制药商诺和诺德 (Novo Nordisk) 的股价周五下跌 5.3%，创 2022 年 8 月以来最大单日跌幅，此前其竞争对手安进 (Amgen) 表示，其实验性肥胖药物的中期试验数据令该公司受到鼓舞。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-drops-5-after-rival-amgen-teases-weight-loss-drug-data-2024-05-03/</guid>
@@ -43,14 +43,14 @@
     <item>
       <title>沃伦·巴菲特的 PacifiCorp 公用事业公司被野火烧毁</title>
       <link>https://www.reuters.com/business/energy/warren-buffetts-pacificorp-utility-singed-by-wildfires-2024-05-03/</link>
-      <description><![CDATA[两年前，沃伦·巴菲特将伯克希尔·哈撒韦公司的能源业务称为其集团的四大“巨头”之一。现在他担心其商业模式可能会被打破。]]></description>
+      <description><![CDATA[两年前，沃伦·巴菲特将伯克希尔·哈撒韦公司的能源业务列为其集团的四大“巨头”之一。现在他担心其商业模式可能会被打破。]]></description>
       <guid>https://www.reuters.com/business/energy/warren-buffetts-pacificorp-utility-singed-by-wildfires-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:14:49 GMT</pubDate>
     </item>
     <item>
       <title>苹果、安进提振期货上涨；等待就业数据</title>
       <link>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</link>
-      <description><![CDATA[受苹果和安进公司乐观的企业更新提振，与华尔街主要股指相关的期货周五上涨，而交易员则为关键就业报告做好准备，以获得更清晰的劳动力市场和利率路径前景。]]></description>
+      <description><![CDATA[受苹果和安进公司乐观的公司更新提振，与华尔街主要指数相关的期货周五上涨，同时交易员准备等待关键的就业报告，以更清晰地了解劳动力市场和利率走势的前景。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:09:35 GMT</pubDate>
     </item>
@@ -62,14 +62,14 @@
       <pubDate>Fri, 03 May 2024 10:07:02 GMT</pubDate>
     </item>
     <item>
-      <title>巴菲特将在伯克希尔哈撒韦会议上回答有关继任的问题</title>
+      <title>在伯克希尔哈撒韦公司的会议上，巴菲特回答了有关继任者的问题</title>
       <link>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</link>
       <description><![CDATA[沃伦·巴菲特将在伯克希尔·哈撒韦公司周六举行的年会上占据中心舞台，但一个不会出席的人——他有影响力的助手查理·芒格——将显得尤为突出。]]></description>
       <guid>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>早间竞价：乔布斯测试美联储的救济措施，苹果回购的冲击</title>
+      <title>早盘竞价：乔布斯测试美联储的救济措施、苹果回购的冲击</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</guid>
@@ -113,7 +113,7 @@
     <item>
       <title>谷歌捍卫应用商店，对抗 Epic Games 的重大改革</title>
       <link>https://www.reuters.com/legal/google-defends-app-store-fighting-epic-games-bid-major-reforms-2024-05-03/</link>
-      <description><![CDATA[谷歌已要求美国法官不要对 Alphabet 部门的应用商店 Play 进行彻底的改变，这些改变是由《堡垒之夜》制造商 Epic Games 在公司备受关注的反垄断斗争中提出的。]]></description>
+      <description><![CDATA[谷歌已请求美国法官不要对 Alphabet 旗下的应用商店 Play 实施由《堡垒之夜》制造商 Epic Games 在两家公司备受关注的反垄断战中提出的全面修改。]]></description>
       <guid>https://www.reuters.com/legal/google-defends-app-store-fighting-epic-games-bid-major-reforms-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 06:10:13 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>美国就业数据公布前股市和日元稳定</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-03/</link>
-      <description><![CDATA[周五，在美国关键非农就业数据公布之前，全球股市走强，美联储保证下一步将下调利率。]]></description>
+      <description><![CDATA[周五，在美国关键非农就业数据公布之前，全球股市走强，美联储保证下一步将降息。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1pix-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 02:19:20 GMT</pubDate>
     </item>
