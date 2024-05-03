@@ -3,8 +3,8 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 17:58:26 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Fri, 03 May 2024 18:25:11 GMT</lastBuildDate>
     <item>
       <title>TikTok 受到政治干扰，科技平台积极争取广告交易</title>
       <link>https://www.reuters.com/technology/tech-platforms-make-pitch-ad-deals-tiktok-is-roiled-by-politics-2024-05-03/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>制药商 Amneal 同意与美国阿片类药物达成 2.7 亿美元和解</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/drugmaker-amneal-agrees-270-million-us-opioid-settlement-2024-05-03/</link>
-      <description><![CDATA[阿姆尼尔制药公司 (Amneal Pharmaceuticals) 周五表示，已达成一项价值超过 2.7 亿美元的协议，以解决有关其助长美国致命阿片类药物泛滥的指控，成为最新一家就州和地方政府引发的成瘾危机达成诉讼和解的制药公司。]]></description>
+      <description><![CDATA[Amneal Pharmaceuticals 周五表示，该公司已达成一项价值超过 2.7 亿美元的交易，以解决有关其助长美国致命阿片类药物流行病的指控，成为最新一家就各州和地方政府提起的成瘾危机诉讼达成和解的制药公司。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/drugmaker-amneal-agrees-270-million-us-opioid-settlement-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 15:00:33 GMT</pubDate>
     </item>
@@ -36,12 +36,12 @@
     <item>
       <title>汽车制造商赢得了在电动汽车税收抵免中使用中国石墨的延期</title>
       <link>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</link>
-      <description><![CDATA[美国财政部周五为汽车制造商提供了对来自中国的一些重要微量矿物（例如石墨）的电动汽车税收抵免的电池矿物要求的额外灵活性。]]></description>
+      <description><![CDATA[美国财政部周五向汽车制造商提供了额外的电池矿物质要求灵活性，以便对来自中国的一些关键微量矿物质（例如石墨）进行电动汽车税收抵免。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>美国 4 月份服务业萎缩；价格压力再度加剧</title>
+      <title>美国4月份服务业合同；价格压力再度加剧</title>
       <link>https://www.reuters.com/markets/us/us-service-sector-contracts-april-price-pressures-reaccelerate-2024-05-03/</link>
       <description><![CDATA[美国服务业3月份出现萎缩，而企业为投入支付的价格指标则大幅上涨，这是通胀前景令人担忧的迹象。]]></description>
       <guid>https://www.reuters.com/markets/us/us-service-sector-contracts-april-price-pressures-reaccelerate-2024-05-03/</guid>
@@ -65,14 +65,14 @@
     <item>
       <title>美国股票基金连续第五周出现资金流出</title>
       <link>https://www.reuters.com/markets/us/us-equity-funds-witness-outflows-fifth-week-row-2024-05-03/</link>
-      <description><![CDATA[截至5月1日的七天里，美国投资者连续第五周净卖出股票基金，在美联储政策决定前保持谨慎，并降低了年初普遍存在的降息预期。]]></description>
+      <description><![CDATA[截至5月1日的7天内，美国投资者连续第五周成为股票基金净卖家，在美联储政策决定之前保持谨慎，并降低了年初盛行的降息预期。]]></description>
       <guid>https://www.reuters.com/markets/us/us-equity-funds-witness-outflows-fifth-week-row-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 13:25:38 GMT</pubDate>
     </item>
     <item>
-      <title>由于劳动力市场降温，美国就业增幅为六个月以来最低</title>
+      <title>劳动力市场降温 美国就业岗位增幅六个月来最低</title>
       <link>https://www.reuters.com/markets/us/us-job-growth-slows-april-unemployment-rate-rises-39-2024-05-03/</link>
-      <description><![CDATA[美国4月就业增长放缓幅度超预期，年薪涨幅近三年来首次跌破4.0%，但由于劳动力市场仍然相当紧张，现在预期美联储在9月前开始降息可能为时过早。]]></description>
+      <description><![CDATA[美国4月份就业增长放缓幅度超过预期，年工资增幅近三年来首次跌破4.0%，但随着劳动力市场的发展，现在预计美联储将在9月之前开始降息可能还为时尚早。市场依然相当紧张。]]></description>
       <guid>https://www.reuters.com/markets/us/us-job-growth-slows-april-unemployment-rate-rises-39-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 12:35:13 GMT</pubDate>
     </item>
@@ -121,7 +121,7 @@
     <item>
       <title>苹果在人工智能方面有着远大的抱负——而且成本比竞争对手更低</title>
       <link>https://www.reuters.com/technology/apple-aims-tell-an-ai-story-without-ai-bills-2024-05-03/</link>
-      <description><![CDATA[在过去一年半的大部分时间里，苹果首席执行官蒂姆·库克一直在回答华尔街分析师关于他的人工智能计划的问题，同时抱怨这家 iPhone 制造商没有人工智能故事可讲。]]></description>
+      <description><![CDATA[在过去一年半的大部分时间里，苹果首席执行官蒂姆库克都在回答华尔街分析师关于他的人工智能计划的问题，因为有人抱怨这家 iPhone 制造商没有人工智能故事可讲。]]></description>
       <guid>https://www.reuters.com/technology/apple-aims-tell-an-ai-story-without-ai-bills-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:02:00 GMT</pubDate>
     </item>
