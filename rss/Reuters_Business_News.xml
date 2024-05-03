@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 03 May 2024 18:52:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 19:15:00 GMT</lastBuildDate>
     <item>
       <title>TikTok 受到政治干扰，科技平台积极争取广告交易</title>
       <link>https://www.reuters.com/technology/tech-platforms-make-pitch-ad-deals-tiktok-is-roiled-by-politics-2024-05-03/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>美国就业数据疲弱缓解美联储对经济再度过热的担忧</title>
       <link>https://www.reuters.com/markets/us/weaker-us-jobs-data-brings-some-relief-fed-2024-05-03/</link>
-      <description><![CDATA[周五，因担心经济可能再次过热而受到打击的美联储官员松了口气，因为 4 月份就业数据显示工资增长明显降温，招聘步伐与 COVID-19 大流行之前的水平一致。]]></description>
+      <description><![CDATA[因担心经济可能再次过热而受到打击的美联储官员周五松了口气，因为 4 月份就业数据显示工资增长明显降温，招聘步伐与 COVID-19 大流行之前的水平一致。]]></description>
       <guid>https://www.reuters.com/markets/us/weaker-us-jobs-data-brings-some-relief-fed-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:51:03 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>美国4月份服务业合同；价格压力再次加剧</title>
       <link>https://www.reuters.com/markets/us/us-service-sector-contracts-april-price-pressures-reaccelerate-2024-05-03/</link>
-      <description><![CDATA[美国服务业3月份出现萎缩，而衡量企业投入价格的指标却出现上涨，这对通胀前景来说是一个令人担忧的信号。]]></description>
+      <description><![CDATA[美国服务业3月份出现萎缩，而企业为投入支付的价格指标则大幅上涨，这是通胀前景令人担忧的迹象。]]></description>
       <guid>https://www.reuters.com/markets/us/us-service-sector-contracts-april-price-pressures-reaccelerate-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:08:44 GMT</pubDate>
     </item>
@@ -51,7 +51,7 @@
       <title>美国 SEC 指控审计员 BF Borgers 欺诈，其客户包括特朗普媒体</title>
       <link>https://www.reuters.com/business/us-sec-charges-audit-firm-bf-borgers-with-fraud-affecting-more-than-1500-filings-2024-05-03/</link>
       <description><![CDATA[审计员 BF Borgers 及其所有者本杰明·博格斯 (Benjamin Borgers)，其客户包括特朗普媒体
- 美国证券交易委员会 (SEC) 周五表示，该公司被指控犯有“大规模欺诈”罪，影响了超过 1,500 份 SEC 备案文件。]]></description>
+ 美国证券交易委员会 (SEC) 周五表示，该公司被指控犯有“大规模欺诈”罪，影响了 1,500 多份 SEC 备案文件。]]></description>
       <guid>https://www.reuters.com/business/us-sec-charges-audit-firm-bf-borgers-with-fraud-affecting-more-than-1500-filings-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 13:56:43 GMT</pubDate>
     </item>
@@ -72,14 +72,14 @@
     <item>
       <title>由于劳动力市场降温，美国就业增幅为六个月以来最低</title>
       <link>https://www.reuters.com/markets/us/us-job-growth-slows-april-unemployment-rate-rises-39-2024-05-03/</link>
-      <description><![CDATA[美国4月份就业增长放缓幅度超过预期，年工资增幅近三年来首次跌破4.0%，但随着劳动力市场的发展，现在预计美联储将在9月之前开始降息可能还为时过早。市场依然相当紧张。]]></description>
+      <description><![CDATA[美国4月份就业增速放缓幅度超预期，年工资增幅近三年来首次跌破4.0%，但随着劳动力市场的发展，现在预计美联储将在9月份之前开始降息可能还为时尚早。市场依然相当紧张。]]></description>
       <guid>https://www.reuters.com/markets/us/us-job-growth-slows-april-unemployment-rate-rises-39-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 12:35:13 GMT</pubDate>
     </item>
     <item>
       <title>好时公司第一季度定价上涨超出预期</title>
       <link>https://www.reuters.com/business/retail-consumer/hershey-tops-first-quarter-estimates-higher-pricing-2024-05-03/</link>
-      <description><![CDATA[周五，好时公司第一季度的销售额和利润超过了华尔街的预期，受益于价格上涨和消费者对其巧克力和糖果的稳定需求。]]></description>
+      <description><![CDATA[好时公司周五第一季度的销售额和利润超出了华尔街的预期，受益于价格上涨以及消费者对其巧克力和糖果的稳定需求。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/hershey-tops-first-quarter-estimates-higher-pricing-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:22:21 GMT</pubDate>
     </item>
@@ -100,19 +100,19 @@
     <item>
       <title>液化天然气生产商切尼尔的出口量推动核心利润增长</title>
       <link>https://www.reuters.com/business/energy/cheniere-energy-reports-lower-lng-revenue-2024-05-03/</link>
-      <description><![CDATA[美国最大液化天然气生产商切尼尔能源公司周五公布的调整后核心利润超过预期，因为高于预期的出口量抵消了天然气价格的下跌。]]></description>
+      <description><![CDATA[美国最大的液化天然气生产商切尼尔能源公司周五超出了调整后的核心利润预期，原因是高于预期的出口量抵消了天然气价格下跌的影响。]]></description>
       <guid>https://www.reuters.com/business/energy/cheniere-energy-reports-lower-lng-revenue-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:09:24 GMT</pubDate>
     </item>
     <item>
       <title>伯克希尔准备传递接力棒，巴菲特重新登台</title>
       <link>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</link>
-      <description><![CDATA[周六，沃伦·巴菲特在奥马哈伯克希尔·哈撒韦公司年度股东大会上占据中心舞台，投资者正在评估他的预期继任者，并更好地了解该集团计划如何增长和部署现金。]]></description>
+      <description><![CDATA[周六，沃伦·巴菲特在奥马哈伯克希尔·哈撒韦公司年度股东大会上占据中心位置，投资者正在评估他的预期继任者，并更好地了解该集团计划如何增长和部署现金。]]></description>
       <guid>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>2021 年召回后，美国结束特斯拉后视摄像头调查</title>
+      <title>美国终止对特斯拉 2021 年召回事件后后视摄像头的调查</title>
       <link>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</link>
       <description><![CDATA[美国国家公路交通安全管理局周五表示，已结束对近 16 万辆特斯拉 Model X 和 Model S 车辆后视摄像头图像丢失的长期调查。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</guid>
@@ -121,7 +121,7 @@
     <item>
       <title>苹果在人工智能方面有着远大的抱负——而且成本比竞争对手更低</title>
       <link>https://www.reuters.com/technology/apple-aims-tell-an-ai-story-without-ai-bills-2024-05-03/</link>
-      <description><![CDATA[在过去一年半的大部分时间里，苹果首席执行官蒂姆·库克一直在回答华尔街分析师关于他的人工智能计划的问题，同时抱怨这家 iPhone 制造商没有人工智能故事可讲。]]></description>
+      <description><![CDATA[在过去一年半的大部分时间里，苹果首席执行官蒂姆库克都在回答华尔街分析师关于他的人工智能计划的问题，因为有人抱怨这家 iPhone 制造商没有人工智能故事可讲。]]></description>
       <guid>https://www.reuters.com/technology/apple-aims-tell-an-ai-story-without-ai-bills-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:02:00 GMT</pubDate>
     </item>
@@ -133,7 +133,7 @@
       <pubDate>Fri, 03 May 2024 09:00:49 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌捍卫应用商店，抵制 Epic Games 的重大改革</title>
+      <title>谷歌捍卫应用商店，对抗 Epic Games 的重大改革</title>
       <link>https://www.reuters.com/legal/google-defends-app-store-fighting-epic-games-bid-major-reforms-2024-05-03/</link>
       <description><![CDATA[谷歌已要求美国法官不要对 Alphabet 部门的应用商店 Play 进行彻底的改变，这些改变是由《堡垒之夜》制造商 Epic Games 在公司备受关注的反垄断斗争中提出的。]]></description>
       <guid>https://www.reuters.com/legal/google-defends-app-store-fighting-epic-games-bid-major-reforms-2024-05-03/</guid>
