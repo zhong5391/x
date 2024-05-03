@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 03 May 2024 06:30:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:43:24 GMT</lastBuildDate>
     <item>
       <title>美国国防部长称，菲律宾在南海造成的损害是“不负责任的行为”</title>
       <link>https://www.reuters.com/world/asia-pacific/damage-injury-philippines-south-china-sea-is-irresponsible-behaviour-says-us-2024-05-03/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>台湾称中国飞机越过中线，中国进行着陆演习</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-says-14-chinese-military-planes-crossed-straits-median-line-2024-05-03/</link>
-      <description><![CDATA[台湾国防部周五表示，发现中国军机再次侵入敏感的台湾海峡，中国报道称其海军已使用登陆艇进行了战斗演习。]]></description>
+      <description><![CDATA[台湾国防部周五表示，它发现中国军机再次侵入敏感的台湾海峡，中国报道称其海军已使用登陆艇进行了战斗演习。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-says-14-chinese-military-planes-crossed-straits-median-line-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 01:07:36 GMT</pubDate>
     </item>
@@ -48,14 +48,14 @@
       <pubDate>Fri, 03 May 2024 00:26:23 GMT</pubDate>
     </item>
     <item>
-      <title>法拉利推出两款全新 V12 跑车，吸引传统车主</title>
+      <title>法拉利推出两款全新 V12 赛车，吸引传统消费者</title>
       <link>https://www.reuters.com/business/autos-transportation/ferrari-appeals-traditional-base-with-two-new-v12-cars-2024-05-03/</link>
       <description><![CDATA[豪华跑车制造商法拉利推出了两款新车型：12Cilindri 和 12Cilindri Spider，吸引了其最强大的轰鸣汽油发动机的爱好者。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/ferrari-appeals-traditional-base-with-two-new-v12-cars-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 00:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>新西兰外长称中新关系复杂</title>
+      <title>新西兰外长称中国关系复杂</title>
       <link>https://www.reuters.com/world/new-zealand-foreign-minister-calls-china-relationship-complex-2024-05-02/</link>
       <description><![CDATA[新西兰外交部长周五称该国与中国的关系“复杂”，并指出台湾海峡两岸的强硬言论、香港的侵犯人权行为以及“加强对太平洋安全领域的参与”。]]></description>
       <guid>https://www.reuters.com/world/new-zealand-foreign-minister-calls-china-relationship-complex-2024-05-02/</guid>
@@ -83,9 +83,9 @@
       <pubDate>Thu, 02 May 2024 17:18:43 GMT</pubDate>
     </item>
     <item>
-      <title>俄罗斯称有关其与朝鲜存在军事关系的说法不准确</title>
+      <title>俄罗斯称有关其与朝鲜军事关系的说法不准确</title>
       <link>https://www.reuters.com/world/russia-calls-claim-about-its-alleged-military-ties-with-north-korea-inaccurate-2024-05-02/</link>
-      <description><![CDATA[俄罗斯周四表示，西方关于其与朝鲜进行军事合作的说法是不准确的，并表示其与平壤的关系既不针对第三国，也不威胁该地区的安全。]]></description>
+      <description><![CDATA[俄罗斯周四表示，西方声称俄罗斯与朝鲜进行军事合作是不准确的，并表示俄罗斯与平壤的关系并不针对第三国，也不会威胁该地区的安全。]]></description>
       <guid>https://www.reuters.com/world/russia-calls-claim-about-its-alleged-military-ties-with-north-korea-inaccurate-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 15:48:38 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Thu, 02 May 2024 13:13:58 GMT</pubDate>
     </item>
     <item>
-      <title>五一假期中国游客激增但消费者仍保持谨慎</title>
+      <title>五一假期中国旅游激增，但消费者仍保持警惕</title>
       <link>https://www.reuters.com/world/china/china-travel-surges-may-holiday-consumers-remain-wary-2024-05-02/</link>
       <description><![CDATA[周三，即重大公众假期的第一天，中国各地的铁路和汽车出行激增，因为消费者仍然专注于在充满挑战的经济中降低开支。]]></description>
       <guid>https://www.reuters.com/world/china/china-travel-surges-may-holiday-consumers-remain-wary-2024-05-02/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>Hugo Boss 股价因中国需求疲软和美国不确定性而下跌</title>
       <link>https://www.reuters.com/business/retail-consumer/hugo-boss-q1-operating-profit-beats-expectations-2024-05-02/</link>
-      <description><![CDATA[周四，Hugo Boss 股价下跌近 10%，触及 2022 年以来的最低水平，此前该高端服装品牌表示中国需求疲软，且对总统大选前的美国消费者信心感到担忧。]]></description>
+      <description><![CDATA[周四，Hugo Boss 股价暴跌近 10%，跌至 2022 年以来的最低水平，此前该高端服装品牌表示，中国需求减弱，且对总统大选前美国消费者信心的担忧。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/hugo-boss-q1-operating-profit-beats-expectations-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 05:46:31 GMT</pubDate>
     </item>
