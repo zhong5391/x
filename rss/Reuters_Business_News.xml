@@ -3,8 +3,15 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 04 May 2024 11:58:56 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Sat, 04 May 2024 12:33:43 GMT</lastBuildDate>
+    <item>
+      <title>年会开幕之际，伯克希尔股东齐聚奥马哈</title>
+      <link>https://www.reuters.com/markets/us/berkshire-shareholders-descend-omaha-annual-meeting-kicks-off-2024-05-04/</link>
+      <description><![CDATA[沃伦·巴菲特将在伯克希尔·哈撒韦公司周六举行的年会上占据中心舞台，股东们将前来观看这位著名投资者及其预期的继任者。]]></description>
+      <guid>https://www.reuters.com/markets/us/berkshire-shareholders-descend-omaha-annual-meeting-kicks-off-2024-05-04/</guid>
+      <pubDate>Sat, 04 May 2024 10:05:29 GMT</pubDate>
+    </item>
     <item>
       <title>美联储威廉姆斯表示2%的通胀目标“至关重要”</title>
       <link>https://www.reuters.com/markets/us/feds-williams-inflation-target-critical-achieving-stable-prices-2024-05-04/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>美联储古尔斯比：美国利率路径“点阵图”需要更多背景信息</title>
       <link>https://www.reuters.com/markets/us/feds-goolsbee-us-rate-path-dot-plot-needs-more-context-2024-05-03/</link>
-      <description><![CDATA[芝加哥联邦储备银行行长奥斯坦·古尔斯比周五表示，美联储应加强政策制定者利率路径观点的季度“点阵图”，将每个人的个人经济预期纳入其中。]]></description>
+      <description><![CDATA[芝加哥联储主席奥斯坦·古尔斯比周五表示，美联储应该加强其反映政策制定者利率路径观点的季度“点图”，将每个人的经济预期纳入其中。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-goolsbee-us-rate-path-dot-plot-needs-more-context-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 23:47:34 GMT</pubDate>
     </item>
@@ -29,7 +36,7 @@
     <item>
       <title>据《纽约时报》报道，派拉蒙将终止与 Skydance 的独家谈判</title>
       <link>https://www.reuters.com/business/media-telecom/paramount-will-let-exclusive-talks-with-skydance-lapse-nyt-reports-2024-05-03/</link>
-      <description><![CDATA[《纽约时报》周五援引知情人士的话称，派拉蒙全球将在未达成协议的情况下终止与天舞传媒的独家谈判。]]></description>
+      <description><![CDATA[《纽约时报》周五援引知情人士的话报道称，派拉蒙全球将结束与 Skydance Media 的独家谈判，但未达成协议。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/paramount-will-let-exclusive-talks-with-skydance-lapse-nyt-reports-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 22:16:55 GMT</pubDate>
     </item>
@@ -41,9 +48,9 @@
       <pubDate>Fri, 03 May 2024 21:21:43 GMT</pubDate>
     </item>
     <item>
-      <title>埃克森美孚将用 18-24 个月的时间全面完成对先锋公司的收购</title>
+      <title>埃克森美孚收购先锋公司需要 18 至 24 个月的时间才能全面推进</title>
       <link>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</link>
-      <description><![CDATA[埃克森美孚页岩油高管周五表示，该公司斥资 600 亿美元收购美国页岩油生产商先锋自然资源公司 (Pioneer Natural Resources) 后，需要 18 至 24 个月的时间才能充分实现生产协同效应。]]></description>
+      <description><![CDATA[埃克森美孚公司页岩油高管周五表示，该公司斥资 600 亿美元收购美国页岩油生产商先锋自然资源公司 (Pioneer Natural Resources) 后，需要 18 至 24 个月的时间才能充分实现生产协同效应。]]></description>
       <guid>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 20:29:38 GMT</pubDate>
     </item>
@@ -62,7 +69,7 @@
       <pubDate>Fri, 03 May 2024 18:35:37 GMT</pubDate>
     </item>
     <item>
-      <title>根据法庭和解协议，Aetna 将为 LGBTQ 人群提供生育治疗费用</title>
+      <title>Aetna 将根据法庭和解协议承担 LGBTQ 人群的生育治疗费用</title>
       <link>https://www.reuters.com/legal/aetna-will-cover-fertility-treatments-lgbtq-people-under-court-settlement-2024-05-03/</link>
       <description><![CDATA[根据周五提交给法院的文件，Aetna 将支付 200 万美元并更新其承保政策，以了结一项诉讼，该诉讼声称该健康保险公司要求 LGBTQ 受益人比异性恋者自掏腰包支付生育治疗费用。]]></description>
       <guid>https://www.reuters.com/legal/aetna-will-cover-fertility-treatments-lgbtq-people-under-court-settlement-2024-05-03/</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>独家：西南航空飞行员因波音交付延误而面临工作时间和工资减少</title>
       <link>https://www.reuters.com/business/aerospace-defense/southwest-pilots-face-reduced-hours-pay-due-boeing-delivery-delays-2024-05-03/</link>
-      <description><![CDATA[两位知情人士表示，西南航空计划减少飞行员的工作时间，实际上是每月支付工资，以应对因波音飞机交付延迟而导致的成本上升和人员过剩问题。]]></description>
+      <description><![CDATA[两位知情人士透露，西南航空计划为飞行员提供减少工作时间的福利，实际上是按月支付工资，以应对波音公司飞机交付延迟导致的成本上升和人员过剩的问题。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/southwest-pilots-face-reduced-hours-pay-due-boeing-delivery-delays-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:04:32 GMT</pubDate>
     </item>
@@ -85,21 +92,21 @@
     <item>
       <title>美国就业数据疲弱缓解美联储对经济再度过热的担忧</title>
       <link>https://www.reuters.com/markets/us/weaker-us-jobs-data-brings-some-relief-fed-2024-05-03/</link>
-      <description><![CDATA[因担心经济可能再次过热而受到打击的美联储官员周五松了口气，因为 4 月份就业数据显示工资增长明显降温，招聘步伐与 COVID-19 大流行之前的水平一致。]]></description>
+      <description><![CDATA[周五，因担心经济可能再次过热而受到打击的美联储官员松了口气，因为 4 月份就业数据显示工资增长明显降温，招聘步伐与 COVID-19 大流行之前的水平一致。]]></description>
       <guid>https://www.reuters.com/markets/us/weaker-us-jobs-data-brings-some-relief-fed-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:51:03 GMT</pubDate>
     </item>
     <item>
-      <title>汽车制造商赢得了在电动汽车税收抵免中使用中国石墨的延期</title>
+      <title>汽车制造商获准延长使用中国石墨作为电动汽车税收抵免的期限</title>
       <link>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</link>
       <description><![CDATA[美国财政部周五为汽车制造商提供了对来自中国的一些重要微量矿物（例如石墨）的电动汽车税收抵免的电池矿物要求的额外灵活性。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:12:23 GMT</pubDate>
     </item>
     <item>
-      <title>苹果股价上涨，创纪录的回购和乐观的预测吸引了投资者</title>
+      <title>创纪录的回购和乐观的预测吸引投资者，苹果股价上涨</title>
       <link>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</link>
-      <description><![CDATA[苹果股价周五上涨 7%，这家 iPhone 制造商创纪录的股票回购计划和销售增长的承诺吸引了因担心中国需求疲软和竞争加剧而回避该股的投资者。]]></description>
+      <description><![CDATA[由于这家 iPhone 制造商创纪录的股票回购计划和销售增长承诺，苹果股价周五上涨 7％，而之前由于担心需求疲软和中国市场竞争加剧而抛售该股票的投资者又重新回归。]]></description>
       <guid>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:00:45 GMT</pubDate>
     </item>
@@ -113,23 +120,16 @@
     <item>
       <title>法官权衡具有里程碑意义的美国反垄断指控，谷歌审判结束</title>
       <link>https://www.reuters.com/technology/google-faces-second-day-closing-arguments-us-antitrust-trial-2024-05-03/</link>
-      <description><![CDATA[周五，谷歌和美国司法部结束了对 Alphabet 子公司非法垄断网络搜索和相关广告的指控的结案辩论，政府认为此案可能会影响“互联网的未来”。]]></description>
+      <description><![CDATA[谷歌和美国司法部周五结束了关于 Alphabet 部门非法主导网络搜索和相关广告的指控的结案陈词，政府认为此案可能塑造“互联网的未来”。]]></description>
       <guid>https://www.reuters.com/technology/google-faces-second-day-closing-arguments-us-antitrust-trial-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:07:02 GMT</pubDate>
     </item>
     <item>
       <title>伯克希尔准备传递接力棒，巴菲特重新登台</title>
       <link>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</link>
-      <description><![CDATA[沃伦·巴菲特 (Warren Buffett) 成为伯克希尔·哈撒韦公司周六在奥马哈举行的年度股东大会的焦点，投资者将评估他的预期继任者，并更好地了解该企业集团的增长和现金部署计划。]]></description>
+      <description><![CDATA[周六，沃伦·巴菲特在奥马哈伯克希尔·哈撒韦公司年度股东大会上占据中心舞台，投资者正在评估他的预期继任者，并更好地了解该集团计划如何增长和部署现金。]]></description>
       <guid>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>2021 年召回后，美国结束特斯拉后视摄像头调查</title>
-      <link>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</link>
-      <description><![CDATA[美国国家公路交通安全管理局周五表示，已结束对近 16 万辆特斯拉 Model X 和 Model S 车辆后视摄像头图像丢失的长期调查。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 09:40:26 GMT</pubDate>
     </item>
     <item>
       <title>派拉蒙将终止与 Skydance 的独家谈判</title>
