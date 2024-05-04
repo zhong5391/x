@@ -3,8 +3,8 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 04 May 2024 11:14:24 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Sat, 04 May 2024 11:28:40 GMT</lastBuildDate>
     <item>
       <title>美联储威廉姆斯表示2%的通胀目标“至关重要”</title>
       <link>https://www.reuters.com/markets/us/feds-williams-inflation-target-critical-achieving-stable-prices-2024-05-04/</link>
@@ -13,7 +13,7 @@
       <pubDate>Sat, 04 May 2024 00:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>美联储古尔斯比：美国利率路径“点阵图”需要更多背景信息</title>
+      <title>美联储官员古尔斯比：美国利率路径“点图”需要更多背景信息</title>
       <link>https://www.reuters.com/markets/us/feds-goolsbee-us-rate-path-dot-plot-needs-more-context-2024-05-03/</link>
       <description><![CDATA[芝加哥联邦储备银行行长奥斯坦·古尔斯比周五表示，美联储应加强政策制定者利率路径观点的季度“点阵图”，将每个人的个人经济预期纳入其中。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-goolsbee-us-rate-path-dot-plot-needs-more-context-2024-05-03/</guid>
@@ -34,7 +34,7 @@
       <pubDate>Fri, 03 May 2024 22:16:55 GMT</pubDate>
     </item>
     <item>
-      <title>中国 Zeekr 在美国 IPO 寻求高达 51.3 亿美元的估值</title>
+      <title>中国 Zeekr 在美国 IPO 中寻求高达 51.3 亿美元的估值</title>
       <link>https://www.reuters.com/markets/deals/chinas-zeekr-plans-raise-up-368-mln-us-ipo-2024-05-03/</link>
       <description><![CDATA[电动汽车制造商Zeekr智能科技控股公司周五表示，其在美国首次公开募股(IPO)的目标估值高达51.3亿美元，这是两年多来中国公司首次大规模上市。]]></description>
       <guid>https://www.reuters.com/markets/deals/chinas-zeekr-plans-raise-up-368-mln-us-ipo-2024-05-03/</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>埃克森美孚收购先锋公司需要 18 至 24 个月的时间才能全面推进</title>
       <link>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</link>
-      <description><![CDATA[埃克森美孚页岩油高管周五表示，该公司斥资 600 亿美元收购美国页岩油生产商先锋自然资源公司 (Pioneer Natural Resources) 后，需要 18 至 24 个月的时间才能充分实现生产协同效应。]]></description>
+      <description><![CDATA[埃克森美孚公司页岩油高管周五表示，该公司斥资 600 亿美元收购美国页岩油生产商先锋自然资源公司 (Pioneer Natural Resources) 后，需要 18 至 24 个月的时间才能充分实现生产协同效应。]]></description>
       <guid>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 20:29:38 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Fri, 03 May 2024 18:38:40 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街本周展望：美国小型股因利率上升而陷入困境</title>
+      <title>华尔街未来一周：由于利率上升造成影响，美国小盘股陷入困境</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</link>
       <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上阴影，这些企业今年的表现落后于大盘。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</guid>
@@ -83,9 +83,9 @@
       <pubDate>Fri, 03 May 2024 16:43:33 GMT</pubDate>
     </item>
     <item>
-      <title>美国就业数据疲弱缓解美联储对经济再度过热的担忧</title>
+      <title>美国就业数据走弱缓解美联储对经济再度过热的担忧</title>
       <link>https://www.reuters.com/markets/us/weaker-us-jobs-data-brings-some-relief-fed-2024-05-03/</link>
-      <description><![CDATA[因担心经济可能再次过热而受到打击的美联储官员周五松了口气，因为 4 月份就业数据显示工资增长明显降温，招聘步伐与 COVID-19 大流行之前的水平一致。]]></description>
+      <description><![CDATA[周五，因担心经济可能再次过热而受到打击的美联储官员松了口气，因为 4 月份就业数据显示工资增长明显降温，招聘步伐与 COVID-19 大流行之前的水平一致。]]></description>
       <guid>https://www.reuters.com/markets/us/weaker-us-jobs-data-brings-some-relief-fed-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:51:03 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>苹果股价上涨，创纪录的回购和乐观的预测吸引了投资者</title>
       <link>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</link>
-      <description><![CDATA[苹果股价周五上涨 7%，这家 iPhone 制造商创纪录的股票回购计划和销售增长的承诺吸引了因担心中国需求疲软和竞争加剧而回避该股的投资者。]]></description>
+      <description><![CDATA[由于这家 iPhone 制造商创纪录的股票回购计划和销售增长承诺，苹果股价周五上涨 7％，而之前由于担心需求疲软和中国市场竞争加剧而抛售该股票的投资者又重新回归。]]></description>
       <guid>https://www.reuters.com/technology/apple-shares-jump-record-buyback-sales-growth-forecast-lure-investors-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:00:45 GMT</pubDate>
     </item>
@@ -120,7 +120,7 @@
     <item>
       <title>伯克希尔准备传递接力棒，巴菲特重新登台</title>
       <link>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</link>
-      <description><![CDATA[周六，沃伦·巴菲特在奥马哈伯克希尔·哈撒韦公司年度股东大会上占据中心位置，投资者正在评估他的预期继任者，并更好地了解该集团计划如何增长和部署现金。]]></description>
+      <description><![CDATA[周六，沃伦·巴菲特在奥马哈伯克希尔·哈撒韦公司年度股东大会上占据中心舞台，投资者正在评估他的预期继任者，并更好地了解该集团计划如何增长和部署现金。]]></description>
       <guid>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:05:26 GMT</pubDate>
     </item>
