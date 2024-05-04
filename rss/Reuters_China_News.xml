@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
-    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sat, 04 May 2024 08:27:24 GMT</lastBuildDate>
+    <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何重大新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sat, 04 May 2024 08:53:19 GMT</lastBuildDate>
+    <item>
+      <title>印度外交部长驳斥拜登的“仇外”言论</title>
+      <link>https://www.reuters.com/world/india/indias-foreign-minister-rejects-bidens-xenophobia-comment-2024-05-04/</link>
+      <description><![CDATA[据《经济时报》周六报道，印度外交部长苏杰生驳斥了美国总统乔·拜登有关“仇外心理”阻碍印度经济增长的言论。]]></description>
+      <guid>https://www.reuters.com/world/india/indias-foreign-minister-rejects-bidens-xenophobia-comment-2024-05-04/</guid>
+      <pubDate>Sat, 04 May 2024 05:34:29 GMT</pubDate>
+    </item>
     <item>
       <title>中国 Zeekr 在美国 IPO 寻求高达 51.3 亿美元的估值</title>
       <link>https://www.reuters.com/markets/deals/chinas-zeekr-plans-raise-up-368-mln-us-ipo-2024-05-03/</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 03 May 2024 20:56:28 GMT</pubDate>
     </item>
     <item>
-      <title>流亡中国商人的幕僚长在美国承认欺诈罪</title>
+      <title>流亡中国商人幕僚长在美国承认欺诈罪</title>
       <link>https://www.reuters.com/world/us/exiled-chinese-businessmans-chief-of-staff-pleads-guilty-us-fraud-2024-05-03/</link>
       <description><![CDATA[流亡中国商人郭文贵的幕僚长周五承认与郭文贵合谋实施一项大规模计划，诈骗数千名投资者超过 10 亿美元。]]></description>
       <guid>https://www.reuters.com/world/us/exiled-chinese-businessmans-chief-of-staff-pleads-guilty-us-fraud-2024-05-03/</guid>
@@ -50,14 +57,14 @@
     <item>
       <title>习近平访问之前，中国在法国电动汽车市场的份额下滑</title>
       <link>https://www.reuters.com/business/autos-transportation/chinese-share-french-ev-market-slumps-after-incentives-curbed-2024-05-03/</link>
-      <description><![CDATA[行业数据显示，法国政府减缓中国制造电动汽车涌入的努力正在取得成果，这突显了中国国家主席下周访问时最敏感的贸易问题之一。]]></description>
+      <description><![CDATA[行业数据显示，法国政府为减缓中国产电动汽车涌入所做的努力正在取得成效，这也凸显出中国国家主席下周访法时最敏感的贸易问题之一。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinese-share-french-ev-market-slumps-after-incentives-curbed-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 12:24:31 GMT</pubDate>
     </item>
     <item>
       <title>欧盟称三家中国电动汽车制造商提供的信息不足</title>
       <link>https://www.reuters.com/business/autos-transportation/eu-says-information-three-chinese-ev-makers-insufficient-2024-05-03/</link>
-      <description><![CDATA[据两位知情人士透露，欧盟委员会已警告三家中国电动汽车制造商，称他们没有为其反补贴调查提供足够的信息。]]></description>
+      <description><![CDATA[据两位知情人士透露，欧盟委员会已警告三家中国电动汽车制造商，称它们没有为反补贴调查提供足够的信息。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/eu-says-information-three-chinese-ev-makers-insufficient-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 11:04:49 GMT</pubDate>
     </item>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 03 May 2024 10:23:25 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：乔布斯测试美联储的救济措施、苹果回购的冲击</title>
+      <title>早间竞价：乔布斯测试美联储的救济措施，苹果回购的冲击</title>
       <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</link>
       <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
       <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</guid>
@@ -90,9 +97,9 @@
       <pubDate>Fri, 03 May 2024 09:40:31 GMT</pubDate>
     </item>
     <item>
-      <title>美国国防部长称在南海对菲律宾造成损害是“不负责任的行为”</title>
+      <title>美国国防部长称，菲律宾在南海造成的损害是“不负责任的行为”</title>
       <link>https://www.reuters.com/world/asia-pacific/damage-injury-philippines-south-china-sea-is-irresponsible-behaviour-says-us-2024-05-03/</link>
-      <description><![CDATA[美国国防部长劳埃德·奥斯汀周四在谈到涉及中国的最新冲突时表示，在南海损坏菲律宾船只并造成船员受伤是无视国际法的“不负责任的行为”。]]></description>
+      <description><![CDATA[美国国防部长劳埃德·奥斯汀周四在谈到涉及中国的最新冲突时表示，在南海损坏菲律宾船只并造成船员受伤是无视国际法的“不负责任行为”。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/damage-injury-philippines-south-china-sea-is-irresponsible-behaviour-says-us-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 03:08:46 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>新西兰外长称中国关系复杂</title>
       <link>https://www.reuters.com/world/new-zealand-foreign-minister-calls-china-relationship-complex-2024-05-02/</link>
-      <description><![CDATA[新西兰外交部长周五表示，新西兰与中国的关系“复杂”，并指出台海两岸的言辞愈发强硬，香港出现侵犯人权行为，以及“在太平洋安全领域的参与度不断加强”。]]></description>
+      <description><![CDATA[新西兰外交部长周五称该国与中国的关系“复杂”，并指出台湾海峡两岸的强硬言论、香港的侵犯人权行为以及“加强对太平洋安全领域的参与”。]]></description>
       <guid>https://www.reuters.com/world/new-zealand-foreign-minister-calls-china-relationship-complex-2024-05-02/</guid>
       <pubDate>Thu, 02 May 2024 21:57:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘竞价：市场喜爱美联储，日元喜爱日本央行</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-02/</link>
-      <description><![CDATA[展望未来亚洲市场的前景。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-02/</guid>
-      <pubDate>Thu, 02 May 2024 21:47:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
