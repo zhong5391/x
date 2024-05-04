@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 04 May 2024 13:19:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 13:32:36 GMT</lastBuildDate>
     <item>
       <title>年会开幕之际，伯克希尔股东齐聚奥马哈</title>
       <link>https://www.reuters.com/markets/us/berkshire-shareholders-descend-omaha-annual-meeting-kicks-off-2024-05-04/</link>
@@ -13,7 +13,7 @@
       <pubDate>Sat, 04 May 2024 10:05:29 GMT</pubDate>
     </item>
     <item>
-      <title>美联储威廉姆斯称2%通胀目标“至关重要”</title>
+      <title>美联储威廉姆斯表示2%的通胀目标“至关重要”</title>
       <link>https://www.reuters.com/markets/us/feds-williams-inflation-target-critical-achieving-stable-prices-2024-05-04/</link>
       <description><![CDATA[纽约联邦储备银行行长约翰·威廉姆斯周五表示，美联储2%的通胀目标是实现物价稳定的关键，也是确保经济繁荣的关键。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-williams-inflation-target-critical-achieving-stable-prices-2024-05-04/</guid>
@@ -22,7 +22,7 @@
     <item>
       <title>美联储古尔斯比：美国利率路径“点阵图”需要更多背景信息</title>
       <link>https://www.reuters.com/markets/us/feds-goolsbee-us-rate-path-dot-plot-needs-more-context-2024-05-03/</link>
-      <description><![CDATA[芝加哥联邦储备银行行长奥斯坦·古尔斯比周五表示，美联储应加强政策制定者利率路径观点的季度“点阵图”，将每个人的个人经济预期纳入其中。]]></description>
+      <description><![CDATA[芝加哥联储主席奥斯坦·古尔斯比周五表示，美联储应该加强其反映政策制定者利率路径观点的季度“点图”，将每个人的经济预期纳入其中。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-goolsbee-us-rate-path-dot-plot-needs-more-context-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 23:47:34 GMT</pubDate>
     </item>
@@ -50,21 +50,21 @@
     <item>
       <title>埃克森美孚收购先锋公司需要 18 至 24 个月的时间才能全面推进</title>
       <link>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</link>
-      <description><![CDATA[埃克森美孚公司页岩油高管周五表示，该公司斥资 600 亿美元收购美国页岩油生产商先锋自然资源公司 (Pioneer Natural Resources) 后，需要 18 至 24 个月的时间才能充分实现生产协同效应。]]></description>
+      <description><![CDATA[埃克森美孚公司页岩油高管周五表示，埃克森美孚将需要 18 到 24 个月的时间才能实现其以 600 亿美元收购美国页岩油生产商先锋自然资源公司的全部生产协同效应。]]></description>
       <guid>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 20:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大4月服务业PMI升至10个月高点</title>
+      <title>加拿大4月服务业PMI升至10个月高位</title>
       <link>https://www.reuters.com/markets/canada-services-pmi-climbs-10-month-high-april-2024-05-03/</link>
       <description><![CDATA[标准普尔全球加拿大服务业 PMI 数据周五显示，由于企业实现了一些意外的销售并增加了工人，加拿大 4 月份服务业收缩速度放缓，但工资上涨导致通胀压力升温。]]></description>
       <guid>https://www.reuters.com/markets/canada-services-pmi-climbs-10-month-high-april-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:38:40 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街未来一周：由于利率上升造成影响，美国小盘股陷入困境</title>
+      <title>华尔街本周展望：美国小型股因利率上升而陷入困境</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</link>
-      <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上阴影，这些企业今年的表现落后于大盘。]]></description>
+      <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上了阴影，这些企业今年的表现落后于大盘。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:35:37 GMT</pubDate>
     </item>
@@ -78,7 +78,7 @@
     <item>
       <title>独家：西南航空飞行员因波音交付延误而面临工作时间和工资减少</title>
       <link>https://www.reuters.com/business/aerospace-defense/southwest-pilots-face-reduced-hours-pay-due-boeing-delivery-delays-2024-05-03/</link>
-      <description><![CDATA[两位知情人士表示，西南航空计划减少飞行员的工作时间，实际上是每月支付工资，以应对因波音飞机交付延迟而导致的成本上升和人员过剩问题。]]></description>
+      <description><![CDATA[两名知情人士表示，西南航空计划减少飞行员的工作时间，实际上是每月支付工资，以应对因波音飞机交付延误而导致的成本上升和人员过剩问题。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/southwest-pilots-face-reduced-hours-pay-due-boeing-delivery-delays-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:04:32 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>华尔街收盘大幅走高，就业数据强化降息理由</title>
       <link>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</link>
-      <description><![CDATA[由于就业报告弱于预期，增强了美联储降息的理由，同时也提供了美国经济韧性的证据，华尔街股市周五收盘上涨。]]></description>
+      <description><![CDATA[华尔街股市周五收盘上涨，原因是一份低于预期的就业报告支持了美联储降息的理由，同时也提供了美国经济韧性的证据。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:09:35 GMT</pubDate>
     </item>
@@ -127,14 +127,14 @@
     <item>
       <title>伯克希尔准备传递接力棒，巴菲特重新登台</title>
       <link>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</link>
-      <description><![CDATA[周六，沃伦·巴菲特在奥马哈伯克希尔·哈撒韦公司年度股东大会上占据中心舞台，投资者正在评估他的预期继任者，并更好地了解该集团计划如何增长和部署现金。]]></description>
+      <description><![CDATA[沃伦·巴菲特 (Warren Buffett) 成为伯克希尔·哈撒韦公司周六在奥马哈举行的年度股东大会的焦点，投资者将评估他的预期继任者，并更好地了解该企业集团的增长和现金部署计划。]]></description>
       <guid>https://www.reuters.com/business/berkshire-hathaway-meeting-warren-buffett-field-questions-growth-dividend-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:05:26 GMT</pubDate>
     </item>
     <item>
       <title>派拉蒙将终止与 Skydance 的独家谈判</title>
       <link>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</link>
-      <description><![CDATA[据一位知情人士透露，派拉蒙全球公司将在未达成协议的情况下结束与 Skydance Media 的独家谈判，从而允许其评估对《碟中谍》和《海绵宝宝》拍摄地的竞争对手的竞标。]]></description>
+      <description><![CDATA[据一位知情人士透露，派拉蒙环球公司将在未达成协议的情况下结束与 Skydance Media 的独家谈判，从而允许其评估对《碟中谍》和《海绵宝宝》拍摄地的竞争对手的竞标。]]></description>
       <guid>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:00:49 GMT</pubDate>
     </item>
