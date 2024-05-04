@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 04 May 2024 09:48:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:06:44 GMT</lastBuildDate>
     <item>
       <title>美联储威廉姆斯表示2%的通胀目标“至关重要”</title>
       <link>https://www.reuters.com/markets/us/feds-williams-inflation-target-critical-achieving-stable-prices-2024-05-04/</link>
@@ -13,7 +13,7 @@
       <pubDate>Sat, 04 May 2024 00:17:09 GMT</pubDate>
     </item>
     <item>
-      <title>美联储古尔斯比：美国利率路径“点阵图”需要更多背景信息</title>
+      <title>美联储官员古尔斯比：美国利率路径“点图”需要更多背景信息</title>
       <link>https://www.reuters.com/markets/us/feds-goolsbee-us-rate-path-dot-plot-needs-more-context-2024-05-03/</link>
       <description><![CDATA[芝加哥联邦储备银行行长奥斯坦·古尔斯比周五表示，美联储应加强政策制定者利率路径观点的季度“点阵图”，将每个人的个人经济预期纳入其中。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-goolsbee-us-rate-path-dot-plot-needs-more-context-2024-05-03/</guid>
@@ -22,14 +22,14 @@
     <item>
       <title>监管文件显示，Reddit 首席执行官实益拥有 61.5% 的 A 类股</title>
       <link>https://www.reuters.com/technology/reddit-ceo-beneficially-owns-615-class-shares-regulatory-filing-shows-2024-05-03/</link>
-      <description><![CDATA[周五的一份监管文件显示，Reddit 联合创始人兼首席执行官史蒂夫·霍夫曼 (Steve Huffman) 持有这家社交媒体公司 6240 万股 A 类股票。]]></description>
+      <description><![CDATA[周五的一份监管文件显示，Reddit 联合创始人兼首席执行官史蒂夫·霍夫曼 (Steve Huffman) 实益拥有这家社交媒体公司 6240 万股 A 类股票。]]></description>
       <guid>https://www.reuters.com/technology/reddit-ceo-beneficially-owns-615-class-shares-regulatory-filing-shows-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 22:18:50 GMT</pubDate>
     </item>
     <item>
       <title>据《纽约时报》报道，派拉蒙将终止与 Skydance 的独家谈判</title>
       <link>https://www.reuters.com/business/media-telecom/paramount-will-let-exclusive-talks-with-skydance-lapse-nyt-reports-2024-05-03/</link>
-      <description><![CDATA[《纽约时报》周五援引知情人士的话称，派拉蒙全球将在未达成协议的情况下终止与天舞传媒的独家谈判。]]></description>
+      <description><![CDATA[《纽约时报》周五援引知情人士的话报道称，派拉蒙全球将结束与 Skydance Media 的独家谈判，但未达成协议。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/paramount-will-let-exclusive-talks-with-skydance-lapse-nyt-reports-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 22:16:55 GMT</pubDate>
     </item>
@@ -43,12 +43,12 @@
     <item>
       <title>埃克森美孚收购先锋公司需要 18 至 24 个月的时间才能全面推进</title>
       <link>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</link>
-      <description><![CDATA[埃克森美孚公司页岩油高管周五表示，埃克森美孚将需要 18 到 24 个月的时间才能实现其以 600 亿美元收购美国页岩油生产商先锋自然资源公司的全部生产协同效应。]]></description>
+      <description><![CDATA[埃克森美孚公司页岩油高管周五表示，该公司斥资 600 亿美元收购美国页岩油生产商先锋自然资源公司 (Pioneer Natural Resources) 后，需要 18 至 24 个月的时间才能充分实现生产协同效应。]]></description>
       <guid>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 20:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大4月服务业PMI升至10个月高位</title>
+      <title>加拿大4月服务业PMI升至10个月高点</title>
       <link>https://www.reuters.com/markets/canada-services-pmi-climbs-10-month-high-april-2024-05-03/</link>
       <description><![CDATA[标准普尔全球加拿大服务业 PMI 数据周五显示，由于企业实现了一些意外的销售并增加了工人，加拿大 4 月份服务业收缩速度放缓，但工资上涨导致通胀压力升温。]]></description>
       <guid>https://www.reuters.com/markets/canada-services-pmi-climbs-10-month-high-april-2024-05-03/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>华尔街未来一周：由于利率上升造成影响，美国小盘股陷入困境</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</link>
-      <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上了阴影，这些企业今年的表现落后于大盘。]]></description>
+      <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上阴影，这些企业今年的表现落后于大盘。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:35:37 GMT</pubDate>
     </item>
@@ -69,9 +69,9 @@
       <pubDate>Fri, 03 May 2024 18:22:37 GMT</pubDate>
     </item>
     <item>
-      <title>独家：波音交付延迟导致西南航空飞行员工作时间减少、工资减少</title>
+      <title>独家：西南航空飞行员因波音交付延误而面临工作时间和工资减少</title>
       <link>https://www.reuters.com/business/aerospace-defense/southwest-pilots-face-reduced-hours-pay-due-boeing-delivery-delays-2024-05-03/</link>
-      <description><![CDATA[两位知情人士透露，西南航空计划为飞行员提供减少工作时间的福利，实际上是按月支付工资，以应对波音公司飞机交付延迟导致的成本上升和人员过剩的问题。]]></description>
+      <description><![CDATA[两位知情人士表示，西南航空计划减少飞行员的工作时间，实际上是每月支付工资，以应对因波音飞机交付延迟而导致的成本上升和人员过剩问题。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/southwest-pilots-face-reduced-hours-pay-due-boeing-delivery-delays-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:04:32 GMT</pubDate>
     </item>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 03 May 2024 14:51:03 GMT</pubDate>
     </item>
     <item>
-      <title>汽车制造商赢得了在电动汽车税收抵免中使用中国石墨的延期</title>
+      <title>汽车制造商获准延长使用中国石墨作为电动汽车税收抵免的期限</title>
       <link>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</link>
       <description><![CDATA[美国财政部周五为汽车制造商提供了对来自中国的一些重要微量矿物（例如石墨）的电动汽车税收抵免的电池矿物要求的额外灵活性。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</guid>
@@ -113,7 +113,7 @@
     <item>
       <title>法官权衡具有里程碑意义的美国反垄断指控，谷歌审判结束</title>
       <link>https://www.reuters.com/technology/google-faces-second-day-closing-arguments-us-antitrust-trial-2024-05-03/</link>
-      <description><![CDATA[谷歌和美国司法部周五结束了关于 Alphabet 部门非法主导网络搜索和相关广告的指控的结案陈词，政府认为此案可能塑造“互联网的未来”。]]></description>
+      <description><![CDATA[周五，谷歌和美国司法部结束了对 Alphabet 子公司非法垄断网络搜索和相关广告的指控的结案辩论，政府认为此案可能会影响“互联网的未来”。]]></description>
       <guid>https://www.reuters.com/technology/google-faces-second-day-closing-arguments-us-antitrust-trial-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 10:07:02 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>派拉蒙将终止与 Skydance 的独家谈判</title>
       <link>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</link>
-      <description><![CDATA[据一位知情人士透露，派拉蒙环球公司将在未达成协议的情况下结束与 Skydance Media 的独家谈判，从而允许其评估对《碟中谍》和《海绵宝宝》拍摄地的竞争对手的竞标。]]></description>
+      <description><![CDATA[据一位知情人士透露，派拉蒙全球公司将在未达成协议的情况下结束与 Skydance Media 的独家谈判，从而允许其评估对《碟中谍》和《海绵宝宝》拍摄地的竞争对手的竞标。]]></description>
       <guid>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:00:49 GMT</pubDate>
     </item>
