@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 04 May 2024 08:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 09:19:08 GMT</lastBuildDate>
     <item>
       <title>美联储威廉姆斯表示2%的通胀目标“至关重要”</title>
       <link>https://www.reuters.com/markets/us/feds-williams-inflation-target-critical-achieving-stable-prices-2024-05-04/</link>
-      <description><![CDATA[纽约联邦储备银行行长约翰威廉姆斯周五表示，美联储2%的通胀目标是实现价格稳定的关键，对确保经济繁荣至关重要。]]></description>
+      <description><![CDATA[纽约联邦储备银行行长约翰·威廉姆斯周五表示，美联储2%的通胀目标是实现物价稳定的关键，也是确保经济繁荣的关键。]]></description>
       <guid>https://www.reuters.com/markets/us/feds-williams-inflation-target-critical-achieving-stable-prices-2024-05-04/</guid>
       <pubDate>Sat, 04 May 2024 00:17:09 GMT</pubDate>
     </item>
@@ -43,12 +43,12 @@
     <item>
       <title>埃克森美孚收购先锋公司需要 18 至 24 个月的时间才能全面推进</title>
       <link>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</link>
-      <description><![CDATA[埃克森美孚公司页岩油高管周五表示，该公司斥资 600 亿美元收购美国页岩油生产商先锋自然资源公司 (Pioneer Natural Resources) 后，需要 18 至 24 个月的时间才能充分实现生产协同效应。]]></description>
+      <description><![CDATA[埃克森美孚页岩油高管周五表示，该公司斥资 600 亿美元收购美国页岩油生产商先锋自然资源公司 (Pioneer Natural Resources) 后，需要 18 至 24 个月的时间才能充分实现生产协同效应。]]></description>
       <guid>https://www.reuters.com/business/energy/exxon-take-up-two-years-hit-stride-with-pioneer-purchase-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 20:29:38 GMT</pubDate>
     </item>
     <item>
-      <title>加拿大4月服务业PMI升至10个月高点</title>
+      <title>加拿大4月服务业PMI升至10个月高位</title>
       <link>https://www.reuters.com/markets/canada-services-pmi-climbs-10-month-high-april-2024-05-03/</link>
       <description><![CDATA[标准普尔全球加拿大服务业 PMI 数据周五显示，由于企业实现了一些意外的销售并增加了工人，加拿大 4 月份服务业收缩速度放缓，但工资上涨导致通胀压力升温。]]></description>
       <guid>https://www.reuters.com/markets/canada-services-pmi-climbs-10-month-high-april-2024-05-03/</guid>
@@ -57,7 +57,7 @@
     <item>
       <title>华尔街未来一周：由于利率上升造成影响，美国小盘股陷入困境</title>
       <link>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</link>
-      <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上阴影，这些企业今年的表现落后于大盘。]]></description>
+      <description><![CDATA[随着美联储与通胀作斗争，利率保持高位的前景进一步给美国小型企业的股票前景蒙上了阴影，这些企业今年的表现落后于大盘。]]></description>
       <guid>https://www.reuters.com/markets/us/wall-st-week-ahead-us-small-caps-struggle-elevated-interest-rates-take-toll-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:35:37 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>独家：西南航空飞行员因波音交付延误而面临工作时间和工资减少</title>
       <link>https://www.reuters.com/business/aerospace-defense/southwest-pilots-face-reduced-hours-pay-due-boeing-delivery-delays-2024-05-03/</link>
-      <description><![CDATA[两位知情人士表示，西南航空计划减少飞行员的工作时间，实际上是每月支付工资，以应对因波音飞机交付延迟而导致的成本上升和人员过剩问题。]]></description>
+      <description><![CDATA[两名知情人士表示，西南航空计划减少飞行员的工作时间，实际上是每月支付工资，以应对因波音飞机交付延误而导致的成本上升和人员过剩问题。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/southwest-pilots-face-reduced-hours-pay-due-boeing-delivery-delays-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 18:04:32 GMT</pubDate>
     </item>
@@ -90,9 +90,9 @@
       <pubDate>Fri, 03 May 2024 14:51:03 GMT</pubDate>
     </item>
     <item>
-      <title>汽车制造商赢得了在电动汽车税收抵免中使用中国石墨的延期</title>
+      <title>汽车制造商获准延长使用中国石墨作为电动汽车税收抵免的期限</title>
       <link>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</link>
-      <description><![CDATA[美国财政部周五向汽车制造商提供了额外的电池矿物质要求灵活性，以便对来自中国的一些关键微量矿物质（例如石墨）进行电动汽车税收抵免。]]></description>
+      <description><![CDATA[美国财政部周五为汽车制造商提供了对来自中国的一些重要微量矿物（例如石墨）的电动汽车税收抵免的电池矿物要求的额外灵活性。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 14:12:23 GMT</pubDate>
     </item>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 03 May 2024 11:00:45 GMT</pubDate>
     </item>
     <item>
-      <title>华尔街大幅收高，就业数据增强降息理由</title>
+      <title>华尔街收盘大幅走高，就业数据强化降息理由</title>
       <link>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</link>
       <description><![CDATA[华尔街股市周五收盘上涨，原因是一份低于预期的就业报告支持了美联储降息的理由，同时也提供了美国经济韧性的证据。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-rise-apple-amgen-boost-jobs-data-tap-2024-05-03/</guid>
@@ -125,7 +125,7 @@
       <pubDate>Fri, 03 May 2024 10:05:26 GMT</pubDate>
     </item>
     <item>
-      <title>2021 年召回后，美国结束特斯拉后视摄像头调查</title>
+      <title>美国终止对特斯拉 2021 年召回事件后后视摄像头的调查</title>
       <link>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</link>
       <description><![CDATA[美国国家公路交通安全管理局周五表示，已结束对近 16 万辆特斯拉 Model X 和 Model S 车辆后视摄像头图像丢失的长期调查。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/us-ends-probe-into-tesla-model-x-s-over-loss-rear-view-camera-2024-05-03/</guid>
@@ -134,7 +134,7 @@
     <item>
       <title>派拉蒙将终止与 Skydance 的独家谈判</title>
       <link>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</link>
-      <description><![CDATA[据一位知情人士透露，派拉蒙全球公司将在未达成协议的情况下结束与 Skydance Media 的独家谈判，从而允许其评估对《碟中谍》和《海绵宝宝》拍摄地的竞争对手的竞标。]]></description>
+      <description><![CDATA[据一位知情人士透露，派拉蒙环球公司将在未达成协议的情况下结束与 Skydance Media 的独家谈判，从而允许其评估对《碟中谍》和《海绵宝宝》拍摄地的竞争对手的竞标。]]></description>
       <guid>https://www.reuters.com/markets/deals/sony-apollo-submit-26-bln-paramount-offer-wsj-reports-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 09:00:49 GMT</pubDate>
     </item>
