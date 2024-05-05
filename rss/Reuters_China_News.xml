@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻 |路透社</title>
+    <title>中国新闻 | 今日头条 | 路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 05 May 2024 18:40:29 GMT</lastBuildDate>
-    <item>
-      <title>中国队击败印度尼西亚队夺得汤姆斯杯和尤伯杯双冠王</title>
-      <link>https://www.reuters.com/sports/china-down-indonesia-claim-thomas-uber-cup-double-2024-05-05/</link>
-      <description><![CDATA[中国男队在周日的两项比赛中夺得尤伯杯冠军，印尼队获得亚军，时隔六年后，中国男队重新夺回汤姆斯杯冠军。]]></description>
-      <guid>https://www.reuters.com/sports/china-down-indonesia-claim-thomas-uber-cup-double-2024-05-05/</guid>
-      <pubDate>Sun, 05 May 2024 15:38:37 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 May 2024 19:15:56 GMT</lastBuildDate>
     <item>
       <title>伯克希尔·布鲁克斯跑步公司首席执行官将中国和欧洲视为增长区域</title>
       <link>https://www.reuters.com/business/retail-consumer/berkshires-brooks-running-ceo-sees-china-europe-growth-areas-2024-05-05/</link>
@@ -34,14 +27,14 @@
       <pubDate>Sat, 04 May 2024 21:52:58 GMT</pubDate>
     </item>
     <item>
-      <title>法国化妆品行业期待习近平访华以缓解中国进口规则</title>
+      <title>法国化妆品行业期待习近平访华以缓和中国进口规定</title>
       <link>https://www.reuters.com/business/retail-consumer/french-cosmetics-sector-eyes-xi-visit-reprieve-chinese-import-rules-2024-05-04/</link>
       <description><![CDATA[法国世界领先的化妆品行业指望习近平和马克龙下周举行会谈，以帮助最大限度地减少中国严格的新进口规则要求分享配方和制造技术对法国公司的影响。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/french-cosmetics-sector-eyes-xi-visit-reprieve-chinese-import-rules-2024-05-04/</guid>
       <pubDate>Sat, 04 May 2024 10:53:19 GMT</pubDate>
     </item>
     <item>
-      <title>前任命者表示，如果特朗普获胜，台湾将得到特朗普的支持</title>
+      <title>前任部长称，如果特朗普获胜，台湾将获得其支持</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-will-have-trumps-support-if-he-wins-ex-appointee-says-2024-05-04/</link>
       <description><![CDATA[唐纳德·特朗普任命的一位前美国大使周六表示，他相信这位前总统如果重新入主白宫，将再次支持台湾。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-will-have-trumps-support-if-he-wins-ex-appointee-says-2024-05-04/</guid>
@@ -64,7 +57,7 @@
     <item>
       <title>中国 Zeekr 在美国 IPO 寻求高达 51.3 亿美元的估值</title>
       <link>https://www.reuters.com/markets/deals/chinas-zeekr-plans-raise-up-368-mln-us-ipo-2024-05-03/</link>
-      <description><![CDATA[电动汽车制造商Zeekr智能科技控股公司周五表示，其在美国首次公开募股(IPO)的目标估值高达51.3亿美元，这是两年多来中国公司首次大规模上市。]]></description>
+      <description><![CDATA[电动汽车制造商 Zeekr Intelligent Technology Holding 周五表示，其在美国首次公开募股 (IPO) 中的估值目标为 51.3 亿美元，这是两年多以来中国公司首次大规模上市。]]></description>
       <guid>https://www.reuters.com/markets/deals/chinas-zeekr-plans-raise-up-368-mln-us-ipo-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 21:21:43 GMT</pubDate>
     </item>
@@ -106,7 +99,7 @@
     <item>
       <title>习近平访问之前，中国在法国电动汽车市场的份额下滑</title>
       <link>https://www.reuters.com/business/autos-transportation/chinese-share-french-ev-market-slumps-after-incentives-curbed-2024-05-03/</link>
-      <description><![CDATA[行业数据显示，法国政府为减缓中国产电动汽车涌入所做的努力正在取得成效，这也凸显出中国国家主席下周访法时最敏感的贸易问题之一。]]></description>
+      <description><![CDATA[行业数据显示，法国政府减缓中国制造电动汽车涌入的努力正在取得成果，这突显了中国国家主席下周访问时最敏感的贸易问题之一。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/chinese-share-french-ev-market-slumps-after-incentives-curbed-2024-05-03/</guid>
       <pubDate>Fri, 03 May 2024 12:24:31 GMT</pubDate>
     </item>
@@ -132,6 +125,13 @@
       <pubDate>Fri, 03 May 2024 10:23:25 GMT</pubDate>
     </item>
     <item>
+      <title>早盘竞价：乔布斯测试美联储的救济措施、苹果回购的冲击</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</link>
+      <description><![CDATA[迈克·多兰 (Mike Dolan) 展望美国和全球市场未来一天]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-03/</guid>
+      <pubDate>Fri, 03 May 2024 10:02:51 GMT</pubDate>
+    </item>
+    <item>
       <title>情况资料箱：欧盟对中国补贴和进口的调查</title>
       <link>https://www.reuters.com/business/eu-probes-chinese-subsidies-imports-2024-04-19/</link>
       <description><![CDATA[欧盟周三对中国医疗器械采购展开调查，这是保护本土制造商的最新举措。]]></description>
@@ -141,7 +141,7 @@
     <item>
       <title>Factbox：烈酒制造商面临中国欧盟白兰地调查</title>
       <link>https://www.reuters.com/business/retail-consumer/spirits-makers-exposed-chinas-eu-brandy-probe-2024-01-05/</link>
-      <description><![CDATA[中国对从欧盟进口的白兰地发起反倾销调查，此举似乎主要针对法国。]]></description>
+      <description><![CDATA[中国对欧盟进口白兰地发起反倾销调查，此举似乎主要针对法国。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/spirits-makers-exposed-chinas-eu-brandy-probe-2024-01-05/</guid>
       <pubDate>Fri, 05 Jan 2024 15:49:14 GMT</pubDate>
     </item>
