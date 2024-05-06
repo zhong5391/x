@@ -1,19 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条|路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 15:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:39:16 GMT</lastBuildDate>
     <item>
-      <title>欧盟批准新日铁以149亿美元收购美国钢铁公司</title>
+      <title>研究称 2023 年低收入美国人申请抵押贷款的人数将减少</title>
+      <link>https://www.reuters.com/markets/us/fewer-low-income-americans-took-out-mortgages-2023-study-says-2024-05-06/</link>
+      <description><![CDATA[房地产经纪人 Redfin 在周一的一份报告中表示，去年获得抵押贷款的低收入美国人比 2020 年要少，因为高利率使购房变得更加负担不起。]]></description>
+      <guid>https://www.reuters.com/markets/us/fewer-low-income-americans-took-out-mortgages-2023-study-says-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 14:19:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>新思科技 (Synopsys) 将软件部门以 21 亿美元的价格出售给弗朗西斯科克利尔莱克 (Clearlake)</title>
+      <link>https://www.reuters.com/markets/deals/synopsys-sell-software-unit-clearlake-francisco-21-bln-deal-2024-05-06/</link>
+      <description><![CDATA[该芯片设计公司周一表示，新思科技将以 21 亿美元的价格将其软件完整性 (SIG) 部门出售给由 Clearlake Capital 和 Francisco Partners 牵头的私募股权财团。]]></description>
+      <guid>https://www.reuters.com/markets/deals/synopsys-sell-software-unit-clearlake-francisco-21-bln-deal-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 13:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Robinhood Crypto 收到美国 SEC 的 Wells 通知</title>
+      <link>https://www.reuters.com/business/finance/robinhood-crypto-gets-wells-notice-us-sec-2024-05-06/</link>
+      <description><![CDATA[零售交易平台 Robinhood Markets 周一表示，其美国加密货币交易部门于 5 月 4 日收到美国证券交易委员会 (SEC) 的 Wells 通知。]]></description>
+      <guid>https://www.reuters.com/business/finance/robinhood-crypto-gets-wells-notice-us-sec-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 13:22:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普媒体因 SEC 欺诈指控而解雇审计师 BF Borgers</title>
+      <link>https://www.reuters.com/technology/trump-media-dismisses-auditor-bf-borgers-amid-sec-fraud-charges-2024-05-06/</link>
+      <description><![CDATA[美国前总统唐纳德·特朗普的媒体和科技公司表示，在美国证券交易委员会 (SEC) 周五指控 BF Borgers 会计师事务所“大规模欺诈”后，该公司已更换了该会计师事务所。]]></description>
+      <guid>https://www.reuters.com/technology/trump-media-dismisses-auditor-bf-borgers-amid-sec-fraud-charges-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 13:18:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟批准日本新日铁公司以 149 亿美元收购美国钢铁公司</title>
       <link>https://www.reuters.com/markets/deals/eu-clears-nippon-steels-149-bln-purchase-us-steel-2024-05-06/</link>
-      <description><![CDATA[欧盟委员会周一批准了日本新日铁公司以 149 亿美元收购美国钢铁公司的交易。]]></description>
+      <description><![CDATA[欧盟周一批准了日本新日铁住金公司以 149 亿美元收购美国钢铁公司的交易，缓解了该交易在美国引发政界反对的竞争担忧。]]></description>
       <guid>https://www.reuters.com/markets/deals/eu-clears-nippon-steels-149-bln-purchase-us-steel-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 12:23:20 GMT</pubDate>
     </item>
     <item>
-      <title>Novavax最大股东Shah Capital加大董事会改组力度</title>
+      <title>Novavax 最大股东 Shah Capital 加大董事会改组力度</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/novavaxs-top-shareholder-shah-capital-ramps-up-efforts-board-shakeup-2024-05-06/</link>
       <description><![CDATA[对冲基金 Shah Capital 周一敦促 Novavax 股东投票反对三名董事的连任以及与高管薪酬相关的提案，加大了这家 COVID-19 疫苗制造商董事会改组的力度。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/novavaxs-top-shareholder-shah-capital-ramps-up-efforts-board-shakeup-2024-05-06/</guid>
@@ -22,21 +50,21 @@
     <item>
       <title>加拿大布鲁克菲尔德 (Brookfield) 将向私人信贷管理公司 Castlelake 投资 15 亿美元</title>
       <link>https://www.reuters.com/markets/deals/canadas-brookfield-invest-15-bln-private-credit-manager-castlelake-2024-05-06/</link>
-      <description><![CDATA[加拿大布鲁克菲尔德资产管理公司 (Brookfield Asset Management) 周一表示，将向美国私人信贷管理公司 Castlelake 投资约 15 亿美元。]]></description>
+      <description><![CDATA[两家公司周一表示，加拿大 Brookfield Asset Management 将向美国私人信贷管理公司 Castlelake 投资约 15 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/deals/canadas-brookfield-invest-15-bln-private-credit-manager-castlelake-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:53:10 GMT</pubDate>
     </item>
     <item>
-      <title>泰森食品因成本控制努力而超出利润预期，销售额下滑</title>
+      <title>泰森食品股价因对第三季度消费者需求的担忧而下跌</title>
       <link>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</link>
-      <description><![CDATA[泰森食品周一第二季度利润超出了华尔街预期，该公司开始受益于关闭一些美国鸡肉加工厂以降低成本。]]></description>
+      <description><![CDATA[泰森食品周一第二季度利润超出华尔街预期，但警告消费者面临持续通胀的压力。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:34:45 GMT</pubDate>
     </item>
     <item>
       <title>精神航空预计第二季度收入疲软，因国内需求增长缓慢</title>
       <link>https://www.reuters.com/business/aerospace-defense/spirit-airlines-forecasts-weak-q2-revenue-slow-growth-domestic-demand-2024-05-06/</link>
-      <description><![CDATA[精神航空周一预计，由于国内需求改善缓慢以及数十架飞机停飞，第二季度收入将疲弱。]]></description>
+      <description><![CDATA[由于国内需求改善缓慢以及数十架飞机停飞，精神航空周一预计第二季度营收疲软，导致该公司股价早盘下跌约 9%。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/spirit-airlines-forecasts-weak-q2-revenue-slow-growth-domestic-demand-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:30:42 GMT</pubDate>
     </item>
@@ -48,23 +76,9 @@
       <pubDate>Mon, 06 May 2024 11:26:38 GMT</pubDate>
     </item>
     <item>
-      <title>独家：哥伦比亚 Ecopetrol 探索参与海上风电拍卖</title>
-      <link>https://www.reuters.com/business/energy/colombias-ecopetrol-exploring-participation-offshore-wind-auction-2024-05-06/</link>
-      <description><![CDATA[哥伦比亚国有控股能源公司 Ecopetrol 在给路透社的一份声明中表示，该公司正在分析直接参与该安第斯国家首次海上风电拍卖的可能性。]]></description>
-      <guid>https://www.reuters.com/business/energy/colombias-ecopetrol-exploring-participation-offshore-wind-auction-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 11:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛伊斯报告称，投资收益回报强劲，利润更高</title>
-      <link>https://www.reuters.com/business/loews-reports-higher-profit-strong-returns-investment-income-2024-05-06/</link>
-      <description><![CDATA[洛斯保险（Loews Corp）周一公布第一季度利润较上年同期增长近 22%，这得益于保费上涨和投资回报强劲。]]></description>
-      <guid>https://www.reuters.com/business/loews-reports-higher-profit-strong-returns-investment-income-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 11:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>周五大幅上涨后期货走高</title>
+      <title>美联储降息希望增强，华尔街股市上涨</title>
       <link>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</link>
-      <description><![CDATA[美国股指期货周一小幅走高，表明在前一交易日就业数据带动的反弹之后，华尔街将进一步上涨，因为交易员预计美联储今年降息的可能性更大。]]></description>
+      <description><![CDATA[由于上周非农就业数据疲软，美联储今年降息的预期增强，华尔街主要股指周一上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:16:30 GMT</pubDate>
     </item>
@@ -92,7 +106,7 @@
     <item>
       <title>沃伦·巴菲特的粉丝为他离开后制定了自己的路线</title>
       <link>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</link>
-      <description><![CDATA[93岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特在思考自己的未来时，周六告诉股东，如果幸运的话，他还能再活六七年，但他补充说，“这可能明天就结束了”。]]></description>
+      <description><![CDATA[93 岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特周六告诉股东，他对自己的未来进行了思考，他说，如果幸运的话，他还能再干六七年，但他补充说，“他的任期可能明天就结束”。]]></description>
       <guid>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:02:42 GMT</pubDate>
     </item>
@@ -104,46 +118,32 @@
       <pubDate>Mon, 06 May 2024 09:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，KKR 将以 8.39 亿美元估值收购印度 Healthium Medtech</title>
-      <link>https://www.reuters.com/markets/deals/kkr-buy-indias-healthium-medtech-839-mln-valuation-sources-say-2024-05-06/</link>
-      <description><![CDATA[全球投资公司 KKR 将从英国 Apax Partners 手中收购印度医疗设备制造商 Healthium Medtech，三位直接了解此事的消息人士称，这笔交易的价值为 700 亿卢比（8.386 亿美元）。]]></description>
-      <guid>https://www.reuters.com/markets/deals/kkr-buy-indias-healthium-medtech-839-mln-valuation-sources-say-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 07:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>电动汽车需求强劲，沃尔沃汽车四月销量增长</title>
-      <link>https://www.reuters.com/business/autos-transportation/volvo-cars-april-sales-rise-27-year-on-year-2024-05-06/</link>
-      <description><![CDATA[总部位于瑞典的沃尔沃汽车公司周一表示，受电动和混合动力汽车需求的推动，沃尔沃汽车 4 月份销量同比增长 27%，达到 65,838 辆。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/volvo-cars-april-sales-rise-27-year-on-year-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 07:06:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>马士基称红海中断可能导致亚欧航线运力减少 20%</title>
+      <title>马士基称红海中断可能导致亚欧运力减少 20%</title>
       <link>https://www.reuters.com/business/red-sea-disruption-cuts-q2-capacity-by-15-20-maersk-says-2024-05-06/</link>
-      <description><![CDATA[马士基周一表示，红海集装箱运输的干扰正在加剧，预计第二季度亚洲和欧洲之间的行业运力将减少多达 20%。]]></description>
+      <description><![CDATA[马士基周一表示，红海集装箱运输的中断正在加剧，预计这将导致第二季度亚洲和欧洲之间的航运业运力减少高达 20%。]]></description>
       <guid>https://www.reuters.com/business/red-sea-disruption-cuts-q2-capacity-by-15-20-maersk-says-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 06:57:09 GMT</pubDate>
     </item>
     <item>
       <title>随着董事会放弃贝恩收购要约，Kretinsky 和 ​​Layani 在 Atos 重组问题上展开对峙</title>
       <link>https://www.reuters.com/markets/deals/atos-says-it-received-four-restructuring-offers-2024-05-06/</link>
-      <description><![CDATA[法国IT公司Atos周一表示，捷克亿万富翁丹尼尔·克雷廷斯基(Daniel Kretinsky)、法国投资者大卫·拉亚尼(David Layani)和银行财团均已提出重组法国IT公司Atos债务的出价，并补充说已拒绝了贝恩资本的报价。]]></description>
+      <description><![CDATA[法国IT公司Atos周一表示，捷克亿万富翁丹尼尔·克雷廷斯基(Daniel Kretinsky)、法国投资者大卫·拉亚尼(David Layani)和银行财团均已提出重组法国IT公司Atos债务的出价，并补充说已拒绝了贝恩资本的提议。]]></description>
       <guid>https://www.reuters.com/markets/deals/atos-says-it-received-four-restructuring-offers-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 05:12:26 GMT</pubDate>
     </item>
     <item>
       <title>解释者：纽约立法机关重新召开会议时，主权债务法案面临什么风险</title>
       <link>https://www.reuters.com/business/finance/new-york-lawmakers-tackle-sovereign-debt-reworks-again-2024-03-11/</link>
-      <description><![CDATA[纽约州立法者周一结束两周的休会返回，剩下一个月的时间来决定一项有争议的法案的命运，该法案旨在简化主权债务重组，涉及数千亿美元的债券合约。]]></description>
+      <description><![CDATA[纽约州议员周一结束为期两周的休息，剩下一个月的时间来决定一项有争议的法案的命运，该法案旨在简化主权债务重组，涉及数千亿美元的债券合同。]]></description>
       <guid>https://www.reuters.com/business/finance/new-york-lawmakers-tackle-sovereign-debt-reworks-again-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 16:51:35 GMT</pubDate>
     </item>
     <item>
-      <title>航运公司应对红海胡塞武装袭击</title>
-      <link>https://www.reuters.com/world/middle-east/shipping-firms-avoid-red-sea-houthi-attacks-increase-2023-12-18/</link>
-      <description><![CDATA[也门胡塞武装加强了对红海船只的袭击，影响了对东西方贸易至关重要的航线。]]></description>
-      <guid>https://www.reuters.com/world/middle-east/shipping-firms-avoid-red-sea-houthi-attacks-increase-2023-12-18/</guid>
-      <pubDate>Mon, 18 Dec 2023 08:47:33 GMT</pubDate>
+      <title>欧盟批准日本新日铁公司以 149 亿美元收购美国钢铁公司</title>
+      <link>https://www.reuters.com/markets/deals/road-nippons-149-billion-acquisition-us-steel-2023-12-18/</link>
+      <description><![CDATA[欧盟委员会周一批准了日本新日铁公司以 149 亿美元收购美国钢铁公司的交易，缓解了竞争担忧，尽管该交易面临美国监管审查和政治反对。]]></description>
+      <guid>https://www.reuters.com/markets/deals/road-nippons-149-billion-acquisition-us-steel-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 16:46:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
