@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 20:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 20:39:03 GMT</lastBuildDate>
+    <item>
+      <title>科蒂第三季度收入超出预期，因需求强劲而着眼于高端年度目标</title>
+      <link>https://www.reuters.com/business/retail-consumer/coty-beats-q3-revenue-estimates-eyes-high-end-annual-targets-strong-demand-2024-05-06/</link>
+      <description><![CDATA[美容公司科蒂周一第三季度营收超出华尔街预期，并表示，凭借全球对其奢侈品和大众市场产品的稳定需求，预计将实现年度目标的高端。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/coty-beats-q3-revenue-estimates-eyes-high-end-annual-targets-strong-demand-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 20:33:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>UPS 首席财务官布莱恩·纽曼 (Brian Newman) 将于 6 月 1 日辞职</title>
+      <link>https://www.reuters.com/business/ups-cfo-brian-newman-step-down-june-1-company-says-2024-05-06/</link>
+      <description><![CDATA[联合包裹服务公司 (United Parcel Service) 周一表示，其首席财务官兼执行副总裁布莱恩·纽曼 (Brian Newman) 将于 6 月 1 日离开公司。]]></description>
+      <guid>https://www.reuters.com/business/ups-cfo-brian-newman-step-down-june-1-company-says-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 20:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>高盛针对 1MDB 的刑事案件正式结束</title>
+      <link>https://www.reuters.com/legal/goldman-sachs-criminal-case-over-1mdb-formally-ends-2024-05-06/</link>
+      <description><![CDATA[周一，一名美国法官正式结束了美国政府针对高盛提起的刑事诉讼，该案涉及高盛为马来西亚基金 1MDB 提供的服务，此前高盛履行了义务并支付了 29 亿美元的罚款。]]></description>
+      <guid>https://www.reuters.com/legal/goldman-sachs-criminal-case-over-1mdb-formally-ends-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 20:26:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：沃兹尼亚克的太空公司 Privateer 收购 Orbital Insight，融资 5650 万美元</title>
+      <link>https://www.reuters.com/markets/deals/wozniaks-space-firm-privateer-buys-orbital-insight-raises-565-million-2024-05-06/</link>
+      <description><![CDATA[Privateer 的首席执行官告诉路透社，苹果联合创始人史蒂夫·沃兹尼亚克 (Steve Wozniak) 的太空数据初创公司 Privateer 已筹集 5650 万美元，并收购了分析公司 Orbital Insight，此次合并将为 Privateer 的空间数据产品添加地图和情报服务。]]></description>
+      <guid>https://www.reuters.com/markets/deals/wozniaks-space-firm-privateer-buys-orbital-insight-raises-565-million-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 20:24:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于囊性纤维化治疗药物需求强劲，Vertex 第一季度利润超出预期</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/vertex-tops-q1-profit-estimates-robust-demand-cystic-fibrosis-treatments-2024-05-06/</link>
+      <description><![CDATA[由于囊性纤维化治疗药物的强劲应用，福泰制药 (Vertex Pharmaceuticals) 周一第一季度利润超出了华尔街预期。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/vertex-tops-q1-profit-estimates-robust-demand-cystic-fibrosis-treatments-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 20:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储调查显示美国银行报告贷款需求疲软</title>
+      <link>https://www.reuters.com/business/finance/us-banks-report-weaker-loan-demand-fed-survey-says-2024-05-06/</link>
+      <description><![CDATA[根据美联储周一公布的对高级信贷官员的调查，美国各银行报告今年第一季度工业贷款需求再次疲软，家庭信贷需求下降。]]></description>
+      <guid>https://www.reuters.com/business/finance/us-banks-report-weaker-loan-demand-fed-survey-says-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 19:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国联邦航空局对波音 787 展开调查</title>
+      <link>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</link>
+      <description><![CDATA[美国联邦航空管理局周一表示，已对波音 787 梦想客机展开调查，此前这家飞机制造商表示，部分员工声称部分测试已完成，存在“不当行为”。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 19:17:14 GMT</pubDate>
+    </item>
     <item>
       <title>阿尔迪敦促供应商在美国扩张期间削减成本并走向绿色</title>
       <link>https://www.reuters.com/business/retail-consumer/aldi-urges-suppliers-cut-costs-go-green-amid-us-expansion-2024-05-06/</link>
-      <description><![CDATA[德国折扣超市连锁店 Aldi 的美国分公司周一敦促其供应商降低成本、增加奶酪等产品的产量、将运营地点靠近商店、并注重可持续发展，以增强该连锁店相对于竞争对手的竞争优势。]]></description>
+      <description><![CDATA[德国折扣连锁超市阿尔迪的美国分公司周一敦促其供应商降低成本，增加奶酪等产品的产量，使业务更靠近商店，并注重可持续发展，以增强该连锁店相对于竞争对手的竞争优势。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/aldi-urges-suppliers-cut-costs-go-green-amid-us-expansion-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 18:32:46 GMT</pubDate>
     </item>
@@ -18,20 +67,6 @@
       <description><![CDATA[美国三名金融监管机构已恢复了一项拖延已久的规则制定项目，以使金融公司的高管薪酬计划对风险更加敏感。]]></description>
       <guid>https://www.reuters.com/business/finance/us-financial-regulators-restart-work-long-delayed-compensation-rules-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 18:18:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储威廉姆斯表示，美联储下一步举措可能是降低利率</title>
-      <link>https://www.reuters.com/markets/rates-bonds/feds-williams-says-next-fed-move-likely-be-lower-rates-2024-05-06/</link>
-      <description><![CDATA[纽约联邦储备银行行长约翰·威廉姆斯周一表示，美联储将在某个不确定的时刻降低利率目标。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/feds-williams-says-next-fed-move-likely-be-lower-rates-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 18:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储巴尔金：当前利率水平将抑制需求，不会出现“过热”</title>
-      <link>https://www.reuters.com/markets/rates-bonds/feds-barkin-current-rate-level-will-cool-demand-doesnt-see-overheating-2024-05-06/</link>
-      <description><![CDATA[里士满联储主席托马斯·巴尔金(Thomas Barkin)周一表示，美联储目前的基准利率水平应该足以让经济降温，从而使通胀率回到央行2%的目标，而就业市场的强劲让官员们有时间等待。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/feds-barkin-current-rate-level-will-cool-demand-doesnt-see-overheating-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 17:08:59 GMT</pubDate>
     </item>
     <item>
       <title>美国金融市场监管机构收集双边回购数据</title>
@@ -62,20 +97,6 @@
       <pubDate>Mon, 06 May 2024 15:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>蔚来高管表示，蔚来有望于五月推出首款大众市场汽车</title>
-      <link>https://www.reuters.com/business/autos-transportation/nio-track-unveil-its-first-mass-market-car-may-executive-says-2024-05-06/</link>
-      <description><![CDATA[周一，中国高端电动汽车制造商蔚来汽车的一位高管告诉路透社，蔚来汽车有望在本月底之前以大众市场品牌推出一款新车型，并于明年在欧洲推出第二款小型电动汽车，售价将低于 3 万美元。 。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/nio-track-unveil-its-first-mass-market-car-may-executive-says-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 15:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>据 The Information 报道，微软准备新的人工智能模型与谷歌、OpenAI 竞争</title>
-      <link>https://www.reuters.com/technology/microsoft-readies-new-ai-model-compete-with-google-openai-information-reports-2024-05-06/</link>
-      <description><![CDATA[据《Information》周一报道，微软正在训练一种新的内部人工智能语言模型，其规模足以与 Alphabet 旗下的谷歌和 OpenAI 的语言模型竞争。]]></description>
-      <guid>https://www.reuters.com/technology/microsoft-readies-new-ai-model-compete-with-google-openai-information-reports-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 14:47:46 GMT</pubDate>
-    </item>
-    <item>
       <title>研究称 2023 年低收入美国人申请抵押贷款的人数将减少</title>
       <link>https://www.reuters.com/markets/us/fewer-low-income-americans-took-out-mortgages-2023-study-says-2024-05-06/</link>
       <description><![CDATA[房地产经纪人 Redfin 在周一的一份报告中表示，去年获得抵押贷款的低收入美国人比 2020 年要少，因为高利率使购房变得更加负担不起。]]></description>
@@ -83,11 +104,11 @@
       <pubDate>Mon, 06 May 2024 14:19:27 GMT</pubDate>
     </item>
     <item>
-      <title>新思科技 (Synopsys) 将软件部门以 21 亿美元的价格出售给弗朗西斯科克利尔莱克 (Clearlake)</title>
-      <link>https://www.reuters.com/markets/deals/synopsys-sell-software-unit-clearlake-francisco-21-bln-deal-2024-05-06/</link>
-      <description><![CDATA[芯片设计商 Synopsys 周一表示，该公司将把其软件完整性 (SIG) 部门出售给由 Clearlake Capital 和 Francisco Partners 牵头的私募股权财团，交易价值 21 亿美元。]]></description>
-      <guid>https://www.reuters.com/markets/deals/synopsys-sell-software-unit-clearlake-francisco-21-bln-deal-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 13:33:49 GMT</pubDate>
+      <title>美国医院网络 Steward 申请破产，寻求新贷款</title>
+      <link>https://www.reuters.com/world/us/us-hospital-network-steward-files-bankruptcy-aims-new-loan-2024-05-06/</link>
+      <description><![CDATA[Steward Health 在美国八个州经营着 31 家医院，周一在德克萨斯州根据美国破产法第 11 章申请破产，旨在从其房东 Medical Properties Trust 获得新贷款。]]></description>
+      <guid>https://www.reuters.com/world/us/us-hospital-network-steward-files-bankruptcy-aims-new-loan-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 14:07:22 GMT</pubDate>
     </item>
     <item>
       <title>欧盟批准日本新日铁公司以 149 亿美元收购美国钢铁公司</title>
@@ -99,7 +120,7 @@
     <item>
       <title>由于对第三季度消费者需求的担忧，泰森食品股价下跌</title>
       <link>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</link>
-      <description><![CDATA[周一，美国肉类加工商泰森食品公司警告称，消费者面临持续通胀的压力，而高企的大宗商品成本可能会影响即将公布的业绩，该公司股价周一有望录得一年来最严重的单日跌幅。]]></description>
+      <description><![CDATA[周一，美国肉类加工商泰森食品警告称，消费者面临持续通胀的压力，而高昂的商品成本可能对即将公布的业绩造成影响，此后，该公司股价有望创下一年来最大单日跌幅。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:34:45 GMT</pubDate>
     </item>
@@ -111,32 +132,11 @@
       <pubDate>Mon, 06 May 2024 11:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>投资者重新燃起对美联储降息的希望，华尔街上涨</title>
+      <title>由于降息乐观情绪，华尔街第三个交易日收高</title>
       <link>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</link>
-      <description><![CDATA[美国股指周一上涨，延续了上周因投资者押注美联储今年降息可能性更大而上涨的势头。]]></description>
+      <description><![CDATA[美国股指周一收高，连续第三个交易日上涨，因投资者继续对美联储今年降息的可能性更大抱有希望。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>焦点：丹尼面临对猪妊娠箱承诺的代理投票</title>
-      <link>https://www.reuters.com/business/dennys-faces-proxy-vote-over-pig-gestation-crate-pledge-2024-05-06/</link>
-      <description><![CDATA[丹尼公司即将举行的股东投票可能会迫使该公司设定目标，减少使用来自供应商的猪肉，这些供应商将怀孕的猪严格限制在妊娠栏内。]]></description>
-      <guid>https://www.reuters.com/business/dennys-faces-proxy-vote-over-pig-gestation-crate-pledge-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 10:12:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>马萨诸塞州最高法院将听取对零工工人投票措施的挑战</title>
-      <link>https://www.reuters.com/legal/massachusetts-top-court-hear-challenges-gig-worker-ballot-measures-2024-05-06/</link>
-      <description><![CDATA[马萨诸塞州最高法院周一将考虑该州选民是否会在 11 月决定两项投票提案，这两项提案将重新定义 Uber Technologies 和 Lyft 等基于应用程序的公司与其司机之间的关系 - 一项由行业支持，另一项由行业支持劳动。]]></description>
-      <guid>https://www.reuters.com/legal/massachusetts-top-court-hear-challenges-gig-worker-ballot-measures-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 10:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃伦·巴菲特的继任者格雷格·阿贝尔被认为保留了伯克希尔的文化</title>
-      <link>https://www.reuters.com/business/warren-buffetts-successor-greg-abel-seen-preserving-berkshires-culture-2024-05-06/</link>
-      <description><![CDATA[当格雷格·阿贝尔接替沃伦·巴菲特掌管伯克希尔·哈撒韦公司时，人们期望他能够保留这家庞然大物的文化，即使他无法与这位传奇老板的明星影响力相媲美。]]></description>
-      <guid>https://www.reuters.com/business/warren-buffetts-successor-greg-abel-seen-preserving-berkshires-culture-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 10:06:29 GMT</pubDate>
     </item>
     <item>
       <title>沃伦·巴菲特的粉丝为他离开后制定了自己的路线</title>
