@@ -1,16 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 10:21:34 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Mon, 06 May 2024 10:39:08 GMT</lastBuildDate>
     <item>
-      <title>报纸称，萨瓦德尔董事会开会分析 BBVA 的收购提案</title>
-      <link>https://www.reuters.com/markets/deals/sabadells-board-meets-analyse-bbva-bid-proposal-newspapers-say-2024-05-06/</link>
-      <description><![CDATA[据《先锋报》等报纸报道，西班牙萨瓦德尔银行董事会将于周一召开会议，讨论规模更大的竞争对手 BBVA 上周宣布的全股收购要约，该收购要约价值约为 120 亿欧元（合 129 亿美元）。]]></description>
-      <guid>https://www.reuters.com/markets/deals/sabadells-board-meets-analyse-bbva-bid-proposal-newspapers-say-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 08:00:56 GMT</pubDate>
+      <title>降息押注期货小幅走高</title>
+      <link>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</link>
+      <description><![CDATA[美国股指期货周一小幅走高，表明华尔街将进一步上涨，因为交易员预计美联储今年降息的可能性更大。]]></description>
+      <guid>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 10:16:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>焦点：丹尼面临对猪妊娠箱承诺的代理投票</title>
+      <link>https://www.reuters.com/business/dennys-faces-proxy-vote-over-pig-gestation-crate-pledge-2024-05-06/</link>
+      <description><![CDATA[丹尼公司即将举行的股东投票可能会迫使该公司设定目标，减少使用来自供应商的猪肉，这些供应商将怀孕的猪严格限制在妊娠栏内。]]></description>
+      <guid>https://www.reuters.com/business/dennys-faces-proxy-vote-over-pig-gestation-crate-pledge-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 10:12:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>马萨诸塞州最高法院将听取对零工工人投票措施的挑战</title>
+      <link>https://www.reuters.com/legal/massachusetts-top-court-hear-challenges-gig-worker-ballot-measures-2024-05-06/</link>
+      <description><![CDATA[马萨诸塞州最高法院周一将考虑该州选民是否会在 11 月决定两项投票提案，这两项提案将重新定义 Uber Technologies 和 Lyft 等基于应用程序的公司与其司机之间的关系 - 一项由行业支持，另一项由行业支持劳动。]]></description>
+      <guid>https://www.reuters.com/legal/massachusetts-top-court-hear-challenges-gig-worker-ballot-measures-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 10:07:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃伦·巴菲特的继任者格雷格·阿贝尔被认为保留了伯克希尔的文化</title>
+      <link>https://www.reuters.com/business/warren-buffetts-successor-greg-abel-seen-preserving-berkshires-culture-2024-05-06/</link>
+      <description><![CDATA[当格雷格·阿贝尔接替沃伦·巴菲特掌管伯克希尔·哈撒韦公司时，人们期望他能够保留这家庞然大物的文化，即使他无法与这位传奇老板的明星影响力相媲美。]]></description>
+      <guid>https://www.reuters.com/business/warren-buffetts-successor-greg-abel-seen-preserving-berkshires-culture-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 10:06:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃伦·巴菲特的粉丝为他离开后制定了自己的路线</title>
+      <link>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</link>
+      <description><![CDATA[93 岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特周六告诉股东，他对自己的未来进行了思考，他说，如果幸运的话，他还能再干六七年，但他补充说，“他的任期可能明天就结束”。]]></description>
+      <guid>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 10:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>早间出价：到处都有救济（大部分）</title>
+      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-06/</link>
+      <description><![CDATA[达拉·拉纳辛格 (Dhara Ranasinghe) 展望未来一天的美国和全球市场。]]></description>
+      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 09:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>副总统哈里斯宣布提供超过 1 亿美元支持汽车工人</title>
+      <link>https://www.reuters.com/world/us/vp-harris-announces-more-than-100-mln-support-auto-workers-2024-05-06/</link>
+      <description><![CDATA[美国副总统卡马拉·哈里斯周一宣布提供超过 1 亿美元的资金和资源来支持美国汽车工人和小型汽车供应商。]]></description>
+      <guid>https://www.reuters.com/world/us/vp-harris-announces-more-than-100-mln-support-auto-workers-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 09:16:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>法国汽车制造商的目标是到 2027 年电动汽车销量增长四倍</title>
+      <link>https://www.reuters.com/business/autos-transportation/french-carmakers-target-fourfold-jump-ev-sales-by-2027-2024-05-06/</link>
+      <description><![CDATA[根据周一与政府签署的战略协议，法国汽车行业的目标是到 2027 年将电动汽车销量提高四倍，恰逢中国国家主席开始对法国进行国事访问。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/french-carmakers-target-fourfold-jump-ev-sales-by-2027-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 08:49:52 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，KKR 将以 8.39 亿美元估值收购印度 Healthium Medtech</title>
@@ -22,21 +71,21 @@
     <item>
       <title>电动汽车需求强劲，沃尔沃汽车四月销量增长</title>
       <link>https://www.reuters.com/business/autos-transportation/volvo-cars-april-sales-rise-27-year-on-year-2024-05-06/</link>
-      <description><![CDATA[沃尔沃汽车集团周一表示，受电动和混合动力汽车需求推动，沃尔沃汽车 4 月份销量较去年同期增长 27%，达到 65,838 辆。]]></description>
+      <description><![CDATA[总部位于瑞典的沃尔沃汽车公司周一表示，受电动和混合动力汽车需求的推动，沃尔沃汽车 4 月份销量同比增长 27%，达到 65,838 辆。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/volvo-cars-april-sales-rise-27-year-on-year-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 07:06:17 GMT</pubDate>
     </item>
     <item>
-      <title>马士基表示红海中断将导致第二季度运力减少 15-20%</title>
+      <title>马士基称红海中断可能导致亚欧航线运力减少五分之一</title>
       <link>https://www.reuters.com/business/red-sea-disruption-cuts-q2-capacity-by-15-20-maersk-says-2024-05-06/</link>
-      <description><![CDATA[马士基航运集团周一表示，红海集装箱运输运输受到的干扰正在加剧，预计第二季度远东和欧洲之间的行业运力将减少约15%-20%。]]></description>
+      <description><![CDATA[航运集团马士基周一表示，红海集装箱运输运输受到的干扰正在加剧，预计第二季度远东和欧洲之间的行业运力将减少高达 20%。]]></description>
       <guid>https://www.reuters.com/business/red-sea-disruption-cuts-q2-capacity-by-15-20-maersk-says-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 06:57:09 GMT</pubDate>
     </item>
     <item>
-      <title>境况不佳的法国 IT 公司 Atos 表示已收到四项重组要约</title>
+      <title>随着董事会放弃贝恩收购要约，Kretinsky 和 ​​Layani 在 Atos 重组问题上展开对峙</title>
       <link>https://www.reuters.com/markets/deals/atos-says-it-received-four-restructuring-offers-2024-05-06/</link>
-      <description><![CDATA[负债累累的法国 IT 公司 Atos 周一证实，已收到投资者提出的四项不同的重组债务并向业务注入现金的提议，并补充称将在本月底决定采用哪一项。]]></description>
+      <description><![CDATA[法国IT公司Atos周一表示，捷克亿万富翁丹尼尔·克雷廷斯基(Daniel Kretinsky)、法国投资者大卫·拉亚尼(David Layani)和银行财团均已提出重组法国IT公司Atos债务的出价，并补充说已拒绝了贝恩资本的报价。]]></description>
       <guid>https://www.reuters.com/markets/deals/atos-says-it-received-four-restructuring-offers-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 05:12:26 GMT</pubDate>
     </item>
@@ -48,13 +97,6 @@
       <pubDate>Mon, 06 May 2024 05:05:33 GMT</pubDate>
     </item>
     <item>
-      <title>据英国《金融时报》报道，瑞士信贷集团首席执行官乌尔里希·科纳最终离开瑞银</title>
-      <link>https://www.reuters.com/business/finance/final-credit-suisse-ceo-ulrich-korner-leave-ubs-ft-reports-2024-05-06/</link>
-      <description><![CDATA[据英国《金融时报》周一报道，瑞士信贷最后任首席执行官乌尔里希·科纳（Ulrich Korner）将在未来几周内离开瑞银。]]></description>
-      <guid>https://www.reuters.com/business/finance/final-credit-suisse-ceo-ulrich-korner-leave-ubs-ft-reports-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 04:51:04 GMT</pubDate>
-    </item>
-    <item>
       <title>加拿大西捷航空与工会达成临时协议以避免停工</title>
       <link>https://www.reuters.com/business/aerospace-defense/canadas-westjet-reaches-tentative-deal-with-union-avoid-work-stoppage-2024-05-06/</link>
       <description><![CDATA[加拿大航空公司西捷航空周一在一份联合声明中表示，已与代表其维护工程师的工会达成一项临时协议，以避免停工。]]></description>
@@ -62,89 +104,46 @@
       <pubDate>Mon, 06 May 2024 04:46:30 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：回到降息轨道</title>
-      <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-06/</link>
-      <description><![CDATA[Rae Wee 对欧洲和全球市场未来一天的展望]]></description>
-      <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 04:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>首席经济学家莱恩表示，欧洲央行降息的理由越来越充分</title>
-      <link>https://www.reuters.com/markets/rates-bonds/ecb-rate-cut-case-getting-stronger-says-chief-economist-lane-2024-05-06/</link>
-      <description><![CDATA[欧洲央行首席经济学家 Philip Lane 周一对西班牙报纸《机密报》表示，随着服务业通胀终于开始缓解，欧洲央行 6 月份降息的理由越来越充分。]]></description>
-      <guid>https://www.reuters.com/markets/rates-bonds/ecb-rate-cut-case-getting-stronger-says-chief-economist-lane-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 03:06:24 GMT</pubDate>
-    </item>
-    <item>
       <title>由于中国和美国电动汽车的增长，今年汽油需求增长将放缓</title>
       <link>https://www.reuters.com/business/energy/gasoline-demand-growth-slow-this-year-ev-growth-china-us-2024-05-06/</link>
-      <description><![CDATA[分析师表示，受中国和美国转向电动汽车以及去年 COVID-19 疫情爆发后恢复正常消费的推动，全球汽油需求增长可能会在 2024 年减半，从而挤压下半年炼油厂的利润率。]]></description>
+      <description><![CDATA[分析师表示，受中国和美国转向电动汽车以及去年新冠疫情反弹后消费恢复正常的推动，全球汽油需求增长可能在 2024 年减半，从而挤压下半年炼油厂的利润率。]]></description>
       <guid>https://www.reuters.com/business/energy/gasoline-demand-growth-slow-this-year-ev-growth-china-us-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 02:23:06 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市因中国股市上涨而上涨，美联储削减押注；日元走软</title>
+      <title>美联储削减押注，全球股市上涨，中国股市上涨；日元走软</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-06/</link>
-      <description><![CDATA[亚洲股市周一升至一年多来的最高水平，因人们重新押注美联储今年很可能会降息，而日元在上周因东京疑似货币干预而大幅飙升后走弱。]]></description>
+      <description><![CDATA[由于人们重新押注美联储今年可能会放松利率，全球股市走高，而日元在上周因东京疑似货币干预而大幅上涨后走软。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 02:14:50 GMT</pubDate>
     </item>
     <item>
-      <title>4月份中国服务业活动有所放缓，但仍保持稳健</title>
-      <link>https://www.reuters.com/world/china/chinas-services-activity-eases-april-still-solid-caixin-pmi-shows-2024-05-06/</link>
-      <description><![CDATA[周一的一项私营部门调查显示，由于成本上升，中国服务业活动扩张略有放缓，但新订单增长加速，商业信心稳步上升，提振了经济持续复苏的希望。]]></description>
-      <guid>https://www.reuters.com/world/china/chinas-services-activity-eases-april-still-solid-caixin-pmi-shows-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 01:53:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳洲航空同意就航班取消案件支付 6600 万美元的罚款</title>
+      <title>澳大利亚澳洲航空将支付 7900 万美元解决航班取消案</title>
       <link>https://www.reuters.com/business/qantas-airways-faces-66-mln-court-penalty-flight-cancellations-2024-05-05/</link>
-      <description><![CDATA[澳大利亚澳洲航空 (Qantas Airways) 同意支付 1.2 亿澳元（合 7,900 万美元）以和解监管机构就已取消航班上数千张机票的销售提起的诉讼，试图结束该航空公司的声誉危机。]]></description>
+      <description><![CDATA[澳大利亚澳洲航空 (Qantas Airways) 同意支付 1.2 亿澳元（合 7,900 万美元），以和解监管机构就已取消航班上数千张机票的销售提起的诉讼，试图结束该航空公司的声誉危机。]]></description>
       <guid>https://www.reuters.com/business/qantas-airways-faces-66-mln-court-penalty-flight-cancellations-2024-05-05/</guid>
       <pubDate>Sun, 05 May 2024 22:20:53 GMT</pubDate>
     </item>
     <item>
-      <title>早盘报价：金融环境亮绿灯，外汇市场平静</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-05/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-05/</guid>
-      <pubDate>Sun, 05 May 2024 21:46:57 GMT</pubDate>
+      <title>随着焦点转向梅赛德斯投票，UAW工人批准与戴姆勒的协议</title>
+      <link>https://www.reuters.com/business/autos-transportation/volkswagen-tennessee-plant-workers-vote-uaw-membership-2024-04-17/</link>
+      <description><![CDATA[继去年秋天与底特律三大汽车制造商取得一系列胜利后，美国汽车工人联合会的成员于周六批准了与戴姆勒卡车的新劳动合同。]]></description>
+      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-tennessee-plant-workers-vote-uaw-membership-2024-04-17/</guid>
+      <pubDate>Wed, 17 Apr 2024 15:23:56 GMT</pubDate>
     </item>
     <item>
-      <title>随着利润下滑，西太平洋银行宣布新的回购和特别股息</title>
-      <link>https://www.reuters.com/business/finance/australias-westpac-net-profit-falls-16-announces-additional-661-million-buyback-2024-05-05/</link>
-      <description><![CDATA[澳大利亚西太平洋银行 (Westpac) 将其股票回购计划提高了 10 亿澳元（约合 6.61 亿美元），并于周一以强劲的资产负债表为由宣布派发特别股息，尽管其上半年利润因竞争激烈和成本高昂而下降了 16%。]]></description>
-      <guid>https://www.reuters.com/business/finance/australias-westpac-net-profit-falls-16-announces-additional-661-million-buyback-2024-05-05/</guid>
-      <pubDate>Sun, 05 May 2024 21:42:32 GMT</pubDate>
+      <title>解释者：纽约立法机关重新召开会议时，主权债务法案面临什么风险</title>
+      <link>https://www.reuters.com/business/finance/new-york-lawmakers-tackle-sovereign-debt-reworks-again-2024-03-11/</link>
+      <description><![CDATA[纽约州议员周一结束为期两周的休息，剩下一个月的时间来决定一项有争议的法案的命运，该法案旨在简化主权债务重组，涉及数千亿美元的债券合同。]]></description>
+      <guid>https://www.reuters.com/business/finance/new-york-lawmakers-tackle-sovereign-debt-reworks-again-2024-03-11/</guid>
+      <pubDate>Mon, 11 Mar 2024 16:51:35 GMT</pubDate>
     </item>
     <item>
-      <title>伯克希尔哈撒韦公司首席执行官布鲁克斯将中国和欧洲视为增长领域</title>
-      <link>https://www.reuters.com/business/retail-consumer/berkshires-brooks-running-ceo-sees-china-europe-growth-areas-2024-05-05/</link>
-      <description><![CDATA[布鲁克斯跑步公司的新任首席执行官表示，这家由沃伦·巴菲特旗下的伯克希尔哈撒韦公司拥有的跑鞋制造商将中国和欧洲视为该公司在美国创收最多的业务的增长领域。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/berkshires-brooks-running-ceo-sees-china-europe-growth-areas-2024-05-05/</guid>
-      <pubDate>Sun, 05 May 2024 10:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>富士康重申第二季度收入将增长，四月份销售额创历史新高</title>
-      <link>https://www.reuters.com/technology/foxconn-reiterates-q2-revenue-grow-posts-record-april-sales-2024-05-05/</link>
-      <description><![CDATA[台湾富士康是全球最大的电子产品代工制造商，也是苹果 iPhone 最大的组装商，该公司周日重申，预计第二季度收入将增长，并报告 4 月份销售额创历史新高。
-富士康在声明中表示，今年第二季度“仍为传统淡季，主要产品进入新旧过渡期”。]]></description>
-      <guid>https://www.reuters.com/technology/foxconn-reiterates-q2-revenue-grow-posts-record-april-sales-2024-05-05/</guid>
-      <pubDate>Sun, 05 May 2024 08:09:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>UAW 工人批准与戴姆勒卡车的美国劳工协议</title>
-      <link>https://www.reuters.com/business/autos-transportation/united-auto-workers-ratify-contract-with-daimler-truck-2024-05-05/</link>
-      <description><![CDATA[周六，美国汽车工人联合会成员批准了与戴姆勒卡车公司签订的新劳动合同，其中包括在四年协议的基础上总体工资至少上涨 25%。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/united-auto-workers-ratify-contract-with-daimler-truck-2024-05-05/</guid>
-      <pubDate>Sun, 05 May 2024 00:43:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>巴菲特称赞苹果公司尽管削减了股份，但表示伯克希尔哈撒韦公司管理得很好</title>
-      <link>https://www.reuters.com/markets/us/berkshire-shareholders-descend-omaha-annual-meeting-kicks-off-2024-05-04/</link>
-      <description><![CDATA[这次会议是巴菲特的第 60 次会议，他于 1965 年接管伯克希尔哈撒韦公司，并将其发展成为一家价值 8,620 亿美元的大型公司。这也是巴菲特的老朋友、商业伙伴和陪衬查理·芒格 (Charlie Munger) 去世（享年 99 岁）以来的第一次。]]></description>
-      <guid>https://www.reuters.com/markets/us/berkshire-shareholders-descend-omaha-annual-meeting-kicks-off-2024-05-04/</guid>
-      <pubDate>Sat, 04 May 2024 10:05:29 GMT</pubDate>
+      <title>航运公司应对红海胡塞武装袭击</title>
+      <link>https://www.reuters.com/world/middle-east/shipping-firms-avoid-red-sea-houthi-attacks-increase-2023-12-18/</link>
+      <description><![CDATA[也门胡塞武装加强了对红海船只的袭击，影响了对东西方贸易至关重要的航线。]]></description>
+      <guid>https://www.reuters.com/world/middle-east/shipping-firms-avoid-red-sea-houthi-attacks-increase-2023-12-18/</guid>
+      <pubDate>Mon, 18 Dec 2023 08:47:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
