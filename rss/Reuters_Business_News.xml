@@ -1,28 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 22:38:52 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Mon, 06 May 2024 23:18:29 GMT</lastBuildDate>
     <item>
-      <title>科蒂第三季度收入超出预期，因需求强劲而着眼于高端年度目标</title>
+      <title>澳大利亚澳新银行宣布13亿澳元回购，上半年现金盈利下降7%</title>
+      <link>https://www.reuters.com/markets/asia/australias-anz-group-announces-13-bln-buyback-first-half-cash-earnings-drop-7-2024-05-06/</link>
+      <description><![CDATA[澳新银行集团周二宣布进行新的 20 亿澳元（13.2 亿美元）股票回购，尽管该集团报告称，由于澳大利亚抵押贷款市场的激烈竞争以及运营费用的增加，上半年现金收益下降了 7%。]]></description>
+      <guid>https://www.reuters.com/markets/asia/australias-anz-group-announces-13-bln-buyback-first-half-cash-earnings-drop-7-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 22:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paul Weiss 从 Cleary 聘请顶级交易律师 Langston</title>
+      <link>https://www.reuters.com/markets/deals/paul-weiss-hires-top-deals-lawyer-langston-cleary-2024-05-06/</link>
+      <description><![CDATA[Paul, Weiss, Rifkind, Wharton &amp; 律师事务所加里森正在从竞争对手公司 Cleary Gottlieb Steen &amp; 聘请顶级交易撮合者吉姆·兰斯顿 (Jim Langston)。 Hamilton 作为其并购 (M&amp;A) 业务的合伙人。]]></description>
+      <guid>https://www.reuters.com/markets/deals/paul-weiss-hires-top-deals-lawyer-langston-cleary-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 22:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>早盘竞价：澳洲联储接下来上涨，恒生指数有望第11次上涨</title>
+      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-06/</link>
+      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 21:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于对其软件产品的强劲需求，Axon 上调了全年收入预测</title>
+      <link>https://www.reuters.com/business/axon-raises-full-year-revenue-forecast-strong-demand-its-software-products-2024-05-06/</link>
+      <description><![CDATA[Axon Enterprise 周一上调了全年核心利润和收入预测，因为对其软件产品和最近推出的 TASER 10 警务设备的强劲需求。]]></description>
+      <guid>https://www.reuters.com/business/axon-raises-full-year-revenue-forecast-strong-demand-its-software-products-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 21:34:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>航空租赁第一季度利润因利息支出增加而低于预期</title>
+      <link>https://www.reuters.com/business/aerospace-defense/air-lease-q1-profit-misses-estimates-higher-interest-expenses-2024-05-06/</link>
+      <description><![CDATA[航空租赁公司表示，该公司正在努力解决飞机制造商波音和空客的交付延迟问题，该公司周一公布的季度利润低于预期，因为该公司为购买飞机而借入的资金支付了更高的利息。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/air-lease-q1-profit-misses-estimates-higher-interest-expenses-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 20:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>科蒂第三季度营收超出预期，因需求强劲而力争实现 2024 年年底目标</title>
       <link>https://www.reuters.com/business/retail-consumer/coty-beats-q3-revenue-estimates-eyes-high-end-annual-targets-strong-demand-2024-05-06/</link>
-      <description><![CDATA[美容公司科蒂周一第三季度营收超出华尔街预期，并表示，凭借全球对其奢侈品和大众市场产品的稳定需求，预计将实现年度目标的高端。]]></description>
+      <description><![CDATA[化妆品公司科蒂周一公布的第三季度营收超出华尔街预期，并表示得益于全球对其奢侈品和大众市场产品的稳定需求，该公司预计将实现年度目标的高端。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/coty-beats-q3-revenue-estimates-eyes-high-end-annual-targets-strong-demand-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 20:33:02 GMT</pubDate>
     </item>
     <item>
       <title>UPS 首席财务官布莱恩·纽曼 (Brian Newman) 将于 6 月 1 日辞职</title>
       <link>https://www.reuters.com/business/ups-cfo-brian-newman-step-down-june-1-company-says-2024-05-06/</link>
-      <description><![CDATA[联合包裹服务公司周一表示，其首席财务官兼执行副总裁布莱恩·纽曼将于 6 月 1 日离职。]]></description>
+      <description><![CDATA[联合包裹服务公司 (United Parcel Service) 周一表示，其首席财务官兼执行副总裁布莱恩·纽曼 (Brian Newman) 将于 6 月 1 日离开公司。]]></description>
       <guid>https://www.reuters.com/business/ups-cfo-brian-newman-step-down-june-1-company-says-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 20:30:40 GMT</pubDate>
     </item>
     <item>
       <title>高盛针对 1MDB 的刑事案件正式结束</title>
       <link>https://www.reuters.com/legal/goldman-sachs-criminal-case-over-1mdb-formally-ends-2024-05-06/</link>
-      <description><![CDATA[周一，一名美国法官正式结束了美国政府针对高盛提起的刑事诉讼，该案涉及高盛为马来西亚基金 1MDB 提供的服务，此前高盛履行了义务并支付了 29 亿美元的罚款。]]></description>
+      <description><![CDATA[在高盛履行义务并支付了 29 亿美元罚款后，一名美国法官于周一正式结束了美国政府对高盛的刑事诉讼，该诉讼与这家华尔街银行为马来西亚基金 1MDB 所做的工作有关。]]></description>
       <guid>https://www.reuters.com/legal/goldman-sachs-criminal-case-over-1mdb-formally-ends-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 20:26:23 GMT</pubDate>
     </item>
@@ -36,21 +71,14 @@
     <item>
       <title>由于囊性纤维化治疗的强劲需求，Vertex 超出第一季度利润预期</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/vertex-tops-q1-profit-estimates-robust-demand-cystic-fibrosis-treatments-2024-05-06/</link>
-      <description><![CDATA[由于囊性纤维化治疗药物的强劲应用，福泰制药 (Vertex Pharmaceuticals) 周一第一季度利润超出了华尔街预期。]]></description>
+      <description><![CDATA[福泰制药 (Vertex Pharmaceuticals) 周一第一季度利润超出了华尔街预期，这得益于其重磅炸弹囊性纤维化治疗药物的强劲应用。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/vertex-tops-q1-profit-estimates-robust-demand-cystic-fibrosis-treatments-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 20:11:48 GMT</pubDate>
     </item>
     <item>
-      <title>美联储调查显示美国银行报告贷款需求疲软</title>
-      <link>https://www.reuters.com/business/finance/us-banks-report-weaker-loan-demand-fed-survey-says-2024-05-06/</link>
-      <description><![CDATA[根据美联储周一公布的对高级信贷官员的调查，美国各银行报告今年第一季度工业贷款需求再次疲软，家庭信贷需求下降。]]></description>
-      <guid>https://www.reuters.com/business/finance/us-banks-report-weaker-loan-demand-fed-survey-says-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 19:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国联邦航空管理局对波音 787 展开调查</title>
+      <title>美国联邦航空局对波音 787 展开调查</title>
       <link>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</link>
-      <description><![CDATA[美国联邦航空管理局周一表示，已对波音 787 梦想客机展开调查，此前该飞机制造商称部分员工声称部分测试已完成，存在“不当行为”。]]></description>
+      <description><![CDATA[美国联邦航空管理局周一表示，已对波音 787 梦想客机展开调查，此前这家飞机制造商表示，部分员工声称部分测试已完成，存在“不当行为”。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 19:17:14 GMT</pubDate>
     </item>
@@ -62,21 +90,7 @@
       <pubDate>Mon, 06 May 2024 18:32:46 GMT</pubDate>
     </item>
     <item>
-      <title>美国金融监管机构重启拖延已久的薪酬规则制定工作</title>
-      <link>https://www.reuters.com/business/finance/us-financial-regulators-restart-work-long-delayed-compensation-rules-2024-05-06/</link>
-      <description><![CDATA[美国三名金融监管机构已恢复了一项拖延已久的规则制定项目，以使金融公司的高管薪酬计划对风险更加敏感。]]></description>
-      <guid>https://www.reuters.com/business/finance/us-financial-regulators-restart-work-long-delayed-compensation-rules-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 18:18:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国金融市场监管机构收集双边回购数据</title>
-      <link>https://www.reuters.com/markets/us/us-financial-markets-watchdog-collect-data-bilateral-repo-2024-05-06/</link>
-      <description><![CDATA[美国财政部的研究机构金融研究办公室（OFR）周一表示，已通过一项最终规则，允许其收集回购协议（repo）市场某些交易的数据。]]></description>
-      <guid>https://www.reuters.com/markets/us/us-financial-markets-watchdog-collect-data-bilateral-repo-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 16:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>独家：消息人士称迪士尼和康卡斯特寻求顾问解决 Hulu 估值问题</title>
+      <title>独家：消息人士称，迪士尼和康卡斯特寻求顾问解决 Hulu 估值问题</title>
       <link>https://www.reuters.com/business/media-telecom/disney-comcast-seek-advisor-resolve-hulu-valuation-sources-say-2024-05-06/</link>
       <description><![CDATA[据知情人士透露，华特迪士尼和康卡斯特正在寻求聘请一名财务顾问，以解决如何对前者将从康卡斯特手中收购的流媒体平台 Hulu 33% 股份进行估值的争议。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/disney-comcast-seek-advisor-resolve-hulu-valuation-sources-say-2024-05-06/</guid>
@@ -85,7 +99,7 @@
     <item>
       <title>据 Electrek 报道，特斯拉在软件和服务团队中裁掉了更多员工</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-lays-off-more-staff-software-service-teams-electrek-reports-2024-05-06/</link>
-      <description><![CDATA[据科技出版物 Electrek 周一援引知情人士的话报道，电动汽车制造商特斯拉已解雇了软件、服务和工程部门的员工。]]></description>
+      <description><![CDATA[科技出版物 Electrek 周一援引知情人士的话报道称，电动汽车制造商特斯拉已解雇软件、服务和工程部门的员工。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-lays-off-more-staff-software-service-teams-electrek-reports-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 15:41:59 GMT</pubDate>
     </item>
@@ -97,20 +111,6 @@
       <pubDate>Mon, 06 May 2024 15:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>研究表明，2023 年美国低收入人群抵押贷款数量将减少</title>
-      <link>https://www.reuters.com/markets/us/fewer-low-income-americans-took-out-mortgages-2023-study-says-2024-05-06/</link>
-      <description><![CDATA[房地产经纪人 Redfin 在周一的一份报告中表示，去年获得抵押贷款的低收入美国人比 2020 年要少，因为高利率使购房变得更加负担不起。]]></description>
-      <guid>https://www.reuters.com/markets/us/fewer-low-income-americans-took-out-mortgages-2023-study-says-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 14:19:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国医院网络 Steward 申请破产，寻求新贷款</title>
-      <link>https://www.reuters.com/world/us/us-hospital-network-steward-files-bankruptcy-aims-new-loan-2024-05-06/</link>
-      <description><![CDATA[Steward Health 在美国八个州经营着 31 家医院，周一在德克萨斯州根据美国破产法第 11 章申请破产，旨在从其房东 Medical Properties Trust 获得新贷款。]]></description>
-      <guid>https://www.reuters.com/world/us/us-hospital-network-steward-files-bankruptcy-aims-new-loan-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 14:07:22 GMT</pubDate>
-    </item>
-    <item>
       <title>欧盟批准日本新日铁公司以 149 亿美元收购美国钢铁公司</title>
       <link>https://www.reuters.com/markets/deals/eu-clears-nippon-steels-149-bln-purchase-us-steel-2024-05-06/</link>
       <description><![CDATA[周一，欧盟批准了日本新日铁公司以 149 亿美元收购美国钢铁公司的交易，缓解了该交易引发的竞争担忧，该交易在美国引发了政治反对。]]></description>
@@ -120,7 +120,7 @@
     <item>
       <title>由于对第三季度消费者需求的担忧，泰森食品股价下跌</title>
       <link>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</link>
-      <description><![CDATA[周一，美国肉类加工商泰森食品公司警告称，消费者面临持续通胀的压力，而高企的大宗商品成本可能会影响即将公布的业绩，该公司股价周一有望出现一年来最严重的单日跌幅。]]></description>
+      <description><![CDATA[周一，美国肉类加工商泰森食品警告称，消费者面临持续通胀的压力，而高昂的商品成本可能对即将公布的业绩造成影响，此后，该公司股价有望创下一年来最大单日跌幅。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:34:45 GMT</pubDate>
     </item>
@@ -141,7 +141,7 @@
     <item>
       <title>沃伦·巴菲特的粉丝为他离开后制定了自己的路线</title>
       <link>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</link>
-      <description><![CDATA[93岁的伯克希尔哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特在思考自己的未来时，周六告诉股东，如果幸运的话，他还能再活六七年，但他补充说，“这可能明天就结束了”。]]></description>
+      <description><![CDATA[93岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特在思考自己的未来时，周六告诉股东，如果幸运的话，他还能再活六七年，但他补充说，“这可能明天就结束了”。]]></description>
       <guid>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:02:42 GMT</pubDate>
     </item>
