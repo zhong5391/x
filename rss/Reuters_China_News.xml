@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻 | 今日头条 | 路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 06 May 2024 05:33:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 05:48:34 GMT</lastBuildDate>
     <item>
-      <title>美国就业报告疲软后美元持稳；日元本周开局不利</title>
+      <title>低预算的中国游客凸显香港旅游业的转变</title>
+      <link>https://www.reuters.com/world/china/low-budget-chinese-travellers-highlight-shift-hong-kong-tourism-2024-05-06/</link>
+      <description><![CDATA[注重成本的中国游客已经取代了许多曾经涌入香港的现金充裕的内地游客，其中一些人只对免费步行游览这座城市以及在深圳过夜以省钱感兴趣。]]></description>
+      <guid>https://www.reuters.com/world/china/low-budget-chinese-travellers-highlight-shift-hong-kong-tourism-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 05:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国关税可能导致干邑生产商白兰地过剩</title>
+      <link>https://www.reuters.com/business/retail-consumer/chinese-tariffs-could-leave-cognac-makers-with-too-much-brandy-2024-05-06/</link>
+      <description><![CDATA[根据路透社的计算，分析师和投资者担心企业可能被迫打折，中国对欧盟白兰地征收高额关税将导致法国企业持有大量干邑白兰地，而这些干邑白兰地可能难以在其他地方销售。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/chinese-tariffs-could-leave-cognac-makers-with-too-much-brandy-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 05:05:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>菲律宾和美国在年度军事演习中击退模拟外国入侵者</title>
+      <link>https://www.reuters.com/world/philippines-us-repel-mock-foreign-invaders-annual-military-exercises-2024-05-06/</link>
+      <description><![CDATA[周一，美国和菲律宾武装部队发射导弹和大炮，阻止对台湾面临的菲律宾北部海域的模拟入侵，在地区紧张局势升级之际展示军事力量并加强关系。]]></description>
+      <guid>https://www.reuters.com/world/philippines-us-repel-mock-foreign-invaders-annual-military-exercises-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 04:49:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于中国和美国电动汽车的增长，今年汽油需求增长将放缓</title>
+      <link>https://www.reuters.com/business/energy/gasoline-demand-growth-slow-this-year-ev-growth-china-us-2024-05-06/</link>
+      <description><![CDATA[分析师表示，受中国和美国转向电动汽车以及去年 COVID-19 疫情爆发后恢复正常消费的推动，全球汽油需求增长可能会在 2024 年减半，从而挤压下半年炼油厂的利润率。]]></description>
+      <guid>https://www.reuters.com/business/energy/gasoline-demand-growth-slow-this-year-ev-growth-china-us-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 02:23:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>菲律宾表示不会加剧南海紧张局势，不会使用高压水枪</title>
+      <link>https://www.reuters.com/world/asia-pacific/philippines-says-wont-raise-south-china-sea-tensions-wont-use-water-cannons-2024-05-06/</link>
+      <description><![CDATA[菲律宾总统小费迪南德·马科斯周一表示，该国不会在南海使用水炮或任何攻击性武器。]]></description>
+      <guid>https://www.reuters.com/world/asia-pacific/philippines-says-wont-raise-south-china-sea-tensions-wont-use-water-cannons-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 02:20:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚洲股市因中国股市上涨而上涨，美联储削减押注；日元走弱</title>
+      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-06/</link>
+      <description><![CDATA[由于市场重新押注美联储今年很可能放松利率，亚洲股市周一升至一年多来的最高水平，而日元在上周因东京疑似货币干预而大幅飙升后走弱。]]></description>
+      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 02:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>4月份中国服务业活动有所放缓，但仍保持稳健</title>
+      <link>https://www.reuters.com/world/china/chinas-services-activity-eases-april-still-solid-caixin-pmi-shows-2024-05-06/</link>
+      <description><![CDATA[周一的一项私营部门调查显示，由于成本上升，中国服务业活动扩张略有放缓，但新订单增长加速，商业信心稳步上升，提振了经济持续复苏的希望。]]></description>
+      <guid>https://www.reuters.com/world/china/chinas-services-activity-eases-april-still-solid-caixin-pmi-shows-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 01:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>美元因新的降息押注而保持稳定；日元本周开局不利</title>
       <link>https://www.reuters.com/markets/currencies/dollar-steady-after-soft-us-jobs-report-yen-starts-week-back-foot-2024-05-06/</link>
-      <description><![CDATA[周一美元基本持稳，因疲软的美国就业报告增强了人们对美联储今年仍可能降息两次的预期，而日元在本周初略有走弱。]]></description>
+      <description><![CDATA[美元周一大体稳定，因疲软的美国就业报告提振了美联储今年仍可能降息的押注，而日元在上周疑似干预行动助长了疯狂走势后大幅走低。]]></description>
       <guid>https://www.reuters.com/markets/currencies/dollar-steady-after-soft-us-jobs-report-yen-starts-week-back-foot-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 01:10:00 GMT</pubDate>
     </item>
@@ -29,7 +78,7 @@
     <item>
       <title>中国队击败印度尼西亚队夺得汤姆斯杯和尤伯杯双冠王</title>
       <link>https://www.reuters.com/sports/china-down-indonesia-claim-thomas-uber-cup-double-2024-05-05/</link>
-      <description><![CDATA[中国男队在周日的两项比赛中夺得尤伯杯冠军，印尼队获得亚军，时隔六年后，中国男队重新夺回汤姆斯杯冠军。]]></description>
+      <description><![CDATA[周日，中国女子队夺得尤伯杯冠军，而印尼队则在两项比赛中均获得亚军，几个小时之后，中国男子队时隔六年重新夺得汤姆斯杯冠军。]]></description>
       <guid>https://www.reuters.com/sports/china-down-indonesia-claim-thomas-uber-cup-double-2024-05-05/</guid>
       <pubDate>Sun, 05 May 2024 15:38:37 GMT</pubDate>
     </item>
@@ -62,9 +111,9 @@
       <pubDate>Sat, 04 May 2024 10:53:19 GMT</pubDate>
     </item>
     <item>
-      <title>前任部长称，如果特朗普获胜，台湾将获得其支持</title>
+      <title>前任命者表示，如果特朗普获胜，台湾将得到特朗普的支持</title>
       <link>https://www.reuters.com/world/asia-pacific/taiwan-will-have-trumps-support-if-he-wins-ex-appointee-says-2024-05-04/</link>
-      <description><![CDATA[唐纳德·特朗普任命的一位前美国大使周六表示，他相信这位前总统如果重新入主白宫，将再次支持台湾。]]></description>
+      <description><![CDATA[唐纳德·特朗普任命的一位前美国大使周六表示，他相信如果前总统夺回白宫，他将再次支持台湾。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/taiwan-will-have-trumps-support-if-he-wins-ex-appointee-says-2024-05-04/</guid>
       <pubDate>Sat, 04 May 2024 09:58:49 GMT</pubDate>
     </item>
@@ -76,63 +125,14 @@
       <pubDate>Sat, 04 May 2024 08:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>印度外交部长拒绝拜登的“仇外”言论</title>
+      <title>印度外交部长驳斥拜登的“仇外”言论</title>
       <link>https://www.reuters.com/world/india/indias-foreign-minister-rejects-bidens-xenophobia-comment-2024-05-04/</link>
       <description><![CDATA[据《经济时报》周六报道，印度外交部长苏杰生驳斥了美国总统乔·拜登有关“仇外心理”阻碍印度经济增长的言论。]]></description>
       <guid>https://www.reuters.com/world/india/indias-foreign-minister-rejects-bidens-xenophobia-comment-2024-05-04/</guid>
       <pubDate>Sat, 04 May 2024 05:34:29 GMT</pubDate>
     </item>
     <item>
-      <title>中国 Zeekr 在美国 IPO 寻求高达 51.3 亿美元的估值</title>
-      <link>https://www.reuters.com/markets/deals/chinas-zeekr-plans-raise-up-368-mln-us-ipo-2024-05-03/</link>
-      <description><![CDATA[电动汽车制造商Zeekr智能科技控股公司周五表示，其在美国首次公开募股(IPO)的目标估值高达51.3亿美元，这是两年多来中国公司首次大规模上市。]]></description>
-      <guid>https://www.reuters.com/markets/deals/chinas-zeekr-plans-raise-up-368-mln-us-ipo-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 21:21:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>小久保在伤停补时扑出点球，为日本队锁定冠军</title>
-      <link>https://www.reuters.com/sports/soccer/kokubos-injury-time-penalty-save-secures-title-japan-2024-05-03/</link>
-      <description><![CDATA[日本队在周五以 1-0 击败乌兹别克斯坦队后，在伤停补时阶段由小久保扑出点球，为大岩刚的球队夺得了 23 岁以下亚洲杯冠军。]]></description>
-      <guid>https://www.reuters.com/sports/soccer/kokubos-injury-time-penalty-save-secures-title-japan-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 20:56:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>流亡中国商人幕僚长在美国承认欺诈罪</title>
-      <link>https://www.reuters.com/world/us/exiled-chinese-businessmans-chief-of-staff-pleads-guilty-us-fraud-2024-05-03/</link>
-      <description><![CDATA[流亡中国商人郭文贵的幕僚长周五承认与郭文贵合谋实施一项大规模计划，诈骗数千名投资者超过 10 亿美元。]]></description>
-      <guid>https://www.reuters.com/world/us/exiled-chinese-businessmans-chief-of-staff-pleads-guilty-us-fraud-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 17:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大调查发现外国干预选举的证据，但结果不受影响</title>
-      <link>https://www.reuters.com/world/americas/canada-probe-finds-evidence-foreign-meddling-elections-results-not-affected-2024-05-03/</link>
-      <description><![CDATA[根据周五公布的初步调查结果，官方调查发现加拿大最近两次联邦选举存在外国干预的证据，但投票结果并未受到影响，选举制度也很健全。]]></description>
-      <guid>https://www.reuters.com/world/americas/canada-probe-finds-evidence-foreign-meddling-elections-results-not-affected-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 16:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯称美国二次制裁旨在“遏制”中国</title>
-      <link>https://www.reuters.com/world/russia-says-us-secondary-sanctions-aim-contain-china-2024-05-03/</link>
-      <description><![CDATA[俄罗斯外交部发言人玛丽亚·扎哈罗娃(Maria Zakharova)周五表示，美国正在利用对被视为与俄罗斯接触的中国企业实施二次制裁的威胁作为试图遏制北京的“借口”。]]></description>
-      <guid>https://www.reuters.com/world/russia-says-us-secondary-sanctions-aim-contain-china-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 15:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>汽车制造商赢得了在电动汽车税收抵免中使用中国石墨的延期</title>
-      <link>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</link>
-      <description><![CDATA[美国财政部周五在电池矿物要求方面给予汽车制造商额外的灵活性，以实现对来自中国的一些重要微量矿物（例如石墨）的电动汽车税收抵免。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/automakers-win-extension-use-chinese-graphite-ev-tax-credits-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 14:12:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>习近平访问之前，中国在法国电动汽车市场的份额下滑</title>
-      <link>https://www.reuters.com/business/autos-transportation/chinese-share-french-ev-market-slumps-after-incentives-curbed-2024-05-03/</link>
-      <description><![CDATA[行业数据显示，法国政府减缓中国制造电动汽车涌入的努力正在取得成果，这突显了中国国家主席下周访问时最敏感的贸易问题之一。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/chinese-share-french-ev-market-slumps-after-incentives-curbed-2024-05-03/</guid>
-      <pubDate>Fri, 03 May 2024 12:24:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>情况资料箱：欧盟对中国补贴和进口的调查</title>
+      <title>资料库：欧盟对中国补贴和进口展开调查</title>
       <link>https://www.reuters.com/business/eu-probes-chinese-subsidies-imports-2024-04-19/</link>
       <description><![CDATA[欧盟周三对中国医疗器械采购展开调查，这是保护本土制造商的最新举措。]]></description>
       <guid>https://www.reuters.com/business/eu-probes-chinese-subsidies-imports-2024-04-19/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>Factbox：烈酒制造商面临中国欧盟白兰地调查</title>
       <link>https://www.reuters.com/business/retail-consumer/spirits-makers-exposed-chinas-eu-brandy-probe-2024-01-05/</link>
-      <description><![CDATA[中国对从欧盟进口的白兰地发起反倾销调查，此举似乎主要针对法国。]]></description>
+      <description><![CDATA[中国对欧盟进口白兰地发起反倾销调查，此举似乎主要针对法国。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/spirits-makers-exposed-chinas-eu-brandy-probe-2024-01-05/</guid>
       <pubDate>Fri, 05 Jan 2024 15:49:14 GMT</pubDate>
     </item>
