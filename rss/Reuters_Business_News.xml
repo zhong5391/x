@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 | 今日国际头条 | 路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 08:52:51 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Mon, 06 May 2024 09:20:41 GMT</lastBuildDate>
     <item>
       <title>境况不佳的法国 IT 公司 Atos 表示已收到四项重组要约</title>
       <link>https://www.reuters.com/markets/deals/atos-says-it-received-four-restructuring-offers-2024-05-06/</link>
@@ -20,7 +20,7 @@
       <pubDate>Mon, 06 May 2024 05:05:33 GMT</pubDate>
     </item>
     <item>
-      <title>据英国《金融时报》报道，瑞士信贷集团首席执行官乌尔里希·科纳最终离开瑞银</title>
+      <title>据英国《金融时报》报道，瑞士信贷首席执行官乌尔里希·科纳最终离开瑞银</title>
       <link>https://www.reuters.com/business/finance/final-credit-suisse-ceo-ulrich-korner-leave-ubs-ft-reports-2024-05-06/</link>
       <description><![CDATA[据英国《金融时报》周一报道，瑞士信贷最后任首席执行官乌尔里希·科纳（Ulrich Korner）将在未来几周内离开瑞银。]]></description>
       <guid>https://www.reuters.com/business/finance/final-credit-suisse-ceo-ulrich-korner-leave-ubs-ft-reports-2024-05-06/</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>加拿大西捷航空与工会达成临时协议以避免停工</title>
       <link>https://www.reuters.com/business/aerospace-defense/canadas-westjet-reaches-tentative-deal-with-union-avoid-work-stoppage-2024-05-06/</link>
-      <description><![CDATA[加拿大航空公司西捷航空与代表其维修工程师的工会周一在一份联合声明中表示，双方已达成初步协议，以避免停工。]]></description>
+      <description><![CDATA[加拿大航空公司西捷航空已与代表其维护工程师的工会达成一项临时协议，以避免停工，两方周一在一份联合声明中表示。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/canadas-westjet-reaches-tentative-deal-with-union-avoid-work-stoppage-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 04:46:30 GMT</pubDate>
     </item>
@@ -57,26 +57,26 @@
     <item>
       <title>由于中国和美国电动汽车的增长，今年汽油需求增长将放缓</title>
       <link>https://www.reuters.com/business/energy/gasoline-demand-growth-slow-this-year-ev-growth-china-us-2024-05-06/</link>
-      <description><![CDATA[分析师表示，受中国和美国转向电动汽车以及去年 COVID-19 疫情爆发后恢复正常消费的推动，全球汽油需求增长可能会在 2024 年减半，从而挤压下半年炼油厂的利润率。]]></description>
+      <description><![CDATA[分析师表示，受中国和美国转向电动汽车以及去年新冠疫情反弹后消费恢复正常的推动，全球汽油需求增长可能在 2024 年减半，从而挤压下半年炼油厂的利润率。]]></description>
       <guid>https://www.reuters.com/business/energy/gasoline-demand-growth-slow-this-year-ev-growth-china-us-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 02:23:06 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市因中国股市上涨、美联储削减押注而上涨；日元走软</title>
+      <title>亚洲股市因中国股市上涨而上涨，美联储削减押注；日元走弱</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-06/</link>
-      <description><![CDATA[由于市场重新押注美联储今年很可能放松利率，亚洲股市周一升至一年多以来的最高水平，而日元在上周因东京疑似货币干预而大幅飙升后走弱。]]></description>
+      <description><![CDATA[由于市场重新押注美联储今年很可能放松利率，亚洲股市周一升至一年多来的最高水平，而日元在上周因东京疑似货币干预而大幅飙升后走弱。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 02:14:50 GMT</pubDate>
     </item>
     <item>
-      <title>4月份中国服务业活动有所放缓，但仍保持稳健</title>
+      <title>中国 4 月份服务业活动有所放缓，但依然强劲</title>
       <link>https://www.reuters.com/world/china/chinas-services-activity-eases-april-still-solid-caixin-pmi-shows-2024-05-06/</link>
       <description><![CDATA[周一的一项私营部门调查显示，由于成本上升，中国服务业活动扩张略有放缓，但新订单增长加速，商业信心稳步上升，提振了经济持续复苏的希望。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-services-activity-eases-april-still-solid-caixin-pmi-shows-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 01:53:12 GMT</pubDate>
     </item>
     <item>
-      <title>沙特阿拉伯提高价格后油价上涨</title>
+      <title>沙特阿拉伯上调油价后油价上涨</title>
       <link>https://www.reuters.com/business/energy/oil-nudges-higher-after-saudi-arabia-hikes-prices-2024-05-06/</link>
       <description><![CDATA[沙特阿拉伯上调大部分地区 6 月原油价格后，石油期货周一上涨，加沙停火协议的前景似乎渺茫，再次引发人们对以色列与哈马斯冲突可能在这个主要产油地区扩大的担忧。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-nudges-higher-after-saudi-arabia-hikes-prices-2024-05-06/</guid>
@@ -106,14 +106,14 @@
     <item>
       <title>据报道，Atos 董事会将于周日召开会议，审查收购要约</title>
       <link>https://www.reuters.com/markets/deals/atos-board-reported-be-meeting-sunday-review-takeover-bids-2024-05-05/</link>
-      <description><![CDATA[据《回声报》和《费加罗报》报道，法国科技公司 Atos 董事会定于周日晚上召开会议，考虑收购要约，其中包括捷克商人 Daniel Kretinsky 提交的收购要约。]]></description>
+      <description><![CDATA[据《回声报》和《费加罗报》报道，法国科技公司 Atos 董事会原定于周日晚间开会考虑收购要约，其中包括捷克商人丹尼尔·克雷廷斯基 (Daniel Kretinsky) 提出的收购要约。]]></description>
       <guid>https://www.reuters.com/markets/deals/atos-board-reported-be-meeting-sunday-review-takeover-bids-2024-05-05/</guid>
       <pubDate>Sun, 05 May 2024 19:34:31 GMT</pubDate>
     </item>
     <item>
       <title>伯克希尔哈撒韦公司的布鲁克斯跑步首席执行官将中国和欧洲视为增长领域</title>
       <link>https://www.reuters.com/business/retail-consumer/berkshires-brooks-running-ceo-sees-china-europe-growth-areas-2024-05-05/</link>
-      <description><![CDATA[布鲁克斯跑步公司的新任首席执行官表示，这家由沃伦·巴菲特旗下的伯克希尔·哈撒韦公司拥有的跑鞋制造商将中国和欧洲视为该公司在美国创收最多的业务的增长领域。]]></description>
+      <description><![CDATA[布鲁克斯跑步公司的新任首席执行官表示，这家由沃伦·巴菲特旗下的伯克希尔哈撒韦公司拥有的跑鞋制造商将中国和欧洲视为该公司在美国创收最多的业务的增长领域。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/berkshires-brooks-running-ceo-sees-china-europe-growth-areas-2024-05-05/</guid>
       <pubDate>Sun, 05 May 2024 10:10:09 GMT</pubDate>
     </item>
