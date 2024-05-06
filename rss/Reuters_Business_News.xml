@@ -1,19 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 | 今日国际头条 | 路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 13:22:53 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Mon, 06 May 2024 13:38:53 GMT</lastBuildDate>
     <item>
-      <title>降息押注期货小幅走高</title>
+      <title>欧盟批准新日铁以149亿美元收购美国钢铁公司</title>
+      <link>https://www.reuters.com/markets/deals/eu-clears-nippon-steels-149-bln-purchase-us-steel-2024-05-06/</link>
+      <description><![CDATA[欧盟委员会周一批准了日本新日铁公司以 149 亿美元收购美国钢铁公司的交易。]]></description>
+      <guid>https://www.reuters.com/markets/deals/eu-clears-nippon-steels-149-bln-purchase-us-steel-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 12:23:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Novavax最大股东Shah Capital加大董事会改组力度</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/novavaxs-top-shareholder-shah-capital-ramps-up-efforts-board-shakeup-2024-05-06/</link>
+      <description><![CDATA[对冲基金 Shah Capital 周一敦促 Novavax 股东投票反对三名董事的连任以及与高管薪酬相关的提案，加大了这家 COVID-19 疫苗制造商董事会改组的力度。]]></description>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/novavaxs-top-shareholder-shah-capital-ramps-up-efforts-board-shakeup-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 12:18:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>加拿大布鲁克菲尔德 (Brookfield) 将向私人信贷管理公司 Castlelake 投资 15 亿美元</title>
+      <link>https://www.reuters.com/markets/deals/canadas-brookfield-invest-15-bln-private-credit-manager-castlelake-2024-05-06/</link>
+      <description><![CDATA[加拿大布鲁克菲尔德资产管理公司周一表示，将向美国私人信贷管理公司 Castlelake 投资约 15 亿美元。]]></description>
+      <guid>https://www.reuters.com/markets/deals/canadas-brookfield-invest-15-bln-private-credit-manager-castlelake-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 11:53:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>泰森食品因成本控制努力而超出利润预期，销售额下滑</title>
+      <link>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</link>
+      <description><![CDATA[泰森食品周一第二季度利润超出了华尔街预期，该公司开始受益于关闭一些美国鸡肉加工厂以降低成本。]]></description>
+      <guid>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 11:34:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>精神航空预计第二季度收入疲软，因国内需求增长缓慢</title>
+      <link>https://www.reuters.com/business/aerospace-defense/spirit-airlines-forecasts-weak-q2-revenue-slow-growth-domestic-demand-2024-05-06/</link>
+      <description><![CDATA[精神航空周一预计，由于国内需求改善缓慢以及数十架飞机停飞，第二季度收入将疲弱。]]></description>
+      <guid>https://www.reuters.com/business/aerospace-defense/spirit-airlines-forecasts-weak-q2-revenue-slow-growth-domestic-demand-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 11:30:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国公用事业公司 Allete 以 62 亿美元的交易私有化</title>
+      <link>https://www.reuters.com/markets/deals/us-utility-allete-goes-private-62-bln-deal-2024-05-06/</link>
+      <description><![CDATA[Allete 周一表示，美国投资管理公司 Global Infrastructure Partners 和加拿大养老基金 CPP Investments 将以 62 亿美元的交易将这家清洁能源公司私有化。]]></description>
+      <guid>https://www.reuters.com/markets/deals/us-utility-allete-goes-private-62-bln-deal-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 11:26:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：哥伦比亚 Ecopetrol 探索参与海上风电拍卖</title>
+      <link>https://www.reuters.com/business/energy/colombias-ecopetrol-exploring-participation-offshore-wind-auction-2024-05-06/</link>
+      <description><![CDATA[哥伦比亚国有控股能源公司 Ecopetrol 在给路透社的一份声明中表示，该公司正在分析直接参与该安第斯国家首次海上风电拍卖的可能性。]]></description>
+      <guid>https://www.reuters.com/business/energy/colombias-ecopetrol-exploring-participation-offshore-wind-auction-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 11:07:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>洛伊斯报告称，投资收益回报强劲，利润更高</title>
+      <link>https://www.reuters.com/business/loews-reports-higher-profit-strong-returns-investment-income-2024-05-06/</link>
+      <description><![CDATA[Loews Corp 周一报告称，得益于较高的保费和强劲的投资回报，第一季度利润较上年增长近 22%。]]></description>
+      <guid>https://www.reuters.com/business/loews-reports-higher-profit-strong-returns-investment-income-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 11:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>周五大幅上涨后期货走高</title>
       <link>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</link>
-      <description><![CDATA[美国股指期货周一小幅走高，表明华尔街将进一步上涨，因为交易员预计美联储今年降息的可能性更大。]]></description>
+      <description><![CDATA[美国股指期货周一小幅走高，表明在前一交易日就业数据带动的反弹之后，华尔街将进一步上涨，因为交易员预计美联储今年降息的可能性更大。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:16:30 GMT</pubDate>
     </item>
     <item>
-      <title>焦点：丹尼面临猪妊娠箱承诺的代理投票</title>
+      <title>焦点：丹尼面临对猪妊娠箱承诺的代理投票</title>
       <link>https://www.reuters.com/business/dennys-faces-proxy-vote-over-pig-gestation-crate-pledge-2024-05-06/</link>
       <description><![CDATA[丹尼公司即将举行的股东投票可能会迫使该公司设定目标，减少使用来自供应商的猪肉，这些供应商将怀孕的猪严格限制在妊娠栏内。]]></description>
       <guid>https://www.reuters.com/business/dennys-faces-proxy-vote-over-pig-gestation-crate-pledge-2024-05-06/</guid>
@@ -29,23 +85,16 @@
     <item>
       <title>沃伦·巴菲特的继任者格雷格·阿贝尔被认为保留了伯克希尔的文化</title>
       <link>https://www.reuters.com/business/warren-buffetts-successor-greg-abel-seen-preserving-berkshires-culture-2024-05-06/</link>
-      <description><![CDATA[当格雷格·阿贝尔 (Greg Abel) 接替沃伦·巴菲特 (Warren Buffett) 执掌伯克希尔·哈撒韦公司 (Berkshire Hathaway) 时，即使他不如其传奇老板那样具有明星影响力，人们也期望他能保留这家巨头的企业文化。]]></description>
+      <description><![CDATA[当格雷格·阿贝尔接替沃伦·巴菲特掌管伯克希尔·哈撒韦公司时，人们期望他能够保留这家庞然大物的文化，即使他无法与这位传奇老板的明星影响力相媲美。]]></description>
       <guid>https://www.reuters.com/business/warren-buffetts-successor-greg-abel-seen-preserving-berkshires-culture-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:06:29 GMT</pubDate>
     </item>
     <item>
       <title>沃伦·巴菲特的粉丝为他离开后制定了自己的路线</title>
       <link>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</link>
-      <description><![CDATA[93 岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特周六告诉股东，他对自己的未来进行了思考，他说，如果幸运的话，他还能再干六七年，但他补充说，“他的任期可能明天就结束”。]]></description>
+      <description><![CDATA[93岁的伯克希尔哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特在思考自己的未来时，周六告诉股东，如果幸运的话，他还能再活六七年，但他补充说，“这可能明天就结束了”。]]></description>
       <guid>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>早间出价：到处都有救济（大部分）</title>
-      <link>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-06/</link>
-      <description><![CDATA[达拉·拉纳辛格 (Dhara Ranasinghe) 展望未来一天的美国和全球市场。]]></description>
-      <guid>https://www.reuters.com/markets/us/global-markets-view-usa-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 09:20:44 GMT</pubDate>
     </item>
     <item>
       <title>副总统哈里斯宣布提供超过 1 亿美元支持汽车工人</title>
@@ -53,13 +102,6 @@
       <description><![CDATA[美国副总统卡马拉·哈里斯周一宣布提供超过 1 亿美元的资金和资源来支持美国汽车工人和小型汽车供应商。]]></description>
       <guid>https://www.reuters.com/world/us/vp-harris-announces-more-than-100-mln-support-auto-workers-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 09:16:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国汽车制造商的目标是到 2027 年电动汽车销量增长四倍</title>
-      <link>https://www.reuters.com/business/autos-transportation/french-carmakers-target-fourfold-jump-ev-sales-by-2027-2024-05-06/</link>
-      <description><![CDATA[就在中国国家主席开始对法国进行国事访问之际，法国汽车行业的目标是根据周一与政府签署的战略协议，到 2027 年将电动汽车销量提高四倍。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/french-carmakers-target-fourfold-jump-ev-sales-by-2027-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 08:49:52 GMT</pubDate>
     </item>
     <item>
       <title>消息人士称，KKR 将以 8.39 亿美元估值收购印度 Healthium Medtech</title>
@@ -71,65 +113,23 @@
     <item>
       <title>电动汽车需求强劲，沃尔沃汽车四月销量增长</title>
       <link>https://www.reuters.com/business/autos-transportation/volvo-cars-april-sales-rise-27-year-on-year-2024-05-06/</link>
-      <description><![CDATA[总部位于瑞典的沃尔沃汽车公司周一表示，受电动和混合动力汽车需求的推动，沃尔沃汽车 4 月份销量同比增长 27%，达到 65,838 辆。]]></description>
+      <description><![CDATA[沃尔沃汽车集团周一表示，受电动和混合动力汽车需求推动，沃尔沃汽车 4 月份销量较去年同期增长 27%，达到 65,838 辆。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/volvo-cars-april-sales-rise-27-year-on-year-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 07:06:17 GMT</pubDate>
     </item>
     <item>
-      <title>马士基称红海中断可能导致亚欧航线运力减少五分之一</title>
+      <title>马士基称红海中断可能导致亚欧航线运力减少 20%</title>
       <link>https://www.reuters.com/business/red-sea-disruption-cuts-q2-capacity-by-15-20-maersk-says-2024-05-06/</link>
-      <description><![CDATA[航运集团马士基周一表示，红海集装箱运输运输受到的干扰正在加剧，预计第二季度远东和欧洲之间的行业运力将减少高达 20%。]]></description>
+      <description><![CDATA[马士基周一表示，红海集装箱运输的干扰正在加剧，预计第二季度亚洲和欧洲之间的行业运力将减少多达 20%。]]></description>
       <guid>https://www.reuters.com/business/red-sea-disruption-cuts-q2-capacity-by-15-20-maersk-says-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 06:57:09 GMT</pubDate>
     </item>
     <item>
       <title>董事会放弃贝恩的提议，克雷廷斯基和拉亚尼就 Atos 重组展开对峙</title>
       <link>https://www.reuters.com/markets/deals/atos-says-it-received-four-restructuring-offers-2024-05-06/</link>
-      <description><![CDATA[法国IT公司Atos周一表示，捷克亿万富翁丹尼尔·克雷廷斯基(Daniel Kretinsky)、法国投资者大卫·拉亚尼(David Layani)和银行财团均已提出重组法国IT公司Atos债务的出价，并补充说已拒绝了贝恩资本的报价。]]></description>
+      <description><![CDATA[法国IT公司Atos周一表示，捷克亿万富翁丹尼尔·克雷廷斯基(Daniel Kretinsky)、法国投资者大卫·拉亚尼(David Layani)和银行财团均已提出重组法国IT公司Atos债务的出价，并补充说已拒绝了贝恩资本的提议。]]></description>
       <guid>https://www.reuters.com/markets/deals/atos-says-it-received-four-restructuring-offers-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 05:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的关税可能会给干邑制造商留下过多的白兰地</title>
-      <link>https://www.reuters.com/business/retail-consumer/chinese-tariffs-could-leave-cognac-makers-with-too-much-brandy-2024-05-06/</link>
-      <description><![CDATA[根据路透社的计算，分析师和担心企业可能被迫打折的投资者认为，中国对欧盟白兰地征收高额关税将使法国公司拥有大量白兰地，而这些白兰地可能很难在其他地方出售。]]></description>
-      <guid>https://www.reuters.com/business/retail-consumer/chinese-tariffs-could-leave-cognac-makers-with-too-much-brandy-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 05:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大西捷航空与工会达成临时协议以避免停工</title>
-      <link>https://www.reuters.com/business/aerospace-defense/canadas-westjet-reaches-tentative-deal-with-union-avoid-work-stoppage-2024-05-06/</link>
-      <description><![CDATA[加拿大航空公司西捷航空与代表其维修工程师的工会周一在一份联合声明中表示，双方已达成初步协议，以避免停工。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/canadas-westjet-reaches-tentative-deal-with-union-avoid-work-stoppage-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 04:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于中国和美国电动汽车的增长，今年汽油需求增长将放缓</title>
-      <link>https://www.reuters.com/business/energy/gasoline-demand-growth-slow-this-year-ev-growth-china-us-2024-05-06/</link>
-      <description><![CDATA[分析师表示，受中国和美国转向电动汽车以及去年 COVID-19 疫情爆发后恢复正常消费的推动，全球汽油需求增长可能会在 2024 年减半，从而挤压下半年炼油厂的利润率。]]></description>
-      <guid>https://www.reuters.com/business/energy/gasoline-demand-growth-slow-this-year-ev-growth-china-us-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 02:23:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>美联储降息预期推动全球股市上涨，中国股市上涨；日元走软</title>
-      <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-06/</link>
-      <description><![CDATA[由于人们重新押注美联储今年可能会放松利率，全球股市走高，而日元在上周因东京疑似货币干预而大幅上涨后走软。]]></description>
-      <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 02:14:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚澳洲航空将支付 7900 万美元解决航班取消案</title>
-      <link>https://www.reuters.com/business/qantas-airways-faces-66-mln-court-penalty-flight-cancellations-2024-05-05/</link>
-      <description><![CDATA[澳大利亚澳洲航空 (Qantas Airways) 同意支付 1.2 亿澳元（合 7,900 万美元），以和解监管机构就已取消航班上数千张机票的销售提起的诉讼，试图结束该航空公司的声誉危机。]]></description>
-      <guid>https://www.reuters.com/business/qantas-airways-faces-66-mln-court-penalty-flight-cancellations-2024-05-05/</guid>
-      <pubDate>Sun, 05 May 2024 22:20:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着焦点转向梅赛德斯投票，UAW工人批准与戴姆勒的协议</title>
-      <link>https://www.reuters.com/business/autos-transportation/volkswagen-tennessee-plant-workers-vote-uaw-membership-2024-04-17/</link>
-      <description><![CDATA[继去年秋天与底特律三大汽车制造商取得一系列胜利后，美国汽车工人联合会的成员于周六批准了与戴姆勒卡车的新劳动合同。]]></description>
-      <guid>https://www.reuters.com/business/autos-transportation/volkswagen-tennessee-plant-workers-vote-uaw-membership-2024-04-17/</guid>
-      <pubDate>Wed, 17 Apr 2024 15:23:56 GMT</pubDate>
     </item>
     <item>
       <title>解释者：纽约立法机关重新召开会议时，主权债务法案面临什么风险</title>
