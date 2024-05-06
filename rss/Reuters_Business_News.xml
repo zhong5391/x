@@ -3,8 +3,8 @@
   <channel>
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 08:23:50 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Mon, 06 May 2024 08:39:45 GMT</lastBuildDate>
     <item>
       <title>境况不佳的法国 IT 公司 Atos 表示已收到四项重组要约</title>
       <link>https://www.reuters.com/markets/deals/atos-says-it-received-four-restructuring-offers-2024-05-06/</link>
@@ -34,7 +34,7 @@
       <pubDate>Mon, 06 May 2024 04:46:30 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：回到降息轨道</title>
+      <title>早盘报价：重回降息轨道</title>
       <link>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-06/</link>
       <description><![CDATA[Rae Wee 对欧洲和全球市场未来一天的展望]]></description>
       <guid>https://www.reuters.com/markets/europe/global-markets-view-europe-2024-05-06/</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>首席经济学家莱恩表示，欧洲央行降息的理由越来越充分</title>
       <link>https://www.reuters.com/markets/rates-bonds/ecb-rate-cut-case-getting-stronger-says-chief-economist-lane-2024-05-06/</link>
-      <description><![CDATA[欧洲央行首席经济学家菲利普·莱恩周一对西班牙报纸《机密报》表示，随着服务业通胀终于开始缓解，欧洲央行 6 月份降息的理由越来越强。]]></description>
+      <description><![CDATA[欧洲央行首席经济学家 Philip Lane 周一对西班牙报纸《机密报》表示，随着服务业通胀终于开始缓解，欧洲央行 6 月份降息的理由越来越充分。]]></description>
       <guid>https://www.reuters.com/markets/rates-bonds/ecb-rate-cut-case-getting-stronger-says-chief-economist-lane-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 03:06:24 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>4月份中国服务业活动有所放缓，但仍保持稳健</title>
       <link>https://www.reuters.com/world/china/chinas-services-activity-eases-april-still-solid-caixin-pmi-shows-2024-05-06/</link>
-      <description><![CDATA[周一的一项私营部门调查显示，由于成本上升，中国服务业活动扩张略有放缓，但新订单增长加速，商业信心稳步上升，提振了经济持续复苏的希望。]]></description>
+      <description><![CDATA[周一公布的一项私营部门调查显示，由于成本上升，中国服务业活动扩张略有放缓，但新订单增长加速，商业信心稳步上升，提振了人们对经济持续复苏的希望。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-services-activity-eases-april-still-solid-caixin-pmi-shows-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 01:53:12 GMT</pubDate>
     </item>
@@ -118,17 +118,17 @@
       <pubDate>Sun, 05 May 2024 10:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>富士康重申第二季度收入将增长，四月份销售额创历史新高</title>
+      <title>富士康重申第二季度收入增长，四月销售额创历史新高</title>
       <link>https://www.reuters.com/technology/foxconn-reiterates-q2-revenue-grow-posts-record-april-sales-2024-05-05/</link>
-      <description><![CDATA[台湾富士康是全球最大的电子产品代工制造商，也是苹果 iPhone 的最大组装商。该公司周日重申，预计第二季度营收将增长，并公布 4 月份销售额创下历史新高。
-富士康在一份声明中表示，今年第二季度“仍是传统的淡季，主要产品正进入新旧产品转换期”。]]></description>
+      <description><![CDATA[台湾富士康是全球最大的电子产品代工制造商，也是苹果 iPhone 的最大组装商，该公司周日重申，预计第二季度收入将增长，并报告 4 月份销售额创历史新高。
+富士康在声明中表示，今年第二季度“仍为传统淡季，主要产品进入新旧过渡期”。]]></description>
       <guid>https://www.reuters.com/technology/foxconn-reiterates-q2-revenue-grow-posts-record-april-sales-2024-05-05/</guid>
       <pubDate>Sun, 05 May 2024 08:09:39 GMT</pubDate>
     </item>
     <item>
       <title>UAW 工人批准与戴姆勒卡车的美国劳工协议</title>
       <link>https://www.reuters.com/business/autos-transportation/united-auto-workers-ratify-contract-with-daimler-truck-2024-05-05/</link>
-      <description><![CDATA[周六，美国汽车工人联合会成员批准了与戴姆勒卡车公司签订的新劳动合同，其中包括在四年协议的基础上总体工资至少上涨 25%。]]></description>
+      <description><![CDATA[美国汽车工人联合会成员周六批准了与戴姆勒卡车公司签订的新劳动合同，其中包括在四年合同期间至少增加 25% 的工资。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/united-auto-workers-ratify-contract-with-daimler-truck-2024-05-05/</guid>
       <pubDate>Sun, 05 May 2024 00:43:32 GMT</pubDate>
     </item>

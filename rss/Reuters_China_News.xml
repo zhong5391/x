@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻 | 今日头条 | 路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 06 May 2024 08:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 08:39:52 GMT</lastBuildDate>
     <item>
       <title>低预算的中国游客凸显香港旅游业的转变</title>
       <link>https://www.reuters.com/world/china/low-budget-chinese-travellers-highlight-shift-hong-kong-tourism-2024-05-06/</link>
@@ -36,14 +36,14 @@
     <item>
       <title>菲律宾表示不会加剧南海紧张局势，不会使用高压水枪</title>
       <link>https://www.reuters.com/world/asia-pacific/philippines-says-wont-raise-south-china-sea-tensions-wont-use-water-cannons-2024-05-06/</link>
-      <description><![CDATA[菲律宾总统小费迪南德·马科斯周一表示，该国不会在南海使用高压水枪或任何进攻性武器。]]></description>
+      <description><![CDATA[菲律宾总统小费迪南德·马科斯周一表示，该国不会在南海使用水炮或任何攻击性武器。]]></description>
       <guid>https://www.reuters.com/world/asia-pacific/philippines-says-wont-raise-south-china-sea-tensions-wont-use-water-cannons-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 02:20:55 GMT</pubDate>
     </item>
     <item>
       <title>亚洲股市因中国股市上涨、美联储削减押注而上涨；日元走软</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-06/</link>
-      <description><![CDATA[由于市场重新押注美联储今年很可能放松利率，亚洲股市周一升至一年多来的最高水平，而日元在上周因东京疑似货币干预而大幅飙升后走弱。]]></description>
+      <description><![CDATA[由于市场再次押注美联储今年很可能会降息，亚洲股市周一上涨至一年多来的最高水平，而日元在上周因东京疑似干预货币而大幅上涨后走弱。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 02:14:50 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>库尔最后时刻的进球为中央海岸赢得了亚足联杯决赛的胜利</title>
       <link>https://www.reuters.com/sports/soccer/late-kuol-strike-earns-central-coast-victory-final-afc-cup-2024-05-05/</link>
-      <description><![CDATA[中央海岸水手队周日在马斯喀特的苏丹卡布斯体育场以 1-0 战胜黎巴嫩艾哈迈德队，成为第一支夺得亚足联杯冠军的澳大利亚俱乐部。]]></description>
+      <description><![CDATA[周日，中央海岸水手队在马斯喀特苏丹卡布斯体育场以 1-0 战胜黎巴嫩阿尔阿赫德队，成为第一支赢得亚足联杯冠军的澳大利亚俱乐部。]]></description>
       <guid>https://www.reuters.com/sports/soccer/late-kuol-strike-earns-central-coast-victory-final-afc-cup-2024-05-05/</guid>
       <pubDate>Sun, 05 May 2024 18:45:02 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>伯克希尔哈撒韦公司的布鲁克斯跑步首席执行官将中国和欧洲视为增长领域</title>
       <link>https://www.reuters.com/business/retail-consumer/berkshires-brooks-running-ceo-sees-china-europe-growth-areas-2024-05-05/</link>
-      <description><![CDATA[布鲁克斯跑步公司的新任首席执行官表示，这家由沃伦·巴菲特旗下的伯克希尔哈撒韦公司拥有的跑鞋制造商将中国和欧洲视为该公司在美国创收最多的业务的增长领域。]]></description>
+      <description><![CDATA[布鲁克斯跑步鞋公司 (Brooks Running) 新任首席执行官表示，沃伦·巴菲特 (Warren Buffett) 旗下的伯克希尔·哈撒韦公司 (Berkshire Hathaway) 旗下的这家跑鞋制造商将中国和欧洲视为其在美国创造大部分收入的业务的增长区域。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/berkshires-brooks-running-ceo-sees-china-europe-growth-areas-2024-05-05/</guid>
       <pubDate>Sun, 05 May 2024 10:10:09 GMT</pubDate>
     </item>
@@ -97,7 +97,7 @@
       <pubDate>Sun, 05 May 2024 00:03:48 GMT</pubDate>
     </item>
     <item>
-      <title>伯克希尔股东拒绝气候、多元化、中国提案</title>
+      <title>伯克希尔股东拒绝气候、多样性和中国提案</title>
       <link>https://www.reuters.com/business/berkshire-shareholders-reject-climate-diversity-china-proposals-2024-05-04/</link>
       <description><![CDATA[周六，伯克希尔哈撒韦公司股东以压倒性多数否决了沃伦·巴菲特集团解决环境和社会政策问题的六项提案，这位亿万富翁投资者及其董事会都反对所有这些提案。]]></description>
       <guid>https://www.reuters.com/business/berkshire-shareholders-reject-climate-diversity-china-proposals-2024-05-04/</guid>
@@ -118,7 +118,7 @@
       <pubDate>Sat, 04 May 2024 09:58:49 GMT</pubDate>
     </item>
     <item>
-      <title>瑞信中国证券合资公司称2023年员工人数将减少46%</title>
+      <title>瑞信中国证券合资公司称 2023 年员工人数将减少 46%</title>
       <link>https://www.reuters.com/business/finance/credit-suisse-china-securities-jv-says-staff-down-46-2023-2024-05-04/</link>
       <description><![CDATA[瑞士信贷在中国的证券经纪合资企业表示，2023 年其员工人数将减少 46%，这一年瑞士当局安排了一次收购，以防止该公司倒闭。]]></description>
       <guid>https://www.reuters.com/business/finance/credit-suisse-china-securities-jv-says-staff-down-46-2023-2024-05-04/</guid>
