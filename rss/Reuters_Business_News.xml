@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 15:39:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:51:56 GMT</lastBuildDate>
     <item>
       <title>研究称 2023 年低收入美国人申请抵押贷款的人数将减少</title>
       <link>https://www.reuters.com/markets/us/fewer-low-income-americans-took-out-mortgages-2023-study-says-2024-05-06/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>新思科技 (Synopsys) 将软件部门以 21 亿美元的价格出售给弗朗西斯科克利尔莱克 (Clearlake)</title>
       <link>https://www.reuters.com/markets/deals/synopsys-sell-software-unit-clearlake-francisco-21-bln-deal-2024-05-06/</link>
-      <description><![CDATA[该芯片设计公司周一表示，新思科技将以 21 亿美元的价格将其软件完整性 (SIG) 部门出售给由 Clearlake Capital 和 Francisco Partners 牵头的私募股权财团。]]></description>
+      <description><![CDATA[芯片设计商 Synopsys 周一表示，该公司将把其软件完整性 (SIG) 部门出售给由 Clearlake Capital 和 Francisco Partners 牵头的私募股权财团，交易价值 21 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/deals/synopsys-sell-software-unit-clearlake-francisco-21-bln-deal-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 13:33:49 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>欧盟批准日本新日铁公司以 149 亿美元收购美国钢铁公司</title>
       <link>https://www.reuters.com/markets/deals/eu-clears-nippon-steels-149-bln-purchase-us-steel-2024-05-06/</link>
-      <description><![CDATA[欧盟周一批准了日本新日铁住金公司以 149 亿美元收购美国钢铁公司的交易，缓解了该交易在美国引发政界反对的竞争担忧。]]></description>
+      <description><![CDATA[周一，欧盟批准了日本新日铁公司以 149 亿美元收购美国钢铁公司的交易，缓解了该交易引发的竞争担忧，该交易在美国引发了政治反对。]]></description>
       <guid>https://www.reuters.com/markets/deals/eu-clears-nippon-steels-149-bln-purchase-us-steel-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 12:23:20 GMT</pubDate>
     </item>
@@ -50,12 +50,12 @@
     <item>
       <title>加拿大布鲁克菲尔德 (Brookfield) 将向私人信贷管理公司 Castlelake 投资 15 亿美元</title>
       <link>https://www.reuters.com/markets/deals/canadas-brookfield-invest-15-bln-private-credit-manager-castlelake-2024-05-06/</link>
-      <description><![CDATA[两家公司周一表示，加拿大 Brookfield Asset Management 将向美国私人信贷管理公司 Castlelake 投资约 15 亿美元。]]></description>
+      <description><![CDATA[加拿大布鲁克菲尔德资产管理公司 (Brookfield Asset Management) 周一表示，将向美国私人信贷管理公司 Castlelake 投资约 15 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/deals/canadas-brookfield-invest-15-bln-private-credit-manager-castlelake-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:53:10 GMT</pubDate>
     </item>
     <item>
-      <title>泰森食品股价因对第三季度消费者需求的担忧而下跌</title>
+      <title>由于对第三季度消费者需求的担忧，泰森食品股价下跌</title>
       <link>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</link>
       <description><![CDATA[泰森食品周一第二季度利润超出华尔街预期，但警告消费者面临持续通胀的压力。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>精神航空预计第二季度收入疲软，因国内需求增长缓慢</title>
       <link>https://www.reuters.com/business/aerospace-defense/spirit-airlines-forecasts-weak-q2-revenue-slow-growth-domestic-demand-2024-05-06/</link>
-      <description><![CDATA[由于国内需求改善缓慢以及数十架飞机停飞，精神航空周一预计第二季度营收疲软，导致该公司股价早盘下跌约 9%。]]></description>
+      <description><![CDATA[由于国内需求改善缓慢以及数十架飞机停飞，精神航空周一预计第二季度收入疲软，导致该公司股价早盘下跌约 9%。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/spirit-airlines-forecasts-weak-q2-revenue-slow-growth-domestic-demand-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:30:42 GMT</pubDate>
     </item>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 06 May 2024 11:26:38 GMT</pubDate>
     </item>
     <item>
-      <title>美联储降息希望增强，华尔街股市上涨</title>
+      <title>美联储降息预期升温，华尔街股市上涨</title>
       <link>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</link>
       <description><![CDATA[由于上周非农就业数据疲软，美联储今年降息的预期增强，华尔街主要股指周一上涨。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</guid>
@@ -106,7 +106,7 @@
     <item>
       <title>沃伦·巴菲特的粉丝为他离开后制定了自己的路线</title>
       <link>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</link>
-      <description><![CDATA[93 岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特周六告诉股东，他对自己的未来进行了思考，他说，如果幸运的话，他还能再干六七年，但他补充说，“他的任期可能明天就结束”。]]></description>
+      <description><![CDATA[93岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特在思考自己的未来时，周六告诉股东，如果幸运的话，他还能再活六七年，但他补充说，“这可能明天就结束了”。]]></description>
       <guid>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:02:42 GMT</pubDate>
     </item>
@@ -118,16 +118,16 @@
       <pubDate>Mon, 06 May 2024 09:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>马士基称红海中断可能导致亚欧运力减少 20%</title>
+      <title>马士基称红海中断可能导致亚欧航线运力减少 20%</title>
       <link>https://www.reuters.com/business/red-sea-disruption-cuts-q2-capacity-by-15-20-maersk-says-2024-05-06/</link>
-      <description><![CDATA[马士基周一表示，红海集装箱运输的中断正在加剧，预计这将导致第二季度亚洲和欧洲之间的航运业运力减少高达 20%。]]></description>
+      <description><![CDATA[马士基周一表示，红海集装箱运输的干扰正在加剧，预计第二季度亚洲和欧洲之间的行业运力将减少多达 20%。]]></description>
       <guid>https://www.reuters.com/business/red-sea-disruption-cuts-q2-capacity-by-15-20-maersk-says-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 06:57:09 GMT</pubDate>
     </item>
     <item>
       <title>随着董事会放弃贝恩收购要约，Kretinsky 和 ​​Layani 在 Atos 重组问题上展开对峙</title>
       <link>https://www.reuters.com/markets/deals/atos-says-it-received-four-restructuring-offers-2024-05-06/</link>
-      <description><![CDATA[法国IT公司Atos周一表示，捷克亿万富翁丹尼尔·克雷廷斯基(Daniel Kretinsky)、法国投资者大卫·拉亚尼(David Layani)和银行财团均已提出重组法国IT公司Atos债务的出价，并补充说已拒绝了贝恩资本的提议。]]></description>
+      <description><![CDATA[法国IT公司Atos周一表示，捷克亿万富翁丹尼尔·克雷廷斯基(Daniel Kretinsky)、法国投资者大卫·拉亚尼(David Layani)和银行财团均已提出重组法国IT公司Atos债务的出价，并补充说已拒绝了贝恩资本的报价。]]></description>
       <guid>https://www.reuters.com/markets/deals/atos-says-it-received-four-restructuring-offers-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 05:12:26 GMT</pubDate>
     </item>
