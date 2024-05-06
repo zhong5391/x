@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 | 今日国际头条 | 路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 06 May 2024 15:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 15:23:48 GMT</lastBuildDate>
     <item>
       <title>欧盟批准新日铁以149亿美元收购美国钢铁公司</title>
       <link>https://www.reuters.com/markets/deals/eu-clears-nippon-steels-149-bln-purchase-us-steel-2024-05-06/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>洛伊斯报告称，投资收益回报强劲，利润更高</title>
       <link>https://www.reuters.com/business/loews-reports-higher-profit-strong-returns-investment-income-2024-05-06/</link>
-      <description><![CDATA[Loews Corp 周一报告称，得益于较高的保费和强劲的投资回报，第一季度利润较上年增长近 22%。]]></description>
+      <description><![CDATA[洛斯保险（Loews Corp）周一公布第一季度利润较上年同期增长近 22%，这得益于保费上涨和投资回报强劲。]]></description>
       <guid>https://www.reuters.com/business/loews-reports-higher-profit-strong-returns-investment-income-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:03:07 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>解释者：纽约立法机关重新召开会议时，主权债务法案面临什么风险</title>
       <link>https://www.reuters.com/business/finance/new-york-lawmakers-tackle-sovereign-debt-reworks-again-2024-03-11/</link>
-      <description><![CDATA[纽约州议员周一结束为期两周的休息，剩下一个月的时间来决定一项有争议的法案的命运，该法案旨在简化主权债务重组，涉及数千亿美元的债券合同。]]></description>
+      <description><![CDATA[纽约州立法者周一结束两周的休会返回，剩下一个月的时间来决定一项有争议的法案的命运，该法案旨在简化主权债务重组，涉及数千亿美元的债券合约。]]></description>
       <guid>https://www.reuters.com/business/finance/new-york-lawmakers-tackle-sovereign-debt-reworks-again-2024-03-11/</guid>
       <pubDate>Mon, 11 Mar 2024 16:51:35 GMT</pubDate>
     </item>
