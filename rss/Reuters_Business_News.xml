@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 07 May 2024 05:34:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 05:49:14 GMT</lastBuildDate>
+    <item>
+      <title>据《华尔街日报》报道，苹果正在开发用于数据中心的人工智能芯片</title>
+      <link>https://www.reuters.com/technology/apple-working-ai-chips-data-centers-wsj-reports-2024-05-07/</link>
+      <description><![CDATA[《华尔街日报》周一援引知情人士的话报道称，苹果正在开发自己的芯片，用于在数据中心运行人工智能软件。]]></description>
+      <guid>https://www.reuters.com/technology/apple-working-ai-chips-data-centers-wsj-reports-2024-05-07/</guid>
+      <pubDate>Tue, 07 May 2024 04:26:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊将斥资近 90 亿美元扩大新加坡云基础设施</title>
+      <link>https://www.reuters.com/technology/amazon-spend-9-bln-expand-cloud-infra-singapore-bloomberg-news-reports-2024-05-07/</link>
+      <description><![CDATA[亚马逊网络服务 (AWS) 周二表示，亚马逊公司计划在未来四年内斥资 120 亿新元（合 88.8 亿美元）扩大其在新加坡的云计算基础设施。]]></description>
+      <guid>https://www.reuters.com/technology/amazon-spend-9-bln-expand-cloud-infra-singapore-bloomberg-news-reports-2024-05-07/</guid>
+      <pubDate>Tue, 07 May 2024 03:07:55 GMT</pubDate>
+    </item>
     <item>
       <title>亚洲股市因降息押注而上涨；澳洲联储可能转向鹰派</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-07/</link>
-      <description><![CDATA[由于对美国降息的信心重燃，亚洲股市周二触及 15 个月高点，而交易员则等待当天晚些时候在澳大利亚举行的政策会议，并密切关注日元贬值。]]></description>
+      <description><![CDATA[由于对美国降息的信心重燃，亚洲股市周二创下 15 个月新高，而交易员们等待当天晚些时候在澳大利亚举行的政策会议，并密切关注日元的贬值。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-07/</guid>
       <pubDate>Tue, 07 May 2024 01:59:55 GMT</pubDate>
     </item>
@@ -20,16 +34,16 @@
       <pubDate>Tue, 07 May 2024 01:18:06 GMT</pubDate>
     </item>
     <item>
-      <title>尽管存在干预威胁，日元仍走软，澳元在澳洲联储之前保持稳定</title>
+      <title>尽管存在干预威胁，日元还是走软，澳元在澳洲联储之前保持稳定</title>
       <link>https://www.reuters.com/markets/currencies/yen-eases-despite-intervention-threat-aussie-steady-before-rba-2024-05-07/</link>
       <description><![CDATA[尽管日本官员在上周两轮疑似美元抛售干预后发出了新的警告，但由于利差巨大，日元兑美元周二继续走低。]]></description>
       <guid>https://www.reuters.com/markets/currencies/yen-eases-despite-intervention-threat-aussie-steady-before-rba-2024-05-07/</guid>
       <pubDate>Tue, 07 May 2024 01:02:29 GMT</pubDate>
     </item>
     <item>
-      <title>以色列袭击加沙后油价小幅上涨，而停战谈判仍在继续</title>
+      <title>以色列袭击加沙后油价上涨，停战谈判继续</title>
       <link>https://www.reuters.com/business/energy/oil-edges-up-after-israel-strikes-gaza-while-truce-talks-continue-2024-05-07/</link>
-      <description><![CDATA[以色列袭击加沙的拉法后，周二早些时候油价上涨，而与哈马斯的停火谈判仍在继续，但没有解决。]]></description>
+      <description><![CDATA[以色列袭击加沙的拉法后，周二油价小幅走高，而与哈马斯的停火谈判仍在继续，但没有解决。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-edges-up-after-israel-strikes-gaza-while-truce-talks-continue-2024-05-07/</guid>
       <pubDate>Tue, 07 May 2024 00:40:59 GMT</pubDate>
     </item>
@@ -48,37 +62,16 @@
       <pubDate>Mon, 06 May 2024 22:02:27 GMT</pubDate>
     </item>
     <item>
-      <title>Paul Weiss 从 Cleary 聘请顶级交易律师 Langston</title>
-      <link>https://www.reuters.com/markets/deals/paul-weiss-hires-top-deals-lawyer-langston-cleary-2024-05-06/</link>
-      <description><![CDATA[Paul, Weiss, Rifkind, Wharton &amp; 律师事务所加里森正在从竞争对手公司 Cleary Gottlieb Steen &amp; 聘请顶级交易撮合者吉姆·兰斯顿 (Jim Langston)。 Hamilton 作为其并购 (M&amp;A) 业务的合伙人。]]></description>
-      <guid>https://www.reuters.com/markets/deals/paul-weiss-hires-top-deals-lawyer-langston-cleary-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 22:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>早盘报价：澳大利亚央行紧随其后，恒生指数有望连续第 11 次上涨</title>
-      <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-06/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
-      <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 21:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于软件产品需求强劲，Axon 上调全年收入预测</title>
+      <title>由于对其软件产品的强劲需求，Axon 上调了全年收入预测</title>
       <link>https://www.reuters.com/business/axon-raises-full-year-revenue-forecast-strong-demand-its-software-products-2024-05-06/</link>
-      <description><![CDATA[Axon Enterprise 周一上调了全年核心利润和收入预测，得益于对其软件产品的强劲需求以及最近推出的 TASER 10 警务设备。]]></description>
+      <description><![CDATA[Axon Enterprise 周一上调了全年核心利润和收入预测，因为对其软件产品和最近推出的 TASER 10 警务设备的强劲需求。]]></description>
       <guid>https://www.reuters.com/business/axon-raises-full-year-revenue-forecast-strong-demand-its-software-products-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 21:34:05 GMT</pubDate>
     </item>
     <item>
-      <title>由于利息支出增加，Air Lease 第一季度利润未达预期</title>
-      <link>https://www.reuters.com/business/aerospace-defense/air-lease-q1-profit-misses-estimates-higher-interest-expenses-2024-05-06/</link>
-      <description><![CDATA[航空租赁公司表示，该公司正在努力解决飞机制造商波音和空客的交付延迟问题，该公司周一公布的季度利润低于预期，因为该公司为购买飞机而借入的资金支付了更高的利息。]]></description>
-      <guid>https://www.reuters.com/business/aerospace-defense/air-lease-q1-profit-misses-estimates-higher-interest-expenses-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 20:43:57 GMT</pubDate>
-    </item>
-    <item>
       <title>科蒂第三季度营收超出预期，因需求强劲而力争实现 2024 年年底目标</title>
       <link>https://www.reuters.com/business/retail-consumer/coty-beats-q3-revenue-estimates-eyes-high-end-annual-targets-strong-demand-2024-05-06/</link>
-      <description><![CDATA[美容公司科蒂周一第三季度营收超出华尔街预期，并表示，凭借全球对其奢侈品和大众市场产品的稳定需求，预计将实现年度目标的高端。]]></description>
+      <description><![CDATA[化妆品公司科蒂周一公布的第三季度营收超出华尔街预期，并表示得益于全球对其奢侈品和大众市场产品的稳定需求，该公司预计将实现年度目标的高端。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/coty-beats-q3-revenue-estimates-eyes-high-end-annual-targets-strong-demand-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 20:33:02 GMT</pubDate>
     </item>
@@ -99,9 +92,16 @@
     <item>
       <title>美国联邦航空管理局对波音 787 展开调查</title>
       <link>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</link>
-      <description><![CDATA[美国联邦航空管理局周一表示，已对波音 787 梦想客机展开调查，此前该飞机制造商称部分员工声称部分测试已完成，存在“不当行为”。]]></description>
+      <description><![CDATA[美国联邦航空管理局周一表示，已对波音 787 梦想客机展开调查，此前这家飞机制造商表示，部分员工声称部分测试已完成，存在“不当行为”。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 19:17:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音星际航线载人飞船首次飞行因火箭故障被推迟</title>
+      <link>https://www.reuters.com/science/boeings-new-starliner-set-first-crewed-flight-space-station-2024-05-06/</link>
+      <description><![CDATA[波音公司期待已久的新型 Starliner 太空舱首次载人试飞被取消了至少 24 小时，原因是发射团队无法及时解决计划中的周一晚上的升空。]]></description>
+      <guid>https://www.reuters.com/science/boeings-new-starliner-set-first-crewed-flight-space-station-2024-05-06/</guid>
+      <pubDate>Mon, 06 May 2024 18:13:34 GMT</pubDate>
     </item>
     <item>
       <title>独家：消息人士称，迪士尼和康卡斯特寻求顾问解决 Hulu 估值问题</title>
@@ -125,7 +125,7 @@
       <pubDate>Mon, 06 May 2024 15:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>波音 Starliner 太空舱首次载人试飞因阿特拉斯火箭故障而推迟</title>
+      <title>波音星际航线飞船首次载人试飞因 Atlas 火箭故障被推迟</title>
       <link>https://www.reuters.com/science/boeings-new-starliner-capsule-set-first-crewed-flight-space-station-2024-05-06/</link>
       <description><![CDATA[等待已久的波音 Starliner 宇宙飞船首次载人试飞因 Atlas V 火箭的技术故障而被取消至少 24 小时，该火箭正准备于周一晚上将新的宇航员太空舱发射到轨道。]]></description>
       <guid>https://www.reuters.com/science/boeings-new-starliner-capsule-set-first-crewed-flight-space-station-2024-05-06/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>沃伦·巴菲特的粉丝为他离开后制定了自己的路线</title>
       <link>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</link>
-      <description><![CDATA[93岁的伯克希尔哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特在思考自己的未来时，周六告诉股东，如果幸运的话，他还能再活六七年，但他补充说，“这可能明天就结束了”。]]></description>
+      <description><![CDATA[93岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特在思考自己的未来时，周六告诉股东，如果幸运的话，他还能再活六七年，但他补充说，“这可能明天就结束了”。]]></description>
       <guid>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:02:42 GMT</pubDate>
     </item>
