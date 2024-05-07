@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>中国新闻|今日突发新闻|路透社</title>
+    <title>中国新闻|今日突发新闻 |路透社</title>
     <link>https://www.reuters.com/world/china/</link>
     <description>Reuters.com 是您获取最新中国新闻故事和时事的在线来源，确保我们的读者及时了解任何突发新闻动态 - RSSHub 用爱制作(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 07 May 2024 06:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 06:34:55 GMT</lastBuildDate>
     <item>
-      <title>中国解除塞尔维亚禽流感风险警报</title>
+      <title>中国解除塞尔维亚禽流感风险预警</title>
       <link>https://www.reuters.com/business/healthcare-pharmaceuticals/china-lifts-risk-alert-warning-bird-flu-serbia-2024-05-07/</link>
       <description><![CDATA[中国海关总署周二宣布，中国解除对塞尔维亚禽流感风险预警。]]></description>
       <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/china-lifts-risk-alert-warning-bird-flu-serbia-2024-05-07/</guid>
@@ -48,9 +48,9 @@
       <pubDate>Tue, 07 May 2024 02:54:51 GMT</pubDate>
     </item>
     <item>
-      <title>亚洲股市因降息押注而上涨；澳洲联储令澳元下跌</title>
+      <title>亚洲股市因降息预期上涨；澳元因澳大利亚央行举措下跌</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-07/</link>
-      <description><![CDATA[由于对美国降息的信心重燃，亚洲股市周二创下 15 个月新高，而日元走弱和澳元小幅下跌使美元保持稳定。]]></description>
+      <description><![CDATA[由于对美国降息的信心重燃，亚洲股市周二创下 15 个月高点，而日元走弱和澳元小幅下跌使美元保持稳定。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-07/</guid>
       <pubDate>Tue, 07 May 2024 01:59:55 GMT</pubDate>
     </item>
@@ -62,9 +62,9 @@
       <pubDate>Tue, 07 May 2024 00:55:27 GMT</pubDate>
     </item>
     <item>
-      <title>以色列袭击加沙后油价上涨，停火谈判继续进行</title>
+      <title>以色列袭击加沙后油价上涨，停战谈判继续</title>
       <link>https://www.reuters.com/business/energy/oil-edges-up-after-israel-strikes-gaza-while-truce-talks-continue-2024-05-07/</link>
-      <description><![CDATA[以色列袭击加沙拉法后，周二油价小幅走高，而与哈马斯的停火谈判仍在继续，但未取得任何结果。]]></description>
+      <description><![CDATA[以色列袭击加沙的拉法后，周二油价小幅走高，而与哈马斯的停火谈判仍在继续，但没有解决。]]></description>
       <guid>https://www.reuters.com/business/energy/oil-edges-up-after-israel-strikes-gaza-while-truce-talks-continue-2024-05-07/</guid>
       <pubDate>Tue, 07 May 2024 00:40:59 GMT</pubDate>
     </item>
@@ -118,7 +118,7 @@
       <pubDate>Mon, 06 May 2024 08:48:32 GMT</pubDate>
     </item>
     <item>
-      <title>中国五一假期消费在新冠疫情后的复苏中表现好坏参半</title>
+      <title>中国五一假期消费在新冠疫情后的复苏中喜忧参半</title>
       <link>https://www.reuters.com/world/china/china-may-day-holiday-spending-delivers-mixed-picture-post-covid-recovery-2024-05-06/</link>
       <description><![CDATA[政府周一公布的数据显示，在中国最长的假期之一“五一”假期期间，国内游客的支出为 1669 亿元人民币（合 231.3 亿美元），比疫情前的水平增长 13.5%，但人均支出落后于 2019 年的水平。]]></description>
       <guid>https://www.reuters.com/world/china/china-may-day-holiday-spending-delivers-mixed-picture-post-covid-recovery-2024-05-06/</guid>
@@ -127,7 +127,7 @@
     <item>
       <title>中国卫生机构在代孕索赔后对医院进行调查</title>
       <link>https://www.reuters.com/world/china/chinas-health-body-probes-hospital-after-surrogacy-claims-2024-05-06/</link>
-      <description><![CDATA[中国国家卫生健康委员会表示，正在对西南大城市重庆的一家医院涉嫌参与代孕进行调查，该问题在社交媒体上广泛传播，这在中国是非法的。]]></description>
+      <description><![CDATA[中国国家卫生健康委员会表示，正在对西南特大城市重庆的一家医院涉嫌参与代孕进行调查，该问题在社交媒体上广泛传播，这在中国是非法的。]]></description>
       <guid>https://www.reuters.com/world/china/chinas-health-body-probes-hospital-after-surrogacy-claims-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 07:47:34 GMT</pubDate>
     </item>
