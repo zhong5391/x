@@ -4,7 +4,7 @@
     <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 07 May 2024 09:52:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 10:21:15 GMT</lastBuildDate>
     <item>
       <title>菲律宾 PLDT 正在洽谈向日本 NTT 出售多达 49% 的数据中心业务</title>
       <link>https://www.reuters.com/markets/deals/philippines-pldt-talks-sell-up-49-data-centre-business-japans-ntt-2024-05-07/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>独家：消息人士称中金公司今年或将削减至少10%投行人员</title>
       <link>https://www.reuters.com/business/finance/chinas-cicc-may-cut-investment-banking-headcount-by-least-10-this-year-sources-2024-05-07/</link>
-      <description><![CDATA[两位知情人士表示，由于资本市场低迷和经济低迷，前景黯淡，中国国际金融公司（中金公司）今年可能会削减至少 10% 的投资银行员工人数。]]></description>
+      <description><![CDATA[两位知情人士表示，由于资本市场低迷和经济低迷使前景黯淡，中国国际金融公司（中金公司）今年可能会削减至少 10% 的投资银行员工人数。]]></description>
       <guid>https://www.reuters.com/business/finance/chinas-cicc-may-cut-investment-banking-headcount-by-least-10-this-year-sources-2024-05-07/</guid>
       <pubDate>Tue, 07 May 2024 08:05:28 GMT</pubDate>
     </item>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 07 May 2024 07:53:28 GMT</pubDate>
     </item>
     <item>
-      <title>独家：西班牙初创公司投诉微软云计算业务</title>
+      <title>独家：微软因西班牙初创公司对云实践的投诉而受到打击</title>
       <link>https://www.reuters.com/technology/microsoft-hit-with-spanish-startups-complaint-about-cloud-practices-2024-05-07/</link>
       <description><![CDATA[周二，一家西班牙初创企业集团向西班牙反垄断监管机构投诉其云业务做法，微软受到打击，这是继一家贸易集团向欧盟提出投诉后，微软对其快速增长的云计算服务提出的最新不满。]]></description>
       <guid>https://www.reuters.com/technology/microsoft-hit-with-spanish-startups-complaint-about-cloud-practices-2024-05-07/</guid>
@@ -92,7 +92,7 @@
     <item>
       <title>瑞银集团自瑞士信贷银行收购以来首次实现盈利，超出预期</title>
       <link>https://www.reuters.com/business/finance/ubs-reports-first-profit-since-taking-over-credit-suisse-2024-05-07/</link>
-      <description><![CDATA[瑞银周二公布的一月至三月净利润几乎是预期的三倍，该银行录得自接管倒下的竞争对手瑞士信贷以来的首个季度利润。]]></description>
+      <description><![CDATA[瑞银周二公布，1 月至 3 月净收入几乎是预期的三倍，这是该银行自接管失败的竞争对手瑞士信贷以来首次实现季度盈利。]]></description>
       <guid>https://www.reuters.com/business/finance/ubs-reports-first-profit-since-taking-over-credit-suisse-2024-05-07/</guid>
       <pubDate>Tue, 07 May 2024 04:53:45 GMT</pubDate>
     </item>
@@ -111,7 +111,7 @@
       <pubDate>Tue, 07 May 2024 03:23:50 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊将斥资近 90 亿美元扩大新加坡云基础设施</title>
+      <title>亚马逊将斥资近 90 亿美元在新加坡扩展云基础设施</title>
       <link>https://www.reuters.com/technology/amazon-spend-9-bln-expand-cloud-infra-singapore-bloomberg-news-reports-2024-05-07/</link>
       <description><![CDATA[亚马逊网络服务 (AWS) 周二表示，亚马逊计划在未来四年内斥资 120 亿新元（合 88.8 亿美元）扩大其在新加坡的云计算基础设施。]]></description>
       <guid>https://www.reuters.com/technology/amazon-spend-9-bln-expand-cloud-infra-singapore-bloomberg-news-reports-2024-05-07/</guid>
@@ -120,7 +120,7 @@
     <item>
       <title>美国降息提振股市；美元走低日元</title>
       <link>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-07/</link>
-      <description><![CDATA[受市场对美国降息信心重燃的推动，全球股市周二交易至一个月高点附近，而日元走软和澳元小幅下跌使美元保持稳定。]]></description>
+      <description><![CDATA[受美国降息信心重燃的提振，周二全球股市交投于一个月高位附近，而日元走弱和澳元小幅下跌则维持美元稳定。]]></description>
       <guid>https://www.reuters.com/markets/global-markets-wrapup-1-2024-05-07/</guid>
       <pubDate>Tue, 07 May 2024 01:59:55 GMT</pubDate>
     </item>
@@ -134,14 +134,14 @@
     <item>
       <title>独家：迪士尼和康卡斯特寻求顾问解决 Hulu 估值问题</title>
       <link>https://www.reuters.com/business/media-telecom/disney-comcast-seek-advisor-resolve-hulu-valuation-sources-say-2024-05-06/</link>
-      <description><![CDATA[据知情人士透露，华特迪士尼和康卡斯特正寻求聘请一名财务顾问，以解决有关如何评估前者将从康卡斯特收购的流媒体平台 Hulu 33% 股份的纠纷。]]></description>
+      <description><![CDATA[据知情人士透露，华特迪士尼和康卡斯特正在寻求聘请一名财务顾问，以解决如何对前者将从康卡斯特手中收购的流媒体平台 Hulu 33% 股份进行估值的争议。]]></description>
       <guid>https://www.reuters.com/business/media-telecom/disney-comcast-seek-advisor-resolve-hulu-valuation-sources-say-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 16:40:55 GMT</pubDate>
     </item>
     <item>
       <title>波音 Starliner 太空舱首次载人试飞因阿特拉斯火箭故障而推迟</title>
       <link>https://www.reuters.com/science/boeings-new-starliner-capsule-set-first-crewed-flight-space-station-2024-05-06/</link>
-      <description><![CDATA[美国宇航局表示，期待已久的波音 Starliner 航天器首次载人试飞将不会早于周五进行，此前计划于周一进行的发射因阿特拉斯 V 号火箭的故障而暂停，该火箭将把新太空舱送入轨道。]]></description>
+      <description><![CDATA[美国宇航局表示，期待已久的波音 Starliner 宇宙飞船首次载人试飞将不会早于周五进行，此前计划于周一进行的发射因阿特拉斯 V 号火箭的故障而暂停，该火箭将把新太空舱送入轨道。]]></description>
       <guid>https://www.reuters.com/science/boeings-new-starliner-capsule-set-first-crewed-flight-space-station-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:12:17 GMT</pubDate>
     </item>
