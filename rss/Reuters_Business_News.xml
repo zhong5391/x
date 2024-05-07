@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条|路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
     <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 07 May 2024 08:24:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 08:39:19 GMT</lastBuildDate>
     <item>
       <title>首席执行官表示，Primark 所有者将提高解释食品业务优点的能力</title>
       <link>https://www.reuters.com/business/retail-consumer/primark-owner-raise-game-explaining-merits-food-businesses-ceo-says-2024-05-07/</link>
@@ -22,12 +22,12 @@
     <item>
       <title>意大利鞋履制造商托德斯 (Tod's) 迎合美国低调奢华爱好者</title>
       <link>https://www.reuters.com/markets/deals/italian-shoemaker-tods-court-us-lovers-quiet-luxury-2024-05-07/</link>
-      <description><![CDATA[一家由路威酩轩集团 (LVMH) 支持的投资公司押注美国富人对低调奢华的需求，将确保其在意大利鞋履制造商 Tod&#39;s 的 5.1 亿欧元（5.45 亿美元）股份产生私募股权通常寻求的两位数回报。]]></description>
+      <description><![CDATA[一家由 LVMH 支持的投资公司押注美国富人对安静奢华的需求将确保其持有的意大利制鞋商 Tod&#39;s 的 5.1 亿欧元（5.45 亿美元）股份能够获得私募股权通常寻求的两位数回报。]]></description>
       <guid>https://www.reuters.com/markets/deals/italian-shoemaker-tods-court-us-lovers-quiet-luxury-2024-05-07/</guid>
       <pubDate>Tue, 07 May 2024 05:26:40 GMT</pubDate>
     </item>
     <item>
-      <title>消息人士称，中国 Zeekr 将提前一天完成 3.675 亿美元的纽约 IPO</title>
+      <title>消息人士称，中国 Zeekr 将提前一天在纽约完成 3.675 亿美元的 IPO</title>
       <link>https://www.reuters.com/markets/deals/chinas-zeekr-close-3675-mln-new-york-ipo-one-day-early-source-says-2024-05-07/</link>
       <description><![CDATA[据两位直接了解情况的消息人士透露，中国电动汽车制造商智客智能科技控股有限公司将于周三完成在纽约的首次公开募股 (IPO) 询价，筹集至多 3.675 亿美元。]]></description>
       <guid>https://www.reuters.com/markets/deals/chinas-zeekr-close-3675-mln-new-york-ipo-one-day-early-source-says-2024-05-07/</guid>
@@ -41,7 +41,7 @@
       <pubDate>Tue, 07 May 2024 05:08:18 GMT</pubDate>
     </item>
     <item>
-      <title>瑞银自收购瑞信以来首次盈利，轻松超出预期</title>
+      <title>瑞银轻松超出预期，自瑞士信贷收购以来首次实现盈利</title>
       <link>https://www.reuters.com/business/finance/ubs-reports-first-profit-since-taking-over-credit-suisse-2024-05-07/</link>
       <description><![CDATA[瑞银公布的一月至三月净利润是预期的两倍多，这是该行自收购倒下的竞争对手瑞士信贷以来首次实现季度盈利。]]></description>
       <guid>https://www.reuters.com/business/finance/ubs-reports-first-profit-since-taking-over-credit-suisse-2024-05-07/</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>亚马逊将斥资近 90 亿美元扩大新加坡云基础设施</title>
       <link>https://www.reuters.com/technology/amazon-spend-9-bln-expand-cloud-infra-singapore-bloomberg-news-reports-2024-05-07/</link>
-      <description><![CDATA[亚马逊网络服务公司（AWS）周二表示，亚马逊计划未来四年斥资 120 亿新元（88.8 亿美元）扩建其在新加坡的云计算基础设施。]]></description>
+      <description><![CDATA[亚马逊网络服务 (AWS) 周二表示，亚马逊计划在未来四年内斥资 120 亿新元（合 88.8 亿美元）扩大其在新加坡的云计算基础设施。]]></description>
       <guid>https://www.reuters.com/technology/amazon-spend-9-bln-expand-cloud-infra-singapore-bloomberg-news-reports-2024-05-07/</guid>
       <pubDate>Tue, 07 May 2024 03:07:55 GMT</pubDate>
     </item>
@@ -97,9 +97,9 @@
       <pubDate>Mon, 06 May 2024 20:24:32 GMT</pubDate>
     </item>
     <item>
-      <title>美国联邦航空管理局对波音 787 展开调查</title>
+      <title>美国联邦航空管理局对波音 787 检查展开调查</title>
       <link>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</link>
-      <description><![CDATA[美国联邦航空管理局周一表示，已对波音 787 梦想客机展开调查，此前该飞机制造商称部分员工声称部分测试已完成，存在“不当行为”。]]></description>
+      <description><![CDATA[美国联邦航空管理局周一表示，已对波音 787 梦想客机展开调查，此前这家飞机制造商表示，部分员工声称部分测试已完成，存在“不当行为”。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 19:17:14 GMT</pubDate>
     </item>
@@ -132,7 +132,7 @@
       <pubDate>Mon, 06 May 2024 11:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>受降息乐观情绪推动，华尔街连续第三个交易日收高</title>
+      <title>由于降息乐观情绪，华尔街第三个交易日收高</title>
       <link>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</link>
       <description><![CDATA[美国股指周一收高，连续第三个交易日上涨，因投资者继续对美联储今年降息的可能性更大抱有希望。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</guid>
@@ -141,7 +141,7 @@
     <item>
       <title>沃伦·巴菲特的粉丝为他离开后制定了自己的路线</title>
       <link>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</link>
-      <description><![CDATA[93岁的伯克希尔哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特在思考自己的未来时，周六告诉股东，如果幸运的话，他还能再活六七年，但他补充说，“这可能明天就结束了”。]]></description>
+      <description><![CDATA[93岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特在思考自己的未来时，周六告诉股东，如果幸运的话，他还能再活六七年，但他补充说，“这可能明天就结束了”。]]></description>
       <guid>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:02:42 GMT</pubDate>
     </item>
