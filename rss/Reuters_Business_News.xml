@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 |今日国际头条 |路透社</title>
+    <title>商业新闻 | 今日国际头条 | 路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 07 May 2024 01:41:27 GMT</lastBuildDate>
+    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 07 May 2024 02:24:17 GMT</lastBuildDate>
     <item>
-      <title>澳大利亚澳新银行宣布13亿澳元回购，上半年现金盈利下降7%</title>
+      <title>联邦法官将联邦快递承包商的敲诈勒索索赔提交仲裁</title>
+      <link>https://www.reuters.com/legal/federal-judge-sends-fedex-contractors-racketeering-claim-arbitration-2024-05-07/</link>
+      <description><![CDATA[一名联邦法官周一裁定，一家在加州和俄勒冈州边境为联邦快递运送包裹的小企业必须就联邦快递针对该公司的敲诈勒索和其他涉嫌违法行为提出的索赔进行仲裁。]]></description>
+      <guid>https://www.reuters.com/legal/federal-judge-sends-fedex-contractors-racketeering-claim-arbitration-2024-05-07/</guid>
+      <pubDate>Tue, 07 May 2024 00:35:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>半年盈利符合预期后，澳大利亚澳新银行宣布回购 13 亿美元</title>
       <link>https://www.reuters.com/markets/asia/australias-anz-group-announces-13-bln-buyback-first-half-cash-earnings-drop-7-2024-05-06/</link>
-      <description><![CDATA[澳新银行集团周二宣布进行新的 20 亿澳元（13.2 亿美元）股票回购，尽管该集团报告称，由于澳大利亚抵押贷款市场的激烈竞争以及运营费用的增加，上半年现金收益下降了 7%。]]></description>
+      <description><![CDATA[澳新银行上半年现金收益基本达到分析师预期后，周二公布了新的 20 亿澳元（13.2 亿美元）股票回购计划，但也表达了对澳大利亚和全球经济挑战的担忧。]]></description>
       <guid>https://www.reuters.com/markets/asia/australias-anz-group-announces-13-bln-buyback-first-half-cash-earnings-drop-7-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 22:02:27 GMT</pubDate>
     </item>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 06 May 2024 22:02:09 GMT</pubDate>
     </item>
     <item>
-      <title>早盘竞价：澳洲联储接下来上涨，恒生指数有望第11次上涨</title>
+      <title>早盘报价：澳大利亚央行紧随其后，恒生指数有望连续第 11 次上涨</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-06/</link>
       <description><![CDATA[展望未来一天的亚洲市场。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-06/</guid>
@@ -34,7 +41,7 @@
       <pubDate>Mon, 06 May 2024 21:34:05 GMT</pubDate>
     </item>
     <item>
-      <title>航空租赁第一季度利润因利息支出增加而低于预期</title>
+      <title>由于利息支出增加，Air Lease 第一季度利润未达预期</title>
       <link>https://www.reuters.com/business/aerospace-defense/air-lease-q1-profit-misses-estimates-higher-interest-expenses-2024-05-06/</link>
       <description><![CDATA[航空租赁公司表示，该公司正在努力解决飞机制造商波音和空客的交付延迟问题，该公司周一公布的季度利润低于预期，因为该公司为购买飞机而借入的资金支付了更高的利息。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/air-lease-q1-profit-misses-estimates-higher-interest-expenses-2024-05-06/</guid>
@@ -69,16 +76,9 @@
       <pubDate>Mon, 06 May 2024 20:24:32 GMT</pubDate>
     </item>
     <item>
-      <title>由于囊性纤维化治疗的强劲需求，Vertex 超出第一季度利润预期</title>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/vertex-tops-q1-profit-estimates-robust-demand-cystic-fibrosis-treatments-2024-05-06/</link>
-      <description><![CDATA[福泰制药 (Vertex Pharmaceuticals) 周一第一季度利润超出了华尔街预期，这得益于其重磅炸弹囊性纤维化治疗药物的强劲应用。]]></description>
-      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/vertex-tops-q1-profit-estimates-robust-demand-cystic-fibrosis-treatments-2024-05-06/</guid>
-      <pubDate>Mon, 06 May 2024 20:11:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国联邦航空管理局对波音 787 展开调查</title>
+      <title>美国联邦航空局对波音 787 展开调查</title>
       <link>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</link>
-      <description><![CDATA[美国联邦航空管理局周一表示，已对波音 787 梦想客机展开调查，此前这家飞机制造商表示，部分员工声称部分测试已完成，存在“不当行为”。]]></description>
+      <description><![CDATA[美国联邦航空管理局 (FAA) 周一表示，已对波音 787 梦想飞机展开调查，此前该飞机制造商表示，一些员工声称已经完成一些测试，从而构成“不当行为”。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 19:17:14 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>据 Electrek 报道，特斯拉在软件和服务团队中裁掉了更多员工</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-lays-off-more-staff-software-service-teams-electrek-reports-2024-05-06/</link>
-      <description><![CDATA[科技出版物 Electrek 周一援引知情人士的话报道称，电动汽车制造商特斯拉已解雇软件、服务和工程部门的员工。]]></description>
+      <description><![CDATA[据科技出版物 Electrek 周一援引知情人士的话报道，电动汽车制造商特斯拉已解雇了软件、服务和工程部门的员工。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-lays-off-more-staff-software-service-teams-electrek-reports-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 15:41:59 GMT</pubDate>
     </item>
@@ -118,21 +118,21 @@
       <pubDate>Mon, 06 May 2024 12:23:20 GMT</pubDate>
     </item>
     <item>
-      <title>由于对第三季度消费者需求的担忧，泰森食品股价下跌</title>
+      <title>由于需求担忧，泰森食品股价遭受一年来最严重的单日跌幅</title>
       <link>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</link>
-      <description><![CDATA[周一，美国肉类加工商泰森食品公司警告称，消费者面临持续通胀的压力，而高企的大宗商品成本可能会影响即将公布的业绩，该公司股价周一有望录得一年来最严重的单日跌幅。]]></description>
+      <description><![CDATA[泰森食品(Tyson Foods)股价周一遭遇一年来最严重的单日跌幅，此前这家美国肉类加工商警告称，消费者面临持续通胀的压力，而高企的大宗商品成本可能会影响即将公布的业绩。]]></description>
       <guid>https://www.reuters.com/business/retail-consumer/tyson-foods-beats-profit-estimates-cost-control-efforts-sales-slip-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:34:45 GMT</pubDate>
     </item>
     <item>
-      <title>波音公司的 Starliner 太空舱将进行首次载人太空飞行，与 SpaceX 竞争</title>
+      <title>波音公司的 Starliner 太空舱将首次载人太空飞行，与 SpaceX 竞争</title>
       <link>https://www.reuters.com/science/boeings-new-starliner-capsule-set-first-crewed-flight-space-station-2024-05-06/</link>
-      <description><![CDATA[波音公司的新型 Starliner 宇航员太空舱原定于周一晚上在一次推迟已久的首次载人入轨试飞中发射，该公司正努力与埃隆·马斯克 (Elon Musk) 的 SpaceX 竞争，以在利润丰厚的 NASA 业务中获得更大份额。]]></description>
+      <description><![CDATA[波音公司的新型 Starliner 宇宙飞船原定于周一晚间进行发射，进行拖延已久的首次载人入轨试飞，该公司正努力与埃隆·马斯克 (Elon Musk) 的 SpaceX 竞争，以在利润丰厚的 NASA 业务中获得更大份额。]]></description>
       <guid>https://www.reuters.com/science/boeings-new-starliner-capsule-set-first-crewed-flight-space-station-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 11:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>由于降息乐观情绪，华尔街第三个交易日收高</title>
+      <title>受降息乐观情绪推动，华尔街连续第三个交易日收高</title>
       <link>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</link>
       <description><![CDATA[美国股指周一收高，连续第三个交易日上涨，因投资者继续对美联储今年降息的可能性更大抱有希望。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</guid>
