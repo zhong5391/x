@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>商业新闻 | 今日国际头条 | 路透社</title>
+    <title>商业新闻 |今日国际头条 |路透社</title>
     <link>https://www.reuters.com/business/</link>
-    <description>在 Reuters.com 上查找来自全球各个角落的最新商业新闻，它是您获取突发国际新闻报道的在线来源。 - 由 RSSHub 精心制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 07 May 2024 02:24:17 GMT</lastBuildDate>
+    <description>在Reuters.com 上查找来自全球各个角落的最新商业新闻，这是您获取重大国际新闻报道的在线来源。 - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 07 May 2024 02:46:42 GMT</lastBuildDate>
     <item>
       <title>联邦法官将联邦快递承包商的敲诈勒索索赔提交仲裁</title>
       <link>https://www.reuters.com/legal/federal-judge-sends-fedex-contractors-racketeering-claim-arbitration-2024-05-07/</link>
@@ -13,7 +13,7 @@
       <pubDate>Tue, 07 May 2024 00:35:59 GMT</pubDate>
     </item>
     <item>
-      <title>半年盈利符合预期后，澳大利亚澳新银行宣布回购 13 亿美元</title>
+      <title>澳大利亚澳新银行公布 13 亿美元回购计划，因半年收益符合预期</title>
       <link>https://www.reuters.com/markets/asia/australias-anz-group-announces-13-bln-buyback-first-half-cash-earnings-drop-7-2024-05-06/</link>
       <description><![CDATA[澳新银行上半年现金收益基本达到分析师预期后，周二公布了新的 20 亿澳元（13.2 亿美元）股票回购计划，但也表达了对澳大利亚和全球经济挑战的担忧。]]></description>
       <guid>https://www.reuters.com/markets/asia/australias-anz-group-announces-13-bln-buyback-first-half-cash-earnings-drop-7-2024-05-06/</guid>
@@ -22,14 +22,14 @@
     <item>
       <title>Paul Weiss 从 Cleary 聘请顶级交易律师 Langston</title>
       <link>https://www.reuters.com/markets/deals/paul-weiss-hires-top-deals-lawyer-langston-cleary-2024-05-06/</link>
-      <description><![CDATA[Paul, Weiss, Rifkind, Wharton &amp; 律师事务所加里森正在从竞争对手公司 Cleary Gottlieb Steen &amp; 聘请顶级交易撮合者吉姆·兰斯顿 (Jim Langston)。 Hamilton 作为其并购 (M&amp;A) 业务的合伙人。]]></description>
+      <description><![CDATA[保维斯律师事务所 (Paul, Weiss, Rifkind, Wharton &amp; Garrison) 正在从竞争对手佳利律师事务所 (Cleary Gottlieb Steen &amp; Hamilton) 聘请顶级交易撮合者吉姆·兰斯顿 (Jim Langston)，担任其并购 (M&amp;A) 业务的合伙人。]]></description>
       <guid>https://www.reuters.com/markets/deals/paul-weiss-hires-top-deals-lawyer-langston-cleary-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 22:02:09 GMT</pubDate>
     </item>
     <item>
-      <title>早盘报价：澳大利亚央行紧随其后，恒生指数有望连续第 11 次上涨</title>
+      <title>早盘竞价：澳洲联储接下来上涨，恒生指数有望第11次上涨</title>
       <link>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-06/</link>
-      <description><![CDATA[展望未来一天的亚洲市场。]]></description>
+      <description><![CDATA[展望未来亚洲市场的前景。]]></description>
       <guid>https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 21:50:00 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 06 May 2024 20:30:40 GMT</pubDate>
     </item>
     <item>
-      <title>高盛针对 1MDB 的刑事案件正式结束</title>
+      <title>高盛涉 1MDB 刑事案件正式结束</title>
       <link>https://www.reuters.com/legal/goldman-sachs-criminal-case-over-1mdb-formally-ends-2024-05-06/</link>
       <description><![CDATA[周一，一名美国法官正式结束了美国政府针对高盛提起的刑事诉讼，该案涉及高盛为马来西亚基金 1MDB 提供的服务，此前高盛履行了义务并支付了 29 亿美元的罚款。]]></description>
       <guid>https://www.reuters.com/legal/goldman-sachs-criminal-case-over-1mdb-formally-ends-2024-05-06/</guid>
@@ -76,9 +76,9 @@
       <pubDate>Mon, 06 May 2024 20:24:32 GMT</pubDate>
     </item>
     <item>
-      <title>美国联邦航空局对波音 787 展开调查</title>
+      <title>美国联邦航空管理局对波音 787 展开调查</title>
       <link>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</link>
-      <description><![CDATA[美国联邦航空管理局 (FAA) 周一表示，已对波音 787 梦想飞机展开调查，此前该飞机制造商表示，一些员工声称已经完成一些测试，从而构成“不当行为”。]]></description>
+      <description><![CDATA[美国联邦航空管理局周一表示，已对波音 787 梦想客机展开调查，此前这家飞机制造商表示，部分员工声称部分测试已完成，存在“不当行为”。]]></description>
       <guid>https://www.reuters.com/business/aerospace-defense/faa-opens-new-investigation-into-boeing-wsj-reports-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 19:17:14 GMT</pubDate>
     </item>
@@ -99,7 +99,7 @@
     <item>
       <title>据 Electrek 报道，特斯拉在软件和服务团队中裁掉了更多员工</title>
       <link>https://www.reuters.com/business/autos-transportation/tesla-lays-off-more-staff-software-service-teams-electrek-reports-2024-05-06/</link>
-      <description><![CDATA[据科技出版物 Electrek 周一援引知情人士的话报道，电动汽车制造商特斯拉已解雇了软件、服务和工程部门的员工。]]></description>
+      <description><![CDATA[科技出版物 Electrek 周一援引知情人士的话报道称，电动汽车制造商特斯拉已解雇软件、服务和工程部门的员工。]]></description>
       <guid>https://www.reuters.com/business/autos-transportation/tesla-lays-off-more-staff-software-service-teams-electrek-reports-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 15:41:59 GMT</pubDate>
     </item>
@@ -132,16 +132,16 @@
       <pubDate>Mon, 06 May 2024 11:12:17 GMT</pubDate>
     </item>
     <item>
-      <title>受降息乐观情绪推动，华尔街连续第三个交易日收高</title>
+      <title>由于降息乐观情绪，华尔街第三个交易日收高</title>
       <link>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</link>
-      <description><![CDATA[美国股指周一收高，连续第三个交易日上涨，因投资者继续对美联储今年降息的可能性更大抱有希望。]]></description>
+      <description><![CDATA[美国股市周一收盘走高，为连续第三个交易日上涨，因投资者继续对美联储今年降息的可能性加大抱有希望。]]></description>
       <guid>https://www.reuters.com/markets/us/futures-edge-higher-rate-cut-bets-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:16:30 GMT</pubDate>
     </item>
     <item>
       <title>沃伦·巴菲特的粉丝为他离开后制定了自己的路线</title>
       <link>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</link>
-      <description><![CDATA[93岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特在思考自己的未来时，周六告诉股东，如果幸运的话，他还能再活六七年，但他补充说，“这可能明天就结束了”。]]></description>
+      <description><![CDATA[93 岁的伯克希尔·哈撒韦公司首席执行官、亿万富翁沃伦·巴菲特周六告诉股东，他对自己的未来进行了思考，他说，如果幸运的话，他还能再干六七年，但他补充说，“他的任期可能明天就结束”。]]></description>
       <guid>https://www.reuters.com/business/warren-buffetts-fans-plot-their-own-course-when-he-leaves-2024-05-06/</guid>
       <pubDate>Mon, 06 May 2024 10:02:42 GMT</pubDate>
     </item>
