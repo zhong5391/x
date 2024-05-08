@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FARSS</title>
+    <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 07 May 2024 14:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 04:48:21 GMT</lastBuildDate>
+    <item>
+      <title>为什么乌克兰应该继续袭击俄罗斯炼油厂</title>
+      <link>https://www.foreignaffairs.com/ukraine/why-ukraine-should-keep-striking-russian-oil-refineries</link>
+      <description><![CDATA[华盛顿对能源市场的担忧是多余的。]]></description>
+      <guid>https://www.foreignaffairs.com/ukraine/why-ukraine-should-keep-striking-russian-oil-refineries</guid>
+      <pubDate>Wed, 08 May 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>东亚即将到来的人口崩溃</title>
+      <link>https://www.foreignaffairs.com/china/east-asias-coming-population-collapse</link>
+      <description><![CDATA[以及它将如何重塑世界政治。]]></description>
+      <guid>https://www.foreignaffairs.com/china/east-asias-coming-population-collapse</guid>
+      <pubDate>Wed, 08 May 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>日本和韩国创新的秘密</title>
       <link>https://www.foreignaffairs.com/japan/secret-japanese-and-south-korean-innovation</link>
@@ -43,7 +57,7 @@
     <item>
       <title>中国核扩张的真正动机</title>
       <link>https://www.foreignaffairs.com/china/real-motives-chinas-nuclear-expansion</link>
-      <description><![CDATA[北京寻求地缘政治影响力而非军事优势。]]></description>
+      <description><![CDATA[北京寻求的不仅仅是军事优势，还有地缘政治优势。]]></description>
       <guid>https://www.foreignaffairs.com/china/real-motives-chinas-nuclear-expansion</guid>
       <pubDate>Fri, 03 May 2024 04:00:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[大国竞争不再主导该地区的政治。]]></description>
       <guid>https://www.foreignaffairs.com/asia/myth-asian-swing-state</guid>
       <pubDate>Thu, 02 May 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅靠美国的援助无法拯救乌克兰</title>
-      <link>https://www.foreignaffairs.com/ukraine/american-aid-alone-wont-save-ukraine</link>
-      <description><![CDATA[为了生存，基辅必须建立新的旅，并迫使莫斯科进行谈判。]]></description>
-      <guid>https://www.foreignaffairs.com/ukraine/american-aid-alone-wont-save-ukraine</guid>
-      <pubDate>Thu, 02 May 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>以色列为何应宣布加沙单方面停火</title>
-      <link>https://www.foreignaffairs.com/middle-east/why-israel-should-declare-unilateral-cease-fire-gaza</link>
-      <description><![CDATA[这是扭转哈马斯和伊朗局势并推进与沙特阿拉伯关系正常化的机会。]]></description>
-      <guid>https://www.foreignaffairs.com/middle-east/why-israel-should-declare-unilateral-cease-fire-gaza</guid>
-      <pubDate>Wed, 01 May 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
