@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FA RSS</title>
+    <title>FARSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 09 May 2024 16:24:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 05:18:12 GMT</lastBuildDate>
+    <item>
+      <title>哈马斯在战后加沙想要什么</title>
+      <link>https://www.foreignaffairs.com/israel/what-hamas-wants-postwar-gaza</link>
+      <description><![CDATA[没有治理负担的战斗权力。]]></description>
+      <guid>https://www.foreignaffairs.com/israel/what-hamas-wants-postwar-gaza</guid>
+      <pubDate>Fri, 10 May 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>基础设施正在重塑地缘政治</title>
+      <link>https://www.foreignaffairs.com/united-states/infrastructure-remaking-geopolitics</link>
+      <description><![CDATA[电力如何从连接世界的系统中流动。]]></description>
+      <guid>https://www.foreignaffairs.com/united-states/infrastructure-remaking-geopolitics</guid>
+      <pubDate>Fri, 10 May 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>通过保卫乌克兰来保卫台湾</title>
       <link>https://www.foreignaffairs.com/china/defending-taiwan-ukraine-jaushieh-joseph-wu</link>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 08 May 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>乌克兰为何应继续袭击俄罗斯炼油厂</title>
+      <title>为什么乌克兰应该继续袭击俄罗斯炼油厂</title>
       <link>https://www.foreignaffairs.com/ukraine/why-ukraine-should-keep-striking-russian-oil-refineries</link>
       <description><![CDATA[华盛顿对能源市场的担忧是多余的。]]></description>
       <guid>https://www.foreignaffairs.com/ukraine/why-ukraine-should-keep-striking-russian-oil-refineries</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[如何完成建设一个惠及所有人的经济。]]></description>
       <guid>https://www.foreignaffairs.com/bidens-incomplete-industrial-policy</guid>
       <pubDate>Mon, 06 May 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要炒作虚假信息威胁</title>
-      <link>https://www.foreignaffairs.com/russian-federation/dont-hype-disinformation-threat</link>
-      <description><![CDATA[低估风险对外国宣传人员有帮助，但夸大风险也有帮助。]]></description>
-      <guid>https://www.foreignaffairs.com/russian-federation/dont-hype-disinformation-threat</guid>
-      <pubDate>Fri, 03 May 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国核扩张的真正动机</title>
-      <link>https://www.foreignaffairs.com/china/real-motives-chinas-nuclear-expansion</link>
-      <description><![CDATA[北京寻求地缘政治影响力而非军事优势。]]></description>
-      <guid>https://www.foreignaffairs.com/china/real-motives-chinas-nuclear-expansion</guid>
-      <pubDate>Fri, 03 May 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
