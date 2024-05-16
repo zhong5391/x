@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 16 May 2024 17:33:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 17:48:17 GMT</lastBuildDate>
     <item>
       <title>美联储梅斯特建议在较长时间内提高利率</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-16/fed-s-mester-suggests-higher-for-longer-on-interest-rates</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[Azul SA 首席执行官约翰·彼得·罗杰森 (John Peter Rodgerson) 表示，合并将降低拉丁美洲航空公司的资本成本，从而为客户提供更好的服务。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-16/azul-ceo-touts-m-a-as-fix-for-latin-america-s-troubled-airlines</guid>
       <pubDate>Thu, 16 May 2024 17:08:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Renaissance Technologies 进军 GameStop 和 AMC，迎来反弹</title>
+      <link>https://www.bloomberg.com/news/articles/2024-05-16/quant-fund-rentech-piled-into-stocks-of-gamestop-amc-ahead-of-meme-frenzy</link>
+      <description><![CDATA[由已故吉姆·西蒙斯 (Jim Simons) 创立的量化基金 Renaissance Technologies LLC 在最新一轮上涨之前买入了迷因股宠儿 AMC Entertainment Holdings Inc. 和 GameStop Corp. 的股票。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-05-16/quant-fund-rentech-piled-into-stocks-of-gamestop-amc-ahead-of-meme-frenzy</guid>
+      <pubDate>Thu, 16 May 2024 17:07:15 GMT</pubDate>
     </item>
     <item>
       <title>美联储巴尔就推迟提出银行红利规则施压</title>
@@ -78,7 +85,7 @@
     <item>
       <title>私人信贷巨头纷纷飞往中东追逐数十亿美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-16/private-credit-titans-pack-middle-east-flights-chasing-billions</link>
-      <description><![CDATA[在从阿布扎比起飞的航班头等舱里争夺空间的是私人信贷界的名人：阿波罗全球管理公司的约翰·齐托、蓝猫头鹰资本公司的道格·奥斯特罗弗、第六街合伙人公司的道格·奥斯特罗弗。乔什·伊斯特利和对冲基金经理杰森·穆德里克。]]></description>
+      <description><![CDATA[从阿布扎比起飞的航班头等舱里挤满了私人信贷界的知名人士：阿波罗全球管理公司 (Apollo Global Management Inc.) 的约翰·齐托 (John Zito)、蓝色猫头鹰资本公司 (Blue Owl Capital Inc.) 的道格·奥斯特罗弗 (Doug Ostrover)、第六街合伙人公司 (Sixth Street Partners) 的乔什·伊斯特利 (Josh Easterly) 和对冲基金经理杰森·穆德里克 (Jason Mudrick)。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-16/private-credit-titans-pack-middle-east-flights-chasing-billions</guid>
       <pubDate>Thu, 16 May 2024 15:38:46 GMT</pubDate>
     </item>
@@ -190,13 +197,6 @@ Beth Flippo，Drone Express 首席执行官主持人：Mark Miller，Bloomberg L
       <pubDate>Thu, 16 May 2024 11:16:26 GMT</pubDate>
     </item>
     <item>
-      <title>富时 100 实时指数：BT 指数回吐 24 年来最大涨幅</title>
-      <link>https://www.bloomberg.com/news/live-blog/2024-05-16/what-s-moving-uk-markets-right-now-markets-today</link>
-      <description><![CDATA[2024 年 4 月 23 日星期二，英国伦敦金融城伦敦证券交易所集团公司办公室中庭的董事会上显示的股价信息。4 月 21 日星期一，富时 100 指数收盘创下历史新高由于近期股市波动和地缘政治风险促使投资者纷纷涌入英国基准指数的防御性板块，这是一年多来的首次。摄影师：霍莉·亚当斯/彭博社]]></description>
-      <guid>https://www.bloomberg.com/news/live-blog/2024-05-16/what-s-moving-uk-markets-right-now-markets-today</guid>
-      <pubDate>Thu, 16 May 2024 05:50:59 GMT</pubDate>
-    </item>
-    <item>
       <title>西门子35亿欧元出售电机部门，中国销量下滑</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-16/siemens-sees-factory-orders-drop-as-china-weakness-continues</link>
       <description><![CDATA[西门子股份公司 (Siemens AG) 出售其大型电机业务 35 亿欧元，继续从重型设备制造转向，中国对工厂自动化产品的需求进一步减弱。]]></description>
@@ -206,7 +206,7 @@ Beth Flippo，Drone Express 首席执行官主持人：Mark Miller，Bloomberg L
     <item>
       <title>道琼斯平均指数正在接近历史性的 40,000 点大关：市场总结</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-15/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[全球最大的股市正走向新纪录，道琼斯工业平均指数徘徊在历史性的 40,000 点附近，因为人们押注降息将继续为美国企业界提供动力。]]></description>
+      <description><![CDATA[全球最大的股市徘徊在历史高点附近，道琼斯工业平均指数触及历史性的 40,000 点大关，因为人们押注降息将继续为美国企业界提供动力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-15/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 15 May 2024 22:33:04 GMT</pubDate>
     </item>
