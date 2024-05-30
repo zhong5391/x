@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 30 May 2024 17:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 17:33:29 GMT</lastBuildDate>
+    <item>
+      <title>大型银行 CRE 风险研究重点关注 REIT 风险</title>
+      <link>https://www.bloomberg.com/news/videos/2024-05-30/big-bank-cre-risk-study-zeros-in-on-exposure-to-reits-video</link>
+      <description><![CDATA[彭博社的 Todd Gillespie 在“彭博市场”节目中告诉 Vonnie Quinn，研究人员在评估大型银行因美国商业地产市场低迷而面临的风险时，重点关注银行的表外信贷额度和对房地产投资信托的定期贷款。（来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-05-30/big-bank-cre-risk-study-zeros-in-on-exposure-to-reits-video</guid>
+      <pubDate>Thu, 30 May 2024 17:26:23 GMT</pubDate>
+    </item>
     <item>
       <title>美联储威廉姆斯认为有“充分”证据表明政策具有限制性</title>
       <link>https://www.bloomberg.com/news/videos/2024-05-30/fed-s-williams-sees-ample-evidence-policy-is-restrictive-video</link>
@@ -117,13 +124,6 @@ Anywhere：http://bit.ly/3oOD8ZH（来源：彭博）]]></description>
       <pubDate>Thu, 30 May 2024 14:40:37 GMT</pubDate>
     </item>
     <item>
-      <title>高盛的奥本海默认为收益率下跌的临界点</title>
-      <link>https://www.bloomberg.com/news/newsletters/2024-05-30/bond-yields-reach-tipping-point-of-weighing-on-equities-goldman-says</link>
-      <description><![CDATA[由于美国股市估值过高，未来将面临“陡峭的减速带”]]></description>
-      <guid>https://www.bloomberg.com/news/newsletters/2024-05-30/bond-yields-reach-tipping-point-of-weighing-on-equities-goldman-says</guid>
-      <pubDate>Thu, 30 May 2024 14:23:12 GMT</pubDate>
-    </item>
-    <item>
       <title>据称印度金达尔将加入委内瑞拉国家石油合资企业</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-30/india-s-jindal-power-is-said-to-join-venezuelan-oil-venture</link>
       <description><![CDATA[据知情人士透露，印度金达尔电力有限公司 (Jindal Power Ltd.) 将与委内瑞拉国家石油公司合作开展原油合资业务，而几个月前该公司刚刚获得该国最大铁矿石综合企业的经营合同。]]></description>
@@ -161,7 +161,7 @@ Anywhere：http://bit.ly/3oOD8ZH（来源：彭博）]]></description>
     <item>
       <title>加拿大皇家银行资本市场部门利润创历史新高，超出预期</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-30/rbc-tops-estimates-as-profit-surges-in-capital-markets-division</link>
-      <description><![CDATA[加拿大皇家银行在完成了对汇丰控股有限公司加拿大业务的里程碑式交易后，凭借公司资本市场业务的强劲表现和低于预期的潜在贷款损失准备金，其业绩超出了分析师的预期。]]></description>
+      <description><![CDATA[加拿大皇家银行在完成了对汇丰控股有限公司加拿大业务的里程碑式交易后，凭借公司资本市场业务的强劲表现和低于预期的潜在贷款损失准备金，其业绩超出分析师预期。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-30/rbc-tops-estimates-as-profit-surges-in-capital-markets-division</guid>
       <pubDate>Thu, 30 May 2024 10:20:24 GMT</pubDate>
     </item>
@@ -175,7 +175,7 @@ Anywhere：http://bit.ly/3oOD8ZH（来源：彭博）]]></description>
     <item>
       <title>如果将 REIT 债务考虑在内，大银行的 CRE 敞口将上升 40%</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-30/us-banks-have-a-commercial-property-blind-spot-risk-study-warns</link>
-      <description><![CDATA[一项新研究表明，由于美国大型银行向房地产投资信托提供了信贷额度和定期贷款，它们在商业地产方面的风险敞口可能比监管机构认为的要大。]]></description>
+      <description><![CDATA[一项新研究表明，由于美国大型银行向房地产投资信托提供信贷额度和定期贷款，它们在商业地产方面的风险敞口可能比监管机构认为的要大。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-30/us-banks-have-a-commercial-property-blind-spot-risk-study-warns</guid>
       <pubDate>Thu, 30 May 2024 05:30:00 GMT</pubDate>
     </item>
@@ -203,7 +203,7 @@ Anywhere：http://bit.ly/3oOD8ZH（来源：彭博）]]></description>
     <item>
       <title>尽管美国库存下降，但油价仍下跌，交易商等待 OPEC+ 会议</title>
       <link>https://www.bloomberg.com/news/articles/2024-05-29/latest-oil-market-news-and-analysis-for-may-30</link>
-      <description><![CDATA[尽管美国数据显示该国库存出现五周以来的最大降幅，但油价仍下跌，交易员们仍在等待周日的 OPEC+ 会议以获得更多供应指导。]]></description>
+      <description><![CDATA[尽管美国数据显示该国库存出现五周以来的最大降幅，但油价仍下跌，交易员们仍在等待周日的 OPEC+ 会议以获得有关供应的更多指导。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-05-29/latest-oil-market-news-and-analysis-for-may-30</guid>
       <pubDate>Wed, 29 May 2024 23:32:32 GMT</pubDate>
     </item>
