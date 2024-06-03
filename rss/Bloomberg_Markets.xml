@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Mon, 03 Jun 2024 20:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 20:36:27 GMT</lastBuildDate>
     <item>
       <title>彭博 ETF IQ 06/03/2024</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-03/bloomberg-etf-iq-06-03-2024</link>
@@ -90,7 +90,7 @@
       <pubDate>Mon, 03 Jun 2024 18:50:46 GMT</pubDate>
     </item>
     <item>
-      <title>吉尔重返 Reddit 彰显巨大赌注，GameStop 股价飙升</title>
+      <title>Gill 重返 Reddit 彰显巨大赌注，GameStop 股价飙升</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-03/gamestop-surges-as-gill-s-reddit-return-shows-huge-bet-video</link>
       <description><![CDATA[在 2021 年引发 meme-stock 狂热的 Reddit 账户发布了这家视频游戏零售商的 1.16 亿美元持仓后，GameStop 股价飙升。彭博社的 Bailey Lipschultz 与 Caroline Hyde 一起参加了“彭博科技”节目。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-06-03/gamestop-surges-as-gill-s-reddit-return-shows-huge-bet-video</guid>
@@ -120,7 +120,7 @@
     <item>
       <title>雪佛龙澳大利亚液化天然气工厂停产加剧全球供应困境</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-03/chevron-s-australian-lng-plant-outage-adds-to-global-supply-woes</link>
-      <description><![CDATA[周一，澳大利亚一个重要液化天然气出口设施的部分生产暂停，由于挪威的管道问题导致欧洲的天然气流量减少，全球供应面临进一步收紧的威胁。]]></description>
+      <description><![CDATA[周一，澳大利亚一个重要液化天然气出口设施的部分生产暂停，由于挪威的管道问题导致欧洲的天然气流量减少，全球供应可能进一步收紧。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-03/chevron-s-australian-lng-plant-outage-adds-to-global-supply-woes</guid>
       <pubDate>Mon, 03 Jun 2024 18:16:36 GMT</pubDate>
     </item>
@@ -132,18 +132,11 @@
       <pubDate>Mon, 03 Jun 2024 18:09:22 GMT</pubDate>
     </item>
     <item>
-      <title>摩根士丹利警告称美国大选将威胁热门宏观交易</title>
+      <title>摩根士丹利警告称美国大选将威胁热门交易</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-03/morgan-stanley-warns-us-elections-threaten-popular-macro-trades</link>
       <description><![CDATA[摩根士丹利表示，由于投资者争相削减风险敞口，美国大选不确定性加剧可能会危及今年一些最受欢迎的宏观交易。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-03/morgan-stanley-warns-us-elections-threaten-popular-macro-trades</guid>
       <pubDate>Mon, 03 Jun 2024 18:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>福特对底特律密歇根中央火车站进行大修</title>
-      <link>https://www.bloomberg.com/news/videos/2024-06-03/ford-overhauls-detroit-s-michigan-central-train-station</link>
-      <description><![CDATA[福特首席执行官吉姆·法利表示，福特投资重建底特律密歇根中央车站是福特作为汽车制造商自身发展历程的象征。该公司斥资 9.49 亿美元将该物业改造成一个新的以技术为中心的中心。法利接受了彭博社戴维·威斯汀的采访。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-06-03/ford-overhauls-detroit-s-michigan-central-train-station</guid>
-      <pubDate>Mon, 03 Jun 2024 18:01:30 GMT</pubDate>
     </item>
     <item>
       <title>比尔·阿克曼的潘兴广场计划为美国基金筹集 250 亿美元</title>
@@ -181,9 +174,16 @@
       <pubDate>Mon, 03 Jun 2024 15:33:59 GMT</pubDate>
     </item>
     <item>
+      <title>Coastal GasLink 开始发售史上最大笔加拿大债券</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-03/coastal-gaslink-starts-selling-biggest-ever-canadian-bond</link>
+      <description><![CDATA[加拿大西部的管道项目 Coastal GasLink LP 正在出售至少 50 亿加元（36.7 亿美元）的债券，这将成为有史以来最大的以加元计价的公司债券交易。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-03/coastal-gaslink-starts-selling-biggest-ever-canadian-bond</guid>
+      <pubDate>Mon, 03 Jun 2024 15:23:08 GMT</pubDate>
+    </item>
+    <item>
       <title>纽约证券交易所修复了导致股价下跌 99% 并引发交易暂停的问题</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-03/volatility-halts-hit-numerous-nyse-listed-stocks-in-error</link>
-      <description><![CDATA[周一早上，软件更新过程中出现故障，导致纽约证券交易所错误地暂停了大约 40 只股票的交易，并显示了包括沃伦·巴菲特的伯克希尔哈撒韦公司在内的公司股价下跌 99% 的奇怪交易。]]></description>
+      <description><![CDATA[周一早上，软件更新出现故障，导致纽约证券交易所错误地暂停了大约 40 只股票的交易，并显示了包括沃伦·巴菲特的伯克希尔哈撒韦公司在内的公司股价下跌 99% 的奇怪交易。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-03/volatility-halts-hit-numerous-nyse-listed-stocks-in-error</guid>
       <pubDate>Mon, 03 Jun 2024 14:08:38 GMT</pubDate>
     </item>
@@ -202,7 +202,7 @@
       <pubDate>Mon, 03 Jun 2024 06:55:36 GMT</pubDate>
     </item>
     <item>
-      <title>疲软数据助长美联储押注，美国国债收益率下跌：市场综述</title>
+      <title>疲弱数据助长美联储押注 国债收益率下跌：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-02/asian-stocks-eye-early-gains-as-rate-cut-bets-firm-markets-wrap</link>
       <description><![CDATA[疲软的制造业数据引发了人们对美联储今年将有降息空间的猜测，债券价格随之上涨。由于科技股上涨抵消了能源股下跌，股市出现波动。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-02/asian-stocks-eye-early-gains-as-rate-cut-bets-firm-markets-wrap</guid>
