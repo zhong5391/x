@@ -4,7 +4,14 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Mon, 03 Jun 2024 19:51:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 20:20:28 GMT</lastBuildDate>
+    <item>
+      <title>彭博 ETF IQ 06/03/2024</title>
+      <link>https://www.bloomberg.com/news/videos/2024-06-03/bloomberg-etf-iq-06-03-2024</link>
+      <description><![CDATA[“彭博 ETF IQ” 关注全球交易所交易基金行业数万亿美元的机遇、风险和当前趋势。今天的嘉宾：VettaFi 研究主管 Todd Rosenbluth 和 Pacer ETFs 总裁 Sean O&#39;Hara（来源：彭博）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-06-03/bloomberg-etf-iq-06-03-2024</guid>
+      <pubDate>Mon, 03 Jun 2024 20:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>阿丽亚娜·德·罗斯柴尔德 (Ariane de Rothschild) 重返首席执行官之位，谈多元化</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-03/ariane-de-rothschild-on-returning-as-ceo-diversity</link>
@@ -139,20 +146,6 @@
       <pubDate>Mon, 03 Jun 2024 18:01:30 GMT</pubDate>
     </item>
     <item>
-      <title>陷入困境的宾夕法尼亚州医院连锁机构准备进行 10 亿美元债务互换</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-03/troubled-pennsylvania-hospital-chain-preps-1-billion-debt-swap</link>
-      <description><![CDATA[陷入困境的宾夕法尼亚州医院连锁机构 Tower Health 计划交换现有债务并筹集更多资金，以实现扭亏为盈。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-03/troubled-pennsylvania-hospital-chain-preps-1-billion-debt-swap</guid>
-      <pubDate>Mon, 03 Jun 2024 18:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Planet Fitness 启动 8 亿美元债务出售计划</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-03/planet-fitness-kicks-off-800-million-whole-business-debt-sale</link>
-      <description><![CDATA[健身连锁店 Planet Fitness 周一开始发售价值 8 亿美元的债券，这些债券由该公司的大部分资产支持，这是近期一系列被称为整体业务证券化的交易中的最新一次。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-03/planet-fitness-kicks-off-800-million-whole-business-debt-sale</guid>
-      <pubDate>Mon, 03 Jun 2024 17:52:02 GMT</pubDate>
-    </item>
-    <item>
       <title>比尔·阿克曼的潘兴广场计划为美国基金筹集 250 亿美元</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-03/ackman-s-pershing-square-targets-raising-25-billion-for-us-fund</link>
       <description><![CDATA[据知情人士透露，比尔·阿克曼 (Bill Ackman) 旗下的潘兴广场 (Pershing Square) 计划募集 250 亿美元用于一只新的封闭式基金，预计将吸引美国散户投资者的兴趣，这将使该公司管理的付费资产规模增加一倍以上。]]></description>
@@ -188,6 +181,13 @@
       <pubDate>Mon, 03 Jun 2024 15:33:59 GMT</pubDate>
     </item>
     <item>
+      <title>纽约证券交易所修复了导致股价下跌 99% 并引发交易暂停的问题</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-03/volatility-halts-hit-numerous-nyse-listed-stocks-in-error</link>
+      <description><![CDATA[周一早上，软件更新过程中出现故障，导致纽约证券交易所错误地暂停了大约 40 只股票的交易，并显示了包括沃伦·巴菲特的伯克希尔哈撒韦公司在内的公司股价下跌 99% 的奇怪交易。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-03/volatility-halts-hit-numerous-nyse-listed-stocks-in-error</guid>
+      <pubDate>Mon, 03 Jun 2024 14:08:38 GMT</pubDate>
+    </item>
+    <item>
       <title>数据支持美联储降息预期，交易员推高美国国债价格</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-03/treasuries-gain-as-traders-wait-for-clues-on-economy-in-ism-data</link>
       <description><![CDATA[在美国制造业数据增强了人们对美联储今年将至少降息一次的预期后，美国国债价格上涨，基准收益率跌至一周多以来的最低水平。]]></description>
@@ -202,9 +202,9 @@
       <pubDate>Mon, 03 Jun 2024 06:55:36 GMT</pubDate>
     </item>
     <item>
-      <title>制造业疲软导致股市下跌、债券上涨：市场综述</title>
+      <title>疲软数据助长美联储押注，美国国债收益率下跌：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-02/asian-stocks-eye-early-gains-as-rate-cut-bets-firm-markets-wrap</link>
-      <description><![CDATA[疲软的制造业报告引发了人们对世界最大经济体进一步失去动力的担忧，华尔街交易员推低了股票价格，推高了债券价格。油价暴跌。]]></description>
+      <description><![CDATA[疲软的制造业数据引发了人们对美联储今年将有降息空间的猜测，债券价格随之上涨。由于科技股上涨抵消了能源股下跌，股市出现波动。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-02/asian-stocks-eye-early-gains-as-rate-cut-bets-firm-markets-wrap</guid>
       <pubDate>Sun, 02 Jun 2024 22:36:17 GMT</pubDate>
     </item>
