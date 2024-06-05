@@ -4,7 +4,21 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Jun 2024 15:07:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 05:22:55 GMT</lastBuildDate>
+    <item>
+      <title>气候变化如何威胁民主</title>
+      <link>https://www.foreignaffairs.com/world/climate-change-threatens-democracy-elections</link>
+      <description><![CDATA[极端天气现在影响着世界各地的选举。]]></description>
+      <guid>https://www.foreignaffairs.com/world/climate-change-threatens-democracy-elections</guid>
+      <pubDate>Wed, 05 Jun 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>三战区防御战略</title>
+      <link>https://www.foreignaffairs.com/united-states/theater-defense-war-asia-europe-middle-east</link>
+      <description><![CDATA[美国如何为亚洲、欧洲和中东的战争做准备。]]></description>
+      <guid>https://www.foreignaffairs.com/united-states/theater-defense-war-asia-europe-middle-east</guid>
+      <pubDate>Wed, 05 Jun 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>印度与中国的危险边境对峙</title>
       <link>https://www.foreignaffairs.com/india/modi-perilous-border-standoff-china</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[如何扩大欧洲而不破坏其稳定。]]></description>
       <guid>https://www.foreignaffairs.com/ukraine/ukraines-perilous-path-eu-membership</guid>
       <pubDate>Thu, 30 May 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰如何用更少的资源做更多的事情</title>
-      <link>https://www.foreignaffairs.com/ukraine/how-ukraine-can-do-more-less</link>
-      <description><![CDATA[超越俄罗斯的军事战略。]]></description>
-      <guid>https://www.foreignaffairs.com/ukraine/how-ukraine-can-do-more-less</guid>
-      <pubDate>Wed, 29 May 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊朗与以色列战争的根源很浅</title>
-      <link>https://www.foreignaffairs.com/israel/shallow-roots-irans-war-israel</link>
-      <description><![CDATA[在德黑兰极端主义的背后，是一段伊朗与犹太人深厚联系的失落历史。]]></description>
-      <guid>https://www.foreignaffairs.com/israel/shallow-roots-irans-war-israel</guid>
-      <pubDate>Wed, 29 May 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
