@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 11 Jun 2024 14:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 14:51:27 GMT</lastBuildDate>
     <item>
       <title>Allspring 的 Patel 表示，今年剩余时间股市可能会上涨</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-11/allspring-s-patel-says-stocks-may-move-up-for-rest-of-year</link>
@@ -13,7 +13,14 @@
       <pubDate>Tue, 11 Jun 2024 14:37:11 GMT</pubDate>
     </item>
     <item>
-      <title>Pimco 对银行和 CRE 发出警告，加剧国内长期高利率风险</title>
+      <title>Raspberry Pi 终于在伦敦股票市场首次亮相</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-11/raspberry-pi-hands-london-a-starry-share-market-debut-at-last</link>
+      <description><![CDATA[至少就目前而言，伦敦对于股票市场萎缩的哀叹已经被个人电脑制造商 Raspberry Pi 的出色交易首日所淹没。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-11/raspberry-pi-hands-london-a-starry-share-market-debut-at-last</guid>
+      <pubDate>Tue, 11 Jun 2024 14:35:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pimco 对银行和 CRE 发出警告，加剧长期高利率风险</title>
       <link>https://www.bloomberg.com/news/newsletters/2024-06-11/fed-s-higher-for-longer-rates-start-to-bite-on-commercial-real-estate</link>
       <description><![CDATA[摩根大通的 Stealey 表示创纪录的加息周期的后果仍然是一个威胁 ]]></description>
       <guid>https://www.bloomberg.com/news/newsletters/2024-06-11/fed-s-higher-for-longer-rates-start-to-bite-on-commercial-real-estate</guid>
@@ -29,12 +36,12 @@
     <item>
       <title>美国小企业乐观情绪改善，但担忧依然存在</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-11/us-small-business-optimism-improves-but-worries-remain-video</link>
-      <description><![CDATA[随着企业对经济前景的悲观情绪有所减弱，美国小企业乐观情绪在 5 月份升至今年最高水平。Chase for Business 首席执行官 Ben Walter 分析了全美独立企业联合会信心指数的结果。（来源：彭博社）]]></description>
+      <description><![CDATA[随着企业对经济前景的悲观情绪有所减弱，美国小企业乐观情绪在 5 月份升至今年最高水平。Chase for Business 首席执行官 Ben Walter 分析了全国独立企业信心指数的结果。]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-06-11/us-small-business-optimism-improves-but-worries-remain-video</guid>
       <pubDate>Tue, 11 Jun 2024 14:15:45 GMT</pubDate>
     </item>
     <item>
-      <title>SBB 因 ISS 建议投票反对董事长而遭遇强烈反对</title>
+      <title>SBB 因 ISS 表示将投票反对董事长而受到强烈反对</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-11/sbb-faces-backlash-with-iss-advising-to-vote-against-chairman</link>
       <description><![CDATA[在一位颇具影响力的代理顾问表示投资者应该投票反对该公司任命新董事长的提议后，陷入困境的瑞典电力运营商SBB 将在本月底与股东展开摊牌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-11/sbb-faces-backlash-with-iss-advising-to-vote-against-chairman</guid>
@@ -71,7 +78,7 @@
     <item>
       <title>Truist 称 Ozempic 无法与 Krispy Kreme 匹敌</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-11/ozempic-is-no-match-for-krispy-kreme-truist-says</link>
-      <description><![CDATA[Truist Securities 董事总经理 Bill Chappell 表示，Ozempic 和其他减肥药无法与不健康的零食和 Krispy Kreme 相提并论。他说我们仍然“喜欢甜食”。他参加了“彭博监视”节目。（来源：彭博社）]]></description>
+      <description><![CDATA[Truist Securities 董事总经理 Bill Chappell 表示，Ozempic 和其他减肥药都无法与不健康的零食和 Krispy Kreme 相提并论。他说我们仍然“喜欢甜食”。他参加了“彭博监视”节目。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-06-11/ozempic-is-no-match-for-krispy-kreme-truist-says</guid>
       <pubDate>Tue, 11 Jun 2024 13:47:11 GMT</pubDate>
     </item>
@@ -125,22 +132,18 @@
       <pubDate>Tue, 11 Jun 2024 12:41:59 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能竞赛：马斯克对苹果与 OpenAI、ChatGPT 合作的回应 | The Pulse | 彭博社 The Pulse 06/11</title>
-      <link>https://www.bloomberg.com/news/videos/2024-06-11/musk-s-response-to-apple-s-openai-tie-up-the-pulse-video</link>
-      <description><![CDATA[苹果发布了备受期待的全新 AI 功能套件，其中包括与 ChatGPT 制造商 OpenAI 的合作。这家 iPhone 制造商认为，个性化和低调的技术方法将赢得客户。但亿万富翁埃隆·马斯克表示，如果 OpenAI 的软件在操作系统层面集成到产品中，他将禁止苹果设备进入他的公司。彭博情报的 Matt Bloxham 对此进行了讨论。
-
-今天的嘉宾：高盛的 Sharon Bell
---------
-“与 Francine Lacqua 的脉搏”是关于与全球商业、经济、金融和政治中心的知名嘉宾的对话。我们总部位于伦敦，无论故事发生在哪里，我们都会去，为您带来独家采访和市场动态。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-06-11/musk-s-response-to-apple-s-openai-tie-up-the-pulse-video</guid>
-      <pubDate>Tue, 11 Jun 2024 12:31:04 GMT</pubDate>
-    </item>
-    <item>
       <title>巴西通胀加速，再次降息希望渺茫</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-11/brazil-inflation-speeds-up-and-hurts-hopes-of-another-rate-cut</link>
-      <description><![CDATA[巴西5月份的年度通胀率升幅超过预期，结束了连续七个月的物价下降趋势，并给政策制定者在下周会议上维持利率不变带来更大压力。]]></description>
+      <description><![CDATA[巴西5月份的年度通胀率升幅超过预期，结束了连续七个月的物价下降趋势，并给政策制定者在下周的会议上维持利率不变带来更大压力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-11/brazil-inflation-speeds-up-and-hurts-hopes-of-another-rate-cut</guid>
       <pubDate>Tue, 11 Jun 2024 12:08:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>帝亚吉欧成为最新一家出售尼日利亚子公司的跨国公司</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-11/diageo-sells-nigerian-stakes-joining-multinationals-exiting</link>
+      <description><![CDATA[帝亚吉欧公司 (Diageo Plc) 正在出售其在健力士尼日利亚公司 (Guinness Nigeria Plc) 的股份，与其他跨国公司一样，纷纷退出或减少对这个西非国家的投资，该国正面临几十年来最严重的生活成本危机。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-11/diageo-sells-nigerian-stakes-joining-multinationals-exiting</guid>
+      <pubDate>Tue, 11 Jun 2024 12:02:47 GMT</pubDate>
     </item>
     <item>
       <title>法国债券市场下跌，马克龙拒绝辞职传闻</title>
@@ -164,20 +167,6 @@
       <pubDate>Tue, 11 Jun 2024 09:57:35 GMT</pubDate>
     </item>
     <item>
-      <title>英国债券订单量达 1100 亿英镑，创下新高</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-11/uk-smashes-bond-sale-demand-record-with-104-billion-orderbook</link>
-      <description><![CDATA[英国政府债券销售周二获得了创纪录的需求，原因是英国政府提供了超出预期的折扣。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-11/uk-smashes-bond-sale-demand-record-with-104-billion-orderbook</guid>
-      <pubDate>Tue, 11 Jun 2024 09:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>政治风险重现，法国股市连续第二天下跌</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-11/european-stocks-regain-ground-as-us-rates-take-focus-off-france</link>
-      <description><![CDATA[在法国总统埃马纽埃尔·马克龙决定提前举行大选后，法国股市周二有望创下一年来最大两日跌幅，法国债券也随之下跌。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-11/european-stocks-regain-ground-as-us-rates-take-focus-off-france</guid>
-      <pubDate>Tue, 11 Jun 2024 07:13:20 GMT</pubDate>
-    </item>
-    <item>
       <title>国际货币基金组织在最新评估中削减肯尼亚融资计划规模</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-11/imf-and-kenya-reach-initial-agreement-to-access-1-1-billion</link>
       <description><![CDATA[由于肯尼亚的融资条件更加宽松，国际货币基金组织已缩减了对肯尼亚的项目规模，同时朝着解锁剩余资金的方向迈出了一步。]]></description>
@@ -192,6 +181,13 @@
       <pubDate>Tue, 11 Jun 2024 06:19:17 GMT</pubDate>
     </item>
     <item>
+      <title>战争余波迫使以色列人考虑通货膨胀</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-11/war-s-aftershocks-force-israelis-to-face-delayed-inflation-spike</link>
+      <description><![CDATA[以色列小镇奥法基姆距离加沙不远，加沙战争已持续了八个月。但直到现在，冲突造成的通货膨胀影响才开始显现。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-11/war-s-aftershocks-force-israelis-to-face-delayed-inflation-spike</guid>
+      <pubDate>Tue, 11 Jun 2024 05:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>乌克兰预计 9 月份将有更多天然气贸易商开动库存</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-11/ukraine-expects-more-gas-traders-to-tap-its-storage-by-september</link>
       <description><![CDATA[乌克兰最大能源公司的负责人表示，尽管俄罗斯不断袭击乌克兰，但乌克兰预计到 9 月份将有更多欧洲公司使用其天然气储存设施。]]></description>
@@ -199,9 +195,9 @@
       <pubDate>Tue, 11 Jun 2024 05:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>美国市场前景和周三美联储决议公布前油价持稳</title>
+      <title>美国市场前景报告和美联储决议公布前油价小幅走低</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-10/latest-oil-market-news-and-analysis-for-june-11</link>
-      <description><![CDATA[在市场前景报告公布以及石油输出国组织维持需求增强的预测之际，油价录得自 3 月份以来的最大涨幅。]]></description>
+      <description><![CDATA[在关键市场前景报告和美联储明天的利率决定公布之前，油价小幅走低。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-10/latest-oil-market-news-and-analysis-for-june-11</guid>
       <pubDate>Mon, 10 Jun 2024 23:32:50 GMT</pubDate>
     </item>
@@ -213,9 +209,9 @@
       <pubDate>Mon, 10 Jun 2024 23:26:09 GMT</pubDate>
     </item>
     <item>
-      <title>美联储会议纪要公布 股市下跌 因欧洲忧虑加剧：市场综述</title>
+      <title>美联储决策前银行股遭遇抛售 市场重压</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-10/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[在美国联邦储备委员会做出决定之前以及欧洲政治不确定性迫使交易员转向市场最安全的角落之前，股市从历史高位回落。]]></description>
+      <description><![CDATA[美联储公布利率决议前，银行股下跌令美国股市承压，欧洲政治不确定性促使交易员转向美国国债和美元等最安全的市场领域。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-10/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Mon, 10 Jun 2024 22:14:15 GMT</pubDate>
     </item>
