@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 14 Jun 2024 04:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 04:39:56 GMT</lastBuildDate>
     <item>
       <title>特斯拉和亚马逊扭曲消费者健康预测</title>
       <link>https://www.bloomberg.com/opinion/articles/2024-06-14/tesla-amazon-distort-us-consumer-health-prognosis</link>
@@ -78,7 +78,7 @@
     <item>
       <title>日本零售商永旺放弃三菱日联金融集团的债券承销业务</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-14/japan-retailer-aeon-drops-mufg-brokerage-from-bond-underwriting</link>
-      <description><![CDATA[永旺株式会社 (Aeon Co.) 表示，已取消三菱日联摩根士丹利证券公司 (Mitsubishi UFJ Morgan Stanley Securities Co.) 安排债券发售的计划，因为据报道该承销商可能因泄露客户信息而面临处罚。]]></description>
+      <description><![CDATA[永旺株式会社 (Aeon Co.) 表示，已取消三菱日联摩根士丹利证券公司 (Mitsubishi UFJ Morgan Stanley Securities Co.) 安排其计划中的债券销售的资格，因为据报道，该承销商可能因泄露客户信息而面临处罚。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-14/japan-retailer-aeon-drops-mufg-brokerage-from-bond-underwriting</guid>
       <pubDate>Fri, 14 Jun 2024 02:22:37 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>Vingroup 董事长全力投入电动汽车梦想</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-14/vingroup-ceo-goes-all-in-on-ev-dreams-video</link>
-      <description><![CDATA[越南首富、亿万富翁范日旺在河内公司总部接受电视独家采访时首次向彭博社记者哈斯琳达·阿敏 (Haslinda Amin) 透露了他对 VinFast 的电动汽车愿景，VinFast 是越南大型企业集团 Vingroup 的电动汽车子公司。（来源：彭博社）]]></description>
+      <description><![CDATA[越南首富、亿万富翁范日旺在河内公司总部首次接受电视独家采访，向彭博社的哈斯琳达·阿敏 (Haslinda Amin) 讲述了他对 VinFast 的电动汽车愿景，VinFast 是越南大型企业集团 Vingroup 的电动汽车子公司。]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-06-14/vingroup-ceo-goes-all-in-on-ev-dreams-video</guid>
       <pubDate>Fri, 14 Jun 2024 00:38:20 GMT</pubDate>
     </item>
@@ -141,9 +141,16 @@
     <item>
       <title>马斯克：我们拥有最棒的股东基础</title>
       <link>https://www.bloomberg.com/news/videos/2024-06-14/musk-we-have-the-most-awesome-shareholder-base</link>
-      <description><![CDATA[特斯拉公司首席执行官埃隆·马斯克周四在投票通过其薪酬方案和其他措施后表示，他的公司拥有“最棒的股东基础”。在特斯拉奥斯汀总部，当身穿黑色 Cyber​​truck T 恤的马斯克走上舞台时，股东们欢呼雀跃。投资者高呼他的名字并说：“太棒了，我爱你们。”他非常激动。（来源：彭博社）]]></description>
+      <description><![CDATA[特斯拉公司首席执行官埃隆·马斯克周四在投票通过其薪酬方案和其他措施后表示，他的公司拥有“最棒的股东基础”。在特斯拉奥斯汀总部，当身穿黑色 Cyber​​truck T 恤的马斯克走上舞台时，股东们欢呼雀跃。投资者高呼他的名字，并说：“太棒了，我爱你们。”他非常激动。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-06-14/musk-we-have-the-most-awesome-shareholder-base</guid>
       <pubDate>Fri, 14 Jun 2024 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>普拉博沃计划将印尼债务占 GDP 比率提高至 50%</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-14/prabowo-plans-to-raise-indonesia-s-debt-to-gdp-ratio-toward-50</link>
+      <description><![CDATA[印尼当选总统普拉博沃·苏比安托计划通过稳步提高债务比率至二十年来的最高水平来兑现他的支出承诺。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-14/prabowo-plans-to-raise-indonesia-s-debt-to-gdp-ratio-toward-50</guid>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>外国首席执行官对在华商业信心略有增强</title>
@@ -181,30 +188,23 @@
       <pubDate>Thu, 13 Jun 2024 23:17:07 GMT</pubDate>
     </item>
     <item>
-      <title>秘鲁因担心核心 CPI 意外暂停降息</title>
+      <title>秘鲁因担心核心 CPI 上涨而意外暂停降息</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-13/peru-unexpectedly-halts-key-rate-cuts-after-inflation-triumph</link>
       <description><![CDATA[由于政策制定者担心核心通胀持续存在，秘鲁意外维持借贷成本不变。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-13/peru-unexpectedly-halts-key-rate-cuts-after-inflation-triumph</guid>
       <pubDate>Thu, 13 Jun 2024 23:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>油田服务公司 HMH 选择摩根大通、Piper、Evercore 进行 IPO</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-13/oil-field-services-firm-hmh-said-to-pick-jpmorgan-piper-evercore-for-ipo</link>
-      <description><![CDATA[据知情人士透露，两家行业巨头成立的油田服务合资公司 HMH Holding Inc. 已选定银行进行计划中的美国首次公开募股 (IPO)。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-13/oil-field-services-firm-hmh-said-to-pick-jpmorgan-piper-evercore-for-ipo</guid>
-      <pubDate>Thu, 13 Jun 2024 23:01:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>政策利好预期推动中国和印度股市上涨</title>
-      <link>https://www.bloomberg.com/news/articles/2024-06-13/chinese-indian-stocks-favored-by-abrdn-on-policy-boost-hopes</link>
-      <description><![CDATA[未来三到六个月内，abrdn Plc 更看好中国和印度股票，而非日本股票，押注正确的政策举措将有助于这两个新兴市场吸引资金流入。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-06-13/chinese-indian-stocks-favored-by-abrdn-on-policy-boost-hopes</guid>
-      <pubDate>Thu, 13 Jun 2024 23:00:00 GMT</pubDate>
+      <title>尼日利亚获世界银行 22.5 亿美元援助</title>
+      <link>https://www.bloomberg.com/news/articles/2024-06-13/world-bank-approves-2-25-billion-for-nigeria-s-reform-efforts</link>
+      <description><![CDATA[世界银行批准向尼日利亚提供22.5亿美元资金支持其经济改革，帮助增加当地外汇市场的硬通货供应。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-06-13/world-bank-approves-2-25-billion-for-nigeria-s-reform-efforts</guid>
+      <pubDate>Thu, 13 Jun 2024 22:48:13 GMT</pubDate>
     </item>
     <item>
       <title>亚洲股市下滑，日元因日本央行债券决定而下跌：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-06-13/asian-stocks-set-to-fall-yen-steady-ahead-of-boj-markets-wrap</link>
-      <description><![CDATA[受中国和澳大利亚股市拖累，亚洲股市下跌，而由于日本央行推迟减少债券购买规模，日元下跌。]]></description>
+      <description><![CDATA[在日本股市飙升之后，亚洲股市缩减了跌幅，而在日本央行决定推迟减少债券购买量之后，日元走弱。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-06-13/asian-stocks-set-to-fall-yen-steady-ahead-of-boj-markets-wrap</guid>
       <pubDate>Thu, 13 Jun 2024 22:34:14 GMT</pubDate>
     </item>
