@@ -4,7 +4,14 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Jun 2024 21:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 06:12:03 GMT</lastBuildDate>
+    <item>
+      <title>特朗普是现实主义者</title>
+      <link>https://www.foreignaffairs.com/trump-realist</link>
+      <description><![CDATA[这位前总统了解美国权力的局限性。]]></description>
+      <guid>https://www.foreignaffairs.com/trump-realist</guid>
+      <pubDate>Mon, 01 Jul 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯精英如何通过战争实现和平</title>
       <link>https://www.foreignaffairs.com/ukraine/how-russian-elites-made-peace-war</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[改革使经济更加高效，家庭更加坚韧，沙特人更加宽容。]]></description>
       <guid>https://www.foreignaffairs.com/saudi-arabia/working-women-are-changing-saudi-arabia</guid>
       <pubDate>Wed, 19 Jun 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>贸易休战？</title>
-      <link>https://www.foreignaffairs.com/world/trade-truce-stephen-brooks</link>
-      <description><![CDATA[经济相互依存能否促进和平？]]></description>
-      <guid>https://www.foreignaffairs.com/world/trade-truce-stephen-brooks</guid>
-      <pubDate>Tue, 18 Jun 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
