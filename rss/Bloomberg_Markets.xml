@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 03 Jul 2024 04:40:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 04:52:52 GMT</lastBuildDate>
     <item>
       <title>中俄关系与乌克兰战争</title>
       <link>https://www.bloomberg.com/news/videos/2024-07-03/china-russia-ties-and-the-war-in-ukraine-video</link>
@@ -25,6 +25,13 @@
       <description><![CDATA[对于美国中等收入者来说，拥有一套房子的承受能力比17年来的任何时候都要差。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-03/home-affordability-in-the-us-sinks-to-lowest-point-since-2007</guid>
       <pubDate>Wed, 03 Jul 2024 04:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲核能复兴缺少关键要素：技术工人</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-03/europe-s-nuclear-power-revival-at-risk-as-edf-and-peers-face-staffing-struggle</link>
+      <description><![CDATA[需要数十万名焊工、工程师和规划师来建造能源转换反应堆。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-03/europe-s-nuclear-power-revival-at-risk-as-edf-and-peers-face-staffing-struggle</guid>
+      <pubDate>Wed, 03 Jul 2024 04:00:34 GMT</pubDate>
     </item>
     <item>
       <title>泰国考虑废除 52 年来禁止午后饮酒的禁令以吸引游客</title>
@@ -63,9 +70,9 @@
       <pubDate>Wed, 03 Jul 2024 03:03:47 GMT</pubDate>
     </item>
     <item>
-      <title>Builder Times 中国清盘听证会因债务谈判推迟</title>
+      <title>《建筑时报》中国清盘听证会因债务谈判推迟</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-03/builder-times-china-s-liquidation-hearing-adjourned-to-july-31</link>
-      <description><![CDATA[据一名法官称，香港法院将时代中国控股有限公司第一次清盘听证会延期至 7 月 31 日，以便给予申请人更多时间考虑违约建筑商的债务提案。]]></description>
+      <description><![CDATA[据一名法官称，香港法院将时代中国控股有限公司第一次清盘听证会延期至 7 月 31 日，以便给申请人更多时间考虑违约建筑商的债务提案。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-03/builder-times-china-s-liquidation-hearing-adjourned-to-july-31</guid>
       <pubDate>Wed, 03 Jul 2024 02:59:11 GMT</pubDate>
     </item>
@@ -168,14 +175,7 @@
       <pubDate>Tue, 02 Jul 2024 21:06:07 GMT</pubDate>
     </item>
     <item>
-      <title>标普 500 指数创下收盘新高 | 收盘钟声</title>
-      <link>https://www.bloomberg.com/news/videos/2024-07-02/s-p-500-logs-new-record-close-closing-bell-video</link>
-      <description><![CDATA[彭博电视台、彭博电台和 YouTube 上对美国市场收盘情况进行全面的跨平台报道，主持人包括 Alix Steel、Scarlet Fu、Katie Greifeld 和 Tim Stenovec。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-07-02/s-p-500-logs-new-record-close-closing-bell-video</guid>
-      <pubDate>Tue, 02 Jul 2024 20:31:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>勒庞在法国大选中面临艰难斗争以获得多数席位</title>
+      <title>勒庞在法国大选中争取多数席位面临艰难斗争</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-02/le-pen-s-path-to-power-narrows-in-french-game-of-election-chess</link>
       <description><![CDATA[玛丽娜·勒庞领导的国民联盟正试图战胜那些使出老招数阻止极右翼在周日最后一轮立法选举中掌权的对手。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-02/le-pen-s-path-to-power-narrows-in-french-game-of-election-chess</guid>
@@ -191,7 +191,7 @@
     <item>
       <title>特朗普担忧导致新兴货币跌至两个月低点</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-02/emerging-currencies-decline-in-unison-on-prospects-for-trump-2-0</link>
-      <description><![CDATA[新兴市场货币周二下跌，因为对特朗普可能在 11 月总统大选中获胜的担忧加剧了对美国国债收益率上升的押注，抵消了美联储主席杰罗姆鲍威尔关于通胀正在重回下行通道的言论的影响。]]></description>
+      <description><![CDATA[新兴市场货币周二下跌，因对特朗普可能在 11 月总统大选中获胜的担忧加剧了对美国国债收益率上升的押注，而美联储主席杰罗姆鲍威尔关于通胀正在重回下行通道的言论也未能起到作用。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-02/emerging-currencies-decline-in-unison-on-prospects-for-trump-2-0</guid>
       <pubDate>Tue, 02 Jul 2024 09:31:03 GMT</pubDate>
     </item>
@@ -205,7 +205,7 @@
     <item>
       <title>标普 500 指数收于 5,500 点上方，创下历史新高：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-01/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[随着债券收益率下降，华尔街交易员将股市推至历史新高，在杰罗姆·鲍威尔 (Jerome Powell) 指出美国已重回通货紧缩轨道后，交易员开始关注美联储降息的前景。]]></description>
+      <description><![CDATA[随着债券收益率下降，华尔街交易员将股市推至历史新高，在杰罗姆·鲍威尔指出美国重回通货紧缩道路的信号后，交易员开始关注美联储降息的前景。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-01/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Mon, 01 Jul 2024 22:34:16 GMT</pubDate>
     </item>
