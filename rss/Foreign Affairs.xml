@@ -4,7 +4,14 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Jul 2024 15:09:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 05:33:42 GMT</lastBuildDate>
+    <item>
+      <title>当美国和中国发生冲突时</title>
+      <link>https://www.foreignaffairs.com/united-states/when-america-and-china-collided</link>
+      <description><![CDATA[为什么这些国家对2001年危机重演毫无准备？]]></description>
+      <guid>https://www.foreignaffairs.com/united-states/when-america-and-china-collided</guid>
+      <pubDate>Fri, 05 Jul 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>法国如何沦陷于极右翼</title>
       <link>https://www.foreignaffairs.com/france/how-france-fell-far-right-le-pen-macron</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[莫斯科的胜利削弱了对克里姆林宫的反对力量。]]></description>
       <guid>https://www.foreignaffairs.com/ukraine/how-russian-elites-made-peace-war</guid>
       <pubDate>Fri, 28 Jun 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的战狼灭绝了吗？</title>
-      <link>https://www.foreignaffairs.com/china/have-chinas-wolf-warriors-gone-extinct</link>
-      <description><![CDATA[北京为何采取战斗性外交——以及它为何可能再次这么做。]]></description>
-      <guid>https://www.foreignaffairs.com/china/have-chinas-wolf-warriors-gone-extinct</guid>
-      <pubDate>Thu, 27 Jun 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
