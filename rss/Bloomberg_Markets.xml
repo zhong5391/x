@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 05 Jul 2024 01:56:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 02:28:15 GMT</lastBuildDate>
     <item>
       <title>渣打银行称美元走强有利于日本股市</title>
       <link>https://www.bloomberg.com/news/videos/2024-07-05/stronger-dollar-favorable-for-japan-equities-standard-chartered-says</link>
@@ -20,6 +20,13 @@
       <pubDate>Fri, 05 Jul 2024 01:39:07 GMT</pubDate>
     </item>
     <item>
+      <title>尽管全球股市创下新高，比特币仍连续第四天下跌</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-05/bitcoin-btc-drops-for-fourth-day-even-as-global-stocks-hit-records</link>
+      <description><![CDATA[比特币连续第四个交易日下跌，这是加密货币更大范围抛售的一部分，与近期全球股市创下的历史新高形成鲜明对比。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-05/bitcoin-btc-drops-for-fourth-day-even-as-global-stocks-hit-records</guid>
+      <pubDate>Fri, 05 Jul 2024 01:36:06 GMT</pubDate>
+    </item>
+    <item>
       <title>中国人民银行准备通过各大银行发行数十亿元人民币债券</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-05/pboc-readies-hundreds-of-billions-of-yuan-bond-sale-capacity</link>
       <description><![CDATA[中国央行采取了进一步措施，通过出售国债来冷却创纪录的股市上涨，并表示目前通过与贷款机构达成的协议，央行可以持有“数千亿元”人民币的国债。]]></description>
@@ -32,6 +39,13 @@
       <description><![CDATA[里昂证券韩国研究主管 Sanjeev Rana 讨论了三星电子的前景，这家全球最大的内存芯片和智能手机制造商公布了多年来最快的利润增长速度，Rana 在“彭博：亚洲交易”节目中发表了讲话。（来源：彭博社）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-07-05/samsung-profit-stock-to-do-well-in-quarters-ahead-clsa-video</guid>
       <pubDate>Fri, 05 Jul 2024 00:24:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资者预期美联储将开始放松政策，黄金价格上涨</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-05/gold-pushes-higher-as-investors-expect-fed-will-start-to-ease</link>
+      <description><![CDATA[由于预期美联储将在年底前降息，黄金价格连续两周上涨，交易员们正在关注美国非农就业数据，以寻找下一批经济前景的线索。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-05/gold-pushes-higher-as-investors-expect-fed-will-start-to-ease</guid>
+      <pubDate>Fri, 05 Jul 2024 00:04:24 GMT</pubDate>
     </item>
     <item>
       <title>高盛和花旗预测 Nvidia 供应商海力士股价上涨 90% 后将进一步上涨</title>
@@ -90,9 +104,9 @@
       <pubDate>Thu, 04 Jul 2024 23:30:29 GMT</pubDate>
     </item>
     <item>
-      <title>美国就业数据公布前全球股市触及峰值：市场综述</title>
+      <title>全球股市接近纪录高位，日元走强：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-04/asian-equities-to-tread-water-before-us-jobs-data-markets-wrap</link>
-      <description><![CDATA[由于交易员将注意力转向周五将公布的美国就业数据，以寻找美联储降息的线索，全球股市有望守住周四创下的历史新高。]]></description>
+      <description><![CDATA[随着交易员将注意力转向周五至关重要的美国就业数据，全球股市正在创下历史新高。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-04/asian-equities-to-tread-water-before-us-jobs-data-markets-wrap</guid>
       <pubDate>Thu, 04 Jul 2024 22:19:26 GMT</pubDate>
     </item>
@@ -104,7 +118,7 @@
       <pubDate>Thu, 04 Jul 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>追逐特朗普胜选交易让投资者重返日本股市</title>
+      <title>特朗普大选领先 引发投资者追逐日本股票</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-04/hunt-for-trump-win-trades-ushers-investors-back-to-japan-stocks</link>
       <description><![CDATA[唐纳德·特朗普在美国总统竞选中的优势越来越大，引发了人们争相寻找全球市场上的关键获胜交易。历史表明，日本股票是一个不错的选择。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-04/hunt-for-trump-win-trades-ushers-investors-back-to-japan-stocks</guid>
@@ -175,32 +189,18 @@
       <pubDate>Thu, 04 Jul 2024 19:13:37 GMT</pubDate>
     </item>
     <item>
-      <title>彭博市场第 3 部分 07/04/24</title>
-      <link>https://www.bloomberg.com/news/videos/2024-07-04/bloomberg-markets-part-3-07-04-24</link>
-      <description><![CDATA[“彭博市场”跟踪全球各资产类别的市场动向，并讨论华尔街面临的最大问题。嘉宾包括：法国巴黎银行资产管理首席市场策略师丹尼尔·莫里斯 (Daniel Morris)、蒙特利尔银行资本市场高级经济学家詹妮弗·李 (Jennifer Lee)、布拉德斯科银行 BBI 股票策略主管本·莱德勒 (Ben Laidler)、马修斯首席投资官兼投资组合经理肖恩·泰勒 (Sean Taylor) 和 The Boxoffice Company 内容策略高级副总裁兼编辑总监丹尼尔·洛里亚 (Daniel Loria)。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-07-04/bloomberg-markets-part-3-07-04-24</guid>
-      <pubDate>Thu, 04 Jul 2024 18:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大投资数百万美元建设芯片网络，美国紧随其后</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-04/canada-invests-millions-to-build-chip-network-as-us-races-ahead</link>
-      <description><![CDATA[加拿大将在五年内投资 1.2 亿加元（8820 万美元）建设国家芯片网络，与此同时，要求政府采取更多措施支持其落后的半导体行业的呼声越来越高。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-04/canada-invests-millions-to-build-chip-network-as-us-races-ahead</guid>
-      <pubDate>Thu, 04 Jul 2024 17:35:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>LME 第二季度交易量飙升至 10 年来最高水平</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-04/lme-second-quarter-trading-volumes-surge-to-a-10-year-high</link>
-      <description><![CDATA[伦敦金属交易所 (LME) 交易量第二季度飙升 27%，达到十年来的最高水平，其中 LME 镍合约的大幅上涨引领其主要金属交易活动上涨。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-04/lme-second-quarter-trading-volumes-surge-to-a-10-year-high</guid>
-      <pubDate>Thu, 04 Jul 2024 17:28:33 GMT</pubDate>
-    </item>
-    <item>
       <title>民意调查显示勒庞竞争对手将阻止极右翼在法国占据多数席位</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-04/le-pen-set-to-fall-short-of-majority-in-france-polling-shows</link>
       <description><![CDATA[根据民意调查公司的预测，玛丽娜·勒庞领导的国民联盟在周日的法国立法选举中将无法获得绝对多数。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-04/le-pen-set-to-fall-short-of-majority-in-france-polling-shows</guid>
       <pubDate>Thu, 04 Jul 2024 15:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>铃木启动 4000 万美元基金，瞄准印度农村</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-04/suzuki-starts-40-million-fund-in-india-to-help-rural-startups</link>
+      <description><![CDATA[铃木汽车公司在印度推出了一只 4000 万美元的基金，用于投资印度农村小型企业，这家日本汽车制造商旨在提升其在印度这个世界增长最快的市场之一的影响力。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-04/suzuki-starts-40-million-fund-in-india-to-help-rural-startups</guid>
+      <pubDate>Thu, 04 Jul 2024 06:11:32 GMT</pubDate>
     </item>
     <item>
       <title>美国库存下降导致油价持稳于两个月高位附近</title>
