@@ -4,7 +4,42 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 09 Jul 2024 20:34:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 21:08:57 GMT</lastBuildDate>
+    <item>
+      <title>沃伦·莫斯勒解释为何高利率可能加剧通货膨胀</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-09/warren-mosler-explains-why-high-interest-rates-might-fan-inflation</link>
+      <description><![CDATA[MMT 之父谈高负债和高价格的恶性组合。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-09/warren-mosler-explains-why-high-interest-rates-might-fan-inflation</guid>
+      <pubDate>Tue, 09 Jul 2024 21:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeFi 最受关注的领域面临的风险是什么</title>
+      <link>https://www.bloomberg.com/news/newsletters/2024-07-09/what-s-at-stake-in-defi-s-most-hyped-sector</link>
+      <description><![CDATA[在本期彭博加密货币新闻通讯中，Sidhartha Shukla 描述了加密货币重新质押之争的利害关系。加密货币目前最热门的创新可以说是重新质押，它通过允许在此过程中使用的数字代币同时强化多个应用程序，放大了保护区块链所获得的回报。]]></description>
+      <guid>https://www.bloomberg.com/news/newsletters/2024-07-09/what-s-at-stake-in-defi-s-most-hyped-sector</guid>
+      <pubDate>Tue, 09 Jul 2024 21:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管标准普尔 500 指数上涨，但卖空者在第二季度获利 100 亿美元</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-09/short-sellers-gained-10-billion-in-2q-amid-s-p-500-rally</link>
+      <description><![CDATA[今年第二季度，卖空者获利颇丰，在整体市场继续缓慢走高的情况下，他们仍成功做空股​​市。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-09/short-sellers-gained-10-billion-in-2q-amid-s-p-500-rally</guid>
+      <pubDate>Tue, 09 Jul 2024 20:50:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么私募股权可能面临清算</title>
+      <link>https://www.bloomberg.com/news/videos/2024-07-09/why-private-equity-may-be-due-for-a-reckoning-video</link>
+      <description><![CDATA[当今市场提出了一个新的存在问题：如果没有价格，某样东西会不会产生泡沫？曼哈顿研究所高级研究员、彭博观点撰稿人艾莉森·施拉格在“彭博收盘”中对此进行了详细介绍。]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-07-09/why-private-equity-may-be-due-for-a-reckoning-video</guid>
+      <pubDate>Tue, 09 Jul 2024 20:30:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>债券交易员在 7 月份每天都加大对美国国债价格上涨的押注</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-09/bond-traders-built-up-bets-on-a-treasury-rally-every-day-in-july</link>
+      <description><![CDATA[美联储主席杰罗姆·鲍威尔强调美国通胀数据的重要性，交易员们押注规模 27 万亿美元的美国国债市场将上涨。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-09/bond-traders-built-up-bets-on-a-treasury-rally-every-day-in-july</guid>
+      <pubDate>Tue, 09 Jul 2024 20:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>标准普尔指数创 1 月以来最长连涨纪录 | 收盘时</title>
       <link>https://www.bloomberg.com/news/videos/2024-07-09/s-p-on-longest-streak-since-jan-closing-bell</link>
@@ -128,13 +163,6 @@
       <pubDate>Tue, 09 Jul 2024 17:42:49 GMT</pubDate>
     </item>
     <item>
-      <title>比特币矿工 TeraWulf 将扩展用于 AI 托管的能源基础设施</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-09/bitcoin-miner-terawulf-to-expand-energy-infrastructure-used-for-ai-hosting</link>
-      <description><![CDATA[比特币矿工 TeraWulf Inc. 提前偿还了剩余债务，称这将为公司提供更大的灵活性，以利用对能源基础设施不断增长的需求，这些基础设施可用于为生成性人工智能技术提供动力等用途。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-09/bitcoin-miner-terawulf-to-expand-energy-infrastructure-used-for-ai-hosting</guid>
-      <pubDate>Tue, 09 Jul 2024 17:41:54 GMT</pubDate>
-    </item>
-    <item>
       <title>Light Street 和 Whale Rock 将在 2024 年飙升，超过一些规模较大的竞争对手基金</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-09/light-street-whale-rock-soar-in-2024-as-big-tiger-cubs-trail</link>
       <description><![CDATA[专注于科技领域的股票对冲基金 Whale Rock Capital Management 和 Light Street Capital Management 今年上半年飙升，超过了市场和一些较大的竞争对手。]]></description>
@@ -151,39 +179,11 @@
       <pubDate>Tue, 09 Jul 2024 17:35:53 GMT</pubDate>
     </item>
     <item>
-      <title>咖啡烘焙商 Lavazza 表示，2025 年咖啡价格将继续上涨</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-09/coffee-prices-will-keep-rising-into-2025-roaster-lavazza-says</link>
-      <description><![CDATA[由于主要种植区的供应短缺，咖啡价格将持续上涨至 2025 年中期，随着新的森林砍伐法规的实施，欧洲消费者将为咖啡因支付更高的价格。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-09/coffee-prices-will-keep-rising-into-2025-roaster-lavazza-says</guid>
-      <pubDate>Tue, 09 Jul 2024 17:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯外汇交易目前几乎 100% 以人民币进行</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-09/russia-s-foreign-exchange-trading-is-now-almost-100-in-yuan</link>
-      <description><![CDATA[在制裁迫使莫斯科交易所暂停美元和欧元交易后，人民币在俄罗斯外汇市场的份额已达到99.6%。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-09/russia-s-foreign-exchange-trading-is-now-almost-100-in-yuan</guid>
-      <pubDate>Tue, 09 Jul 2024 16:50:31 GMT</pubDate>
-    </item>
-    <item>
       <title>耶伦为拜登辩护，称其在包括与中国习近平在内的多次长时间会谈中“极其高效”</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-09/yellen-defends-biden-as-extremely-effective-in-meetings</link>
       <description><![CDATA[美国财政部长珍妮特·耶伦表示，她的老板总统乔·拜登在长时间的会议中“极其高效”，并在周二回答有关其精神敏锐度的问题时为他辩护。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-09/yellen-defends-biden-as-extremely-effective-in-meetings</guid>
       <pubDate>Tue, 09 Jul 2024 16:11:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>鲍威尔呼吁提供通胀回落的证据，美国国债价格下跌</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-09/treasuries-slip-as-powell-calls-for-evidence-of-inflation-s-ebb</link>
-      <description><![CDATA[美联储主席杰罗姆·鲍威尔向华盛顿立法者表示，他希望看到更多通胀降温的证据，以实现市场对今年降息的押注，美国国债价格下跌。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-09/treasuries-slip-as-powell-calls-for-evidence-of-inflation-s-ebb</guid>
-      <pubDate>Tue, 09 Jul 2024 15:22:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>知情人士称 Siddiq 将出任英国城市事务大臣</title>
-      <link>https://www.bloomberg.com/news/articles/2024-07-09/tulip-siddiq-to-be-uk-s-city-minister-person-familiar-says</link>
-      <description><![CDATA[英国首相基尔·斯塔默 (Keir Starmer) 将任命图利普·西迪克 (Tulip Siddiq) 为英国金融城大臣，该职位属于财政部，将让她成为监管和倡导关键金融服务行业的核心人物。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-07-09/tulip-siddiq-to-be-uk-s-city-minister-person-familiar-says</guid>
-      <pubDate>Tue, 09 Jul 2024 15:01:53 GMT</pubDate>
     </item>
     <item>
       <title>穆迪因 Skydance 交易将派拉蒙评级降至垃圾级</title>
@@ -214,9 +214,9 @@
       <pubDate>Mon, 08 Jul 2024 23:21:39 GMT</pubDate>
     </item>
     <item>
-      <title>市场综述：标普 500 指数创 1 月以来最长涨势</title>
+      <title>美联储对鲍威尔的押注保持稳定，标普 500 指数保持涨势：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-08/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[股市收于历史高位，杰罗姆·鲍威尔对国会的讲话并未改变人们对美联储今年将能够降息的预期。]]></description>
+      <description><![CDATA[股市收于历史高位，杰罗姆·鲍威尔对国会的讲话并未改变美联储今年将能够降息的预期。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-08/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Mon, 08 Jul 2024 22:32:57 GMT</pubDate>
     </item>
