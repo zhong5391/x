@@ -4,7 +4,21 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Thu, 11 Jul 2024 18:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 18:37:35 GMT</lastBuildDate>
+    <item>
+      <title>Rudin 联席首席执行官谈及对商业房地产的担忧</title>
+      <link>https://www.bloomberg.com/news/videos/2024-07-11/rudin-co-ceo-on-concerns-around-commercial-real-estate-video</link>
+      <description><![CDATA[Rudin 联席首席执行官 Samantha Rudin Earls 讨论了商业房地产、将商业建筑改造成住宅公寓以及回馈纽约市的担忧。她在“彭博市场”节目中与 Scarlet Fu 和 Abigail Doolittle 进行了交谈。（来源：彭博社）]]></description>
+      <guid>https://www.bloomberg.com/news/videos/2024-07-11/rudin-co-ceo-on-concerns-around-commercial-real-estate-video</guid>
+      <pubDate>Thu, 11 Jul 2024 18:31:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>利率押注刺激资产轮动，大型科技股遭遇一年来最大跌幅</title>
+      <link>https://www.bloomberg.com/news/articles/2024-07-11/big-tech-suffers-worst-drop-in-a-year-as-rate-bets-spur-rotation</link>
+      <description><![CDATA[标准普尔 500 指数自去年 11 月以来的最长上涨势头在周四被推动该指数全年上涨的同一批股票——大型科技股所终结。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-07-11/big-tech-suffers-worst-drop-in-a-year-as-rate-bets-spur-rotation</guid>
+      <pubDate>Thu, 11 Jul 2024 18:24:26 GMT</pubDate>
+    </item>
     <item>
       <title>理查德·哈斯：我不认为拜登能击败特朗普</title>
       <link>https://www.bloomberg.com/news/videos/2024-07-11/-i-do-not-think-biden-can-defeat-trump-richard-haass</link>
@@ -145,20 +159,6 @@ Anywhere：http://bit.ly/3oOD8ZH（来源：彭博）]]></description>
       <pubDate>Thu, 11 Jul 2024 15:21:53 GMT</pubDate>
     </item>
     <item>
-      <title>Rodgin Cohen 谈银行压力测试与监管</title>
-      <link>https://www.bloomberg.com/news/videos/2024-07-11/rodgin-cohen-on-bank-stress-tests-regulation-video</link>
-      <description><![CDATA[Sullivan &amp; Cromwell 高级主席 Rodgin Cohen 在彭博社：The Close 节目中与 Scarlet Fu 和 Romaine Bostick 谈论银行压力测试和监管。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-07-11/rodgin-cohen-on-bank-stress-tests-regulation-video</guid>
-      <pubDate>Thu, 11 Jul 2024 15:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Will Tamplin 从技术角度分析市场前景</title>
-      <link>https://www.bloomberg.com/news/videos/2024-07-11/will-tamplin-with-technical-perspective-on-the-market-video</link>
-      <description><![CDATA[Fairlead Strategies 高级分析师 Will Tamplin 在彭博社《The Close》节目中与 Romaine Bostick 和 Alix Steel 从技术角度探讨市场前景（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-07-11/will-tamplin-with-technical-perspective-on-the-market-video</guid>
-      <pubDate>Thu, 11 Jul 2024 15:05:41 GMT</pubDate>
-    </item>
-    <item>
       <title>塞尔维亚最高法院撤销对力拓锂项目的禁令</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-11/serbia-s-top-court-rules-against-rio-tinto-s-lithium-project-ban</link>
       <description><![CDATA[塞尔维亚宪法法院推翻了一项政府法令，该法令在政治争议和环保人士的抗议中于 2022 年突然阻止了力拓集团在该国价值 24 亿美元的锂项目。]]></description>
@@ -175,7 +175,7 @@ Anywhere：http://bit.ly/3oOD8ZH（来源：彭博）]]></description>
     <item>
       <title>日本央行行长菅田在干预问题上保持谨慎，日元飙升逾 2%</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-11/yen-strengthens-2-against-dollar-in-aftermath-of-us-inflation</link>
-      <description><![CDATA[由于美国通胀数据低于预期，日元兑美元飙升逾 2%，有报道称日本出手支持本币。]]></description>
+      <description><![CDATA[由于美国通胀数据低于预期，日元兑美元飙升逾 2%，有报道称日本出手支持本币汇率。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-11/yen-strengthens-2-against-dollar-in-aftermath-of-us-inflation</guid>
       <pubDate>Thu, 11 Jul 2024 12:52:19 GMT</pubDate>
     </item>
@@ -217,7 +217,7 @@ Anywhere：http://bit.ly/3oOD8ZH（来源：彭博）]]></description>
     <item>
       <title>美联储降息预期导致股市轮动，大型股遭遇重创：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-07-10/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[华尔街交易员押注美联储将能够很快降息，导致债券收益率暴跌——同时推动股市强劲波动。]]></description>
+      <description><![CDATA[华尔街交易员押注美联储将能够很快降息，导致债券收益率暴跌 — — 同时推动了推动股市牛市的科技巨头的大规模轮换。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-07-10/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Wed, 10 Jul 2024 22:35:05 GMT</pubDate>
     </item>
