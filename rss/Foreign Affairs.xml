@@ -4,7 +4,14 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 19 Jul 2024 05:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 06:13:24 GMT</lastBuildDate>
+    <item>
+      <title>政治暴力日益猖獗</title>
+      <link>https://www.foreignaffairs.com/united-states/rising-tide-political-violence</link>
+      <description><![CDATA[特朗普遇刺事件是全球趋势的一部分。]]></description>
+      <guid>https://www.foreignaffairs.com/united-states/rising-tide-political-violence</guid>
+      <pubDate>Fri, 19 Jul 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>红海危机不仅仅关乎胡塞武装</title>
       <link>https://www.foreignaffairs.com/somalia/red-sea-crisis-goes-beyond-houthis</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[莫斯科试图利用不稳定因素但避免局势升级。]]></description>
       <guid>https://www.foreignaffairs.com/russia/what-russia-wants-middle-east</guid>
       <pubDate>Mon, 15 Jul 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国政治暴力的恶性循环</title>
-      <link>https://www.foreignaffairs.com/united-states/donald-trump-shooting-interview</link>
-      <description><![CDATA[与罗伯特·利伯曼就特朗普枪击事件的对话。]]></description>
-      <guid>https://www.foreignaffairs.com/united-states/donald-trump-shooting-interview</guid>
-      <pubDate>Sun, 14 Jul 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
