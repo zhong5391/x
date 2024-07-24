@@ -4,11 +4,25 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 23 Jul 2024 17:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 04:35:36 GMT</lastBuildDate>
+    <item>
+      <title>中国芯片禁令的局限性</title>
+      <link>https://www.foreignaffairs.com/china/limits-china-chip-ban</link>
+      <description><![CDATA[华盛顿的出口管制最终可能会帮助北京。]]></description>
+      <guid>https://www.foreignaffairs.com/china/limits-china-chip-ban</guid>
+      <pubDate>Wed, 24 Jul 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国为何未能促成以色列与哈马斯停火</title>
+      <link>https://www.foreignaffairs.com/israel/why-america-has-failed-forge-israel-hamas-cease-fire</link>
+      <description><![CDATA[向交战方施压以迫使其谈判很少能奏效，有时甚至会适得其反。]]></description>
+      <guid>https://www.foreignaffairs.com/israel/why-america-has-failed-forge-israel-hamas-cease-fire</guid>
+      <pubDate>Wed, 24 Jul 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>以色列的下一场战争</title>
       <link>https://www.foreignaffairs.com/israel/israels-next-war-hezbollah-lebanon</link>
-      <description><![CDATA[与黎巴嫩真主党作战的压力越来越大——以及为什么这如此危险。]]></description>
+      <description><![CDATA[打击黎巴嫩真主党的压力越来越大——以及为什么这如此危险。]]></description>
       <guid>https://www.foreignaffairs.com/israel/israels-next-war-hezbollah-lebanon</guid>
       <pubDate>Tue, 23 Jul 2024 04:00:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.foreignaffairs.com/united-states/america-aging-leaders-differently-biden-trump-senile-superpower</guid>
       <pubDate>Thu, 18 Jul 2024 21:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>帝王总统制度的释放</title>
-      <link>https://www.foreignaffairs.com/imperial-presidency-unleashed-donald-trump</link>
-      <description><![CDATA[最高法院取消了对行政权力的最后制约。]]></description>
-      <guid>https://www.foreignaffairs.com/imperial-presidency-unleashed-donald-trump</guid>
-      <pubDate>Thu, 18 Jul 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>核能必须成为解决方案的一部分</title>
-      <link>https://www.foreignaffairs.com/united-states/nuclear-must-be-part-solution</link>
-      <description><![CDATA[巩固安全并扩大和平利用的协议。]]></description>
-      <guid>https://www.foreignaffairs.com/united-states/nuclear-must-be-part-solution</guid>
-      <pubDate>Thu, 18 Jul 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
