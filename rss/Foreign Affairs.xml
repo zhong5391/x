@@ -4,7 +4,21 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 07 Aug 2024 04:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 05:10:11 GMT</lastBuildDate>
+    <item>
+      <title>台湾谬论</title>
+      <link>https://www.foreignaffairs.com/taiwan/taiwan-fallacy</link>
+      <description><![CDATA[美国的力量并不依赖于单个岛屿。]]></description>
+      <guid>https://www.foreignaffairs.com/taiwan/taiwan-fallacy</guid>
+      <pubDate>Wed, 07 Aug 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登的中东登月计划</title>
+      <link>https://www.foreignaffairs.com/united-states/bidens-middle-east-moonshot</link>
+      <description><![CDATA[现在是以色列和沙特达成协议的最佳时机，这将有助于结束加沙战争。]]></description>
+      <guid>https://www.foreignaffairs.com/united-states/bidens-middle-east-moonshot</guid>
+      <pubDate>Wed, 07 Aug 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国实体经济危机</title>
       <link>https://www.foreignaffairs.com/china/chinas-real-economic-crisis</link>
@@ -48,13 +62,6 @@
       <pubDate>Fri, 02 Aug 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>中国更喜欢哈里斯还是特朗普？</title>
-      <link>https://www.foreignaffairs.com/united-states/does-china-prefer-harris-or-trump</link>
-      <description><![CDATA[为何中国战略家认为两者并无太大区别。]]></description>
-      <guid>https://www.foreignaffairs.com/united-states/does-china-prefer-harris-or-trump</guid>
-      <pubDate>Thu, 01 Aug 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>中国倾向于哈里斯还是特朗普？</title>
       <link>https://www.foreignaffairs.com/zh-hans/united-states/zhongguoqingxiangyuhalisihaishitelangpu</link>
       <description><![CDATA[为何中国战略家认为两者并无太大区别。]]></description>
@@ -62,18 +69,11 @@
       <pubDate>Thu, 01 Aug 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>ISIS-K 走向全球</title>
-      <link>https://www.foreignaffairs.com/afghanistan/isis-k-goes-global</link>
-      <description><![CDATA[世界尚未准备好应对新的国际恐怖威胁。]]></description>
-      <guid>https://www.foreignaffairs.com/afghanistan/isis-k-goes-global</guid>
+      <title>中国更喜欢哈里斯还是特朗普？</title>
+      <link>https://www.foreignaffairs.com/united-states/does-china-prefer-harris-or-trump</link>
+      <description><![CDATA[为何中国战略家认为两者并无太大区别。]]></description>
+      <guid>https://www.foreignaffairs.com/united-states/does-china-prefer-harris-or-trump</guid>
       <pubDate>Thu, 01 Aug 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿联酋在苏丹的秘密战争</title>
-      <link>https://www.foreignaffairs.com/sudan/uaes-secret-war-sudan</link>
-      <description><![CDATA[国际压力如何能制止种族灭绝暴力。]]></description>
-      <guid>https://www.foreignaffairs.com/sudan/uaes-secret-war-sudan</guid>
-      <pubDate>Wed, 31 Jul 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
