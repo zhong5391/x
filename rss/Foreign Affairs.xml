@@ -4,7 +4,21 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 13 Aug 2024 02:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 05:35:23 GMT</lastBuildDate>
+    <item>
+      <title>印度资本主义的危机</title>
+      <link>https://www.foreignaffairs.com/india/india-elections-narendra-modi-yamini-aiyar</link>
+      <description><![CDATA[为何政客们选择国家主义解决方案而不是经济改革。]]></description>
+      <guid>https://www.foreignaffairs.com/india/india-elections-narendra-modi-yamini-aiyar</guid>
+      <pubDate>Tue, 13 Aug 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国否认乌克兰战争</title>
+      <link>https://www.foreignaffairs.com/china/china-denial-about-war-ukraine</link>
+      <description><![CDATA[为何中国思想家低估了参与俄罗斯侵略行为的代价。]]></description>
+      <guid>https://www.foreignaffairs.com/china/china-denial-about-war-ukraine</guid>
+      <pubDate>Tue, 13 Aug 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>一切如何成为国家安全</title>
       <link>https://www.foreignaffairs.com/united-states/how-everything-became-national-security-drezner</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[现在是以色列和沙特达成协议的最佳时机，这将有助于结束加沙战争。]]></description>
       <guid>https://www.foreignaffairs.com/united-states/bidens-middle-east-moonshot</guid>
       <pubDate>Wed, 07 Aug 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>台湾谬论</title>
-      <link>https://www.foreignaffairs.com/taiwan/taiwan-fallacy</link>
-      <description><![CDATA[美国的力量并不依赖于单个岛屿。]]></description>
-      <guid>https://www.foreignaffairs.com/taiwan/taiwan-fallacy</guid>
-      <pubDate>Wed, 07 Aug 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国实体经济危机</title>
-      <link>https://www.foreignaffairs.com/china/chinas-real-economic-crisis</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.foreignaffairs.com/china/chinas-real-economic-crisis</guid>
-      <pubDate>Tue, 06 Aug 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
