@@ -4,7 +4,21 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 16 Aug 2024 05:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 05:10:12 GMT</lastBuildDate>
+    <item>
+      <title>创新谬误</title>
+      <link>https://www.foreignaffairs.com/china/innovation-fallacy</link>
+      <description><![CDATA[在中美科技竞赛中，传播比发明更重要。]]></description>
+      <guid>https://www.foreignaffairs.com/china/innovation-fallacy</guid>
+      <pubDate>Mon, 19 Aug 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>盟友的问题</title>
+      <link>https://www.foreignaffairs.com/united-states/trouble-allies-richard-haass</link>
+      <description><![CDATA[美国需要一本应对难缠朋友的剧本。]]></description>
+      <guid>https://www.foreignaffairs.com/united-states/trouble-allies-richard-haass</guid>
+      <pubDate>Mon, 19 Aug 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>乌克兰发动攻势</title>
       <link>https://www.foreignaffairs.com/ukraine/ukraine-offensive</link>
@@ -43,7 +57,7 @@
     <item>
       <title>坚韧的普京</title>
       <link>https://www.foreignaffairs.com/russia/putin-resilient</link>
-      <description><![CDATA[预测他的政权垮台只是一厢情愿的想法。]]></description>
+      <description><![CDATA[预测他的政权垮台只是痴心妄想。]]></description>
       <guid>https://www.foreignaffairs.com/russia/putin-resilient</guid>
       <pubDate>Wed, 14 Aug 2024 04:00:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[为什么世界需要太阳能地球工程规则。]]></description>
       <guid>https://www.foreignaffairs.com/world/solar-geoengineering-stratospheric-aerosol-injection-craig-martin-scott-moore</guid>
       <pubDate>Wed, 14 Aug 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国否认乌克兰战争</title>
-      <link>https://www.foreignaffairs.com/china/china-denial-about-war-ukraine-jude-blanchette</link>
-      <description><![CDATA[为何中国思想家低估了参与俄罗斯侵略行为的代价。]]></description>
-      <guid>https://www.foreignaffairs.com/china/china-denial-about-war-ukraine-jude-blanchette</guid>
-      <pubDate>Tue, 13 Aug 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度资本主义的危机</title>
-      <link>https://www.foreignaffairs.com/india/india-elections-narendra-modi-yamini-aiyar</link>
-      <description><![CDATA[为何政客们选择国家主义解决方案而不是经济改革。]]></description>
-      <guid>https://www.foreignaffairs.com/india/india-elections-narendra-modi-yamini-aiyar</guid>
-      <pubDate>Tue, 13 Aug 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
