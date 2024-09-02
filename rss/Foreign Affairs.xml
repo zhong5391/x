@@ -4,7 +4,14 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Mon, 02 Sep 2024 04:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 05:36:39 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰的赌注</title>
+      <link>https://www.foreignaffairs.com/ukraine/ukraines-gamble</link>
+      <description><![CDATA[进攻俄罗斯库尔斯克地区的风险和回报。]]></description>
+      <guid>https://www.foreignaffairs.com/ukraine/ukraines-gamble</guid>
+      <pubDate>Mon, 02 Sep 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>维和人员需要和平缔造者</title>
       <link>https://www.foreignaffairs.com/world/united-nations-peacekeeping-missions</link>
@@ -22,7 +29,7 @@
     <item>
       <title>马哈茂德·阿巴斯的垮台</title>
       <link>https://www.foreignaffairs.com/palestinian-territories/fall-and-fall-mahmoud-abbas</link>
-      <description><![CDATA[巴勒斯坦领导人优先考虑和平协议而不是国内政治团结——最终两件事均未实现。]]></description>
+      <description><![CDATA[巴勒斯坦领导人优先考虑和平协议而不是国内政治团结——并且两件事都未能实现。]]></description>
       <guid>https://www.foreignaffairs.com/palestinian-territories/fall-and-fall-mahmoud-abbas</guid>
       <pubDate>Fri, 30 Aug 2024 04:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[无论特朗普胜败，欧洲大陆都需要制定针对美国的新战略。]]></description>
       <guid>https://www.foreignaffairs.com/europe/europes-america-problem</guid>
       <pubDate>Fri, 23 Aug 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>产业政策需要移民政策</title>
-      <link>https://www.foreignaffairs.com/united-states/industrial-policy-needs-immigration-policy</link>
-      <description><![CDATA[为什么将工作机会带回美国就需要引进更多外国工人。]]></description>
-      <guid>https://www.foreignaffairs.com/united-states/industrial-policy-needs-immigration-policy</guid>
-      <pubDate>Thu, 22 Aug 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
