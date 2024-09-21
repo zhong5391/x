@@ -4,9 +4,16 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Sat, 21 Sep 2024 21:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 21:34:32 GMT</lastBuildDate>
     <item>
-      <title>美联储青睐的价格指标有望证实降息</title>
+      <title>通用汽车计划裁掉堪萨斯工厂三分之二的工人</title>
+      <link>https://www.bloomberg.com/news/articles/2024-09-21/gm-plans-layoffs-of-two-thirds-of-workers-at-kansas-factory</link>
+      <description><![CDATA[通用汽车公司表示，将暂时解雇堪萨斯州费尔法克斯装配厂三分之二的员工，为生产下一代雪佛兰 Bolt 车型做准备。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-09-21/gm-plans-layoffs-of-two-thirds-of-workers-at-kansas-factory</guid>
+      <pubDate>Sat, 21 Sep 2024 20:30:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>美联储大幅降息即将获得验证</title>
       <link>https://www.bloomberg.com/news/articles/2024-09-21/fed-s-favored-price-gauge-seen-substantiating-rate-cut</link>
       <description><![CDATA[美联储青睐的价格指标和消费者需求概况被认为证实了央行大幅降息的举措以及主席杰罗姆·鲍威尔对经济依然强劲的看法。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-21/fed-s-favored-price-gauge-seen-substantiating-rate-cut</guid>
@@ -200,13 +207,6 @@
       <description><![CDATA[警方周五称，中国中部湖南省财政部长在一次疑似武装入室抢劫事件中从其居住的高层住宅楼坠楼身亡。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-09-20/finance-chief-of-troubled-china-province-dies-in-high-rise-fall</guid>
       <pubDate>Fri, 20 Sep 2024 08:22:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>大期权交易日最后几分钟股市波动：市场综述</title>
-      <link>https://www.bloomberg.com/news/articles/2024-09-19/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[随着美联储降息半个百分点后的兴奋情绪消退，以及衍生品合约到期和大规模再平衡放大了周五的走势，美国股市的涨势失去了动力。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-09-19/stock-market-today-dow-s-p-live-updates</guid>
-      <pubDate>Thu, 19 Sep 2024 22:38:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
