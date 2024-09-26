@@ -4,7 +4,21 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Wed, 25 Sep 2024 20:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 04:40:26 GMT</lastBuildDate>
+    <item>
+      <title>科技巨头的崛起</title>
+      <link>https://www.foreignaffairs.com/brazil/big-techs-coup</link>
+      <description><![CDATA[公司如何从国家手中夺取权力——以及国家如何夺回权力。]]></description>
+      <guid>https://www.foreignaffairs.com/brazil/big-techs-coup</guid>
+      <pubDate>Thu, 26 Sep 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>民粹主义未能兑现经济承诺</title>
+      <link>https://www.foreignaffairs.com/world/populisms-broken-economic-promises</link>
+      <description><![CDATA[拥有民粹主义领导人的国家则被抛在后面。]]></description>
+      <guid>https://www.foreignaffairs.com/world/populisms-broken-economic-promises</guid>
+      <pubDate>Thu, 26 Sep 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国大选对乌克兰意味着什么</title>
       <link>https://www.foreignaffairs.com/ukraine/what-us-election-means-ukraine</link>
@@ -29,7 +43,7 @@
     <item>
       <title>以色列和真主党的冲突正在升级，走向灾难</title>
       <link>https://www.foreignaffairs.com/israel/israel-and-hezbollah-are-escalating-toward-catastrophe</link>
-      <description><![CDATA[如何避免一场双方都不希望发生的更大规模的战争。]]></description>
+      <description><![CDATA[如何避免双方都不希望发生的更大规模的战争。]]></description>
       <guid>https://www.foreignaffairs.com/israel/israel-and-hezbollah-are-escalating-toward-catastrophe</guid>
       <pubDate>Mon, 23 Sep 2024 22:00:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[建立以色列-巴勒斯坦联盟的案例。]]></description>
       <guid>https://www.foreignaffairs.com/israel/two-state-solution-can-work</guid>
       <pubDate>Thu, 19 Sep 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>流亡者无法拯救俄罗斯</title>
-      <link>https://www.foreignaffairs.com/russia/exiles-cannot-save-russia</link>
-      <description><![CDATA[但西方可以向那些逃离普京的人学习，也应该支持他们。]]></description>
-      <guid>https://www.foreignaffairs.com/russia/exiles-cannot-save-russia</guid>
-      <pubDate>Wed, 18 Sep 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国和菲律宾应该揭穿中国的虚张声势</title>
-      <link>https://www.foreignaffairs.com/china/america-and-philippines-should-call-chinas-bluff</link>
-      <description><![CDATA[短期协议不会迫使北京在南海问题上让步。]]></description>
-      <guid>https://www.foreignaffairs.com/china/america-and-philippines-should-call-chinas-bluff</guid>
-      <pubDate>Wed, 18 Sep 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
