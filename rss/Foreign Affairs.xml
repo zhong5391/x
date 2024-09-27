@@ -4,7 +4,14 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Sep 2024 03:41:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 05:11:18 GMT</lastBuildDate>
+    <item>
+      <title>为新以色列而战</title>
+      <link>https://www.foreignaffairs.com/israel/fight-new-israel</link>
+      <description><![CDATA[为了结束战争并建立持久和平，这个国家必须重塑自己的民主。]]></description>
+      <guid>https://www.foreignaffairs.com/israel/fight-new-israel</guid>
+      <pubDate>Fri, 27 Sep 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>民粹主义未能兑现经济承诺</title>
       <link>https://www.foreignaffairs.com/world/populisms-broken-economic-promises</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[如何使旧理论适应新现实。]]></description>
       <guid>https://www.foreignaffairs.com/united-states/americas-crisis-deterrence</guid>
       <pubDate>Fri, 20 Sep 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>可行的两国解决方案</title>
-      <link>https://www.foreignaffairs.com/israel/two-state-solution-can-work</link>
-      <description><![CDATA[建立以色列-巴勒斯坦联盟的案例。]]></description>
-      <guid>https://www.foreignaffairs.com/israel/two-state-solution-can-work</guid>
-      <pubDate>Thu, 19 Sep 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
