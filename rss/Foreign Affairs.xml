@@ -4,7 +4,14 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Sep 2024 05:10:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 04:40:44 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯自说自话</title>
+      <link>https://www.foreignaffairs.com/russia/lies-russia-tells-itself</link>
+      <description><![CDATA[该国的宣传针对的是西方——但也误导了克里姆林宫。]]></description>
+      <guid>https://www.foreignaffairs.com/russia/lies-russia-tells-itself</guid>
+      <pubDate>Mon, 30 Sep 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国需要新战略来避免中东发生更大灾难</title>
       <link>https://www.foreignaffairs.com/israel/america-needs-new-strategy-avert-even-greater-catastrophe-middle-east</link>
@@ -66,13 +73,6 @@
       <link>https://www.foreignaffairs.com/united-states/our-own-worst-enemies</link>
       <description><![CDATA[美国政治的暴力风格。]]></description>
       <guid>https://www.foreignaffairs.com/united-states/our-own-worst-enemies</guid>
-      <pubDate>Mon, 23 Sep 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿根廷仍处于危机之中</title>
-      <link>https://www.foreignaffairs.com/argentina/argentina-still-crisis</link>
-      <description><![CDATA[为什么低通胀和 Milei 可能不会持续。]]></description>
-      <guid>https://www.foreignaffairs.com/argentina/argentina-still-crisis</guid>
       <pubDate>Mon, 23 Sep 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
