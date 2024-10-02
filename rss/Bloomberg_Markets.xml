@@ -4,11 +4,39 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Wed, 02 Oct 2024 09:36:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 10:11:30 GMT</lastBuildDate>
     <item>
-      <title>英国央行称英国金融公司对地缘政治的担忧达到创纪录水平</title>
+      <title>加拿大皇家银行分析师称特朗普赢得大选可能利好美国股市</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-02/trump-election-sweep-is-bullish-for-us-stocks-rbc-analysts-say</link>
+      <description><![CDATA[加拿大皇家银行资本市场 (RBC Capital Markets) 对分析师的调查显示，唐纳德·特朗普 (Donald Trump) 领导的共和党在选举中大获全胜可能成为对美国股市最为有利的结果，其中能源和金融板块将受益最大。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-02/trump-election-sweep-is-bullish-for-us-stocks-rbc-analysts-say</guid>
+      <pubDate>Wed, 02 Oct 2024 09:55:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度央行委员会提议修改 MIBOR 和新基准</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-02/india-central-bank-panel-moots-changes-to-mibor-new-benchmarks</link>
+      <description><![CDATA[印度储备银行设立的一个小组建议改变孟买银行间直接利率（MIBOR）的计算方法，并建议为隔夜货币市场引入新的基准。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-02/india-central-bank-panel-moots-changes-to-mibor-new-benchmarks</guid>
+      <pubDate>Wed, 02 Oct 2024 09:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国乐观情绪抵消地缘政治风险 新兴股市上涨</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-02/emerging-stocks-jump-as-china-optimism-offsets-geopolitical-risk</link>
+      <description><![CDATA[发展中国家股市周三上涨，受刺激措施推动的中国股市抵消了中东冲突进一步升级的风险。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-02/emerging-stocks-jump-as-china-optimism-offsets-geopolitical-risk</guid>
+      <pubDate>Wed, 02 Oct 2024 09:41:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度 CCI 批准 Mankind Pharma 收购疫苗制造商</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-02/india-s-cci-approves-mankind-pharma-s-purchase-of-vaccine-maker</link>
+      <description><![CDATA[根据印度竞争委员会发布的消息，印度反垄断监管机构批准 Mankind Pharma Ltd. 以 1363 亿卢比（16 亿美元）收购疫苗制造商 Bharat Serums and Vaccines Ltd.。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-02/india-s-cci-approves-mankind-pharma-s-purchase-of-vaccine-maker</guid>
+      <pubDate>Wed, 02 Oct 2024 09:33:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国金融公司对地缘政治的担忧达到创纪录水平</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-02/record-share-of-uk-finance-firms-fret-over-geopolitics-boe-says</link>
-      <description><![CDATA[英国央行周三表示，担心地缘政治风险的英国金融服务公司比例达到 2008 年金融危机以来的最高水平。]]></description>
+      <description><![CDATA[英国央行表示，担心地缘政治风险的英国金融服务公司比例达到 2008 年金融危机以来的最高水平。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-02/record-share-of-uk-finance-firms-fret-over-geopolitics-boe-says</guid>
       <pubDate>Wed, 02 Oct 2024 09:30:00 GMT</pubDate>
     </item>
@@ -29,7 +57,7 @@
     <item>
       <title>欧洲央行 10 月降息势头似乎不可阻挡</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-02/ecb-momentum-for-an-october-rate-cut-is-looking-unstoppable</link>
-      <description><![CDATA[就在三周前，欧洲央行官员还认为降息不太可能，但现在看来，当他们于 10 月 17 日制定下一轮政策时，降息几乎已成定局。]]></description>
+      <description><![CDATA[就在三周前，欧洲央行官员还认为降息不太可能，但现在看来，当他们于 10 月 17 日再次确定借贷成本时，降息几乎已成定局。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-02/ecb-momentum-for-an-october-rate-cut-is-looking-unstoppable</guid>
       <pubDate>Wed, 02 Oct 2024 09:16:37 GMT</pubDate>
     </item>
@@ -106,35 +134,21 @@
     <item>
       <title>中国铁路旅客吞吐量创历史新高，消费前景乐观</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-02/china-sees-record-railway-trips-buoying-outlook-for-consumption</link>
-      <description><![CDATA[中国铁路在为期一周的假期第一天创造了创纪录的客流量，这标志着世界第二大经济体的消费支出开始回暖。]]></description>
+      <description><![CDATA[中国铁路在为期一周的假期第一天创造了创纪录的客流量，这标志着这个世界第二大经济体的消费支出开始回暖。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-02/china-sees-record-railway-trips-buoying-outlook-for-consumption</guid>
       <pubDate>Wed, 02 Oct 2024 07:35:37 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲央行行长金多斯称欧元区经济复苏将加强</title>
+      <title>欧洲央行行长表示欧元区经济复苏将加强</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-02/ecb-s-guindos-says-euro-zone-s-economic-recovery-will-strengthen</link>
       <description><![CDATA[欧洲央行副行长路易斯·德金多斯表示，尽管危险依然存在，但欧元区经济复苏可能会获得动力。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-02/ecb-s-guindos-says-euro-zone-s-economic-recovery-will-strengthen</guid>
       <pubDate>Wed, 02 Oct 2024 07:31:08 GMT</pubDate>
     </item>
     <item>
-      <title>BBVA 为 Sabadell 的收购报价注入现金，两家银行均支付股息</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-02/bbva-adds-cash-to-sabadell-takeover-bid-as-both-pay-dividends</link>
-      <description><![CDATA[在两家银行近期宣布支付股息后，BBVA 调整了对 Banco Sabadell SA 的收购要约。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-02/bbva-adds-cash-to-sabadell-takeover-bid-as-both-pay-dividends</guid>
-      <pubDate>Wed, 02 Oct 2024 07:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>中东和非洲视野 2024 年 10 月 2 日</title>
-      <link>https://www.bloomberg.com/news/videos/2024-10-02/horizons-middle-east-africa-10-02-2024</link>
-      <description><![CDATA[Horizo​​ns Middle East &amp; Africa 每日聚焦全球增长最快的地区之一。我们从迪拜现场报道，为您带来最新的全球市场和分析，以及新闻采访，特别关注中东和非洲地区。当您前往海湾地区的办公室、在香港享用午餐或在伦敦或约翰内斯堡开始新的一天时，所有这些以及更多。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-10-02/horizons-middle-east-africa-10-02-2024</guid>
-      <pubDate>Wed, 02 Oct 2024 07:14:54 GMT</pubDate>
-    </item>
-    <item>
       <title>以色列誓言对伊朗大规模导弹袭击进行报复</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-02/israel-vows-retaliation-for-massive-iranian-missile-attack</link>
-      <description><![CDATA[伊朗向以色列发射了约 200 枚弹道导弹，导致两国之间的敌对状态严重升级，世界大国担心这可能演变成一场中东战争。本杰明内塔尼亚胡誓言要对伊朗进行报复。]]></description>
+      <description><![CDATA[伊朗向以色列发射了约 200 枚弹道导弹后，本杰明内塔尼亚胡誓言要对伊朗进行报复，这是两国之间敌对行动的严重升级，世界大国担心这可能演变成一场中东战争。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-02/israel-vows-retaliation-for-massive-iranian-missile-attack</guid>
       <pubDate>Wed, 02 Oct 2024 07:06:51 GMT</pubDate>
     </item>
@@ -146,25 +160,11 @@
       <pubDate>Wed, 02 Oct 2024 06:51:05 GMT</pubDate>
     </item>
     <item>
-      <title>野村首席执行官就债券市场操纵调查道歉</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-02/nomura-ceo-apologizes-after-probe-into-bond-market-manipulation</link>
-      <description><![CDATA[野村控股公司首席执行官奥田健太郎在其员工被指控操纵债券期货市场后首次公开露面并道歉。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-02/nomura-ceo-apologizes-after-probe-into-bond-market-manipulation</guid>
-      <pubDate>Wed, 02 Oct 2024 06:28:12 GMT</pubDate>
-    </item>
-    <item>
       <title>澳新银行首席执行官埃利奥特称对中国的担忧“被严重夸大了”</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-02/china-fears-are-massively-overblown-anz-ceo-elliott-says</link>
       <description><![CDATA[澳新银行集团控股有限公司首席执行官 Shayne Elliott 表示，对于“中国不再是投资目的地”的担忧“被严重夸大了”，因为该银行看到中国业务蓬勃发展。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-02/china-fears-are-massively-overblown-anz-ceo-elliott-says</guid>
       <pubDate>Wed, 02 Oct 2024 06:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>飓风海伦导致对芯片制造和太阳能至关重要的石英矿停产</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-02/hurricane-halts-quartz-mines-vital-for-chipmaking-and-solar</link>
-      <description><![CDATA[受飓风海伦影响，北卡罗来纳州两家采矿企业停工近一周，这两家企业生产了全球四分之三以上的高纯度石英，而石英是太阳能和半导体行业的关键材料。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-02/hurricane-halts-quartz-mines-vital-for-chipmaking-and-solar</guid>
-      <pubDate>Wed, 02 Oct 2024 04:07:22 GMT</pubDate>
     </item>
     <item>
       <title>台风“克拉通”逼近台湾，航班中断</title>
@@ -174,7 +174,7 @@
       <pubDate>Wed, 02 Oct 2024 03:31:18 GMT</pubDate>
     </item>
     <item>
-      <title>伊朗导弹袭击以色列后石油战争溢价卷土重来</title>
+      <title>伊朗袭击以色列后石油战争溢价飙升</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-02/oil-bears-tested-as-iran-attack-brings-back-war-risk-premium</link>
       <description><![CDATA[伊朗对以色列的导弹袭击使石油市场恢复了战争溢价，因为中东两个敌人之间军事升级的可能性使世界最大石油生产区的重要石油供应受到质疑。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-02/oil-bears-tested-as-iran-attack-brings-back-war-risk-premium</guid>
@@ -183,7 +183,7 @@
     <item>
       <title>受刺激政策押注推动，中国股市在香港飙升逾 7%</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-02/chinese-stocks-in-hong-kong-rise-as-traders-return-from-holiday</link>
-      <description><![CDATA[随着刺激计划引发的热情席卷香港 5.8 万亿美元的市场，在香港上市的中国股票出现近两年来最大涨幅。]]></description>
+      <description><![CDATA[随着刺激计划引发的热情席卷香港 5.8 万亿美元的市场，在香港上市的中国股票创下近两年来最大涨幅。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-02/chinese-stocks-in-hong-kong-rise-as-traders-return-from-holiday</guid>
       <pubDate>Wed, 02 Oct 2024 01:29:12 GMT</pubDate>
     </item>
@@ -195,9 +195,9 @@
       <pubDate>Tue, 01 Oct 2024 23:02:30 GMT</pubDate>
     </item>
     <item>
-      <title>中东危机导致油价上涨，股市涨跌互现：市场综述</title>
+      <title>股市持稳，焦急等待以色列回应：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-01/stock-market-today-dow-s-p-live-updates</link>
-      <description><![CDATA[中东局势紧张，股市小幅波动，债券收益率持稳，市场观望情绪升温。油价上涨，黄金价格徘徊在历史高位附近。]]></description>
+      <description><![CDATA[中东局势紧张，市场进入观望状态，股市小幅波动，债券市场趋于稳定。油价上涨，黄金价格徘徊在历史高位附近。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-01/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Tue, 01 Oct 2024 22:39:40 GMT</pubDate>
     </item>
