@@ -4,7 +4,14 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Oct 2024 18:43:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 05:38:15 GMT</lastBuildDate>
+    <item>
+      <title>中国已做好战争准备</title>
+      <link>https://www.foreignaffairs.com/china/china-ready-war</link>
+      <description><![CDATA[但由于国防工业基础的崩溃，美国并未做到这一点。]]></description>
+      <guid>https://www.foreignaffairs.com/china/china-ready-war</guid>
+      <pubDate>Wed, 02 Oct 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国的复兴战略</title>
       <link>https://www.foreignaffairs.com/united-states/antony-blinken-americas-strategy-renewal-leadership-new-world</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 27 Sep 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>科技巨头的崛起</title>
+      <title>科技巨头的政变</title>
       <link>https://www.foreignaffairs.com/brazil/big-techs-coup</link>
       <description><![CDATA[公司如何从国家手中夺取权力——以及国家如何夺回权力。]]></description>
       <guid>https://www.foreignaffairs.com/brazil/big-techs-coup</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>民粹主义未能兑现经济承诺</title>
       <link>https://www.foreignaffairs.com/world/populisms-broken-economic-promises</link>
-      <description><![CDATA[拥有民粹主义领导人的国家则被抛在后面。]]></description>
+      <description><![CDATA[拥有民粹主义领导人的国家被抛在后面。]]></description>
       <guid>https://www.foreignaffairs.com/world/populisms-broken-economic-promises</guid>
       <pubDate>Thu, 26 Sep 2024 04:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[特朗普的胜利将给基辅带来危机——但不一定会失败。]]></description>
       <guid>https://www.foreignaffairs.com/ukraine/what-us-election-means-ukraine</guid>
       <pubDate>Wed, 25 Sep 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>金砖国家之争</title>
-      <link>https://www.foreignaffairs.com/russia/battle-brics</link>
-      <description><![CDATA[为什么欧盟的未来将影响全球秩序。]]></description>
-      <guid>https://www.foreignaffairs.com/russia/battle-brics</guid>
-      <pubDate>Tue, 24 Sep 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
