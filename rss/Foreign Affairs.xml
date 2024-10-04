@@ -4,7 +4,14 @@
     <title>FA RSS</title>
     <link>https://www.foreignaffairs.com/</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Oct 2024 02:13:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 05:10:58 GMT</lastBuildDate>
+    <item>
+      <title>以色列的失败悖论</title>
+      <link>https://www.foreignaffairs.com/middle-east/israel-paradox-defeat-aluf-benn</link>
+      <description><![CDATA[该国的军事成功正在导致政治失败。]]></description>
+      <guid>https://www.foreignaffairs.com/middle-east/israel-paradox-defeat-aluf-benn</guid>
+      <pubDate>Fri, 04 Oct 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>下一任总统与美国经济政策的权衡</title>
       <link>https://www.foreignaffairs.com/united-states/next-president-and-tradeoffs-us-economic-policy-michael-froman</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[为了结束战争并建立持久和平，这个国家必须重塑自己的民主。]]></description>
       <guid>https://www.foreignaffairs.com/israel/fight-new-israel</guid>
       <pubDate>Fri, 27 Sep 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技巨头的政变</title>
-      <link>https://www.foreignaffairs.com/brazil/big-techs-coup</link>
-      <description><![CDATA[公司如何从国家手中夺取权力——以及国家如何夺回权力。]]></description>
-      <guid>https://www.foreignaffairs.com/brazil/big-techs-coup</guid>
-      <pubDate>Thu, 26 Sep 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
