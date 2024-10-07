@@ -4,13 +4,27 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Mon, 07 Oct 2024 14:10:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 14:39:10 GMT</lastBuildDate>
     <item>
-      <title>埃里克·亚当斯的收费如何将焦点放在纽约市的配套资金计划上</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-07/how-mayor-eric-adams-charges-put-focus-on-nyc-matching-funds-program</link>
-      <description><![CDATA[9月，纽约市长埃里克·亚当斯（Eric Adams）因联邦腐败指控被起诉，这使得该市慷慨的竞选配套资金计划成为人们关注的焦点。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-07/how-mayor-eric-adams-charges-put-focus-on-nyc-matching-funds-program</guid>
-      <pubDate>Mon, 07 Oct 2024 13:52:05 GMT</pubDate>
+      <title>Elliott 收购 Citgo 为委内瑞拉投资者带来罕见回报</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-07/elliott-s-citgo-bid-sets-up-venezuela-investors-for-rare-payoff</link>
+      <description><![CDATA[委内瑞拉国有石油公司过去五年没有向债券持有人支付一分钱。然而，持有某只特定证券的投资者正准备获得巨额回报。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-07/elliott-s-citgo-bid-sets-up-venezuela-investors-for-rare-payoff</guid>
+      <pubDate>Mon, 07 Oct 2024 14:13:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>高盛认为随着市场扩大，IPO 门槛将有所降低</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-07/goldman-sachs-sees-high-bar-for-ipos-easing-as-market-broadens</link>
+      <description><![CDATA[高盛集团全球股权资本市场主管表示，股市上涨的势头已不仅限于少数几只股票，这为更多首次公开募股 (IPO) 创造了空间。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-07/goldman-sachs-sees-high-bar-for-ipos-easing-as-market-broadens</guid>
+      <pubDate>Mon, 07 Oct 2024 14:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>俄罗斯部长呼吁农民祈祷，因为降雨持续不足</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-07/russian-minister-asks-farmers-to-pray-as-lack-of-rain-persists</link>
+      <description><![CDATA[俄罗斯农业部长奥克萨娜·卢特呼吁人们去教堂祈雨，因为持续缺乏降水使冬小麦的播种面临风险。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-07/russian-minister-asks-farmers-to-pray-as-lack-of-rain-persists</guid>
+      <pubDate>Mon, 07 Oct 2024 13:52:25 GMT</pubDate>
     </item>
     <item>
       <title>林德纳称德国不能满足于当前的经济路径</title>
@@ -127,20 +141,6 @@
       <pubDate>Mon, 07 Oct 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>私人信贷公司在违约激增的情况下筹集巴西困境基金</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-07/private-credit-firm-raises-brazil-distressed-fund-as-defaults-surge</link>
-      <description><![CDATA[总部位于里约热内卢的专门从事信贷业务的 Root Capital 正在巴西推出一只不良债务基金，因为巴西的破产保护申请数量达到了历史新高。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-07/private-credit-firm-raises-brazil-distressed-fund-as-defaults-surge</guid>
-      <pubDate>Mon, 07 Oct 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kimmeridge 称页岩成本飙升推动交易达成</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-07/soaring-shale-costs-boost-case-for-deal-making-kimmeridge-says</link>
-      <description><![CDATA[Kimmeridge 能源管理公司表示，美国页岩油行业需要进一步整合，以应对勘探和开采未开发石油储备的成本飙升。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-07/soaring-shale-costs-boost-case-for-deal-making-kimmeridge-says</guid>
-      <pubDate>Mon, 07 Oct 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>萨尔瓦多债券因 ESG 债务互换削减成本计划而上涨</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-07/el-salvador-seeks-to-cut-borrowing-costs-with-esg-debt-swap</link>
       <description><![CDATA[萨尔瓦多披露通过债务置换和促进可持续发展来降低借贷成本的计划后，该国债券价格上涨。]]></description>
@@ -192,7 +192,7 @@
     <item>
       <title>交易员减少对美联储降息的押注，股市下跌：市场综述</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-06/asian-stocks-eye-early-gains-after-us-jobs-report-markets-wrap</link>
-      <description><![CDATA[交易员削减对美联储降息的押注，导致股市下跌，美国 10 年期国债收益率超过 4%。市场在等待以色列是否会对上周的导弹袭击进行报复，油价上涨。]]></description>
+      <description><![CDATA[交易员削减对美联储降息的押注，导致股市下跌，美国 10 年期国债收益率超过 4%。市场在等待以色列是否会对上周伊朗的导弹袭击进行报复，油价上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-06/asian-stocks-eye-early-gains-after-us-jobs-report-markets-wrap</guid>
       <pubDate>Sun, 06 Oct 2024 22:37:16 GMT</pubDate>
     </item>
@@ -204,7 +204,7 @@
       <pubDate>Sun, 06 Oct 2024 22:31:17 GMT</pubDate>
     </item>
     <item>
-      <title>力拓拟以 33 亿美元收购 Arcadium Litium 公司</title>
+      <title>力拓拟收购锂生产商 Arcadium</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-06/rio-tinto-confirms-it-s-made-an-approach-to-buy-arcadium-lithium-m1y5cwtw</link>
       <description><![CDATA[双方周一表示，力拓集团 (Rio Tinto Group) 已对 Arcadium Lithium Plc 发出收购要约，确认了这一最新收购提议。目前，该行业正将注意力重新转向增长，各大矿业公司都在竞相增加对能源过渡金属的投资。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-06/rio-tinto-confirms-it-s-made-an-approach-to-buy-arcadium-lithium-m1y5cwtw</guid>
