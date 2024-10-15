@@ -4,13 +4,20 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Tue, 15 Oct 2024 08:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 08:41:25 GMT</lastBuildDate>
     <item>
       <title>美国银行称欧洲央行将采取“更常规的降息阶段”</title>
       <link>https://www.bloomberg.com/news/videos/2024-10-15/ecb-set-to-adopt-more-regular-phase-of-cuts-bofa-says-video</link>
       <description><![CDATA[美国银行利率策略师斯菲亚·萨利姆 (Sphia Salim) 讨论了欧洲央行 10 月 17 日决定的预期，她表示政策制定者似乎愿意接受“更常规的”降息阶段。萨利姆在彭博电视台表示：“通胀给我们发出了更明确的信号，表明我们有望在中期内实现 2% 的目标。”她补充道：“除此之外，现在还增加了经济增长方面的风险，这些风险显然是下行的。”（来源：彭博）]]></description>
       <guid>https://www.bloomberg.com/news/videos/2024-10-15/ecb-set-to-adopt-more-regular-phase-of-cuts-bofa-says-video</guid>
       <pubDate>Tue, 15 Oct 2024 08:01:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>富国生命预计日本央行加息将使日本国债收益率接近目标</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-15/fukoku-life-sees-boj-hikes-bringing-jgb-yields-toward-targets</link>
+      <description><![CDATA[富国相互生命保险公司预计日本央行在3月底前将加息多达两次，并计划在适当的条件下投资日本超长期政府债券。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-15/fukoku-life-sees-boj-hikes-bringing-jgb-yields-toward-targets</guid>
+      <pubDate>Tue, 15 Oct 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
       <title>长期石油前景似乎如此悲观：3 分钟 MLIV</title>
@@ -45,9 +52,9 @@
       <pubDate>Tue, 15 Oct 2024 07:18:14 GMT</pubDate>
     </item>
     <item>
-      <title>Finma 称瑞银将修改收购后的应急计划</title>
+      <title>Finma 表示瑞银必须修改收购后的应急计划</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-15/ubs-must-revise-emergency-plans-after-takeover-finma-says</link>
-      <description><![CDATA[金融监管机构瑞士联邦金融市场监管局 (Finma) 表示，瑞银集团必须修改其应急计划，并确保在危机中能够安全关闭，同时考虑到瑞信的整合。]]></description>
+      <description><![CDATA[瑞士金融监管机构 Finma 表示，瑞银集团必须修改其紧急恢复和处置计划，以考虑到瑞信的整合。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-15/ubs-must-revise-emergency-plans-after-takeover-finma-says</guid>
       <pubDate>Tue, 15 Oct 2024 07:14:45 GMT</pubDate>
     </item>
@@ -61,7 +68,7 @@
     <item>
       <title>铜价跌至三周低点，因市场对中国局势再度担忧</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-15/copper-slides-to-three-week-low-on-fresh-jitters-over-china</link>
-      <description><![CDATA[由于市场对政府的促增长举措对需求究竟能有多大影响存疑，基本金属也跟随中国风险资产遭遇抛售。]]></description>
+      <description><![CDATA[由于市场对政府的促增长举措对需求究竟有多大影响存疑，基本金属也跟随中国风险资产遭遇抛售。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-15/copper-slides-to-three-week-low-on-fresh-jitters-over-china</guid>
       <pubDate>Tue, 15 Oct 2024 07:09:46 GMT</pubDate>
     </item>
@@ -117,7 +124,7 @@
     <item>
       <title>随着退出步伐加快，荷兰银行将进一步减持股份</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-15/the-netherlands-plans-to-cut-its-abn-amro-stake-to-about-30</link>
-      <description><![CDATA[荷兰政府计划进一步减持荷兰银行（ABN Amro Bank NV）的持股，加入欧洲各国的行列，加快退出金融危机后接受救助的银行。]]></description>
+      <description><![CDATA[荷兰政府计划出售更多荷兰银行 (ABN Amro Bank NV) 股份，加入欧洲各国的行列，加快退出金融危机后接受救助的银行。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-15/the-netherlands-plans-to-cut-its-abn-amro-stake-to-about-30</guid>
       <pubDate>Tue, 15 Oct 2024 06:13:09 GMT</pubDate>
     </item>
@@ -201,16 +208,9 @@
     <item>
       <title>报道称以色列不会针对伊朗原油，油价延续跌势</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-14/oil-drops-at-open-on-report-israel-won-t-attack-iranian-crude</link>
-      <description><![CDATA[有报道称以色列可能不会瞄准伊朗的原油基础设施，缓解了人们对供应严重中断的担忧，油价连续第三个交易日下跌。]]></description>
+      <description><![CDATA[有报道称以色列可能不会瞄准伊朗的原油基础设施，缓解了人们对重大供应中断的担忧，油价连续第三个交易日下跌。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-14/oil-drops-at-open-on-report-israel-won-t-attack-iranian-crude</guid>
       <pubDate>Mon, 14 Oct 2024 22:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>意大利计划通过税率和减税措施向企业减税 40 亿欧元</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-14/italy-targets-4-billion-from-firms-via-tax-rates-deductions</link>
-      <description><![CDATA[据了解意大利预算计划的人士透露，意大利政府计划通过调整部分税收门槛和取消某些税收减免，向企业减免 40 亿欧元（合 44 亿美元）。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-14/italy-targets-4-billion-from-firms-via-tax-rates-deductions</guid>
-      <pubDate>Mon, 14 Oct 2024 18:30:43 GMT</pubDate>
     </item>
     <item>
       <title>东京地铁首次公开募股 (IPO) 价格创 2018 年以来日本最大交易</title>
