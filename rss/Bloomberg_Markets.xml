@@ -4,7 +4,7 @@
     <title>彭博市场</title>
     <link>https://bloomberg.com/markets/</link>
     <description>彭博市场</description>
-    <lastBuildDate>Fri, 18 Oct 2024 15:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 16:13:09 GMT</lastBuildDate>
     <item>
       <title>Fifth Third 首席执行官谈第三季度业绩和“不平衡”的美国经济</title>
       <link>https://www.bloomberg.com/news/videos/2024-10-18/fifth-third-ceo-on-q3-earnings-uneven-us-economy</link>
@@ -146,20 +146,6 @@
       <pubDate>Fri, 18 Oct 2024 13:21:17 GMT</pubDate>
     </item>
     <item>
-      <title>太阳能微电网可为尼日利亚供电</title>
-      <link>https://www.bloomberg.com/news/videos/2024-10-18/solar-mini-grids-could-help-power-nigeria-video</link>
-      <description><![CDATA[洛克菲勒基金会和贝索斯地球基金支持的全球气候组织正在尼日利亚试行太阳能微电网项目，该项目可能为非洲人口最多的国家解决电力供应不稳定、生产力下降的问题。大卫·威斯汀在《华尔街周刊》报道。（来源：彭博社）]]></description>
-      <guid>https://www.bloomberg.com/news/videos/2024-10-18/solar-mini-grids-could-help-power-nigeria-video</guid>
-      <pubDate>Fri, 18 Oct 2024 13:09:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>国药控股收购中国中药的要约因未获得监管部门批准而失败</title>
-      <link>https://www.bloomberg.com/news/articles/2024-10-18/sinopharm-s-china-tcm-buyout-bid-lapses-without-regulatory-nods</link>
-      <description><![CDATA[中国医药集团公司将中国中药控股公司私有化的最新尝试因未能获得中国监管机构的必要监管批准而失败。]]></description>
-      <guid>https://www.bloomberg.com/news/articles/2024-10-18/sinopharm-s-china-tcm-buyout-bid-lapses-without-regulatory-nods</guid>
-      <pubDate>Fri, 18 Oct 2024 13:08:41 GMT</pubDate>
-    </item>
-    <item>
       <title>斯里兰卡银行警告称，谨慎的石油勘探活动已导致支出增长放缓</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-18/slb-warns-cautious-oil-explorers-have-slowed-growth-in-spending</link>
       <description><![CDATA[全球最大的油田服务提供商 SLB 警告称，由于原油价格下跌，石油勘探商采取了谨慎态度，其支出增长近几个月有所放缓。]]></description>
@@ -174,11 +160,18 @@
       <pubDate>Fri, 18 Oct 2024 09:23:52 GMT</pubDate>
     </item>
     <item>
-      <title>投资者权衡中国经济提振和企业盈利，欧洲股市持稳</title>
+      <title>中国经济提振抵消疲弱盈利影响，欧洲股市领涨</title>
       <link>https://www.bloomberg.com/news/articles/2024-10-18/european-stocks-little-changed-as-earnings-misses-fan-jitters</link>
-      <description><![CDATA[欧洲股市几乎没有变化，因为投资者对中国提振市场的举措持乐观态度，而一些企业盈利报告却表现平淡。]]></description>
+      <description><![CDATA[尽管一些企业盈利报告表现平淡，但中国刺激市场的举措仍引发乐观情绪，推动欧洲股市上涨。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-18/european-stocks-little-changed-as-earnings-misses-fan-jitters</guid>
       <pubDate>Fri, 18 Oct 2024 07:11:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲央行行长维勒鲁瓦寻求在降息速度和幅度上保持灵活性</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-18/ecb-s-muller-still-sees-inflation-risks-around-services-wages</link>
+      <description><![CDATA[欧洲央行管理委员会委员弗朗索瓦·维勒鲁瓦·德加洛表示，欧洲央行在降低利率以应对通胀降温和经济疲软时应保持灵活性。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-18/ecb-s-muller-still-sees-inflation-risks-around-services-wages</guid>
+      <pubDate>Fri, 18 Oct 2024 06:14:08 GMT</pubDate>
     </item>
     <item>
       <title>瑞典 Intrum 计划在美国申请破产保护</title>
@@ -214,6 +207,13 @@
       <description><![CDATA[华尔街交易员仔细研究了一系列公司业绩，推动股市在 2024 年间创下了最长的周涨幅。]]></description>
       <guid>https://www.bloomberg.com/news/articles/2024-10-17/stock-market-today-dow-s-p-live-updates</guid>
       <pubDate>Thu, 17 Oct 2024 22:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kaiko 称，DeFi 中的虚假交易仍然“普遍存在”</title>
+      <link>https://www.bloomberg.com/news/articles/2024-10-17/wash-trading-by-defi-issuers-remains-widespread-kaiko-says</link>
+      <description><![CDATA[上周，在联邦检察官精心策划的诱捕行动之后，加密货币推广者和交易员的被捕提醒人们，用于抬高价格的虚假交易仍然是数字资产世界中挥之不去的问题。]]></description>
+      <guid>https://www.bloomberg.com/news/articles/2024-10-17/wash-trading-by-defi-issuers-remains-widespread-kaiko-says</guid>
+      <pubDate>Thu, 17 Oct 2024 18:49:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
