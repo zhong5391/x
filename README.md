@@ -12,5 +12,5 @@
 
 ## 已转换翻译源
  - source001 [https://feeds.bloomberg.com/markets/news.rss](https://feeds.bloomberg.com/markets/news.rss) -> [Bloomberg_Markets](rss/Bloomberg_Markets.xml)
- - source002 [https://rsshub.app/reuters/business](https://rsshub.app/reuters/business) -> [Reuters_Business_News](rss/Reuters_Business_News.xml)
- - source003 [https://rsshub.app/reuters/world/china](https://rsshub.app/reuters/world/china) -> [Reuters_China_News](rss/Reuters_China_News.xml)
+ - source002 [https://rsshub.app/reuters/business](https://rsshub.app/reuters/business) -> [Reuters_Business](rss/Reuters_Business.xml)
+ - source003 [https://rsshub.app/reuters/world/china](https://rsshub.app/reuters/world/china) -> [Reuters_China](rss/Reuters_China.xml)
